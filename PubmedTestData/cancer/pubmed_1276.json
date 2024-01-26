@@ -1,0 +1,202 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "cancer genomics",
+      "chemotherapy",
+      "evolution",
+      "mathematical modeling",
+      "simulations"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25277973",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "04",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "10",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1073/pnas.1404341111"
+    ],
+    "Journal": {
+      "ISSN": "1091-6490",
+      "JournalIssue": {
+        "Volume": "111",
+        "Issue": "42",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Oct",
+          "Day": "21"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "Tug-of-war between driver and passenger mutations in cancer and other adaptive processes.",
+    "Pagination": {
+      "StartPage": "15138",
+      "EndPage": "15143",
+      "MedlinePgn": "15138-43"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer progression is an example of a rapid adaptive process where evolving new traits is essential for survival and requires a high mutation rate. Precancerous cells acquire a few key mutations that drive rapid population growth and carcinogenesis. Cancer genomics demonstrates that these few driver mutations occur alongside thousands of random passenger mutations--a natural consequence of cancer's elevated mutation rate. Some passengers are deleterious to cancer cells, yet have been largely ignored in cancer research. In population genetics, however, the accumulation of mildly deleterious mutations has been shown to cause population meltdown. Here we develop a stochastic population model where beneficial drivers engage in a tug-of-war with frequent mildly deleterious passengers. These passengers present a barrier to cancer progression describable by a critical population size, below which most lesions fail to progress, and a critical mutation rate, above which cancers melt down. We find support for this model in cancer age-incidence and cancer genomics data that also allow us to estimate the fitness advantage of drivers and fitness costs of passengers. We identify two regimes of adaptive evolutionary dynamics and use these regimes to understand successes and failures of different treatment strategies. A tumor's load of deleterious passengers can explain previously paradoxical treatment outcomes and suggest that it could potentially serve as a biomarker of response to mutagenic therapies. The collective deleterious effect of passengers is currently an unexploited therapeutic target. We discuss how their effects might be exacerbated by current and future therapies."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate Program in Biophysics, Harvard University, Boston, MA 02115;"
+          }
+        ],
+        "LastName": "McFarland",
+        "ForeName": "Christopher D",
+        "Initials": "CD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate Program in Biophysics, Harvard University, Boston, MA 02115; Department of Physics and Institute for Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge, MA 02139; and leonid@mit.edu korolev@bu.edu."
+          }
+        ],
+        "LastName": "Mirny",
+        "ForeName": "Leonid A",
+        "Initials": "LA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics and Department of Physics and Program in Bioinformatics, Boston University, Boston, MA 02215 leonid@mit.edu korolev@bu.edu."
+          }
+        ],
+        "LastName": "Korolev",
+        "ForeName": "Kirill S",
+        "Initials": "KS"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U54 CA143874",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54CA143874",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetics, Population"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation Rate"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplastic Processes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

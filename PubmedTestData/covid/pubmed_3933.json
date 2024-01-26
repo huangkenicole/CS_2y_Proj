@@ -1,0 +1,277 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "CRISPR-dCas9 and dCas9",
+      "SARS-CoV-2 variants",
+      "biotin labelling",
+      "lateral flow assay",
+      "nucleic acid detection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34939798",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acssynbio.1c00499"
+    ],
+    "Journal": {
+      "ISSN": "2161-5063",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "21"
+        }
+      },
+      "Title": "ACS synthetic biology",
+      "ISOAbbreviation": "ACS Synth Biol"
+    },
+    "ArticleTitle": "Bio-SCAN: A CRISPR/dCas9-Based Lateral Flow Assay for Rapid, Specific, and Sensitive Detection of SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "406",
+      "EndPage": "419",
+      "MedlinePgn": "406-419"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Simple, rapid, specific, and sensitive point-of-care detection methods are needed to contain the spread of SARS-CoV-2. CRISPR/Cas9-based lateral flow assays are emerging as a powerful alternative for COVID-19 diagnostics. Here, we developed Bio-SCAN (biotin-coupled specific CRISPR-based assay for nucleic acid detection) as an accurate pathogen detection platform that requires no sophisticated equipment or technical expertise. Bio-SCAN detects the SARS-CoV-2 genome in less than 1 h from sample collection to result. In the first step, the target nucleic acid sequence is isothermally amplified in 15 min via recombinase polymerase amplification before being precisely detected by biotin-labeled nuclease-dead SpCas9 (dCas9) on commercially available lateral flow strips. The resulting readout is visible to the naked eye. Compared to other CRISPR-Cas-based pathogen detection assays, Bio-SCAN requires no additional reporters, probes, enhancers, reagents, or sophisticated devices to interpret the results. Bio-SCAN is highly sensitive and successfully detected a clinically relevant level (4 copies/\u03bcL) of synthetic SARS-CoV-2 RNA genome. Similarly, Bio-SCAN showed 100% negative and 96% positive predictive agreement with RT-qPCR results when using clinical samples (86 nasopharyngeal swab samples). Furthermore, incorporating variant-specific sgRNAs in the detection reaction allowed Bio-SCAN to efficiently distinguish between the \u03b1, \u03b2, and \u03b4 SARS-CoV-2 variants. Also, our results confirmed that the Bio-SCAN reagents have a long shelf life and can be assembled locally in nonlaboratory and limited-resource settings. Furthermore, the Bio-SCAN platform is compatible with the nucleic acid quick extraction protocol. Our results highlight the potential of Bio-SCAN as a promising point-of-care diagnostic platform that can facilitate low-cost mass screening for SARS-CoV-2."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Ali",
+        "ForeName": "Zahir",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "S\u00e1nchez",
+        "ForeName": "Edith",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of DNA Replication and Recombination, Biological and Environmental Sciences and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Tehseen",
+        "ForeName": "Muhammad",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Mahas",
+        "ForeName": "Ahmed",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Marsic",
+        "ForeName": "Tin",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Aman",
+        "ForeName": "Rashid",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Sivakrishna Rao",
+        "ForeName": "Gundra",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infection and Immunity, King Faisal Specialist Hospital and Research Center, Riyadh 11211, Saudi Arabia."
+          }
+        ],
+        "LastName": "Alhamlan",
+        "ForeName": "Fatimah Saeed",
+        "Initials": "FS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infection and Immunity, King Faisal Specialist Hospital and Research Center, Riyadh 11211, Saudi Arabia."
+          }
+        ],
+        "LastName": "Alsanea",
+        "ForeName": "Madain S",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infection and Immunity, King Faisal Specialist Hospital and Research Center, Riyadh 11211, Saudi Arabia."
+          }
+        ],
+        "LastName": "Al-Qahtani",
+        "ForeName": "Ahmed A",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5192-1852"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of DNA Replication and Recombination, Biological and Environmental Sciences and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Hamdan",
+        "ForeName": "Samir",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0616-6365"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Mahfouz",
+        "ForeName": "Magdy",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "ACS Synth Biol",
+    "NlmUniqueID": "101575075",
+    "ISSNLinking": "2161-5063"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CRISPR-Cas Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Point-of-Care Systems"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

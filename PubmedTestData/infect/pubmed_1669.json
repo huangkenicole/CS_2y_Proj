@@ -1,0 +1,120 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "11395048",
+  "DateCompleted": {
+    "Year": "2001",
+    "Month": "07",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "10",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0025-5564",
+      "JournalIssue": {
+        "Volume": "171",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2001",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Mathematical biosciences",
+      "ISOAbbreviation": "Math Biosci"
+    },
+    "ArticleTitle": "Models for transmission of disease with immigration of infectives.",
+    "Pagination": {
+      "StartPage": "143",
+      "EndPage": "154",
+      "MedlinePgn": "143-54"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Simple models for disease transmission that include immigration of infective individuals and variable population size are constructed and analyzed. A model with a general contact rate for a disease that confers no immunity admits a unique endemic equilibrium that is globally stable. A model with mass action incidence for a disease in which infectives either die or recover with permanent immunity has the same qualitative behavior. This latter result is proved by reducing the system to an integro-differential equation. If mass action incidence is replaced by a general contact rate, then the same result is proved locally for a disease that causes fatalities. Threshold-like results are given, but in the presence of immigration of infectives there is no disease-free equilibrium. A considerable reduction of infectives is suggested by the incorporation of screening and quarantining of infectives in a model for HIV transmission in a prison system."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of British Columbia, Vancouver, BC, Canada V6T 1Z2. brauer@math.ubc.ca"
+          }
+        ],
+        "LastName": "Brauer",
+        "ForeName": "F",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "van den Driessche",
+        "ForeName": "P",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci",
+    "NlmUniqueID": "0103146",
+    "ISSNLinking": "0025-5564"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Transmission, Infectious"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Emigration and Immigration"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prisons"
+    }
+  ]
+}

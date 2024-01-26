@@ -1,0 +1,219 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "graph-based algorithms",
+      "integrative methods",
+      "single-cell multi-omics sequencing",
+      "single-cell sequencing",
+      "variational inference"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34111889",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab229",
+      "10.1093/bib/bbab229"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Single-cell multi-omics sequencing: application trends, COVID-19, data analysis issues and prospects.",
+    "Abstract": {
+      "AbstractText": [
+        "Single-cell sequencing is a biotechnology to sequence one layer of genomic information for individual cells in a tissue sample. For example, single-cell DNA sequencing is to sequence the DNA from every single cell. Increasing in complexity, single-cell multi-omics sequencing, or single-cell multimodal omics sequencing, is to profile in parallel multiple layers of omics information from a single cell. In practice, single-cell multi-omics sequencing actually detects multiple traits such as DNA, RNA, methylation information and/or protein profiles from the same cell for many individuals in a tissue sample. Multi-omics sequencing has been widely applied to systematically unravel interplay mechanisms of key components and pathways in cell. This survey overviews recent developments in single-cell multi-omics sequencing, and their applications to understand complex diseases in particular the COVID-19 pandemic. We also summarize machine learning and bioinformatics techniques used in the analysis of the intercorrelated multilayer heterogeneous data. We observed that variational inference and graph-based learning are popular approaches, and Seurat V3 is a commonly used tool to transfer the missing variables and labels. We also discussed two intensively studied issues relating to data consistency and diversity and commented on currently cared issues surrounding the error correction of data pairs and data imputation methods. The survey is concluded with some open questions and opportunities for this extraordinary field."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science Institute, University of Technology Sydney, Ultimo, NSW 2007, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science, FEIT, University of Technology Sydney, Ultimo, NSW 2007, Australia."
+          }
+        ],
+        "LastName": "Huo",
+        "ForeName": "Lu",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, FEIT, University of Technology Sydney, Ultimo, NSW 2007, Australia."
+          }
+        ],
+        "LastName": "Jiao Li",
+        "ForeName": "Jiao",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science, FEIT, University of Technology Sydney, Ultimo, NSW 2007, Australia."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Ling",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Intelligent Computing and Information Processing of Ministry of Education, Hunan Key Laboratory for Computation and Simulation in Science and Engineering, Xiangtan University, Hunan, 411105, P.R. China."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Zuguo",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, FEIT, University of Technology Sydney, Ultimo, NSW 2007, Australia."
+          }
+        ],
+        "LastName": "Hutvagner",
+        "ForeName": "Gyorgy",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science Institute, University of Technology Sydney, Ultimo, NSW 2007, Australia."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Jinyan",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "DP180100120",
+        "Agency": "Australia Research Council Discovery Project",
+        "Country": ""
+      },
+      {
+        "GrantID": "GNT1120249",
+        "Agency": "National Health and Medical Research Council",
+        "Country": ""
+      },
+      {
+        "GrantID": "11871061",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteomics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Single-Cell Analysis"
+    }
+  ]
+}

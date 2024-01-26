@@ -1,0 +1,175 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Anxiety analysis",
+      "Behaviour classification",
+      "Compulsive behaviour",
+      "Obsessive compulsive disorder",
+      "SURF"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29728248",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "10",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "10",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "03",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cmpb.2018.03.019",
+      "S0169-2607(17)30873-8"
+    ],
+    "Journal": {
+      "ISSN": "1872-7565",
+      "JournalIssue": {
+        "Volume": "160",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "Determining Anxiety in Obsessive Compulsive Disorder through Behavioural Clustering and Variations in Repetition Intensity.",
+    "Pagination": {
+      "StartPage": "65",
+      "EndPage": "74",
+      "MedlinePgn": "65-74"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Over the last decade, the application of computer vision techniques to the analysis of behavioural patterns has seen a considerable increase in research interest. One such interesting and recent application is the visual behavioural analysis of mental disorders. Despite the very recent surge in interest in this area, relatively little has been done thus far to assist individuals living with Obsessive Compulsive Disorder. The work proposed herein represents a proof of concept system designed to demonstrate the efficacy of such an approach, from the computational perspective. The specific focus of this work lies in demonstrating a mechanism for clustering different kinds of Obsessive Compulsive Disorder behaviours and then comparing new behaviours to existing behaviours to determine the approximate level of anxiety represented by a compulsive behaviour.",
+        "The proposed system uses Temporal Motion Heat Maps, SURF descriptors, a visual bag of words model and SVM-based classification to categorise representations of various behaviours commonly seen in OCD. Moreover, we apply a set of statistical measures to the images in a given category in order to derive an approximate anxiety level for a given compulsive behaviour. This proof of concept is an essential step in the direction of integrating computational approaches into the treatment of psychiatric conditions such as Obsessive Compulsive Disorder, for more effective recovery.",
+        "Results gleaned from experimental simulations indicate that the proposed system is capable of correctly classifying different types of simulated Obsessive Compulsive Disorder behaviour classes 75% of the time, with the misclassifications almost exclusively occurring when two behavioural clusters appear highly similar. Based on this information the proposed system is then able to assign an approximate behavioural anxiety level to the compulsive behaviours that meets the approval of a mental health professional.",
+        "The proposed system demonstrates a good ability to categorise various types of simulated OCD behaviour, in addition to establishing an approximate anxiety level for a given compulsive behaviour. This research demonstrates strong potential for the use of such systems in assisting mental health professionals looking to better understand their patients' condition and treatment progress across time."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2018 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Information Technology, RMIT University, Melbourne, Victoria, Australia. Electronic address: conor_cameron@student.rmit.edu.au."
+          }
+        ],
+        "LastName": "Cameron",
+        "ForeName": "Conor",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Information Technology, RMIT University, Melbourne, Victoria, Australia."
+          }
+        ],
+        "LastName": "Khalil",
+        "ForeName": "Ibrahim",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, The University of Melbourne, Australia."
+          }
+        ],
+        "LastName": "Castle",
+        "ForeName": "David",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Behavior Observation Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Psychological"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Obsessive-Compulsive Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Video Recording"
+    }
+  ]
+}

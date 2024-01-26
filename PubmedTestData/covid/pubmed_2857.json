@@ -1,0 +1,169 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Infectious disease outbreak",
+      "Infodemiology",
+      "Social distancing",
+      "Social media"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33065264",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "10",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jbi.2020.103601",
+      "S1532-0464(20)30229-X"
+    ],
+    "Journal": {
+      "ISSN": "1532-0480",
+      "JournalIssue": {
+        "Volume": "111",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Journal of biomedical informatics",
+      "ISOAbbreviation": "J Biomed Inform"
+    },
+    "ArticleTitle": "Defining facets of social distancing during the COVID-19 pandemic: Twitter analysis.",
+    "Pagination": {
+      "StartPage": "103601",
+      "MedlinePgn": "103601"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Using Twitter, we aim to (1) define and quantify the prevalence and evolution of facets of social distancing during the COVID-19 pandemic in the US in a spatiotemporal context and (2) examine amplified tweets among social distancing facets.",
+        "We analyzed English and US-based tweets containing \"coronavirus\" between January 23-March 24, 2020 using the Twitter API. Tweets containing keywords were grouped into six social distancing facets: implementation, purpose, social disruption, adaptation, positive emotions, and negative emotions.",
+        "A total of 259,529 unique tweets were included in the analyses. Social distancing tweets became more prevalent from late January to March but were not geographically uniform. Early facets of social distancing appeared in Los Angeles, San Francisco, and Seattle: the first cities impacted by the COVID-19 outbreak. Tweets related to the \"implementation\" and \"negative emotions\" facets largely dominated in combination with topics of \"social disruption\" and \"adaptation\", albeit to lesser degree. Social disruptiveness tweets were most retweeted, and implementation tweets were most favorited.",
+        "Social distancing can be defined by facets that respond to and represent certain events in a pandemic, including travel restrictions and rising case counts. For example, Miami had a low volume of social distancing tweets but grew in March corresponding with the rise of COVID-19 cases.",
+        "The evolution of social distancing facets on Twitter reflects actual events and may signal potential disease hotspots. Our facets can also be used to understand public discourse on social distancing which may inform future public health measures."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Kwon",
+        "ForeName": "Jiye",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chronic Disease Epidemiology, Yale School of Public Health, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Grady",
+        "ForeName": "Connor",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, Yale School of Public Health, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Feliciano",
+        "ForeName": "Josemari T",
+        "Initials": "JT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, Yale School of Public Health, New Haven, CT, USA; Department of Emergency Medicine, Yale School of Medicine, New Haven, CT, USA. Electronic address: samah.fodeh@yale.edu."
+          }
+        ],
+        "LastName": "Fodeh",
+        "ForeName": "Samah J",
+        "Initials": "SJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "UL1 TR001863",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Biomed Inform",
+    "NlmUniqueID": "100970413",
+    "ISSNLinking": "1532-0464"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Social Media"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

@@ -1,0 +1,258 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "Bioinformatics",
+      "RNAseq"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33907739",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "100478",
+      "10.1016/j.xpro.2021.100478"
+    ],
+    "Journal": {
+      "ISSN": "2666-1667",
+      "JournalIssue": {
+        "Volume": "2",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "18"
+        }
+      },
+      "Title": "STAR protocols",
+      "ISOAbbreviation": "STAR Protoc"
+    },
+    "ArticleTitle": "Analysis workflow of publicly available RNA-sequencing datasets.",
+    "Pagination": {
+      "StartPage": "100478",
+      "MedlinePgn": "100478"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Differential gene expression analysis is widely used to study changes in gene expression profiles between two or more groups of samples (e.g., physiological versus pathological conditions, pre-treatment versus post-treatment, and infected versus non-infected tissues). This protocol aims to identify gene expression changes in a pre-selected set of genes associated with severe acute respiratory syndrome coronavirus 2 viral infection and host cell antiviral response, as well as subsequent gene expression association with phenotypic features using samples deposited in public repositories. For complete details on the use and outcome of this informatics analysis, please refer to Bizzotto et\u00a0al. (2020)."
+      ],
+      "CopyrightInformation": "\u00a9 2021 The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Qu\u00edmica Biol\u00f3gica, Buenos Aires C1428EGA, Argentina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CONICET - Universidad de Buenos Aires, Instituto de Qu\u00edmica Biol\u00f3gica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina."
+          }
+        ],
+        "LastName": "Sanchis",
+        "ForeName": "Pablo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Qu\u00edmica Biol\u00f3gica, Buenos Aires C1428EGA, Argentina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CONICET - Universidad de Buenos Aires, Instituto de Qu\u00edmica Biol\u00f3gica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina."
+          }
+        ],
+        "LastName": "Lavignolle",
+        "ForeName": "Rosario",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Qu\u00edmica Biol\u00f3gica, Buenos Aires C1428EGA, Argentina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CONICET - Universidad de Buenos Aires, Instituto de Qu\u00edmica Biol\u00f3gica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina."
+          }
+        ],
+        "LastName": "Abbate",
+        "ForeName": "Mercedes",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Qu\u00edmica Biol\u00f3gica, Buenos Aires C1428EGA, Argentina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CONICET - Universidad de Buenos Aires, Instituto de Qu\u00edmica Biol\u00f3gica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina."
+          }
+        ],
+        "LastName": "Lage-Vickers",
+        "ForeName": "Sof\u00eda",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Qu\u00edmica Biol\u00f3gica, Buenos Aires C1428EGA, Argentina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CONICET - Universidad de Buenos Aires, Instituto de Qu\u00edmica Biol\u00f3gica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina."
+          }
+        ],
+        "LastName": "Vazquez",
+        "ForeName": "Elba",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Qu\u00edmica Biol\u00f3gica, Buenos Aires C1428EGA, Argentina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CONICET - Universidad de Buenos Aires, Instituto de Qu\u00edmica Biol\u00f3gica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina."
+          }
+        ],
+        "LastName": "Cotignola",
+        "ForeName": "Javier",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Qu\u00edmica Biol\u00f3gica, Buenos Aires C1428EGA, Argentina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CONICET - Universidad de Buenos Aires, Instituto de Qu\u00edmica Biol\u00f3gica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina."
+          }
+        ],
+        "LastName": "Bizzotto",
+        "ForeName": "Juan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Qu\u00edmica Biol\u00f3gica, Buenos Aires C1428EGA, Argentina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CONICET - Universidad de Buenos Aires, Instituto de Qu\u00edmica Biol\u00f3gica de la Facultad de Ciencias Exactas y Naturales (IQUIBICEN), Buenos Aires C1428EGA, Argentina."
+          }
+        ],
+        "LastName": "Gueron",
+        "ForeName": "Geraldine",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "STAR Protoc",
+    "NlmUniqueID": "101769501",
+    "ISSNLinking": "2666-1667"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "analysis",
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Sequence Analysis, RNA"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exome Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Workflow"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

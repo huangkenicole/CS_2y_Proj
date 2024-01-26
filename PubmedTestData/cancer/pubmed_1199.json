@@ -1,0 +1,191 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31380773",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "07",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2019.2931997"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "May"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "Inferring Gene Regulatory Networks of Metabolic Enzymes Using Gradient Boosted Trees.",
+    "Pagination": {
+      "StartPage": "1528",
+      "EndPage": "1536",
+      "MedlinePgn": "1528-1536"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Metabolic reprogramming is a hallmark of cancer. In cancer cells, transcription factors (TFs) govern metabolic reprogramming through abnormally increasing or decreasing the transcription rate of metabolic enzymes, which provides cancer cells growth advantages and concurrently leads to the altered metabolic phenotypes observed in many cancers. Consequently, targeting TFs that govern metabolic reprogramming can be highly effective for novel cancer therapeutics. In this paper, we present TFmeta, a machine learning approach to uncover TFs that govern reprogramming of cancer metabolism. Our approach achieves the state-of-the-art performance in reconstructing relations between TFs and their target genes on public benchmark datasets. Leveraging TF binding profiles inferred from genome-wide ChIP-seq experiments and 150 RNA-seq samples from 75 paired cancerous and non-cancerous human lung tissues, our approach predicted 19 key TFs that may be the major regulators of the gene expression changes of metabolic enzymes of the central metabolic pathway glycolysis, which may underlie the dysregulation of glycolysis in non-small-cell lung cancer patients."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhang",
+        "ForeName": "Yi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhang",
+        "ForeName": "Xiaofei",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lane",
+        "ForeName": "Andrew N",
+        "Initials": "AN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fan",
+        "ForeName": "Teresa W-M",
+        "Initials": "TW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Liu",
+        "ForeName": "Jinze",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P01 CA163223",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA177558",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U24 DK097215",
+        "Acronym": "DK",
+        "Agency": "NIDDK NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Enzymes"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Transcription Factors"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Enzymes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "enzymology",
+        "genetics",
+        "metabolism",
+        "physiopathology"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Transcription Factors"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

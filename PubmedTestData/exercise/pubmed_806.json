@@ -1,0 +1,120 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37941207",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/ICORR58425.2023.10304716"
+    ],
+    "Journal": {
+      "ISSN": "1945-7901",
+      "JournalIssue": {
+        "Volume": "2023",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep"
+        }
+      },
+      "Title": "IEEE ... International Conference on Rehabilitation Robotics : [proceedings]",
+      "ISOAbbreviation": "IEEE Int Conf Rehabil Robot"
+    },
+    "ArticleTitle": "Automated Patient-Robot Task Assignment in a Simulated Stochastic Rehabilitation Gym.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "6",
+      "MedlinePgn": "1-6"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Rehabilitation after neurological injury can be provided by robots that help patients perform different exercises. Multiple such robots can be combined in a rehabilitation robot gym to allow multiple patients to perform a diverse range of exercises simultaneously. In pursuit of better multipatient supervision, we aim to develop an automated assignment system that assigns patients to different robots during a training session to maximize their skill development. Our previous work was designed for simplified simulated environments where each patient's skill development is known beforehand. The current work improves upon that work by changing the deterministic environment into a stochastic environment where part of the skill development is random and the assignment system must estimate each patient's predicted skill development using a neural network based on the patient's previous training success rate with that robot. These skill development estimates are used to create patient-robot assignments on a timestep-by-timestep basis to maximize the skill development of the patient group. Results from simplified simulation trials show that the schedules produced by our assignment system outperform multiple baseline schedules (e.g., schedules where patients never switch robots and schedules where patients only switch robots once halfway through the session). Additionally, we discuss how some of our simplifications could be addressed in the future."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Miller",
+        "ForeName": "Benjamin A",
+        "Initials": "BA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Adhikari",
+        "ForeName": "Bikranta",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Jiang",
+        "ForeName": "Chao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Novak",
+        "ForeName": "Vesna D",
+        "Initials": "VD"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Int Conf Rehabil Robot",
+    "NlmUniqueID": "101260913",
+    "ISSNLinking": "1945-7898"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Robotics"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    }
+  ]
+}

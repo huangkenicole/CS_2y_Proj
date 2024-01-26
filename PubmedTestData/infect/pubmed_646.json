@@ -1,0 +1,188 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "22693646",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "10",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2012",
+        "Month": "06",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e38549",
+      "10.1371/journal.pone.0038549"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2012"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Spontaneous clearance of viral infections by mesoscopic fluctuations.",
+    "Pagination": {
+      "StartPage": "e38549",
+      "MedlinePgn": "e38549"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Spontaneous disease extinction can occur due to a rare stochastic fluctuation. We explore this process, both numerically and theoretically, in two minimal models of stochastic viral infection dynamics. We propose a method that reduces the complexity in models of viral infections so that the remaining dynamics can be studied by previously developed techniques for analyzing epidemiological models. Using this technique, we obtain an expression for the infection clearance time as a function of kinetic parameters. We apply our theoretical results to study stochastic infection clearance for specific stages of HIV and HCV dynamics. Our results show that the typical time for stochastic clearance of a viral infection increases exponentially with the size of the population, but infection still can be cleared spontaneously within a reasonable time interval in a certain population of cells. We also show that the clearance time is exponentially sensitive to the viral decay rate and viral infectivity but only linearly dependent on the lifetime of an infected cell. This suggests that if standard drug therapy fails to clear an infection then intensifying therapy by adding a drug that reduces the rate of cell infection rather than immune modulators that hasten infected cell death may be more useful in ultimately clearing remaining pockets of infection."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Theoretical Division, Los Alamos National Laboratory, Los Alamos, New Mexico, United States of America. c.srabanti@gmail.com"
+          }
+        ],
+        "LastName": "Chaudhury",
+        "ForeName": "Srabanti",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Perelson",
+        "ForeName": "Alan S",
+        "Initials": "AS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sinitstyn",
+        "ForeName": "Nikolai A",
+        "Initials": "NA"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 OD011095",
+        "Acronym": "OD",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R37 AI028433",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R37-AI028433",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI028433",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 RR006555",
+        "Acronym": "RR",
+        "Agency": "NCRR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P20 RR018754",
+        "Acronym": "RR",
+        "Agency": "NCRR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P20-RR018754",
+        "Acronym": "RR",
+        "Agency": "NCRR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01-RR006555",
+        "Acronym": "RR",
+        "Agency": "NCRR NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "HIV-1"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Hepacivirus"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Hepatitis C"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viral Load"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests: </b>The authors have declared that no competing interests exist."
+}

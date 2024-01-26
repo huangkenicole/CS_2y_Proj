@@ -1,0 +1,147 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "20957511",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "08",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2010",
+        "Month": "10",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10916-010-9611-z"
+    ],
+    "Journal": {
+      "ISSN": "0148-5598",
+      "JournalIssue": {
+        "Volume": "36",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2012",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Journal of medical systems",
+      "ISOAbbreviation": "J Med Syst"
+    },
+    "ArticleTitle": "Thermography based breast cancer detection using texture features and Support Vector Machine.",
+    "Pagination": {
+      "StartPage": "1503",
+      "EndPage": "1510",
+      "MedlinePgn": "1503-10"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Breast cancer is a leading cause of death nowadays in women throughout the world. In developed countries, it is the most common type of cancer in women, and it is the second or third most common malignancy in developing countries. The cancer incidence is gradually increasing and remains a significant public health concern. The limitations of mammography as a screening and diagnostic modality, especially in young women with dense breasts, necessitated the development of novel and more effective strategies with high sensitivity and specificity. Thermal imaging (thermography) is a noninvasive imaging procedure used to record the thermal patterns using Infrared (IR) camera. The aim of this study is to evaluate the feasibility of using thermal imaging as a potential tool for detecting breast cancer. In this work, we have used 50 IR breast images (25 normal and 25 cancerous) collected from Singapore General Hospital, Singapore. Texture features were extracted from co-occurrence matrix and run length matrix. Subsequently, these features were fed to the Support Vector Machine (SVM) classifier for automatic classification of normal and malignant breast conditions. Our proposed system gave an accuracy of 88.10%, sensitivity and specificity of 85.71% and 90.48% respectively."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics and Computer Engineering, Ngee Ann Polytechnic, Singapore."
+          }
+        ],
+        "LastName": "Acharya",
+        "ForeName": "U Rajendra",
+        "Initials": "UR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ng",
+        "ForeName": "E Y K",
+        "Initials": "EY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tan",
+        "ForeName": "Jen-Hong",
+        "Initials": "JH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sree",
+        "ForeName": "S Vinitha",
+        "Initials": "SV"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Med Syst",
+    "NlmUniqueID": "7806056",
+    "ISSNLinking": "0148-5598"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Interpretation, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "instrumentation"
+      ],
+      "DescriptorName": "Thermography"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Decision-level fusion",
+      "Electroencephalography",
+      "Feature-level fusion",
+      "Graph-level fusion",
+      "Node2vec"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35390744",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "04",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2022.105420",
+      "S0010-4825(22)00212-8"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "145",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Graphical representation learning-based approach for automatic classification of electroencephalogram signals in depression.",
+    "Pagination": {
+      "StartPage": "105420",
+      "MedlinePgn": "105420"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Depression is a major depressive disorder characterized by persistent sadness and a sense of worthlessness, as well as a loss of interest in pleasurable activities, which leads to a variety of physical and emotional problems. It is a worldwide illness that affects millions of people and should be detected at an early stage to prevent negative effects on an individual's life. Electroencephalogram (EEG) is a non-invasive technique for detecting depression that analyses brain signals to determine the current mental state of depressed subjects. In this study, we propose a method for automatic feature extraction to detect depression by first constructing a graph from the dataset where the nodes represent the subjects in the dataset and where the edge weights obtained using the Euclidean distance reflect the relationship between them. The Node2vec algorithmic framework is then used to compute feature representations for nodes in a graph in the form of node embeddings ensuring that similar nodes in the graph remain near in the embedding. These node embeddings act as useful features which can be directly used by classification algorithms to determine whether a subject is depressed thus reducing the effort required for manual handcrafted feature extraction. To combine the features collected from the multiple channels of the EEG data, the method proposes three types of fusion methods: graph-level fusion, feature-level fusion, and decision-level fusion. The proposed method is tested on three publicly available datasets with 3, 20, and 128 channels, respectively, and compared to five state-of-the-art methods. The results show that the proposed method detects depression effectively with a peak accuracy of 0.933 in decision-level fusion, which is the highest among the state-of-the-art methods."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur, 482005, India."
+          }
+        ],
+        "LastName": "Soni",
+        "ForeName": "Surbhi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur, 482005, India. Electronic address: ayan@iiitdmj.ac.in."
+          }
+        ],
+        "LastName": "Seal",
+        "ForeName": "Ayan",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, OsloMet - Oslo Metropolitan University, Oslo, Norway; Department of Plastic and Reconstructive Surgery, Oslo University Hospital, Oslo, Norway; Department of Computer Science, Norwegian University of Science and Technology, Trondheim, Norway."
+          }
+        ],
+        "LastName": "Yazidi",
+        "ForeName": "Anis",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Basic and Applied Research, Faculty of Informatics and Management, University of Hradec Kralove, Hradecka 1249, Hradec Kralove, 50003, Czech Republic; Malaysia Japan International Institute of Technology, Universiti Teknologi Malaysia, Jalan Sultan Yahya Petra, 54100, Kuala Lumpur, Malaysia."
+          }
+        ],
+        "LastName": "Krejcar",
+        "ForeName": "Ondrej",
+        "Initials": "O"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Brain-Computer Interfaces"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electroencephalography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    }
+  ]
+}

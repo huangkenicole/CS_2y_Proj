@@ -1,0 +1,220 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29088260",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "11",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "10",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0187108",
+      "10.1371/journal.pone.0187108"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2017"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Dedicated cardiac rehabilitation wearable sensor and its clinical potential.",
+    "Pagination": {
+      "StartPage": "e0187108",
+      "MedlinePgn": "e0187108"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We describe a wearable sensor developed for cardiac rehabilitation (CR) exercise. To effectively guide CR exercise, the dedicated CR wearable sensor (DCRW) automatically recommends the exercise intensity to the patient by comparing heart rate (HR) measured in real time with a predefined target heart rate zone (THZ) during exercise. The CR exercise includes three periods: pre-exercise, exercise with intensity guidance, and post-exercise. In the pre-exercise period, information such as THZ, exercise type, exercise stage order, and duration of each stage are set up through a smartphone application we developed for iPhones and Android devices. The set-up information is transmitted to the DCRW via Bluetooth communication. In the period of exercise with intensity guidance, the DCRW continuously estimates HR using a reflected pulse signal in the wrist. To achieve accurate HR measurements, we used multichannel photo sensors and increased the chances of acquiring a clean signal. Subsequently, we used singular value decomposition (SVD) for de-noising. For the median and variance of RMSEs in the measured HRs, our proposed method with DCRW provided lower values than those from a single channel-based method and template-based multiple-channel method for the entire exercise stage. In the post-exercise period, the DCRW transmits all the measured HR data to the smartphone application via Bluetooth communication, and the patient can monitor his/her own exercise history."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Wonkwang University College of Medicine, Iksan, Republic of Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Hooseok",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Wonkwang University College of Medicine, Iksan, Republic of Korea."
+          }
+        ],
+        "LastName": "Chung",
+        "ForeName": "Heewon",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Wonkwang University College of Medicine, Iksan, Republic of Korea."
+          }
+        ],
+        "LastName": "Ko",
+        "ForeName": "Hoon",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Wonkwang University College of Medicine, Iksan, Republic of Korea."
+          }
+        ],
+        "LastName": "Jeong",
+        "ForeName": "Changwon",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Rehabilitation Medicine, Wonkwang University Colledge of Medicine, Iksan, Republic of Korea."
+          }
+        ],
+        "LastName": "Noh",
+        "ForeName": "Se-Eung",
+        "Initials": "SE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Rehabilitation Medicine, Sanggye Paik Hospital, Inje University Medical College, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Chul",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8580-490X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Wonkwang University College of Medicine, Iksan, Republic of Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Jinseok",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cardiac Rehabilitation"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Heart"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Heart Rate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "instrumentation"
+      ],
+      "DescriptorName": "Monitoring, Physiologic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pilot Projects"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Smartphone"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests: </b>The authors have declared that no competing interests exist."
+}

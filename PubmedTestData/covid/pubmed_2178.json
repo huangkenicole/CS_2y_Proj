@@ -1,0 +1,410 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Nanopore sequencing",
+      "RNA pairing",
+      "SARS-CoV-2",
+      "biogenesis",
+      "coronavirus",
+      "sgRNA",
+      "subgenome",
+      "template switch"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33713597",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.molcel.2021.02.036",
+      "S1097-2765(21)00166-0"
+    ],
+    "Journal": {
+      "ISSN": "1097-4164",
+      "JournalIssue": {
+        "Volume": "81",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "20"
+        }
+      },
+      "Title": "Molecular cell",
+      "ISOAbbreviation": "Mol Cell"
+    },
+    "ArticleTitle": "The SARS-CoV-2 subgenome landscape and its novel regulatory features.",
+    "Pagination": {
+      "StartPage": "2135",
+      "EndPage": "2147.e5",
+      "MedlinePgn": "2135-2147.e5"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is currently a global pandemic. CoVs are known to generate negative subgenomes (subgenomic RNAs [sgRNAs]) through transcription-regulating sequence (TRS)-dependent template switching, but the global dynamic landscapes of coronaviral subgenomes and regulatory rules remain unclear. Here, using next-generation sequencing (NGS) short-read and Nanopore long-read poly(A) RNA sequencing in two cell types at multiple time points after infection with SARS-CoV-2, we identified hundreds of template switches and constructed the dynamic landscapes of SARS-CoV-2 subgenomes. Interestingly, template switching could occur in a bidirectional manner, with diverse SARS-CoV-2 subgenomes generated from successive template-switching events. The majority of template switches result from RNA-RNA interactions, including seed and compensatory modes, with terminal pairing status as a key determinant. Two TRS-independent template switch modes are also responsible for subgenome biogenesis. Our findings reveal the subgenome landscape of SARS-CoV-2 and its regulatory features, providing a molecular basis for understanding subgenome biogenesis and developing novel anti-viral strategies."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China; Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Dehe",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Ao",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Feng",
+        "ForeName": "Jiangpeng",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China; Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Guangnan",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Dong",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Sajid",
+        "ForeName": "Muhammad",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China; Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Kai",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Qiuhan",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CNRS UMR 7161 LIX, Ecole Polytechnique, Institut Polytechnique de Paris, Paris, France."
+          }
+        ],
+        "LastName": "Ponty",
+        "ForeName": "Yann",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CNRS UMR 7161 LIX, Ecole Polytechnique, Institut Polytechnique de Paris, Paris, France."
+          }
+        ],
+        "LastName": "Will",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China; Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Feiyan",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China; Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Xinghai",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China; Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Shaopeng",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Qianyun",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Xing-Lou",
+        "Initials": "XL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Ming",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China; Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Xingqiao",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Mingzhou",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, China."
+          }
+        ],
+        "LastName": "Shi",
+        "ForeName": "Zheng-Li",
+        "Initials": "ZL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China; Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan, China. Electronic address: klan@whu.edu.cn."
+          }
+        ],
+        "LastName": "Lan",
+        "ForeName": "Ke",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China. Electronic address: chenyu@whu.edu.cn."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Yu",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Virology, Modern Virology Research Center, College of Life Sciences, Wuhan University, Wuhan, China; Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan, China. Electronic address: yu.zhou@whu.edu.cn."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Yu",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Mol Cell",
+    "NlmUniqueID": "9802571",
+    "ISSNLinking": "1097-2765"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Caco-2 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chlorocebus aethiops"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vero Cells"
+    }
+  ],
+  "CoiStatement": "Declaration of interests The authors declare no competing interests."
+}

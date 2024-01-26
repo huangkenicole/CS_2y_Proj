@@ -1,0 +1,351 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37000033",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "03",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acs.analchem.2c04630"
+    ],
+    "Journal": {
+      "ISSN": "1520-6882",
+      "JournalIssue": {
+        "Volume": "95",
+        "Issue": "14",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Apr",
+          "Day": "11"
+        }
+      },
+      "Title": "Analytical chemistry",
+      "ISOAbbreviation": "Anal Chem"
+    },
+    "ArticleTitle": "Genotyping SARS-CoV-2 Variants Using Ratiometric Nucleic Acid Barcode Panels.",
+    "Pagination": {
+      "StartPage": "5877",
+      "EndPage": "5885",
+      "MedlinePgn": "5877-5885"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Designing diagnostic assays to genotype rapidly mutating viruses remains a challenge despite the overall improvements in nucleic acid detection technologies. RT-PCR and next-generation sequencing are unsuitable for genotyping during outbreaks or in point-of-care detection due to their infrastructure requirements and longer turnaround times. We developed a quantum dot barcode multiplexing system to genotype mutated viruses. We designed multiple quantum dot barcodes to target conserved, wildtype, and mutated regions of SARS-CoV-2. We calculated ratios of the signal output from different barcodes that enabled SARS-CoV-2 detection and identified SARS-CoV-2 variant strains from a sample. We detected different sequence types, including conserved genes, nucleotide deletions, and single nucleotide substitutions. Our system detected SARS-CoV-2 patient specimens with 98% sensitivity and 94% specificity across 91 patient samples. Further, we leveraged our barcoding and ratio system to track the emergence of the N501Y SARS-CoV-2 mutation from December 2020 to May 2021 and demonstrated that the more transmissible N501Y mutation started to dominate infections by April 2021. Our barcoding and signal ratio approach can genotype viruses and track the emergence of viral mutations in a single diagnostic test. This technology can be extended to tracking other viruses. Combined with smartphone detection technologies, this assay can be adapted for point-of-care tracking of viral mutations in real time."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, Toronto, 164 College Street, Toronto, Ontario M5S 3G9, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, Ontario M5S 3E1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MD/PhD Program, Temerty Faculty of Medicine, University of Toronto, 1 King's College Circle, Toronto, Ontario M5S 1A8, Canada."
+          }
+        ],
+        "LastName": "Kozlowski",
+        "ForeName": "Hannah N",
+        "Initials": "HN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, Toronto, 164 College Street, Toronto, Ontario M5S 3G9, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, Ontario M5S 3E1, Canada."
+          }
+        ],
+        "LastName": "Malekjahani",
+        "ForeName": "Ayden",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, Toronto, 164 College Street, Toronto, Ontario M5S 3G9, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, Ontario M5S 3E1, Canada."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Vanessa Y C",
+        "Initials": "VYC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, Toronto, 164 College Street, Toronto, Ontario M5S 3G9, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, Ontario M5S 3E1, Canada."
+          }
+        ],
+        "LastName": "Lekuti",
+        "ForeName": "Ayokunle A",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Ontario, Toronto, Ontario M5G 1V2, Canada."
+          }
+        ],
+        "LastName": "Perusini",
+        "ForeName": "Stephen",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario M5S 1A1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Medicine, University of Toronto, Toronto, Ontario M5S 1A1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biological Sciences, Sunnybrook Research Institute, Toronto, Ontario M4N 3M5, Canada."
+          }
+        ],
+        "LastName": "Bell",
+        "ForeName": "Natalie G",
+        "Initials": "NG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, Ontario M5S 3E1, Canada."
+          }
+        ],
+        "LastName": "Voisin",
+        "ForeName": "Veronique",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, Ontario M5S 3E1, Canada."
+          }
+        ],
+        "LastName": "Pouyabahar",
+        "ForeName": "Delaram",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, Ontario M5S 3E1, Canada."
+          }
+        ],
+        "LastName": "Pai",
+        "ForeName": "Shraddha",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, Ontario M5S 3E1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Genetics, University of Toronto, Toronto, Ontario M5S 3E1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Toronto, Toronto, Ontario M5S 3E1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario M5G 2C1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, Ontario M5G 1X5, Canada."
+          }
+        ],
+        "LastName": "Bader",
+        "ForeName": "Gary D",
+        "Initials": "GD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario M5S 1A1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biological Sciences, Sunnybrook Research Institute, Toronto, Ontario M4N 3M5, Canada."
+          }
+        ],
+        "LastName": "Mubareka",
+        "ForeName": "Samira",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario M5S 1A1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Ontario, Toronto, Ontario M5G 1V2, Canada."
+          }
+        ],
+        "LastName": "Gubbay",
+        "ForeName": "Jonathan B",
+        "Initials": "JB"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5435-4785"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, Toronto, 164 College Street, Toronto, Ontario M5S 3G9, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Terrence Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, Ontario M5S 3E1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering, University of Toronto, 200 College Street, Toronto, Ontario M5S 3E5, Canada."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Warren C W",
+        "Initials": "WCW"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "FDN-159932",
+        "Agency": "CIHR",
+        "Country": "Canada"
+      },
+      {
+        "GrantID": "MOP-130143",
+        "Agency": "CIHR",
+        "Country": "Canada"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Anal Chem",
+    "NlmUniqueID": "0370536",
+    "ISSNLinking": "0003-2700"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Nucleic Acids"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Nucleotides"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acids"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genotype"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleotides"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    }
+  ]
+}

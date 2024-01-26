@@ -1,0 +1,169 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19 database",
+      "SARS-CoV-2",
+      "data categorization",
+      "function utilization",
+      "integrative analysis method",
+      "multiple queries"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36992400",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "03",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "692",
+      "10.3390/v15030692"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Mar",
+          "Day": "06"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Systematic Guidelines for Effective Utilization of COVID-19 Databases in Genomic, Epidemiologic, and Clinical Research.",
+    "Abstract": {
+      "AbstractText": [
+        "The pandemic has led to the production and accumulation of various types of data related to coronavirus disease 2019 (COVID-19). To understand the features and characteristics of COVID-19 data, we summarized representative databases and determined the data types, purpose, and utilization details of each database. In addition, we categorized COVID-19 associated databases into epidemiological data, genome and protein data, and drug and target data. We found that the data present in each of these databases have nine separate purposes (clade/variant/lineage, genome browser, protein structure, epidemiological data, visualization, data analysis tool, treatment, literature, and immunity) according to the types of data. Utilizing the databases we investigated, we created four queries as integrative analysis methods that aimed to answer important scientific questions related to COVID-19. Our queries can make effective use of multiple databases to produce valuable results that can reveal novel findings through comprehensive analysis. This allows clinical researchers, epidemiologists, and clinicians to have easy access to COVID-19 data without requiring expert knowledge in computing or data science. We expect that users will be able to reference our examples to construct their own integrative analysis methods, which will act as a basis for further scientific inquiry and data searching."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Informatics, College of Medicine, Catholic University of Korea, 222 Banpo-daero, Seocho-gu, Seoul 06591, Republic of Korea."
+          }
+        ],
+        "LastName": "Seong",
+        "ForeName": "Do Young",
+        "Initials": "DY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Informatics, College of Medicine, Catholic University of Korea, 222 Banpo-daero, Seocho-gu, Seoul 06591, Republic of Korea."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Jongkeun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate School of Medical Science and Engineering, Korea Advanced Institute and Technology (KAIST), Daejeon 34141, Republic of Korea."
+          }
+        ],
+        "LastName": "Yi",
+        "ForeName": "Kijong",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7816-1299"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Informatics, College of Medicine, Catholic University of Korea, 222 Banpo-daero, Seocho-gu, Seoul 06591, Republic of Korea."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Precision Medicine Research Center, College of Medicine, Catholic University of Korea, 222 Banpo-daero, Seocho-gu, Seoul 06591, Republic of Korea."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Evolution Research Center, College of Medicine, Catholic University of Korea, 222 Banpo-daero, Seocho-gu, Seoul 06591, Republic of Korea."
+          }
+        ],
+        "LastName": "Hong",
+        "ForeName": "Dongwan",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

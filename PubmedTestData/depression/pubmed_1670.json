@@ -1,0 +1,139 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38083138",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC40787.2023.10340985"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2023",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Noise Robust Recognition of Depression Status and Treatment Response from Speech via Unsupervised Feature Aggregation.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "4",
+      "MedlinePgn": "1-4"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In the presented work, we utilise a noisy dataset of clinical interviews with depression patients conducted over the telephone for the purpose of depression classification and automated detection of treatment response. Compared to most previous studies dealing with depression recognition from speech, our data set does not include a healthy group of subjects that have never been diagnosed with depression. Furthermore, it contains measurements at different time points for individual subjects, making it suitable for machine learning-based detection of treatment response. In our experiments, we make use of an unsupervised feature quantisation and aggregation method achieving 69.2% Unweighted Average Recall (UAR) when classifying whether patients are currently in remission or experiencing a major depressive episode (MDE). The performance of our model matches cutoff-based classification via Hamilton Rating Scale for Depression (HRSD) scores. Finally, we show that using speech samples, we can detect response to treatment with a UAR of 68.1%."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gerczuk",
+        "ForeName": "Maurice",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Amiriparian",
+        "ForeName": "Shahin",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kathan",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bauer",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Berking",
+        "ForeName": "Matthias",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Schuller",
+        "ForeName": "Bjorn W",
+        "Initials": "BW"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Speech"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Recognition, Psychology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Health Status"
+    }
+  ]
+}

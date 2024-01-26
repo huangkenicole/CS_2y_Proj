@@ -1,0 +1,218 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35196320",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "02",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1009807",
+      "10.1371/journal.pcbi.1009807"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Feb"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Bayesian data assimilation for estimating instantaneous reproduction numbers during epidemics: Applications to COVID-19.",
+    "Pagination": {
+      "StartPage": "e1009807",
+      "MedlinePgn": "e1009807"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Estimating the changes of epidemiological parameters, such as instantaneous reproduction number, Rt, is important for understanding the transmission dynamics of infectious diseases. Current estimates of time-varying epidemiological parameters often face problems such as lagging observations, averaging inference, and improper quantification of uncertainties. To address these problems, we propose a Bayesian data assimilation framework for time-varying parameter estimation. Specifically, this framework is applied to estimate the instantaneous reproduction number Rt during emerging epidemics, resulting in the state-of-the-art 'DARt' system. With DARt, time misalignment caused by lagging observations is tackled by incorporating observation delays into the joint inference of infections and Rt; the drawback of averaging is overcome by instantaneously updating upon new observations and developing a model selection mechanism that captures abrupt changes; the uncertainty is quantified and reduced by employing Bayesian smoothing. We validate the performance of DARt and demonstrate its power in describing the transmission dynamics of COVID-19. The proposed approach provides a promising solution for making accurate and timely estimation for transmission dynamics based on reported data."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1496-8923"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Hong Kong Baptist University, Hong Kong Special Administrative Region, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science Institute, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Xian",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2947-8783"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science Institute, Imperial College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Medical Research Center, School of Basic Medical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shanghai Key Laboratory of Medical Image Computing and Computer Assisted Intervention, Shanghai, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Shuo",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science Institute, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Xing",
+        "ForeName": "Yuting",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4026-0216"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computing, University of Kent, Kent, United Kingdom."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Ling",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2080-4762"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Engineering and Information Technology, University of Technology Sydney, Sydney, Australia."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Richard Yi Da",
+        "Initials": "RYD"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7984-8909"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Neurology, University College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Friston",
+        "ForeName": "Karl J",
+        "Initials": "KJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3075-2161"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Hong Kong Baptist University, Hong Kong Special Administrative Region, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science Institute, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Yike",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Basic Reproduction Number"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

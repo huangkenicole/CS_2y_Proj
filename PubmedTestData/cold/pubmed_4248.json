@@ -1,0 +1,175 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19205074",
+  "DateCompleted": {
+    "Year": "2009",
+    "Month": "09",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2015",
+    "Month": "11",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/sim.3550"
+    ],
+    "Journal": {
+      "ISSN": "1097-0258",
+      "JournalIssue": {
+        "Volume": "28",
+        "Issue": "14",
+        "PubDate": {
+          "Year": "2009",
+          "Month": "Jun",
+          "Day": "30"
+        }
+      },
+      "Title": "Statistics in medicine",
+      "ISOAbbreviation": "Stat Med"
+    },
+    "ArticleTitle": "Multivariate modelling of responses to conditional items: New possibilities for latent class analysis.",
+    "Pagination": {
+      "StartPage": "1927",
+      "EndPage": "1939",
+      "MedlinePgn": "1927-39"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Questionnaire data may contain missing values because certain questions do not apply to all respondents. For instance, questions addressing particular attributes of a symptom, such as frequency, triggers or seasonality, are only applicable to those who have experienced the symptom, while for those who have not, responses to these items will be missing. This missing information does not fall into the category 'missing by design', rather the features of interest do not exist and cannot be measured regardless of survey design. Analysis of responses to such conditional items is therefore typically restricted to the subpopulation in which they apply. This article is concerned with joint multivariate modelling of responses to both unconditional and conditional items without restricting the analysis to this subpopulation. Such an approach is of interest when the distributions of both types of responses are thought to be determined by common parameters affecting the whole population. By integrating the conditional item structure into the model, inference can be based both on unconditional data from the entire population and on conditional data from subjects for whom they exist. This approach opens new possibilities for multivariate analysis of such data. We apply this approach to latent class modelling and provide an example using data on respiratory symptoms (wheeze and cough) in children. Conditional data structures such as that considered here are common in medical research settings and, although our focus is on latent class models, the approach can be applied to other multivariate models."
+      ],
+      "CopyrightInformation": "Copyright (c) 2009 John Wiley & Sons, Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Social and Preventive Medicine, University of Bern, Finkenhubelweg 11, Bern, Switzerland. bspycher@ispm.unibe.ch"
+          }
+        ],
+        "LastName": "Spycher",
+        "ForeName": "B D",
+        "Initials": "BD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Minder",
+        "ForeName": "C E",
+        "Initials": "CE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kuehni",
+        "ForeName": "C E",
+        "Initials": "CE"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Stat Med",
+    "NlmUniqueID": "8215016",
+    "ISSNLinking": "0277-6715"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Classification"
+    },
+    {
+      "QualifierName": [
+        "complications"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "etiology"
+      ],
+      "DescriptorName": "Cough"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Interpretation, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Effect Modifier, Epidemiologic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Likelihood Functions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Multivariate Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phenotype"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "etiology"
+      ],
+      "DescriptorName": "Respiratory Sounds"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Skin Tests"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Surveys and Questionnaires"
+    }
+  ]
+}

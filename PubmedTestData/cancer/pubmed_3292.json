@@ -1,0 +1,313 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31487683",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "08",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "08",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.6004/jnccn.2019.7296",
+      "jnccn18202"
+    ],
+    "Journal": {
+      "ISSN": "1540-1413",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Sep",
+          "Day": "01"
+        }
+      },
+      "Title": "Journal of the National Comprehensive Cancer Network : JNCCN",
+      "ISOAbbreviation": "J Natl Compr Canc Netw"
+    },
+    "ArticleTitle": "Comparing the Association Between Insurance and Mortality in Ovarian, Pancreatic, Lung, Colorectal, Prostate, and Breast Cancers.",
+    "Pagination": {
+      "StartPage": "1049",
+      "EndPage": "1058",
+      "MedlinePgn": "1049-1058"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Insurance coverage is associated with better cancer outcomes; however, the relative importance of insurance coverage may differ between cancers. This study compared the association between insurance coverage at diagnosis and cancer-specific mortality (CSM; insurance sensitivity) in 6 cancers.",
+        "Using the SEER cancer registry, data were abstracted for individuals diagnosed with ovarian, pancreatic, lung, colorectal, prostate, or breast cancer in 2007 through 2010. The association between insurance coverage at diagnosis and CSM was modeled using a Fine and Gray competing-risks regression adjusted for demographics. An interaction term combining insurance status and cancer type was used to test whether insurance sensitivity differed between cancers. Separate models were fit for each cancer. To control for lead-time bias and to assess whether insurance sensitivity may be mediated by earlier diagnosis and treatment, additional models were fit adjusting for disease stage and treatment.",
+        "Lack of insurance was associated with an increased hazard of CSM in all cancers (P<.01). The magnitude of the effect differed significantly between cancers (Pinteraction=.04), ranging from an adjusted hazard ratio of 1.13 (95% CI, 1.01-1.28) in ovarian and 1.19 (95% CI, 1.11-1.29) in pancreatic cancer to 2.19 (95% CI, 2.02-2.37) in breast and 2.98 (95% CI, 2.54-3.49) in prostate cancer. The benefit of insurance was attenuated after adjusting for stage and treatment (eg, screening/early treatment effect), with the largest reductions in prostate, breast, and colorectal cancers.",
+        "Greater insurance sensitivity was seen in screening-detected malignancies with effective treatments for early-stage disease (eg, prostate, breast, and colorectal cancers). Given that this differential is significantly reduced after adjusting for stage and treatment, our results suggest that a significant portion (but not all) of the benefit of insurance coverage is due to detection and treatment of certain curable early-stage cancers."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Urological Surgery, and."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "LastName": "Cole",
+        "ForeName": "Alexander P",
+        "Initials": "AP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Urological Surgery, and."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Chang",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Urology, Frankfurt University Hospital, Frankfurt, Germany; and."
+          }
+        ],
+        "LastName": "Krimphove",
+        "ForeName": "Marieke J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Urological Surgery, and."
+          }
+        ],
+        "LastName": "Szymaniak",
+        "ForeName": "Julie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lank Center for Genitourinary Oncology, Dana-Farber/Brigham and Women's Cancer Center, Harvard Medical School."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Maxine",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Urological Surgery, and."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "LastName": "Fletcher",
+        "ForeName": "Sean A",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of General Internal Medicine, Brigham and Women's Hospital."
+          }
+        ],
+        "LastName": "Lipsitz",
+        "ForeName": "Stuart R",
+        "Initials": "SR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Oncology, Dana-Farber/Brigham and Women's Cancer Center, Harvard Medical School, and."
+          }
+        ],
+        "LastName": "Mahal",
+        "ForeName": "Brandon A",
+        "Initials": "BA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Oncology, Dana-Farber/Brigham and Women's Cancer Center, Harvard Medical School, and."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Paul L",
+        "Initials": "PL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lank Center for Genitourinary Oncology, Dana-Farber/Brigham and Women's Cancer Center, Harvard Medical School."
+          }
+        ],
+        "LastName": "Choueiri",
+        "ForeName": "Toni K",
+        "Initials": "TK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Urological Surgery, and."
+          }
+        ],
+        "LastName": "Kibel",
+        "ForeName": "Adam S",
+        "Initials": "AS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "LastName": "Haider",
+        "ForeName": "Adil H",
+        "Initials": "AH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Urological Surgery, and."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Surgery and Public Health, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "LastName": "Trinh",
+        "ForeName": "Quoc-Dien",
+        "Initials": "QD"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Natl Compr Canc Netw",
+    "NlmUniqueID": "101162515",
+    "ISSNLinking": "1540-1405"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Colorectal Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Insurance Coverage"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Insurance, Health"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mortality"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "mortality"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Public Health Surveillance"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "SEER Program"
+    }
+  ]
+}

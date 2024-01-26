@@ -1,0 +1,168 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "20640032",
+  "DateCompleted": {
+    "Year": "2011",
+    "Month": "06",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.epidem.2010.02.001"
+    ],
+    "Journal": {
+      "ISSN": "1878-0067",
+      "JournalIssue": {
+        "Volume": "2",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2010",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Epidemics",
+      "ISOAbbreviation": "Epidemics"
+    },
+    "ArticleTitle": "Spread of E. coli O157 infection among Scottish cattle farms: stochastic models and model selection.",
+    "Pagination": {
+      "StartPage": "11",
+      "EndPage": "20",
+      "MedlinePgn": "11-20"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Identifying risk factors for the presence of Escherichia coli O157 infection on cattle farms is important for understanding the epidemiology of this zoonotic infection in its main reservoir and for informing the design of interventions to reduce the public health risk. Here, we use data from a large-scale field study carried out in Scotland to fit both \"SIS\"-type dynamical models and statistical risk factor models. By comparing the fit (assessed using maximum likelihood) of different dynamical models we are able to identify the most parsimonious model (using the AIC statistic) and compare it with the model suggested by risk factor analysis. Both approaches identify 2 key risk factors: the movement of cattle onto the farm and the number of cattle on the farm. There was no evidence for a role of other livestock species or seasonality, or of significant risk of local spread. However, the most parsimonious dynamical model does predict that farms can infect other farms through routes other than cattle movement, and that there is a nonlinear relationship between the force of infection and the number of infected farms. An important prediction from the most parsimonious model is that although only approximately 20% farms may harbour E. coli O157 infection at any given time approximately 80% may harbour infection at some point during the course of a year."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases, University of Edinburgh, Kings Buildings, West Mains Road, Edinburgh EH9 3JT, UK. xu-sheng.zhang@hpa.org.uk"
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Xu-Sheng",
+        "Initials": "XS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chase-Topping",
+        "ForeName": "Margo E",
+        "Initials": "ME"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "McKendrick",
+        "ForeName": "Iain J",
+        "Initials": "IJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Savill",
+        "ForeName": "Nicholas J",
+        "Initials": "NJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Woolhouse",
+        "ForeName": "Mark E J",
+        "Initials": "ME"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Epidemics",
+    "NlmUniqueID": "101484711",
+    "ISSNLinking": "1878-0067"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cattle"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "microbiology",
+        "transmission"
+      ],
+      "DescriptorName": "Cattle Diseases"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "microbiology",
+        "transmission",
+        "veterinary"
+      ],
+      "DescriptorName": "Escherichia coli Infections"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Escherichia coli O157"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Scotland"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Space-Time Clustering"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    }
+  ]
+}

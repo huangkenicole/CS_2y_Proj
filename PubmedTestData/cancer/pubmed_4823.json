@@ -1,0 +1,218 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "breast cancer",
+      "computer-aided drug design",
+      "estrogen receptor",
+      "virtual screening"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32545494",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "06",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4193",
+      "10.3390/ijms21124193"
+    ],
+    "Journal": {
+      "ISSN": "1422-0067",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Jun",
+          "Day": "12"
+        }
+      },
+      "Title": "International journal of molecular sciences",
+      "ISOAbbreviation": "Int J Mol Sci"
+    },
+    "ArticleTitle": "Computer-Aided Ligand Discovery for Estrogen Receptor Alpha.",
+    "Abstract": {
+      "AbstractText": [
+        "Breast cancer (BCa) is one of the most predominantly diagnosed cancers in women. Notably, 70% of BCa diagnoses are Estrogen Receptor \u03b1 positive (ER\u03b1+) making it a critical therapeutic target. With that, the two subtypes of ER, ER\u03b1 and ER\u03b2, have contrasting effects on BCa cells. While ER\u03b1 promotes cancerous activities, ER\u03b2 isoform exhibits inhibitory effects on the same. ER-directed small molecule drug discovery for BCa has provided the FDA approved drugs tamoxifen, toremifene, raloxifene and fulvestrant that all bind to the estrogen binding site of the receptor. These ER-directed inhibitors are non-selective in nature and may eventually induce resistance in BCa cells as well as increase the risk of endometrial cancer development. Thus, there is an urgent need to develop novel drugs with alternative ER\u03b1 targeting mechanisms that can overcome the limitations of conventional anti-ER\u03b1 therapies. Several functional sites on ER\u03b1, such as Activation Function-2 (AF2), DNA binding domain (DBD), and F-domain, have been recently considered as potential targets in the context of drug research and discovery. In this review, we summarize methods of computer-aided drug design (CADD) that have been employed to analyze and explore potential targetable sites on ER\u03b1, discuss recent advancement of ER\u03b1 inhibitor development, and highlight the potential opportunities and challenges of future ER\u03b1-directed drug discovery."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vancouver Prostate Centre, University of British Columbia, 2660 Oak Street, Vancouver, BC V6H 3Z6, Canada."
+          }
+        ],
+        "LastName": "Bafna",
+        "ForeName": "Divya",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vancouver Prostate Centre, University of British Columbia, 2660 Oak Street, Vancouver, BC V6H 3Z6, Canada."
+          }
+        ],
+        "LastName": "Ban",
+        "ForeName": "Fuqiang",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vancouver Prostate Centre, University of British Columbia, 2660 Oak Street, Vancouver, BC V6H 3Z6, Canada."
+          }
+        ],
+        "LastName": "Rennie",
+        "ForeName": "Paul S",
+        "Initials": "PS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vancouver Prostate Centre, University of British Columbia, 2660 Oak Street, Vancouver, BC V6H 3Z6, Canada."
+          }
+        ],
+        "LastName": "Singh",
+        "ForeName": "Kriti",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vancouver Prostate Centre, University of British Columbia, 2660 Oak Street, Vancouver, BC V6H 3Z6, Canada."
+          }
+        ],
+        "LastName": "Cherkasov",
+        "ForeName": "Artem",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "706145",
+        "Agency": "Canadian Cancer Society",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Int J Mol Sci",
+    "NlmUniqueID": "101092791",
+    "ISSNLinking": "1422-0067"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "ESR1 protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Estrogen Receptor alpha"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Ligands"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Small Molecule Libraries"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Binding Sites"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "metabolism"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer-Aided Design"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Drug Resistance"
+    },
+    {
+      "QualifierName": [
+        "antagonists & inhibitors",
+        "chemistry"
+      ],
+      "DescriptorName": "Estrogen Receptor alpha"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Ligands"
+    },
+    {
+      "QualifierName": [
+        "pharmacology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Small Molecule Libraries"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

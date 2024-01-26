@@ -1,0 +1,275 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "aggressiveness",
+      "diffusion weighted magnetic resonance imaging",
+      "entropy",
+      "stomach neoplasm"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28471511",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "08",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "01",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "05",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/jmri.25752"
+    ],
+    "Journal": {
+      "ISSN": "1522-2586",
+      "JournalIssue": {
+        "Volume": "47",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Journal of magnetic resonance imaging : JMRI",
+      "ISOAbbreviation": "J Magn Reson Imaging"
+    },
+    "ArticleTitle": "Whole-volume apparent diffusion coefficient-based entropy parameters for assessment of gastric cancer aggressiveness.",
+    "Pagination": {
+      "StartPage": "168",
+      "EndPage": "175",
+      "MedlinePgn": "168-175"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To explore the role of whole-volume apparent diffusion coefficient (ADC)-based entropy parameters in the preoperative assessment of gastric cancer's aggressiveness.",
+        "In all, 64 patients with gastric cancers who underwent 3.0T magnetic resonance imaging (MRI) were retrospectively included. Regions of interest were drawn manually using in-house software, around gastric cancer lesions on each slice of the diffusion-weighted images and ADC maps. Entropy-related parameters based on ADC maps were calculated automatically: (1) first-order entropy; (2-5) second-order entropies, including entropy(H)<sub>0</sub> , entropy(H)<sub>45</sub> , entropy(H)<sub>90</sub> , and entropy(H)<sub>135</sub> ; (6) entropy(H)<sub>mean</sub> ; and (7) entropy(H)<sub>range</sub> . Correlations between entropy-related parameters and pathological characteristics were analyzed with the Spearman correlation test. The parameters were compared among different pathological characteristics with independent-samples Kruskal-Wallis or Mann-Whitney U-test. Additionally, diagnostic performances of parameters in differentiating different pathological characteristics were analyzed by receiver operating characteristic (ROC) curve analysis.",
+        "All the entropy-related parameters significantly correlated with T, N, and overall stages, especially the first-order entropy (r = 0.588, 0.585, and 0.677, respectively, all P < 0.05). All the entropy-related parameters showed significant differences in gastric cancers at different T, N, and overall stages, as well as at different status of vascular invasion (P < 0.001-0.027). And four parameters, including entropy, entropy(H)<sub>0</sub> , entropy(H)<sub>45</sub> , and entropy(H)<sub>90</sub> , showed significant differences between gastric cancers with and without perineural invasion (P 0.006-0.040).",
+        "Entropy-related parameters derived from whole-volume ADC texture analysis could help assess the aggressiveness of gastric cancers via analyzing intratumoral heterogeneity quantitatively, especially the first-order entropy.",
+        "2 Technical Efficacy: Stage 2 J. Magn. Reson. Imaging 2018;47:168-175."
+      ],
+      "CopyrightInformation": "\u00a9 2017 International Society for Magnetic Resonance in Medicine."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Nanjing Drum Tower Hospital, Affiliated Hospital of Nanjing University Medical School, Nanjing, P.R. China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Song",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Nanjing Drum Tower Hospital, Affiliated Hospital of Nanjing University Medical School, Nanjing, P.R. China."
+          }
+        ],
+        "LastName": "Zheng",
+        "ForeName": "Huanhuan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Nanjing Drum Tower Hospital, Affiliated Hospital of Nanjing University Medical School, Nanjing, P.R. China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yujuan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Nanjing Drum Tower Hospital, Affiliated Hospital of Nanjing University Medical School, Nanjing, P.R. China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Ling",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Surgery, Nanjing Drum Tower Hospital, Affiliated Hospital of Nanjing University Medical School, Nanjing, P.R. China."
+          }
+        ],
+        "LastName": "Guan",
+        "ForeName": "Wenxian",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electronic Science and Engineering, Nanjing University, Nanjing, P.R. China."
+          }
+        ],
+        "LastName": "Guan",
+        "ForeName": "Yue",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electronic Science and Engineering, Nanjing University, Nanjing, P.R. China."
+          }
+        ],
+        "LastName": "Ge",
+        "ForeName": "Yun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Nanjing Drum Tower Hospital, Affiliated Hospital of Nanjing University Medical School, Nanjing, P.R. China."
+          }
+        ],
+        "LastName": "He",
+        "ForeName": "Jian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Nanjing Drum Tower Hospital, Affiliated Hospital of Nanjing University Medical School, Nanjing, P.R. China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Zhengyang",
+        "Initials": "Z"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Magn Reson Imaging",
+    "NlmUniqueID": "9105850",
+    "ISSNLinking": "1053-1807"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adenocarcinoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Carcinoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diffusion Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Entropy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Image Interpretation, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Invasiveness"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "ROC Curve"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Radiology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Statistics, Nonparametric"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    }
+  ]
+}

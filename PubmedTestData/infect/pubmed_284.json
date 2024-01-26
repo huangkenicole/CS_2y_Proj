@@ -1,0 +1,165 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31923263",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "04",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "04",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "01",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0227127",
+      "10.1371/journal.pone.0227127"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Estimating the basic reproduction number of a pathogen in a single host when only a single founder successfully infects.",
+    "Pagination": {
+      "StartPage": "e0227127",
+      "MedlinePgn": "e0227127"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "If viruses or other pathogens infect a single host, the outcome of infection may depend on the initial basic reproduction number R0, the expected number of host cells infected by a single infected cell. This article shows that sometimes, phylogenetic models can estimate the initial R0, using only sequences sampled from the pathogenic population during its exponential growth or shortly thereafter. When evaluated by simulations mimicking the bursting viral reproduction of HIV and simultaneous sampling of HIV gp120 sequences during early viremia, the estimated R0 displayed useful accuracies in achievable experimental designs. Estimates of R0 have several potential applications to investigators interested in the progress of infection in single hosts, including: (1) timing a pathogen's movement through different microenvironments; (2) timing the change points in a pathogen's mode of spread (e.g., timing the change from cell-free spread to cell-to-cell spread, or vice versa, in an HIV infection); (3) quantifying the impact different initial microenvironments have on pathogens (e.g., in mucosal challenge with HIV, quantifying the impact that the presence or absence of mucosal infection has on R0); (4) quantifying subtle changes in infectability in therapeutic trials (either human or animal), even when therapies do not produce total sterilizing immunity; and (5) providing a variable predictive of the clinical efficacy of prophylactic therapies."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Patel",
+        "ForeName": "Vruj",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6207-1419"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Spouge",
+        "ForeName": "John L",
+        "Initials": "JL"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Intramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "HIV Envelope Protein gp120"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Amino Acid Sequence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Basic Reproduction Number"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Founder Effect"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "HIV Envelope Protein gp120"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Statistics as Topic"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Virus Diseases"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Viruses"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

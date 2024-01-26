@@ -1,0 +1,156 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26634437",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "06",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "12",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "8971",
+      "10.1038/ncomms9971"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "6",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Dec",
+          "Day": "04"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Systematic pan-cancer analysis of tumour purity.",
+    "Pagination": {
+      "StartPage": "8971",
+      "MedlinePgn": "8971"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The tumour microenvironment is the non-cancerous cells present in and around a tumour, including mainly immune cells, but also fibroblasts and cells that comprise supporting blood vessels. These non-cancerous components of the tumour may play an important role in cancer biology. They also have a strong influence on the genomic analysis of tumour samples, and may alter the biological interpretation of results. Here we present a systematic analysis using different measurement modalities of tumour purity in >10,000 samples across 21 cancer types from the Cancer Genome Atlas. Patients are stratified according to clinical features in an attempt to detect clinical differences driven by purity levels. We demonstrate the confounding effect of tumour purity on correlating and clustering tumours with transcriptomics data. Finally, using a differential expression method that accounts for tumour purity, we find an immunotherapy gene signature in several cancer types that is not detected by traditional differential expression analyses."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Computational Health Sciences, University of California, San Francisco, California 94158, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of System Medicine, Department of Pediatrics, Stanford University, Stanford, California 94305, USA."
+          }
+        ],
+        "LastName": "Aran",
+        "ForeName": "Dvir",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Computational Health Sciences, University of California, San Francisco, California 94158, USA."
+          }
+        ],
+        "LastName": "Sirota",
+        "ForeName": "Marina",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Computational Health Sciences, University of California, San Francisco, California 94158, USA."
+          }
+        ],
+        "LastName": "Butte",
+        "ForeName": "Atul J",
+        "Initials": "AJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 CA138256",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U24 CA195858",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Nat Commun. 2016;7:10707",
+      "PMID": "26848121"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "physiopathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tumor Microenvironment"
+    }
+  ]
+}

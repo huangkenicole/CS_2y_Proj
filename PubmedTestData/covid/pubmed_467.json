@@ -1,0 +1,149 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "most recent common ancestor",
+      "phylogeny",
+      "tip dating",
+      "tip rooting",
+      "viral evolution"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34578371",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1790",
+      "10.3390/v13091790"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep",
+          "Day": "08"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Dating the Common Ancestor from an NCBI Tree of 83688 High-Quality and Full-Length SARS-CoV-2 Genomes.",
+    "Abstract": {
+      "AbstractText": [
+        "All dating studies involving SARS-CoV-2 are problematic. Previous studies have dated the most recent common ancestor (MRCA) between SARS-CoV-2 and its close relatives from bats and pangolins. However, the evolutionary rate thus derived is expected to differ from the rate estimated from sequence divergence of SARS-CoV-2 lineages. Here, I present dating results for the first time from a large phylogenetic tree with 86,582 high-quality full-length SARS-CoV-2 genomes. The tree contains 83,688 genomes with full specification of collection time. Such a large tree spanning a period of about 1.5 years offers an excellent opportunity for dating the MRCA of the sampled SARS-CoV-2 genomes. The MRCA is dated 16 August 2019, with the evolutionary rate estimated to be 0.05526 mutations/genome/day. The Pearson correlation coefficient (r) between the root-to-tip distance (D) and the collection time (T) is 0.86295. The NCBI tree also includes 10 SARS-CoV-2 genomes isolated from cats, collected over roughly the same time span as human COVID-19 infection. The MRCA from these cat-derived SARS-CoV-2 is dated 30 July 2019, with r = 0.98464. While the dating method is well known, I have included detailed illustrations so that anyone can repeat the analysis and obtain the same dating results. With 16 August 2019 as the date of the MRCA of sampled SARS-CoV-2 genomes, archived samples from respiratory or digestive tracts collected around or before 16 August 2019, or those that are not descendants of the existing SARS-CoV-2 lineages, should be particularly valuable for tracing the origin of SARS-CoV-2."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-3092-7566"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Ottawa, Marie-Curie Private, Ottawa, ON K1N 9A7, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Ottawa Institute of Systems Biology, University of Ottawa, Ottawa, ON K1H 8M5, Canada."
+          }
+        ],
+        "LastName": "Xia",
+        "ForeName": "Xuhua",
+        "Initials": "X"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "RGPIN/2018-03878",
+        "Agency": "Natural Sciences and Engineering Research Council of Canada",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Evolution, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The author declares no conflict of interest."
+}

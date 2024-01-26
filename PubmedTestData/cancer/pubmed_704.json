@@ -1,0 +1,173 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer modeling",
+      "Metastasis",
+      "Metronomics",
+      "Scheduling optimization"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "23850479",
+  "DateCompleted": {
+    "Year": "2014",
+    "Month": "03",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2013",
+        "Month": "07",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jtbi.2013.06.036",
+      "S0022-5193(13)00319-6"
+    ],
+    "Journal": {
+      "ISSN": "1095-8541",
+      "JournalIssue": {
+        "Volume": "335",
+        "PubDate": {
+          "Year": "2013",
+          "Month": "Oct",
+          "Day": "21"
+        }
+      },
+      "Title": "Journal of theoretical biology",
+      "ISOAbbreviation": "J Theor Biol"
+    },
+    "ArticleTitle": "Maximum tolerated dose versus metronomic scheduling in the treatment of metastatic cancers.",
+    "Pagination": {
+      "StartPage": "235",
+      "EndPage": "244",
+      "MedlinePgn": "235-44"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Although optimal control theory has been used for the theoretical study of anti-cancerous drugs scheduling optimization, with the aim of reducing the primary tumor volume, the effect on metastases is often ignored. Here, we use a previously published model for metastatic development to define an optimal control problem at the scale of the entire organism of the patient. In silico study of the impact of different scheduling strategies for anti-angiogenic and cytotoxic agents (either in monotherapy or in combination) is performed to compare a low-dose, continuous, metronomic administration scheme with a more classical maximum tolerated dose schedule. Simulation results reveal differences between primary tumor reduction and control of metastases but overall suggest use of the metronomic protocol."
+      ],
+      "CopyrightInformation": "\u00a9 2013 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Cancer Systems Biology, Steward Research & Specialty Projects Corp., St Elizabeth's Medical Center, Tufts University School of Medicine, Boston 02135, USA. benzekry@phare.normalesup.org"
+          }
+        ],
+        "LastName": "Benzekry",
+        "ForeName": "S\u00e9bastien",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hahnfeldt",
+        "ForeName": "Philip",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U54 CA149233",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54CA149233",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Theor Biol",
+    "NlmUniqueID": "0376342",
+    "ISSNLinking": "0022-5193"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Angiogenesis Inhibitors"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cytotoxins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Administration, Metronomic"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Angiogenesis Inhibitors"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antineoplastic Combined Chemotherapy Protocols"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Cytotoxins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Maximum Tolerated Dose"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Metastasis"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "pathology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

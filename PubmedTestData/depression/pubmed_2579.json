@@ -1,0 +1,205 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Classification",
+      "Functional magnetic resonance imaging (fMRI)",
+      "Hurst exponent",
+      "Major depressive disorder",
+      "Resting-state networks"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24113289",
+  "DateCompleted": {
+    "Year": "2014",
+    "Month": "10",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2013",
+        "Month": "10",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.pscychresns.2013.09.008",
+      "S0925-4927(13)00264-3"
+    ],
+    "Journal": {
+      "ISSN": "1872-7123",
+      "JournalIssue": {
+        "Volume": "214",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2013",
+          "Month": "Dec",
+          "Day": "30"
+        }
+      },
+      "Title": "Psychiatry research",
+      "ISOAbbreviation": "Psychiatry Res"
+    },
+    "ArticleTitle": "Identifying major depressive disorder using Hurst exponent of resting-state brain networks.",
+    "Pagination": {
+      "StartPage": "306",
+      "EndPage": "312",
+      "MedlinePgn": "306-12"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Resting-state functional magnetic resonance imaging (fMRI) studies of major depressive disorder (MDD) have revealed abnormalities of functional connectivity within or among the resting-state networks. They provide valuable insight into the pathological mechanisms of depression. However, few reports were involved in the \"long-term memory\" of fMRI signals. This study was to investigate the \"long-term memory\" of resting-state networks by calculating their Hurst exponents for identifying depressed patients from healthy controls. Resting-state networks were extracted from fMRI data of 20 MDD and 20 matched healthy control subjects. The Hurst exponent of each network was estimated by Range Scale analysis for further discriminant analysis. 95% of depressed patients and 85% of healthy controls were correctly classified by Support Vector Machine with an accuracy of 90%. The right fronto-parietal and default mode network constructed a deficit network (lower memory and more irregularity in MDD), while the left fronto-parietal, ventromedial prefrontal and salience network belonged to an excess network (longer memory in MDD), suggesting these dysfunctional networks may be related to a portion of the complex of emotional and cognitive disturbances. The abnormal \"long-term memory\" of resting-state networks associated with depression may provide a new possibility towards the exploration of the pathophysiological mechanisms of MDD."
+      ],
+      "CopyrightInformation": "\u00a9 2013 Elsevier Ireland Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Center of Learning Science, Southeast University, 2 sipailou, Nanjing 210096, China."
+          }
+        ],
+        "LastName": "Wei",
+        "ForeName": "Maobin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Qin",
+        "ForeName": "Jiaolong",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yan",
+        "ForeName": "Rui",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Haoran",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yao",
+        "ForeName": "Zhijian",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lu",
+        "ForeName": "Qing",
+        "Initials": "Q"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Psychiatry Res",
+    "NlmUniqueID": "7911385",
+    "ISSNLinking": "0165-1781"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Brain Mapping"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Cerebral Cortex"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology",
+        "physiopathology",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Memory"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rest"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ]
+}

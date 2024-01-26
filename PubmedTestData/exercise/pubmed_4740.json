@@ -1,0 +1,259 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "exercise",
+      "knee",
+      "machine learning",
+      "osteoarthritis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37527856",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "08",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3899/jrheum.2022-1039"
+    ],
+    "Journal": {
+      "ISSN": "1499-2752",
+      "JournalIssue": {
+        "Volume": "50",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct"
+        }
+      },
+      "Title": "The Journal of rheumatology",
+      "ISOAbbreviation": "J Rheumatol"
+    },
+    "ArticleTitle": "Precision Medicine-Based Machine Learning Analyses to Explore Optimal Exercise Therapies for Individuals With Knee Osteoarthritis: Random Forest-Informed Tree-Based Learning.",
+    "Pagination": {
+      "StartPage": "1341",
+      "EndPage": "1345",
+      "MedlinePgn": "1341-1345"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We applied a precision medicine-based machine learning approach to discover underlying patient characteristics associated with differential improvement in knee osteoarthritis symptoms following standard physical therapy (PT), internet-based exercise training (IBET), and a usual care/wait list control condition.",
+        "Participants (n = 303) were from the Physical Therapy vs Internet-Based Training for Patients with Knee Osteoarthritis trial. The primary outcome was the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) total score at 12-month follow-up. Random forest-informed tree-based learning was applied to identify patient characteristics that were critical to improving outcomes, and patients with those features were grouped.",
+        "Age, BMI, and Brief Fear of Movement (BFOM) score, all at baseline, were identified as characteristics that effectively divided participants, creating 6 subgroups. Assigning treatments according to these models, compared to assigning a single best treatment to all patients, resulted in greater improvements of the average WOMAC at 12 months (<i>P</i> = 0.01). Key patterns were that IBET was the optimal treatment for patients of younger age and low BFOM, whereas PT was the optimal treatment for patients of older age, high BFOM, and BMI (kg/m<sup>2</sup>) between 26.3 and 37.2.",
+        "These results suggest that easily assessed patient characteristics including age, fear of movement, and BMI could be used to guide patients toward either home-based exercise or PT, though additional studies are needed to confirm these findings. (ClinicalTrials.gov: NCT02312713)."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 by the Journal of Rheumatology."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "S. Kim, MA, M.R. Kosorok, PhD, Department of Biostatistics, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Siyeon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6070-9738"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "S. Kim, MA, M.R. Kosorok, PhD, Department of Biostatistics, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina."
+          }
+        ],
+        "LastName": "Kosorok",
+        "ForeName": "Michael R",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5004-419X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "L. Arbeeva, MS, L.F. Callahan, PhD, Thurston Arthritis Research Center, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina."
+          }
+        ],
+        "LastName": "Arbeeva",
+        "ForeName": "Liubov",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0232-2543"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "T.A. Schwartz, DrPH, Department of Biostatistics, Gillings School of Global Public Health, and Thurston Arthritis Research Center, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina."
+          }
+        ],
+        "LastName": "Schwartz",
+        "ForeName": "Todd A",
+        "Initials": "TA"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6362-7220"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "L. Arbeeva, MS, L.F. Callahan, PhD, Thurston Arthritis Research Center, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina."
+          }
+        ],
+        "LastName": "Callahan",
+        "ForeName": "Leigh F",
+        "Initials": "LF"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1205-2759"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Y.M. Golightly, PT, MS, PhD, Thurston Arthritis Research Center, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, and College of Allied Health Professions, University of Nebraska Medical Center, Omaha, Nebraska, and Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina."
+          }
+        ],
+        "LastName": "Golightly",
+        "ForeName": "Yvonne M",
+        "Initials": "YM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9344-7877"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "A.E. Nelson, MD, MSCR, Thurston Arthritis Research Center, and Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina."
+          }
+        ],
+        "LastName": "Nelson",
+        "ForeName": "Amanda E",
+        "Initials": "AE"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3886-0677"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "K.D. Allen, PhD, Thurston Arthritis Research Center, and Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, and Center of Innovation to Accelerate Discovery and Practice Transformation, Durham VA Medical Center, Durham, North Carolina, USA. kdallen@email.unc.edu."
+          }
+        ],
+        "LastName": "Allen",
+        "ForeName": "Kelli D",
+        "Initials": "KD"
+      }
+    ],
+    "DataBankList": [
+      {
+        "DataBankName": "ClinicalTrials.gov",
+        "AccessionNumberList": [
+          "NCT02312713"
+        ]
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "IK6 HX002838",
+        "Acronym": "HX",
+        "Agency": "HSRD VA",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 AR072580",
+        "Acronym": "AR",
+        "Agency": "NIAMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UM1 TR004406",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Rheumatol",
+    "NlmUniqueID": "7501984",
+    "ISSNLinking": "0315-162X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "therapy"
+      ],
+      "DescriptorName": "Osteoarthritis, Knee"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Precision Medicine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Random Forest"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Treatment Outcome"
+    }
+  ],
+  "CoiStatement": "<b>Conflict of interest:</b> The authors have no competing interests to declare."
+}

@@ -1,0 +1,167 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "coronavirus",
+      "literature analysis",
+      "literature categorization",
+      "machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34016708",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2100766118",
+      "10.1073/pnas.2100766118"
+    ],
+    "Journal": {
+      "ISSN": "1091-6490",
+      "JournalIssue": {
+        "Volume": "118",
+        "Issue": "23",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "08"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "Analyzing the vast coronavirus literature with CoronaCentral.",
+    "Abstract": {
+      "AbstractText": [
+        "The SARS-CoV-2 pandemic has caused a surge in research exploring all aspects of the virus and its effects on human health. The overwhelming publication rate means that researchers are unable to keep abreast of the literature. To ameliorate this, we present the CoronaCentral resource that uses machine learning to process the research literature on SARS-CoV-2 together with SARS-CoV and MERS-CoV. We categorize the literature into useful topics and article types and enable analysis of the contents, pace, and emphasis of research during the crisis with integration of Altmetric data. These topics include therapeutics, disease forecasting, as well as growing areas such as \"long COVID\" and studies of inequality. This resource, available at https://coronacentral.ai, is updated daily."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 the Author(s). Published by PNAS."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-8198-2939"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, Stanford University, Stanford, CA 94305 jlever@stanford.edu."
+          }
+        ],
+        "LastName": "Lever",
+        "ForeName": "Jake",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3859-2905"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, Stanford University, Stanford, CA 94305."
+          }
+        ],
+        "LastName": "Altman",
+        "ForeName": "Russ B",
+        "Initials": "RB"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "LM05652",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2020 Dec 22;:",
+      "PMID": "33398279"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "metabolism",
+        "therapy",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Middle East Respiratory Syndrome Coronavirus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "metabolism",
+        "therapy",
+        "transmission"
+      ],
+      "DescriptorName": "Severe Acute Respiratory Syndrome"
+    }
+  ],
+  "CoiStatement": "Competing interest statement: D.L.D., J.L., and R.B.A. are all affiliated with Stanford University."
+}

@@ -1,0 +1,156 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer initiation",
+      "Evolution",
+      "Stochastic spatial models"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24735903",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "02",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "04",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jtbi.2014.02.042",
+      "S0022-5193(14)00220-3"
+    ],
+    "Journal": {
+      "ISSN": "1095-8541",
+      "JournalIssue": {
+        "Volume": "355",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Aug",
+          "Day": "21"
+        }
+      },
+      "Title": "Journal of theoretical biology",
+      "ISOAbbreviation": "J Theor Biol"
+    },
+    "ArticleTitle": "Multifocality and recurrence risk: a quantitative model of field cancerization.",
+    "Pagination": {
+      "StartPage": "170",
+      "EndPage": "184",
+      "MedlinePgn": "170-84"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Primary tumors often emerge within genetically altered fields of premalignant cells that appear histologically normal but have a high chance of progression to malignancy. Clinical observations have suggested that these premalignant fields pose high risks for emergence of recurrent tumors if left behind after surgical removal of the primary tumor. In this work, we develop a spatio-temporal stochastic model of epithelial carcinogenesis, combining cellular dynamics with a general framework for multi-stage genetic progression to cancer. Using the model, we investigate how various properties of the premalignant fields depend on microscopic cellular properties of the tissue. In particular, we provide analytic results for the size-distribution of the histologically undetectable premalignant fields at the time of diagnosis, and investigate how the extent and the geometry of these fields depend upon key groups of parameters associated with the tissue and genetic pathways. We also derive analytical results for the relative risks of local vs. distant secondary tumors for different parameter regimes, a critical aspect for the optimal choice of post-operative therapy in carcinoma patients. This study contributes to a growing literature seeking to obtain a quantitative understanding of the spatial dynamics in cancer initiation."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2014 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematics, University of Minnesota, Minneapolis, MN, United States. Electronic address: jyfoo@umn.edu."
+          }
+        ],
+        "LastName": "Foo",
+        "ForeName": "Jasmine",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Industrial and Systems Engineering, University of Minnesota, Minneapolis, MN, United States."
+          }
+        ],
+        "LastName": "Leder",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Duke University, Durham, NC, United States."
+          }
+        ],
+        "LastName": "Ryser",
+        "ForeName": "Marc D",
+        "Initials": "MD"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM096190",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01-GM096190-02",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Theor Biol",
+    "NlmUniqueID": "0376342",
+    "ISSNLinking": "0022-5193"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Cell Transformation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33740028",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1009374",
+      "10.1371/journal.ppat.1009374"
+    ],
+    "Journal": {
+      "ISSN": "1553-7374",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar"
+        }
+      },
+      "Title": "PLoS pathogens",
+      "ISOAbbreviation": "PLoS Pathog"
+    },
+    "ArticleTitle": "SARS-CoV-2 outbreak in a tri-national urban area is dominated by a B.1 lineage variant linked to a mass gathering event.",
+    "Pagination": {
+      "StartPage": "e1009374",
+      "MedlinePgn": "e1009374"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The first case of SARS-CoV-2 in Basel, Switzerland was detected on February 26th 2020. We present a phylogenetic study to explore viral introduction and evolution during the exponential early phase of the local COVID-19 outbreak from February 26th until March 23rd. We sequenced SARS-CoV-2 naso-oropharyngeal swabs from 746 positive tests that were performed at the University Hospital Basel during the study period. We successfully generated 468 high quality genomes from unique patients and called variants with our COVID-19 Pipeline (COVGAP), and analysed viral genetic diversity using PANGOLIN taxonomic lineages. To identify introduction and dissemination events we incorporated global SARS-CoV-2 genomes and inferred a time-calibrated phylogeny. Epidemiological data from patient questionnaires was used to facilitate the interpretation of phylogenetic observations. The early outbreak in Basel was dominated by lineage B.1 (83\u00b76%), detected first on March 2nd, although the first sample identified belonged to B.1.1. Within B.1, 68\u00b72% of our samples fall within a clade defined by the SNP C15324T ('Basel cluster'), including 157 identical sequences at the root of the 'Basel cluster', some of which we can specifically trace to regional spreading events. We infer the origin of B.1-C15324T to mid-February in our tri-national region. The other genomes map broadly over the global phylogenetic tree, showing several introduction events from and/or dissemination to other regions of the world via travellers. Family transmissions can also be traced in our data. A single lineage variant dominated the outbreak in the Basel area while other lineages, such as the first (B.1.1), did not propagate. A mass gathering event was the predominant initial source of cases, with travel returners and family transmissions to a lesser extent. We highlight the importance of adding specific questions to epidemiological questionnaires, to obtain data on attendance of large gatherings and their locations, as well as travel history, to effectively identify routes of transmissions in up-coming outbreaks. This phylogenetic analysis in concert with epidemiological and contact tracing data, allows connection and interpretation of events, and can inform public health interventions. Trial Registration: ClinicalTrials.gov NCT04351503."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4559-2535"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Microbiology Research, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Bacteriology and Mycology, University Hospital Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Swiss Institute for Bioinformatics, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Stange",
+        "ForeName": "Madlen",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3871-088X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Microbiology Research, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Bacteriology and Mycology, University Hospital Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Swiss Institute for Bioinformatics, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Mari",
+        "ForeName": "Alfredo",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3435-4723"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Microbiology Research, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Bacteriology and Mycology, University Hospital Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Swiss Institute for Bioinformatics, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Roloff",
+        "ForeName": "Tim",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6082-5114"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Microbiology Research, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Bacteriology and Mycology, University Hospital Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Swiss Institute for Bioinformatics, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Seth-Smith",
+        "ForeName": "Helena Mb",
+        "Initials": "HM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Microbiology Research, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Bacteriology and Mycology, University Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Schweitzer",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9694-5396"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Human Geography, University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Brunner",
+        "ForeName": "Myrta",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Virology, University Hospital Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Transplantation & Clinical Virology, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Leuzinger",
+        "ForeName": "Karoline",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Microbiology Research, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Bacteriology and Mycology, University Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "S\u00f8gaard",
+        "ForeName": "Kirstine K",
+        "Initials": "KK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Microbiology Research, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Gensch",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4875-5368"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Diseases and Hospital Epidemiology, University Hospital Basel and University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Tschudin-Sutter",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Services for the City of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Fuchs",
+        "ForeName": "Simon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pediatric Infectious Diseases, University Children's Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Bielicki",
+        "ForeName": "Julia",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1234-7568"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Intensive Care Unit, University Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Pargger",
+        "ForeName": "Hans",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2013-4140"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Intensive Care Unit, University Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Siegemund",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Emergency Medicine, University Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Nickel",
+        "ForeName": "Christian H",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8223-9792"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Emergency Medicine, University Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Bingisser",
+        "ForeName": "Roland",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5439-957X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Internal Medicine, University Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Osthoff",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Internal Medicine, University Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Bassetti",
+        "ForeName": "Stefano",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1481-2467"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Human Geography, University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Schneider-Sliwa",
+        "ForeName": "Rita",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Diseases and Hospital Epidemiology, University Hospital Basel and University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Battegay",
+        "ForeName": "Manuel",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0883-0423"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Virology, University Hospital Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Transplantation & Clinical Virology, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Diseases and Hospital Epidemiology, University Hospital Basel and University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Hirsch",
+        "ForeName": "Hans H",
+        "Initials": "HH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3564-8603"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Microbiology Research, Department of Biomedicine, University of Basel, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Bacteriology and Mycology, University Hospital Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Egli",
+        "ForeName": "Adrian",
+        "Initials": "A"
+      }
+    ],
+    "DataBankList": [
+      {
+        "DataBankName": "ClinicalTrials.gov",
+        "AccessionNumberList": [
+          "NCT04351503"
+        ]
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Pathog",
+    "NlmUniqueID": "101238921",
+    "ISSNLinking": "1553-7366"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Crowding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Longitudinal Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mass Screening"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Switzerland"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

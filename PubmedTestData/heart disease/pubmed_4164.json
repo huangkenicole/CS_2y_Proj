@@ -1,0 +1,129 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "21770825",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "02",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2011",
+    "Month": "09",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2011",
+        "Month": "07",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3109/03091902.2011.595530"
+    ],
+    "Journal": {
+      "ISSN": "1464-522X",
+      "JournalIssue": {
+        "Volume": "35",
+        "Issue": "6-7",
+        "PubDate": {
+          "Year": "2011",
+          "Season": "Aug-Oct"
+        }
+      },
+      "Title": "Journal of medical engineering & technology",
+      "ISOAbbreviation": "J Med Eng Technol"
+    },
+    "ArticleTitle": "ECG feature extraction and disease diagnosis.",
+    "Pagination": {
+      "StartPage": "354",
+      "EndPage": "361",
+      "MedlinePgn": "354-61"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "An important factor to consider when using findings on electrocardiograms for clinical decision making is that the waveforms are influenced by normal physiological and technical factors as well as by pathophysiological factors. In this paper, we propose a method for the feature extraction and heart disease diagnosis using wavelet transform (WT) technique and LabVIEW (Laboratory Virtual Instrument Engineering workbench). LabVIEW signal processing tools are used to denoise the signal before applying the developed algorithm for feature extraction. First, we have developed an algorithm for R-peak detection using Haar wavelet. After 4th level decomposition of the ECG signal, the detailed coefficient is squared and the standard deviation of the squared detailed coefficient is used as the threshold for detection of R-peaks. Second, we have used daubechies (db6) wavelet for the low resolution signals. After cross checking the R-peak location in 4th level, low resolution signal of daubechies wavelet P waves and T waves are detected. Other features of diagnostic importance, mainly heart rate, R-wave width, Q-wave width, T-wave amplitude and duration, ST segment and frontal plane axis are also extracted and scoring pattern is applied for the purpose of heart disease diagnosis. In this study, detection of tachycardia, bradycardia, left ventricular hypertrophy, right ventricular hypertrophy and myocardial infarction have been considered. In this work, CSE ECG data base which contains 5000 samples recorded at a sampling frequency of 500 Hz and the ECG data base created by the S.G.G.S. Institute of Engineering and Technology, Nanded (Maharashtra) have been used."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PDA College of Engineering, Gulbarga, Karnataka, India. channubhyri@yahoo.com"
+          }
+        ],
+        "LastName": "Bhyri",
+        "ForeName": "Channappa",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hamde",
+        "ForeName": "S T",
+        "Initials": "ST"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Waghmare",
+        "ForeName": "L M",
+        "Initials": "LM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Med Eng Technol",
+    "NlmUniqueID": "7702125",
+    "ISSNLinking": "0309-1902"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Electrocardiography"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wavelet Analysis"
+    }
+  ]
+}

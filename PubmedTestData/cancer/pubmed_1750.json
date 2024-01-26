@@ -1,0 +1,101 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34890144",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "2335-6936",
+      "JournalIssue": {
+        "Volume": "27",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+      "ISOAbbreviation": "Pac Symp Biocomput"
+    },
+    "ArticleTitle": "Generalizing Few-Shot Classification of Whole-Genome Doubling Across Cancer Types.",
+    "Pagination": {
+      "StartPage": "144",
+      "EndPage": "155",
+      "MedlinePgn": "144-155"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The study and treatment of cancer is traditionally specialized to the cancer's site of origin. However, certain phenotypes are shared across cancer types and have important implications for clinical care. To date, automating the identification of these characteristics from routine clinical data - irrespective of the type of cancer - is impaired by tissue-specific variability and limited labeled data. Whole-genome doubling is one such phenotype; whole-genome doubling events occur in nearly every type of cancer and have significant prognostic implications. Using digitized histopathology slide images of primary tumor biopsies, we train a deep neural network end-to-end to accurately generalize few-shot classification of whole-genome doubling across 17 cancer types. By taking a meta-learning approach, cancer types are treated as separate but jointly-learned tasks. This approach outperforms a traditional neural network classifier and quickly generalizes to both held-out cancer types and batch effects. These results demonstrate the unrealized potential for meta-learning to not only account for between-cancer type variability but also remedy technical variability, enabling real-time identification of cancer phenotypes that are too often costly and inefficient to obtain."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, Harvard University, Boston, MA, United States, schao@g.harvard.edu."
+          }
+        ],
+        "LastName": "Chao",
+        "ForeName": "Sherry",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Belanger",
+        "ForeName": "David",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Pac Symp Biocomput",
+    "NlmUniqueID": "9711271",
+    "ISSNLinking": "2335-6928"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ]
+}

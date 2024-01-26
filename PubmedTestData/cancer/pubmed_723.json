@@ -1,0 +1,113 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30626737",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "04",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "AT2018042"
+    ],
+    "Journal": {
+      "ISSN": "1078-6791",
+      "JournalIssue": {
+        "Volume": "25",
+        "Issue": "S1",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Jan",
+          "Day": "09"
+        }
+      },
+      "Title": "Alternative therapies in health and medicine",
+      "ISOAbbreviation": "Altern Ther Health Med"
+    },
+    "ArticleTitle": "A Data Mining Approach to Diagnose Cancer for Therapeutic Decision Making.",
+    "Pagination": {
+      "StartPage": "2",
+      "EndPage": "7",
+      "MedlinePgn": "2-7"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "With the increase in population, there is a rise in number of cancer cases starting from young children to old people. The uncommon cancers are generally sporadic and there are no pre-defined techniques/tools for the diagnosis. Identifying the diseases at an early stage can avoid the cancerous cells from metastasis to different body parts through tissue, lymph system and blood. It is very difficult for the parents to know that the child is suffering from cancer until the cancer has reached to Stage 4. The duration it takes the cancer to reach Stage 4 can depend on many factors but the fact about childhood cancer is that it is curable to some extent. Diagnoses of the cancer at an early stage, i.e. at Stage 1, from childhood to old age can increase the survival rate of the patients by 85% and also helps to come up with certain therapy.",
+        "The Gene Expression data of Cancer is taken from the CGED. Two approached are being implemented in this paper: Modified version of the Support Vector Machine and Kohonen' s Self Organizing Map to identify the disease during its Stage 1. Annova method has been used to validate the data.",
+        "Support Vector Machine has yielded a classification accuracy of 99.1% and the Kohonen's map has produced an accuracy of 89% with the same set of samples.",
+        "Support Vector Machine has yielded a good accuracy result as opposed to Kohonen' s Self Organizing Map but SOM has the capability of adapting itself to learn new features based on experience unlike the SVM. A combination of both the tools can be used based on the type of patients visiting the practitioner. The approaches can assist the medical practitioners as pre-diagnoses tool for the early diagnoses of pediatric cancer."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rajan",
+        "ForeName": "Juliet Rani",
+        "Initials": "JR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chelvan",
+        "ForeName": "A Chilambu",
+        "Initials": "AC"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Altern Ther Health Med",
+    "NlmUniqueID": "9502013",
+    "ISSNLinking": "1078-6791"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Mining"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Decision Making"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ]
+}

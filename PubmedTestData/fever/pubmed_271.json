@@ -1,0 +1,337 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Attributable fractions",
+      "Case definition",
+      "Malaria",
+      "Probability"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36369045",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "326",
+      "10.1186/s12936-022-04346-9"
+    ],
+    "Journal": {
+      "ISSN": "1475-2875",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov",
+          "Day": "11"
+        }
+      },
+      "Title": "Malaria journal",
+      "ISOAbbreviation": "Malar J"
+    },
+    "ArticleTitle": "Malaria attributable fractions with changing transmission intensity: Bayesian latent class vs logistic models.",
+    "Pagination": {
+      "StartPage": "326",
+      "MedlinePgn": "326"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Asymptomatic carriage of malaria parasites is common in high transmission intensity areas and confounds clinical case definitions for research studies. This is important for investigations that aim to identify immune correlates of protection from clinical malaria. The proportion of fevers attributable to malaria parasites is widely used to define different thresholds of parasite density associated with febrile episodes. The varying intensity of malaria transmission was investigated to check whether it had a significant impact on the parasite density thresholds. The same dataset was used to explore an alternative statistical approach, using the probability of developing fevers as a choice over threshold cut-offs. The former has been reported to increase predictive power.",
+        "Data from children monitored longitudinally between 2005 and 2017 from Junju and Chonyi in Kilifi, Kenya were used. Performance comparison of Bayesian-latent class and logistic power models in estimating malaria attributable fractions and probabilities of having fever given a parasite density with changing malaria transmission intensity was done using Junju cohort. Zero-inflated beta regressions were used to assess the impact of using probabilities to evaluate anti-merozoite antibodies as correlates of protection, compared with multilevel binary regression using data from Chonyi and Junju.",
+        "Malaria transmission intensity declined from over 49% to 5% between 2006 and 2017, respectively. During this period, malaria attributable fraction varied between 27-59% using logistic regression compared to 10-36% with the Bayesian latent class approach. Both models estimated similar patterns of fevers attributable to malaria with changing transmission intensities. The Bayesian latent class model performed well in estimating the probabilities of having fever, while the latter was efficient in determining the parasite density threshold. However, compared to the logistic power model, the Bayesian algorithm yielded lower estimates for both attributable fractions and probabilities of fever. In modelling the association of merozoite antibodies and clinical malaria, both approaches resulted in comparable estimates, but the utilization of probabilities had a better statistical fit.",
+        "Malaria attributable fractions, varied with an overall decline in the malaria transmission intensity in this setting but did not significantly impact the outcomes of analyses aimed at identifying immune correlates of protection. These data confirm the statistical advantage of using probabilities over binary data."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7757-7516"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Epidemiology and Biostatistics Division, School of Public Health, University of the Witwatersrand, Johannesburg, South Africa. kmwai@kemri-wellcome.org."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya. kmwai@kemri-wellcome.org."
+          }
+        ],
+        "LastName": "Mwai",
+        "ForeName": "Kennedy",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre of Infectious Diseases, Parasitology, Heidelberg University Hospital, Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Nkumama",
+        "ForeName": "Irene",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Thairu",
+        "ForeName": "Amos",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Mburu",
+        "ForeName": "James",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre of Infectious Diseases, Parasitology, Heidelberg University Hospital, Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Odera",
+        "ForeName": "Dennis",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Kimathi",
+        "ForeName": "Rinter",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Nyamako",
+        "ForeName": "Lydia",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Biochemistry, Pwani University, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Tuju",
+        "ForeName": "James",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Biochemistry, Pwani University, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Tropical Medicine and Global Health, Nuffield Department of Clinical Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Kinyanjui",
+        "ForeName": "Samson",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Epidemiology and Biostatistics Division, School of Public Health, University of the Witwatersrand, Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "Musenge",
+        "ForeName": "Eustasius",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Geographic Medicine Research (Coast), Kenya Medical Research Institute-Wellcome Trust Research Programme, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre of Infectious Diseases, Parasitology, Heidelberg University Hospital, Heidelberg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Biochemistry, Pwani University, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Tropical Medicine and Global Health, Nuffield Department of Clinical Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Osier",
+        "ForeName": "Faith",
+        "Initials": "F"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "16/136/33",
+        "Agency": "National Institute for Health Research",
+        "Country": ""
+      },
+      {
+        "GrantID": "3.2 - 1184811 - KEN - SKP",
+        "Agency": "Alexander von Humboldt-Stiftung",
+        "Country": ""
+      },
+      {
+        "GrantID": "TMA 2015 SF1001",
+        "Agency": "European and Developing Countries Clinical Trials Partnership",
+        "Country": ""
+      },
+      {
+        "GrantID": "DEL-15-003",
+        "Agency": "DELTAS Africa Initiative",
+        "Country": ""
+      },
+      {
+        "GrantID": "107754/Z/15/Z-DELTAS",
+        "Agency": "DELTAS Africa Initiative",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Malar J",
+    "NlmUniqueID": "101139802",
+    "ISSNLinking": "1475-2875"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Logistic Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "complications"
+      ],
+      "DescriptorName": "Malaria"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Kenya"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Merozoites"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "parasitology"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [
+        "parasitology"
+      ],
+      "DescriptorName": "Malaria, Falciparum"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

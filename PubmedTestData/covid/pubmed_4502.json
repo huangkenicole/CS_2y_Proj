@@ -1,0 +1,153 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bayesianism",
+      "COVID-19",
+      "Confirmation",
+      "Evidence",
+      "RT-qPCR"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32888175",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "09",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10441-020-09393-w"
+    ],
+    "Journal": {
+      "ISSN": "1572-8358",
+      "JournalIssue": {
+        "Volume": "69",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Acta biotheoretica",
+      "ISOAbbreviation": "Acta Biotheor"
+    },
+    "ArticleTitle": "The Epistemology of a Positive SARS-CoV-2 Test.",
+    "Pagination": {
+      "StartPage": "359",
+      "EndPage": "375",
+      "MedlinePgn": "359-375"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We investigate the epistemological consequences of a positive polymerase chain reaction SARS-CoV test for two relevant hypotheses: (i) V is the hypothesis that an individual has been infected with SARS-CoV-2; (ii) C is the hypothesis that SARS-CoV-2 is the cause of flu-like symptoms in a given patient. We ask two fundamental epistemological questions regarding each hypothesis: First, how much confirmation does a positive test lend to each hypothesis? Second, how much evidence does a positive test provide for each hypothesis against its negation? We respond to each question within a formal Bayesian framework. We construe degree of confirmation as the difference between the posterior probability of the hypothesis and its prior, and the strength of evidence for a hypothesis against its alternative in terms of their likelihood ratio. We find that test specificity-and coinfection probabilities when making inferences about C-were key determinants of confirmation and evidence. Tests with <\u200987% specificity could not provide strong evidence (likelihood ratio\u2009>\u20098) for V against \u00acV regardless of sensitivity. Accordingly, low specificity tests could not provide strong evidence in favor of C in all plausible scenarios modeled. We also show how a positive influenza A test disconfirms C and provides weak evidence against C in dependence on the probability that the patient is influenza A infected given that his/her symptoms are not caused by SARS-CoV-2. Our analysis points out some caveats that should be considered when attributing symptoms or death of a positively tested patient to SARS-CoV-2."
+      ],
+      "CopyrightInformation": "\u00a9 2020. Springer Nature B.V."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-1401-4270"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiotherapy and Radiation Oncology, Leopoldina Hospital Schweinfurt, Robert-Koch-Stra\u00dfe 10, 97422, Schweinfurt, Germany. rainer_klement@gmx.de."
+          }
+        ],
+        "LastName": "Klement",
+        "ForeName": "Rainer Johannes",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of History & Philosophy, Montana State University, Bozeman, MT, USA."
+          }
+        ],
+        "LastName": "Bandyopadhyay",
+        "ForeName": "Prasanta S",
+        "Initials": "PS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Acta Biotheor",
+    "NlmUniqueID": "0421520",
+    "ISSNLinking": "0001-5342"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "standards"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "Coinfection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Health Knowledge, Attitudes, Practice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests relevant to this research."
+}

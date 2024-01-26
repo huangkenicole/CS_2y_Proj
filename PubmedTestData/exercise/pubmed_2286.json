@@ -1,0 +1,199 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "22304989",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "05",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2012",
+        "Month": "02",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1186/1743-0003-9-6"
+    ],
+    "Journal": {
+      "ISSN": "1743-0003",
+      "JournalIssue": {
+        "Volume": "9",
+        "PubDate": {
+          "Year": "2012",
+          "Month": "Feb",
+          "Day": "03"
+        }
+      },
+      "Title": "Journal of neuroengineering and rehabilitation",
+      "ISOAbbreviation": "J Neuroeng Rehabil"
+    },
+    "ArticleTitle": "Validation of a mechanism to balance exercise difficulty in robot-assisted upper-extremity rehabilitation after stroke.",
+    "Pagination": {
+      "StartPage": "6",
+      "MedlinePgn": "6"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The motivation of patients during robot-assisted rehabilitation after neurological disorders that lead to impairments of motor functions is of great importance. Due to the increasing number of patients, increasing medical costs and limited therapeutic resources, clinicians in the future may want patients to practice their movements at home or with reduced supervision during their stay in the clinic. Since people only engage in an activity and are motivated to practice if the outcome matches the effort at which they perform, an augmented feedback application for rehabilitation should take the cognitive and physical deficits of patients into account and incorporate a mechanism that is capable of balancing i.e. adjusting the difficulty of an exercise in an augmented feedback application to the patient's capabilities.",
+        "We propose a computational mechanism based on Fitts' Law that balances i.e. adjusts the difficulty of an exercise for upper-extremity rehabilitation. The proposed mechanism was implemented into an augmented feedback application consisting of three difficulty conditions (easy, balanced, hard). The task of the exercise was to reach random targets on the screen from a starting point within a specified time window. The available time was decreased with increasing condition difficulty. Ten subacute stroke patients were recruited to validate the mechanism through a study. Cognitive and motor functions of patients were assessed using the upper extremity section of the Fugl-Meyer Assessment, the modified Ashworth scale as well as the Addenbrookes cognitive examination-revised. Handedness of patients was obtained using the Edinburgh handedness inventory. Patients' performance during the execution of the exercises was measured twice, once for the paretic and once for the non-paretic arm. Results were compared using a two-way ANOVA. Post hoc analysis was performed using a Tukey HSD with a significance level of p < 0.05.",
+        "Results show that the mechanism was capable of balancing the difficulty of an exercise to the capabilities of the patients. Medians for both arms show a gradual decrease and significant difference of the number of successful trials with increasing condition difficulty (F(2;60) = 44.623; p < 0.01; \u03b7(2) = 0.623) but no significant difference between paretic and non-paretic arm (F(1;60) = 3.768; p = 0.057; \u03b7(2) = 0.065). Post hoc analysis revealed that, for both arms, the hard condition significantly differed from the easy condition (p < 0.01). In the non-paretic arm there was an additional significant difference between the balanced and the hard condition (p < 0.01). Reducing the time to reach the target, i.e., increasing the difficulty level, additionally revealed significant differences between conditions for movement speeds (F(2;59) = 6.013; p < 0.01; \u03b7(2) = 0.185), without significant differences for hand-closing time (F(2;59) = 2.620; p = 0.082; \u03b7(2) = 0.09), reaction time (F(2;59) = 0.978; p = 0.383; \u03b7(2) = 0.036) and hand-path ratio (F(2;59) = 0.054; p = 0.947; \u03b7(2) = 0.002). The evaluation of a questionnaire further supported the assumption that perceived performance declined with increased effort and increased exercise difficulty leads to frustration.",
+        "Our results support that Fitts' Law indeed constitutes a powerful mechanism for task difficulty adaptation and can be incorporated into exercises for upper-extremity rehabilitation."
+      ],
+      "CopyrightInformation": "\u00a9 2012 Zimmerli et al; licensee BioMed Central Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sensory-Motor Systems Lab, Department of Mechanical Engineering and Process Engineering, ETH Zurich, Zurich, Switzerland. lukas.zimmerli@mavt.ethz.ch"
+          }
+        ],
+        "LastName": "Zimmerli",
+        "ForeName": "Lukas",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Krewer",
+        "ForeName": "Carmen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gassert",
+        "ForeName": "Roger",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "M\u00fcller",
+        "ForeName": "Friedemann",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Riener",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "L\u00fcnenburger",
+        "ForeName": "Lars",
+        "Initials": "L"
+      }
+    ],
+    "PublicationTypeList": [
+      "Clinical Trial",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Neuroeng Rehabil",
+    "NlmUniqueID": "101232233",
+    "ISSNLinking": "1743-0003"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Arm"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feedback"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Movement"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Physical Exertion"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Robotics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stroke Rehabilitation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ]
+}

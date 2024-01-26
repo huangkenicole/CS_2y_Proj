@@ -1,0 +1,221 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33449069",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1001/jamainternmed.2020.8876"
+    ],
+    "Journal": {
+      "ISSN": "2168-6114",
+      "JournalIssue": {
+        "Volume": "181",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "01"
+        }
+      },
+      "Title": "JAMA internal medicine",
+      "ISOAbbreviation": "JAMA Intern Med"
+    },
+    "ArticleTitle": "Comparison of Saliva and Nasopharyngeal Swab Nucleic Acid Amplification Testing for Detection of SARS-CoV-2: A Systematic Review and Meta-analysis.",
+    "Pagination": {
+      "StartPage": "353",
+      "EndPage": "360",
+      "MedlinePgn": "353-360"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Nasopharyngeal swab nucleic acid amplification testing (NAAT) is the noninvasive criterion standard for diagnosis of coronavirus disease 2019 (COVID-19). However, it requires trained personnel, limiting its availability. Saliva NAAT represents an attractive alternative, but its diagnostic performance is unclear.",
+        "To assess the diagnostic accuracy of saliva NAAT for COVID-19.",
+        "In this systematic review, a search of the MEDLINE and medRxiv databases was conducted on August 29, 2020, to find studies of diagnostic test accuracy. The final meta-analysis was performed on November 17, 2020.",
+        "Studies needed to provide enough data to measure salivary NAAT sensitivity and specificity compared with imperfect nasopharyngeal swab NAAT as a reference test. An imperfect reference test does not perfectly reflect the truth (ie, it can give false results). Studies were excluded if the sample contained fewer than 20 participants or was neither random nor consecutive. The Quality Assessment of Diagnostic Accuracy Studies 2 tool was used to assess the risk of bias.",
+        "Preferred Reporting Items for Systematic Reviews and Meta-analyses reporting guideline was followed for the systematic review, with multiple authors involved at each stage of the review. To account for the imperfect reference test sensitivity, we used a bayesian latent class bivariate model for the meta-analysis.",
+        "The primary outcome was pooled sensitivity and specificity. Two secondary analyses were performed: one restricted to peer-reviewed studies, and a post hoc analysis limited to ambulatory settings.",
+        "The search strategy yielded 385 references, and 16 unique studies were identified for quantitative synthesis. Eight peer-reviewed studies and 8 preprints were included in the meta-analyses (5922 unique patients). There was significant variability in patient selection, study design, and stage of illness at which patients were enrolled. Fifteen studies included ambulatory patients, and 9 exclusively enrolled from an outpatient population with mild or no symptoms. In the primary analysis, the saliva NAAT pooled sensitivity was 83.2% (95% credible interval [CrI], 74.7%-91.4%) and the pooled specificity was 99.2% (95% CrI, 98.2%-99.8%). The nasopharyngeal swab NAAT had a sensitivity of 84.8% (95% CrI, 76.8%-92.4%) and a specificity of 98.9% (95% CrI, 97.4%-99.8%). Results were similar in secondary analyses.",
+        "These results suggest that saliva NAAT diagnostic accuracy is similar to that of nasopharyngeal swab NAAT, especially in the ambulatory setting. These findings support larger-scale research on the use of saliva NAAT as an alternative to nasopharyngeal swabs."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, McGill University Health Centre, Royal Victoria Hospital, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "Butler-Laporte",
+        "ForeName": "Guillaume",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, National Institutes of Health, Clinical Center, Bethesda, Maryland."
+          }
+        ],
+        "LastName": "Lawandi",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Outcomes Research, McGill University Health Centre, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "Schiller",
+        "ForeName": "Ian",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Outcomes Research, McGill University Health Centre, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "Yao",
+        "ForeName": "Mandy",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Outcomes Research, McGill University Health Centre, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "Dendukuri",
+        "ForeName": "Nandini",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Outcomes Research, McGill University Health Centre, Montr\u00e9al, Qu\u00e9bec, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Practice Assessment Unit, Department of Medicine, McGill University, Montr\u00e9al, Qu\u00e9bec, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of General Internal Medicine, Department of Medicine, McGill University, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "McDonald",
+        "ForeName": "Emily G",
+        "Initials": "EG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, McGill University Health Centre, Royal Victoria Hospital, Montr\u00e9al, Qu\u00e9bec, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Outcomes Research, McGill University Health Centre, Montr\u00e9al, Qu\u00e9bec, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Practice Assessment Unit, Department of Medicine, McGill University, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Todd C",
+        "Initials": "TC"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article",
+      "Meta-Analysis",
+      "Research Support, N.I.H., Intramural",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "JAMA Intern Med",
+    "NlmUniqueID": "101589534",
+    "ISSNLinking": "2168-6106"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "JAMA Intern Med. 2021 Mar 1;181(3):409",
+      "PMID": "33646283"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Saliva"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ],
+  "CoiStatement": "<b>Conflict of Interest Disclosures:</b> Dr Dendukuri reported receiving grants from the Canadian Institutes of Health Research for development of the Shiny app to perform bayesian diagnostic meta-analysis during the conduct of the study. No other disclosures were reported."
+}

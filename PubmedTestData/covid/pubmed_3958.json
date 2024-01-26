@@ -1,0 +1,640 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "drug repurposing screening",
+      "lactoferrin"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34413211",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2105815118",
+      "10.1073/pnas.2105815118"
+    ],
+    "Journal": {
+      "ISSN": "1091-6490",
+      "JournalIssue": {
+        "Volume": "118",
+        "Issue": "36",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep",
+          "Day": "07"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "Morphological cell profiling of SARS-CoV-2 infection identifies drug repurposing candidates for COVID-19.",
+    "Abstract": {
+      "AbstractText": [
+        "The global spread of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the associated disease COVID-19, requires therapeutic interventions that can be rapidly identified and translated to clinical care. Traditional drug discovery methods have a >90% failure rate and can take 10 to 15 y from target identification to clinical use. In contrast, drug repurposing can significantly accelerate translation. We developed a quantitative high-throughput screen to identify efficacious agents against SARS-CoV-2. From a library of 1,425 US Food and Drug Administration (FDA)-approved compounds and clinical candidates, we identified 17 hits that inhibited SARS-CoV-2 infection and analyzed their antiviral activity across multiple cell lines, including lymph node carcinoma of the prostate (LNCaP) cells and a physiologically relevant model of alveolar epithelial type 2 cells (iAEC2s). Additionally, we found that inhibitors of the Ras/Raf/MEK/ERK signaling pathway exacerbate SARS-CoV-2 infection in vitro. Notably, we discovered that lactoferrin, a glycoprotein found in secretory fluids including mammalian milk, inhibits SARS-CoV-2 infection in the nanomolar range in all cell models with multiple modes of action, including blockage of virus attachment to cellular heparan sulfate and enhancement of interferon responses. Given its safety profile, lactoferrin is a readily translatable therapeutic option for the management of COVID-19."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 the Author(s). Published by PNAS."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, University of Michigan Medical School, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Mirabelli",
+        "ForeName": "Carmen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicinal Chemistry, College of Pharmacy, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Michigan Medicine at the University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Wotring",
+        "ForeName": "Jesse W",
+        "Initials": "JW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicinal Chemistry, College of Pharmacy, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Michigan Medicine at the University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Charles J",
+        "Initials": "CJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicinal Chemistry, College of Pharmacy, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "McCarty",
+        "ForeName": "Sean M",
+        "Initials": "SM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Michigan Medicine at the University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Drug Repurposing, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Fursmidt",
+        "ForeName": "Reid",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Michigan Medicine at the University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Pretto",
+        "ForeName": "Carla D",
+        "Initials": "CD"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1178-3480"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Michigan Center for Translational Pathology, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Qiao",
+        "ForeName": "Yuanyuan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Michigan Center for Translational Pathology, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yuping",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cell and Developmental Biology, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Frum",
+        "ForeName": "Tristan",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Michigan Medicine at the University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Kadambi",
+        "ForeName": "Namrata S",
+        "Initials": "NS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Michigan Medicine at the University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Amin",
+        "ForeName": "Anya T",
+        "Initials": "AT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, University of Michigan Medical School, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "O'Meara",
+        "ForeName": "Teresa R",
+        "Initials": "TR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Michigan Medicine at the University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cell and Developmental Biology, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Spence",
+        "ForeName": "Jason R",
+        "Initials": "JR"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5297-3563"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Regenerative Medicine, Boston University and Boston Medical Center, Boston, MA 02118."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pulmonary Center, Boston University School of Medicine, Boston, MA 02118."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Boston University School of Medicine, Boston, MA 02118."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Jessie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Regenerative Medicine, Boston University and Boston Medical Center, Boston, MA 02118."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pulmonary Center, Boston University School of Medicine, Boston, MA 02118."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Boston University School of Medicine, Boston, MA 02118."
+          }
+        ],
+        "LastName": "Alysandratos",
+        "ForeName": "Konstantinos D",
+        "Initials": "KD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Regenerative Medicine, Boston University and Boston Medical Center, Boston, MA 02118."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pulmonary Center, Boston University School of Medicine, Boston, MA 02118."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Boston University School of Medicine, Boston, MA 02118."
+          }
+        ],
+        "LastName": "Kotton",
+        "ForeName": "Darrell N",
+        "Initials": "DN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Michigan Medicine at the University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Drug Repurposing, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Handelman",
+        "ForeName": "Samuel K",
+        "Initials": "SK"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5286-0924"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, University of Michigan Medical School, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Wobus",
+        "ForeName": "Christiane E",
+        "Initials": "CE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Drug Repurposing, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Michigan Institute for Clinical and Health Research, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "College of Pharmacy, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Weatherwax",
+        "ForeName": "Kevin J",
+        "Initials": "KJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Drug Repurposing, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Michigan Institute for Clinical and Health Research, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anesthesiology, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Mashour",
+        "ForeName": "George A",
+        "Initials": "GA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "O'Meara",
+        "ForeName": "Matthew J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Michigan Center for Translational Pathology, University of Michigan, Ann Arbor, MI 48109; arul@umich.edu jzsexton@med.umich.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Rogel Cancer Center, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "HHMI, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Urology, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Chinnaiyan",
+        "ForeName": "Arul M",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicinal Chemistry, College of Pharmacy, University of Michigan, Ann Arbor, MI 48109; arul@umich.edu jzsexton@med.umich.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Michigan Medicine at the University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Drug Repurposing, University of Michigan, Ann Arbor, MI 48109."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Michigan Institute for Clinical and Health Research, University of Michigan, Ann Arbor, MI 48109."
+          }
+        ],
+        "LastName": "Sexton",
+        "ForeName": "Jonathan Z",
+        "Initials": "JZ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 HL119215",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA046592",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U19 AI116482",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 DK089503",
+        "Acronym": "DK",
+        "Agency": "NIDDK NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 DK120623",
+        "Acronym": "DK",
+        "Agency": "NIDDK NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UL1 TR002240",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 DE007057",
+        "Acronym": "DE",
+        "Agency": "NIDCR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R35 CA231996",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 GM007767",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Immunologic Factors"
+    },
+    {
+      "RegistryNumber": "9050-30-0",
+      "NameOfSubstance": "Heparitin Sulfate"
+    },
+    {
+      "RegistryNumber": "EC 3.4.21.-",
+      "NameOfSubstance": "Lactoferrin"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2020 Dec 07;:",
+      "PMID": "32577649"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Caco-2 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chlorocebus aethiops"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Dose-Response Relationship, Drug"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Discovery"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epithelial Cells"
+    },
+    {
+      "QualifierName": [
+        "antagonists & inhibitors",
+        "immunology",
+        "metabolism"
+      ],
+      "DescriptorName": "Heparitin Sulfate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hepatocytes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "High-Throughput Screening Assays"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Immunologic Factors"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Lactoferrin"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "growth & development",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vero Cells"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Virus Internalization"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Virus Replication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interest."
+}

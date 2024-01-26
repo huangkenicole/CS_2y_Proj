@@ -1,0 +1,602 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33619344",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4290",
+      "10.1038/s41598-021-83730-y"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "22"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "In silico detection of SARS-CoV-2 specific B-cell epitopes and validation in ELISA for serological diagnosis of COVID-19.",
+    "Pagination": {
+      "StartPage": "4290",
+      "MedlinePgn": "4290"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Rapid generation of diagnostics is paramount to understand epidemiology and to control the spread of emerging infectious diseases such as COVID-19. Computational methods to predict serodiagnostic epitopes that are specific for the pathogen could help accelerate the development of new diagnostics. A systematic survey of 27 SARS-CoV-2 proteins was conducted to assess whether existing B-cell epitope prediction methods, combined with comprehensive mining of sequence databases and structural data, could predict whether a particular protein would be suitable for serodiagnosis. Nine of the predictions were validated with recombinant SARS-CoV-2 proteins in the ELISA format using plasma and sera from patients with SARS-CoV-2 infection, and a further 11 predictions were compared to the recent literature. Results appeared to be in agreement with 12 of the predictions, in disagreement with 3, while a further 5 were deemed inconclusive. We showed that two of our top five candidates, the N-terminal fragment of the nucleoprotein and the receptor-binding domain of the spike protein, have the highest sensitivity and specificity and signal-to-noise ratio for detecting COVID-19 sera/plasma by ELISA. Mixing the two antigens together for coating ELISA plates led to a sensitivity of 94% (N\u2009=\u200980 samples from persons with RT-PCR confirmed SARS-CoV-2 infection), and a specificity of 97.2% (N\u2009=\u2009106 control samples)."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Global Infectious Disease Research, Seattle Children's Research Institute, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Phan",
+        "ForeName": "Isabelle Q",
+        "Initials": "IQ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Global Infectious Disease Research, Seattle Children's Research Institute, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Subramanian",
+        "ForeName": "Sandhya",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Protein Design (IPD), University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Protein Design (IPD), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Murphy",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Protein Design (IPD), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Pettie",
+        "ForeName": "Deleah",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Protein Design (IPD), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Carter",
+        "ForeName": "Lauren",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Protein Design (IPD), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Anishchenko",
+        "ForeName": "Ivan",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Allergy and Infectious Diseases, Department of Medicine, Center for Emerging and Re-Emerging Infectious Diseases (CERID), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Barrett",
+        "ForeName": "Lynn K",
+        "Initials": "LK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Allergy and Infectious Diseases, Department of Medicine, Center for Emerging and Re-Emerging Infectious Diseases (CERID), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Craig",
+        "ForeName": "Justin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Allergy and Infectious Diseases, Department of Medicine, Center for Emerging and Re-Emerging Infectious Diseases (CERID), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Tillery",
+        "ForeName": "Logan",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Allergy and Infectious Diseases, Department of Medicine, Center for Emerging and Re-Emerging Infectious Diseases (CERID), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Shek",
+        "ForeName": "Roger",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Global Infectious Disease Research, Seattle Children's Research Institute, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Harrington",
+        "ForeName": "Whitney E",
+        "Initials": "WE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Allergy and Infectious Diseases, Department of Medicine, Center for Emerging and Re-Emerging Infectious Diseases (CERID), University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Benaroya Research Institute, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Global Health, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Koelle",
+        "ForeName": "David M",
+        "Initials": "DM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Allergy and Infectious Diseases, Department of Medicine, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Wald",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Veesler",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Protein Design (IPD), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "King",
+        "ForeName": "Neil",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Allergy and Infectious Diseases, Department of Medicine, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Boonyaratanakornkit",
+        "ForeName": "Jim",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutics, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Isoherranen",
+        "ForeName": "Nina",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Greninger",
+        "ForeName": "Alexander L",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Jerome",
+        "ForeName": "Keith R",
+        "Initials": "KR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Allergy and Infectious Diseases, Department of Medicine, Center for Emerging and Re-Emerging Infectious Diseases (CERID), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Chu",
+        "ForeName": "Helen",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Global Infectious Disease Research, Seattle Children's Research Institute, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Staker",
+        "ForeName": "Bart",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Protein Design (IPD), University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Stewart",
+        "ForeName": "Lance",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Global Infectious Disease Research, Seattle Children's Research Institute, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Education and Biomedical Informatics & Department of Global Health, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Myler",
+        "ForeName": "Peter J",
+        "Initials": "PJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seattle Structural Genomics Center for Infectious Disease (SSGCID), Seattle, WA, USA. wesley@uw.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. wesley@uw.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, University of Washington, Seattle, WA, USA. wesley@uw.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Global Health, University of Washington, Seattle, WA, USA. wesley@uw.edu."
+          }
+        ],
+        "LastName": "Van Voorhis",
+        "ForeName": "Wesley C",
+        "Initials": "WC"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM120553",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "K08 AI135072",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "CAMS 1017213",
+        "Agency": "Burroughs Wellcome Fund",
+        "Country": ""
+      },
+      {
+        "GrantID": "Investigators in the Pathogenesis of Infectious Diseases award",
+        "Agency": "Burroughs Wellcome Fund",
+        "Country": ""
+      },
+      {
+        "GrantID": "R01GM120553",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "HHSN272201700059C",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "OPP1156262",
+        "Agency": "Bill and Melinda Gates Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "R01AG064800",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "Biomedical Scholars Award",
+        "Agency": "Pew Charitable Trusts",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Epitopes, B-Lymphocyte"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "immunology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Enzyme-Linked Immunosorbent Assay"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Epitopes, B-Lymphocyte"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal-To-Noise Ratio"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

@@ -1,0 +1,197 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Anxiety",
+      "Behavioral features",
+      "Computational ethology",
+      "Elevated plus maze",
+      "Open field test"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33932895",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "26"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.bbrc.2021.03.125",
+      "S0006-291X(21)00528-3"
+    ],
+    "Journal": {
+      "ISSN": "1090-2104",
+      "JournalIssue": {
+        "Volume": "559",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "25"
+        }
+      },
+      "Title": "Biochemical and biophysical research communications",
+      "ISOAbbreviation": "Biochem Biophys Res Commun"
+    },
+    "ArticleTitle": "Objective and comprehensive re-evaluation of anxiety-like behaviors in mice using the Behavior Atlas.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "7",
+      "MedlinePgn": "1-7"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Various animal models of anxiety have been developed to evaluate anxiety and anxiolytic drugs. However, non-uniform measuring paradigms, variability in apparatus use and individual differences in animals confound study results. In this study, when all animals were included in the data analysis, we found no significant differences between control and stressed mice using standard behavioral paradigms for assessing anxiety (elevated plus maze and open field test). To provide a better assessment of anxiety, we therefore used a machine learning approach to analyze the behavioral patterns of each animal, and selected typical subjects in each group for use as a training set according to classical anxiety parameters. Spontaneous behaviors in these animals were captured by multi-view cameras and decomposed into sub-second modules using Behavior Atlas, and six behavioral features providing statistically significant difference between stressed and control mice were identified. Combined with low-dimensional embedding and clustering, new features were used to discriminate stressed mice from controls, in both the training set and all objects. Our results show Behavior Atlas is a powerful approach for identifying new potential biomarkers in an unbiased fashion. Our approach can complement classical measuring paradigms to objectively and comprehensively evaluate anxiety-like behaviors."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, Guangdong Provincial Key Laboratory of Brain Connectome and Behavior, CAS Center for Excellence in Brain Science and Intelligence Technology, Brain Cognition and Brain Disease Institute (BCBDI), Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen-Hong Kong Institute of Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen, 518055, China; University of the Chinese Academy of Sciences, Beijing, 100049, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Nan",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, Guangdong Provincial Key Laboratory of Brain Connectome and Behavior, CAS Center for Excellence in Brain Science and Intelligence Technology, Brain Cognition and Brain Disease Institute (BCBDI), Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen-Hong Kong Institute of Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen, 518055, China; University of the Chinese Academy of Sciences, Beijing, 100049, China."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Yaning",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, Guangdong Provincial Key Laboratory of Brain Connectome and Behavior, CAS Center for Excellence in Brain Science and Intelligence Technology, Brain Cognition and Brain Disease Institute (BCBDI), Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen-Hong Kong Institute of Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen, 518055, China."
+          }
+        ],
+        "LastName": "Ding",
+        "ForeName": "Hui",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, Guangdong Provincial Key Laboratory of Brain Connectome and Behavior, CAS Center for Excellence in Brain Science and Intelligence Technology, Brain Cognition and Brain Disease Institute (BCBDI), Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen-Hong Kong Institute of Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen, 518055, China; University of the Chinese Academy of Sciences, Beijing, 100049, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Kang",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, Guangdong Provincial Key Laboratory of Brain Connectome and Behavior, CAS Center for Excellence in Brain Science and Intelligence Technology, Brain Cognition and Brain Disease Institute (BCBDI), Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen-Hong Kong Institute of Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen, 518055, China; University of the Chinese Academy of Sciences, Beijing, 100049, China. Electronic address: pf.wei@siat.ac.cn."
+          }
+        ],
+        "LastName": "Wei",
+        "ForeName": "Pengfei",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, Guangdong Provincial Key Laboratory of Brain Connectome and Behavior, CAS Center for Excellence in Brain Science and Intelligence Technology, Brain Cognition and Brain Disease Institute (BCBDI), Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen-Hong Kong Institute of Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen, 518055, China; University of the Chinese Academy of Sciences, Beijing, 100049, China. Electronic address: lp.wang@siat.ac.cn."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Liping",
+        "Initials": "L"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Biochem Biophys Res Commun",
+    "NlmUniqueID": "0372516",
+    "ISSNLinking": "0006-291X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "etiology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Behavior, Animal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Models, Animal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Maze Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice, Inbred C57BL"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rats, Sprague-Dawley"
+    }
+  ],
+  "CoiStatement": "Declaration of competing interest All authors declare that there are no conflicts of interest."
+}

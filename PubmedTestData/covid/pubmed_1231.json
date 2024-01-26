@@ -1,0 +1,311 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "mathematical model",
+      "simulation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33402434",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2021642118",
+      "10.1073/pnas.2021642118"
+    ],
+    "Journal": {
+      "ISSN": "1091-6490",
+      "JournalIssue": {
+        "Volume": "118",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "19"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "In silico dynamics of COVID-19 phenotypes for optimizing clinical management.",
+    "Abstract": {
+      "AbstractText": [
+        "Understanding the underlying mechanisms of COVID-19 progression and the impact of various pharmaceutical interventions is crucial for the clinical management of the disease. We developed a comprehensive mathematical framework based on the known mechanisms of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, incorporating the renin-angiotensin system and ACE2, which the virus exploits for cellular entry, key elements of the innate and adaptive immune responses, the role of inflammatory cytokines, and the coagulation cascade for thrombus formation. The model predicts the evolution of viral load, immune cells, cytokines, thrombosis, and oxygen saturation based on patient baseline condition and the presence of comorbidities. Model predictions were validated with clinical data from healthy people and COVID-19 patients, and the results were used to gain insight into identified risk factors of disease progression including older age; comorbidities such as obesity, diabetes, and hypertension; and dysregulated immune response. We then simulated treatment with various drug classes to identify optimal therapeutic protocols. We found that the outcome of any treatment depends on the sustained response rate of activated CD8<sup>+</sup> T cells and sufficient control of the innate immune response. Furthermore, the best treatment-or combination of treatments-depends on the preinfection health status of the patient. Our mathematical framework provides important insight into SARS-CoV-2 pathogenesis and could be used as the basis for personalized, optimal management of COVID-19."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 the Author(s). Published by PNAS."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Biophysics Laboratory, Department of Mechanical and Manufacturing Engineering, University of Cyprus, 1678 Nicosia, Cyprus."
+          }
+        ],
+        "LastName": "Voutouri",
+        "ForeName": "Chrysovalantis",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mechanical Engineering, Sharif University of Technology, Tehran, Iran, 11155."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Edwin L. Steele Laboratories, Department of Radiation Oncology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114."
+          }
+        ],
+        "LastName": "Nikmaneshi",
+        "ForeName": "Mohammad Reza",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pulmonary and Critical Care Medicine, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114."
+          }
+        ],
+        "LastName": "Hardin",
+        "ForeName": "C Corey",
+        "Initials": "CC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine/Renal Division, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+          }
+        ],
+        "LastName": "Patel",
+        "ForeName": "Ankit B",
+        "Initials": "AB"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9497-6327"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine/Renal Division, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115."
+          }
+        ],
+        "LastName": "Verma",
+        "ForeName": "Ashish",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Oncology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114."
+          }
+        ],
+        "LastName": "Khandekar",
+        "ForeName": "Melin J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114."
+          }
+        ],
+        "LastName": "Dutta",
+        "ForeName": "Sayon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3093-1696"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Biophysics Laboratory, Department of Mechanical and Manufacturing Engineering, University of Cyprus, 1678 Nicosia, Cyprus; tstylian@ucy.ac.cy munn@steele.mgh.harvard.edu jain@steele.mgh.harvard.edu."
+          }
+        ],
+        "LastName": "Stylianopoulos",
+        "ForeName": "Triantafyllos",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Edwin L. Steele Laboratories, Department of Radiation Oncology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114; tstylian@ucy.ac.cy munn@steele.mgh.harvard.edu jain@steele.mgh.harvard.edu."
+          }
+        ],
+        "LastName": "Munn",
+        "ForeName": "Lance L",
+        "Initials": "LL"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7571-3548"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Edwin L. Steele Laboratories, Department of Radiation Oncology, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114; tstylian@ucy.ac.cy munn@steele.mgh.harvard.edu jain@steele.mgh.harvard.edu."
+          }
+        ],
+        "LastName": "Jain",
+        "ForeName": "Rakesh K",
+        "Initials": "RK"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U01 CA224348",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "Acronym": "ERC_",
+        "Agency": "European Research Council",
+        "Country": "International"
+      },
+      {
+        "GrantID": "R21 EB031982",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R35 CA197743",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 CA208205",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HL128168",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 CA2044949",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cytokines"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Res Sq. 2020 Sep 03;:",
+      "PMID": "32908974"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "Cytokines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunity, Innate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phenotype"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "Competing interest statement: R.K.J. received honorarium from Amgen; consultant fees from Chugai, Merck, Ophthotech, Pfizer, SPARC, SynDevRx, XTuit, Elpis; owns equity in Accurius, Enlight, Ophthotech, SynDevRx; and serves on the Boards of Trustees of Tekla Healthcare Investors, Tekla Life Sciences Investors, Tekla Healthcare Opportunities Fund, and Tekla World Healthcare Fund. Neither any reagent nor any funding from these organizations was used in this study. A.B.P. has received fellowship funding from Relypsa, Inc. L.L.M. owns equity in Bayer AG and is a consultant for SimBiosys. Neither any reagent nor any funding from these organizations was used in this study."
+}

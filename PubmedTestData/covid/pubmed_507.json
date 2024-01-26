@@ -1,0 +1,166 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "biosecurity",
+      "deep learning",
+      "next-generation sequencing",
+      "novel pathogens",
+      "pathogen detection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34297793",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab269",
+      "10.1093/bib/bbab269"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Deep learning-based real-time detection of novel pathogens during sequencing.",
+    "Abstract": {
+      "AbstractText": [
+        "Novel pathogens evolve quickly and may emerge rapidly, causing dangerous outbreaks or even global pandemics. Next-generation sequencing is the state of the art in open-view pathogen detection, and one of the few methods available at the earliest stages of an epidemic, even when the biological threat is unknown. Analyzing the samples as the sequencer is running can greatly reduce the turnaround time, but existing tools rely on close matches to lists of known pathogens and perform poorly on novel species. Machine learning approaches can predict if single reads originate from more distant, unknown pathogens but require relatively long input sequences and processed data from a finished sequencing run. Incomplete sequences contain less information, leading to a trade-off between sequencing time and detection accuracy. Using a workflow for real-time pathogenic potential prediction, we investigate which subsequences already allow accurate inference. We train deep neural networks to classify Illumina and Nanopore reads and integrate the models with HiLive2, a real-time Illumina mapper. This approach outperforms alternatives based on machine learning and sequence alignment on simulated and real data, including SARS-CoV-2 sequencing runs. After just 50 Illumina cycles, we observe an 80-fold sensitivity increase compared to real-time mapping. The first 250 bp of Nanopore reads, corresponding to 0.5 s of sequencing time, are enough to yield predictions more accurate than mapping the finished long reads. The approach could also be used for screening synthetic sequences against biosecurity threats."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Engineering Faculty, Hasso Plattner Institute, University of Postdam, Prof.-Dr.-Helmert-Stra\u00dfe 2-3, 14482 Brandenburg, Germany."
+          }
+        ],
+        "LastName": "Bartoszewicz",
+        "ForeName": "Jakub M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Engineering Faculty, Hasso Plattner Institute, University of Postdam, Prof.-Dr.-Helmert-Stra\u00dfe 2-3, 14482 Brandenburg, Germany."
+          }
+        ],
+        "LastName": "Genske",
+        "ForeName": "Ulrich",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Engineering Faculty, Hasso Plattner Institute, University of Postdam, Prof.-Dr.-Helmert-Stra\u00dfe 2-3, 14482 Brandenburg, Germany."
+          }
+        ],
+        "LastName": "Renard",
+        "ForeName": "Bernhard Y",
+        "Initials": "BY"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "German Academic Scholarship Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "031L0208",
+        "Agency": "BMBF-funded Computational Life Science initiative",
+        "Country": ""
+      },
+      {
+        "GrantID": "031A537B, 031A533A, 031A538A, 031A533B, 031A535A, 031A537C, 031A534A, 031A532B",
+        "Agency": "German Network for Bioinformatics Infrastructure",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nanopores"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Alignment"
+    }
+  ]
+}

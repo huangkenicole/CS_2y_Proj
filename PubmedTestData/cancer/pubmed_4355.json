@@ -1,0 +1,169 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24465399",
+  "DateCompleted": {
+    "Year": "2014",
+    "Month": "10",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "01",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e84249",
+      "10.1371/journal.pone.0084249"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "9",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2014"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Global dormancy of metastases due to systemic inhibition of angiogenesis.",
+    "Pagination": {
+      "StartPage": "e84249",
+      "MedlinePgn": "e84249"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Autopsy studies of adults dying of non-cancer causes have shown that virtually all of us possess occult, cancerous lesions. This suggests that, for most individuals, cancer will become dormant and not progress, while only in some will it become symptomatic disease. Meanwhile, it was recently shown in animal models that a tumor can produce both stimulators and inhibitors of its own blood supply. To explain the autopsy findings in light of the preclinical research data, we propose a mathematical model of cancer development at the organism scale describing a growing population of metastases, which, together with the primary tumor, can exert a progressively greater level of systemic angiogenesis-inhibitory influence that eventually overcomes local angiogenesis stimulation to suppress the growth of all lesions. As a departure from modeling efforts to date, we look not just at signaling from and effects on the primary tumor, but integrate over this increasingly negative global signaling from all sources to track the development of total tumor burden. This in silico study of the dynamics of the tumor/metastasis system identifies ranges of parameter values where mutual angio-inhibitory interactions within a population of tumor lesions could yield global dormancy, i.e., an organism-level homeostatic steady state in total tumor burden. Given that mortality arises most often from metastatic disease rather than growth of the primary per se, this finding may have important therapeutic implications."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Cancer Systems Biology, GRI, Tufts University School of Medicine, Boston, Massachusetts, United States of America ; Inria team MC2, Institut de Math\u00e9matiques de Bordeaux, Bordeaux, France."
+          }
+        ],
+        "LastName": "Benzekry",
+        "ForeName": "S\u00e9bastien",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto di Analisi dei Sistemi ed Informatica \"Antonio Ruberti\", Roma, Italy."
+          }
+        ],
+        "LastName": "Gandolfi",
+        "ForeName": "Alberto",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Cancer Systems Biology, GRI, Tufts University School of Medicine, Boston, Massachusetts, United States of America."
+          }
+        ],
+        "LastName": "Hahnfeldt",
+        "ForeName": "Philip",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U54 CA149233",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54CA149233",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "prevention & control"
+      ],
+      "DescriptorName": "Neoplasm Metastasis"
+    },
+    {
+      "QualifierName": [
+        "blood supply",
+        "pathology",
+        "prevention & control"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neovascularization, Pathologic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tumor Burden"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests: </b>The authors have declared that no competing interests exist."
+}

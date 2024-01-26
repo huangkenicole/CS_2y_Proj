@@ -1,0 +1,137 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "16621684",
+  "DateCompleted": {
+    "Year": "2007",
+    "Month": "08",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "11",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2006",
+        "Month": "04",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1386-5056",
+      "JournalIssue": {
+        "Volume": "76",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "Jul"
+        }
+      },
+      "Title": "International journal of medical informatics",
+      "ISOAbbreviation": "Int J Med Inform"
+    },
+    "ArticleTitle": "Computer-aided detection of prostate cancer.",
+    "Pagination": {
+      "StartPage": "547",
+      "EndPage": "556",
+      "MedlinePgn": "547-56"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Prostate cancer is one of the most frequent cancers in men and is a major cause of mortality in developed countries. Detection of prostate carcinoma at an early stage is crucial for successful treatment.",
+        "A method for the analysis of transrectal ultrasound images aimed at computer-aided diagnosis of prostate cancer is tested in this paper. First, two classifiers based on k-nearest neighbors and Hidden Markov models are compared. Second, the diagnostic capacity of our system is tested by means of a set of experiments where humans with varying degrees of experience classified a set of ultrasound images with and without the aid of the computer-aided system. The corpus used in this study was specifically acquired for this purpose. It consists of 4944 ultrasound images corresponding to 303 patients, and is publicly available for non-commercial use upon request.",
+        "The best classification results achieve an area under the receiver operating characteristic curve of 61.6%. However, the diagnostic capacity of an expert urologist using the computer-aided system improves only slightly compared with his/her capacity without the aid of the system.",
+        "Despite the difficulty of this task, the obtained results indicate that discrimination between cancerous and non-cancerous tissue is possible to a certain degree. The computer-aided system helps an inexperienced user to make a better diagnosis, however it must be able to perform better in order to be useful in a real-world clinical context."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Tecnol\u00f3gico de Inform\u00e1tica, Ciudad Polit\u00e9cnica de la Innovati\u00f3n, Universidad Polit\u00e9cnica de Valencia, Camino de Vera s/n, 46022 Valencia, Spain. rllobet@iti.upv.es"
+          }
+        ],
+        "LastName": "Llobet",
+        "ForeName": "Rafael",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "P\u00e9rez-Cort\u00e9s",
+        "ForeName": "Juan C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Toselli",
+        "ForeName": "Alejandro H",
+        "Initials": "AH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Juan",
+        "ForeName": "Alfons",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Int J Med Inform",
+    "NlmUniqueID": "9711057",
+    "ISSNLinking": "1386-5056"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Radiographic Image Enhancement"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spain"
+    }
+  ]
+}

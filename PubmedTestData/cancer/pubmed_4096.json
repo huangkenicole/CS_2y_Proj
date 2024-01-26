@@ -1,0 +1,539 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "carcinogenesis",
+      "colon cancer",
+      "diabetes",
+      "field cancerization",
+      "omics",
+      "systems biology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30628165",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "03",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "02",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/1878-0261.12438"
+    ],
+    "Journal": {
+      "ISSN": "1878-0261",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Molecular oncology",
+      "ISOAbbreviation": "Mol Oncol"
+    },
+    "ArticleTitle": "Molecular evidence of field cancerization initiated by diabetes in colon cancer patients.",
+    "Pagination": {
+      "StartPage": "857",
+      "EndPage": "872",
+      "MedlinePgn": "857-872"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The potential involvement of type 2 diabetes mellitus (T2DM) as a risk factor for colon cancer (CC) has been previously reported. While several clinical studies show a higher incidence of CC and a lower survival rate in diabetics, others report no association. Our own experience indicates that diabetes does not seem to worsen the prognosis once the tumor is present. Despite this controversy, there are no wide-spectrum molecular studies that delve into the impact of T2DM-related mechanisms in colon carcinogenesis. Here, we present a transcriptomic and proteomic profiling of paired tumor and normal colon mucosa samples in a cohort of 42 CC patients, 23 of which have T2DM. We used gene set enrichment and network approaches to extract relevant pathways in diabetics, referenced them to current knowledge, and tested them using in\u00a0vitro techniques. Through our transcriptomics approach, we identified an unexpected overlap of pathways overrepresented in diabetics compared to nondiabetics, in both tumor and normal mucosa, including diabetes-related metabolic and signaling processes. Proteomic approaches highlighted several cancer-related signaling routes in diabetics found only in normal mucosa, not in tumors. An integration of the transcriptome and proteome analyses suggested the deregulation of key pathways related to colon carcinogenesis which converged on tumor initiation axis TEAD/YAP-TAZ as a potential initiator of the process. In\u00a0vitro studies confirmed upregulation of this pathway in nontumor colon cells under high-glucose conditions. In conclusion, T2DM associates with deregulation of cancer-related processes in normal colon mucosa adjacent to tissue which has undergone a malignant transformation. These data support that in diabetic patients, the local microenvironment in normal colon mucosa may be a factor driving field cancerization promoting carcinogenesis. Our results set a new framework to study links between diabetes and colon cancer, including a new role of the TEAD/YAP-TAZ complex as a potential driver."
+      ],
+      "CopyrightInformation": "\u00a9 2019 The Authors. Published by FEBS Press and John Wiley & Sons Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Oncology Division, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Del Puerto-Nevado",
+        "ForeName": "Laura",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4099-9421"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genetics Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Minguez",
+        "ForeName": "Pablo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genetics Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biomedical Network Research on Rare Diseases (CIBERER), ISCIII, Madrid, Spain."
+          }
+        ],
+        "LastName": "Corton",
+        "ForeName": "Marta",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Oncology Division, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Solanes-Casado",
+        "ForeName": "Sonia",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Radiation Oncology, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Prieto",
+        "ForeName": "Isabel",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Renal, Vascular and Diabetes Research Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Spanish Biomedical Research Network in Diabetes and Associated Metabolic Disorders (CIBERDEM), Madrid, Spain."
+          }
+        ],
+        "LastName": "Mas",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nephrology and Hypertension Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "REDINREN, Madrid, Spain."
+          }
+        ],
+        "LastName": "Sanz",
+        "ForeName": "Ana Belen",
+        "Initials": "AB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pathology Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Gonzalez-Alonso",
+        "ForeName": "Paula",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genetics Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biomedical Network Research on Rare Diseases (CIBERER), ISCIII, Madrid, Spain."
+          }
+        ],
+        "LastName": "Villaverde",
+        "ForeName": "Cristina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bone and Mineral Metabolism Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Molecular Medicine Institute, School of Medicine, Universidad San Pablo CEU, CEU Universities, Madrid, Spain."
+          }
+        ],
+        "LastName": "Portal-Nu\u00f1ez",
+        "ForeName": "Sergio",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Oncology Division, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Aguilera",
+        "ForeName": "Oscar",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Renal, Vascular and Diabetes Research Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Spanish Biomedical Research Network in Diabetes and Associated Metabolic Disorders (CIBERDEM), Madrid, Spain."
+          }
+        ],
+        "LastName": "Gomez-Guerrero",
+        "ForeName": "Carmen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bone and Mineral Metabolism Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Esbrit",
+        "ForeName": "Pedro",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Immunoallergy and Proteomics Laboratory, Immunology Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Vivanco",
+        "ForeName": "Fernando",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Renal, Vascular and Diabetes Research Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Spanish Biomedical Research Network in Diabetes and Associated Metabolic Disorders (CIBERDEM), Madrid, Spain."
+          }
+        ],
+        "LastName": "Gonzalez",
+        "ForeName": "Nieves",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genetics Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biomedical Network Research on Rare Diseases (CIBERER), ISCIII, Madrid, Spain."
+          }
+        ],
+        "LastName": "Ayuso",
+        "ForeName": "Carmen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nephrology and Hypertension Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "REDINREN, Madrid, Spain."
+          }
+        ],
+        "LastName": "Ortiz",
+        "ForeName": "Alberto",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pathology Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Rojo",
+        "ForeName": "Federico",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Renal, Vascular and Diabetes Research Laboratory, IIS-Fundacion Jimenez Diaz-UAM, Spanish Biomedical Research Network in Diabetes and Associated Metabolic Disorders (CIBERDEM), Madrid, Spain."
+          }
+        ],
+        "LastName": "Egido",
+        "ForeName": "Jesus",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "REDINREN, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Immunoallergy and Proteomics Laboratory, Immunology Department, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Alvarez-Llamas",
+        "ForeName": "Gloria",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Oncology Division, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "LastName": "Garcia-Foncillas",
+        "ForeName": "Jesus",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Oncology Division, Oncohealth Institute, IIS-Fundacion Jimenez Diaz-UAM, Madrid, Spain."
+          }
+        ],
+        "CollectiveName": "DiabetesCancerConnect Consortium"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "CP16/00116",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "CPII15/00027",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "CPII17_00006",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "MS12/03262",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "MSII14/00031",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "PI13/00051",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "PI14/00386",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "PI17/01495",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "PT17/0015/0006",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "PT17/0019",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "RD016/009",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "REDINREN RD012/0021",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      },
+      {
+        "GrantID": "RETICEF RD12/0043/008",
+        "Agency": "Instituto de Salud Carlos III",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Mol Oncol",
+    "NlmUniqueID": "101308230",
+    "ISSNLinking": "1574-7891"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "IY9XDZ35W2",
+      "NameOfSubstance": "Glucose"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Carcinogenesis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cohort Studies"
+    },
+    {
+      "QualifierName": [
+        "etiology",
+        "genetics"
+      ],
+      "DescriptorName": "Colonic Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "complications"
+      ],
+      "DescriptorName": "Diabetes Mellitus, Type 2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Glucose"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "complications"
+      ],
+      "DescriptorName": "Hyperglycemia"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Intestinal Mucosa"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice, Nude"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Signal Transduction"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Up-Regulation"
+    }
+  ],
+  "CoiStatement": "The authors have no conflicts of interest to declare."
+}

@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "internet",
+      "misinformation",
+      "rumors",
+      "social media"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33264102",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e24425",
+      "10.2196/24425"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec",
+          "Day": "15"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "COVID-19 Misinformation Spread in Eight Countries: Exponential Growth Modeling Study.",
+    "Pagination": {
+      "StartPage": "e24425",
+      "MedlinePgn": "e24425"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The epidemic of misinformation about COVID-19 transmission, prevention, and treatment has been going on since the start of the pandemic. However, data on the exposure and impact of misinformation is not readily available.",
+        "We aim to characterize and compare the start, peak, and doubling time of COVID-19 misinformation topics across 8 countries using an exponential growth model usually employed to study infectious disease epidemics.",
+        "COVID-19 misinformation topics were selected from the World Health Organization Mythbusters website. Data representing exposure was obtained from the Google Trends application programming interface for 8 English-speaking countries. Exponential growth models were used in modeling trends for each country.",
+        "Searches for \"coronavirus AND 5G\" started at different times but peaked in the same week for 6 countries. Searches for 5G also had the shortest doubling time across all misinformation topics, with the shortest time in Nigeria and South Africa (approximately 4-5 days). Searches for \"coronavirus AND ginger\" started at the same time (the week of January 19, 2020) for several countries, but peaks were incongruent, and searches did not always grow exponentially after the initial week. Searches for \"coronavirus AND sun\" had different start times across countries but peaked at the same time for multiple countries.",
+        "Patterns in the start, peak, and doubling time for \"coronavirus AND 5G\" were different from the other misinformation topics and were mostly consistent across countries assessed, which might be attributable to a lack of public understanding of 5G technology. Understanding the spread of misinformation, similarities and differences across different contexts can help in the development of appropriate interventions for limiting its impact similar to how we address infectious disease epidemics. Furthermore, the rapid proliferation of misinformation that discourages adherence to public health interventions could be predictive of future increases in disease cases."
+      ],
+      "CopyrightInformation": "\u00a9Elaine Okanyene Nsoesie, Nina Cesare, Martin M\u00fcller, Al Ozonoff. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 15.12.2020."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9170-8714"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Global Health, School of Public Health, Boston University, Boston, MA, United States."
+          }
+        ],
+        "LastName": "Nsoesie",
+        "ForeName": "Elaine Okanyene",
+        "Initials": "EO"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6905-3405"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics and Epidemiology Data Analytics Center, School of Public Health, Boston University, Boston, MA, United States."
+          }
+        ],
+        "LastName": "Cesare",
+        "ForeName": "Nina",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1909-8194"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Epidemiology Lab, \u00c9cole Polytechnique F\u00e9d\u00e9rale, Geneva, Switzerland."
+          }
+        ],
+        "LastName": "M\u00fcller",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4233-5899"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Harvard Medical School, Boston, MA, United States."
+          }
+        ],
+        "LastName": "Ozonoff",
+        "ForeName": "Al",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Multicenter Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Communication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

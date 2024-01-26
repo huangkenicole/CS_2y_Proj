@@ -1,0 +1,227 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36608061",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0265746",
+      "10.1371/journal.pone.0265746"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Bioinformatics and In silico approaches to identify novel biomarkers and key pathways for cancers that are linked to the progression of female infertility: A comprehensive approach for drug discovery.",
+    "Pagination": {
+      "StartPage": "e0265746",
+      "MedlinePgn": "e0265746"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Despite modern treatment, infertility remains one of the most common gynecologic diseases causing severe health effects worldwide. The clinical and epidemiological data have shown that several cancerous risk factors are strongly linked to Female Infertility (FI) development, but the exact causes remain unknown. Understanding how these risk factors affect FI-affected cell pathways might pave the door for the discovery of critical signaling pathways and hub proteins that may be targeted for therapeutic intervention. To deal with this, we have used a bioinformatics pipeline to build a transcriptome study of FI with four carcinogenic risk factors: Endometrial Cancer (EC), Ovarian Cancer (OC), Cervical Cancer (CC), and Thyroid Cancer (TC). We identified FI sharing 97, 211, 87 and 33 differentially expressed genes (DEGs) with EC, OC, CC, and TC, respectively. We have built gene-disease association networks from the identified genes based on the multilayer network and neighbour-based benchmarking. Identified TNF signalling pathways, ovarian infertility genes, cholesterol metabolic process, and cellular response to cytokine stimulus were significant molecular and GO pathways, both of which improved our understanding the fundamental molecular mechanisms of cancers associated with FI progression. For therapeutic intervention, we have targeted the two most significant hub proteins VEGFA and PIK3R1, out of ten proteins based on Maximal Clique Centrality (MCC) value of cytoscape and literature analysis for molecular docking with 27 phytoestrogenic compounds. Among them, sesamin, galangin and coumestrol showed the highest binding affinity for VEGFA and PIK3R1 proteins together with favourable ADMET properties. We recommended that our identified pathway, hub proteins and phytocompounds may be served as new targets and therapeutic interventions for accurate diagnosis and treatment of multiple diseases."
+      ],
+      "CopyrightInformation": "Copyright: \u00a9 2023 Hossain et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Tangail, Bangladesh."
+          }
+        ],
+        "LastName": "Hossain",
+        "ForeName": "Md Arju",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Molecular Biology, Mawlana Bhashani Science and Technology University, Tangail, Bangladesh."
+          }
+        ],
+        "LastName": "Sohel",
+        "ForeName": "Md",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5068-2690"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, Islamic University, Kushtia, Bangladesh."
+          }
+        ],
+        "LastName": "Rahman",
+        "ForeName": "Md Habibur",
+        "Initials": "MH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, Islamic University, Kushtia, Bangladesh."
+          }
+        ],
+        "LastName": "Hasan",
+        "ForeName": "Md Imran",
+        "Initials": "MI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Tangail, Bangladesh."
+          }
+        ],
+        "LastName": "Khan",
+        "ForeName": "Md Sharif",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Tangail, Bangladesh."
+          }
+        ],
+        "LastName": "Amin",
+        "ForeName": "Md Al",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5328-0486"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Graduate School of Engineering, Nagoya University, Nagoya, Japan."
+          }
+        ],
+        "LastName": "Islam",
+        "ForeName": "Md Zahidul",
+        "Initials": "MZ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Peng",
+        "ForeName": "Silong",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infertility, Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Docking Simulation"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Ovarian Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Thyroid Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Discovery"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

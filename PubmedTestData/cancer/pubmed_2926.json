@@ -1,0 +1,196 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30715927",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "06",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "CCI.18.00069",
+      "10.1200/CCI.18.00069"
+    ],
+    "Journal": {
+      "ISSN": "2473-4276",
+      "JournalIssue": {
+        "Volume": "3",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Feb"
+        }
+      },
+      "Title": "JCO clinical cancer informatics",
+      "ISOAbbreviation": "JCO Clin Cancer Inform"
+    },
+    "ArticleTitle": "A Review of Cell-Based Computational Modeling in Cancer Biology.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "13",
+      "MedlinePgn": "1-13"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer biology involves complex, dynamic interactions between cancer cells and their tissue microenvironments. Single-cell effects are critical drivers of clinical progression. Chemical and mechanical communication between tumor and stromal cells can co-opt normal physiologic processes to promote growth and invasion. Cancer cell heterogeneity increases cancer's ability to test strategies to adapt to microenvironmental stresses. Hypoxia and treatment can select for cancer stem cells and drive invasion and resistance. Cell-based computational models (also known as discrete models, agent-based models, or individual-based models) simulate individual cells as they interact in virtual tissues, which allows us to explore how single-cell behaviors lead to the dynamics we observe and work to control in cancer systems. In this review, we introduce the broad range of techniques available for cell-based computational modeling. The approaches can range from highly detailed models of just a few cells and their morphologies to millions of simpler cells in three-dimensional tissues. Modeling individual cells allows us to directly translate biologic observations into simulation rules. In many cases, individual cell agents include molecular-scale models. Most models also simulate the transport of oxygen, drugs, and growth factors, which allow us to link cancer development to microenvironmental conditions. We illustrate these methods with examples drawn from cancer hypoxia, angiogenesis, invasion, stem cells, and immunosurveillance. An ecosystem of interoperable cell-based simulation tools is emerging at a time when cloud computing resources make software easier to access and supercomputing resources make large-scale simulation studies possible. As the field develops, we anticipate that high-throughput simulation studies will allow us to rapidly explore the space of biologic possibilities, prescreen new therapeutic strategies, and even re-engineer tumor and stromal cells to bring cancer systems under control."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Indiana University, Bloomington, IN."
+          }
+        ],
+        "LastName": "Metzcar",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Indiana University, Bloomington, IN."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Yafei",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Indiana University, Bloomington, IN."
+          }
+        ],
+        "LastName": "Heiland",
+        "ForeName": "Randy",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Indiana University, Bloomington, IN."
+          }
+        ],
+        "LastName": "Macklin",
+        "ForeName": "Paul",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 CA180149",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 CA232137",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54 CA143907",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "JCO Clin Cancer Inform",
+    "NlmUniqueID": "101708809",
+    "ISSNLinking": "2473-4276"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Hypoxia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epithelial-Mesenchymal Transition"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Invasiveness"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplastic Stem Cells"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Systems Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tumor Microenvironment"
+    }
+  ],
+  "CoiStatement": "The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to www.asco.org/rwc or ascopubs.org/jco/site/ifc. PAUL MACKLIN: <b>Patents, Royalties, Other Intellectual Property:</b> Patent in review for machine learning in digital pathology : No other potential conflicts of interest were reported."
+}

@@ -1,0 +1,192 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Convolution neural network",
+      "Epithelial layer",
+      "Keratin pearl",
+      "Oral cancer"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30060821",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "10",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "06",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.tice.2018.06.004",
+      "S0040-8166(18)30113-7"
+    ],
+    "Journal": {
+      "ISSN": "1532-3072",
+      "JournalIssue": {
+        "Volume": "53",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Tissue & cell",
+      "ISOAbbreviation": "Tissue Cell"
+    },
+    "ArticleTitle": "Automatic identification of clinically relevant regions from oral tissue histological images for oral squamous cell carcinoma diagnosis.",
+    "Pagination": {
+      "StartPage": "111",
+      "EndPage": "119",
+      "MedlinePgn": "111-119"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Identification of various constituent layers such as epithelial, subepithelial, and keratin of oral mucosa and characterization of keratin pearls within keratin region as well, are the important and mandatory tasks for clinicians during the diagnosis of different stages in oral cancer (such as precancerous and cancerous). The architectural variations of epithelial layers and the presence of keratin pearls, which can be observed in microscopic images, are the key visual features in oral cancer diagnosis. The computer aided tool doing the same identification task would certainly provide crucial aid to clinicians for evaluation of histological images during diagnosis. In this paper, a two-stage approach is proposed for computing oral histology images, where 12-layered (7\u202f\u00d7\u202f7\u00d73 channel patches) deep convolution neural network (CNN) are used for segmentation of constituent layers in the first stage and in the second stage the keratin pearls are detected from the segmented keratin regions using texture-based feature (Gabor filter) trained random forests. The performance of the proposed computing algorithm is tested in our developed oral cancer microscopic image database. The proposed texture-based random forest classifier has achieved 96.88% detection accuracy for detection of keratin pearls."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2018. Published by Elsevier Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medical Science and Technology, Indian Institute of Technology Kharagpur, West Bengal, 721302, India. Electronic address: dev.biomedical@gmal.com."
+          }
+        ],
+        "LastName": "Das",
+        "ForeName": "Dev Kumar",
+        "Initials": "DK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Barasat Cancer Research and Welfare Centre, Barasat, West Bengal, 700124, India."
+          }
+        ],
+        "LastName": "Bose",
+        "ForeName": "Surajit",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BC Roy Technology Hospital, IIT Kharagpur, West Bengal, 721302, India."
+          }
+        ],
+        "LastName": "Maiti",
+        "ForeName": "Asok Kumar",
+        "Initials": "AK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Drs.Tribedi and Roy, Kolkata, West Bengal, 7000016, India."
+          }
+        ],
+        "LastName": "Mitra",
+        "ForeName": "Bhaskar",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Barasat Cancer Research and Welfare Centre, Barasat, West Bengal, 700124, India."
+          }
+        ],
+        "LastName": "Mukherjee",
+        "ForeName": "Gopeswar",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dept. of Electrical Engineering, IIT Kharagpur, West Bengal, 721302, India."
+          }
+        ],
+        "LastName": "Dutta",
+        "ForeName": "Pranab Kumar",
+        "Initials": "PK"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Scotland",
+    "MedlineTA": "Tissue Cell",
+    "NlmUniqueID": "0214745",
+    "ISSNLinking": "0040-8166"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Carcinoma, Squamous Cell"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Mouth Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ]
+}

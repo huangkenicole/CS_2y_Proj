@@ -1,0 +1,152 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25494497",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "01",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2015",
+    "Month": "02",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "12",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TBME.2014.2377555"
+    ],
+    "Journal": {
+      "ISSN": "1558-2531",
+      "JournalIssue": {
+        "Volume": "62",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Mar"
+        }
+      },
+      "Title": "IEEE transactions on bio-medical engineering",
+      "ISOAbbreviation": "IEEE Trans Biomed Eng"
+    },
+    "ArticleTitle": "A Kalman filtering framework for physiological detection of anxiety-related arousal in children with autism spectrum disorder.",
+    "Pagination": {
+      "StartPage": "990",
+      "EndPage": "1000",
+      "MedlinePgn": "990-1000"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Anxiety is associated with physiological changes that can be noninvasively measured using inexpensive and wearable sensors. These changes provide an objective and language-free measure of arousal associated with anxiety, which can complement treatment programs for clinical populations who have difficulty with introspection, communication, and emotion recognition. This motivates the development of automatic methods for detection of anxiety-related arousal using physiology signals. While several supervised learning methods have been proposed for this purpose, these methods require regular collection and updating of training data and are, therefore, not suitable for clinical populations, where obtaining labelled data may be challenging due to impairments in communication and introspection. In this context, the objective of this paper is to develop an unsupervised and real-time arousal detection algorithm.",
+        "We propose a learning framework based on the Kalman filtering theory for detection of physiological arousal based on cardiac activity. The performance of the system was evaluated on data obtained from a sample of children with autism spectrum disorder.",
+        "The results indicate that the system can detect anxiety-related arousal in these children with sensitivity and specificity of 99% and 92%, respectively.",
+        "Our results show that the proposed method can detect physiological arousal associated with anxiety with high accuracy, providing support for technical feasibility of augmenting anxiety treatments with automatic detection techniques. This approach can ultimately lead to more effective anxiety treatment for a larger and more diverse population."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kushki",
+        "ForeName": "Azadeh",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Khan",
+        "ForeName": "Ajmal",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Brian",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Anagnostou",
+        "ForeName": "Evdokia",
+        "Initials": "E"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Biomed Eng",
+    "NlmUniqueID": "0012737",
+    "ISSNLinking": "0018-9294"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "immunology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Arousal"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Autism Spectrum Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electrocardiography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Processing, Computer-Assisted"
+    }
+  ]
+}

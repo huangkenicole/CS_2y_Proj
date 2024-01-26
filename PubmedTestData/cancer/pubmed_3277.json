@@ -1,0 +1,312 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "cancer",
+      "hospitals",
+      "process measures",
+      "quality of care"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33943026",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/cam4.3875"
+    ],
+    "Journal": {
+      "ISSN": "2045-7634",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Cancer medicine",
+      "ISOAbbreviation": "Cancer Med"
+    },
+    "ArticleTitle": "Hospital-level compliance with the commission on cancer's quality of care measures and the association with patient survival.",
+    "Pagination": {
+      "StartPage": "3533",
+      "EndPage": "3544",
+      "MedlinePgn": "3533-3544"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Quality measurement has become a priority for national healthcare reform, and valid measures are necessary to discriminate hospital performance and support value-based healthcare delivery. The Commission on Cancer (CoC) is the largest cancer-specific accreditor of hospital quality in the United States and has implemented Quality of Care Measures to evaluate cancer care delivery. However, none has been formally tested as a valid metric for assessing hospital performance based on actual patient outcomes.",
+        "Eligibility and compliance with the Quality of Care Measures are reported within the National Cancer Database, which also captures data for robust patient-level risk adjustment. Hospital-level compliance was calculated for the core measures, and the association with patient survival was tested using Cox regression.",
+        "Seven hundred sixty-eight thousand nine hundred sixty-nine unique cancer cases were included from 1323 facilities. Increasing hospital-level compliance was associated with improved survival for only two measures, including a 35% reduced risk of mortality for the gastric cancer measure G15RLN (HR 0.65, 95% CI 0.58-0.72) and a 19% reduced risk of mortality for the colon cancer measure 12RLN (HR 0.81, 95% CI 0.77-0.85). For the lung cancer measure LNoSurg, increasing compliance was paradoxically associated with an increased risk of mortality (HR 1.14, 95% CI 1.08-1.20). For the remaining measures, hospital-level compliance demonstrated no consistent association with patient survival.",
+        "Hospital-level compliance with the CoC's Quality of Care Measures is not uniformly aligned with patient survival. In their current form, these measures do not reliably discriminate hospital performance and are limited as a tool for value-based healthcare delivery."
+      ],
+      "CopyrightInformation": "\u00a9 2021 The Authors. Cancer Medicine published by John Wiley & Sons Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3070-6605"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Duke University, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Nussbaum",
+        "ForeName": "Daniel P",
+        "Initials": "DP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics and Bioinformatics, Duke University, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Rushing",
+        "ForeName": "Christel N",
+        "Initials": "CN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Duke University, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Zhifei",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Duke University, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Yerokun",
+        "ForeName": "Babatunde A",
+        "Initials": "BA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Visceral Surgery, Clarunis, University Centre for Gastrointestinal and Liver Diseases, St. Clara Hospital and University Hospital, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Swiss Institute for Translational and Entrepreneurial Medicine, Bern, Switzerland."
+          }
+        ],
+        "LastName": "Worni",
+        "ForeName": "Mathias",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke University, Robert J. Margolis Center for Health Policy, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Saunders",
+        "ForeName": "Robert S",
+        "Initials": "RS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke University, Robert J. Margolis Center for Health Policy, Durham, NC, USA."
+          }
+        ],
+        "LastName": "McClellan",
+        "ForeName": "Mark B",
+        "Initials": "MB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics and Bioinformatics, Duke University, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Niedzwiecki",
+        "ForeName": "Donna",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Population Health Sciences, Duke University, Duke Cancer Institute, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Greenup",
+        "ForeName": "Rachel A",
+        "Initials": "RA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Duke University, Duke Cancer Institute, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Blazer",
+        "ForeName": "Dan G",
+        "Initials": "DG",
+        "Suffix": "3rd"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Cancer Med",
+    "NlmUniqueID": "101595310",
+    "ISSNLinking": "2045-7634"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Accreditation"
+    },
+    {
+      "QualifierName": [
+        "mortality",
+        "therapy"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "mortality",
+        "therapy"
+      ],
+      "DescriptorName": "Carcinoma, Non-Small-Cell Lung"
+    },
+    {
+      "QualifierName": [
+        "mortality",
+        "therapy"
+      ],
+      "DescriptorName": "Colonic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "standards",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Hospitals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Kaplan-Meier Estimate"
+    },
+    {
+      "QualifierName": [
+        "mortality",
+        "therapy"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "mortality",
+        "therapy"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proportional Hazards Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quality Improvement"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quality of Health Care"
+    },
+    {
+      "QualifierName": [
+        "mortality",
+        "therapy"
+      ],
+      "DescriptorName": "Rectal Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "mortality",
+        "therapy"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    }
+  ]
+}

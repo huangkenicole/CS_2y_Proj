@@ -1,0 +1,183 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Explainable artificial intelligence",
+      "Genomics",
+      "Machine learning",
+      "Systematic review"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36809830",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "02",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.pbiomolbio.2023.02.003",
+      "S0079-6107(23)00015-9"
+    ],
+    "Journal": {
+      "ISSN": "1873-1732",
+      "JournalIssue": {
+        "Volume": "179",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May"
+        }
+      },
+      "Title": "Progress in biophysics and molecular biology",
+      "ISOAbbreviation": "Prog Biophys Mol Biol"
+    },
+    "ArticleTitle": "A systematic review of artificial intelligence-based COVID-19 modeling on multimodal genetic information.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "9",
+      "MedlinePgn": "1-9"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This study systematically reviews the Artificial Intelligence (AI) methods developed to resolve the critical process of COVID-19 gene data analysis, including diagnosis, prognosis, biomarker discovery, drug responsiveness, and vaccine efficacy. This systematic review follows the guidelines of Preferred Reporting for Systematic Reviews and Meta-Analyses (PRISMA). We searched PubMed, Embase, Web of Science, and Scopus databases to identify the relevant articles from January 2020 to June 2022. It includes the published studies of AI-based COVID-19 gene modeling extracted through relevant keyword searches in academic databases. This study included 48 articles discussing AI-based genetic studies for several objectives. Ten articles confer about the COVID-19 gene modeling with computational tools, and five articles evaluated ML-based diagnosis with observed accuracy of 97% on SARS-CoV-2 classification. Gene-based prognosis study reviewed three articles and found host biomarkers detecting COVID-19 progression with 90% accuracy. Twelve manuscripts reviewed the prediction models with various genome analysis studies, nine articles examined the gene-based in silico drug discovery, and another nine investigated the AI-based vaccine development models. This study compiled the novel coronavirus gene biomarkers and targeted drugs identified through ML approaches from published clinical studies. This review provided sufficient evidence to delineate the potential of AI in analyzing complex gene information for COVID-19 modeling on multiple aspects like diagnosis, drug discovery, and disease dynamics. AI models entrenched a substantial positive impact by enhancing the efficiency of the healthcare system during the COVID-19 pandemic."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Biology, School of Biosciences and Technology, Vellore Institute of Technology, Vellore, 632014, India. Electronic address: karthiksofficiallog@gmail.com."
+          }
+        ],
+        "LastName": "Sekaran",
+        "ForeName": "Karthik",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Biology, School of Biosciences and Technology, Vellore Institute of Technology, Vellore, 632014, India. Electronic address: gnanasambandan.r@vit.ac.in."
+          }
+        ],
+        "LastName": "Gnanasambandan",
+        "ForeName": "R",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Technology and Engineering, Vellore Institute of Technology, Vellore, 632014, India."
+          }
+        ],
+        "LastName": "Thirunavukarasu",
+        "ForeName": "Ramkumar",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Christian Medical College, Vellore, 632004, Tamil Nadu, India. Electronic address: iramya@cmcvellore.ac.in."
+          }
+        ],
+        "LastName": "Iyyadurai",
+        "ForeName": "Ramya",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Christian Medical College, Vellore, 632004, Tamil Nadu, India. Electronic address: karthikgunasekaran@yahoo.com."
+          }
+        ],
+        "LastName": "Karthik",
+        "ForeName": "G",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Biology, School of Biosciences and Technology, Vellore Institute of Technology, Vellore, 632014, India. Electronic address: georgepriyadoss@vit.ac.in."
+          }
+        ],
+        "LastName": "George Priya Doss",
+        "ForeName": "C",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Systematic Review",
+      "Letter",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Prog Biophys Mol Biol",
+    "NlmUniqueID": "0401233",
+    "ISSNLinking": "0079-6107"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Pandemics"
+    }
+  ]
+}

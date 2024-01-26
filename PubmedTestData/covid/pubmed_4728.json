@@ -1,0 +1,426 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33602693",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1101/gr.268961.120"
+    ],
+    "Journal": {
+      "ISSN": "1549-5469",
+      "JournalIssue": {
+        "Volume": "31",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Genome research",
+      "ISOAbbreviation": "Genome Res"
+    },
+    "ArticleTitle": "SARS-CoV-2 genomic diversity and the implications for qRT-PCR diagnostics and transmission.",
+    "Pagination": {
+      "StartPage": "635",
+      "EndPage": "644",
+      "MedlinePgn": "635-644"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic has sparked an urgent need to uncover the underlying biology of this devastating disease. Though RNA viruses mutate more rapidly than DNA viruses, there are a relatively small number of single nucleotide polymorphisms (SNPs) that differentiate the main SARS-CoV-2 lineages that have spread throughout the world. In this study, we investigated 129 RNA-seq data sets and 6928 consensus genomes to contrast the intra-host and inter-host diversity of SARS-CoV-2. Our analyses yielded three major observations. First, the mutational profile of SARS-CoV-2 highlights intra-host single nucleotide variant (iSNV) and SNP similarity, albeit with differences in C > U changes. Second, iSNV and SNP patterns in SARS-CoV-2 are more similar to MERS-CoV than SARS-CoV-1. Third, a significant fraction of insertions and deletions contribute to the genetic diversity of SARS-CoV-2. Altogether, our findings provide insight into SARS-CoV-2 genomic diversity, inform the design of detection tests, and highlight the potential of iSNVs for tracking the transmission of SARS-CoV-2."
+      ],
+      "CopyrightInformation": "\u00a9 2021 Sapoval et al.; Published by Cold Spring Harbor Laboratory Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-0736-5075"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Rice University, Houston, Texas 77005, USA."
+          }
+        ],
+        "LastName": "Sapoval",
+        "ForeName": "Nicolae",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2553-4231"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA."
+          }
+        ],
+        "LastName": "Mahmoud",
+        "ForeName": "Medhat",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2398-356X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Obstetrics and Gynecology, Baylor College of Medicine and Texas Children's Hospital, Houston, Texas 77030, USA."
+          }
+        ],
+        "LastName": "Jochum",
+        "ForeName": "Michael D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Rice University, Houston, Texas 77005, USA."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Yunxi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3945-0661"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Rice University, Houston, Texas 77005, USA."
+          }
+        ],
+        "LastName": "Elworth",
+        "ForeName": "R A Leo",
+        "Initials": "RAL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Systems, Synthetic, and Physical Biology (SSPB) Graduate Program, Rice University, Houston, Texas 77005, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Qi",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Systems, Synthetic, and Physical Biology (SSPB) Graduate Program, Rice University, Houston, Texas 77005, USA."
+          }
+        ],
+        "LastName": "Albin",
+        "ForeName": "Dreycey",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1589-6885"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Rice University, Houston, Texas 77005, USA."
+          }
+        ],
+        "LastName": "Ogilvie",
+        "ForeName": "Huw A",
+        "Initials": "HA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Exobiology Branch, NASA Ames Research Center, Mountain View, California 94043, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Blue Marble Space Institute of Science, Seattle, Washington 98104, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Michael D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6174-4113"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosurgery, Houston Methodist Research Institute, Houston, Texas 77030, USA."
+          }
+        ],
+        "LastName": "Villapol",
+        "ForeName": "Sonia",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8267-644X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Chicago, Chicago, Illinois 60637, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Translational Data Science, University of Chicago, Chicago, Illinois 60637, USA."
+          }
+        ],
+        "LastName": "Hernandez",
+        "ForeName": "Kyle M",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8555-5352"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Walter Reed Army Institute of Research, Silver Spring, Maryland 20910, USA."
+          }
+        ],
+        "LastName": "Maljkovic Berry",
+        "ForeName": "Irina",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5705-3985"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, New York 10021, USA."
+          }
+        ],
+        "LastName": "Foox",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4643-531X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KBR, Space Biosciences Division, NASA Ames Research Center, Moffett Field, California 94035, USA."
+          }
+        ],
+        "LastName": "Beheshti",
+        "ForeName": "Afshin",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1138-5308"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Signature Science, LLC, Austin, Texas 78759, USA."
+          }
+        ],
+        "LastName": "Ternus",
+        "ForeName": "Krista",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2960-0371"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Obstetrics and Gynecology, Baylor College of Medicine and Texas Children's Hospital, Houston, Texas 77030, USA."
+          }
+        ],
+        "LastName": "Aagaard",
+        "ForeName": "Kjersti M",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1407-3406"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CINBIO, Universidade de Vigo, 36310 Vigo, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, Genetics, and Immunology, Universidade de Vigo, 36310 Vigo, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Galicia Sur Health Research Institute (IIS Galicia Sur), SERGAS-UVIGO, 36213 Vigo, Spain."
+          }
+        ],
+        "LastName": "Posada",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1850-1642"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, New York 10021, USA."
+          }
+        ],
+        "LastName": "Mason",
+        "ForeName": "Christopher E",
+        "Initials": "CE"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6040-2691"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 77030, USA."
+          }
+        ],
+        "LastName": "Sedlazeck",
+        "ForeName": "Fritz J",
+        "Initials": "FJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3760-564X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Rice University, Houston, Texas 77005, USA."
+          }
+        ],
+        "LastName": "Treangen",
+        "ForeName": "Todd J",
+        "Initials": "TJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 HD091731",
+        "Acronym": "HD",
+        "Agency": "NICHD NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 NS106640",
+        "Acronym": "NS",
+        "Agency": "NINDS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Genome Res",
+    "NlmUniqueID": "9518021",
+    "ISSNLinking": "1088-9051"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2020 Jul 02;:",
+      "PMID": "32637955"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Variation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymorphism, Single Nucleotide"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "co-mutation",
+      "community detection",
+      "network",
+      "surveillance"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36755900",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1015969",
+      "10.3389/fpubh.2023.1015969"
+    ],
+    "Journal": {
+      "ISSN": "2296-2565",
+      "JournalIssue": {
+        "Volume": "11",
+        "PubDate": {
+          "Year": "2023"
+        }
+      },
+      "Title": "Frontiers in public health",
+      "ISOAbbreviation": "Front Public Health"
+    },
+    "ArticleTitle": "Early detection of SARS-CoV-2 variants through dynamic co-mutation network surveillance.",
+    "Pagination": {
+      "StartPage": "1015969",
+      "MedlinePgn": "1015969"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Precise public health and clinical interventions for the COVID-19 pandemic has spurred a global rush on SARS-CoV-2 variant tracking, but current approaches to variant tracking are challenged by the flood of viral genome sequences leading to a loss of timeliness, accuracy, and reliability. Here, we devised a new co-mutation network framework, aiming to tackle these difficulties in variant surveillance.",
+        "To avoid simultaneous input and modeling of the whole large-scale data, we dynamically investigate the nucleotide covarying pattern of weekly sequences. The community detection algorithm is applied to a co-occurring genomic alteration network constructed from mutation corpora of weekly collected data. Co-mutation communities are identified, extracted, and characterized as variant markers. They contribute to the creation and weekly updates of a community-based variant dictionary tree representing SARS-CoV-2 evolution, where highly similar ones between weeks have been merged to represent the same variants. Emerging communities imply the presence of novel viral variants or new branches of existing variants. This process was benchmarked with worldwide GISAID data and validated using national level data from six COVID-19 hotspot countries.",
+        "A total of 235 co-mutation communities were identified after a 120 weeks' investigation of worldwide sequence data, from March 2020 to mid-June 2022. The dictionary tree progressively developed from these communities perfectly recorded the time course of SARS-CoV-2 branching, coinciding with GISAID clades. The time-varying prevalence of these communities in the viral population showed a good match with the emergence and circulation of the variants they represented. All these benchmark results not only exhibited the methodology features but also demonstrated high efficiency in detection of the pandemic variants. When it was applied to regional variant surveillance, our method displayed significantly earlier identification of feature communities of major WHO-named SARS-CoV-2 variants in contrast with Pangolin's monitoring.",
+        "An efficient genomic surveillance framework built from weekly co-mutation networks and a dynamic community-based variant dictionary tree enables early detection and continuous investigation of SARS-CoV-2 variants overcoming genomic data flood, aiding in the response to the COVID-19 pandemic."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 Huang, Qiu, Bible, Huang, Zheng, Gu, Sun, Hao and Liu."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Statistics, School of Public Health, Sun Yat-sen University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Qiang",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Artificial Intelligence Machine Vision Engineering Technology Research Center, Guangzhou, China."
+          }
+        ],
+        "LastName": "Qiu",
+        "ForeName": "Huining",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Arts and Sciences, Marian University, Indianapolis, IN, United States."
+          }
+        ],
+        "LastName": "Bible",
+        "ForeName": "Paul W",
+        "Initials": "PW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Public Health, Guangzhou Medical University & Guangzhou Center for Disease Control and Prevention, Guangzhou, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Yong",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Traditional Chinese Medicine Healthcare, Guangdong Food and Drug Vocational College, Guangzhou, China."
+          }
+        ],
+        "LastName": "Zheng",
+        "ForeName": "Fangfang",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Statistics, School of Public Health, Sun Yat-sen University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Gu",
+        "ForeName": "Jing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Research, The Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Jian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Peking University Center for Public Health and Epidemic Preparedness & Response, Beijing, China."
+          }
+        ],
+        "LastName": "Hao",
+        "ForeName": "Yuantao",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Statistics, School of Public Health, Sun Yat-sen University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Yu",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Front Public Health",
+    "NlmUniqueID": "101616579",
+    "ISSNLinking": "2296-2565"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

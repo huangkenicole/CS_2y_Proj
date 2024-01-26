@@ -1,0 +1,158 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "EEG-based depression diagnosis",
+      "adaptive multi-time-window",
+      "brain connectivity",
+      "graph convolutional network",
+      "spatiotemporal features"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37844566",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "10",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1088/1741-2552/ad038b"
+    ],
+    "Journal": {
+      "ISSN": "1741-2552",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct",
+          "Day": "27"
+        }
+      },
+      "Title": "Journal of neural engineering",
+      "ISOAbbreviation": "J Neural Eng"
+    },
+    "ArticleTitle": "AMGCN-L: an adaptive multi-time-window graph convolutional network with long-short-term memory for depression detection.",
+    "Abstract": {
+      "AbstractText": [
+        "<i>Objective.</i>Depression is a common chronic mental disorder characterized by high rates of prevalence, recurrence, suicide, and disability as well as heavy disease burden. An accurate diagnosis of depression is a prerequisite for treatment. However, existing questionnaire-based diagnostic methods are limited by the innate subjectivity of medical practitioners and subjects. In the search for a more objective diagnostic methods for depression, researchers have recently started to use deep learning approaches.<i>Approach.</i>In this work, a deep-learning network, named adaptively multi-time-window graph convolutional network (GCN) with long-short-term memory (LSTM) (i.e. AMGCN-L), is proposed. This network can automatically categorize depressed and non-depressed people by testing for the existence of inherent brain functional connectivity and spatiotemporal features contained in electroencephalogram (EEG) signals. AMGCN-L is mainly composed of two sub-networks: the first sub-network is an adaptive multi-time-window graph generation block with which adjacency matrices that contain brain functional connectivity on different time periods are adaptively designed. The second sub-network consists of GCN and LSTM, which are used to fully extract the innate spatial and temporal features of EEG signals, respectively.<i>Main results.</i>Two public datasets, namely the patient repository for EEG data and computational tools, and the multi-modal open dataset for mental-disorder analysis, were used to test the performance of the proposed network; the depression recognition accuracies achieved in both datasets (using tenfold cross-validation) were 90.38% and 90.57%, respectively.<i>Significance.</i>This work demonstrates that GCN and LSTM have eminent effects on spatial and temporal feature extraction, respectively, suggesting that the exploration of brain connectivity and the exploitation of spatiotemporal features benefit the detection of depression. Moreover, the proposed method provides effective support and supplement for the detection of clinical depression and later treatment procedures."
+      ],
+      "CopyrightInformation": "\u00a9 2023 IOP Publishing Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0009-0003-8349-2476"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tianjin University, Tianjin Key Laboratory of Process Measurement and Control, Institute of Robotics and Autonomous Systems, School of Electrical and Information, Tianjin, People's Republic of China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Han-Guang",
+        "Initials": "HG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tianjin University, Tianjin Key Laboratory of Process Measurement and Control, Institute of Robotics and Autonomous Systems, School of Electrical and Information, Tianjin, People's Republic of China."
+          }
+        ],
+        "LastName": "Meng",
+        "ForeName": "Qing-Hao",
+        "Initials": "QH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tianjin University, Tianjin Key Laboratory of Process Measurement and Control, Institute of Robotics and Autonomous Systems, School of Electrical and Information, Tianjin, People's Republic of China."
+          }
+        ],
+        "LastName": "Jin",
+        "ForeName": "Li-Cheng",
+        "Initials": "LC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4608-273X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tianjin University, Tianjin Key Laboratory of Process Measurement and Control, Institute of Robotics and Autonomous Systems, School of Electrical and Information, Tianjin, People's Republic of China."
+          }
+        ],
+        "LastName": "Hou",
+        "ForeName": "Hui-Rang",
+        "Initials": "HR"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Neural Eng",
+    "NlmUniqueID": "101217933",
+    "ISSNLinking": "1741-2552"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Memory, Short-Term"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Brain"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electroencephalography"
+    }
+  ]
+}

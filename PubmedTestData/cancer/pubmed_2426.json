@@ -1,0 +1,168 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer pathology slides",
+      "Deep learning",
+      "Locally Competitive Algorithm",
+      "Sparse coding",
+      "TCGA",
+      "Transfer learning",
+      "Unsupervised learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30577746",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "12",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "489",
+      "10.1186/s12859-018-2504-8"
+    ],
+    "Journal": {
+      "ISSN": "1471-2105",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "Suppl 18",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Dec",
+          "Day": "21"
+        }
+      },
+      "Title": "BMC bioinformatics",
+      "ISOAbbreviation": "BMC Bioinformatics"
+    },
+    "ArticleTitle": "Sparse coding of pathology slides compared to transfer learning with deep neural networks.",
+    "Pagination": {
+      "StartPage": "489",
+      "MedlinePgn": "489"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Histopathology images of tumor biopsies present unique challenges for applying machine learning to the diagnosis and treatment of cancer. The pathology slides are high resolution, often exceeding 1GB, have non-uniform dimensions, and often contain multiple tissue slices of varying sizes surrounded by large empty regions. The locations of abnormal or cancerous cells, which may constitute a small portion of any given tissue sample, are not annotated. Cancer image datasets are also extremely imbalanced, with most slides being associated with relatively common cancers. Since deep representations trained on natural photographs are unlikely to be optimal for classifying pathology slide images, which have different spectral ranges and spatial structure, we here describe an approach for learning features and inferring representations of cancer pathology slides based on sparse coding.",
+        "We show that conventional transfer learning using a state-of-the-art deep learning architecture pre-trained on ImageNet (RESNET) and fine tuned for a binary tumor/no-tumor classification task achieved between 85% and 86% accuracy. However, when all layers up to the last convolutional layer in RESNET are replaced with a single feature map inferred via a sparse coding using a dictionary optimized for sparse reconstruction of unlabeled pathology slides, classification performance improves to over 93%, corresponding to a 54% error reduction.",
+        "We conclude that a feature dictionary optimized for biomedical imagery may in general support better classification performance than does conventional transfer learning using a dictionary pre-trained on natural images."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Los Alamos National Laboratory, Los Alamos, NM, USA. wfischer@lanl.gov."
+          }
+        ],
+        "LastName": "Fischer",
+        "ForeName": "Will",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chester F. Carlson Center for Imaging Science, Rochester Institute of Technology, Rochester, NY, USA."
+          }
+        ],
+        "LastName": "Moudgalya",
+        "ForeName": "Sanketh S",
+        "Initials": "SS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Los Alamos National Laboratory, Los Alamos, NM, USA."
+          }
+        ],
+        "LastName": "Cohn",
+        "ForeName": "Judith D",
+        "Initials": "JD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Los Alamos National Laboratory, Los Alamos, NM, USA."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Nga T T",
+        "Initials": "NTT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Los Alamos National Laboratory, Los Alamos, NM, USA."
+          }
+        ],
+        "LastName": "Kenyon",
+        "ForeName": "Garrett T",
+        "Initials": "GT"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Bioinformatics",
+    "NlmUniqueID": "100965194",
+    "ISSNLinking": "1471-2105"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "trends"
+      ],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ],
+  "CoiStatement": "ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Non-restricted data from The Cancer Genome Atlas (TCGA) are available under dbGaP Study Accession phs000178.v10.p8. General research use (GRU) consent for these data without additional IRB review was obtained by the National Cancer Institute (https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v10.p8). CONSENT FOR PUBLICATION: All data presented are de-identified and were collected by the National Cancer Institute under strict informed consent policies (available at https://cancergenome.nih.gov/abouttcga/policies/policiesguidelines). Specific consent for publication is not required. COMPETING INTERESTS: The authors declare that they have no competing interests. PUBLISHER\u2019S NOTE: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+}

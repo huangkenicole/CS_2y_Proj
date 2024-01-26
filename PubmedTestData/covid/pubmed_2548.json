@@ -1,0 +1,367 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "drug repurposing",
+      "host factors",
+      "network biology",
+      "network controllability"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34864885",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab490",
+      "10.1093/bib/bbab490"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "17"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Network analytics for drug repurposing in COVID-19.",
+    "Abstract": {
+      "AbstractText": [
+        "To better understand the potential of drug repurposing in COVID-19, we analyzed control strategies over essential host factors for SARS-CoV-2 infection. We constructed comprehensive directed protein-protein interaction (PPI) networks integrating the top-ranked host factors, the drug target proteins and directed PPI data. We analyzed the networks to identify drug targets and combinations thereof that offer efficient control over the host factors. We validated our findings against clinical studies data and bioinformatics studies. Our method offers a new insight into the molecular details of the disease and into potentially new therapy targets for it. Our approach for drug repurposing is significant beyond COVID-19 and may be applied also to other diseases."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9956-1718"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Mathematics and Computer Science, ICUB, University of Bucharest, Romania and Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Romania."
+          }
+        ],
+        "LastName": "Siminea",
+        "ForeName": "Nicoleta",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4420-450X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Technologies, \u00c5bo Akademi University, Turku, Finland."
+          }
+        ],
+        "LastName": "Popescu",
+        "ForeName": "Victor",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3714-8925"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Sistemas Inform\u00e1ticos, Universidad Polit\u00e9cnica de Madrid, Spain."
+          }
+        ],
+        "LastName": "Sanchez Martin",
+        "ForeName": "Jose Angel",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4891-5552"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Romania."
+          }
+        ],
+        "LastName": "Florea",
+        "ForeName": "Daniela",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8208-2251"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Romania."
+          }
+        ],
+        "LastName": "Gavril",
+        "ForeName": "Georgiana",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7193-7085"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Romania."
+          }
+        ],
+        "LastName": "Gheorghe",
+        "ForeName": "Ana-Maria",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2298-8550"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Arctic and Antarctic Research, National Institute of Research and Development for Biological Sciences, Romania and Romanian Young Academy, University of Bucharest, Romania."
+          }
+        ],
+        "LastName": "I\u0163cu\u015f",
+        "ForeName": "Corina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0321-5248"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Technologies, \u00c5bo Akademi University, Turku, Finland."
+          }
+        ],
+        "LastName": "Kanhaiya",
+        "ForeName": "Krishna",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2233-2308"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Romania."
+          }
+        ],
+        "LastName": "Pacioglu",
+        "ForeName": "Octavian",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6446-737X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, Faculty of Biology, University of Bucharest, Bucharest, Romania and Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Bucharest, Romania."
+          }
+        ],
+        "LastName": "Popa",
+        "ForeName": "Laura Lona",
+        "Initials": "LL"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3185-3324"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Bucharest, Romania, and Department of Mathematics and Computer Science, Technical University of Civil Engineering Bucharest, Romania."
+          }
+        ],
+        "LastName": "Trandafir",
+        "ForeName": "Romica",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3078-4147"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Arctic and Antarctic Research, National Institute of Research and Development for Biological Sciences, Romania."
+          }
+        ],
+        "LastName": "Tusa",
+        "ForeName": "Maria Iris",
+        "Initials": "MI"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8740-3803"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Arctic and Antarctic Research, National Institute of Research and Development for Biological Sciences, Romania."
+          }
+        ],
+        "LastName": "Sidoroff",
+        "ForeName": "Manuela",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3342-9140"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Romania, and Faculty of Administration and Business, Research Institute of the University of Bucharest-ICUB, University of Bucharest, Romania."
+          }
+        ],
+        "LastName": "P\u0103un",
+        "ForeName": "Mihaela",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1607-1554"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Romania."
+          }
+        ],
+        "LastName": "Czeizler",
+        "ForeName": "Eugen",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1644-8198"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Mathematics and Computer Science, ICUB, University of Bucharest, Romania, and Department of Bioinformatics, National Institute of Research and Development for Biological Sciences, Romania."
+          }
+        ],
+        "LastName": "P\u0103un",
+        "ForeName": "Andrei",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5014-5529"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, University of Turku, 20014 Turku, Finland and National Institute of Research and Development for Biological Sciences, 296 Independen\u0163ei Bd. District 6, 060031 Bucharest, Romania."
+          }
+        ],
+        "LastName": "Petre",
+        "ForeName": "Ion",
+        "Initials": "I"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "PNIII-P2-2.1-PED-2019-2391",
+        "Agency": "Ministry of Education",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry",
+        "pharmacokinetics"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Maps"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Modeling",
+      "Omicron variant",
+      "SARS-CoV-2",
+      "Whole-area screening strategy"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36642738",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1",
+      "10.1186/s40249-022-01049-w"
+    ],
+    "Journal": {
+      "ISSN": "2049-9957",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jan",
+          "Day": "16"
+        }
+      },
+      "Title": "Infectious diseases of poverty",
+      "ISOAbbreviation": "Infect Dis Poverty"
+    },
+    "ArticleTitle": "Optimizing the nucleic acid screening strategy to mitigate regional outbreaks of SARS-CoV-2 Omicron variant in China: a modeling study.",
+    "Pagination": {
+      "StartPage": "1",
+      "MedlinePgn": "1"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Omicron variant of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spreads rapidly and insidiously. Coronavirus disease 2019 (COVID-19) screening is an important means of blocking community transmission in China, but the costs associated with testing are high. Quarantine capacity and medical resources are also threatened. Therefore, we aimed to evaluate different screening strategies to balance outbreak control and consumption of resources.",
+        "A community network of 2000 people, considering the heterogeneities of household size and age structure, was generated to reflect real contact networks, and a stochastic individual-based dynamic model was used to simulate SARS-CoV-2 transmission and assess different whole-area nucleic acid screening strategies. We designed a total of 87 screening strategies with different sampling methods, frequencies of screening, and timings of screening. The performance of these strategies was comprehensively evaluated by comparing the cumulative infection rates, the number of tests, and the quarantine capacity and consumption of medical resource, which were expressed as medians (95% uncertainty intervals, 95% UIs).",
+        "To implement COVID-19 nucleic acid testing for all people (Full Screening), if the screening frequency was four times/week, the cumulative infection rate could be reduced to 13% (95% UI: 1%, 51%), the miss rate decreased to 2% (95% UI: 0%, 22%), and the quarantine and medical resource consumption was lower than higher-frequency Full Screening or sampling screening. When the frequency of Full Screening increased from five to seven times/week (which resulted in a 2581 increase in the number of tests per positive case), the cumulative infection rate was only reduced by 2%. Screening all people weekly by splitting them equally into seven batches could reduce infection rates by 73% compared to once per week, which was similar to Full Screening four times/week. Full Screening had the highest number of tests per positive case, while the miss rate, number of tests per positive case, and hotel quarantine resource consumption in Household-based Sampling Screening scenarios were lower than Random Sampling Screening. The cumulative infection rate of Household-based Sampling Screening or Random Sampling Screening seven times/week was similar to that of Full Screening four times/week.",
+        "If hotel quarantine, hospital and shelter hospital capacity are seriously insufficient, to stop the spread of the virus as early as possible, high-frequency Full Screening would be necessary, but intermediate testing frequency may be more cost-effective in non-extreme situations. Screening in batches is recommended if the testing capacity is low. Household-based Sampling Screening is potentially a promising strategy to implement."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Health Statistics, School of Public Health, Fudan University, No.130, Dong'An Road, Xuhui District, Shanghai, 200032, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Yin",
+        "ForeName": "Yun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Health Statistics, School of Public Health, Fudan University, No.130, Dong'An Road, Xuhui District, Shanghai, 200032, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Yuanhua",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Physics, North China Electric Power University, Baoding, China."
+          }
+        ],
+        "LastName": "Duan",
+        "ForeName": "Mengwei",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Physics, North China Electric Power University, Baoding, China."
+          }
+        ],
+        "LastName": "Xie",
+        "ForeName": "Xiyang",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Health Statistics, School of Public Health, Fudan University, No.130, Dong'An Road, Xuhui District, Shanghai, 200032, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Hong",
+        "ForeName": "Jie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Health Statistics, School of Public Health, Fudan University, No.130, Dong'An Road, Xuhui District, Shanghai, 200032, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Jiaqi",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Health Statistics, School of Public Health, Fudan University, No.130, Dong'An Road, Xuhui District, Shanghai, 200032, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Ke",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Health Statistics, School of Public Health, Fudan University, No.130, Dong'An Road, Xuhui District, Shanghai, 200032, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Shi",
+        "ForeName": "Jin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Health Statistics, School of Public Health, Fudan University, No.130, Dong'An Road, Xuhui District, Shanghai, 200032, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Xi",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Blood Transfusion, Changchun People's Hospital, Changchun, China."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Hongyan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Physics, North China Electric Power University, Baoding, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Xuan",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Geomatics and Spatial Information, Shandong University of Science and Technology, Qingdao, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Rui",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Physics, North China Electric Power University, Baoding, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Caifeng",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Physics, North China Electric Power University, Baoding, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Xiaozhe",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Physics, North China Electric Power University, Baoding, China. konglc@ncepu.edu.cn."
+          }
+        ],
+        "LastName": "Kong",
+        "ForeName": "Lingcai",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1276-787X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Health Statistics, School of Public Health, Fudan University, No.130, Dong'An Road, Xuhui District, Shanghai, 200032, China. epistat@gmail.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China. epistat@gmail.com."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Zhijie",
+        "Initials": "Z"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "81973102",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "GWV-10.2-XD21",
+        "Agency": "Public Health Talents Training Program of Shanghai Municipality",
+        "Country": ""
+      },
+      {
+        "GrantID": "GWV-10.1-XK16",
+        "Agency": "the Shanghai New Three-year Action Plan for Public Health",
+        "Country": ""
+      },
+      {
+        "GrantID": "2021YFF0306000",
+        "Agency": "the Major Project of Scientific and Technical Winter Olympics from National Key Research and Development Program of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "ncepu",
+        "Agency": "the Fundamental Research Funds for the Central Universities",
+        "Country": ""
+      },
+      {
+        "GrantID": "2021MS117",
+        "Agency": "the Fundamental Research Funds for the Central Universities",
+        "Country": ""
+      },
+      {
+        "GrantID": "2022YFC2602900",
+        "Agency": "National Key Research and Development Program of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Infect Dis Poverty",
+    "NlmUniqueID": "101606645",
+    "ISSNLinking": "2049-9957"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    }
+  ],
+  "CoiStatement": "We declare no competing interests."
+}

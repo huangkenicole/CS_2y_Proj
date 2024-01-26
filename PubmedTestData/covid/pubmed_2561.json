@@ -1,0 +1,185 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33412850",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acs.jcim.0c01231"
+    ],
+    "Journal": {
+      "ISSN": "1549-960X",
+      "JournalIssue": {
+        "Volume": "61",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "25"
+        }
+      },
+      "Title": "Journal of chemical information and modeling",
+      "ISOAbbreviation": "J Chem Inf Model"
+    },
+    "ArticleTitle": "Computational Insight Into the Mechanism of SARS-CoV-2 Membrane Fusion.",
+    "Pagination": {
+      "StartPage": "423",
+      "EndPage": "431",
+      "MedlinePgn": "423-431"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Membrane fusion, a key step in the early stages of virus propagation, allows the release of the viral genome in the host cell cytoplasm. The process is initiated by fusion peptides that are small, hydrophobic components of viral membrane-embedded glycoproteins and are typically conserved within virus families. Here, we attempted to identify the correct fusion peptide region in the Spike protein of SARS-CoV-2 by all-atom molecular dynamics simulations of dual membrane systems with varied oligomeric units of putative candidate peptides. Of all of the systems tested, only a trimeric unit of a 40-amino-acid region (residues 816-855 of SARS-CoV-2 Spike) was effective in triggering the initial stages of membrane fusion, within 200 ns of simulation time. Association of this trimeric unit with dual membranes resulted in the migration of lipids from the upper leaflet of the lower bilayer toward the lower leaflet of the upper bilayer to create a structural unit reminiscent of a fusion bridge. We submit that residues 816-855 of Spike represent the bona fide fusion peptide of SARS-CoV-2 and that computational methods represent an effective way to identify fusion peptides in viral glycoproteins."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6752-4296"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi, Hauz Khas, New Delhi 110016, India."
+          }
+        ],
+        "LastName": "Borkotoky",
+        "ForeName": "Subhomoi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine, University of Maryland, Baltimore, Maryland 21201, United States."
+          }
+        ],
+        "LastName": "Dey",
+        "ForeName": "Debajit",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6202-5965"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi, Hauz Khas, New Delhi 110016, India."
+          }
+        ],
+        "LastName": "Banerjee",
+        "ForeName": "Manidipa",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Chem Inf Model",
+    "NlmUniqueID": "101230060",
+    "ISSNLinking": "1549-9596"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Peptides"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Amino Acid Sequence"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Membrane Fusion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Peptides"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Multimerization"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Internalization"
+    }
+  ]
+}

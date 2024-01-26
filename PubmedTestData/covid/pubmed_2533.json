@@ -1,0 +1,254 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-COV2",
+      "bioinformatics",
+      "immune system",
+      "miRNA",
+      "respiratory system",
+      "vitamin D pathway"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34159729",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1111/jcmm.16694"
+    ],
+    "Journal": {
+      "ISSN": "1582-4934",
+      "JournalIssue": {
+        "Volume": "25",
+        "Issue": "16",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Journal of cellular and molecular medicine",
+      "ISOAbbreviation": "J Cell Mol Med"
+    },
+    "ArticleTitle": "Interplay between SARS-CoV-2-derived miRNAs, immune system, vitamin D pathway and respiratory system.",
+    "Pagination": {
+      "StartPage": "7825",
+      "EndPage": "7839",
+      "MedlinePgn": "7825-7839"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The new coronavirus pandemic started in China in 2019. The intensity of the disease can range from mild to severe, leading to death in many cases. Despite extensive research in this area, the exact molecular nature of virus is not fully recognized; however, according to pieces of evidence, one of the mechanisms of virus pathogenesis is through the function of viral miRNAs. So, we hypothesized that SARS-CoV-2 pathogenesis may be due to targeting important genes in the host with its miRNAs, which involved in the respiratory system, immune pathways and vitamin D pathways, thus possibly contributing to disease progression and virus survival.\u00a0Potential miRNA precursors and mature miRNA were predicted and confirmed based on the virus genome. The next step was to predict and identify their target genes and perform functional enrichment analysis to recognize the biological processes connected with these genes in the three pathways mentioned above through several comprehensive databases. Finally, cis-acting regulatory elements in 5' regulatory regions were analysed, and the analysis of available RNAseq data determined the expression level of genes. We revealed that thirty-nine mature miRNAs could theoretically derive from the SARS-CoV-2 genome. Functional enrichment analysis elucidated three highlighted pathways involved in SARS-CoV-2 pathogenesis: vitamin D, immune system and respiratory system. Our finding highlighted genes' involvement in three crucial molecular pathways and may help develop new therapeutic targets related to SARS-CoV-2."
+      ],
+      "CopyrightInformation": "\u00a9 2021 The Authors. Journal of Cellular and Molecular Medicine published by Foundation for Cellular and Molecular Medicine and John Wiley & Sons Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Student Research Committee, Faculty of Medicine, Hormozgan University of Medical Sciences, Bandar Abbas, Iran."
+          }
+        ],
+        "LastName": "Karimi",
+        "ForeName": "Elham",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2956-6222"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Student Research Committee, Faculty of Medicine, Hormozgan University of Medical Sciences, Bandar Abbas, Iran."
+          }
+        ],
+        "LastName": "Azari",
+        "ForeName": "Hanieh",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Biotechnology, School of Advanced Medical Sciences and Technologies, Shiraz University of Medical Sciences, Shiraz, Iran."
+          }
+        ],
+        "LastName": "Yari",
+        "ForeName": "Maryam",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biotechnology, Shiraz University, Shiraz, Iran."
+          }
+        ],
+        "LastName": "Tahmasebi",
+        "ForeName": "Ahmad",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious and Tropical Diseases Research Center, Hormozgan Health Institute, Hormozgan University of Medical Sciences, Bandar Abbas, Iran."
+          }
+        ],
+        "LastName": "Hassani Azad",
+        "ForeName": "Mehdi",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5654-7561"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious and Tropical Diseases Research Center, Hormozgan Health Institute, Hormozgan University of Medical Sciences, Bandar Abbas, Iran."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Genetics, Faculty of Medicine, Hormozgan University of Medical Sciences, Bandar Abbas, Iran."
+          }
+        ],
+        "LastName": "Mousavi",
+        "ForeName": "Pegah",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "990268",
+        "Agency": "Vice Chancellor for Research",
+        "Country": ""
+      },
+      {
+        "Agency": "Hormozgan University of Medical Sciences",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Cell Mol Med",
+    "NlmUniqueID": "101083777",
+    "ISSNLinking": "1582-1838"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    },
+    {
+      "RegistryNumber": "1406-16-2",
+      "NameOfSubstance": "Vitamin D"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Immune System"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Sequence Annotation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Promoter Regions, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Respiratory System"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Vitamin D"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflict of interests."
+}

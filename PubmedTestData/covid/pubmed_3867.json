@@ -1,0 +1,308 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34555117",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0257817",
+      "10.1371/journal.pone.0257817"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "An optimized stepwise algorithm combining rapid antigen and RT-qPCR for screening of COVID-19 patients.",
+    "Pagination": {
+      "StartPage": "e0257817",
+      "MedlinePgn": "e0257817"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We investigated the combination of rapid antigen detection (RAD) and RT-qPCR assays in a stepwise procedure to optimize the detection of COVID-19.",
+        "From August 2020 to November 2020, 43,399 patients were screened in our laboratory for COVID-19 diagnostic by RT-qPCR using nasopharyngeal swab. Overall, 4,691 of the 43,399 were found to be positive, and 200 were retrieved for RAD testing allowing comparison of diagnostic accuracy between RAD and RT-qPCR. Cycle threshold (Ct) and time from symptoms onset (TSO) were included as covariates.",
+        "The overall sensitivity, specificity, PPV, NPV, LR-, and LR+ of RAD compared with RT-qPCR were 72% (95%CI 62%-81%), 99% (95% CI95%-100%), 99% (95%CI 93%-100%), and 78% (95%CI 70%-85%), 0.28 (95%CI 0.21-0.39), and 72 (95%CI 10-208) respectively. Sensitivity was higher for patients with Ct \u2264 25 regardless of TSO: TSO \u2264 4 days 92% (95%CI 75%-99%), TSO > 4 days 100% (95%CI 54%-100%), and asymptomatic 100% (95%CI 78-100%). Overall, combining RAD and RT-qPCR would allow reducing from only 4% the number of RT-qPCR needed.",
+        "This study highlights the risk of misdiagnosing COVID-19 in 28% of patients if RAD is used alone. A stepwise analysis that combines RAD and RT-qPCR would be an efficient screening procedure for COVID-19 detection and may facilitate the control of the outbreak."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire Alphabio, Marseille, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Service de M\u00e9decine Interne et de Maladies Infectieuses, H\u00f4pital Europ\u00e9en Marseille, Marseille, France."
+          }
+        ],
+        "LastName": "Halfon",
+        "ForeName": "Philippe",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7461-4254"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire Alphabio, Marseille, France."
+          }
+        ],
+        "LastName": "Penaranda",
+        "ForeName": "Guillaume",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire Alphabio, Marseille, France."
+          }
+        ],
+        "LastName": "Khiri",
+        "ForeName": "Hac\u00e8ne",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire Alphabio, Marseille, France."
+          }
+        ],
+        "LastName": "Garcia",
+        "ForeName": "Vincent",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Service de M\u00e9decine Interne et de Maladies Infectieuses, H\u00f4pital Europ\u00e9en Marseille, Marseille, France."
+          }
+        ],
+        "LastName": "Drouet",
+        "ForeName": "Hortense",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Service de M\u00e9decine Interne et de Maladies Infectieuses, H\u00f4pital Europ\u00e9en Marseille, Marseille, France."
+          }
+        ],
+        "LastName": "Philibert",
+        "ForeName": "Patrick",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Service de M\u00e9decine Interne et de Maladies Infectieuses, H\u00f4pital Europ\u00e9en Marseille, Marseille, France."
+          }
+        ],
+        "LastName": "Psomas",
+        "ForeName": "Christina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Service de M\u00e9decine Interne et de Maladies Infectieuses, H\u00f4pital Europ\u00e9en Marseille, Marseille, France."
+          }
+        ],
+        "LastName": "Delord",
+        "ForeName": "Marion",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Service de M\u00e9decine Interne et de Maladies Infectieuses, H\u00f4pital Europ\u00e9en Marseille, Marseille, France."
+          }
+        ],
+        "LastName": "Retornaz",
+        "ForeName": "Fr\u00e9d\u00e9rique",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Service de M\u00e9decine Interne et de Maladies Infectieuses, H\u00f4pital Europ\u00e9en Marseille, Marseille, France."
+          }
+        ],
+        "LastName": "Charpin",
+        "ForeName": "Caroline",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Service de M\u00e9decine Interne et de Maladies Infectieuses, H\u00f4pital Europ\u00e9en Marseille, Marseille, France."
+          }
+        ],
+        "LastName": "Gonzales",
+        "ForeName": "Thomas",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Service de Pneumologie, H\u00f4pital Europ\u00e9en, Marseille, France."
+          }
+        ],
+        "LastName": "Pegliasco",
+        "ForeName": "Herv\u00e9",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Service de R\u00e9animation, H\u00f4pital Europ\u00e9en, Marseille, France."
+          }
+        ],
+        "LastName": "Allardet-Servent",
+        "ForeName": "J\u00e9r\u00f4me",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antigens, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Antigens, Viral"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Mass Screening"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

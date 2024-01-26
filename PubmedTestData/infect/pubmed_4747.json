@@ -1,0 +1,166 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "antibiotic cycling",
+      "antimicrobial resistance",
+      "health care associated infection",
+      "value of information"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31875921",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/imammb/dqz015"
+    ],
+    "Journal": {
+      "ISSN": "1477-8602",
+      "JournalIssue": {
+        "Volume": "37",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Sep",
+          "Day": "10"
+        }
+      },
+      "Title": "Mathematical medicine and biology : a journal of the IMA",
+      "ISOAbbreviation": "Math Med Biol"
+    },
+    "ArticleTitle": "Informed and uninformed empirical therapy policies.",
+    "Pagination": {
+      "StartPage": "334",
+      "EndPage": "350",
+      "MedlinePgn": "334-350"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We argue that a proper distinction must be made between informed and uninformed decision making when setting empirical therapy policies, as this allows one to estimate the value of gathering more information about the pathogens and their transmission and thus to set research priorities. We rely on the stochastic version of a compartmental model to describe the spread of an infecting organism in a health care facility and the emergence and spread of resistance to two drugs. We focus on information and uncertainty regarding the parameters of this model. We consider a family of adaptive empirical therapy policies. In the uninformed setting, the best adaptive policy allowsone to reduce the average cumulative infected patient days over 2 years by 39.3% (95% confidence interval (CI), 30.3-48.1%) compared to the combination therapy. Choosing empirical therapy policies while knowing the exact parameter values allows one to further decrease the cumulative infected patient days by 3.9% (95% CI, 2.1-5.8%) on average. In our setting, the benefit of perfect information might be offset by increased drug consumption."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2019. Published by Oxford University Press on behalf of the Institute of Mathematics and its Applications. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Lyon, Lyon, F-69007, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CNRS, GATE Lyon Saint-Etienne, F-69130, France."
+          }
+        ],
+        "LastName": "Houy",
+        "ForeName": "Nicolas",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Lyon, Lyon, F-69007, France."
+          }
+        ],
+        "LastName": "Flaig",
+        "ForeName": "Julien",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Math Med Biol",
+    "NlmUniqueID": "101182345",
+    "ISSNLinking": "1477-8599"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Anti-Infective Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "administration & dosage"
+      ],
+      "DescriptorName": "Anti-Infective Agents"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Clinical Decision-Making"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "transmission"
+      ],
+      "DescriptorName": "Cross Infection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Resistance, Microbial"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Therapy, Combination"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Health Policy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematical Concepts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Uncertainty"
+    }
+  ]
+}

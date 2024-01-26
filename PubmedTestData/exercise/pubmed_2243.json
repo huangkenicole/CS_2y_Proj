@@ -1,0 +1,217 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "Aerobic exercise",
+      "exertion level",
+      "heart rate variability",
+      "machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37386988",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3233/SHTI230454"
+    ],
+    "Journal": {
+      "ISSN": "1879-8365",
+      "JournalIssue": {
+        "Volume": "305",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jun",
+          "Day": "29"
+        }
+      },
+      "Title": "Studies in health technology and informatics",
+      "ISOAbbreviation": "Stud Health Technol Inform"
+    },
+    "ArticleTitle": "Exercise Exertion Levels Prediction Based on Real-Time Wearable Physiological Signal Monitoring.",
+    "Pagination": {
+      "StartPage": "172",
+      "EndPage": "175",
+      "MedlinePgn": "172-175"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The real-time revolutions per minute (RPM) data, ECG signal, pulse rate, and oxygen saturation levels were collected during 16-minute cycling exercises. In parallel, ratings of perceived exertion (RPE) were collected each minute from the study participants. A 2-minute moving window, with one minute shift, was applied to each 16-minute exercise session to divide it into a total of fifteen 2-minute windows. Based on the self-reported RPE, each exercise window was labeled as \"high exertion\" or \"low exertion\" classes. The heart rate variability (HRV) characteristics in time and frequency domains were extracted from the collected ECG signals for each window. In addition, collected oxygen saturation levels, pulse rate, and RPMs were averaged for each window. The best predictive features were then selected using the minimum redundancy maximum relevance (mRMR) algorithm. Top selected features were then used to assess the accuracy of five ML classifiers to predict the level of exertion. The Na\u00efve Bayes model demonstrated the best performance with an accuracy of 80% and an F1 score of 79%."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Smiley",
+        "ForeName": "Aref",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Tsai",
+        "ForeName": "Te-Yi",
+        "Initials": "TY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Zakashansky",
+        "ForeName": "Elena",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Gabriel",
+        "ForeName": "Aileen",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Xhakli",
+        "ForeName": "Taulant",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Cui",
+        "ForeName": "Wanting",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Huo",
+        "ForeName": "Xingyue",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Havrylchuk",
+        "ForeName": "Ihor",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Cui",
+        "ForeName": "Hu",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The University of Utah, Salt Lake City, UT, USA."
+          }
+        ],
+        "LastName": "Finkelstein",
+        "ForeName": "Joseph",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Stud Health Technol Inform",
+    "NlmUniqueID": "9214582",
+    "ISSNLinking": "0926-9630"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Exertion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    }
+  ]
+}

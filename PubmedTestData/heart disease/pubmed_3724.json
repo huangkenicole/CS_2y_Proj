@@ -1,0 +1,176 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "23394802",
+  "DateCompleted": {
+    "Year": "2013",
+    "Month": "12",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2013",
+    "Month": "05",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2013",
+        "Month": "02",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cmpb.2013.01.005",
+      "S0169-2607(13)00008-4"
+    ],
+    "Journal": {
+      "ISSN": "1872-7565",
+      "JournalIssue": {
+        "Volume": "110",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2013",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "A heart disease recognition embedded system with fuzzy cluster algorithm.",
+    "Pagination": {
+      "StartPage": "447",
+      "EndPage": "454",
+      "MedlinePgn": "447-54"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This article presents the viability analysis and the development of heart disease identification embedded system. It offers a time reduction on electrocardiogram - ECG signal processing by reducing the amount of data samples, without any significant loss. The goal of the developed system is the analysis of heart signals. The ECG signals are applied into the system that performs an initial filtering, and then uses a Gustafson-Kessel fuzzy clustering algorithm for the signal classification and correlation. The classification indicated common heart diseases such as angina, myocardial infarction and coronary artery diseases. The system uses the European electrocardiogram ST-T Database (EDB) as a reference for tests and evaluation. The results prove the system can perform the heart disease detection on a data set reduced from 213 to just 20 samples, thus providing a reduction to just 9.4% of the original set, while maintaining the same effectiveness. This system is validated in a Xilinx Spartan(\u00ae)-3A FPGA. The field programmable gate array (FPGA) implemented a Xilinx Microblaze(\u00ae) Soft-Core Processor running at a 50MHz clock rate."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2013 Elsevier Ireland Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IFSP, Campus Campos do Jordao, Rua Monsenhor Jos\u00e9 Vita - 280 - Abernessia, Campos do Jordao, SP, 12460-000, Brazil."
+          }
+        ],
+        "LastName": "de Carvalho",
+        "ForeName": "Helton Hugo",
+        "Initials": "HH",
+        "Suffix": "Jr"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Moreno",
+        "ForeName": "Robson Luiz",
+        "Initials": "RL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pimenta",
+        "ForeName": "Tales Cleber",
+        "Initials": "TC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Crepaldi",
+        "ForeName": "Paulo C",
+        "Initials": "PC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Cintra",
+        "ForeName": "Evaldo",
+        "Initials": "E"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Arrhythmias, Cardiac"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Diagnosis, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Electrocardiography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fuzzy Logic"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Myocardial Infarction"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Pattern Recognition, Automated"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Processing, Computer-Assisted"
+    }
+  ]
+}

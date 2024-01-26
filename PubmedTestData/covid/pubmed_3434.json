@@ -1,0 +1,153 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33511381",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1039/d0lc01143f"
+    ],
+    "Journal": {
+      "ISSN": "1473-0189",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "07"
+        }
+      },
+      "Title": "Lab on a chip",
+      "ISOAbbreviation": "Lab Chip"
+    },
+    "ArticleTitle": "Thin-film-transistor digital microfluidics for high value in vitro diagnostics at the point of need.",
+    "Pagination": {
+      "StartPage": "962",
+      "EndPage": "975",
+      "MedlinePgn": "962-975"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The latest developments in thin-film-transistor digital-microfluidics (TFT-DMF, also known by the commercial name aQdrop\u2122) are reported, and proof of concept application to molecular diagnostics (e.g. for coronavirus disease, COVID-19) at the point-of-need demonstrated. The TFT-DMF array has 41 thousand independently addressable electrodes that are capable of manipulating large numbers of droplets of any size and shape, along any pathway to perform multiple parallel reactions. Droplets are continually tracked and adjusted through closed-loop feedback enabled by TFT based sensors at each array element. The sample-to-answer molecular in vitro diagnostic (IVD) test for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) includes nucleic acid extractions from saliva, removal of dsDNA and quantitative reverse transcription polymerase chain reaction (RT-PCR). This proof of concept illustrates how the highly configurable TFT-DMF technology can perform many reactions in parallel and thus support the processing of a range of sample types followed by multiple complex multi-step assays."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sharp Life Science (EU) Ltd, Edmund Halley Road, Oxford Science Park, OX4 4GB, UK. sally.anderson2@ntlworld.com."
+          }
+        ],
+        "LastName": "Anderson",
+        "ForeName": "Sally",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hadwen",
+        "ForeName": "Ben",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Brown",
+        "ForeName": "Chris",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Lab Chip",
+    "NlmUniqueID": "101128948",
+    "ISSNLinking": "1473-0189"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Microfluidics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Saliva"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transistors, Electronic"
+    }
+  ]
+}

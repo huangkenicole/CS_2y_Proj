@@ -1,0 +1,194 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "cancer metastasis",
+      "liquid biopsy",
+      "nanosensors",
+      "precision medicine",
+      "tumor associated T cells"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37093561",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "04",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acsnano.2c09323"
+    ],
+    "Journal": {
+      "ISSN": "1936-086X",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May",
+          "Day": "09"
+        }
+      },
+      "Title": "ACS nano",
+      "ISOAbbreviation": "ACS Nano"
+    },
+    "ArticleTitle": "Mapping Immune-Tumor Bidirectional Dialogue Using Ultrasensitive Nanosensors for Accurate Diagnosis of Lung Cancer.",
+    "Pagination": {
+      "StartPage": "8026",
+      "EndPage": "8040",
+      "MedlinePgn": "8026-8040"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Lung cancer is one of the most common cancers with high mortality worldwide despite the development of molecularly targeted therapies and immunotherapies. A significant challenge in managing lung cancer is the accurate diagnosis of cancerous lesions owing to the lack of sensitive and specific biomarkers. The current procedure necessitates an invasive tissue biopsy for diagnosis and molecular subtyping, which presents patients with risk, morbidity, anxiety, and high false-positive rates. The high-risk diagnostic approach has highlighted the need to search for a reliable, low-risk noninvasive diagnostic approach to capture lung cancer heterogeneity precisely. The immune interaction profile of lung cancer is driven by immune cells' distinctive, precise interactions with the tumor microenvironment. Here, we hypothesize that immune cells, particularly T cells, can be used for accurate lung cancer diagnosis by exploiting the distinctive immune-tumor interaction by detecting the immune-diagnostic signature. We have developed an ultrasensitive T-sense nanosensor to probe these specific diagnostic signatures using the physical synthesis process of multiphoton ionization. Our research employed predictive in vitro models of lung cancers, cancer-associated T cells (PCAT, MCAT) and CSC-associated T cells (PCSCAT, MCSCAT), from primary and metastatic lung cancer patients to reveal the immune-diagnostic signature and uncover the molecular, functional, and phenotypic separation between patient-derived T cells (PDT) and healthy samples. We demonstrated this by adopting a machine learning model trained with SERS data obtained using cocultured T cells with preclinical models (CAT, CSCAT) of primary (H69AR) and metastatic lung cancer (H1915). Interrogating these distinct signatures with PDT captured the complexity and diversity of the tumor-associated T cell signature across the patient population, exposing the clinical feasibility of immune diagnosis in an independent cohort of patient samples. Thus, our predictive approach using T cells from the patient peripheral blood showed a highly accurate diagnosis with a specificity and sensitivity of 94.1% and 100%, respectively, for primary lung cancer and 97.9% and 94.4% for metastatic lung cancer. Our results prove that the immune-diagnostic signature developed in this study could be used as a clinical technology for cancer diagnosis and determine the course of clinical management with T cells."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Biomedical Engineering, Science and Technology (I BEST), Partnership between Toronto Metropolitan University and St. Michael's Hospital, Toronto, Ontario M5B 1W8, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Ultrashort Laser Nanomanufacturing Research Facility, Department of Mechanical and Industrial Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, Ontario M5B 2K3, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Interface Facility, Department of Mechanical and Industrial Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, Ontario M5B 2K3, Canada."
+          }
+        ],
+        "LastName": "Ganesh",
+        "ForeName": "Swarna",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Biomedical Engineering, Science and Technology (I BEST), Partnership between Toronto Metropolitan University and St. Michael's Hospital, Toronto, Ontario M5B 1W8, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Ultrashort Laser Nanomanufacturing Research Facility, Department of Mechanical and Industrial Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, Ontario M5B 2K3, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Interface Facility, Department of Mechanical and Industrial Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, Ontario M5B 2K3, Canada."
+          }
+        ],
+        "LastName": "Dharmalingam",
+        "ForeName": "Priya",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Division of Neurosurgery, University of Toronto, Toronto, Ontario M5B 1W8 Canada."
+          }
+        ],
+        "LastName": "Das",
+        "ForeName": "Sunit",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6491-3971"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Keenan Research Center for Biomedical Science, Unity Health Toronto, Toronto, Ontario M5B 1W8, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Ultrashort Laser Nanomanufacturing Research Facility, Department of Mechanical and Industrial Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, Ontario M5B 2K3, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Interface Facility, Department of Mechanical and Industrial Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, Ontario M5B 2K3, Canada."
+          }
+        ],
+        "LastName": "Venkatakrishnan",
+        "ForeName": "Krishnan",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8141-4819"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Keenan Research Center for Biomedical Science, Unity Health Toronto, Toronto, Ontario M5B 1W8, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Nano Characterization Laboratory, Department of Aerospace Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, Ontario M5B 2K3, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Interface Facility, Department of Mechanical and Industrial Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, Ontario M5B 2K3, Canada."
+          }
+        ],
+        "LastName": "Tan",
+        "ForeName": "Bo",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "ACS Nano",
+    "NlmUniqueID": "101313589",
+    "ISSNLinking": "1936-0851"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tumor Microenvironment"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Antiviral",
+      "COVID-19",
+      "Drug repositioning",
+      "Food",
+      "Gene-gene networks",
+      "Interactomics",
+      "Machine learning",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33386081",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1",
+      "10.1186/s40246-020-00297-x"
+    ],
+    "Journal": {
+      "ISSN": "1479-7364",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "02"
+        }
+      },
+      "Title": "Human genomics",
+      "ISOAbbreviation": "Hum Genomics"
+    },
+    "ArticleTitle": "Network machine learning maps phytochemically rich \"Hyperfoods\" to fight COVID-19.",
+    "Pagination": {
+      "StartPage": "1",
+      "MedlinePgn": "1"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this paper, we introduce a network machine learning method to identify potential bioactive anti-COVID-19 molecules in foods based on their capacity to target the SARS-CoV-2-host gene-gene (protein-protein) interactome. Our analyses were performed\u00a0using a supercomputing DreamLab App platform, harnessing the idle computational power of thousands of smartphones. Machine learning models were initially calibrated by demonstrating that the proposed method can predict anti-COVID-19 candidates among experimental and clinically approved drugs (5658 in total) targeting COVID-19 interactomics with the balanced classification accuracy of 80-85% in 5-fold cross-validated settings. This identified the most promising drug candidates that can be potentially \"repurposed\" against COVID-19 including common drugs used to combat cardiovascular and metabolic disorders, such as simvastatin, atorvastatin and metformin. A database of 7694 bioactive food-based molecules was run through the calibrated machine learning algorithm, which identified 52 biologically active molecules, from varied chemical classes, including flavonoids, terpenoids, coumarins and indoles predicted to target SARS-CoV-2-host interactome networks. This in turn was used to construct a \"food map\" with the theoretical anti-COVID-19 potential of each ingredient estimated based on the diversity and relative levels of candidate compounds with antiviral properties. We expect this in silico predicted food map to play an important role in future clinical studies of precision nutrition interventions against COVID-19 and other viral diseases."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Faculty of Medicine, Imperial College, London, SW7 2AZ, UK."
+          }
+        ],
+        "LastName": "Laponogov",
+        "ForeName": "Ivan",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computing, Faculty of Engineering, Imperial College, London, SW7 2AZ, UK."
+          }
+        ],
+        "LastName": "Gonzalez",
+        "ForeName": "Guadalupe",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Faculty of Medicine, Imperial College, London, SW7 2AZ, UK."
+          }
+        ],
+        "LastName": "Shepherd",
+        "ForeName": "Madelen",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Faculty of Medicine, Imperial College, London, SW7 2AZ, UK."
+          }
+        ],
+        "LastName": "Qureshi",
+        "ForeName": "Ahad",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computing, Faculty of Engineering, Imperial College, London, SW7 2AZ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Intelligify Limited, 160 Kemp House, City Road, London, EC1V 2NX, UK."
+          }
+        ],
+        "LastName": "Veselkov",
+        "ForeName": "Dennis",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Health Sciences, Yale School of Public Health, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Charkoftaki",
+        "ForeName": "Georgia",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Health Sciences, Yale School of Public Health, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Vasiliou",
+        "ForeName": "Vasilis",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kitchen Theory, London, EN5 4LG, UK."
+          }
+        ],
+        "LastName": "Youssef",
+        "ForeName": "Jozef",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Colorectal Surgery, Royal Free Hospital, Hampstead, London, NW3 2QG, UK."
+          }
+        ],
+        "LastName": "Mirnezami",
+        "ForeName": "Reza",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computing, Faculty of Engineering, Imperial College, London, SW7 2AZ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Twitter, 20 Air St, London, W1B 5DL, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Informatics, University of Lugano, Via Giuseppe Buffi 13, Lugano, 6900, Switzerland."
+          }
+        ],
+        "LastName": "Bronstein",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1164-0359"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Faculty of Medicine, Imperial College, London, SW7 2AZ, UK. kirill.veselkov04@imperial.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Health Sciences, Yale School of Public Health, New Haven, CT, USA. kirill.veselkov04@imperial.ac.uk."
+          }
+        ],
+        "LastName": "Veselkov",
+        "ForeName": "Kirill",
+        "Initials": "K"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "UL1 TR001863",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "899932",
+        "Agency": "H2020 European Research Council",
+        "Country": "International"
+      },
+      {
+        "GrantID": "724228",
+        "Agency": "H2020 European Research Council",
+        "Country": "International"
+      },
+      {
+        "GrantID": "RONA-AI/DREAMLAB",
+        "Agency": "Vodafone Foundation",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Hum Genomics",
+    "NlmUniqueID": "101202210",
+    "ISSNLinking": "1473-9542"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diet therapy",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Functional Food"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genes, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

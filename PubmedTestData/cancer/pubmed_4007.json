@@ -1,0 +1,187 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28862214",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "05",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "05",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.4103/0973-1482.168978"
+    ],
+    "Journal": {
+      "ISSN": "1998-4138",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2017",
+          "Season": "Jul-Sep"
+        }
+      },
+      "Title": "Journal of cancer research and therapeutics",
+      "ISOAbbreviation": "J Cancer Res Ther"
+    },
+    "ArticleTitle": "Respiratory cancer database: An open access database of respiratory cancer gene and miRNA.",
+    "Pagination": {
+      "StartPage": "487",
+      "EndPage": "490",
+      "MedlinePgn": "487-490"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Respiratory cancer database (RespCanDB) is a genomic and proteomic database of cancer of respiratory organ. It also includes the information of medicinal plants used for the treatment of various respiratory cancers with structure of its active constituents as well as pharmacological and chemical information of drug associated with various respiratory cancers.",
+        "Data in RespCanDB has been manually collected from published research article and from other databases. Data has been integrated using MySQL an object-relational database management system. MySQL manages all data in the back-end and provides commands to retrieve and store the data into the database. The web interface of database has been built in ASP.",
+        "RespCanDB is expected to contribute to the understanding of scientific community regarding respiratory cancer biology as well as developments of new way of diagnosing and treating respiratory cancer. Currently, the database consist the oncogenomic information of lung cancer, laryngeal cancer, and nasopharyngeal cancer. Data for other cancers, such as oral and tracheal cancers, will be added in the near future. The URL of RespCanDB is http://ridb.subdic-bioinformatics-nitrr.in/."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Sub-DIC Bioinformatics, National Institute of Technology, Raipur, Chhattisgarh, India."
+          }
+        ],
+        "LastName": "Choubey",
+        "ForeName": "Jyotsna",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Sub-DIC Bioinformatics, National Institute of Technology, Raipur, Chhattisgarh, India."
+          }
+        ],
+        "LastName": "Choudhari",
+        "ForeName": "Jyoti Kant",
+        "Initials": "JK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Sub-DIC Bioinformatics, National Institute of Technology, Raipur, Chhattisgarh, India."
+          }
+        ],
+        "LastName": "Patel",
+        "ForeName": "Ashish",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Sub-DIC Bioinformatics, National Institute of Technology, Raipur, Chhattisgarh, India."
+          }
+        ],
+        "LastName": "Verma",
+        "ForeName": "Mukesh Kumar",
+        "Initials": "MK"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "India",
+    "MedlineTA": "J Cancer Res Ther",
+    "NlmUniqueID": "101249598",
+    "ISSNLinking": "1998-4138"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Laryngeal Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Nasopharyngeal Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "drug therapy",
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Respiratory System"
+    }
+  ]
+}

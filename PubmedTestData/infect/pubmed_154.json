@@ -1,0 +1,151 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Inflow of infecteds",
+      "Prison TB model",
+      "Removal rate"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29187239",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "07",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "11",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "643",
+      "10.1186/s13104-017-2968-z"
+    ],
+    "Journal": {
+      "ISSN": "1756-0500",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Nov",
+          "Day": "29"
+        }
+      },
+      "Title": "BMC research notes",
+      "ISOAbbreviation": "BMC Res Notes"
+    },
+    "ArticleTitle": "A model of population dynamics of TB in a prison system and application to South Africa.",
+    "Pagination": {
+      "StartPage": "643",
+      "MedlinePgn": "643"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Tuberculosis (TB) continues to spread in South African prisons in particular, as prisons are over-capacitated and have poor ventilation. The awaiting trial detainees are not screened on admission and are at high risk of getting infected with TB.",
+        "We propose a compartmental model to describe the population dynamics of TB disease in prisons. Our model considers the inflow of susceptible, exposed and TB infectives into the prison population. Removal of individuals out of the prison population can be either by death or by being released from prison, as compared to a general population in which removal is only by death. We describe conditions, including non-inflow of infectives into the prison, which will ensure that TB can be eradicated from the prison population. The model is calibrated for the South African prison system, by using data in existing literature. The model can be used to make quantitative projections of TB prevalence and to measure the effect of interventions. Illustrative simulations in this regard are presented. The model can be used for other prison populations too, if data is available to calculate the model parameters.",
+        "Various simulations generated with our model serve to illustrate how it can be utilized in making future projections of the levels of prevalence of TB, and to quantify the effect of interventions such as screening, treatment or reduction of transmission parameter values through improved living conditions for inmates. This makes it particularly useful as there are various targets set by the World Health Organization and by governments, for reduction of TB prevalence and ultimately its eradication. Towards eradication of TB from a prison system, the theorem on global stability of the disease-free state is a useful indicator."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-1304-0282"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Applied Mathematics, University of the Western Cape, Private Bag X17, Bellville, 7535, Republic of South Africa. pwitbooi@uwc.ac.za."
+          }
+        ],
+        "LastName": "Witbooi",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Applied Mathematics, University of the Western Cape, Private Bag X17, Bellville, 7535, Republic of South Africa."
+          }
+        ],
+        "LastName": "Vyambwera",
+        "ForeName": "Sibaliwe Maku",
+        "Initials": "SM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Res Notes",
+    "NlmUniqueID": "101462768",
+    "ISSNLinking": "1756-0500"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Eradication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Population Dynamics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prisoners"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prisons"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "South Africa"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "Tuberculosis"
+    }
+  ]
+}

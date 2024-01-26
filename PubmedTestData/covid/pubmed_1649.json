@@ -1,0 +1,700 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35944149",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "08",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1097/EDE.0000000000001523"
+    ],
+    "Journal": {
+      "ISSN": "1531-5487",
+      "JournalIssue": {
+        "Volume": "33",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov",
+          "Day": "01"
+        }
+      },
+      "Title": "Epidemiology (Cambridge, Mass.)",
+      "ISOAbbreviation": "Epidemiology"
+    },
+    "ArticleTitle": "SARS-CoV-2 Outbreak Dynamics in an Isolated US Military Recruit Training Center With Rigorous Prevention Measures.",
+    "Pagination": {
+      "StartPage": "797",
+      "EndPage": "807",
+      "MedlinePgn": "797-807"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Marine recruits training at Parris Island experienced an unexpectedly high rate of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, despite preventive measures including a supervised, 2-week, pre-entry quarantine. We characterize SARS-CoV-2 transmission in this cohort.",
+        "Between May and November 2020, we monitored 2,469 unvaccinated, mostly male, Marine recruits prospectively during basic training. If participants tested negative for SARS-CoV-2 by quantitative polymerase chain reaction (qPCR) at the end of quarantine, they were transferred to the training site in segregated companies and underwent biweekly testing for 6 weeks. We assessed the effects of coronavirus disease 2019 (COVID-19) prevention measures on other respiratory infections with passive surveillance data, performed phylogenetic analysis, and modeled transmission dynamics and testing regimens.",
+        "Preventive measures were associated with drastically lower rates of other respiratory illnesses. However, among the trainees, 1,107 (44.8%) tested SARS-CoV-2-positive, with either mild or no symptoms. Phylogenetic analysis of viral genomes from 580 participants revealed that all cases but one were linked to five independent introductions, each characterized by accumulation of mutations across and within companies, and similar viral isolates in individuals from the same company. Variation in company transmission rates (mean reproduction number R 0 ; 5.5 [95% confidence interval [CI], 5.0, 6.1]) could be accounted for by multiple initial cases within a company and superspreader events. Simulations indicate that frequent rapid-report testing with case isolation may minimize outbreaks.",
+        "Transmission of wild-type SARS-CoV-2 among Marine recruits was approximately twice that seen in the community. Insights from SARS-CoV-2 outbreak dynamics and mutations spread in a remote, congregate setting may inform effective mitigation strategies."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 The Author(s). Published by Wolters Kluwer Health, Inc."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "From the Naval Medical Research Unit SIX, Lima, Peru."
+          }
+        ],
+        "LastName": "Lizewski",
+        "ForeName": "Rhonda A",
+        "Initials": "RA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Biology, Flatiron Institute, Simons Foundation, New York, NY."
+          }
+        ],
+        "LastName": "Sealfon",
+        "ForeName": "Rachel S G",
+        "Initials": "RSG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Sang Woo",
+        "Initials": "SW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Gregory R",
+        "Initials": "GR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          }
+        ],
+        "LastName": "Porter",
+        "ForeName": "Chad K",
+        "Initials": "CK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Gonzalez-Reiche",
+        "ForeName": "Ana S",
+        "Initials": "AS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Ge",
+        "ForeName": "Yongchao",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Miller",
+        "ForeName": "Clare M",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          }
+        ],
+        "LastName": "Goforth",
+        "ForeName": "Carl W",
+        "Initials": "CW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Pincas",
+        "ForeName": "Hanna",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Navy Medicine Readiness and Training Command Beaufort, Beaufort, SC."
+          }
+        ],
+        "LastName": "Termini",
+        "ForeName": "Michael S",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Ramos",
+        "ForeName": "Irene",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Nair",
+        "ForeName": "Venugopalan D",
+        "Initials": "VD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "From the Naval Medical Research Unit SIX, Lima, Peru."
+          }
+        ],
+        "LastName": "Lizewski",
+        "ForeName": "Stephen E",
+        "Initials": "SE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Alshammary",
+        "ForeName": "Hala",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics & Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center-Frederick, Fort Detrick, MD."
+          }
+        ],
+        "LastName": "Cer",
+        "ForeName": "Regina Z",
+        "Initials": "RZ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Henry M Jackson Foundation for the Advancement of Military Medicine, Bethesda, MD."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Hua Wei",
+        "Initials": "HW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "George",
+        "ForeName": "Mary-Catherine",
+        "Initials": "MC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics & Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center-Frederick, Fort Detrick, MD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Defense Threat Reduction Agency, Fort Belvoir, VA."
+          }
+        ],
+        "LastName": "Arnold",
+        "ForeName": "Catherine E",
+        "Initials": "CE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics & Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center-Frederick, Fort Detrick, MD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Leidos, Reston, VA."
+          }
+        ],
+        "LastName": "Glang",
+        "ForeName": "Lindsay A",
+        "Initials": "LA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics & Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center-Frederick, Fort Detrick, MD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Leidos, Reston, VA."
+          }
+        ],
+        "LastName": "Long",
+        "ForeName": "Kyle A",
+        "Initials": "KA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics & Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center-Frederick, Fort Detrick, MD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Leidos, Reston, VA."
+          }
+        ],
+        "LastName": "Malagon",
+        "ForeName": "Francisco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          }
+        ],
+        "LastName": "Marayag",
+        "ForeName": "Jan J",
+        "Initials": "JJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          }
+        ],
+        "LastName": "Nunez",
+        "ForeName": "Edgar",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics & Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center-Frederick, Fort Detrick, MD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Leidos, Reston, VA."
+          }
+        ],
+        "LastName": "Rice",
+        "ForeName": "Gregory K",
+        "Initials": "GK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          }
+        ],
+        "LastName": "Santa Ana",
+        "ForeName": "Ernesto",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          }
+        ],
+        "LastName": "Schilling",
+        "ForeName": "Megan A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Immunodiagnostics Department, Biological Defense Research Directorate, Naval Medical Research Center-Frederick, Fort Detrick, MD."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Darci R",
+        "Initials": "DR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Henry M Jackson Foundation for the Advancement of Military Medicine, Bethesda, MD."
+          }
+        ],
+        "LastName": "Sugiharto",
+        "ForeName": "Victor A",
+        "Initials": "VA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Peifang",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "van de Guchte",
+        "ForeName": "Adriana",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Khan",
+        "ForeName": "Zenab",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Dutta",
+        "ForeName": "Jayeeta",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Vangeti",
+        "ForeName": "Sindhu",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics & Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center-Frederick, Fort Detrick, MD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Leidos, Reston, VA."
+          }
+        ],
+        "LastName": "Voegtly",
+        "ForeName": "Logan J",
+        "Initials": "LJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          }
+        ],
+        "LastName": "Weir",
+        "ForeName": "Dawn L",
+        "Initials": "DL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ."
+          }
+        ],
+        "LastName": "Metcalf",
+        "ForeName": "C Jessica E",
+        "Initials": "CJE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Biology, Flatiron Institute, Simons Foundation, New York, NY."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Princeton University, Princeton, NJ."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ."
+          }
+        ],
+        "LastName": "Troyanskaya",
+        "ForeName": "Olga G",
+        "Initials": "OG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics & Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center-Frederick, Fort Detrick, MD."
+          }
+        ],
+        "LastName": "Bishop-Lilly",
+        "ForeName": "Kimberly A",
+        "Initials": "KA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ."
+          }
+        ],
+        "LastName": "Grenfell",
+        "ForeName": "Bryan T",
+        "Initials": "BT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "van Bakel",
+        "ForeName": "Harm",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Naval Medical Research Center, Silver Spring, MD."
+          }
+        ],
+        "LastName": "Letizia",
+        "ForeName": "Andrew G",
+        "Initials": "AG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY."
+          }
+        ],
+        "LastName": "Sealfon",
+        "ForeName": "Stuart C",
+        "Initials": "SC"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "S10 OD018522",
+        "Acronym": "OD",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "S10 OD026880",
+        "Acronym": "OD",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Epidemiology",
+    "NlmUniqueID": "9009644",
+    "ISSNLinking": "1044-3983"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Military Personnel"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    }
+  ],
+  "CoiStatement": "R.A.L., C.K.P., C.W.G., M.S.T., S.E.L., R.Z.C., C.E.A., J.J.M., E.N., E.S.A., M.A.S., D.R.S., P.S., D.L.W., K.A.B.L., and A.G.L. are military service members or GS employees. The other authors have no conflicts to report. This work was prepared as part of their official duties. Title 17, U.S.C., \u00a7105 provides that copyright protection under this title is not available for any work of the U.S. Government. Title 17, U.S.C., \u00a7101 defines a U.S. Government work as a work prepared by a military service member or employee of the U.S. Government as part of that person\u2019s official duties."
+}

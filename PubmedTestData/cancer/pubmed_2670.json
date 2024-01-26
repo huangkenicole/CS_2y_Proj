@@ -1,0 +1,318 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "artificial intelligence",
+      "convolutional neural network",
+      "early gastric cancer",
+      "magnifying endoscopy",
+      "narrow-band imaging"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32681536",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "07",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1111/jgh.15190"
+    ],
+    "Journal": {
+      "ISSN": "1440-1746",
+      "JournalIssue": {
+        "Volume": "36",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Journal of gastroenterology and hepatology",
+      "ISOAbbreviation": "J Gastroenterol Hepatol"
+    },
+    "ArticleTitle": "Application of artificial intelligence using a convolutional neural network for diagnosis of early gastric cancer based on magnifying endoscopy with narrow-band imaging.",
+    "Pagination": {
+      "StartPage": "482",
+      "EndPage": "489",
+      "MedlinePgn": "482-489"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Magnifying endoscopy with narrow-band imaging (ME-NBI) has made a huge contribution to clinical practice. However, acquiring skill at ME-NBI diagnosis of early gastric cancer (EGC) requires considerable expertise and experience. Recently, artificial intelligence (AI), using deep learning and a convolutional neural network (CNN), has made remarkable progress in various medical fields. Here, we constructed an AI-assisted CNN computer-aided diagnosis (CAD) system, based on ME-NBI images, to diagnose EGC and evaluated the diagnostic accuracy of the AI-assisted CNN-CAD system.",
+        "The AI-assisted CNN-CAD system (ResNet50) was trained and validated on a dataset of 5574 ME-NBI images (3797 EGCs, 1777 non-cancerous mucosa and lesions). To evaluate the diagnostic accuracy, a separate test dataset of 2300 ME-NBI images (1430 EGCs, 870 non-cancerous mucosa and lesions) was assessed using the AI-assisted CNN-CAD system.",
+        "The AI-assisted CNN-CAD system required 60\u00a0s to analyze 2300 test images. The overall accuracy, sensitivity, specificity, positive predictive value, and negative predictive value of the CNN were 98.7%, 98%, 100%, 100%, and 96.8%, respectively. All misdiagnosed images of EGCs were of low-quality or of superficially depressed and intestinal-type intramucosal cancers that were difficult to distinguish from gastritis, even by experienced endoscopists.",
+        "The AI-assisted CNN-CAD system for ME-NBI diagnosis of EGC could process many stored ME-NBI images in a short period of time and had a high diagnostic ability. This system may have great potential for future application to real clinical settings, which could facilitate ME-NBI diagnosis of EGC in practice."
+      ],
+      "CopyrightInformation": "\u00a9 2020 The Authors. Journal of Gastroenterology and Hepatology published by Journal of Gastroenterology and Hepatology Foundation and John Wiley & Sons Australia, Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-5370-1009"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Ueyama",
+        "ForeName": "Hiroya",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AI Medical Service Inc., Tokyo, Japan."
+          }
+        ],
+        "LastName": "Kato",
+        "ForeName": "Yusuke",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Akazawa",
+        "ForeName": "Yoichi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Yatagai",
+        "ForeName": "Noboru",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Komori",
+        "ForeName": "Hiroyuki",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Takeda",
+        "ForeName": "Tsutomu",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Matsumoto",
+        "ForeName": "Kohei",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Ueda",
+        "ForeName": "Kumiko",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Matsumoto",
+        "ForeName": "Kenshi",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Hojo",
+        "ForeName": "Mariko",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Pathology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Yao",
+        "ForeName": "Takashi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Nagahara",
+        "ForeName": "Akihito",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AI Medical Service Inc., Tokyo, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Tada Tomohiro Institute of Gastroenterology and Proctology, Saitama, Japan."
+          }
+        ],
+        "LastName": "Tada",
+        "ForeName": "Tomohiro",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Australia",
+    "MedlineTA": "J Gastroenterol Hepatol",
+    "NlmUniqueID": "8607909",
+    "ISSNLinking": "0815-9319"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Early Detection of Cancer"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Endoscopy, Gastrointestinal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Narrow Band Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Predictive Value of Tests"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    }
+  ]
+}

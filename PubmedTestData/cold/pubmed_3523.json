@@ -1,0 +1,168 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "16981184",
+  "DateCompleted": {
+    "Year": "2007",
+    "Month": "06",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0277-6715",
+      "JournalIssue": {
+        "Volume": "26",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "May",
+          "Day": "30"
+        }
+      },
+      "Title": "Statistics in medicine",
+      "ISOAbbreviation": "Stat Med"
+    },
+    "ArticleTitle": "Evidence-based sample size calculations based upon updated meta-analysis.",
+    "Pagination": {
+      "StartPage": "2479",
+      "EndPage": "2500",
+      "MedlinePgn": "2479-500"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Meta-analyses of randomized controlled trials (RCTs) provide the highest level of evidence regarding the effectiveness of interventions and as such underpin much of evidence-based medicine. Despite this, meta-analyses are usually produced as observational by-products of the existing literature, with no formal consideration of future meta-analyses when individual trials are being designed. Basing the sample size of a new trial on the results of an updated meta-analysis which will include it, may sometimes make more sense than powering the trial in isolation. A framework for sample size calculation for a future RCT based on the results of a meta-analysis of the existing evidence is presented. Both fixed and random effect approaches are explored through an example. Bayesian Markov Chain Monte Carlo simulation modelling is used for the random effects model since it has computational advantages over the classical approach. Several criteria on which to base inference and hence power are considered. The prior expectation of the power is averaged over the prior distribution for the unknown true treatment effect. An extension to the framework allowing for consideration of the design for a series of new trials is also presented. Results suggest that power can be highly dependent on the statistical model used to meta-analyse the data and even very large studies may have little impact on a meta-analysis when there is considerable between study heterogeneity. This raises issues regarding the appropriateness of the use of random effect models when designing and drawing inferences across a series of studies."
+      ],
+      "CopyrightInformation": "Copyright 2006 John Wiley & Sons, Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Health Sciences, University of Leicester, Leicester, UK. ajs22@le.ac.uk"
+          }
+        ],
+        "LastName": "Sutton",
+        "ForeName": "Alexander J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Cooper",
+        "ForeName": "Nicola J",
+        "Initials": "NJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Jones",
+        "ForeName": "David R",
+        "Initials": "DR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lambert",
+        "ForeName": "Paul C",
+        "Initials": "PC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Thompson",
+        "ForeName": "John R",
+        "Initials": "JR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Abrams",
+        "ForeName": "Keith R",
+        "Initials": "KR"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "G106/1170",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Stat Med",
+    "NlmUniqueID": "8215016",
+    "ISSNLinking": "0277-6715"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Anti-Bacterial Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "standards",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Anti-Bacterial Agents"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "drug therapy"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Meta-Analysis as Topic"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Randomized Controlled Trials as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sample Size"
+    }
+  ]
+}

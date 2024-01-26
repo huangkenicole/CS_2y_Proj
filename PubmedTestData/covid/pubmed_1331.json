@@ -1,0 +1,1696 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35798029",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "07",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41586-022-05049-6"
+    ],
+    "Journal": {
+      "ISSN": "1476-4687",
+      "JournalIssue": {
+        "Volume": "609",
+        "Issue": "7925",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Nature",
+      "ISOAbbreviation": "Nature"
+    },
+    "ArticleTitle": "Wastewater sequencing reveals early cryptic SARS-CoV-2 variant transmission.",
+    "Pagination": {
+      "StartPage": "101",
+      "EndPage": "108",
+      "MedlinePgn": "101-108"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "As SARS-CoV-2 continues to spread and evolve, detecting emerging variants early is critical for public health interventions. Inferring lineage prevalence by clinical testing is infeasible at scale, especially in areas with limited resources, participation, or testing and/or sequencing capacity, which can also introduce biases<sup>1-3</sup>. SARS-CoV-2 RNA concentration in wastewater successfully tracks regional infection dynamics and provides less biased abundance estimates than clinical testing<sup>4,5</sup>. Tracking virus genomic sequences in wastewater would improve community prevalence estimates and detect emerging variants. However, two factors limit wastewater-based genomic surveillance: low-quality sequence data and inability to estimate relative lineage abundance in mixed samples. Here we resolve these critical issues to perform a high-resolution, 295-day wastewater and clinical sequencing effort, in the controlled environment of a large university campus and the broader context of the surrounding county. We developed and deployed improved virus concentration protocols and deconvolution software that fully resolve multiple virus strains from wastewater. We detected emerging variants of concern up to 14 days earlier in wastewater samples, and identified multiple instances of virus spread not captured by clinical genomic surveillance. Our study provides a scalable solution for wastewater genomic surveillance that allows early detection of SARS-CoV-2 variants and identification of cryptic transmission."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6226-4536"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Karthikeyan",
+        "ForeName": "Smruthi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Levy",
+        "ForeName": "Joshua I",
+        "Initials": "JI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Obstetrics, Gynecology, and Reproductive Sciences, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Detection, Investigation, Surveillance, Clinical, and Outbreak Response, California Department of Public Health, Richmond, CA, USA."
+          }
+        ],
+        "LastName": "De Hoff",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Humphrey",
+        "ForeName": "Greg",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Biology and Bioinformatics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Birmingham",
+        "ForeName": "Amanda",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Genomic Medicine, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Jepsen",
+        "ForeName": "Kristen",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Farmer",
+        "ForeName": "Sawyer",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Tubb",
+        "ForeName": "Helena M",
+        "Initials": "HM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Valles",
+        "ForeName": "Tommy",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Tribelhorn",
+        "ForeName": "Caitlin E",
+        "Initials": "CE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Tsai",
+        "ForeName": "Rebecca",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Aigner",
+        "ForeName": "Stefan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Sathe",
+        "ForeName": "Shashank",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Moshiri",
+        "ForeName": "Niema",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Genomic Medicine, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Henson",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Biology and Bioinformatics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Mark",
+        "ForeName": "Adam M",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Obstetrics, Gynecology, and Reproductive Sciences, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Detection, Investigation, Surveillance, Clinical, and Outbreak Response, California Department of Public Health, Richmond, CA, USA."
+          }
+        ],
+        "LastName": "Hakim",
+        "ForeName": "Abbas",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Baer",
+        "ForeName": "Nathan A",
+        "Initials": "NA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Barber",
+        "ForeName": "Tom",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Belda-Ferre",
+        "ForeName": "Pedro",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Chac\u00f3n",
+        "ForeName": "Marisol",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Obstetrics, Gynecology, and Reproductive Sciences, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Detection, Investigation, Surveillance, Clinical, and Outbreak Response, California Department of Public Health, Richmond, CA, USA."
+          }
+        ],
+        "LastName": "Cheung",
+        "ForeName": "Willi",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Cresini",
+        "ForeName": "Evelyn S",
+        "Initials": "ES"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Eisner",
+        "ForeName": "Emily R",
+        "Initials": "ER"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Lastrella",
+        "ForeName": "Alma L",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Lawrence",
+        "ForeName": "Elijah S",
+        "Initials": "ES"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Marotz",
+        "ForeName": "Clarisse A",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Ngo",
+        "ForeName": "Toan T",
+        "Initials": "TT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Ostrander",
+        "ForeName": "Tyler",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Plascencia",
+        "ForeName": "Ashley",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Salido",
+        "ForeName": "Rodolfo A",
+        "Initials": "RA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Seaver",
+        "ForeName": "Phoebe",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Smoot",
+        "ForeName": "Elizabeth W",
+        "Initials": "EW"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0876-9060"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "McDonald",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Operational Strategic Initiatives, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Neuhard",
+        "ForeName": "Robert M",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Obstetrics, Gynecology, and Reproductive Sciences, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Student Health and Well-Being, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Scioscia",
+        "ForeName": "Angela L",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Student Affairs, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Satterlund",
+        "ForeName": "Alysson M",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0646-3458"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Academic Affairs, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Simmons",
+        "ForeName": "Elizabeth H",
+        "Initials": "EH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Abelman",
+        "ForeName": "Dismas B",
+        "Initials": "DB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Brenner",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Bruner",
+        "ForeName": "Judith C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Buckley",
+        "ForeName": "Anne",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Ellison",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Gattas",
+        "ForeName": "Jeffrey",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Gonias",
+        "ForeName": "Steven L",
+        "Initials": "SL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Hale",
+        "ForeName": "Matt",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Hawkins",
+        "ForeName": "Faith",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Ikeda",
+        "ForeName": "Lydia",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Jhaveri",
+        "ForeName": "Hemlata",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Johnson",
+        "ForeName": "Ted",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Kellen",
+        "ForeName": "Vince",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Kremer",
+        "ForeName": "Brendan",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Matthews",
+        "ForeName": "Gary",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "McLawhon",
+        "ForeName": "Ronald W",
+        "Initials": "RW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Ouillet",
+        "ForeName": "Pierre",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Pradenas",
+        "ForeName": "Allorah",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Reed",
+        "ForeName": "Sharon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Riggs",
+        "ForeName": "Lindsay",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Sanders",
+        "ForeName": "Alison",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Sollenberger",
+        "ForeName": "Bradley",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Operational Strategic Initiatives, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Song",
+        "ForeName": "Angela",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "White",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Return to Learn, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Winbush",
+        "ForeName": "Terri",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Aceves",
+        "ForeName": "Christine M",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Anderson",
+        "ForeName": "Catelyn",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Gangavarapu",
+        "ForeName": "Karthik",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Hufbauer",
+        "ForeName": "Emory",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Kurzban",
+        "ForeName": "Ezra",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Justin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Matteson",
+        "ForeName": "Nathaniel L",
+        "Initials": "NL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Parker",
+        "ForeName": "Edyth",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0557-3102"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Perkins",
+        "ForeName": "Sarah A",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Ramesh",
+        "ForeName": "Karthik S",
+        "Initials": "KS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Robles-Sikisaka",
+        "ForeName": "Refugio",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0748-1858"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Schwab",
+        "ForeName": "Madison A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Spencer",
+        "ForeName": "Emily",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Wohl",
+        "ForeName": "Shirlee",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1761-0951"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Scripps Health, San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Nicholson",
+        "ForeName": "Laura",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2121-5460"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Scripps Health, San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "McHardy",
+        "ForeName": "Ian H",
+        "Initials": "IH"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6690-2523"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rady Children's Institute for Genomic Medicine, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Dimmock",
+        "ForeName": "David P",
+        "Initials": "DP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rady Children's Institute for Genomic Medicine, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Hobbs",
+        "ForeName": "Charlotte A",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sharp Healthcare, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Bakhtar",
+        "ForeName": "Omid",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sharp Healthcare, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Harding",
+        "ForeName": "Aaron",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sharp Healthcare, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Mendoza",
+        "ForeName": "Art",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7399-2766"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix, San Mateo, CA, USA."
+          }
+        ],
+        "LastName": "Bolze",
+        "ForeName": "Alexandre",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix, San Mateo, CA, USA."
+          }
+        ],
+        "LastName": "Becker",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix, San Mateo, CA, USA."
+          }
+        ],
+        "LastName": "Cirulli",
+        "ForeName": "Elizabeth T",
+        "Initials": "ET"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6278-0522"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix, San Mateo, CA, USA."
+          }
+        ],
+        "LastName": "Isaksson",
+        "ForeName": "Magnus",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6194-787X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix, San Mateo, CA, USA."
+          }
+        ],
+        "LastName": "Schiabor Barrett",
+        "ForeName": "Kelly M",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8936-9143"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix, San Mateo, CA, USA."
+          }
+        ],
+        "LastName": "Washington",
+        "ForeName": "Nicole L",
+        "Initials": "NL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "County of San Diego Health and Human Services Agency, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Malone",
+        "ForeName": "John D",
+        "Initials": "JD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "County of San Diego Health and Human Services Agency, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Schafer",
+        "ForeName": "Ashleigh Murphy",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "County of San Diego Health and Human Services Agency, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Gurfield",
+        "ForeName": "Nikos",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "County of San Diego Health and Human Services Agency, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Stous",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Herbert Wertheim School of Public Health and Human Longevity Science, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease and Global Public Health, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Fielding-Miller",
+        "ForeName": "Rebecca",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Herbert Wertheim School of Public Health and Human Longevity Science, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Garfein",
+        "ForeName": "Richard S",
+        "Initials": "RS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease and Global Public Health, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Gaines",
+        "ForeName": "Tommi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Herbert Wertheim School of Public Health and Human Longevity Science, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Anderson",
+        "ForeName": "Cheryl",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease and Global Public Health, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Natasha K",
+        "Initials": "NK"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2498-8426"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease and Global Public Health, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Schooley",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sharp Healthcare, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Austin",
+        "ForeName": "Brett",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Office of Advanced Molecular Detection, Centers for Disease Control and Prevention, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "MacCannell",
+        "ForeName": "Duncan R",
+        "Initials": "DR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rady Children's Institute for Genomic Medicine, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Kingsmore",
+        "ForeName": "Stephen F",
+        "Initials": "SF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix, San Mateo, CA, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "William",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "County of San Diego Health and Human Services Agency, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Shah",
+        "ForeName": "Seema",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "County of San Diego Health and Human Services Agency, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "McDonald",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Detection, Investigation, Surveillance, Clinical, and Outbreak Response, California Department of Public Health, Richmond, CA, USA."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Alexander T",
+        "Initials": "AT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Zeller",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Obstetrics, Gynecology, and Reproductive Sciences, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Biology and Bioinformatics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Fisch",
+        "ForeName": "Kathleen M",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Longhurst",
+        "ForeName": "Christopher",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Office of the UC San Diego Health CEO, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Maysent",
+        "ForeName": "Patty",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Pride",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Khosla",
+        "ForeName": "Pradeep K",
+        "Initials": "PK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Obstetrics, Gynecology, and Reproductive Sciences, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sanford Consortium of Regenerative Medicine, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Laurent",
+        "ForeName": "Louise C",
+        "Initials": "LC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Expedited COVID Identification Environment (EXCITE) Laboratory, Department of Pediatrics, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sanford Consortium of Regenerative Medicine, University of California San Diego, La Jolla, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cellular and Molecular Medicine, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Yeo",
+        "ForeName": "Gene W",
+        "Initials": "GW"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6431-5982"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Andersen",
+        "ForeName": "Kristian G",
+        "Initials": "KG"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0975-9019"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA, USA. robknight@ucsd.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, University of California San Diego, La Jolla, CA, USA. robknight@ucsd.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, University of California San Diego, La Jolla, CA, USA. robknight@ucsd.edu."
+          }
+        ],
+        "LastName": "Knight",
+        "ForeName": "Rob",
+        "Initials": "R"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U19 AI135995",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "DP1 AT010885",
+        "Acronym": "AT",
+        "Agency": "NCCIH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UL1 TR002550",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 AI151812",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 AI007244",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "S10 OD026929",
+        "Acronym": "OD",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nature",
+    "NlmUniqueID": "0410462",
+    "ISSNLinking": "0028-0836"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Waste Water"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2022 Apr 04;:",
+      "PMID": "35411350"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "analysis",
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis, RNA"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Wastewater"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wastewater-Based Epidemiological Monitoring"
+    }
+  ],
+  "CoiStatement": "A.\u00a0Bolze, D.\u00a0Becker, E.T.C., M.I., K.M.S.B., N.L.W. and W.L. are employees of Helix. K.G.A. has received consulting fees for advising on SARS-CoV-2, variants and the COVID-19 pandemic."
+}

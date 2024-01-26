@@ -1,0 +1,207 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COPD",
+      "automatic oxygen concentrator",
+      "machine learning",
+      "oxygen concentrator",
+      "oxygen delivery",
+      "oxygen therapy",
+      "physical activity",
+      "portable oxygen concentrator",
+      "respiratory medicine"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32093418",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "11",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "11",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "02",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1178",
+      "10.3390/s20041178"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Feb",
+          "Day": "20"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Automated Home Oxygen Delivery for Patients with COPD and Respiratory Failure: A New Approach.",
+    "Abstract": {
+      "AbstractText": [
+        "Long-term oxygen therapy (LTOT) has become standard care for the treatment of patients with chronic obstructive pulmonary disease (COPD) and other severe hypoxemic lung diseases. The use of new portable O<sub>2</sub> concentrators (POC) in LTOT is being expanded. However, the issue of oxygen titration is not always properly addressed, since POCs rely on proper use by patients. The robustness of algorithms and the limited reliability of current oximetry sensors are hindering the effectiveness of new approaches to closed-loop POCs based on the feedback of blood oxygen saturation. In this study, a novel intelligent portable oxygen concentrator (iPOC) is described. The presented iPOC is capable of adjusting the O<sub>2</sub> flow automatically by real-time classifying the intensity of a patient's physical activity (PA). It was designed with a group of patients with COPD and stable chronic respiratory failure. The technical pilot test showed a weighted accuracy of 91.1% in updating the O<sub>2</sub> flow automatically according to medical prescriptions, and a general improvement in oxygenation compared to conventional POCs. In addition, the usability achieved was high, which indicated a significant degree of user satisfaction. This iPOC may have important benefits, including improved oxygenation, increased compliance with therapy recommendations, and the promotion of PA."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-5603-0936"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Research and Innovation Institute of Cadiz (INiBICA), 11009 Cadiz, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering and Telemedicine Research Group, Department of Automation Engineering, Electronics and Computer Architecture and Networks, University of Cadiz, 11519 Puerto Real, Cadiz, Spain."
+          }
+        ],
+        "LastName": "Sanchez-Morillo",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Research and Innovation Institute of Cadiz (INiBICA), 11009 Cadiz, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pulmonology, Allergy and Thoracic Surgery Unit, Puerta del Mar University Hospital, 11009 Cadiz, Spain."
+          }
+        ],
+        "LastName": "Mu\u00f1oz-Zara",
+        "ForeName": "Pilar",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8342-9907"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Research and Innovation Institute of Cadiz (INiBICA), 11009 Cadiz, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering and Telemedicine Research Group, Department of Automation Engineering, Electronics and Computer Architecture and Networks, University of Cadiz, 11519 Puerto Real, Cadiz, Spain."
+          }
+        ],
+        "LastName": "Lara-Do\u00f1a",
+        "ForeName": "Alejandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0238-9588"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Research and Innovation Institute of Cadiz (INiBICA), 11009 Cadiz, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pulmonology, Allergy and Thoracic Surgery Unit, Puerta del Mar University Hospital, 11009 Cadiz, Spain."
+          }
+        ],
+        "LastName": "Leon-Jimenez",
+        "ForeName": "Antonio",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "PI-0006-2017",
+        "Agency": "\"Consejer\u00eda de Salud y Familias de la Junta de Andaluc\u00eda\" and \"Iniciativa Territorial Integrada [ITI] 2014-2020 para la provincia de C\u00e1diz\"",
+        "Country": ""
+      },
+      {
+        "GrantID": "PIN-0053-2017",
+        "Agency": "\"Consejer\u00eda de Salud y Familias de la Junta de Andaluc\u00eda\"",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "S88TT14065",
+      "NameOfSubstance": "Oxygen"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "analysis",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Oxygen"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Oxygen Inhalation Therapy"
+    },
+    {
+      "QualifierName": [
+        "therapy"
+      ],
+      "DescriptorName": "Pulmonary Disease, Chronic Obstructive"
+    }
+  ],
+  "CoiStatement": "DSM and A.L.-J. are inventors of the utility model ES U201831680 with the title \u2018Automatic flow-metering device for oxygen therapy equipment\u2019. A.L.-D. and P.M.-Z. have no conflict of interest."
+}

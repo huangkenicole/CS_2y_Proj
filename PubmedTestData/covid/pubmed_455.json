@@ -1,0 +1,180 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "CNN",
+      "LSTM",
+      "SARS-CoV-2",
+      "phosphorylation",
+      "word embedding"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34184738",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab244",
+      "10.1093/bib/bbab244"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "DeepIPs: comprehensive assessment and computational identification of phosphorylation sites of SARS-CoV-2 infection using a deep learning-based approach.",
+    "Abstract": {
+      "AbstractText": [
+        "The rapid spread of SARS-CoV-2 infection around the globe has caused a massive health and socioeconomic crisis. Identification of phosphorylation sites is an important step for understanding the molecular mechanisms of SARS-CoV-2 infection and the changes within the host cells pathways. In this study, we present DeepIPs, a first specific deep-learning architecture to identify phosphorylation sites in host cells infected with SARS-CoV-2. DeepIPs consists of the most popular word embedding method and convolutional neural network-long short-term memory network architecture to make the final prediction. The independent test demonstrates that DeepIPs improves the prediction performance compared with other existing tools for general phosphorylation sites prediction. Based on the proposed model, a web-server called DeepIPs was established and is freely accessible at http://lin-group.cn/server/DeepIPs. The source code of DeepIPs is freely available at the repository https://github.com/linDing-group/DeepIPs."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Informational Biology at the University of Electronic Science and Technology of China, Chengdu 610054, China."
+          }
+        ],
+        "LastName": "Lv",
+        "ForeName": "Hao",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Informational Biology at the University of Electronic Science and Technology of China, Chengdu 610054, China."
+          }
+        ],
+        "LastName": "Dao",
+        "ForeName": "Fu-Ying",
+        "Initials": "FY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Informational Biology at the University of Electronic Science and Technology of China, Chengdu 610054, China."
+          }
+        ],
+        "LastName": "Zulfiqar",
+        "ForeName": "Hasan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Informational Biology at the University of Electronic Science and Technology of China, Chengdu 610054, China."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Hao",
+        "Initials": "H"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "61772119",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "2020JDJQ0012",
+        "Agency": "Sichuan Provincial Science Fund for Distinguished Young Scholars",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Phosphorylation"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

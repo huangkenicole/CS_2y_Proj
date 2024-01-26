@@ -1,0 +1,183 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Upper Crossed Syndrome",
+      "back brace",
+      "corrective wearables",
+      "hunchback",
+      "inertial measurement unit",
+      "machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38202995",
+  "DateCompleted": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "12",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "135",
+      "10.3390/s24010135"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Dec",
+          "Day": "26"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "IoT-Based Solution for Detecting and Monitoring Upper Crossed Syndrome.",
+    "Abstract": {
+      "AbstractText": [
+        "A sedentary lifestyle has caused adults to spend more than 6 h seated, which has led to inactivity and spinal issues. This context underscores the growing sedentary behavior, exemplified by extended sitting hours among adults and university students. Such inactivity triggers various health problems and spinal disorders, notably Upper Crossed Syndrome (UCS) and its association with thoracic kyphosis, which can cause severe spinal curvature and related complications. Traditional detection involves clinical assessments and corrective exercises; however, this work proposes a multi-layered system for a back brace to detect, monitor, and potentially prevent the main signs of UCS. Building and using a framework that detects and monitors signs of UCS has facilitated patient-doctor interaction, automated the detection process for improved patient-physician coordination, and helped improve patients' spines over time. The smart wearable brace includes inertial measurement unit (IMU) sensors targeting hunched-back postures. The IMU sensors capture postural readings, which are then used for classification. Multiple classifiers were used where the long short-term memory (LSTM) model had the highest accuracy of 99.3%. Using the classifier helped detect and monitor UCS over time. Integrating the wearable device with a mobile interface enables real-time data visualization and immediate feedback for users to correct and mitigate UCS-related issues."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, American University of Sharjah, Sharjah P.O. Box 26666, United Arab Emirates."
+          }
+        ],
+        "LastName": "Shaheen",
+        "ForeName": "Ammar",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, American University of Sharjah, Sharjah P.O. Box 26666, United Arab Emirates."
+          }
+        ],
+        "LastName": "Kazim",
+        "ForeName": "Hisham",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, American University of Sharjah, Sharjah P.O. Box 26666, United Arab Emirates."
+          }
+        ],
+        "LastName": "Eltawil",
+        "ForeName": "Mazen",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2695-5836"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, American University of Sharjah, Sharjah P.O. Box 26666, United Arab Emirates."
+          }
+        ],
+        "LastName": "Aburukba",
+        "ForeName": "Raafat",
+        "Initials": "R"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "CEN-URG-F22-35",
+        "Agency": "American University of Sharjah",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "10041-19-7",
+      "NameOfSubstance": "Dioctyl Sulfosuccinic Acid"
+    }
+  ],
+  "SupplMeshList": [
+    "Oculocerebral hypopigmentation syndrome type Preus"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Visualization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Dioctyl Sulfosuccinic Acid"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Abnormalities, Multiple"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pigmentation Disorders"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Craniofacial Abnormalities"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflicts of interest."
+}

@@ -1,0 +1,190 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "AlphaFold",
+      "COVID-19",
+      "ORF8",
+      "SARS-CoV-2",
+      "X-ray crystallography; molecular replacement",
+      "ab initio",
+      "deep learning",
+      "in silico"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33625752",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/pro.4050"
+    ],
+    "Journal": {
+      "ISSN": "1469-896X",
+      "JournalIssue": {
+        "Volume": "30",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Protein science : a publication of the Protein Society",
+      "ISOAbbreviation": "Protein Sci"
+    },
+    "ArticleTitle": "Crystallographic molecular replacement using an in silico-generated search model of SARS-CoV-2 ORF8.",
+    "Pagination": {
+      "StartPage": "728",
+      "EndPage": "734",
+      "MedlinePgn": "728-734"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The majority of crystal structures are determined by the method of molecular replacement (MR). The range of application of MR is limited mainly by the need for an accurate search model. In most cases, pre-existing experimentally determined structures are used as search models. In favorable cases, ab initio predicted structures have yielded search models adequate for MR. The ORF8 protein of SARS-CoV-2 represents a challenging case for MR using an ab initio prediction because ORF8 has an all \u03b2-sheet fold and few orthologs. We previously determined experimentally the structure of ORF8 using the single anomalous dispersion (SAD) phasing method, having been unable to find an MR solution to the crystallographic phase problem. Following a report of an accurate prediction of the ORF8 structure, we assessed whether the predicted model would have succeeded as an MR search model. A phase problem solution was found, and the resulting structure was refined, yielding structural parameters equivalent to the original experimental solution."
+      ],
+      "CopyrightInformation": "\u00a9 2021 The Protein Society."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7890-6473"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular and Cell Biology and California Institute for Quantitative Biosciences, University of California, Berkeley, California, USA."
+          }
+        ],
+        "LastName": "Flower",
+        "ForeName": "Thomas G",
+        "Initials": "TG"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5054-5445"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular and Cell Biology and California Institute for Quantitative Biosciences, University of California, Berkeley, California, USA."
+          }
+        ],
+        "LastName": "Hurley",
+        "ForeName": "James H",
+        "Initials": "JH"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 AI120691",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R37 AI112442",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R00RG2347",
+        "Agency": "UCOP",
+        "Country": ""
+      },
+      {
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Protein Sci",
+    "NlmUniqueID": "9211750",
+    "ISSNLinking": "0961-8368"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "ORF8 protein, SARS-CoV-2"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2021 Jan 05;:",
+      "PMID": "33442695"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Crystallography, X-Ray"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Conformation"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Viral Proteins"
+    }
+  ]
+}

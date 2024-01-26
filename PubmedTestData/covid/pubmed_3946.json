@@ -1,0 +1,177 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "RNA extraction",
+      "fluorescence sensing",
+      "food and water quality",
+      "point-of-care diagnostics",
+      "polymerase chain reaction (PCR)",
+      "real-time PCR"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37430517",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "05",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4604",
+      "10.3390/s23104604"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May",
+          "Day": "09"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Low-Cost, Real-Time Polymerase Chain Reaction System with Integrated RNA Extraction.",
+    "Abstract": {
+      "AbstractText": [
+        "Rapid, easy-to-use, and low-cost systems for biological sample testing are important for point-of-care diagnostics and various other health applications. The recent pandemic of Coronavirus Disease 2019 (COVID-19) caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) showed an urgent need to rapidly and accurately identify the genetic material of SARS-CoV-2, an enveloped ribonucleic acid (RNA) virus, in upper respiratory specimens from people. In general, sensitive testing methods require genetic material extraction from the specimen. Unfortunately, current commercially available extraction kits are expensive and involve time-consuming and laborious extraction procedures. To overcome the difficulties associated with common extraction methods, we propose a simple enzymatic assay for the nucleic acid extraction step using heat mediation to improve the polymerase chain reaction (PCR) reaction sensitivity. Our protocol was tested on Human Coronavirus 229E (HCoV-229E) as an example, which comes from the large <i>coronaviridae</i> family of viruses that affect birds, amphibians, and mammals, of which SARS-CoV-2 is a member. The proposed assay was performed using a low-cost, custom-made, real-time PCR system that incorporates thermal cycling and fluorescence detection. It had fully customizable reaction settings to allow versatile biological sample testing for various applications, including point-of-care medical diagnosis, food and water quality testing, and emergency health situations. Our results show that heat-mediated RNA extraction is a viable extraction method when compared to commercial extraction kits. Further, our study showed that extraction has a direct impact on purified laboratory samples of HCoV-229E, but no direct impact on infected human cells. This is clinically relevant, as it allows us to circumvent the extraction step on clinical samples when using PCR."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3152-3771"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, University of Dayton, 300 College Park, Dayton, OH 45469, USA."
+          }
+        ],
+        "LastName": "Kadja",
+        "ForeName": "Tchamie",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Dayton, 300 College Park, Dayton, OH 45469, USA."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Yvonne",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, University of Dayton, 300 College Park, Dayton, OH 45469, USA."
+          }
+        ],
+        "LastName": "Chodavarapu",
+        "ForeName": "Vamsy P",
+        "Initials": "VP"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "School of Engineering",
+        "Agency": "University of Dayton",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "63231-63-0",
+      "NameOfSubstance": "RNA"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Nucleic Acids"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acids"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mammals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

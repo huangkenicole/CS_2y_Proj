@@ -1,0 +1,142 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "antenna",
+      "brain cancer",
+      "hyperthermia",
+      "modelling of microwave systems",
+      "nanoparticles"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35405668",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "04",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1088/2057-1976/ac6629"
+    ],
+    "Journal": {
+      "ISSN": "2057-1976",
+      "JournalIssue": {
+        "Volume": "8",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Apr",
+          "Day": "22"
+        }
+      },
+      "Title": "Biomedical physics & engineering express",
+      "ISOAbbreviation": "Biomed Phys Eng Express"
+    },
+    "ArticleTitle": "The significance of nanoparticles in brain cancer diagnosis and treatment: modeling and simulation.",
+    "Abstract": {
+      "AbstractText": [
+        "A numerical analysis of specific absorption rate (SAR) and temperature distributions in a realistic human head model is presented in this study. The key challenge is to rise cancer temperature to an optimal temperature without heating nearby healthy tissues. The model's uniqueness is that it captures the effect of nanoparticles on both brain cancer diagnosis and treatment. A realistic human head model with a cancerous brain segmented from 2D magnetic resonance imaging (MRI) gained from an actual patient using 3D Slicer, modeled, and simulated using CST-Microwave Studio, and illuminated by Archimedes spiral antenna. At frequencies of 2450 MHz and 915 MHz, the model simulated the absence and presence of various nanoparticles. The obtained results suggest that when using nanoparticles, it is possible to achieve sufficient energy deposition and temperature rise to therapeutic values (greater than 42 \u00b0C) in brain cancers using the proposed noninvasive hyperthermia system at 915 MHz frequency, especially for gold nanoparticles, without harming surrounding healthy tissue. Our research might pave the way for a clinical applicator prototype that can heat brain cancer."
+      ],
+      "CopyrightInformation": "\u00a9 2022 IOP Publishing Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-0859-8636"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Equipment Technology Department, Faculty of Applied Health Sciences Technology, Pharos University, Alexandria, Egypt."
+          }
+        ],
+        "LastName": "Badawi",
+        "ForeName": "Mohamed I",
+        "Initials": "MI"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8971-1874"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Equipment Technology Department, Faculty of Applied Health Sciences Technology, Pharos University, Alexandria, Egypt."
+          }
+        ],
+        "LastName": "Hafez",
+        "ForeName": "Karim S",
+        "Initials": "KS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Biomed Phys Eng Express",
+    "NlmUniqueID": "101675002",
+    "ISSNLinking": "2057-1976"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "7440-57-5",
+      "NameOfSubstance": "Gold"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "therapy"
+      ],
+      "DescriptorName": "Brain Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Hyperthermia, Induced"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Metal Nanoparticles"
+    }
+  ]
+}

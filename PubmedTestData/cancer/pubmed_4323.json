@@ -1,0 +1,145 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19884101",
+  "DateCompleted": {
+    "Year": "2010",
+    "Month": "10",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2010",
+    "Month": "07",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2009",
+        "Month": "10",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNB.2009.2035284"
+    ],
+    "Journal": {
+      "ISSN": "1558-2639",
+      "JournalIssue": {
+        "Volume": "9",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2010",
+          "Month": "Mar"
+        }
+      },
+      "Title": "IEEE transactions on nanobioscience",
+      "ISOAbbreviation": "IEEE Trans Nanobioscience"
+    },
+    "ArticleTitle": "SVM-RFE with MRMR filter for gene selection.",
+    "Pagination": {
+      "StartPage": "31",
+      "EndPage": "37",
+      "MedlinePgn": "31-7"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We enhance the support vector machine recursive feature elimination (SVM-RFE) method for gene selection by incorporating a minimum-redundancy maximum-relevancy (MRMR) filter. The relevancy of a set of genes are measured by the mutual information among genes and class labels, and the redundancy is given by the mutual information among the genes. The method improved identification of cancer tissues from benign tissues on several benchmark datasets, as it takes into account the redundancy among the genes during their selection. The method selected a less number of genes compared to MRMR or SVM-RFE on most datasets. Gene ontology analyses revealed that the method selected genes that are relevant for distinguishing cancerous samples and have similar functional properties. The method provides a framework for combining filter methods and wrapper methods of gene selection, as illustrated with MRMR and SVM-RFE methods."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BioInformatics Research Centre, School of Computer Engineering, Nanyang Technological University, 637553, Singapore."
+          }
+        ],
+        "LastName": "Mundra",
+        "ForeName": "Piyushkumar A",
+        "Initials": "PA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rajapakse",
+        "ForeName": "Jagath C",
+        "Initials": "JC"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Nanobioscience",
+    "NlmUniqueID": "101152869",
+    "ISSNLinking": "1536-1241"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Histocytochemistry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

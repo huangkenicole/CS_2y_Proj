@@ -1,0 +1,247 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33968353",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "6633832",
+      "10.1155/2021/6633832"
+    ],
+    "Journal": {
+      "ISSN": "2040-2309",
+      "JournalIssue": {
+        "Volume": "2021",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "Journal of healthcare engineering",
+      "ISOAbbreviation": "J Healthc Eng"
+    },
+    "ArticleTitle": "Utilizing Machine Learning Techniques to Predict the Efficacy of Aerobic Exercise Intervention on Young Hypertensive Patients Based on Cardiopulmonary Exercise Testing.",
+    "Pagination": {
+      "StartPage": "6633832",
+      "MedlinePgn": "6633832"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Recently, the incidence of hypertension has significantly increased among young adults. While aerobic exercise intervention (AEI) has long been recognized as an effective treatment, individual differences in response to AEI can seriously influence clinicians' decisions. In particular, only a few studies have been conducted to predict the efficacy of AEI on lowering blood pressure (BP) in young hypertensive patients. As such, this paper aims to explore the implications of various cardiopulmonary metabolic indicators in the field by mining patients' cardiopulmonary exercise testing (CPET) data before making treatment plans. CPET data are collected \"breath by breath\" by using an oxygenation analyzer attached to a mask and then divided into four phases: resting, warm-up, exercise, and recovery. To mitigate the effects of redundant information and noise in the CPET data, a sparse representation classifier based on analytic dictionary learning was designed to accurately predict the individual responsiveness to AEI. Importantly, the experimental results showed that the model presented herein performed better than the baseline method based on BP change and traditional machine learning models. Furthermore, the data from the exercise phase were found to produce the best predictions compared with the data from other phases. This study paves the way towards the customization of personalized aerobic exercise programs for young hypertensive patients."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Fangwan Huang et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9878-1893"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Mathematics and Computer Science, Fuzhou University, Fuzhou 350108, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Fangwan",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5934-6474"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, First Affiliated Hospital of Sun Yat-sen University, Guangzhou 510080, China."
+          }
+        ],
+        "LastName": "Leng",
+        "ForeName": "Xiuyu",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computing, University of South Alabama, Mobile, AL 36688, USA."
+          }
+        ],
+        "LastName": "Kasukurthi",
+        "ForeName": "Mohan Vamsi",
+        "Initials": "MV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Allied Health Professions, University of South Alabama, Mobile, AL 36688, USA."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Yulong",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computing, University of South Alabama, Mobile, AL 36688, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Dongqi",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computing, University of South Alabama, Mobile, AL 36688, USA."
+          }
+        ],
+        "LastName": "Tan",
+        "ForeName": "Shaobo",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, First Affiliated Hospital of Sun Yat-sen University, Guangzhou 510080, China."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Guiying",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Mathematics and Computer Science, Fuzhou University, Fuzhou 350108, China."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Juhong",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computing, University of South Alabama, Mobile, AL 36688, USA."
+          }
+        ],
+        "LastName": "Benton",
+        "ForeName": "Ryan G",
+        "Initials": "RG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmacology, College of Medicine, University of South Alabama, Mobile, AL 36688, USA."
+          }
+        ],
+        "LastName": "Borchert",
+        "ForeName": "Glen M",
+        "Initials": "GM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computing, University of South Alabama, Mobile, AL 36688, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmacology, College of Medicine, University of South Alabama, Mobile, AL 36688, USA."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Jingshan",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Healthc Eng",
+    "NlmUniqueID": "101528166",
+    "ISSNLinking": "2040-2295"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Test"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "therapy"
+      ],
+      "DescriptorName": "Hypertension"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "The authors declare that there are no conflicts of interest regarding the publication of this paper."
+}

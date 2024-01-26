@@ -1,0 +1,900 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33270111",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa1087"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "GENCODE 2021.",
+    "Pagination": {
+      "StartPage": "D916",
+      "EndPage": "D923",
+      "MedlinePgn": "D916-D923"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The GENCODE project annotates human and mouse genes and transcripts supported by experimental data with high accuracy, providing a foundational resource that supports genome biology and clinical genomics. GENCODE annotation processes make use of primary data and bioinformatic tools and analysis generated both within the consortium and externally to support the creation of transcript structures and the determination of their function. Here, we present improvements to our annotation infrastructure, bioinformatics tools, and analysis, and the advances they support in the annotation of the human and mouse genomes including: the completion of first pass manual annotation for the mouse reference genome; targeted improvements to the annotation of genes associated with SARS-CoV-2 infection; collaborative projects to achieve convergence across reference annotation databases for the annotation of human and mouse protein-coding genes; and the first GENCODE manually supervised automated annotation of lncRNAs. Our annotation is accessible via Ensembl, the UCSC Genome Browser and https://www.gencodegenes.org."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Frankish",
+        "ForeName": "Adam",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA 95064, USA."
+          }
+        ],
+        "LastName": "Diekhans",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MIT Computer Science and Artificial Intelligence Laboratory, 32 Vassar St, Cambridge, MA 02139, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of MIT and Harvard, 415 Main Street, Cambridge, MA 02142, USA."
+          }
+        ],
+        "LastName": "Jungreis",
+        "ForeName": "Irwin",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Dr. Aiguader 88, Barcelona, E-08003 Catalonia, Spain."
+          }
+        ],
+        "LastName": "Lagarde",
+        "ForeName": "Julien",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Loveland",
+        "ForeName": "Jane E",
+        "Initials": "JE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Mudge",
+        "ForeName": "Jonathan M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioscience, Brunel University London, Uxbridge UB8 3PH, UK."
+          }
+        ],
+        "LastName": "Sisu",
+        "ForeName": "Cristina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Functional Proteomics, Division of Cancer Biology, Institute of Cancer Research, 237 Fulham Road, London SW3 6JB, UK."
+          }
+        ],
+        "LastName": "Wright",
+        "ForeName": "James C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA 95064, USA."
+          }
+        ],
+        "LastName": "Armstrong",
+        "ForeName": "Joel",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Barnes",
+        "ForeName": "If",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Berry",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Bignell",
+        "ForeName": "Alexandra",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MIT Computer Science and Artificial Intelligence Laboratory, 32 Vassar St, Cambridge, MA 02139, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of MIT and Harvard, 415 Main Street, Cambridge, MA 02142, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Computational and Systems Biology Program, Massachusetts Institute of Technology, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Boix",
+        "ForeName": "Carles",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Dr. Aiguader 88, Barcelona, E-08003 Catalonia, Spain."
+          }
+        ],
+        "LastName": "Carbonell Sala",
+        "ForeName": "Silvia",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Cunningham",
+        "ForeName": "Fiona",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Unit, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+          }
+        ],
+        "LastName": "Di Domenico",
+        "ForeName": "Tom\u00e1s",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Donaldson",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA 95064, USA."
+          }
+        ],
+        "LastName": "Fiddes",
+        "ForeName": "Ian T",
+        "Initials": "IT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Garc\u00eda Gir\u00f3n",
+        "ForeName": "Carlos",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Gonzalez",
+        "ForeName": "Jose Manuel",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Grego",
+        "ForeName": "Tiago",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Hardy",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Hourlier",
+        "ForeName": "Thibaut",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Howe",
+        "ForeName": "Kevin L",
+        "Initials": "KL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Hunt",
+        "ForeName": "Toby",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Izuogu",
+        "ForeName": "Osagie G",
+        "Initials": "OG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Oncology, Inselspital, University Hospital, University of Bern, Bern, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Research (DBMR), University of Bern, Bern, Switzerland."
+          }
+        ],
+        "LastName": "Johnson",
+        "ForeName": "Rory",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Fergal J",
+        "Initials": "FJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Unit, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+          }
+        ],
+        "LastName": "Mart\u00ednez",
+        "ForeName": "Laura",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Mohanan",
+        "ForeName": "Shamika",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, CT 06520, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Systems Biology Institute, Yale University, West Haven, CT 06516, USA."
+          }
+        ],
+        "LastName": "Muir",
+        "ForeName": "Paul",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+          }
+        ],
+        "LastName": "Navarro",
+        "ForeName": "Fabio C P",
+        "Initials": "FCP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Parker",
+        "ForeName": "Anne",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+          }
+        ],
+        "LastName": "Pei",
+        "ForeName": "Baikang",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Unit, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+          }
+        ],
+        "LastName": "Pozo",
+        "ForeName": "Fernando",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Riera",
+        "ForeName": "Ferriol Calvet",
+        "Initials": "FC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Ruffier",
+        "ForeName": "Magali",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Schmitt",
+        "ForeName": "Bianca M",
+        "Initials": "BM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Stapleton",
+        "ForeName": "Eloise",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Suner",
+        "ForeName": "Marie-Marthe",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Sycheva",
+        "ForeName": "Irina",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre of New Technologies, University of Warsaw, Warsaw, Poland."
+          }
+        ],
+        "LastName": "Uszczynska-Ratajczak",
+        "ForeName": "Barbara",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics at Harvard Medical School, 10 Shattuck Street, Suite 514, Boston, MA 02115, USA."
+          }
+        ],
+        "LastName": "Wolf",
+        "ForeName": "Maxim Y",
+        "Initials": "MY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Jinuri",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Program in Computational Biology & Bioinformatics, Yale University, Bass 432, 266 Whitney Avenue, New Haven, CT 06520, USA."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Yucheng T",
+        "Initials": "YT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Yates",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Zerbino",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, College of Medicine, The Ohio State University, Columbus, OH 43210, USA."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Functional Proteomics, Division of Cancer Biology, Institute of Cancer Research, 237 Fulham Road, London SW3 6JB, UK."
+          }
+        ],
+        "LastName": "Choudhary",
+        "ForeName": "Jyoti S",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT 06520, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Program in Computational Biology & Bioinformatics, Yale University, Bass 432, 266 Whitney Avenue, New Haven, CT 06520, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Yale University, Bass 432, 266 Whitney Avenue, New Haven, CT 06520, USA."
+          }
+        ],
+        "LastName": "Gerstein",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Dr. Aiguader 88, Barcelona, E-08003 Catalonia, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Universitat Pompeu Fabra (UPF), Barcelona, E-08003 Catalonia, Spain."
+          }
+        ],
+        "LastName": "Guig\u00f3",
+        "ForeName": "Roderic",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical and Molecular Genetics, King's College London, Guys Hospital, Great Maze Pond, London SE1 9RT, UK."
+          }
+        ],
+        "LastName": "Hubbard",
+        "ForeName": "Tim J P",
+        "Initials": "TJP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MIT Computer Science and Artificial Intelligence Laboratory, 32 Vassar St, Cambridge, MA 02139, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of MIT and Harvard, 415 Main Street, Cambridge, MA 02142, USA."
+          }
+        ],
+        "LastName": "Kellis",
+        "ForeName": "Manolis",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA 95064, USA."
+          }
+        ],
+        "LastName": "Paten",
+        "ForeName": "Benedict",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Unit, Spanish National Cancer Research Centre (CNIO), Madrid, Spain."
+          }
+        ],
+        "LastName": "Tress",
+        "ForeName": "Michael L",
+        "Initials": "ML"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, UK."
+          }
+        ],
+        "LastName": "Flicek",
+        "ForeName": "Paul",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "T32 GM087237",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U41 HG007234",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "WT200990/Z/16/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "WT108749/Z/15/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Long Noncoding"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Molecular Sequence Annotation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Pseudogenes"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Long Noncoding"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Transcription, Genetic"
+    }
+  ]
+}

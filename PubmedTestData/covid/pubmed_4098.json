@@ -1,0 +1,287 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33497392",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0238665",
+      "10.1371/journal.pone.0238665"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Generalized linear models provide a measure of virulence for specific mutations in SARS-CoV-2 strains.",
+    "Pagination": {
+      "StartPage": "e0238665",
+      "MedlinePgn": "e0238665"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This study aims to highlight SARS-COV-2 mutations which are associated with increased or decreased viral virulence. We utilize genetic data from all strains available from GISAID and countries' regional information, such as deaths and cases per million, as well as COVID-19-related public health austerity measure response times. Initial indications of selective advantage of specific mutations can be obtained from calculating their frequencies across viral strains. By applying modelling approaches, we provide additional information that is not evident from standard statistics or mutation frequencies alone. We therefore, propose a more precise way of selecting informative mutations. We highlight two interesting mutations found in genes N (P13L) and ORF3a (Q57H). The former appears to be significantly associated with decreased deaths and cases per million according to our models, while the latter shows an opposing association with decreased deaths and increased cases per million. Moreover, protein structure prediction tools show that the mutations infer conformational changes to the protein that significantly alter its structure when compared to the reference protein."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9350-7577"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology & Genetics, Nicosia, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Nicosia, Cyprus."
+          }
+        ],
+        "LastName": "Oulas",
+        "ForeName": "Anastasis",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0136-9921"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology & Genetics, Nicosia, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Nicosia, Cyprus."
+          }
+        ],
+        "LastName": "Zanti",
+        "ForeName": "Maria",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0836-5579"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology & Genetics, Nicosia, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Nicosia, Cyprus."
+          }
+        ],
+        "LastName": "Tomazou",
+        "ForeName": "Marios",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology & Genetics, Nicosia, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Nicosia, Cyprus."
+          }
+        ],
+        "LastName": "Zachariou",
+        "ForeName": "Margarita",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology & Genetics, Nicosia, Cyprus."
+          }
+        ],
+        "LastName": "Minadakis",
+        "ForeName": "George",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology & Genetics, Nicosia, Cyprus."
+          }
+        ],
+        "LastName": "Bourdakou",
+        "ForeName": "Marilena M",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8950-4077"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Computer Science, Foundation for Research and Technology Hellas, Heraklion, Crete, Greece."
+          }
+        ],
+        "LastName": "Pavlidis",
+        "ForeName": "Pavlos",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2470-3363"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology & Genetics, Nicosia, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Nicosia, Cyprus."
+          }
+        ],
+        "LastName": "Spyrou",
+        "ForeName": "George M",
+        "Initials": "GM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Coronavirus Nucleocapsid Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "ORF3a protein, SARS-CoV-2"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Phosphoproteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viroporin Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "nucleocapsid phosphoprotein, SARS-CoV-2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics"
+      ],
+      "DescriptorName": "Coronavirus Nucleocapsid Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Geographic Information Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Linear Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics"
+      ],
+      "DescriptorName": "Phosphoproteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymorphism, Single Nucleotide"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics"
+      ],
+      "DescriptorName": "Viroporin Proteins"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

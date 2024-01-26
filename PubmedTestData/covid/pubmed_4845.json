@@ -1,0 +1,254 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "big data",
+      "bioinformatics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37814484",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "10",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1049/syb2.12080"
+    ],
+    "Journal": {
+      "ISSN": "1751-8857",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Dec"
+        }
+      },
+      "Title": "IET systems biology",
+      "ISOAbbreviation": "IET Syst Biol"
+    },
+    "ArticleTitle": "Bioinformatics approach to identify the hub gene associated with COVID-19 and idiopathic pulmonary fibrosis.",
+    "Pagination": {
+      "StartPage": "336",
+      "EndPage": "351",
+      "MedlinePgn": "336-351"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus disease 2019 (COVID-19) has developed into a global health crisis. Pulmonary fibrosis, as one of the complications of SARS-CoV-2 infection, deserves attention. As COVID-19 is a new clinical entity that is constantly evolving, and many aspects of disease are remain unknown. The datasets of COVID-19 and idiopathic pulmonary fibrosis were obtained from the Gene Expression Omnibus. The hub genes were screened out using the Random Forest (RF) algorithm depending on the severity of patients with COVID-19. A risk prediction model was developed to assess the prognosis of patients infected with SARS-CoV-2, which was evaluated by another dataset. Six genes (named NELL2, GPR183, S100A8, ALPL, CD177, and IL1R2) may be associated with the development of PF in patients with severe SARS-CoV-2 infection. S100A8 is thought to be an important target gene that is closely associated with COVID-19 and pulmonary fibrosis. Construction of a neural network model was successfully predicted the prognosis of patients with COVID-19. With the increasing availability of COVID-19 datasets, bioinformatic methods can provide possible predictive targets for the diagnosis, treatment, and prognosis of the disease and show intervention directions for the development of clinical drugs and vaccines."
+      ],
+      "CopyrightInformation": "\u00a9 2023 The Authors. IET Systems Biology published by John Wiley & Sons Ltd on behalf of The Institution of Engineering and Technology."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-7178-3223"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Fourth Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "Shi",
+        "ForeName": "Wenchao",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, Hainan Cancer Hospital, Haikou, Hainan, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Tinghui",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Second Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Huiwen",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Second Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "Ren",
+        "ForeName": "Juan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Fourth Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "Lv",
+        "ForeName": "Meiyu",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Second Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Qi",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Second Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "He",
+        "ForeName": "Yaowu",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Second Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Yao",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Fourth Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Lijie",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Fourth Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "Jin",
+        "ForeName": "Shoude",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, The Second Affiliated Hospital of Harbin Medical University, Harbin Medical University, Harbin, Heilongjiang, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Hong",
+        "Initials": "H"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "GZ20210158",
+        "Agency": "Key Research and Development Program of Heilongjiang",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "IET Syst Biol",
+    "NlmUniqueID": "101301198",
+    "ISSNLinking": "1751-8849"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Idiopathic Pulmonary Fibrosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflicts of interest."
+}

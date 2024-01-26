@@ -1,0 +1,134 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "14583172",
+  "DateCompleted": {
+    "Year": "2004",
+    "Month": "02",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0025-5564",
+      "JournalIssue": {
+        "Volume": "186",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2003",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Mathematical biosciences",
+      "ISOAbbreviation": "Math Biosci"
+    },
+    "ArticleTitle": "The dynamics of two viral infections in a single host population with applications to hantavirus.",
+    "Pagination": {
+      "StartPage": "191",
+      "EndPage": "217",
+      "MedlinePgn": "191-217"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "An SI epidemic model for a host with two viral infections circulating within the population is developed, analyzed, and numerically simulated. The model is a system of four differential equations which includes a state for susceptible individuals, two states for individuals infected with a single virus, one which is vertically transmitted and the other which is horizontally transmitted, and a fourth state for individuals infected with both viruses. A general growth function with density-dependent mortality is assumed. A special case of this model, where there is no coinfection and total cross immunity, is thoroughly analyzed. Several threshold values are defined which determine establishment of the disease and persistence at equilibrium for one or both of the infections within the host population. The model has applications to a hantavirus and an arenavirus that infect cotton rats. The hantavirus is transmitted horizontally whereas the arenavirus is transmitted vertically. It is shown through analysis and numerical simulations that both diseases can be maintained within a single host population, where individuals can be either infected with both viruses or with a single virus."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, Texas Tech University, Lubbock, TX 79409-1042, USA. lallen@math.ttu.edu"
+          }
+        ],
+        "LastName": "Allen",
+        "ForeName": "Linda J S",
+        "Initials": "LJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Langlais",
+        "ForeName": "Michel",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Phillips",
+        "ForeName": "Carleton J",
+        "Initials": "CJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci",
+    "NlmUniqueID": "0103146",
+    "ISSNLinking": "0025-5564"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "transmission"
+      ],
+      "DescriptorName": "Arenaviridae Infections"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Orthohantavirus"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "transmission"
+      ],
+      "DescriptorName": "Hantavirus Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Kinetics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Population Dynamics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rats"
+    }
+  ]
+}

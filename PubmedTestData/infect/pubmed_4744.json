@@ -1,0 +1,239 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32322102",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "07",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "04",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41591-020-0883-7"
+    ],
+    "Journal": {
+      "ISSN": "1546-170X",
+      "JournalIssue": {
+        "Volume": "26",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Nature medicine",
+      "ISOAbbreviation": "Nat Med"
+    },
+    "ArticleTitle": "Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy.",
+    "Pagination": {
+      "StartPage": "855",
+      "EndPage": "860",
+      "MedlinePgn": "855-860"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In Italy, 128,948 confirmed cases and 15,887 deaths of people who tested positive for SARS-CoV-2 were registered as of 5 April 2020. Ending the global SARS-CoV-2 pandemic requires implementation of multiple population-wide strategies, including social distancing, testing and contact tracing. We propose a new model that predicts the course of the epidemic to help plan an effective control strategy. The model considers eight stages of infection: susceptible (S), infected (I), diagnosed (D), ailing (A), recognized (R), threatened (T), healed (H) and extinct (E), collectively termed SIDARTHE. Our SIDARTHE model discriminates between infected individuals depending on whether they have been diagnosed and on the severity of their symptoms. The distinction between diagnosed and non-diagnosed individuals is important because the former are typically isolated and hence less likely to spread the infection. This delineation also helps to explain misperceptions of the case fatality rate and of the epidemic spread. We compare simulation results with real data on the COVID-19 epidemic in Italy, and we model possible scenarios of implementation of countermeasures. Our results demonstrate that restrictive social-distancing measures will need to be combined with widespread testing and contact tracing to end the ongoing COVID-19 pandemic."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-8600-1738"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Industrial Engineering, University of Trento, Trento, Italy. giulia.giordano@unitn.it."
+          }
+        ],
+        "LastName": "Giordano",
+        "ForeName": "Giulia",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dipartimento di Scienze Matematiche, Informatiche e Fisiche, University of Udine, Udine, Italy."
+          }
+        ],
+        "LastName": "Blanchini",
+        "ForeName": "Franco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases I, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical, Surgical, Diagnostic, and Paediatric Sciences, University of Pavia, Pavia, Italy."
+          }
+        ],
+        "LastName": "Bruno",
+        "ForeName": "Raffaele",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milano, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "IEIIT-CNR, Milano, Italy."
+          }
+        ],
+        "LastName": "Colaneri",
+        "ForeName": "Patrizio",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases I, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy."
+          }
+        ],
+        "LastName": "Di Filippo",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases I, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy."
+          }
+        ],
+        "LastName": "Di Matteo",
+        "ForeName": "Angela",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases I, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy."
+          }
+        ],
+        "LastName": "Colaneri",
+        "ForeName": "Marta",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "PRIN 2017YKXYXJ",
+        "Agency": "Ministero dell'Istruzione, dell'Universit\u00e0 e della Ricerca (Ministry of Education, University and Research)",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Nat Med",
+    "NlmUniqueID": "9502015",
+    "ISSNLinking": "1078-8956"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Betacoronavirus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "Coronavirus Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Italy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "Pneumonia, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

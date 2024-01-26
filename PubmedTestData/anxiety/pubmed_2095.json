@@ -1,0 +1,211 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Anxiety",
+      "Generalized Anxiety Disorder-7",
+      "Latent features",
+      "Long-Short-Term-Memory",
+      "Machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36858267",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "02",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jad.2023.02.084",
+      "S0165-0327(23)00248-3"
+    ],
+    "Journal": {
+      "ISSN": "1573-2517",
+      "JournalIssue": {
+        "Volume": "329",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May",
+          "Day": "15"
+        }
+      },
+      "Title": "Journal of affective disorders",
+      "ISOAbbreviation": "J Affect Disord"
+    },
+    "ArticleTitle": "Leveraging deep learning models to understand the daily experience of anxiety in teenagers over the course of a year.",
+    "Pagination": {
+      "StartPage": "293",
+      "EndPage": "299",
+      "MedlinePgn": "293-299"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Anxiety disorders are a prevalent and severe problem that are often developed early in life and can disrupt the daily lives of affected individuals for many years into adulthood. Given the persistent negative aspects of anxiety, accurate and early assessment is critical for long term outcomes. Currently, the most common method for anxiety assessment is through point-in-time measures like the GAD-7. Unfortunately, this survey and others like it can be subject to recall bias and do not fully capture the variability in an individual's day-to-day symptom experience. The current work aims to evaluate how point-in-time assessments like the GAD-7 relate to daily measurements of anxiety in a teenage population.",
+        "To evaluate this relationship, we leveraged data collected at four separate three week intervals from 30 teenagers (age 15-17) over the course of a year. The specific items of interest were a single item anxiety severity measure collected three times per day and end-of-month GAD-7 assessments. Within this sample, 40\u00a0% of individuals reported clinical levels of generalized anxiety disorder symptoms at some point during the study. The first component of analysis was a visual inspection assessing how daily anxiety severity fluctuated around end-of-month reporting via the GAD-7. The second component was a between-subjects comparison assessing whether individuals with similar GAD-7 scores experienced similar symptom dynamics across the month as represented by latent features derived from a deep learning model. With this approach, similarity was operationalized by hierarchical clustering of the latent features.",
+        "The aim clearly indicated that an individual's daily experience of anxiety varied widely around what was captured by the GAD-7. Additionally, when hierarchical clustering was applied to the three latent features derived from the (LSTM) encoder (r\u00a0=\u00a00.624 for feature reconstruction), it was clear that individuals with similar GAD-7 outcomes were experiencing different symptom dynamics. Upon further inspection of the latent features, the LSTM model appeared to rely as much on anxiety variability over the course of the month as it did on anxiety severity (p\u00a0<\u00a00.05 for both mean and RMSSD) to represent an individual's experience.",
+        "This work serves as further evidence for the heterogeneity within the experience of anxiety and that more than just point-in-time assessments are necessary to fully capture an individual's experience."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Dartmouth College, Hanover, NH, United States of America."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Brian",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Dartmouth College, Hanover, NH, United States of America; Quantitative Biomedical Sciences, Geisel School of Medicine, Lebanon, NH, United States of America. Electronic address: matthew.d.nemesure.gr@dartmouth.edu."
+          }
+        ],
+        "LastName": "Nemesure",
+        "ForeName": "Matthew D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Dartmouth College, Hanover, NH, United States of America."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Chloe",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Dartmouth College, Hanover, NH, United States of America; Quantitative Biomedical Sciences, Geisel School of Medicine, Lebanon, NH, United States of America."
+          }
+        ],
+        "LastName": "Price",
+        "ForeName": "George D",
+        "Initials": "GD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Dartmouth College, Hanover, NH, United States of America."
+          }
+        ],
+        "LastName": "Heinz",
+        "ForeName": "Michael V",
+        "Initials": "MV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Dartmouth College, Hanover, NH, United States of America; Department of Biomedical Data Science, Geisel School of Medicine, Lebanon, NH, United States of America; Quantitative Biomedical Sciences, Geisel School of Medicine, Lebanon, NH, United States of America."
+          }
+        ],
+        "LastName": "Jacobson",
+        "ForeName": "Nicholas C",
+        "Initials": "NC"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 DA029926",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 CA134286",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 DA037202",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "J Affect Disord",
+    "NlmUniqueID": "7906073",
+    "ISSNLinking": "0165-0327"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Anxiety Disorders"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Surveys and Questionnaires"
+    }
+  ],
+  "CoiStatement": "Conflict of interest The authors declare no potential conflicts of interest with respect to the research, authorship, and/or publication of this article. This research is supported in part by T32 (T32DA037202-07) and P30 (P30DA029926) grants provided by the National Institute on Drug Abuse."
+}

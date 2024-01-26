@@ -1,0 +1,249 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35333891",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "03",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0266043",
+      "10.1371/journal.pone.0266043"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Prediction of malignant transformation in oral epithelial dysplasia using infrared absorbance spectra.",
+    "Pagination": {
+      "StartPage": "e0266043",
+      "MedlinePgn": "e0266043"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Oral epithelial dysplasia (OED) is a histopathologically-defined, potentially premalignant condition of the oral cavity. The rate of transformation to frank carcinoma is relatively low (12% within 2 years) and prediction based on histopathological grade is unreliable, leading to both over- and under-treatment. Alternative approaches include infrared (IR) spectroscopy, which is able to classify cancerous and non-cancerous tissue in a number of cancers, including oral. The aim of this study was to explore the capability of FTIR (Fourier-transform IR) microscopy and machine learning as a means of predicting malignant transformation of OED. Supervised, retrospective analysis of longitudinally-collected OED biopsy samples from 17 patients with high risk OED lesions: 10 lesions transformed and 7 did not over a follow-up period of more than 3 years. FTIR spectra were collected from routine, unstained histopathological sections and machine learning used to predict malignant transformation, irrespective of OED classification. PCA-LDA (principal component analysis followed by linear discriminant analysis) provided evidence that the subsequent transforming status of these 17 lesions could be predicted from FTIR data with a sensitivity of 79 \u00b1 5% and a specificity of 76 \u00b1 5%. Six key wavenumbers were identified as most important in this classification. Although this pilot study used a small cohort, the strict inclusion criteria and classification based on known outcome, rather than OED grade, make this a novel study in the field of FTIR in oral cancer and support the clinical potential of this technology in the surveillance of OED."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Liverpool, Liverpool, United Kingdom."
+          }
+        ],
+        "LastName": "Ellis",
+        "ForeName": "Barnaby G",
+        "Initials": "BG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Liverpool, Liverpool, United Kingdom."
+          }
+        ],
+        "LastName": "Whitley",
+        "ForeName": "Conor A",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Liverpool Clinical Laboratories, University of Liverpool, Liverpool, United Kingdom."
+          }
+        ],
+        "LastName": "Triantafyllou",
+        "ForeName": "Asterios",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular and Clinical Cancer Medicine, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+          }
+        ],
+        "LastName": "Gunning",
+        "ForeName": "Philip J",
+        "Initials": "PJ"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6878-0697"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Liverpool, Liverpool, United Kingdom."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Caroline I",
+        "Initials": "CI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Liverpool, Liverpool, United Kingdom."
+          }
+        ],
+        "LastName": "Barrett",
+        "ForeName": "Steve D",
+        "Initials": "SD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Manchester Institute of Biotechnology, University of Manchester, Manchester, United Kingdom."
+          }
+        ],
+        "LastName": "Gardner",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular and Clinical Cancer Medicine, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Regional Maxillofacial Unit, Liverpool University Hospitals NHS Foundation Trust, Liverpool, United Kingdom."
+          }
+        ],
+        "LastName": "Shaw",
+        "ForeName": "Richard J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Liverpool, Liverpool, United Kingdom."
+          }
+        ],
+        "LastName": "Weightman",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular and Clinical Cancer Medicine, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, Liverpool, United Kingdom."
+          }
+        ],
+        "LastName": "Risk",
+        "ForeName": "Janet M",
+        "Initials": "JM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "C7738/A26196",
+        "Acronym": "CRUK_",
+        "Agency": "Cancer Research UK",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Cell Transformation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hyperplasia"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Mouth Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pilot Projects"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Precancerous Conditions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spectroscopy, Fourier Transform Infrared"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

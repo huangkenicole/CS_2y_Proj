@@ -1,0 +1,143 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37341275",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "06",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1590/0001-3765202320220680",
+      "S0001-37652023000301702"
+    ],
+    "Journal": {
+      "ISSN": "1678-2690",
+      "JournalIssue": {
+        "Volume": "95",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2023"
+        }
+      },
+      "Title": "Anais da Academia Brasileira de Ciencias",
+      "ISOAbbreviation": "An Acad Bras Cienc"
+    },
+    "ArticleTitle": "Sliding Mode-Based Active Disturbance Rejection Control of Assistive Exoskeleton Device for Rehabilitation of Disabled Lower Limbs.",
+    "Pagination": {
+      "StartPage": "e20220680",
+      "MedlinePgn": "e20220680"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this study, a hybrid control strategy is proposed to improve the tracking performance of lower limb exoskeleton system dedicated for rehabilitation the motion of hip and knee limbs in disabled persons. The proposed controller together with exoskeleton device is practically instructive to make exercises for people suffering weakness in their lower limbs. The proposed controller combined both active disturbance rejection control (ADRC) with sliding mode control (SMC) to get their powerful characteristics in terms of rejection capability and robustness characteristics. The dynamic modelling of swinging lower limbs are developed and the controller has been designed accordingly. The numerical simulations have been conducted to validate the effectiveness of proposed controller. A comparison study in performance has been performed between the proposed controller and the traditional controller ADRC based on proportional-derivative controller. The simulated results showed that the proposed controller has better tracking performance than conventional version. In addition, the results showed that the sliding mode-based ADRC can considerably reduce the chattering level and better rejection capability, fast tracking behavior and less control effort."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3059-4375"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Engineering, Faculty of Engineering, Mustansiriyah University, Palestine Al-Waziriyah Street, 10073 Baghdad, Iraq."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Control and System Engineering, University of Technology, Al-Sinaa Street, 10066 Baghdad, Iraq."
+          }
+        ],
+        "LastName": "Alawad",
+        "ForeName": "Nasir A",
+        "Initials": "NA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9071-1329"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Control and System Engineering, University of Technology, Al-Sinaa Street, 10066 Baghdad, Iraq."
+          }
+        ],
+        "LastName": "Humaidi",
+        "ForeName": "Amjad J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2568-9812"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Engineering, University of Technology, Al-Sinaa Street, 10066 Baghdad, Iraq."
+          }
+        ],
+        "LastName": "Alaraji",
+        "ForeName": "Ahmed S",
+        "Initials": "AS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Brazil",
+    "MedlineTA": "An Acad Bras Cienc",
+    "NlmUniqueID": "7503280",
+    "ISSNLinking": "0001-3765"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exoskeleton Device"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disabled Persons"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lower Extremity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    }
+  ]
+}

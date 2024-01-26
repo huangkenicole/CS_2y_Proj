@@ -1,0 +1,547 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "allele-specific probe PCR",
+      "diagnostics",
+      "next-generation sequencing",
+      "variant identification",
+      "variants of concern"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35321556",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "03",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e02283-21",
+      "10.1128/jcm.02283-21"
+    ],
+    "Journal": {
+      "ISSN": "1098-660X",
+      "JournalIssue": {
+        "Volume": "60",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Apr",
+          "Day": "20"
+        }
+      },
+      "Title": "Journal of clinical microbiology",
+      "ISOAbbreviation": "J Clin Microbiol"
+    },
+    "ArticleTitle": "Highly Sensitive Lineage Discrimination of SARS-CoV-2 Variants through Allele-Specific Probe PCR.",
+    "Pagination": {
+      "StartPage": "e0228321",
+      "MedlinePgn": "e0228321"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Tools to detect SARS-CoV-2 variants of concern and track the ongoing evolution of the virus are necessary to support public health efforts and the design and evaluation of novel COVID-19 therapeutics and vaccines. Although next-generation sequencing (NGS) has been adopted as the gold standard method for discriminating SARS-CoV-2 lineages, alternative methods may be required when processing samples with low viral loads or low RNA quality. To this aim, an allele-specific probe PCR (ASP-PCR) targeting lineage-specific single nucleotide polymorphisms (SNPs) was developed and used to screen 1,082 samples from two clinical trials in the United Kingdom and Brazil. Probit regression models were developed to compare ASP-PCR performance against 1,771 NGS results for the same cohorts. Individual SNPs were shown to readily identify specific variants of concern. ASP-PCR was shown to discriminate SARS-CoV-2 lineages with a higher likelihood than NGS over a wide range of viral loads. The comparative advantage for ASP-PCR over NGS was most pronounced in samples with cycle threshold (<i>C<sub>T</sub></i>) values between 26 and 30 and in samples that showed evidence of degradation. Results for samples screened by ASP-PCR and NGS showed 99% concordant results. ASP-PCR is well suited to augment but not replace NGS. The method can differentiate SARS-CoV-2 lineages with high accuracy and would be best deployed to screen samples with lower viral loads or that may suffer from degradation. Future work should investigate further destabilization from primer-target base mismatch through altered oligonucleotide chemistry or chemical additives."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6522-138X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Peter Medawar Building for Pathogen Research, Nuffield Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Ratcliff",
+        "ForeName": "Jeremy",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Imperial College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Imperial College Health NHS Trust, St. Mary's Hospital, London, United Kingdom."
+          }
+        ],
+        "LastName": "Al-Beidh",
+        "ForeName": "Farah",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford Vaccine Group, Department of Paediatrics, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Bibi",
+        "ForeName": "Sagida",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2187-0550"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Institute, Nuffield Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Bonsall",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford Vaccine Group, Department of Paediatrics, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Global Health, University of Siena, Siena, Italy."
+          }
+        ],
+        "LastName": "Costa Clemens",
+        "ForeName": "Sue Ann",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Haematology Theme, Radcliffe Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Trials Unit, NHS Blood and Transport, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Estcourt",
+        "ForeName": "Lise",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Trials Unit, NHS Blood and Transport, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Evans",
+        "ForeName": "Amy",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Immunology and Microbial Sciences, Kings College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Guy's and St. Thomas' NHS Foundation Trust, St. Thomas' Hospital, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Inflammation Research, The University of Edinburghgrid.4305.2, Edinburgh, United Kingdom."
+          }
+        ],
+        "LastName": "Fish",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Clinical Vaccinology and Tropical Medicine, The Jenner Institute, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Folegatti",
+        "ForeName": "Pedro M",
+        "Initials": "PM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Imperial College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Imperial College Health NHS Trust, St. Mary's Hospital, London, United Kingdom."
+          }
+        ],
+        "LastName": "Gordon",
+        "ForeName": "Anthony C",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2387-9225"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Peter Medawar Building for Pathogen Research, Nuffield Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Jay",
+        "ForeName": "Cecilia",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Immunology and Microbial Sciences, Kings College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Guy's and St. Thomas' NHS Foundation Trust, St. Thomas' Hospital, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Inflammation Research, The University of Edinburghgrid.4305.2, Edinburgh, United Kingdom."
+          }
+        ],
+        "LastName": "Jennings",
+        "ForeName": "Aislinn",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Trials Unit, NHS Blood and Transport, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Laing",
+        "ForeName": "Emma",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Clinical Vaccinology and Tropical Medicine, The Jenner Institute, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Lambe",
+        "ForeName": "Teresa",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Institute, Nuffield Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "MacIntyre-Cockett",
+        "ForeName": "George",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University Division of Anaesthesia, University of Cambridgegrid.5335.0, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Menon",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Intensive Care National Audit and Research Centre, London, United Kingdom."
+          }
+        ],
+        "LastName": "Mouncey",
+        "ForeName": "Paul R",
+        "Initials": "PR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Peter Medawar Building for Pathogen Research, Nuffield Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Dung",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford Vaccine Group, Department of Paediatrics, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "NIHR Oxford Biomedical Research Centre, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Pollard",
+        "ForeName": "Andrew J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford Vaccine Group, Department of Paediatrics, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford University Hospitals NHS Foundation Trust, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Ramasamy",
+        "ForeName": "Maheshi N",
+        "Initials": "MN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Haematology Theme, Radcliffe Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical, Research, and Development, NHS Blood and Transport, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Roberts",
+        "ForeName": "David J",
+        "Initials": "DJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Intensive Care National Audit and Research Centre, London, United Kingdom."
+          }
+        ],
+        "LastName": "Rowan",
+        "ForeName": "Kathryn M",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Immunology and Microbial Sciences, Kings College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Guy's and St. Thomas' NHS Foundation Trust, St. Thomas' Hospital, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Inflammation Research, The University of Edinburghgrid.4305.2, Edinburgh, United Kingdom."
+          }
+        ],
+        "LastName": "Rynne",
+        "ForeName": "Jennifer",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5338-2538"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Immunology and Microbial Sciences, Kings College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Guy's and St. Thomas' NHS Foundation Trust, St. Thomas' Hospital, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Inflammation Research, The University of Edinburghgrid.4305.2, Edinburgh, United Kingdom."
+          }
+        ],
+        "LastName": "Shankar-Hari",
+        "ForeName": "Manu",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Peter Medawar Building for Pathogen Research, Nuffield Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford University Hospitals NHS Foundation Trust, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Williams",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiology Services, NHS Blood and Transport, London, United Kingdom."
+          }
+        ],
+        "LastName": "Harvala",
+        "ForeName": "Heli",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2765-9828"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Institute, Nuffield Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Golubchik",
+        "ForeName": "Tanya",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7964-4700"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Peter Medawar Building for Pathogen Research, Nuffield Department of Medicine, University of Oxfordgrid.4991.5, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Simmonds",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "AMPHEUS Project, REMAP-CAP Immunoglobulin Domain UK Investigators, and Oxford COVID-19 Vaccine Trial Group"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "447335",
+        "Agency": "CIHR",
+        "Country": "Canada"
+      },
+      {
+        "GrantID": "158584",
+        "Agency": "CIHR",
+        "Country": "Canada"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Clin Microbiol",
+    "NlmUniqueID": "7505564",
+    "ISSNLinking": "0095-1137"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Alleles"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

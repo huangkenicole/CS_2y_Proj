@@ -1,0 +1,200 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "assay evaluation",
+      "integrated web tool",
+      "mutation analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37896794",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "09",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2017",
+      "10.3390/v15102017"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep",
+          "Day": "28"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "CovidShiny: An Integrated Web Tool for SARS-CoV-2 Mutation Profiling and Molecular Diagnosis Assay Evaluation In Silico.",
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus disease 2019 (COVID-19) pandemic is still ongoing, with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) continuing to evolve and accumulate mutations. While various bioinformatics tools have been developed for SARS-CoV-2, a well-curated mutation-tracking database integrated with in silico evaluation for molecular diagnostic assays is currently unavailable. To address this, we introduce CovidShiny, a web tool that integrates mutation profiling, in silico evaluation, and data download capabilities for genomic sequence-based SARS-CoV-2 assays and data download. It offers a feasible framework for surveilling the mutation of SARS-CoV-2 and evaluating the coverage of the molecular diagnostic assay for SARS-CoV-2. With CovidShiny, we examined the dynamic mutation pattern of SARS-CoV-2 and evaluated the coverage of commonly used assays on a large scale. Based on our in silico analysis, we stress the importance of using multiple target molecular diagnostic assays for SARS-CoV-2 to avoid potential false-negative results caused by viral mutations. Overall, CovidShiny is a valuable tool for SARS-CoV-2 mutation surveillance and in silico assay design and evaluation."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-8568-9852"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The State Key Laboratory of Cellular Stress Biology, National Institute for Data Science in Health and Medicine Engineering, Research Center of Molecular Diagnostics of the Ministry of Education, School of Life Sciences, Xiamen University, Xiamen 361100, China."
+          }
+        ],
+        "LastName": "Ma",
+        "ForeName": "Shaoqian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The State Key Laboratory of Cellular Stress Biology, National Institute for Data Science in Health and Medicine Engineering, Research Center of Molecular Diagnostics of the Ministry of Education, School of Life Sciences, Xiamen University, Xiamen 361100, China."
+          }
+        ],
+        "LastName": "Xiao",
+        "ForeName": "Gezhi",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The State Key Laboratory of Cellular Stress Biology, National Institute for Data Science in Health and Medicine Engineering, Research Center of Molecular Diagnostics of the Ministry of Education, School of Life Sciences, Xiamen University, Xiamen 361100, China."
+          }
+        ],
+        "LastName": "Deng",
+        "ForeName": "Xusheng",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The State Key Laboratory of Cellular Stress Biology, National Institute for Data Science in Health and Medicine Engineering, Research Center of Molecular Diagnostics of the Ministry of Education, School of Life Sciences, Xiamen University, Xiamen 361100, China."
+          }
+        ],
+        "LastName": "Tong",
+        "ForeName": "Mengsha",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The State Key Laboratory of Cellular Stress Biology, National Institute for Data Science in Health and Medicine Engineering, Research Center of Molecular Diagnostics of the Ministry of Education, School of Life Sciences, Xiamen University, Xiamen 361100, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Jialiang",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The State Key Laboratory of Cellular Stress Biology, National Institute for Data Science in Health and Medicine Engineering, Research Center of Molecular Diagnostics of the Ministry of Education, School of Life Sciences, Xiamen University, Xiamen 361100, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Qingge",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2413-9106"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The State Key Laboratory of Cellular Stress Biology, National Institute for Data Science in Health and Medicine Engineering, Research Center of Molecular Diagnostics of the Ministry of Education, School of Life Sciences, Xiamen University, Xiamen 361100, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Medicine and Life Sciences, Xiamen University, Xiamen 361100, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yongyou",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

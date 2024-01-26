@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33254579",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "09",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.mehy.2020.110275",
+      "S0306-9877(20)32141-1"
+    ],
+    "Journal": {
+      "ISSN": "1532-2777",
+      "JournalIssue": {
+        "Volume": "144",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Medical hypotheses",
+      "ISOAbbreviation": "Med Hypotheses"
+    },
+    "ArticleTitle": "Host - virus - drug interactions as determinants of COVID-19's phenotypes: A data-driven hypothesis.",
+    "Pagination": {
+      "StartPage": "110275",
+      "MedlinePgn": "110275"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "There is a growing body of evidence on the significance of interactions between comorbidities, their treatments and COVID-19 clinical phenotypes. The hypothesis explored herein is that pharmaceutical compounds currently in use are affecting COVID-19 susceptibility and phenotypes by overlapping transcriptional networks. Using two distinct SARS-CoV-2 - host interactomes, gene set enrichment analysis is used to discover compounds and assorted gene signatures derived from SARS-CoV-2 interactomes. Micronutrients, antiplatelets, ACE2 inhibitors, NSAIDs, corticosteroids and tyrosine kinase inhibitors are among the compounds discovered. Considering the implication of their associated comorbidities such as diabetes and cardiovascular disease that are associated with severe COVID-19, this study outlines the need to consider specific compounds as modulators of the observed COVID-19 spectrum. Furthermore, given that micronutrient trafficking may be targeted by viral processes, and display synergism with other enriched compounds, such as statins, studies assessing their levels prior and during infection are more than warranted."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020. Published by Elsevier Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Athens Naval Hospital, P.C. 115 21, Athens, Greece; Department of Respiratory Medicine, Faculty of Medicine, University of Thessaly, Biopolis, P.C. 41500 Larissa, Greece; Department of Computer Science and Telecommunications, University of Thessaly, Papasiopoulou 2 - 4, P.C. 35 131 Galaneika, Lamia, Greece. Electronic address: gvavougyios@uth.gr."
+          }
+        ],
+        "LastName": "Vavougios",
+        "ForeName": "George D",
+        "Initials": "GD"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Med Hypotheses",
+    "NlmUniqueID": "7505668",
+    "ISSNLinking": "0306-9877"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Micronutrients"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "ACE2 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "Angiotensin-Converting Enzyme 2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Angiotensin-Converting Enzyme 2"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "physiopathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Susceptibility"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immune System"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Inflammation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Micronutrients"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phenotype"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcription, Genetic"
+    }
+  ]
+}

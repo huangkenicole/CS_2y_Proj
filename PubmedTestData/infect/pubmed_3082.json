@@ -1,0 +1,150 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "17012365",
+  "DateCompleted": {
+    "Year": "2007",
+    "Month": "06",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2006",
+        "Month": "09",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1477-8599",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Mathematical medicine and biology : a journal of the IMA",
+      "ISOAbbreviation": "Math Med Biol"
+    },
+    "ArticleTitle": "Disease emergence in multi-host epidemic models.",
+    "Pagination": {
+      "StartPage": "17",
+      "EndPage": "34",
+      "MedlinePgn": "17-34"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Most pathogens are capable of infecting multiple hosts. These multiple hosts provide many avenues for the disease to emerge. In this investigation, we formulate and analyse multi-host epidemic models and determine conditions under which the disease can emerge. In particular, SIS and SIR epidemic models are formulated for a pathogen that can infect n different hosts. The basic reproduction number is computed and shown to increase with n, the number of hosts that can be infected. Therefore, the possibility of disease emergence increases with the number of hosts infected. The SIS model for two hosts is studied in detail. Necessary and sufficient conditions are derived for the global stability of an endemic equilibrium. Numerical examples illustrate the dynamics of the two- and three-host epidemic models. The models have applications to hantavirus in rodents and other zoonotic diseases with multiple hosts."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, Texas Tech University, Lubbock, TX 79409-1042, USA. rmccormack16@hotmail.com"
+          }
+        ],
+        "LastName": "McCormack",
+        "ForeName": "Robert K",
+        "Initials": "RK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Allen",
+        "ForeName": "Linda J S",
+        "Initials": "LJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 TW006986",
+        "Acronym": "TW",
+        "Agency": "FIC NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01TW006986-02",
+        "Acronym": "TW",
+        "Agency": "FIC NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Math Med Biol",
+    "NlmUniqueID": "101182345",
+    "ISSNLinking": "1477-8599"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "Hantavirus Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rodentia"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Zoonoses"
+    }
+  ]
+}

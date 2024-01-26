@@ -1,0 +1,223 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34789827",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "11",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "22426",
+      "10.1038/s41598-021-01954-4"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "17"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Identifying subtypes of depression in clinician-annotated text: a retrospective cohort study.",
+    "Pagination": {
+      "StartPage": "22426",
+      "MedlinePgn": "22426"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Current criteria for depression are imprecise and do not accurately characterize its distinct clinical presentations. As a result, its diagnosis lacks clinical utility in both treatment and research settings. Data-driven efforts to refine criteria have typically focused on a limited set of symptoms that do not reflect the disorder's heterogeneity. By contrast, clinicians often write about patients in depth, creating descriptions that may better characterize depression. However, clinical text is not commonly used to this end. Here we show that clinically relevant depressive subtypes can be derived from unstructured electronic health records. Five subtypes were identified amongst 18,314 patients with depression treated at a large mental healthcare provider by using unsupervised machine learning: severe-typical, psychotic, mild-typical, agitated, and anergic-apathetic. Subtypes were used to place patients in groups for validation; groups were found to be associated with future outcomes and characteristics that were consistent with the subtypes. These associations suggest that these categorizations are actionable due to their validity with respect to disease prognosis. Moreover, they were derived with automated techniques that might theoretically be widely implemented, allowing for future analyses in more varied populations and settings. Additional research, especially with respect to treatment response, may prove useful in further evaluation."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Prairie Health, Palo Alto, USA. benson@prairiehealth.co."
+          }
+        ],
+        "LastName": "Kung",
+        "ForeName": "Benson",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Prairie Health, Palo Alto, USA."
+          }
+        ],
+        "LastName": "Chiang",
+        "ForeName": "Maurice",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK."
+          }
+        ],
+        "LastName": "Perera",
+        "ForeName": "Gayan",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "South London and Maudsley NHS Foundation Trust, London, UK."
+          }
+        ],
+        "LastName": "Pritchard",
+        "ForeName": "Megan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "South London and Maudsley NHS Foundation Trust, London, UK."
+          }
+        ],
+        "LastName": "Stewart",
+        "ForeName": "Robert",
+        "Initials": "R"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "MR/T045302/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Bipolar Disorder"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "physiopathology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "physiopathology"
+      ],
+      "DescriptorName": "Depressive Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electronic Health Records"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Psychotic Disorders"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Unsupervised Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "BK and MC are both co-founders of Prairie Health, Inc. GP, MF, and RS declare no competing interests."
+}

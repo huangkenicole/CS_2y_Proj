@@ -1,0 +1,185 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Cas13",
+      "RT-LAMP",
+      "SARS-CoV-2",
+      "biosensors",
+      "point-of-care diagnostics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34546709",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acssynbio.1c00181"
+    ],
+    "Journal": {
+      "ISSN": "2161-5063",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Oct",
+          "Day": "15"
+        }
+      },
+      "Title": "ACS synthetic biology",
+      "ISOAbbreviation": "ACS Synth Biol"
+    },
+    "ArticleTitle": "A Novel Miniature CRISPR-Cas13 System for SARS-CoV-2 Diagnostics.",
+    "Pagination": {
+      "StartPage": "2541",
+      "EndPage": "2551",
+      "MedlinePgn": "2541-2551"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Rapid, point-of-care (POC) diagnostics are essential to mitigate the impacts of current (and future) epidemics; however, current methods for detecting severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) require complicated laboratory tests that are generally conducted off-site and require substantial time. CRISPR-Cas systems have been harnessed to develop sensitive and specific platforms for nucleic acid detection. These detection platforms take advantage of CRISPR enzymes' RNA-guided specificity for RNA and DNA targets and collateral trans activities on single-stranded RNA and DNA reporters. Microbial genomes possess an extensive range of CRISPR enzymes with different specificities and levels of collateral activity; identifying new enzymes may improve CRISPR-based diagnostics. Here, we identified a new Cas13 variant, which we named as miniature Cas13 (mCas13), and characterized its catalytic activity. We then employed this system to design, build, and test a SARS-CoV-2 detection module coupling reverse transcription loop-mediated isothermal amplification (RT-LAMP) with the mCas13 system to detect SARS-CoV-2 in synthetic and clinical samples. Our system exhibits sensitivity and specificity comparable to other CRISPR systems. This work expands the repertoire and application of Cas13 enzymes in diagnostics and for potential <i>in vivo</i> applications, including RNA knockdown and editing. Importantly, our system can be potentially adapted and used in large-scale testing for diverse pathogens, including RNA and DNA viruses, and bacteria."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Mahas",
+        "ForeName": "Ahmed",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Qiaochu",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Marsic",
+        "ForeName": "Tin",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0616-6365"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Genome Engineering and Synthetic Biology, Division of Biological Sciences, 4700 King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia."
+          }
+        ],
+        "LastName": "Mahfouz",
+        "ForeName": "Magdy M",
+        "Initials": "MM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "ACS Synth Biol",
+    "NlmUniqueID": "101575075",
+    "ISSNLinking": "2161-5063"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "SupplMeshList": [
+    "LAMP assay"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CRISPR-Cas Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Diagnostic Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acid Amplification Techniques"
+    },
+    {
+      "QualifierName": [
+        "analysis",
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

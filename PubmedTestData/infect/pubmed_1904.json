@@ -1,0 +1,179 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36758109",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "02",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1010886",
+      "10.1371/journal.pcbi.1010886"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Enhanced viral infectivity and reduced interferon production are associated with high pathogenicity for influenza viruses.",
+    "Pagination": {
+      "StartPage": "e1010886",
+      "MedlinePgn": "e1010886"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Epidemiological and clinical evidence indicates that humans infected with the 1918 pandemic H1N1 influenza virus and highly pathogenic avian H5N1 influenza viruses often displayed severe lung pathology. High viral load and extensive infiltration of macrophages are the hallmarks of highly pathogenic (HP) influenza viral infections. However, it remains unclear what biological mechanisms primarily determine the observed difference in the kinetics of viral load and macrophages between HP and low pathogenic (LP) viral infections, and how the mechanistic differences are associated with viral pathogenicity. In this study, we develop a mathematical model of viral dynamics that includes the dynamics of different macrophage populations and interferon. We fit the model to in vivo kinetic data of viral load and macrophage level from BALB/c mice infected with an HP or LP strain of H1N1/H5N1 virus to estimate model parameters using Bayesian inference. Our primary finding is that HP viruses have a higher viral infection rate, a lower interferon production rate and a lower macrophage recruitment rate compared to LP viruses, which are strongly associated with more severe tissue damage (quantified by a higher percentage of epithelial cell loss). We also quantify the relative contribution of macrophages to viral clearance and find that macrophages do not play a dominant role in the direct clearance of free viruses although their role in mediating immune responses such as interferon production is crucial. Our work provides new insight into the mechanisms that convey the observed difference in viral and macrophage kinetics between HP and LP infections and establishes an improved model-fitting framework to enhance the analysis of new data on viral pathogenicity."
+      ],
+      "CopyrightInformation": "Copyright: \u00a9 2023 Li et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1252-670X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematics and Statistics, The University of Melbourne, Parkville, VIC, Australia."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Ke",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematics and Statistics, The University of Melbourne, Parkville, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Peter Doherty Institute for Infection and Immunity, The Royal Melbourne Hospital and The University of Melbourne, Parkville, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Melbourne School of Population and Global Health, The University of Melbourne, Parkville, VIC, Australia."
+          }
+        ],
+        "LastName": "McCaw",
+        "ForeName": "James M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematics and Statistics, The University of Melbourne, Parkville, VIC, Australia."
+          }
+        ],
+        "LastName": "Cao",
+        "ForeName": "Pengxing",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "9008-11-1",
+      "NameOfSubstance": "Interferons"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Influenza A Virus, H5N1 Subtype"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Influenza A Virus, H1N1 Subtype"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virulence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Diseases"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Influenza A virus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Interferons"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Influenza, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Orthomyxoviridae Infections"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

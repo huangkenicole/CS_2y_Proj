@@ -1,0 +1,129 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Firefly",
+      "Grey wolf",
+      "Heart disease",
+      "artificial neural network",
+      "differential approach",
+      "hyper parameter weight updation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35652537",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1080/10255842.2022.2078966"
+    ],
+    "Journal": {
+      "ISSN": "1476-8259",
+      "JournalIssue": {
+        "Volume": "25",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Computer methods in biomechanics and biomedical engineering",
+      "ISOAbbreviation": "Comput Methods Biomech Biomed Engin"
+    },
+    "ArticleTitle": "Effective heart disease prediction with Grey-wolf with Firefly algorithm-differential evolution (GF-DE) for feature selection and weighted ANN classification.",
+    "Pagination": {
+      "StartPage": "1409",
+      "EndPage": "1427",
+      "MedlinePgn": "1409-1427"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In recent time, heart disease has become common leading to mortality of many individuals. Hence, early and accurate prediction of this disease is vital to reduce death rate and enhance people's lives. Concurrently, Artificial Intelligence has gained more attention at present as it permits deeper understanding of the healthcare data thereby providing accurate prediction results. This efficient prediction will solve complicated queries regarding heart diseases and hence assists clinical practitioners to adopt smart medical decisions. Hence, this study intends to predict heart disease with high accuracy by proposing an improved feature selection and enhanced classification approach. The paper employs Grey-wolf with Firefly algorithm for effective feature selection and using Differential Evolution Algorithm for tuning the hyper parameters of Artificial Neural Network (ANN). Hence, it is named as Grey Wolf Firefly algorithm with Differential Evolution (GF-DE) for better classification of the selected features. This proposed classification model trains the neural network to obtain optimal weights and tunes huge number of hyper parameters in an efficiently. To prove this, the proposed system is comparatively analysed with existing methods in terms of performance metrics like accuracy, precision, recall and F1 score for Cleveland and Statlog dataset. In addition, statistical analysis is also undertaken to analyse the significance of proposed system. Outcomes revealed the efficiency of proposed method which makes it highly suitable for heart disease prediction in an efficient manner."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Scholar, Anna University, Chennai, India."
+          }
+        ],
+        "LastName": "Deepika",
+        "ForeName": "D",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Professor, Computer Science and Engineering, Velammal Institute of Technology, Chennai, India."
+          }
+        ],
+        "LastName": "Balaji",
+        "ForeName": "N",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Comput Methods Biomech Biomed Engin",
+    "NlmUniqueID": "9802899",
+    "ISSNLinking": "1025-5842"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ]
+}

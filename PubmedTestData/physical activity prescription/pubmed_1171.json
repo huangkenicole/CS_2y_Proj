@@ -1,0 +1,199 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Accelerometry",
+      "Biomarkers",
+      "Knee osteoarthritis",
+      "Lumbar spinal stenosis",
+      "Performance phenotypes",
+      "Physical activity"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30025995",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "01",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "01",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "07",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.spinee.2018.07.007",
+      "S1529-9430(18)31011-8"
+    ],
+    "Journal": {
+      "ISSN": "1878-1632",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Jan"
+        }
+      },
+      "Title": "The spine journal : official journal of the North American Spine Society",
+      "ISOAbbreviation": "Spine J"
+    },
+    "ArticleTitle": "Digital biomarkers of spine and musculoskeletal disease from accelerometers: Defining phenotypes of free-living physical activity in knee osteoarthritis and lumbar spinal stenosis.",
+    "Pagination": {
+      "StartPage": "15",
+      "EndPage": "23",
+      "MedlinePgn": "15-23"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Lumbar spinal stenosis (LSS) and knee osteoarthritis (OA) are 2 of the leading causes of disability worldwide. In order to provide disease-specific prescriptions for physical activity, there is a clear need to better understand physical activity in daily life (performance) in these populations.",
+        "To discover performance phenotypes for LSS and OA by applying novel analytical methods to accelerometry data. Specific objectives include the following: (1) to identify characteristic features (phenotypes) of free-living physical activity unique to individuals with LSS and OA, and (2) to determine which features can best differentiate between these conditions.",
+        "Leveraging data from 3 existing cross-sectional cohorts, accelerometry signal feature characterization and selection were performed in a computational laboratory.",
+        "Data from a total of 4,028 individuals were analyzed from the following 3 datasets: LSS Accelerometry Database (n=75); OA Initiative (n=1950); and the 2003 to 2004 National Health and Nutrition Examination Survey (pain-free controls, n=2003).",
+        "In order to characterize the accelerometry signals, data were examined using (1) standard intervals for counts/minute from Freedson et\u00a0al. and (2) the physical performance intervals for mobility-limited pain populations. From this, 42 novel accelerometry features were defined and evaluated for significance in discriminating between the groups (LSS, OA, and controls) in order to then determine which sparse set of features best differentiates between the groups. These sparse sets of features defined the performance phenotypes.",
+        "Accelerometry features and their ability to differentiate between individuals with LSS, OA, and controls.",
+        "Given age and gender, classification rates were at least 80% accurate (pairwise) between diseased and pain-free populations (LSS vs. controls and OA vs. controls). The most important features to distinguish between disease groups corresponded to measures in the light and sedentary activity intervals. The more subtle classification between diseased populations (LSS vs. OA) was 72% accurate, with light and moderate activity providing the prominent distinguishing features.",
+        "We describe the discovery of performance phenotypes of LSS and OA from accelerometry data, revealed through a novel set of features that characterize daily patterns of movement in people with LSS and OA. These performance phenotypes provide a new method for analyzing free-living physical activity (performance) in LSS and OA, and provide the groundwork for more personalized approaches to measuring and improving function."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2019 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Health and Physical Education, Mount Royal University, 4825 Mount Royal Gate SW, Calgary, AB T3E 6K6, Canada. Electronic address: clane@mtroyal.ca."
+          }
+        ],
+        "LastName": "Tomkins-Lane",
+        "ForeName": "Christy",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Stanford University School of Medicine, 291 Campus Drive, Li Ka Shing Building, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "Norden",
+        "ForeName": "Justin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering, Stanford University, 350 Serra Mall, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "Sinha",
+        "ForeName": "Aman",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, University of Calgary, 1403 29 St NW, Calgary, AB T2N 2T9, Canada."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Richard",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, Stanford University, 450 Broadway, Redwood City, CA 94063, USA."
+          }
+        ],
+        "LastName": "Smuck",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Spine J",
+    "NlmUniqueID": "101130732",
+    "ISSNLinking": "1529-9430"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "methods",
+        "standards"
+      ],
+      "DescriptorName": "Accelerometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Osteoarthritis, Knee"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phenotype"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Spinal Stenosis"
+    }
+  ]
+}

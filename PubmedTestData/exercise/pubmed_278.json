@@ -1,0 +1,181 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "affective computing",
+      "facial action coding systems",
+      "physical activity recognition",
+      "rehabilitation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36080983",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "08",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "6524",
+      "10.3390/s22176524"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "17",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug",
+          "Day": "30"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Predicting Perceived Exhaustion in Rehabilitation Exercises Using Facial Action Units.",
+    "Abstract": {
+      "AbstractText": [
+        "Physical exercise has become an essential tool for treating various non-communicable diseases (also known as chronic diseases). Due to this, physical exercise allows to counter different symptoms and reduce some risk of death factors without medication. A solution to support people in doing exercises is to use artificial systems that monitor their exercise progress. While one crucial aspect is to monitor the correct physical motions for rehabilitative exercise, another essential element is to give encouraging feedback during workouts. A coaching system can track a user's exhaustion and give motivating feedback accordingly to boost exercise adherence. For this purpose, this research investigates whether it is possible to predict the subjective exhaustion level based on non-invasive and non-wearable technology. A novel data set was recorded with the facial record as the primary predictor and individual exhaustion levels as the predicted variable. 60 participants (30 male, 30 female) took part in the data recording. 17 facial action units (AU) were extracted as predictor variables for the perceived subjective exhaustion measured using the BORG scale. Using the predictor and the target variables, several regression and classification methods were evaluated aiming to predict exhaustion. The results showed that the decision tree and support vector methods provide reasonable prediction results. The limitation of the results, depending on participants being in the training data set and subjective variables (e.g., participants smiling during the exercises) were further discussed."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Technology, Bielefeld University, 33615 Bielefeld, Germany."
+          }
+        ],
+        "LastName": "Kreis",
+        "ForeName": "Christopher",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Colombian School of Engineering Julio Garavito, Bogot\u00e1 111166, Colombia."
+          }
+        ],
+        "LastName": "Aguirre",
+        "ForeName": "Andres",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6942-865X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bristol Robotics Laboratory, University of the West of England, Bristol BS16 1QY, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Engineering, Science and Technology, Universidad del Rosario, Bogot\u00e1 111711, Colombia."
+          }
+        ],
+        "LastName": "Cifuentes",
+        "ForeName": "Carlos A",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6595-5383"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Colombian School of Engineering Julio Garavito, Bogot\u00e1 111166, Colombia."
+          }
+        ],
+        "LastName": "Munera",
+        "ForeName": "Marcela",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0965-277X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Engineering, Science and Technology, Universidad del Rosario, Bogot\u00e1 111711, Colombia."
+          }
+        ],
+        "LastName": "Jim\u00e9nez",
+        "ForeName": "Mario F",
+        "Initials": "MF"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2953-341X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Informatics Faculty of Technology, Bielefeld University, 33615 Bielefeld, Germany."
+          }
+        ],
+        "LastName": "Schneider",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feedback"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    }
+  ],
+  "CoiStatement": "The authors report no conflict of interest. The authors alone are responsible for the content and writing of this article. The authors have no relevant non-financial interests to disclose."
+}

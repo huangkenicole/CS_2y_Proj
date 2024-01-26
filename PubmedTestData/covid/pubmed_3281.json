@@ -1,0 +1,253 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "generation interval",
+      "reproduction number",
+      "variants of concern"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35702867",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "20220173",
+      "10.1098/rsif.2022.0173"
+    ],
+    "Journal": {
+      "ISSN": "1742-5662",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "191",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Journal of the Royal Society, Interface",
+      "ISOAbbreviation": "J R Soc Interface"
+    },
+    "ArticleTitle": "The importance of the generation interval in investigating dynamics and control of new SARS-CoV-2 variants.",
+    "Pagination": {
+      "StartPage": "20220173",
+      "MedlinePgn": "20220173"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Inferring the relative strength (i.e. the ratio of reproduction numbers) and relative speed (i.e. the difference between growth rates) of new SARS-CoV-2 variants is critical to predicting and controlling the course of the current pandemic. Analyses of new variants have primarily focused on characterizing changes in the proportion of new variants, implicitly or explicitly assuming that the relative speed remains fixed over the course of an invasion. We use a generation-interval-based framework to challenge this assumption and illustrate how relative strength and speed change over time under two idealized interventions: a constant-strength intervention like idealized vaccination or social distancing, which reduces transmission rates by a constant proportion, and a constant-speed intervention like idealized contact tracing, which isolates infected individuals at a constant rate. In general, constant-strength interventions change the relative speed of a new variant, while constant-speed interventions change its relative strength. Differences in the generation-interval distributions between variants can exaggerate these changes and modify the effectiveness of interventions. Finally, neglecting differences in generation-interval distributions can bias estimates of relative strength."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2202-3361"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Sang Woo",
+        "Initials": "SW"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2127-0443"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, McMaster University, Hamilton, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, McMaster University, Hamilton, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "M. G. DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton, Ontario, Canada."
+          }
+        ],
+        "LastName": "Bolker",
+        "ForeName": "Benjamin M",
+        "Initials": "BM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2842-3406"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department for Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Mathematical Modelling of Infectious Diseases, London School of Hygiene & Tropical Medicine, London, UK."
+          }
+        ],
+        "LastName": "Funk",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3166-7521"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Princeton School of Public and International Affairs, Princeton University, Princeton, NJ, USA."
+          }
+        ],
+        "LastName": "Metcalf",
+        "ForeName": "C Jessica E",
+        "Initials": "CJE"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3433-8312"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Physics, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institut de Biologie, \u00c9cole Normale Sup\u00e9rieure, Paris, France."
+          }
+        ],
+        "LastName": "Weitz",
+        "ForeName": "Joshua S",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Princeton School of Public and International Affairs, Princeton University, Princeton, NJ, USA."
+          }
+        ],
+        "LastName": "Grenfell",
+        "ForeName": "Bryan T",
+        "Initials": "BT"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0506-4794"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, McMaster University, Hamilton, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, McMaster University, Hamilton, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "M. G. DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton, Ontario, Canada."
+          }
+        ],
+        "LastName": "Dushoff",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "210758/Z/18/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J R Soc Interface",
+    "NlmUniqueID": "101217269",
+    "ISSNLinking": "1742-5662"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

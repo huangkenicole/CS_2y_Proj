@@ -1,0 +1,219 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "artificial neural network",
+      "cross-validation",
+      "ensemble neural networks",
+      "intensive care unit",
+      "support vector machine",
+      "ventilator-associated pneumonia"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31003541",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "08",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "04",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1866",
+      "10.3390/s19081866"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Apr",
+          "Day": "18"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Machine Learning Methods Applied to Predict Ventilator-Associated Pneumonia with <i>Pseudomonas aeruginosa</i> Infection via Sensor Array of Electronic Nose in Intensive Care Unit.",
+    "Abstract": {
+      "AbstractText": [
+        "One concern to the patients is the off-line detection of pneumonia infection status after using the ventilator in the intensive care unit. Hence, machine learning methods for ventilator-associated pneumonia (VAP) rapid diagnose are proposed. A popular device, Cyranose 320 e-nose, is usually used in research on lung disease, which is a highly integrated system and sensor comprising 32 array using polymer and carbon black materials. In this study, a total of 24 subjects were involved, including 12 subjects who are infected with pneumonia, and the rest are non-infected. Three layers of back propagation artificial neural network and support vector machine (SVM) methods were applied to patients' data to predict whether they are infected with VAP with <i>Pseudomonas aeruginosa</i> infection. Furthermore, in order to improve the accuracy and the generalization of the prediction models, the ensemble neural networks (ENN) method was applied. In this study, ENN and SVM prediction models were trained and tested. In order to evaluate the models' performance, a fivefold cross-validation method was applied. The results showed that both ENN and SVM models have high recognition rates of VAP with <i>Pseudomonas aeruginosa</i> infection, with 0.9479 \u00b1 0.0135 and 0.8686 \u00b1 0.0422 accuracies, 0.9714 \u00b1 0.0131, 0.9250 \u00b1 0.0423 sensitivities, and 0.9288 \u00b1 0.0306, 0.8639 \u00b1 0.0276 positive predictive values, respectively. The ENN model showed better performance compared to SVM in the recognition of VAP with <i>Pseudomonas aeruginosa</i> infection. The areas under the receiver operating characteristic curve of the two models were 0.9842 \u00b1 0.0058 and 0.9410 \u00b1 0.0301, respectively, showing that both models are very stable and accurate classifiers. This study aims to assist the physician in providing a scientific and effective reference for performing early detection in <i>Pseudomonas aeruginosa</i> infection or other diseases."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mechanical Engineering, Yuan Ze University, Chungli 32003, Taiwan. comimic@gmail.com."
+          }
+        ],
+        "LastName": "Liao",
+        "ForeName": "Yu-Hsuan",
+        "Initials": "YH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mechanical Engineering, Yuan Ze University, Chungli 32003, Taiwan. wangzhchuang@126.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "College of Mechanical Engineering, Guizhou University, Guiyang 550025, China. wangzhchuang@126.com."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Zhong-Chuang",
+        "Initials": "ZC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Mechanical Engineering, Guizhou University, Guiyang 550025, China. zhfugui@vip.163.com."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Fu-Gui",
+        "Initials": "FG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Engineering, Design and Physical Sciences, Brunel University London, Uxbridge UB8 3PH, UK. Maysam.Abbod@brunel.ac.uk."
+          }
+        ],
+        "LastName": "Abbod",
+        "ForeName": "Maysam F",
+        "Initials": "MF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Thoracic Medicine, Department of Internal Medicine, School of Medicine, College of Medicine, Taipei Medical University, 11031, Taiwan. chshih43@tmu.edu.tw."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pulmonary Medicine, Department of Internal Medicine, Taipei Medical University Hospital, 11031, Taiwan. chshih43@tmu.edu.tw."
+          }
+        ],
+        "LastName": "Shih",
+        "ForeName": "Chung-Hung",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mechanical Engineering, Yuan Ze University, Chungli 32003, Taiwan. jsshieh@saturn.yzu.edu.tw."
+          }
+        ],
+        "LastName": "Shieh",
+        "ForeName": "Jiann-Shing",
+        "Initials": "JS"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "ME-103006",
+        "Agency": "Taiwan carbon nanometer technology corporation, Taiwan",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electronic Nose"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Intensive Care Units"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "diagnosis",
+        "microbiology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Pneumonia, Ventilator-Associated"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "diagnosis",
+        "microbiology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Pseudomonas Infections"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Pseudomonas aeruginosa"
+    }
+  ],
+  "CoiStatement": "We declare no conflict of interest. The founding sponsors had no role in the design of the study, in the collection, analyzes, or interpretation of data, in the writing of the manuscript, or in the decision to publish the results."
+}

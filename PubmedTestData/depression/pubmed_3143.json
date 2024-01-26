@@ -1,0 +1,282 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "algorithm",
+      "algorithms",
+      "bipolar disorder",
+      "depressed",
+      "depression",
+      "depressive",
+      "diagnose",
+      "diagnosis",
+      "gradient-boosted trees",
+      "help-seeking",
+      "machine learning",
+      "mental disorder",
+      "mental disorders",
+      "mental health",
+      "misdiagnosis",
+      "mood",
+      "predict",
+      "prediction",
+      "predictive"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38206660",
+  "DateCompleted": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2024",
+        "Month": "01",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.2196/50738"
+    ],
+    "Journal": {
+      "ISSN": "2368-7959",
+      "JournalIssue": {
+        "Volume": "11",
+        "PubDate": {
+          "Year": "2024",
+          "Month": "Jan",
+          "Day": "11"
+        }
+      },
+      "Title": "JMIR mental health",
+      "ISOAbbreviation": "JMIR Ment Health"
+    },
+    "ArticleTitle": "Identification of Predictors of Mood Disorder Misdiagnosis and Subsequent Help-Seeking Behavior in Individuals With Depressive Symptoms: Gradient-Boosted Tree Machine Learning Approach.",
+    "Pagination": {
+      "StartPage": "e50738",
+      "MedlinePgn": "e50738"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Misdiagnosis and delayed help-seeking cause significant burden for individuals with mood disorders such as major depressive disorder and bipolar disorder. Misdiagnosis can lead to inappropriate treatment, while delayed help-seeking can result in more severe symptoms, functional impairment, and poor treatment response. Such challenges are common in individuals with major depressive disorder and bipolar disorder due to the overlap of symptoms with other mental and physical health conditions, as well as, stigma and insufficient understanding of these disorders.",
+        "In this study, we aimed to identify factors that may contribute to mood disorder misdiagnosis and delayed help-seeking.",
+        "Participants with current depressive symptoms were recruited online and data were collected using an extensive digital mental health questionnaire, with the World Health Organization World Mental Health Composite International Diagnostic Interview delivered via telephone. A series of predictive gradient-boosted tree algorithms were trained and validated to identify the most important predictors of misdiagnosis and subsequent help-seeking in misdiagnosed individuals.",
+        "The analysis included data from 924 symptomatic individuals for predicting misdiagnosis and from a subset of 379 misdiagnosed participants who provided follow-up information when predicting help-seeking. Models achieved good predictive power, with area under the receiver operating characteristic curve of 0.75 and 0.71 for misdiagnosis and help-seeking, respectively. The most predictive features with respect to misdiagnosis were high severity of depressed mood, instability of self-image, the involvement of a psychiatrist in diagnosing depression, higher age at depression diagnosis, and reckless spending. Regarding help-seeking behavior, the strongest predictors included shorter time elapsed since last speaking to a general practitioner about mental health, sleep problems disrupting daily tasks, taking antidepressant medication, and being diagnosed with depression at younger ages.",
+        "This study provides a novel, machine learning-based approach to understand the interplay of factors that may contribute to the misdiagnosis and subsequent help-seeking in patients experiencing low mood. The present findings can inform the development of targeted interventions to improve early detection and appropriate treatment of individuals with mood disorders."
+      ],
+      "CopyrightInformation": "\u00a9Jiri Benacek, Nimotalai Lawal, Tommy Ong, Jakub Tomasik, Nayra A Martin-Key, Erin L Funnell, Giles Barton-Owen, Tony Olmert, Dan Cowell, Sabine Bahn. Originally published in JMIR Mental Health (https://mental.jmir.org), 11.01.2024."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7254-3261"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Biotechnology, Cambridge Centre for Neuropsychiatric Research, University of Cambridge, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Benacek",
+        "ForeName": "Jiri",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0009-0009-0425-495X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Biotechnology, Cambridge Centre for Neuropsychiatric Research, University of Cambridge, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Lawal",
+        "ForeName": "Nimotalai",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9914-4853"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Biotechnology, Cambridge Centre for Neuropsychiatric Research, University of Cambridge, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Ong",
+        "ForeName": "Tommy",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2127-4487"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Biotechnology, Cambridge Centre for Neuropsychiatric Research, University of Cambridge, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Tomasik",
+        "ForeName": "Jakub",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9731-3809"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Biotechnology, Cambridge Centre for Neuropsychiatric Research, University of Cambridge, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Martin-Key",
+        "ForeName": "Nayra A",
+        "Initials": "NA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7652-8528"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Biotechnology, Cambridge Centre for Neuropsychiatric Research, University of Cambridge, Cambridge, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Psyomics Ltd, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Funnell",
+        "ForeName": "Erin L",
+        "Initials": "EL"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7552-1295"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Psyomics Ltd, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Barton-Owen",
+        "ForeName": "Giles",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4641-6442"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Biotechnology, Cambridge Centre for Neuropsychiatric Research, University of Cambridge, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Olmert",
+        "ForeName": "Tony",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6061-3544"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Psyomics Ltd, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Cowell",
+        "ForeName": "Dan",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4690-6302"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Biotechnology, Cambridge Centre for Neuropsychiatric Research, University of Cambridge, Cambridge, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Psyomics Ltd, Cambridge, United Kingdom."
+          }
+        ],
+        "LastName": "Bahn",
+        "ForeName": "Sabine",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "JMIR Ment Health",
+    "NlmUniqueID": "101658926",
+    "ISSNLinking": "2368-7959"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Help-Seeking Behavior"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Mood Disorders"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnostic Errors"
+    }
+  ]
+}

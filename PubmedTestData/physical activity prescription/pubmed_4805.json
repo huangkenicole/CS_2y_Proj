@@ -1,0 +1,146 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "11173145",
+  "DateCompleted": {
+    "Year": "2001",
+    "Month": "03",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "07",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0360-3016",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2001",
+          "Month": "Feb",
+          "Day": "01"
+        }
+      },
+      "Title": "International journal of radiation oncology, biology, physics",
+      "ISOAbbreviation": "Int J Radiat Oncol Biol Phys"
+    },
+    "ArticleTitle": "Individualization of dose prescription based on normal-tissue dose-volume and radiosensitivity data.",
+    "Pagination": {
+      "StartPage": "487",
+      "EndPage": "499",
+      "MedlinePgn": "487-99"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The aim of this paper is to illustrate the potential gain in tumor control probability (TCP) of prostate cancer patients by individualizing the prescription dose according to both normal-tissue (N-T) dose-volume and radiosensitivity data.",
+        "Two exercises have been carried out. Firstly, patients' dose prescriptions were individualised on the basis of N-T dose-volume histograms (DVHs) alone and secondly modeling potential differences in N-T sensitivity as well. In both cases, the change in tumor control that may be achieved by individualizing patients' dose was estimated assuming that after the dose adjustments, every patient had (1) the same value of normal tissue complication probability (NTCP) (5%) and (2) NTCP equal to the average NTCP before individualization (i.e., without increasing the average NTCP). The Lyman-Kutcher-Burman NTCP model was used to predict the N-T response curves with two different sets of parameters. The first exercise, based only on individual NT DVHs (i.e., assuming all patient equally radiosensitive), was over a real population of 50 prostate cancer patients. The second exercise modeled a 10,000-prostate-cancer patient population with varying NT dose-volume distributions and radiosensitivity (through allowing TD(50) to vary).",
+        "A gain of more than 9% in TCP was predicted when doses were individualized based only on DVHs so that every patient had 5% NTCP after dose adjustments. By adding the estimate of radiosensitivity, the gain increased to more than 15%. When the individualisation was performed without increasing the mean NTCP, then the potential gain in TCP was almost 5% (for adjustment based on DVH distribution solely) increasing to 7% with the additional consideration of radiosensitivity.",
+        "There is a potential gain (increase in local tumor control) from dose individualisation strategies based on both N-T dose-volume data and radiosensitivity (assuming that this is available). Dose prescription individualization based only on dose-volume data can be exploited provided that reliable N-T response models are available. There will be additional gains if some estimate of N-T radiosensitivity is available to allow further patient stratification, identification of patients with high radiosensitivity being particularly important."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Joint Department of Physics, Institute of Cancer Research and the Royal Marsden NHS Trust, Sutton, Surrey, UK. bsanchez@icr.ac.uk"
+          }
+        ],
+        "LastName": "Sanchez-Nieto",
+        "ForeName": "B",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Nahum",
+        "ForeName": "A E",
+        "Initials": "AE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dearnaley",
+        "ForeName": "D P",
+        "Initials": "DP"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Int J Radiat Oncol Biol Phys",
+    "NlmUniqueID": "7603616",
+    "ISSNLinking": "0360-3016"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Int J Radiat Oncol Biol Phys. 2001 Dec 1;51(5):1437",
+      "PMID": "11728705"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Monte Carlo Method"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Staging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "radiotherapy"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Radiation Tolerance"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Radiotherapy Dosage"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Radiotherapy, Conformal"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "classifier",
+      "diagnostics",
+      "gene expression",
+      "metagenomics",
+      "transcriptomics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36507688",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "12",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e00671-22",
+      "10.1128/msystems.00671-22"
+    ],
+    "Journal": {
+      "ISSN": "2379-5077",
+      "JournalIssue": {
+        "Volume": "8",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb",
+          "Day": "23"
+        }
+      },
+      "Title": "mSystems",
+      "ISOAbbreviation": "mSystems"
+    },
+    "ArticleTitle": "A 2-Gene Host Signature for Improved Accuracy of COVID-19 Diagnosis Agnostic to Viral Variants.",
+    "Pagination": {
+      "StartPage": "e0067122",
+      "MedlinePgn": "e0067122"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The continued emergence of SARS-CoV-2 variants is one of several factors that may cause false-negative viral PCR test results. Such tests are also susceptible to false-positive results due to trace contamination from high viral titer samples. Host immune response markers provide an orthogonal indication of infection that can mitigate these concerns when combined with direct viral detection. Here, we leverage nasopharyngeal swab RNA-seq data from patients with COVID-19, other viral acute respiratory illnesses, and nonviral conditions (<i>n</i>\u2009=\u2009318) to develop support vector machine classifiers that rely on a parsimonious 2-gene host signature to diagnose COVID-19. We find that optimal classifiers include an interferon-stimulated gene that is strongly induced in COVID-19 compared with nonviral conditions, such as <i>IFI6</i>, and a second immune-response gene that is more strongly induced in other viral infections, such as <i>GBP5</i>. The <i>IFI6</i>+<i>GBP5</i> classifier achieves an area under the receiver operating characteristic curve (AUC) greater than 0.9 when evaluated on an independent RNA-seq cohort (<i>n</i>\u2009=\u2009553). We further provide proof-of-concept demonstration that the classifier can be implemented in a clinically relevant RT-qPCR assay. Finally, we show that its performance is robust across common SARS-CoV-2 variants and is unaffected by cross-contamination, demonstrating its utility for improved accuracy of COVID-19 diagnostics. <b>IMPORTANCE</b> In this work, we study upper respiratory tract gene expression to develop and validate a 2-gene host-based COVID-19 diagnostic classifier and then demonstrate its implementation in a clinically practical qPCR assay. We find that the host classifier has utility for mitigating false-negative results, for example due to SARS-CoV-2 variants harboring mutations at primer target sites, and for mitigating false-positive viral PCR results due to laboratory cross-contamination. Both types of error carry serious consequences of either unrecognized viral transmission or unnecessary isolation and contact tracing. This work is directly relevant to the ongoing COVID-19 pandemic given the continued emergence of viral variants and the continued challenges of false-positive PCR assays. It also suggests the feasibility of pan-respiratory virus host-based diagnostics that would have value in congregate settings, such as hospitals and nursing homes, where unrecognized respiratory viral transmission is of particular concern."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Albright",
+        "ForeName": "Jack",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, University of California San Francisco, San Francisco, California, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pulmonary and Critical Care Medicine, Department of Medicine, University of California San Francisco, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Mick",
+        "ForeName": "Eran",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, University of California San Francisco, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Sanchez-Guerrero",
+        "ForeName": "Estella",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Kamm",
+        "ForeName": "Jack",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Mitchell",
+        "ForeName": "Anthea",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Detweiler",
+        "ForeName": "Angela M",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Neff",
+        "ForeName": "Norma",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, University of California San Francisco, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Tsitsiklis",
+        "ForeName": "Alexandra",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, University of California San Francisco, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Hayakawa Serpa",
+        "ForeName": "Paula",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Ratnasiri",
+        "ForeName": "Kalani",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of HIV, Infectious Diseases and Global Medicine, Department of Medicine, University of California San Francisco, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Havlir",
+        "ForeName": "Diane",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Kistler",
+        "ForeName": "Amy",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "DeRisi",
+        "ForeName": "Joseph L",
+        "Initials": "JL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Pisco",
+        "ForeName": "Angela Oliveira",
+        "Initials": "AO"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6708-4646"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, California, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, University of California San Francisco, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Langelier",
+        "ForeName": "Charles R",
+        "Initials": "CR"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "K23 HL138461",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "mSystems",
+    "NlmUniqueID": "101680636",
+    "ISSNLinking": "2379-5077"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

@@ -1,0 +1,352 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "H7N9 influenza virus",
+      "class weight-biased logistic regression",
+      "human infectivity",
+      "prediction",
+      "viral genome"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32706427",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "08",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1111/tbed.13750"
+    ],
+    "Journal": {
+      "ISSN": "1865-1682",
+      "JournalIssue": {
+        "Volume": "68",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Transboundary and emerging diseases",
+      "ISOAbbreviation": "Transbound Emerg Dis"
+    },
+    "ArticleTitle": "Computational predicting the human infectivity of H7N9 influenza viruses isolated from avian hosts.",
+    "Pagination": {
+      "StartPage": "846",
+      "EndPage": "856",
+      "MedlinePgn": "846-856"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The genome composition of a given avian influenza virus is the primary determinant of its potential for cross-species transmission from birds to humans. Here, we introduce a viral genome-based computational tool that can be used to evaluate the human infectivity of avian isolates of influenza A H7N9 viruses, which can enable prediction of the potential risk of these isolates infecting humans. This tool, which is based on a novel class weight-biased logistic regression (CWBLR) algorithm, uses the sequences of the eight genome segments of an H7N9 strain as the input and gives the probability of this strain infecting humans (reflecting its human infectivity). We examined the replication efficiency and the pathogenicity of several H7N9 avian isolates that were predicted to have very low or high human infectivity by the CWBLR model in cell culture and in mice, and found that the strains with high predicted human infectivity replicated more efficiently in mammalian cells and were more infective in mice than those that were predicted to have low human infectivity. These results demonstrate that our CWBLR model can serve as a powerful tool for predicting the human infectivity and cross-species transmission risks of H7N9 avian strains."
+      ],
+      "CopyrightInformation": "\u00a9 2020 The Authors. Transboundary and Emerging Diseases published by Blackwell Verlag GmbH."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Yeping",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Philips Institute for Oral Health Research, School of Dentistry, Virginia Commonwealth University, Richmond, Virginia, USA."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Kun",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information Center, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Qi",
+        "ForeName": "Heyuan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "He",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Shuang",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5595-363X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Bi",
+        "ForeName": "Yuhai",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information Center, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Linhuan",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Savaid Medical School, University of Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Lei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Qi",
+        "ForeName": "Jianxun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Di",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information Center, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Ma",
+        "ForeName": "Juncai",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Tien",
+        "ForeName": "Po",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Savaid Medical School, University of Chinese Academy of Sciences, Beijing, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Microbiology, Center for Biosafety Mega-Science, Chinese Academy of Sciences, Beijing, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresourses & Laboratory of Animal Infectious Diseases, College of Animal Sciences and Veterinary Medicine, Guangxi University, Guangxi, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Wenjun",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9588-5291"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Savaid Medical School, University of Chinese Academy of Sciences, Beijing, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Jing",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2015GXNSFEA139002",
+        "Agency": "the Mega-Project of Guangxi Natural Science Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "XDB29010000",
+        "Agency": "Strategic Priority Research Program of the Chinese Academy of Sciences",
+        "Country": ""
+      },
+      {
+        "GrantID": "3191101787",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "31970153",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "31630079",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "2019091",
+        "Agency": "Youth Innovation Promotion Association of CAS",
+        "Country": ""
+      },
+      {
+        "GrantID": "2016YFD0500206",
+        "Agency": "National Key R&D Program of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "Transbound Emerg Dis",
+    "NlmUniqueID": "101319538",
+    "ISSNLinking": "1865-1674"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Birds"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Influenza A Virus, H7N9 Subtype"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Influenza in Birds"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Influenza, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Zoonoses"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing financial interests."
+}

@@ -1,0 +1,187 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38241279",
+  "DateCompleted": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2024",
+        "Month": "01",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0296627",
+      "10.1371/journal.pone.0296627"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2024"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Machine learning-based approach KEVOLVE efficiently identifies SARS-CoV-2 variant-specific genomic signatures.",
+    "Pagination": {
+      "StartPage": "e0296627",
+      "MedlinePgn": "e0296627"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Machine learning was shown to be effective at identifying distinctive genomic signatures among viral sequences. These signatures are defined as pervasive motifs in the viral genome that allow discrimination between species or variants. In the context of SARS-CoV-2, the identification of these signatures can assist in taxonomic and phylogenetic studies, improve in the recognition and definition of emerging variants, and aid in the characterization of functional properties of polymorphic gene products. In this paper, we assess KEVOLVE, an approach based on a genetic algorithm with a machine-learning kernel, to identify multiple genomic signatures based on minimal sets of k-mers. In a comparative study, in which we analyzed large SARS-CoV-2 genome dataset, KEVOLVE was more effective at identifying variant-discriminative signatures than several gold-standard statistical tools. Subsequently, these signatures were characterized using a new extension of KEVOLVE (KANALYZER) to highlight variations of the discriminative signatures among different classes of variants, their genomic location, and the mutations involved. The majority of identified signatures were associated with known mutations among the different variants, in terms of functional and pathological impact based on available literature. Here we showed that KEVOLVE is a robust machine learning approach to identify discriminative signatures among SARS-CoV-2 variants, which are frequently also biologically relevant, while bypassing multiple sequence alignments. The source code of the method and additional resources are available at: https://github.com/bioinfoUQAM/KEVOLVE."
+      ],
+      "CopyrightInformation": "Copyright: \u00a9 2024 Lebatteux et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "Lebatteux",
+        "ForeName": "Dylan",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5857-3176"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CHU Sainte-Justine Research Centre, Montr\u00e9al, Qu\u00e9bec, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Infectious Diseases and Immunology, Faculty of Medicine, Universit\u00e9 de Montr\u00e9al, Montr\u00e9al, Qu\u00e9bec, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Faculty of Medicine, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "Soudeyns",
+        "ForeName": "Hugo",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9545-6024"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Obstetrics and Gynecology, Faculty of Medicine, Universit\u00e9 de Montr\u00e9al, Montreal, Quebec, Canada."
+          }
+        ],
+        "LastName": "Boucoiran",
+        "ForeName": "Isabelle",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5743-3606"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CHU Sainte-Justine Research Centre, Montr\u00e9al, Qu\u00e9bec, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Infectious Diseases and Immunology, Faculty of Medicine, Universit\u00e9 de Montr\u00e9al, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "Gantt",
+        "ForeName": "Soren",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1168-9371"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, Montr\u00e9al, Qu\u00e9bec, Canada."
+          }
+        ],
+        "LastName": "Diallo",
+        "ForeName": "Abdoulaye Banir\u00e9",
+        "Initials": "AB"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "I have read the journal\u2019s policy and the authors of this manuscript have the following competing interests: Soren Gantt receive research funds from Moderna for a COVID-19 vaccine trial, as well as research and consulting fees from Moderna and Merck related to CMV vaccine development, and consulting fees from GSK related to vaccine safety.; Abdoulaye Banire Diallo is co-founder of My Intelligent Machines. This does not alter our adherence to PLOS ONE policies on sharing data and materials."
+}

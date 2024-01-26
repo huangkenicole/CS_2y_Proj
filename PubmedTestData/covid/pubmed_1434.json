@@ -1,0 +1,148 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Classification",
+      "Machine learning",
+      "Prediction",
+      "Predictor",
+      "RNA-Seq",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35687925",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2022.105684",
+      "S0010-4825(22)00472-3"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "147",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Integrated COVID-19 Predictor: Differential expression analysis to reveal potential biomarkers and prediction of coronavirus using RNA-Seq profile data.",
+    "Pagination": {
+      "StartPage": "105684",
+      "MedlinePgn": "105684"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The world has been battling the continuous COVID-19 pandemic spread by the SARS-CoV-2 virus for last two years. The issue of viral disease prediction is constantly a matter of interest in virology and the study of disease transmission over the long years.",
+        "In this study, we aimed to implement genome association studies using RNA-Seq of COVID-19 and reveal highly expressed gene biomarkers and prediction based on the machine learning model of COVID-19 analysis to combat this pandemic.",
+        "We collected RNA-Seq gene count data for both healthy (Control) and non-healthy (Treated) COVID-19 cases. In this experiment, a sequence of bioinformatics strategies and statistical techniques, such as fold-change and adjusted p-value, were processed to identify differentially expressed genes (DEGs). We filtered biomarker sets of high DEGs, moderate DEGs, and low DEGs using DESeq2, Limma Trend, and Limma Voom methods based on intersection and union operations and applied machine learning techniques to predict COVID-19.",
+        "Through experimental analysis, 67 potential biomarkers were extracted, comprising 49 up-regulated and 18 down-regulated genes, using statistical techniques and a set-theory consensus strategy. We trained the machine learning models on 12 different biomarker sets and found that the SVM model performed better than the other classifiers with 99.07% classification accuracy for moderate DEGs.",
+        "Our study revealed that identified differentially expressed genes of the moderate DEGs biomarker set, |log2FC| \u2265 2 with adjusted p-value < 0.05, work significantly as input features to implement a machine learning model using a kernel-based SVM technique to predict COVID-19."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Information Technology, Maulana Azad National Urdu University, Hyderabad, Telangana, India. Electronic address: naiyariqbal.rs@manuu.edu.in."
+          }
+        ],
+        "LastName": "Iqbal",
+        "ForeName": "Naiyar",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Information Technology, Maulana Azad National Urdu University, Hyderabad, Telangana, India. Electronic address: drpkumar1402@gmail.com."
+          }
+        ],
+        "LastName": "Kumar",
+        "ForeName": "Pradeep",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA-Seq"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "None."
+}

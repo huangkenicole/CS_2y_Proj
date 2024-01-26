@@ -1,0 +1,149 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34375342",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0255873",
+      "10.1371/journal.pone.0255873"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Impact of physical distancing policy on reducing transmission of SARS-CoV-2 globally: Perspective from government's response and residents' compliance.",
+    "Pagination": {
+      "StartPage": "e0255873",
+      "MedlinePgn": "e0255873"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "COVID-19 was declared a public health emergency by the World Health Organization (WHO) in January 2020. Various physical distancing interventions were introduced to flatten the epidemic curve and reduce the disease burden. We evaluated the impacts of policy stringency and residents' compliance on time-varying reproduction number in 17 countries.",
+        "Data were from WHO reports of local transmission (February 28 to April 8, 2020) in Australia, Canada, Finland, France, Germany, Greece, Italy, Spain, Sweden, Thailand, the UK, US and Vietnam. Earlier local transmission data where available from press releases were added for Japan, South Korea, Singapore and Taiwan starting January 28, 2020. COVID-19 policy responses were from the Oxford Covid-19 Government Response Tracker with 17 indicators. Changes in people's behaviors were from Google's COVID-19 community mobility reports and Apple Maps' mobility trends reports. We estimated the daily time-varying reproduction number (Rt) by country. 0-, 7- and 14-day lagged effects of non-pharmaceutical interventions and changes in human mobility on Rt were estimated by linear mixed-effects models.",
+        "Rt initially surged rapidly, then declined gradually depending on policy stringency. The highest mean policy stringency scores were for Italy (69.97) and South Korea (61.00). Variations in stringency scores were higher in Europe, the US and Australia than in Asia. The human mobility reduction was greater in countries with strict policies (median stringency score > = 50). In terms of immediate (0-day lag) effects, Rt reductions were found for workplace-closure, limited-gathering, and stay-at-home policies. At a 7-day lag, Rt reductions were found for workplace closure, restrictions on gatherings, stay-at-home requirements, international travel controls, contact tracing and reducing walking around. At a 14-day lag, Rt reductions were found for restrictions on gatherings, less visiting and staying in parks, and reduced walking around.",
+        "The findings show physical distancing policies and residents' compliance can slow transmission, with the lag-to-effect time varying by policy."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Dentistry, Puzi Hospital, Ministry of Health and Welfare, Chiayi, Taiwan."
+          }
+        ],
+        "LastName": "Chung",
+        "ForeName": "Ping-Chen",
+        "Initials": "PC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1685-783X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Center for Humanities and Social Sciences, Academia Sinica, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Public Health, School of Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Ta-Chien",
+        "Initials": "TC"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pathology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Government Regulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Guideline Adherence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Personal Protective Equipment"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Distancing"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Travel"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

@@ -1,0 +1,195 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32997638",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2020.3027987"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "A Novel Intelligent Computational Approach to Model Epidemiological Trends and Assess the Impact of Non-Pharmacological Interventions for COVID-19.",
+    "Pagination": {
+      "StartPage": "3551",
+      "EndPage": "3563",
+      "MedlinePgn": "3551-3563"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The novel coronavirus disease 2019 (COVID-19) pandemic has led to a worldwide crisis in public health. It is crucial we understand the epidemiological trends and impact of non-pharmacological interventions (NPIs), such as lockdowns for effective management of the disease and control of its spread. We develop and validate a novel intelligent computational model to predict epidemiological trends of COVID-19, with the model parameters enabling an evaluation of the impact of NPIs. By representing the number of daily confirmed cases (NDCC) as a time-series, we assume that, with or without NPIs, the pattern of the pandemic satisfies a series of Gaussian distributions according to the central limit theorem. The underlying pandemic trend is first extracted using a singular spectral analysis (SSA) technique, which decomposes the NDCC time series into the sum of a small number of independent and interpretable components such as a slow varying trend, oscillatory components and structureless noise. We then use a mixture of Gaussian fitting (GF) to derive a novel predictive model for the SSA extracted NDCC incidence trend, with the overall model termed SSA-GF. Our proposed model is shown to accurately predict the NDCC trend, peak daily cases, the length of the pandemic period, the total confirmed cases and the associated dates of the turning points on the cumulated NDCC curve. Further, the three key model parameters, specifically, the amplitude (alpha), mean (mu), and standard deviation (sigma) are linked to the underlying pandemic patterns, and enable a directly interpretable evaluation of the impact of NPIs, such as strict lockdowns and travel restrictions. The predictive model is validated using available data from China and South Korea, and new predictions are made, partially requiring future validation, for the cases of Italy, Spain, the UK and the USA. Comparative results demonstrate that the introduction of consistent control measures across countries can lead to development of similar parametric models, reflected in particular by relative variations in their underlying sigma, alpha and mu values. The paper concludes with a number of open questions and outlines future research directions."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ren",
+        "ForeName": "Jinchang",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yan",
+        "ForeName": "Yijun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhao",
+        "ForeName": "Huimin",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ma",
+        "ForeName": "Ping",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zabalza",
+        "ForeName": "Jaime",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hussain",
+        "ForeName": "Zain",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Luo",
+        "ForeName": "Shaoming",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dai",
+        "ForeName": "Qingyun",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhao",
+        "ForeName": "Sophia",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sheikh",
+        "ForeName": "Aziz",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hussain",
+        "ForeName": "Amir",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Huakang",
+        "Initials": "H"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "COV/NAP/20/07",
+        "Acronym": "CSO_",
+        "Agency": "Chief Scientist Office",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "therapy",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Spain"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29161868",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "07",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3934/mbe.2017073"
+    ],
+    "Journal": {
+      "ISSN": "1551-0018",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "5-6",
+        "PubDate": {
+          "MedlineDate": "2017 Oct/Dec 1"
+        }
+      },
+      "Title": "Mathematical biosciences and engineering : MBE",
+      "ISOAbbreviation": "Math Biosci Eng"
+    },
+    "ArticleTitle": "Dynamics of epidemic models with asymptomatic infection and seasonal succession.",
+    "Pagination": {
+      "StartPage": "1407",
+      "EndPage": "1424",
+      "MedlinePgn": "1407-1424"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this paper, we consider a compartmental SIRS epidemic model with asymptomatic infection and seasonal succession, which is a periodic discontinuous differential system. The basic reproduction number R0 is defined and evaluated directly for this model, and uniform persistence of the disease and threshold dynamics are obtained. Specially, global dynamics of the model without seasonal force are studied. It is shown that the model has only a disease-free equilibrium which is globally stable if R0 \u2264 1, and as R0 > 1 the disease-free equilibrium is unstable and there is an endemic equilibrium, which is globally stable if the recovering rates of asymptomatic infectives and symptomatic infectives are close. These theoretical results provide an intuitive basis for understanding that the asymptomatically infective individuals and the seasonal disease transmission promote the evolution of the epidemic, which allow us to predict the outcomes of control strategies during the course of the epidemic."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematical Science, Shanghai Jiao Tong University, Shanghai 200240, China email: mathtyl@sjtu.edu.cn."
+          }
+        ],
+        "LastName": "Tang",
+        "ForeName": "Yilei",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematical Science, Shanghai Jiao Tong University, Shanghai 200240, China email:xiaodm@sjtu.edu.cn."
+          }
+        ],
+        "LastName": "Xiao",
+        "ForeName": "Dongmei",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Yangtze Center of Mathematics and Department of Mathematics, Sichuan University, Chengdu, Sichuan 610064, China email:matzwn@163.com."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Weinian",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematical Science, Shanghai Jiao Tong University, Shanghai 200240, China email: di.zhu@auckland.ac.nz."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Di",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci Eng",
+    "NlmUniqueID": "101197794",
+    "ISSNLinking": "1547-1063"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Asymptomatic Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Basic Reproduction Number"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infections"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Infectious Disease Medicine"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Influenza, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seasons"
+    }
+  ]
+}

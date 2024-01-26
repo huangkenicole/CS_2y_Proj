@@ -1,0 +1,146 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "communicable diseases",
+      "infectious disease",
+      "model",
+      "modeling",
+      "spread",
+      "virus"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33180742",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e20144",
+      "10.2196/20144"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov",
+          "Day": "30"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Novel Indicator to Ascertain the Status and Trend of COVID-19 Spread: Modeling Study.",
+    "Pagination": {
+      "StartPage": "e20144",
+      "MedlinePgn": "e20144"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In the fight against the pandemic of COVID-19, it is important to ascertain the status and trend of the infection spread quickly and accurately.",
+        "The purpose of our study is to formulate a new and simple indicator that represents the COVID-19 spread rate by using publicly available data.",
+        "The new indicator K is a backward difference approximation of the logarithmic derivative of the cumulative number of cases with a time interval of 7 days. It is calculated as a ratio of the number of newly confirmed cases in a week to the total number of cases.",
+        "The analysis of the current status of COVID-19 spreading over countries showed an approximate linear decrease in the time evolution of the K value. The slope of the linear decrease differed from country to country. In addition, it was steeper for East and Southeast Asian countries than for European countries. The regional difference in the slope seems to reflect both social and immunological circumstances for each country.",
+        "The approximate linear decrease of the K value indicates that the COVID-19 spread does not grow exponentially but starts to attenuate from the early stage. The K trajectory in a wide range was successfully reproduced by a phenomenological model with the constant attenuation assumption, indicating that the total number of the infected people follows the Gompertz curve. Focusing on the change in the value of K will help to improve and refine epidemiological models of COVID-19."
+      ],
+      "CopyrightInformation": "\u00a9Takashi Nakano, Yoichi Ikeda. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 30.11.2020."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3157-5328"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Center for Nuclear Physics, Osaka University, Osaka, Japan."
+          }
+        ],
+        "LastName": "Nakano",
+        "ForeName": "Takashi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2235-1464"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, Faculty of Science, Kyushu University, Fukuoka, Japan."
+          }
+        ],
+        "LastName": "Ikeda",
+        "ForeName": "Yoichi",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

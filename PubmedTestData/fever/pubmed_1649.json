@@ -1,0 +1,192 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35082912",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "01",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2658095",
+      "10.1155/2022/2658095"
+    ],
+    "Journal": {
+      "ISSN": "1748-6718",
+      "JournalIssue": {
+        "Volume": "2022",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Computational and mathematical methods in medicine",
+      "ISOAbbreviation": "Comput Math Methods Med"
+    },
+    "ArticleTitle": "Mathematical Simulation and Numerical Computation of the Temperature Profiles in the Peripherals of Human Brain during the Tepid Sponge Treatment to Fever.",
+    "Pagination": {
+      "StartPage": "2658095",
+      "MedlinePgn": "2658095"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Fever is one of the frequently occurring diseases in human beings, and the body is said to have befallen in fever if the arterial or internal body temperature rises to 38\u00b0C. The patient who suffers from fever is either given paracetamol or tepid sponging or both.",
+        "This paper is aimed at studying the effects of the tepid sponge in normalizing the high temperature of the human body during fever. Among the various available methods for tepid sponging, the impact of holding a cool wet cloth on the forehead for reducing the fever is analyzed and pictured graphically.",
+        "For analyzing the effects of tepid sponge on the temperature distribution of the domain consisting of scalp, skull, and cerebrospinal fluid (CSF), a cool wet cloth is brought in contact with the skin allowing the heat to transfer from the brain to the wet cloth through these layers. The heat transfer in living biological tissues is different from ordinary heat transfer in other nonliving materials. Therefore, a model based on the bioheat equation has been constructed. The model has been solved by numerical methods for both steady- and unsteady-state cases. The domain, which consists of the scalp, skull, and CSF layers of the human head, has been discretized into four equal parts along the axes of the three-dimensional coordinate system. The forward difference and forward time centered space approximations were employed for numerical temperature distribution results at the nodal points.",
+        "The effects of tepid sponge in reducing the body temperature with fever at 38\u00b0C, 39.5\u00b0C, and 41\u00b0C have been numerically calculated, and the results were pictured graphically. For transient cases, the corresponding calculations have been carried out at times <i>t</i> = 2\u2009minutes, 4 minutes, and 6 minutes.",
+        "Among all the available remedies to fever, tepid sponging has shown a significant effect in controlling fever."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Mir Aijaz et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6594-1934"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Govt. Degree College Kilam, Higher Education, J & K, India."
+          }
+        ],
+        "LastName": "Aijaz",
+        "ForeName": "Mir",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7565-2244"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematical Sciences, Islamic University of Science and Technology, J & K, India."
+          }
+        ],
+        "LastName": "Dar",
+        "ForeName": "Javid Gani",
+        "Initials": "JG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, College of Science, King Khalid University, Abha 62529, Saudi Arabia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Statistical Research and Studies Unit, King Khalid University, Abha 62529, Saudi Arabia."
+          }
+        ],
+        "LastName": "Almanjahie",
+        "ForeName": "Ibrahim M",
+        "Initials": "IM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Business Sciences, Ibadat International University, Islamabad, Pakistan."
+          }
+        ],
+        "LastName": "Sajjad",
+        "ForeName": "Irsa",
+        "Initials": "I"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Math Methods Med",
+    "NlmUniqueID": "101277751",
+    "ISSNLinking": "1748-670X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Body Temperature"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Brain"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "cerebrospinal fluid",
+        "physiopathology",
+        "therapy"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Hydrotherapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Neurological"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Scalp"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Skull"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Textiles"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflicts of interest."
+}

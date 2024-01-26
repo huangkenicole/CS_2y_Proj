@@ -1,0 +1,196 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29054249",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "07",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "07",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "09",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cmpb.2017.08.021",
+      "S0169-2607(16)31053-7"
+    ],
+    "Journal": {
+      "ISSN": "1872-7565",
+      "JournalIssue": {
+        "Volume": "152",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "HIV-1-infected T-cells dynamics and prognosis: An evolutionary game model.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "14",
+      "MedlinePgn": "1-14"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Understanding the dynamics of human immunodeficiency virus (HIV) is essential for depicting, developing, and investigating effective treatment strategies. HIV infects several types of immune cells, but its main target is to destroy helper T-cells. In the lymph nodes, the infected T-cells interact with each other and their environment to obtain more resources. According to infectivity and replicative capacity of T-cells in the HIV infection process, they can be divided into four phenotypes. Although genetic mutations in the reverse transcription that beget these phenotypes are random, the framework by which a phenotype become favored is affected by the environment and neighboring phenotypes. Moreover, the HIV disease has all components of an evolutionary process, including replication, mutation, and selection.",
+        "We propose a novel structure-based game-theoretic model for the evolution of HIV-1-Infected CD4+T-cells and invasion of the immune system. We discuss the theoretical basis of the stable equilibrium states of the evolutionary dynamics of four T-cells types as well as its significant results to understand and control HIV infection. The results include the importance of genetic variations and the process of establishing evolutionary dynamics of the virus quasispecies.",
+        "Our results show that there is a direct dependency between some parameters such as mutation rates and the stability of equilibrium states in the HIV infection. This is an interesting result because these parameters can be changed by some pharmacotherapies and alternative treatments. Our model indicates that in an appropriate treatment the relative frequency of the wild type of virus quasispecies can be decreased in the population. Consequently, this can cause delaying the emergence of the AIDS phase. To assess the model, we investigate two new treatments for HIV. The results show that our model can predict the treatment results.",
+        "The paper shows that a structured-based evolutionary game theory can model the evolutionary dynamics of the infected T-cells and virus quasispecies. The model predicts certain aspects of the HIV infection process under several treatments."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2017 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan 84156-83111, Iran."
+          }
+        ],
+        "LastName": "Khazaei",
+        "ForeName": "Bahareh",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, University of Kashan, Kashan, Iran."
+          }
+        ],
+        "LastName": "Sartakhti",
+        "ForeName": "Javad Salimi",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, Isfahan University of Technology, Isfahan 84156-83111, Iran. Electronic address: manshaei@cc.iut.ac.ir."
+          }
+        ],
+        "LastName": "Manshaei",
+        "ForeName": "Mohammad Hossein",
+        "Initials": "MH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, Polytechnic School of Engineering, New York University, NY, USA."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Quanyan",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute of Genetic Engineering and Biotechnology and the School of Biological Sciences, Institute for Research in Fundamental Sciences, Tehran, Iran."
+          }
+        ],
+        "LastName": "Sadeghi",
+        "ForeName": "Mehdi",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computer Engineering Department, Amirkabir University of Technology and the Institute for Research in Fundamental Sciences, Tehran, Iran."
+          }
+        ],
+        "LastName": "Mousavi",
+        "ForeName": "Seyed Rasoul",
+        "Initials": "SR"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biological Evolution"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "CD4-Positive T-Lymphocytes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Game Theory"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "virology"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "HIV-1"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immune Evasion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Replication"
+    }
+  ]
+}

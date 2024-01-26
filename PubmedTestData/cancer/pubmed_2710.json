@@ -1,0 +1,213 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "GSEA: Gene Set Enrichment Analysis",
+      "LUAD: lung adenocarcinoma",
+      "LUSC lung squamous cell carcinoma",
+      "NES: normalized enrichment score",
+      "RFE: recursive feature elimination",
+      "ROS: reactive oxygen species",
+      "SHAP: SHapley Additive exPlanations",
+      "TCGA: the Cancer Genome Atlas"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36232866",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "09",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "11566",
+      "10.3390/ijms231911566"
+    ],
+    "Journal": {
+      "ISSN": "1422-0067",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "19",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Sep",
+          "Day": "30"
+        }
+      },
+      "Title": "International journal of molecular sciences",
+      "ISOAbbreviation": "Int J Mol Sci"
+    },
+    "ArticleTitle": "Archaea Microbiome Dysregulated Genes and Pathways as Molecular Targets for Lung Adenocarcinoma and Squamous Cell Carcinoma.",
+    "Abstract": {
+      "AbstractText": [
+        "The human microbiome is a vast collection of microbial species that exist throughout the human body and regulate various bodily functions and phenomena. Of the microbial species that exist in the human microbiome, those within the archaea domain have not been characterized to the extent of those in more common domains, despite their potential for unique metabolic interaction with host cells. Research has correlated tumoral presence of <i>bacterial</i> microbial species to the development and progression of lung cancer; however, the impacts and influences of archaea in the microbiome remain heavily unexplored. Within the United States lung cancer remains highly fatal, responsible for over 100,000 deaths every year with a 5-year survival rate of roughly 22.9%. This project attempts to investigate specific archaeal species' correlation to lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC) incidence, patient staging, death rates across individuals of varying ages, races, genders, and smoking-statuses, and potential molecular targets associated with archaea microbiome. Archaeal species abundance was assessed across lung tissue samples of 527 LUAD patients, 479 LUSC patients, and 99 healthy individuals. Nine archaeal species were found to be of significantly altered abundance in cancerous samples as compared to normal counterparts, 6 of which are common to both LUAD and LUSC subgroups. Several of these species are of the taxonomic class Thermoprotei or the phylum Euryarchaeota, both known to contain metabolic processes distinct from most bacterial species. Host-microbe metabolic interactions may be responsible for the observed correlation of these species' abundance with cancer incidence. Significant microbes were correlated to patient gene expression to reveal genes of altered abundance with respect to high and low archaeal presence. With these genes, cellular oncogenic signaling pathways were analyzed for enrichment across cancer and normal samples. In comparing gene expression between LUAD and adjacent normal samples, 2 gene sets were found to be significantly enriched in cancers. In LUSC comparison, 6 sets were significantly enriched in cancer, and 34 were enriched in normals. Microbial counts across healthy and cancerous patients were then used to develop a machine-learning based predictive algorithm, capable of distinguishing lung cancer patients from healthy normal with 99% accuracy."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Otolaryngology-Head and Neck Surgery, Department of Surgery, University of California, San Diego, CA 92093, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Research Service, VA San Diego Healthcare System, San Diego, CA 92161, USA."
+          }
+        ],
+        "LastName": "Uzelac",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Otolaryngology-Head and Neck Surgery, Department of Surgery, University of California, San Diego, CA 92093, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Research Service, VA San Diego Healthcare System, San Diego, CA 92161, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yuxiang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Otolaryngology-Head and Neck Surgery, Department of Surgery, University of California, San Diego, CA 92093, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Research Service, VA San Diego Healthcare System, San Diego, CA 92161, USA."
+          }
+        ],
+        "LastName": "Chakladar",
+        "ForeName": "Jaideep",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Otolaryngology-Head and Neck Surgery, Department of Surgery, University of California, San Diego, CA 92093, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Research Service, VA San Diego Healthcare System, San Diego, CA 92161, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Wei Tse",
+        "Initials": "WT"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2790-2480"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Otolaryngology-Head and Neck Surgery, Department of Surgery, University of California, San Diego, CA 92093, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Research Service, VA San Diego Healthcare System, San Diego, CA 92161, USA."
+          }
+        ],
+        "LastName": "Ongkeko",
+        "ForeName": "Weg M",
+        "Initials": "WM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Int J Mol Sci",
+    "NlmUniqueID": "101092791",
+    "ISSNLinking": "1422-0067"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Adenocarcinoma of Lung"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Archaea"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Carcinoma, Non-Small-Cell Lung"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Carcinoma, Squamous Cell"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Microbiota"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest or personal relationships that could have appeared to influence the work reported in this paper."
+}

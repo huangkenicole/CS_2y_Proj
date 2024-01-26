@@ -1,0 +1,679 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35790808",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "07",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "666",
+      "10.1038/s42003-022-03565-9"
+    ],
+    "Journal": {
+      "ISSN": "2399-3642",
+      "JournalIssue": {
+        "Volume": "5",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jul",
+          "Day": "05"
+        }
+      },
+      "Title": "Communications biology",
+      "ISOAbbreviation": "Commun Biol"
+    },
+    "ArticleTitle": "Altered subgenomic RNA abundance provides unique insight into SARS-CoV-2 B.1.1.7/Alpha variant infections.",
+    "Pagination": {
+      "StartPage": "666",
+      "MedlinePgn": "666"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "B.1.1.7 lineage SARS-CoV-2 is more transmissible, leads to greater clinical severity, and results in modest reductions in antibody neutralization. Subgenomic RNA (sgRNA) is produced by discontinuous transcription of the SARS-CoV-2 genome. Applying our tool (periscope) to ARTIC Network Oxford Nanopore Technologies genomic sequencing data from 4400 SARS-CoV-2 positive clinical samples, we show that normalised sgRNA is significantly increased in B.1.1.7 (alpha) infections (n\u2009=\u2009879). This increase is seen over the previous dominant lineage in the UK, B.1.177 (n\u2009=\u2009943), which is independent of genomic reads, E cycle threshold and days since symptom onset at sampling. A noncanonical sgRNA which could represent ORF9b is found in 98.4% of B.1.1.7 SARS-CoV-2 infections compared with only 13.8% of other lineages, with a 16-fold increase in median sgRNA abundance. We demonstrate that ORF9b protein levels are increased 6-fold in B.1.1.7 compared to a B lineage virus in vitro. We hypothesise that increased ORF9b in B.1.1.7 is a direct consequence of a triple nucleotide mutation in nucleocapsid (28280:GAT\u2009>\u2009CAT, D3L) creating a transcription regulatory-like sequence complementary to a region 3' of the genomic leader. These findings provide a unique insight into the biology of B.1.1.7 and support monitoring of sgRNA profiles to evaluate emerging potential variants of concern."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2999-3870"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Biomedical Research Centre, The University of Sheffield, Sheffield, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Bioinformatics Core, The University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Parker",
+        "ForeName": "Matthew D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1438-1089"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Stewart",
+        "ForeName": "Hazel",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Science, The University of Sheffield, Western Bank, Sheffield, UK."
+          }
+        ],
+        "LastName": "Shehata",
+        "ForeName": "Ola M",
+        "Initials": "OM"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4227-2592"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Lindsey",
+        "ForeName": "Benjamin B",
+        "Initials": "BB"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6198-8273"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Shah",
+        "ForeName": "Dhruv R",
+        "Initials": "DR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Bioinformatics Core, The University of Sheffield, Sheffield, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Hsu",
+        "ForeName": "Sharon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9386-1157"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Keeley",
+        "ForeName": "Alexander J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0417-2016"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          }
+        ],
+        "LastName": "Partridge",
+        "ForeName": "David G",
+        "Initials": "DG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Immunology and Infectious Diseases, Murdoch University, Murdoch, WA, Australia."
+          }
+        ],
+        "LastName": "Leary",
+        "ForeName": "Shay",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          }
+        ],
+        "LastName": "Cope",
+        "ForeName": "Alison",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          }
+        ],
+        "LastName": "State",
+        "ForeName": "Amy",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          }
+        ],
+        "LastName": "Johnson",
+        "ForeName": "Katie",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          }
+        ],
+        "LastName": "Ali",
+        "ForeName": "Nasar",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          }
+        ],
+        "LastName": "Raghei",
+        "ForeName": "Rasha",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8733-1117"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IT Services, The University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Heffer",
+        "ForeName": "Joe",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Nikki",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Peijun",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Gallis",
+        "ForeName": "Marta",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3000-3504"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Louka",
+        "ForeName": "Stavroula F",
+        "Initials": "SF"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6657-9743"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Hornsby",
+        "ForeName": "Hailey R",
+        "Initials": "HR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Science, The University of Sheffield, Western Bank, Sheffield, UK."
+          }
+        ],
+        "LastName": "Alamri",
+        "ForeName": "Hatoon",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Whiteley",
+        "ForeName": "Max",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Foulkes",
+        "ForeName": "Benjamin H",
+        "Initials": "BH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8287-788X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Christou",
+        "ForeName": "Stella",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2709-0686"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Wolverson",
+        "ForeName": "Paige",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2272-9946"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Pohare",
+        "ForeName": "Manoj",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3042-8748"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Hansford",
+        "ForeName": "Samantha E",
+        "Initials": "SE"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2836-2041"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Green",
+        "ForeName": "Luke R",
+        "Initials": "LR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          }
+        ],
+        "LastName": "Evans",
+        "ForeName": "Cariad",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK."
+          }
+        ],
+        "LastName": "Raza",
+        "ForeName": "Mohammad",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0068-1005"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Biomedical Research Centre, The University of Sheffield, Sheffield, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Bioinformatics Core, The University of Sheffield, Sheffield, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, The University of Sheffield, Sheffield, UK."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Dennis",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Firth",
+        "ForeName": "Andrew E",
+        "Initials": "AE"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7903-8199"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Edgar",
+        "ForeName": "James R",
+        "Initials": "JR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, The University of Sheffield, Sheffield, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, Vanderbilt University Medical Center, Nashville, TN, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Human Sciences, University of Western Australia, Crawley, WA, Australia."
+          }
+        ],
+        "LastName": "Gaudieri",
+        "ForeName": "Silvana",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, Vanderbilt University Medical Center, Nashville, TN, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Human Sciences, University of Western Australia, Crawley, WA, Australia."
+          }
+        ],
+        "LastName": "Mallal",
+        "ForeName": "Simon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "COVID-19 Genomics UK (COG-UK) consortium"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7656-4975"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Science, The University of Sheffield, Western Bank, Sheffield, UK."
+          }
+        ],
+        "LastName": "Collins",
+        "ForeName": "Mark O",
+        "Initials": "MO"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0144-7712"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Science, The University of Sheffield, Western Bank, Sheffield, UK."
+          }
+        ],
+        "LastName": "Peden",
+        "ForeName": "Andrew A",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6498-9212"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK. t.desilva@sheffield.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Florey Institute for Host-Pathogen Interactions & Department of Infection, Immunity and Cardiovascular Disease, Medical School, University of Sheffield, Sheffield, UK. t.desilva@sheffield.ac.uk."
+          }
+        ],
+        "LastName": "de Silva",
+        "ForeName": "Thushan I",
+        "Initials": "TI"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "110058/Z/15/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "216370/Z/19/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "BRC - IS-BRC-1215-20017",
+        "Acronym": "DH_",
+        "Agency": "Department of Health",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "BB/S009566/1",
+        "Acronym": "BB_",
+        "Agency": "Biotechnology and Biological Sciences Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MC_PC_19027",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Commun Biol",
+    "NlmUniqueID": "101719179",
+    "ISSNLinking": "2399-3642"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "63231-63-0",
+      "NameOfSubstance": "RNA"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "Mark O. Collins is an Editorial Board Member for Communications Biology but was not involved in the editorial review of, nor the decision to publish this article. Since this manuscript was accepted for publication Matthew Parker is now an employee of Oxford Nanopore Technologies and the remaining authors declare no competing interests."
+}

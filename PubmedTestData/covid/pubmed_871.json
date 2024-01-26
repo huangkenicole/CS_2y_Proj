@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "antibody therapy",
+      "binding affinity",
+      "deep learning",
+      "network analysis",
+      "persistent homology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33064571",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "10",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1146/annurev-biophys-062920-063711"
+    ],
+    "Journal": {
+      "ISSN": "1936-1238",
+      "JournalIssue": {
+        "Volume": "50",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "06"
+        }
+      },
+      "Title": "Annual review of biophysics",
+      "ISOAbbreviation": "Annu Rev Biophys"
+    },
+    "ArticleTitle": "Review of COVID-19 Antibody Therapies.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "30",
+      "MedlinePgn": "1-30"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In the global health emergency caused by coronavirus disease 2019 (COVID-19), efficient and specific therapies are urgently needed. Compared with traditional small-molecular drugs, antibody therapies are relatively easy to develop; they are as specific as vaccines in targeting severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2); and they have thus attracted much attention in the past few months. This article reviews seven existing antibodies for neutralizing SARS-CoV-2 with 3D structures deposited in the Protein Data Bank (PDB). Five 3D antibody structures associated with the SARS-CoV spike (S) protein are also evaluated for their potential in neutralizing SARS-CoV-2. The interactions of these antibodies with the S protein receptor-binding domain (RBD) are compared with those between angiotensin-converting enzyme 2 and RBD complexes. Due to the orders of magnitude in the discrepancies of experimental binding affinities, we introduce topological data analysis, a variety of network models, and deep learning to analyze the binding strength and therapeutic potential of the 14 antibody-antigen complexes. The current COVID-19 antibody clinical trials, which are not limited to the S protein target, are also reviewed."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Michigan State University, East Lansing, Michigan 48824, USA; email: wei@math.msu.edu."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Jiahui",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Michigan State University, East Lansing, Michigan 48824, USA; email: wei@math.msu.edu."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Kaifu",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Michigan State University, East Lansing, Michigan 48824, USA; email: wei@math.msu.edu."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Rui",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of Kentucky, Lexington, Kentucky 40506, USA."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Duc Duy",
+        "Initials": "DD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Michigan State University, East Lansing, Michigan 48824, USA; email: wei@math.msu.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, Michigan State University, East Lansing, Michigan 48824, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan 48824, USA."
+          }
+        ],
+        "LastName": "Wei",
+        "ForeName": "Guo-Wei",
+        "Initials": "GW"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM126189",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Rev Biophys",
+    "NlmUniqueID": "101469708",
+    "ISSNLinking": "1936-122X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antibodies, Viral"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "ArXiv. 2020 Jun 18;:",
+      "PMID": "32601601"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "immunology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antibodies, Viral"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "therapy",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Molecular"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

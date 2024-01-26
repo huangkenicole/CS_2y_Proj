@@ -1,0 +1,145 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "8942173",
+  "DateCompleted": {
+    "Year": "1997",
+    "Month": "01",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "10",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0025-5564",
+      "JournalIssue": {
+        "Volume": "138",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "1996",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Mathematical biosciences",
+      "ISOAbbreviation": "Math Biosci"
+    },
+    "ArticleTitle": "HIV-1 infection kinetics in tissue cultures.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "22",
+      "MedlinePgn": "1-22"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Despite intensive experimental work on HIV-1, very little theoretical work has focused on HIV-1 spread in tissue culture. This article uses two systems of ordinary differential equations to model two modes of viral spread, cell-free virus and cell-to-cell contact. The two models produce remarkably similar qualitative results. Simulations using realistic parameter regimes showed that starting with a small fraction of cells infected, both cell-free viral spread and direct cell-to-cell transmission give an initial exponential phase of viral growth, followed by either a crash or a gradual decline, extinguishing the culture. Under some conditions, an oscillatory phase may precede the extinction. Some previous models of in vivo HIV-1 infection oscillate, but only in unrealistic parameter regimes. Experimental tissue infections sometimes display several sequential cycles of oscillation, however, so our models can at least mimic them qualitatively. Significantly, the models show that infective oscillations can be explained by infection dynamics; biological heterogeneity is not required. The models also display proportionality between infected cells and cell-free virus, which is reassuringly consistent with assumptions about the equivalence of several measures of viral load, except that the proportionality requires a relatively constant total cell concentration. Tissue culture parameter values can be determined from accurate, controlled experiments. Therefore, if verified, our models should make interpreting experimental data and extrapolating it to in vivo conditions sharper and more reliable."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, Bethesda, Maryland, USA."
+          }
+        ],
+        "LastName": "Spouge",
+        "ForeName": "J I",
+        "Initials": "JI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Shrager",
+        "ForeName": "R I",
+        "Initials": "RI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dimitrov",
+        "ForeName": "D S",
+        "Initials": "DS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci",
+    "NlmUniqueID": "0103146",
+    "ISSNLinking": "0025-5564"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "CD4-Positive T-Lymphocytes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Communication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cells, Cultured"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Culture Techniques"
+    },
+    {
+      "QualifierName": [
+        "transmission"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "HIV-1"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Kinetics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Virion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Replication"
+    }
+  ]
+}

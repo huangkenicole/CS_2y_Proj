@@ -1,0 +1,149 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32966223",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2020.3026060"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "A Privacy-Preserving Mobile and Fog Computing Framework to Trace and Prevent COVID-19 Community Transmission.",
+    "Pagination": {
+      "StartPage": "3564",
+      "EndPage": "3575",
+      "MedlinePgn": "3564-3575"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To slow down the spread of COVID-19, governments worldwide are trying to identify infected people, and contain the virus by enforcing isolation, and quarantine. However, it is difficult to trace people who came into contact with an infected person, which causes widespread community transmission, and mass infection. To address this problem, we develop an e-government Privacy-Preserving Mobile, and Fog computing framework entitled PPMF that can trace infected, and suspected cases nationwide. We use personal mobile devices with contact tracing app, and two types of stationary fog nodes, named Automatic Risk Checkers (ARC), and Suspected User Data Uploader Node (SUDUN), to trace community transmission alongside maintaining user data privacy. Each user's mobile device receives a Unique Encrypted Reference Code (UERC) when registering on the central application. The mobile device, and the central application both generate Rotational Unique Encrypted Reference Code (RUERC), which broadcasted using the Bluetooth Low Energy (BLE) technology. The ARCs are placed at the entry points of buildings, which can immediately detect if there are positive or suspected cases nearby. If any confirmed case is found, the ARCs broadcast pre-cautionary messages to nearby people without revealing the identity of the infected person. The SUDUNs are placed at the health centers that report test results to the central cloud application. The reported data is later used to map between infected, and suspected cases. Therefore, using our proposed PPMF framework, governments can let organizations continue their economic activities without complete lockdown."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Whaiduzzaman",
+        "ForeName": "Md",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hossain",
+        "ForeName": "Md Razon",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Shovon",
+        "ForeName": "Ahmedur Rahman",
+        "Initials": "AR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Roy",
+        "ForeName": "Shanto",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Laszka",
+        "ForeName": "Aron",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Buyya",
+        "ForeName": "Rajkumar",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Barros",
+        "ForeName": "Alistair",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mobile Applications"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Privacy"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

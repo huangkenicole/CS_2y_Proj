@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "PhenoGraph",
+      "SARS-CoV-2",
+      "genetic mutation",
+      "subpopulation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34382087",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab307",
+      "10.1093/bib/bbab307"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Data-driven identification of SARS-CoV-2 subpopulations using PhenoGraph and binary-coded genomic data.",
+    "Abstract": {
+      "AbstractText": [
+        "For epidemic prevention and control, the identification of SARS-CoV-2 subpopulations sharing similar micro-epidemiological patterns and evolutionary histories is necessary for a more targeted investigation into the links among COVID-19 outbreaks caused by SARS-CoV-2 with similar genetic backgrounds. Genomic sequencing analysis has demonstrated the ability to uncover viral genetic diversity. However, an objective analysis is necessary for the identification of SARS-CoV-2 subpopulations. Herein, we detected all the mutations in 186\u00a0682 SARS-CoV-2 isolates. We found that the GC content of the SARS-CoV-2 genome had evolved to be lower, which may be conducive to viral spread, and the frameshift mutation was rare in the global population. Next, we encoded the genomic mutations in binary form and used an unsupervised learning classifier, namely PhenoGraph, to classify this information. Consequently, PhenoGraph successfully identified 303 SARS-CoV-2 subpopulations, and we found that the PhenoGraph classification was consistent with, but more detailed and precise than the known GISAID clades (S, L, V, G, GH, GR, GV and O). By the change trend analysis, we found that the growth rate of SARS-CoV-2 diversity has slowed down significantly. We also analyzed the temporal, spatial and phylogenetic relationships among the subpopulations and revealed the evolutionary trajectory of SARS-CoV-2 to a certain extent. Hence, our results provide a better understanding of the patterns and trends in the genomic evolution and epidemiology of SARS-CoV-2."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6104-5083"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fifth Affiliated Hospital of Guangzhou Medical University, Guangzhou 510700, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Zhi-Kai",
+        "Initials": "ZK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangzhou Nanxin Pharmaceutical Co., Ltd., Guangzhou 510700, China."
+          }
+        ],
+        "LastName": "Pan",
+        "ForeName": "Lingyu",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SinoGenoMax Co., Ltd./Chinese National Human Genome Center, Guangzhou 510700, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yanming",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, School of Science, Tianjin University, Tianjin University, Tianjin 300072, China."
+          }
+        ],
+        "LastName": "Luo",
+        "ForeName": "Hao",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9563-3841"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, School of Science, and the Frontiers Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin University, Tianjin 300072, China."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Feng",
+        "Initials": "F"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2018YFA0903700",
+        "Agency": "National Key Research and Development Program of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "201905010004",
+        "Agency": "Guangzhou Key Laboratory Fund",
+        "Country": ""
+      },
+      {
+        "GrantID": "21621004",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genetic Variation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

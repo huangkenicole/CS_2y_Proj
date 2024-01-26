@@ -1,0 +1,815 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "drug design",
+      "epidemiology",
+      "sequencing",
+      "tools",
+      "virus bioinformatics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33147627",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/bib/bbaa232"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Computational strategies to combat COVID-19: useful tools to accelerate SARS-CoV-2 and coronavirus research.",
+    "Pagination": {
+      "StartPage": "642",
+      "EndPage": "663",
+      "MedlinePgn": "642-663"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) is a novel virus of the family Coronaviridae. The virus causes the infectious disease COVID-19. The biology of coronaviruses has been studied for many years. However, bioinformatics tools designed explicitly for SARS-CoV-2 have only recently been developed as a rapid reaction to the need for fast detection, understanding and treatment of COVID-19. To control the ongoing COVID-19 pandemic, it is of utmost importance to get insight into the evolution and pathogenesis of the virus. In this review, we cover bioinformatics workflows and tools for the routine detection of SARS-CoV-2 infection, the reliable analysis of sequencing data, the tracking of the COVID-19 pandemic and evaluation of containment measures, the study of coronavirus evolution, the discovery of potential drug targets and development of therapeutic strategies. For each tool, we briefly describe its use case and how it advances research specifically for SARS-CoV-2. All tools are free to use and available online, either through web applications or public code repositories. Contact:evbc@unj-jena.de."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Friedrich-Schiller-University Jena, Germany."
+          }
+        ],
+        "LastName": "Hufsky",
+        "ForeName": "Franziska",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Friedrich-Schiller-University Jena, Germany."
+          }
+        ],
+        "LastName": "Lamkiewicz",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EMBL-EBI and the Wellcome Sanger Institute, UK."
+          }
+        ],
+        "LastName": "Almeida",
+        "ForeName": "Alexandre",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CNRS, France."
+          }
+        ],
+        "LastName": "Aouacheria",
+        "ForeName": "Abdel",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocuration and Literature Access at PIR, USA."
+          }
+        ],
+        "LastName": "Arighi",
+        "ForeName": "Cecilia",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Protein Sequence Resources at EMBL-EBI, UK."
+          }
+        ],
+        "LastName": "Bateman",
+        "ForeName": "Alex",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Technical University of Munich, Germany."
+          }
+        ],
+        "LastName": "Baumbach",
+        "ForeName": "Jan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Biology at ETH Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Beerenwinkel",
+        "ForeName": "Niko",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Infectious Disease and Infection Control at Jena University Hospital, Germany."
+          }
+        ],
+        "LastName": "Brandt",
+        "ForeName": "Christian",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00f3cnicas (CONICET) working on FMDV virology at the Instituto de Agrobiotecnolog\u00eda y Biolog\u00eda Molecular (IABiMo, INTA-CONICET) and at the Departamento de Ciencias B\u00e1sicas, Universidad Nacional de Luj\u00e1n (UNLu), Argentina."
+          }
+        ],
+        "LastName": "Cacciabue",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pfam and InterPro databases, at the EMBL-EBI, UK."
+          }
+        ],
+        "LastName": "Chuguransky",
+        "ForeName": "Sara",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "bioinformatics department at the Robert Koch-Institute, Germany."
+          }
+        ],
+        "LastName": "Drechsel",
+        "ForeName": "Oliver",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pfam and MGnify."
+          }
+        ],
+        "LastName": "Finn",
+        "ForeName": "Robert D",
+        "Initials": "RD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Biology of Infection Research group of Alice C. McHardy at the Helmholtz Centre for Infection Research, Germany."
+          }
+        ],
+        "LastName": "Fritz",
+        "ForeName": "Adrian",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "bioinformatics department at the Robert Koch-Institute, Germany."
+          }
+        ],
+        "LastName": "Fuchs",
+        "ForeName": "Stephan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Division at Philipps-University Marburg, Germany."
+          }
+        ],
+        "LastName": "Hattab",
+        "ForeName": "Georges",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Philipps-University Marburg, Germany."
+          }
+        ],
+        "LastName": "Hauschild",
+        "ForeName": "Anne-Christin",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science in Biomedicine at the Philipps-University of Marburg, Germany."
+          }
+        ],
+        "LastName": "Heider",
+        "ForeName": "Dominik",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Freie Universit\u00e4t Berlin, Germany."
+          }
+        ],
+        "LastName": "Hoffmann",
+        "ForeName": "Marie",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Friedrich Schiller University Jena, Germany."
+          }
+        ],
+        "LastName": "H\u00f6lzer",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomplexity Institute and Initiative at the University of Virginia, USA."
+          }
+        ],
+        "LastName": "Hoops",
+        "ForeName": "Stefan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics and head of the Institute of Bioinformatics at University Medicine Greifswald, Germany."
+          }
+        ],
+        "LastName": "Kaderali",
+        "ForeName": "Lars",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Senior Software Developer."
+          }
+        ],
+        "LastName": "Kalvari",
+        "ForeName": "Ioanna",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "bioinformatics department at the Robert Koch-Institute, Germany."
+          }
+        ],
+        "LastName": "von Kleist",
+        "ForeName": "Max",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "bioinformatics department at the Robert Koch-Institute, Germany."
+          }
+        ],
+        "LastName": "Kmiecinski",
+        "ForeName": "Ren\u00f3",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for the Science of Human History."
+          }
+        ],
+        "LastName": "K\u00fchnert",
+        "ForeName": "Denise",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chandran Lab, Albert Einstein College of Medicine, USA."
+          }
+        ],
+        "LastName": "Lasso",
+        "ForeName": "Gorka",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Hasselt, Belgium."
+          }
+        ],
+        "LastName": "Libin",
+        "ForeName": "Pieter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Technical University of Munich, Germany."
+          }
+        ],
+        "LastName": "List",
+        "ForeName": "Markus",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Philipps-University Marburg, Germany."
+          }
+        ],
+        "LastName": "L\u00f6chel",
+        "ForeName": "Hannah F",
+        "Initials": "HF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EMBL-EBI, UK."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Maria J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Philipps-University Marburg, Germany."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Roman",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chair of Experimental Bioinformatics at TU Munich, Germany."
+          }
+        ],
+        "LastName": "Matschinske",
+        "ForeName": "Julian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Biology of Infection Research Lab at the Helmholtz Centre for Infection Research in Braunschweig, Germany."
+          }
+        ],
+        "LastName": "McHardy",
+        "ForeName": "Alice C",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Quantitative Medicine of the University of Connecticut School of Medicine, USA."
+          }
+        ],
+        "LastName": "Mendes",
+        "ForeName": "Pedro",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EMBL-EBI, UK."
+          }
+        ],
+        "LastName": "Mistry",
+        "ForeName": "Jaina",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics and Systems Biology at the Rh\u00f4ne Alpes Bioinformatics core facility, Universit\u00f3 de Lyon, France."
+          }
+        ],
+        "LastName": "Navratil",
+        "ForeName": "Vincent",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information (NCBI)."
+          }
+        ],
+        "LastName": "Nawrocki",
+        "ForeName": "Eric P",
+        "Initials": "EP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rambaut group at Edinburgh University, UK."
+          }
+        ],
+        "LastName": "O'Toole",
+        "ForeName": "\u00c1ine Niamh",
+        "Initials": "\u00c1N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EMBL-EBI, UK."
+          }
+        ],
+        "LastName": "Ontiveros-Palacios",
+        "ForeName": "Nancy",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EMBL-EBI, UK."
+          }
+        ],
+        "LastName": "Petrov",
+        "ForeName": "Anton I",
+        "Initials": "AI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "GLOBE Institute in the University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Rangel-Pineros",
+        "ForeName": "Guillermo",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Development of the Swiss-Prot group at the SIB for UniProt and SIB resources that cover viral biology (ViralZone)."
+          }
+        ],
+        "LastName": "Redaschi",
+        "ForeName": "Nicole",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Biology of Infection Research group of Alice C. McHardy at the Helmholtz Centre for Infection Research."
+          }
+        ],
+        "LastName": "Reimering",
+        "ForeName": "Susanne",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Freie Universit\u00e4t Berlin, Germany."
+          }
+        ],
+        "LastName": "Reinert",
+        "ForeName": "Knut",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidad de los Andes, Colombia."
+          }
+        ],
+        "LastName": "Reyes",
+        "ForeName": "Alejandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sequence Families team at EMBL-EBI, UK."
+          }
+        ],
+        "LastName": "Richardson",
+        "ForeName": "Lorna",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MRC-University of Glasgow Centre for Virus Research, UK."
+          }
+        ],
+        "LastName": "Robertson",
+        "ForeName": "David L",
+        "Initials": "DL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chair of Experimental Bioinformatics at Technical University of Munich, Germany."
+          }
+        ],
+        "LastName": "Sadegh",
+        "ForeName": "Sepideh",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MRC-University of Glasgow Centre for Virus Research, Glasgow, Scotland, UK."
+          }
+        ],
+        "LastName": "Singer",
+        "ForeName": "Joshua B",
+        "Initials": "JB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rega institute of the University of Leuven, Belgium."
+          }
+        ],
+        "LastName": "Theys",
+        "ForeName": "Kristof",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Microbiology, University of Victoria, Canada."
+          }
+        ],
+        "LastName": "Upton",
+        "ForeName": "Chris",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Philipps-University Marburg, Germany."
+          }
+        ],
+        "LastName": "Welzel",
+        "ForeName": "Marius",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pfam and InterPro databases, at EMBL-EBI, UK."
+          }
+        ],
+        "LastName": "Williams",
+        "ForeName": "Lowri",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Friedrich Schiller University Jena, Germany."
+          }
+        ],
+        "LastName": "Marz",
+        "ForeName": "Manja",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM080219",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MC_UU_12014/12",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MC_PC_19026",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "U19 AI142777",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U24 HG007822",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, N.I.H., Intramural",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomedical Research"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

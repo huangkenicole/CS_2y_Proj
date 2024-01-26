@@ -1,0 +1,203 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "anomaly detection",
+      "disease emergence",
+      "early warning signals"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37963560",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "11",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "20230410",
+      "10.1098/rsif.2023.0410"
+    ],
+    "Journal": {
+      "ISSN": "1742-5662",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "208",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Journal of the Royal Society, Interface",
+      "ISOAbbreviation": "J R Soc Interface"
+    },
+    "ArticleTitle": "Spatio-temporal surveillance and early detection of SARS-CoV-2 variants of concern: a retrospective analysis.",
+    "Pagination": {
+      "StartPage": "20230410",
+      "MedlinePgn": "20230410"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The SARS-CoV-2 pandemic has been characterized by the repeated emergence of genetically distinct virus variants of increased transmissibility and immune evasion compared to pre-existing lineages. In many countries, their containment required the intervention of public health authorities and the imposition of control measures. While the primary role of testing is to identify infection, target treatment, and limit spread (through isolation and contact tracing), a secondary benefit is in terms of surveillance and the early detection of new variants. Here we study the spatial invasion and early spread of the Alpha, Delta and Omicron (BA.1 and BA.2) variants in England from September 2020 to February 2022 using the random neighbourhood covering (RaNCover) method. This is a statistical technique for the detection of aberrations in spatial point processes, which we tailored here to community PCR (polymerase-chain-reaction) test data where the TaqPath kit provides a proxy measure of the switch between variants. Retrospectively, RaNCover detected the earliest signals associated with the four novel variants that led to large infection waves in England. With suitable data our method therefore has the potential to rapidly detect outbreaks of future SARS-CoV-2 variants, thus helping to inform targeted public health interventions."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-2365-6024"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Mathematics Institute, University of Warwick, Coventry, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Research, University of Warwick, Coventry, UK."
+          }
+        ],
+        "LastName": "Cavallaro",
+        "ForeName": "Massimo",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9788-4858"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Mathematics Institute, University of Warwick, Coventry, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Research, University of Warwick, Coventry, UK."
+          }
+        ],
+        "LastName": "Dyson",
+        "ForeName": "Louise",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6875-7232"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Mathematics Institute, University of Warwick, Coventry, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Research, University of Warwick, Coventry, UK."
+          }
+        ],
+        "LastName": "Tildesley",
+        "ForeName": "Michael J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Warwick Medical School, University of Warwick, Coventry, UK."
+          }
+        ],
+        "LastName": "Todkill",
+        "ForeName": "Dan",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4639-4765"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Mathematics Institute, University of Warwick, Coventry, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Zeeman Institute for Systems Biology and Infectious Disease Epidemiology Research, University of Warwick, Coventry, UK."
+          }
+        ],
+        "LastName": "Keeling",
+        "ForeName": "Matt J",
+        "Initials": "MJ"
+      }
+    ],
+    "DataBankList": [
+      {
+        "DataBankName": "figshare",
+        "AccessionNumberList": [
+          "10.6084/m9.figshare. c.6916117"
+        ]
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J R Soc Interface",
+    "NlmUniqueID": "101217269",
+    "ISSNLinking": "1742-5662"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Contact Tracing"
+    }
+  ],
+  "CoiStatement": "We declare we have no competing interests."
+}

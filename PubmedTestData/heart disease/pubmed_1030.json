@@ -1,0 +1,99 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "7950074",
+  "DateCompleted": {
+    "Year": "1994",
+    "Month": "12",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0195-4210",
+      "JournalIssue": {
+        "PubDate": {
+          "Year": "1994"
+        }
+      },
+      "Title": "Proceedings. Symposium on Computer Applications in Medical Care",
+      "ISOAbbreviation": "Proc Annu Symp Comput Appl Med Care"
+    },
+    "ArticleTitle": "Summarization of complex causal diagnostic hypotheses.",
+    "Pagination": {
+      "StartPage": "970",
+      "MedlinePgn": "970"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Heart Disease Program produces detailed causal diagnostic hypotheses for patients with cardiovascular diseases. This poster discusses our experience with summarizing these hypotheses for the physician. The basic approach is to merge the nodes of the structure indicating causal mechanism into the more important nodes. Analysis of the results shows that to generate effective summaries the identification of syndromes is very important, the definitions of the labels need to be carefully enforced, the causality of diseases should be supported by evidence and not just probability, and the sense of causal order must be carefully preserved."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MIT Lab for Computer Science, Cambridge."
+          }
+        ],
+        "LastName": "Long",
+        "ForeName": "W J",
+        "Initials": "WJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Naimi",
+        "ForeName": "S",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Criscitiello",
+        "ForeName": "M G",
+        "Initials": "MG"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Annu Symp Comput Appl Med Care",
+    "NlmUniqueID": "8113685",
+    "ISSNLinking": "0195-4210"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "etiology"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    }
+  ]
+}

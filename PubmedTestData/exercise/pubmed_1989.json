@@ -1,0 +1,191 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "high-impact exercises",
+      "inertial measurement units",
+      "jumping exercises",
+      "osteoporosis",
+      "wearable motion-tracking sensors"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36850874",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "02",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2276",
+      "10.3390/s23042276"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb",
+          "Day": "17"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Correlation of Acceleration Curves in Gravitational Direction for Different Body Segments during High-Impact Jumping Exercises.",
+    "Abstract": {
+      "AbstractText": [
+        "Osteoporosis is a common disease of old age. However, in many cases, it can be very well prevented and counteracted with physical activity, especially high-impact exercises. Wearables have the potential to provide data that can help with continuous monitoring of patients during therapy phases or preventive exercise programs in everyday life. This study aimed to determine the accuracy and reliability of measured acceleration data at different body positions compared to accelerations at the pelvis during different jumping exercises. Accelerations at the hips have been investigated in previous studies with regard to osteoporosis prevention. Data were collected using an IMU-based motion capture system (Xsens) consisting of 17 sensors. Forty-nine subjects were included in this study. The analysis shows the correlation between impacts and the corresponding drop height, which are dependent on the respective exercise. Very high correlations (0.83-0.94) were found between accelerations at the pelvis and the other measured segments at the upper body. The foot sensors provided very weak correlations (0.20-0.27). Accelerations measured at the pelvis during jumping exercises can be tracked very well on the upper body and upper extremities, including locations where smart devices are typically worn, which gives possibilities for remote and continuous monitoring of programs."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9147-0697"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Biomechanics, OTH Regensburg, 93053 Regensburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Regensburg Center of Biomedical Engineering (RCBE), OTH Regensburg and University of Regensburg, 93053 Regensburg, Germany."
+          }
+        ],
+        "LastName": "Reinker",
+        "ForeName": "Lukas",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0326-8574"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Prevention Research and Social Medicine, Institute for Community Medicine, University Medicine Greifswald, Walther-Rathenau-Str. 48, 17475 Greifswald, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Centre for Cardiovascular Research (DZHK), Partner Site Greifswald, 17475 Greifswald, Germany."
+          }
+        ],
+        "LastName": "Bl\u00e4sing",
+        "ForeName": "Dominic",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sensorik-ApplikationsZentrum, OTH Regensburg, 93053 Regensburg, Germany."
+          }
+        ],
+        "LastName": "Bierl",
+        "ForeName": "Rudolf",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Prevention Research and Social Medicine, Institute for Community Medicine, University Medicine Greifswald, Walther-Rathenau-Str. 48, 17475 Greifswald, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Centre for Cardiovascular Research (DZHK), Partner Site Greifswald, 17475 Greifswald, Germany."
+          }
+        ],
+        "LastName": "Ulbricht",
+        "ForeName": "Sabina",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Biomechanics, OTH Regensburg, 93053 Regensburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Regensburg Center of Biomedical Engineering (RCBE), OTH Regensburg and University of Regensburg, 93053 Regensburg, Germany."
+          }
+        ],
+        "LastName": "Dendorfer",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "81Z0400105",
+        "Agency": "DHZK fond for behavioral cardiovascular diseases",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Acceleration"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Osteoporosis"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

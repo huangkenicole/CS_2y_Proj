@@ -1,0 +1,198 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26837275",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "01",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "02",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "20567",
+      "10.1038/srep20567"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "6",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Feb",
+          "Day": "03"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Transcriptional Profiles from Paired Normal Samples Offer Complementary Information on Cancer Patient Survival--Evidence from TCGA Pan-Cancer Data.",
+    "Pagination": {
+      "StartPage": "20567",
+      "MedlinePgn": "20567"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Although normal tissue samples adjacent to tumors are sometimes collected from patients in cancer studies, they are often used as normal controls to identify genes differentially expressed between tumor and normal samples. However, it is in general more difficult to obtain and clearly define paired normal samples, and whether these samples should be treated as \"normal\" due to their close proximity to tumors. In this article, by analyzing the accrued data in The Cancer Genome Atlas (TCGA), we show the surprising results that the paired normal samples are in general more informative on patient survival than tumors. Different lines of evidence suggest that this is likely due to tumor micro-environment instead of tumor cell contamination or field cancerization effect. Pathway analyses suggest that tumor micro-environment may play an important role in cancer patient survival either by boosting the adjacent metabolism or the in situ immunization. Our results suggest the potential benefit of collecting and profiling matched normal tissues to gain more insights on disease etiology and patient progression."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Xiu",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, School of Medicine, Yale University, New Haven, CT 06520, USA."
+          }
+        ],
+        "LastName": "Stern",
+        "ForeName": "David F",
+        "Initials": "DF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Program in Computational Biology and Bioinformatics, Yale University, New Haven, CT 06520, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, Yale School of Public Health, New Haven, CT 06520, USA."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Hongyu",
+        "Initials": "H"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "UL1 TR001863",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "GM059507",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "CA154295",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P01 CA154295",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA016359",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 GM059507",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tumor Microenvironment"
+    }
+  ]
+}

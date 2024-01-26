@@ -1,0 +1,439 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "multi-omics integrative analysis",
+      "multiplex drug repurposing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34009288",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab114",
+      "10.1093/bib/bbab114"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Multi-omics data integration and network-based analysis drives a multiplex drug repurposing approach to a shortlist of candidate drugs against COVID-19.",
+    "Abstract": {
+      "AbstractText": [
+        "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic is undeniably the most severe global health emergency since the 1918 Influenza outbreak. Depending on its evolutionary trajectory, the virus is expected to establish itself as an endemic infectious respiratory disease exhibiting seasonal flare-ups. Therefore, despite the unprecedented rally to reach a vaccine that can offer widespread immunization, it is equally important to reach effective prevention and treatment regimens for coronavirus disease 2019 (COVID-19). Contributing to this effort, we have curated and analyzed multi-source and multi-omics publicly available data from patients, cell lines and databases in order to fuel a multiplex computational drug repurposing approach. We devised a network-based integration of multi-omic data to prioritize the most important genes related to COVID-19 and subsequently re-rank the identified candidate drugs. Our approach resulted in a highly informed integrated drug shortlist by combining structural diversity filtering along with experts' curation and drug-target mapping on the depicted molecular pathways. In addition to the recently proposed drugs that are already generating promising results such as dexamethasone and remdesivir, our list includes inhibitors of Src tyrosine kinase (bosutinib, dasatinib, cytarabine and saracatinib), which appear to be involved in multiple COVID-19 pathophysiological mechanisms. In addition, we highlight specific immunomodulators and anti-inflammatory drugs like dactolisib and methotrexate and inhibitors of histone deacetylase like hydroquinone and vorinostat with potential beneficial effects in their mechanisms of action. Overall, this multiplex drug repurposing approach, developed and utilized herein specifically for SARS-CoV-2, can offer a rapid mapping and drug prioritization against any pathogen-related disease."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Neurogenetics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          }
+        ],
+        "LastName": "Tomazou",
+        "ForeName": "Marios",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Pharmacology, Faculty of Medicine, Democritus University of Thrace, Greece."
+          }
+        ],
+        "LastName": "Bourdakou",
+        "ForeName": "Marilena M",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          }
+        ],
+        "LastName": "Minadakis",
+        "ForeName": "George",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          }
+        ],
+        "LastName": "Zachariou",
+        "ForeName": "Margarita",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          }
+        ],
+        "LastName": "Oulas",
+        "ForeName": "Anastasis",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari, Greece."
+          }
+        ],
+        "LastName": "Karatzas",
+        "ForeName": "Evangelos",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Fundamental Biomedical Research, BSRC \"Alexander Fleming\", Vari, Greece."
+          }
+        ],
+        "LastName": "Loizidou",
+        "ForeName": "Eleni M",
+        "Initials": "EM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Neurogenetics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          }
+        ],
+        "LastName": "Kakouri",
+        "ForeName": "Andrea C",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Neuroepidemiology Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          }
+        ],
+        "LastName": "Christodoulou",
+        "ForeName": "Christiana C",
+        "Initials": "CC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          }
+        ],
+        "LastName": "Savva",
+        "ForeName": "Kyriaki",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Genetics, Therapeutics \u2026 Ultrastructural Pathology, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          }
+        ],
+        "LastName": "Zanti",
+        "ForeName": "Maria",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          }
+        ],
+        "LastName": "Onisiforou",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Neuroimmunology Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          }
+        ],
+        "LastName": "Afxenti",
+        "ForeName": "Sotiroula",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Virology, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          }
+        ],
+        "LastName": "Richter",
+        "ForeName": "Jan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Virology, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          }
+        ],
+        "LastName": "Christodoulou",
+        "ForeName": "Christina G",
+        "Initials": "CG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical School, University of Nicosia, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University Hospitals Bristol and Weston NHS Foundation Trust, United Kingdom."
+          }
+        ],
+        "LastName": "Kyprianou",
+        "ForeName": "Theodoros",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Pharmacology, Faculty of Medicine, Democritus University of Thrace, Greece."
+          }
+        ],
+        "LastName": "Kolios",
+        "ForeName": "George",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Experimental Pharmacology Laboratory, Medical School, University of Cyprus, Cyprus."
+          }
+        ],
+        "LastName": "Dietis",
+        "ForeName": "Nikolas",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, The Cyprus Institute of Neurology and Genetics, Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Cyprus School of Molecular Medicine, Cyprus."
+          }
+        ],
+        "LastName": "Spyrou",
+        "ForeName": "George M",
+        "Initials": "GM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "669026",
+        "Agency": "European Commission Research Executive Agency",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "drug effects",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

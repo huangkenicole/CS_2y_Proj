@@ -1,0 +1,200 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer",
+      "Genomics",
+      "Pan-cancer analysis",
+      "Proteomics",
+      "Targeted cancer therapy"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30442178",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "03",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "03",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "11",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "83",
+      "10.1186/s13073-018-0591-9"
+    ],
+    "Journal": {
+      "ISSN": "1756-994X",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Nov",
+          "Day": "15"
+        }
+      },
+      "Title": "Genome medicine",
+      "ISOAbbreviation": "Genome Med"
+    },
+    "ArticleTitle": "Computational analysis reveals histotype-dependent molecular profile and actionable mutation effects across cancers.",
+    "Pagination": {
+      "StartPage": "83",
+      "MedlinePgn": "83"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Comprehensive mutational profiling data now available on all major cancers have led to proposals of novel molecular tumor classifications that modify or replace the established organ- and tissue-based tumor typing. The rationale behind such molecular reclassifications is that genetic alterations underlying cancer pathology predict response to therapy and may therefore offer a more precise view on cancer than histology. The use of individual actionable mutations to select cancers for treatment across histotypes is already being tested in the so-called basket trials with variable success rates. Here, we present a computational approach that facilitates the systematic analysis of the histological context dependency of mutational effects by integrating genomic and proteomic tumor profiles across cancers.",
+        "To determine effects of oncogenic mutations on\u00a0protein profiles, we used\u00a0the\u00a0energy distance, which compares\u00a0the Euclidean distances\u00a0of protein profiles in tumors with an oncogenic mutation (inner distance) to that in tumors without the mutation (outer distance) and performed Monte Carlo simulations for the significance analysis. Finally, the proteins were ranked by their contribution to profile differences to identify proteins characteristic of oncogenic mutation effects across cancers.",
+        "We apply our approach to four current proposals of molecular tumor classifications and major therapeutically relevant actionable genes. All 12 actionable genes evaluated show effects on the protein level in the corresponding tumor type and showed additional mutation-related protein profiles in 21 tumor types. Moreover, our analysis identifies consistent cross-cancer effects for 4 genes (FGFR1, ERRB2, IDH1, KRAS/NRAS) in 14 tumor types. We further use cell line drug response data to validate our findings.",
+        "This computational approach can be used to identify mutational signatures that have protein-level effects and can therefore contribute to preclinical in silico tests of the efficacy of molecular classifications as well as the druggability of individual mutations. It thus supports the identification of novel targeted therapies effective across cancers and guides efficient basket trial designs."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Pathology, Charit\u00e9 - Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin and Berlin Institute of Health, Berlin, Germany."
+          }
+        ],
+        "LastName": "Heim",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering and Computer Science, Technische Universit\u00e4t Berlin, Marchstr. 23, 10587, Berlin, Germany."
+          }
+        ],
+        "LastName": "Montavon",
+        "ForeName": "Gr\u00e9goire",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Pathology, Charit\u00e9 - Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin and Berlin Institute of Health, Berlin, Germany."
+          }
+        ],
+        "LastName": "Hufnagl",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering and Computer Science, Technische Universit\u00e4t Berlin, Marchstr. 23, 10587, Berlin, Germany. klaus-robert.mueller@tu-berlin.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Machine Learning Group, Berlin Institute of Technology, Marchstr. 23, 10587, Berlin, Germany. klaus-robert.mueller@tu-berlin.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bernstein Focus Neurotechnology, Berlin, Germany. klaus-robert.mueller@tu-berlin.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Informatics, Stuhlsatzenhausweg, 66123, Saarbr\u00fccken, Germany. klaus-robert.mueller@tu-berlin.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Brain and Cognitive Engineering, Korea University, Anam-dong, Seongbuk-gu, Seoul, 02841, South Korea. klaus-robert.mueller@tu-berlin.de."
+          }
+        ],
+        "LastName": "M\u00fcller",
+        "ForeName": "Klaus-Robert",
+        "Initials": "KR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Pathology, Charit\u00e9 - Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin and Berlin Institute of Health, Berlin, Germany. frederick.klauschen@charite.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Cancer Consortium (DKTK), Partner Site Berlin, Berlin, Germany. frederick.klauschen@charite.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Cancer Research Center (DKFZ), Heidelberg, Germany. frederick.klauschen@charite.de."
+          }
+        ],
+        "LastName": "Klauschen",
+        "ForeName": "Frederick",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Genome Med",
+    "NlmUniqueID": "101475844",
+    "ISSNLinking": "1756-994X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Monte Carlo Method"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteomics"
+    }
+  ],
+  "CoiStatement": "ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare that they have no competing interests. PUBLISHER\u2019S NOTE: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+}

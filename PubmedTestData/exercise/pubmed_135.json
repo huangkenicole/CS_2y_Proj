@@ -1,0 +1,164 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "attention",
+      "digital image processing",
+      "eye movement",
+      "physical exercise",
+      "reading speed",
+      "standardized tests"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36314776",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "10",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2800",
+      "10.1002/brb3.2800"
+    ],
+    "Journal": {
+      "ISSN": "2162-3279",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Brain and behavior",
+      "ISOAbbreviation": "Brain Behav"
+    },
+    "ArticleTitle": "Evaluating the effectiveness of physical exercise in improving standardized testing performances through attention indices.",
+    "Pagination": {
+      "StartPage": "e2800",
+      "MedlinePgn": "e2800"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In the United States, standardized tests have risen in prevalence, extending their importance from education placement to employment. Attention is crucial to improving testing performance. Past studies have established that acute, coordinative, aerobic exercise improves attention, which is measured by the D2 Attention Test, emotional analysis, reading time, and eye movement tracking. No studies have drawn connections between physical exercise's quantifiable improvement in attention to improvements in standardized tests; therefore, this study would attempt to do so.",
+        "This study defines attention to be positively related to reading speed and negatively related to the number of eye drifts. High school students were selected to read and answer two reading passages from an SAT (Scholastic Assessment Test) exam, before and after a short 80% intensity run. Their reading times, facial video, and test scores were recorded. Dlib plots the facial landmark and OpenCV tracks movement of the pupil.",
+        "Through paired-samples t-tests, this study found out that after exercise, subjects displayed increased reading speed and fewer eye drifts, coupled with increased mean scores.",
+        "Thus, this study demonstrated that running, as an acute, coordinative, aerobic exercise, helps increase the testing performance of the SAT reading section by measuring attention. Future research could focus on including head movement as an attention index, replicate the experiment on different standardized tests or exercises, and conduct natural experiments to better simulate real-life conditions to increase applicability."
+      ],
+      "CopyrightInformation": "\u00a9 2022 The Authors. Brain and Behavior published by Wiley Periodicals LLC."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-7570-5679"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Science, Pacific American School, Hsinchu, Taiwan."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Jeffrey",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5373-1697"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Science, Pacific American School, Hsinchu, Taiwan."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Hubert",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2448-8816"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Whiting School of Engineering, Johns Hopkins University, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Chang",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science, Georgia Institute of Technology, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Ho",
+        "ForeName": "Jocelyn",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Brain Behav",
+    "NlmUniqueID": "101570837"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Eye Movements"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Students"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Face"
+    }
+  ]
+}

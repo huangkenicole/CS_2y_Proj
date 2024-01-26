@@ -1,0 +1,156 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Electronic medication management",
+      "Electronic patient records",
+      "Health informatics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31437627",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "08",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2019.103388",
+      "S0010-4825(19)30265-3"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "113",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Designing digital prescribing: A new approach with branch diagrams.",
+    "Pagination": {
+      "StartPage": "103388",
+      "MedlinePgn": "103388"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "There is ample evidence that digital prescribing improves delivery of care and reduces harm, but there is not much guidance on how to design a solution.",
+        "This was written to provide a Blueprint to organisations creating electronic medication management solutions.",
+        "We created a full set of electronic prescribing Functional Requirement User Stories (FRUS's) to guide the design of a digital prescribing solution. The scoping exercise was completed delivering over 900 individual FRUS's in a structured manner. The design of the FRUS's began at the most general level and at each level each story was broken into its subsequent branching parts, in tree diagram style, to become progressively more detailed. All FRUS's needed, at a minimum, four levels of detail to be fully described to a degree adequate enough to build software for, with some needing up to seven levels to be fully described.",
+        "The full content of the branching diagram of Functional Requirement User Stories (FRUS's) can be found at http://bit.ly/ElectronicMedsMan-FRUS. This approach to designing the requirements reduced the operational time for design by 75% and improving the completeness of the dataset by 47%. The full output link is provided to facilitate a further reduction in that time.",
+        "Using a branching, structured approach to designing the requirements of an electronic prescribing system was more accurate and more efficient. This approach can be used for other digital health solutions as well as prescribing. We have shared the output database free of charge."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2019 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EPR Liverpool, Aintree Hospitals NHS Foundation Trust, Royal Liverpool and Broadgreen NHS Trust, Liverpool Women's NHS Trust, UK; University College London Hospital NHS Foundation Trust, UK; MedApps Pty Ltd, Australia. Electronic address: apamekhail@gmail.com."
+          }
+        ],
+        "LastName": "Mekhail",
+        "ForeName": "Ann-Marie",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EPR Liverpool, Aintree Hospitals NHS Foundation Trust, Royal Liverpool and Broadgreen NHS Trust, Liverpool Women's NHS Trust, UK."
+          }
+        ],
+        "LastName": "Peasley",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EPR Liverpool, Aintree Hospitals NHS Foundation Trust, Royal Liverpool and Broadgreen NHS Trust, Liverpool Women's NHS Trust, UK."
+          }
+        ],
+        "LastName": "Lewis",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EPR Liverpool, Aintree Hospitals NHS Foundation Trust, Royal Liverpool and Broadgreen NHS Trust, Liverpool Women's NHS Trust, UK."
+          }
+        ],
+        "LastName": "Taylor",
+        "ForeName": "Joanne",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EPR Liverpool, Aintree Hospitals NHS Foundation Trust, Royal Liverpool and Broadgreen NHS Trust, Liverpool Women's NHS Trust, UK."
+          }
+        ],
+        "LastName": "Charters",
+        "ForeName": "Clare",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electronic Prescribing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "User-Computer Interface"
+    }
+  ]
+}

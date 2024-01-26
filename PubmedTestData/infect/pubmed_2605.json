@@ -1,0 +1,153 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "8375151",
+  "DateCompleted": {
+    "Year": "1993",
+    "Month": "10",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "09",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0010-4825",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "1993",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Computer simulation of alternative sampling strategies to estimate risk of infection from Cryptosporidium.",
+    "Pagination": {
+      "StartPage": "283",
+      "EndPage": "294",
+      "MedlinePgn": "283-94"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Estimation of acceptably safe levels of biological contaminants in drinking water requires fitting a mathematical model to infection rates observed in small samples of human subjects. Because of obvious constraints on exposing human subjects to infective conditions, it is not feasible to compare the utilities of alternative sampling strategies and research designs using data from real experiments. Computer simulation methods were used to generate sample data having known probabilities of infection determined by an exponential or log-linear infectivity model. Experimental conditions that were examined included variations in the total available sample size, strategies for allocating subjects among different test concentrations, and methods for fitting a prediction model to the observed data. Results confirmed that data obtained by exposing most subjects to a concentration that produces an infection rate approximating 50% and calculating the sample regression coefficient for the log-linear model as the average infectivity-to-concentration ratio provided the best estimates of safe concentration. Exposing a single subject to each successively higher test level until an initial infection is observed, and exposing all remaining subjects at that level, or an adjacent log-concentration level is a tactic supported by the empirical results."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical School, University of Texas Health Science Center, Houston T1030."
+          }
+        ],
+        "LastName": "Atlas",
+        "ForeName": "R S",
+        "Initials": "RS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "DuPont",
+        "ForeName": "H L",
+        "Initials": "HL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Overall",
+        "ForeName": "J E",
+        "Initials": "JE"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "MO1-RR-02558",
+        "Acronym": "RR",
+        "Agency": "NCRR NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Cryptosporidiosis"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Cryptosporidium"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Linear Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Regression Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sampling Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Water Microbiology"
+    }
+  ]
+}

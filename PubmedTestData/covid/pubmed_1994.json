@@ -1,0 +1,366 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38012215",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "11",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "20832",
+      "10.1038/s41598-023-47289-0"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Nov",
+          "Day": "27"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "VarLOCK: sequencing-independent, rapid detection of SARS-CoV-2 variants of concern for point-of-care testing, qPCR pipelines and national wastewater surveillance.",
+    "Pagination": {
+      "StartPage": "20832",
+      "MedlinePgn": "20832"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic demonstrated the need for rapid molecular diagnostics. Vaccination programs can provide protection and facilitate the opening of society, but newly emergent and existing viral variants capable of evading the immune system endanger their efficacy. Effective surveillance for Variants of Concern (VOC) is therefore important. Rapid and specific molecular diagnostics can provide speed and coverage advantages compared to genomic sequencing alone, benefitting the public health response and facilitating VOC containment. Here we expand the recently developed SARS-CoV-2 CRISPR-Cas detection technology (SHERLOCK) to provide rapid and sensitive discrimination of SARS-CoV-2 VOCs that can be used at point of care, implemented in the pipelines of small or large testing facilities, and even determine the proportion of VOCs in pooled population-level wastewater samples. This technology complements sequencing efforts to allow facile and rapid identification of individuals infected with VOCs to help break infection chains. We show the optimisation of our VarLOCK assays (Variant-specific SHERLOCK) for multiple specific mutations in the S gene of SARS-CoV-2 and validation with samples from the Cardiff University Testing Service. We also show the applicability of VarLOCK to national wastewater surveillance of SARS-CoV-2 variants and the rapid adaptability of the technique for new and emerging VOCs."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Nan",
+        "ForeName": "Xinsheng",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK. hardingep@cardiff.ac.uk."
+          }
+        ],
+        "LastName": "Hardinge",
+        "ForeName": "Patrick",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Hoehn",
+        "ForeName": "Sven",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Dighe",
+        "ForeName": "Shrinivas Nivrutti",
+        "Initials": "SN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Pharmacy and Pharmaceutical Sciences, Cardiff University, Redwood Building, King Edward VII Avenue, Cardiff, CF10 3NB, UK."
+          }
+        ],
+        "LastName": "Ukeri",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Screening Service, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Pease",
+        "ForeName": "Darius F",
+        "Initials": "DF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Screening Service, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Griffin",
+        "ForeName": "Joshua",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biodexa Pharmaceuticals (Wales) Ltd, 1 Caspian Point, Caspian Way, Cardiff, CF10 4DQ, UK."
+          }
+        ],
+        "LastName": "Warrington",
+        "ForeName": "Jessica I",
+        "Initials": "JI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infection and Immunity, School of Medicine, Cardiff University, Heath Park, Cardiff, CF14 4XN, UK."
+          }
+        ],
+        "LastName": "Saud",
+        "ForeName": "Zack",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Screening Service, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Hottinger",
+        "ForeName": "Emma",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Webster",
+        "ForeName": "Gordon",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Natural Sciences, Bangor University, Bangor, Gwynedd, LL57 2UW, UK."
+          }
+        ],
+        "LastName": "Jones",
+        "ForeName": "Davey",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Screening Service, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Kille",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Weightman",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infection and Immunity, School of Medicine, Cardiff University, Heath Park, Cardiff, CF14 4XN, UK."
+          }
+        ],
+        "LastName": "Stanton",
+        "ForeName": "Richard",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Pharmacy and Pharmaceutical Sciences, Cardiff University, Redwood Building, King Edward VII Avenue, Cardiff, CF10 3NB, UK."
+          }
+        ],
+        "LastName": "Castell",
+        "ForeName": "Oliver K",
+        "Initials": "OK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK."
+          }
+        ],
+        "LastName": "Murray",
+        "ForeName": "James A H",
+        "Initials": "JAH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiff School of Biosciences, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK. jurkowskit@cardiff.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Screening Service, Cardiff University, Sir Martin Evans Building, Museum Avenue, Cardiff, CF10 3AX, UK. jurkowskit@cardiff.ac.uk."
+          }
+        ],
+        "LastName": "Jurkowski",
+        "ForeName": "Tomasz P",
+        "Initials": "TP"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MR/V028448/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "BB/W003562/1",
+        "Acronym": "BB_",
+        "Agency": "Biotechnology and Biological Sciences Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Wastewater"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wastewater"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wastewater-Based Epidemiological Monitoring"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Point-of-Care Testing"
+    }
+  ],
+  "CoiStatement": "All the authors, with the exception of TPJ, declare that they have no competing interests. TPJ is a director and shareholder of a small biotech company, Magnacell Ltd which supplied the magnetic beads for the RNA extraction (BOMB protocol)."
+}

@@ -1,0 +1,234 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37408040",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "07",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "139",
+      "10.1186/s12985-023-02088-x"
+    ],
+    "Journal": {
+      "ISSN": "1743-422X",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul",
+          "Day": "05"
+        }
+      },
+      "Title": "Virology journal",
+      "ISOAbbreviation": "Virol J"
+    },
+    "ArticleTitle": "Flexible upscaling of laboratory PCR testing capacity at the Robert Koch Institute during the SARS-CoV-2 pandemic.",
+    "Pagination": {
+      "StartPage": "139",
+      "MedlinePgn": "139"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Over the course of the COVID-19 pandemic, laboratories worldwide have been facing an unprecedented increase in demand for PCR testing because of the high importance of diagnostics for prevention and control of virus spread. Moreover, testing demand has been varying considerably over time, depending on the epidemiological situation, rendering efficient resource allocation difficult. Here, we present a scalable workflow which we implemented in our laboratory to increase PCR testing capacity while maintaining high flexibility regarding the number of samples to be processed.",
+        "We compared the performance of five automated extraction instruments, using dilutions of SARS-CoV-2 cell culture supernatant as well as clinical samples. To increase PCR throughput, we combined the two duplex PCR reactions of our previously published SARS-CoV-2 PCR assay into one quadruplex reaction and compared their limit of detection as well as their performance on the detection of low viral loads in clinical samples. Furthermore, we developed a sample pooling protocol with either two or four samples per pool, combined with a specifically adapted SARS-CoV-2 quadruplex PCR assay, and compared the diagnostic sensitivity of pooled testing and individual testing.",
+        "All tested automated extraction instruments yielded comparable results regarding the subsequent sensitivity of SARS-CoV-2 detection by PCR. While the limit of detection of the quadruplex SARS-CoV-2 PCR assay (E-Gene assay: 28.7 genome equivalents (ge)/reaction, orf1ab assay: 32.0 ge/reaction) was slightly higher than that of our previously published duplex PCR assays (E-Gene assay: 9.8 ge/reaction, orf1ab assay: 6.6 ge/reaction), the rate of correctly identified positive patient samples was comparable for both assays. Sample pooling with optimized downstream quadruplex PCR showed no loss in diagnostic sensitivity compared to individual testing.",
+        "Specific adaptation of PCR assays can help overcome the potential loss of sensitivity due to higher levels of PCR multiplexing or sample dilution in pooled testing. Combining these adapted PCR assays with different sample processing strategies provides a simple and highly adjustable workflow for resource-efficient SARS-CoV-2 diagnostics. The presented principles can easily be adopted in a variety of laboratory settings as well as be adapted to pathogens other than SARS-CoV-2, making it feasible for any laboratory that conducts PCR diagnostics."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biological Threats and Special Pathogens, Unit Highly Pathogenic Viruses (ZBS 1), WHO Collaborating Centre for Emerging Infections and Biological Threats, WHO Reference Laboratory for SARS-CoV-2, Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany. krausee@rki.de."
+          }
+        ],
+        "LastName": "Krause",
+        "ForeName": "Eva",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biological Threats and Special Pathogens, Unit Highly Pathogenic Viruses (ZBS 1), WHO Collaborating Centre for Emerging Infections and Biological Threats, WHO Reference Laboratory for SARS-CoV-2, Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany."
+          }
+        ],
+        "LastName": "Michel",
+        "ForeName": "Janine",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biological Threats and Special Pathogens, Unit Highly Pathogenic Viruses (ZBS 1), WHO Collaborating Centre for Emerging Infections and Biological Threats, WHO Reference Laboratory for SARS-CoV-2, Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany."
+          }
+        ],
+        "LastName": "Puyskens",
+        "ForeName": "Andreas",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biological Threats and Special Pathogens, Unit Highly Pathogenic Viruses (ZBS 1), WHO Collaborating Centre for Emerging Infections and Biological Threats, WHO Reference Laboratory for SARS-CoV-2, Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany."
+          }
+        ],
+        "LastName": "Hofmann",
+        "ForeName": "Natalie",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biological Threats and Special Pathogens, Unit Highly Pathogenic Viruses (ZBS 1), WHO Collaborating Centre for Emerging Infections and Biological Threats, WHO Reference Laboratory for SARS-CoV-2, Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany."
+          }
+        ],
+        "LastName": "Rinner",
+        "ForeName": "Thomas",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department for Infectious Diseases, Unit Influenza and Other Respiratory Viruses (FG 17), Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany."
+          }
+        ],
+        "LastName": "Biere",
+        "ForeName": "Barbara",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biological Threats and Special Pathogens, Unit Biological Toxins (ZBS 3), WHO Collaborating Centre for Emerging Infections and Biological Threats, Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany."
+          }
+        ],
+        "LastName": "Dorner",
+        "ForeName": "Brigitte G",
+        "Initials": "BG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biological Threats and Special Pathogens, Unit Biological Toxins (ZBS 3), WHO Collaborating Centre for Emerging Infections and Biological Threats, Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany."
+          }
+        ],
+        "LastName": "Skiba",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biological Threats and Special Pathogens, Unit Highly Pathogenic Viruses (ZBS 1), WHO Collaborating Centre for Emerging Infections and Biological Threats, WHO Reference Laboratory for SARS-CoV-2, Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany."
+          }
+        ],
+        "LastName": "Schaade",
+        "ForeName": "Lars",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biological Threats and Special Pathogens, Unit Highly Pathogenic Viruses (ZBS 1), WHO Collaborating Centre for Emerging Infections and Biological Threats, WHO Reference Laboratory for SARS-CoV-2, Robert Koch Institute, Seestrasse 10, 13353, Berlin, Germany."
+          }
+        ],
+        "LastName": "Nitsche",
+        "ForeName": "Andreas",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Virol J",
+    "NlmUniqueID": "101231645",
+    "ISSNLinking": "1743-422X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ],
+  "CoiStatement": "The authors declare to have no competing interests."
+}

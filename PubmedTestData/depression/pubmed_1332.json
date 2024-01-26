@@ -1,0 +1,180 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Depression",
+      "Granger causality",
+      "Magnetoencephalography",
+      "Pattern classification",
+      "Sad face"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "23994212",
+  "DateCompleted": {
+    "Year": "2014",
+    "Month": "05",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2013",
+    "Month": "09",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2013",
+        "Month": "08",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.brainres.2013.08.033",
+      "S0006-8993(13)01170-0"
+    ],
+    "Journal": {
+      "ISSN": "1872-6240",
+      "JournalIssue": {
+        "Volume": "1535",
+        "PubDate": {
+          "Year": "2013",
+          "Month": "Oct",
+          "Day": "16"
+        }
+      },
+      "Title": "Brain research",
+      "ISOAbbreviation": "Brain Res"
+    },
+    "ArticleTitle": "Predicting depression based on dynamic regional connectivity: a windowed Granger causality analysis of MEG recordings.",
+    "Pagination": {
+      "StartPage": "52",
+      "EndPage": "60",
+      "MedlinePgn": "52-60"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Abnormal inter-regional causalities can be mapped for the objective diagnosis of various diseases. These inter-regional connectivities are usually calculated over an entire scan and used to characterize the stationary strength of the connections. However, the connectivity within networks may undergo substantial changes during a scan. In this study, we developed an objective depression recognition approach using the dynamic regional interactions that occur in response to sad facial stimuli. The whole time-period magnetoencephalography (MEG) signals from the visual cortex, amygdala, anterior cingulate cortex (ACC) and inferior frontal gyrus (IFG) were separated into sequential time intervals. The Granger causality mapping method was used to identify the pairwise interaction pattern within each time interval. Feature selection was then undertaken within a minimum redundancy-maximum relevance (mRMR) framework. Typical classifiers were utilized to predict those patients who had depression. The overall performances of these classifiers were similar, and the highest classification accuracy rate was 87.5%. The best discriminative performance was obtained when the number of features was within a robust range. The discriminative network pattern obtained through support vector machine (SVM) analyses displayed abnormal causal connectivities that involved the amygdala during the early and late stages. These early and late connections in the amygdala appear to reveal a negative bias to coarse expression information processing and abnormal negative modulation in patients with depression, which may critically affect depression discrimination."
+      ],
+      "CopyrightInformation": "\u00a9 2013 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre for Learning Science, Southeast University, Nanjing 210096, China. Electronic address: luq@seu.edu.cn."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Qing",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bi",
+        "ForeName": "Kun",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Liu",
+        "ForeName": "Chu",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Luo",
+        "ForeName": "Guoping",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tang",
+        "ForeName": "Hao",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yao",
+        "ForeName": "Zhijian",
+        "Initials": "Z"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Brain Res",
+    "NlmUniqueID": "0045503",
+    "ISSNLinking": "0006-8993"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Brain"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology"
+      ],
+      "DescriptorName": "Depressive Disorder"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Emotions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Magnetoencephalography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Nerve Net"
+    }
+  ]
+}

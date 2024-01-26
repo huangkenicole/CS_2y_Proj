@@ -1,0 +1,188 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Digital intervention",
+      "Generalized anxiety disorder",
+      "Machine learning",
+      "Personalized mental health care",
+      "Worry dynamics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36167247",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "09",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jad.2022.09.112",
+      "S0165-0327(22)01112-0"
+    ],
+    "Journal": {
+      "ISSN": "1573-2517",
+      "JournalIssue": {
+        "Volume": "320",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jan",
+          "Day": "01"
+        }
+      },
+      "Title": "Journal of affective disorders",
+      "ISOAbbreviation": "J Affect Disord"
+    },
+    "ArticleTitle": "Applying ensemble machine learning models to predict individual response to a digitally delivered worry postponement intervention.",
+    "Pagination": {
+      "StartPage": "201",
+      "EndPage": "210",
+      "MedlinePgn": "201-210"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Generalized anxiety disorder (GAD) is a prevalent mental health disorder that often goes untreated. A core aspect of GAD is worry, which is associated with negative health outcomes, accentuating a need for simple treatments for worry. The present study leveraged pretreatment individual differences to predict personalized treatment response to a digital intervention.",
+        "Linear mixed-effect models were used to model changes in daytime and nighttime worry duration and frequency for 163 participants who completed a six-day worry postponement intervention. Ensemble-based machine learning regression and classification models were implemented to predict changes in worry across the intervention. Model feature importance was derived using SHapley Additive exPlanation (SHAP).",
+        "Moderate predictive performance was obtained for predicting changes in daytime worry duration (test r<sup>2</sup>\u00a0=\u00a00.221, AUC\u00a0=\u00a00.77) and nighttime worry frequency (test r<sup>2</sup>\u00a0=\u00a00.164, AUC\u00a0=\u00a00.72), while poor predictive performance was obtained for nighttime worry duration and daytime worry frequency. Baseline levels of worry and subjective health complaints were most important in driving model predictions.",
+        "A complete-case analysis was leveraged to analyze the present data, which was collected from participants that were Dutch and majority female.",
+        "This study suggests that treatment response to a digital intervention for GAD can be accurately predicted using baseline characteristics. Particularly, this worry postponement intervention may be most beneficial for individuals with high baseline worry but fewer subjective health complaints. The present findings highlight the complexities of and need for further research into daily worry dynamics and the personalizable utility of digital interventions."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Geisel School of Medicine, Dartmouth College, Lebanon, NH, United States; Mathematical Data Science Program, Dartmouth College, Hanover, NH, United States. Electronic address: joseph.a.gyorda.22@dartmouth.edu."
+          }
+        ],
+        "LastName": "Gyorda",
+        "ForeName": "Joseph A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Geisel School of Medicine, Dartmouth College, Lebanon, NH, United States; Quantitative Biomedical Sciences Program, Dartmouth College, Hanover, NH, United States."
+          }
+        ],
+        "LastName": "Nemesure",
+        "ForeName": "Matthew D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Geisel School of Medicine, Dartmouth College, Lebanon, NH, United States; Quantitative Biomedical Sciences Program, Dartmouth College, Hanover, NH, United States."
+          }
+        ],
+        "LastName": "Price",
+        "ForeName": "George",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Geisel School of Medicine, Dartmouth College, Lebanon, NH, United States; Quantitative Biomedical Sciences Program, Dartmouth College, Hanover, NH, United States; Department of Biomedical Data Science, Geisel School of Medicine, Dartmouth College, Lebanon, NH, United States; Department of Psychiatry, Geisel School of Medicine, Dartmouth College, Hanover, NH, United States."
+          }
+        ],
+        "LastName": "Jacobson",
+        "ForeName": "Nicholas C",
+        "Initials": "NC"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 DA029926",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 MH123482",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 DA037202",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "J Affect Disord",
+    "NlmUniqueID": "7906073",
+    "ISSNLinking": "0165-0327"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "therapy",
+        "psychology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [
+        "therapy",
+        "psychology"
+      ],
+      "DescriptorName": "Anxiety Disorders"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnostic Self Evaluation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "Conflict of interest The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article."
+}

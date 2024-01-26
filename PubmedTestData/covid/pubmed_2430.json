@@ -1,0 +1,176 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Illumina sequencing",
+      "SARS-CoV-2",
+      "cloud repurposing",
+      "cloud workflow",
+      "parallel computation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37738400",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbad280",
+      "10.1093/bib/bbad280"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep",
+          "Day": "20"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "COWID: an efficient cloud-based genomics workflow for scalable identification of SARS-COV-2.",
+    "Abstract": {
+      "AbstractText": [
+        "Implementing a specific cloud resource to analyze extensive genomic data on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) poses a challenge when resources are limited. To overcome this, we repurposed a cloud platform initially designed for use in research on cancer genomics (https://cgc.sbgenomics.com) to enable its use in research on SARS-CoV-2 to build Cloud Workflow for Viral and Variant Identification (COWID). COWID is a workflow based on the Common Workflow Language that realizes the full potential of sequencing technology for use in reliable SARS-CoV-2 identification and leverages cloud computing to achieve efficient parallelization. COWID outperformed other contemporary methods for identification by offering scalable identification and reliable variant findings with no false-positive results. COWID typically processed each sample of raw sequencing data within 5\u00a0min at a cost of only US$0.01. The COWID source code is publicly available (https://github.com/hendrick0403/COWID) and can be accessed on any computer with Internet access. COWID is designed to be user-friendly; it can be implemented without prior programming knowledge. Therefore, COWID is a time-efficient tool that can be used during a pandemic."
+      ],
+      "CopyrightInformation": "Published by Oxford University Press 2023."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7963-4174"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate Institute of Biomedical Informatics, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan 11031."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Research, Tzu Chi Hospital Indonesia, Pantai Indah Kapuk, Greater Jakarta, Indonesia 14470."
+          }
+        ],
+        "LastName": "Lim",
+        "ForeName": "Hendrick Gao-Min",
+        "Initials": "HG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IT and Bioinformatics Program, Division of Intramural, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA 20892."
+          }
+        ],
+        "LastName": "Fann",
+        "ForeName": "Yang C",
+        "Initials": "YC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5074-7941"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate Institute of Biomedical Informatics, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan 11031."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Yuan-Chii Gladys",
+        "Initials": "YG"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "HHSN261201400008C",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "ZIC NS009443",
+        "Acronym": "ImNIH",
+        "Agency": "Intramural NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "HHSN261201500003I",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "75N91019D00024",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Intramural",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cloud Computing"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Workflow"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "18366613",
+  "DateCompleted": {
+    "Year": "2008",
+    "Month": "06",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1186/1471-2164-9-S1-S23"
+    ],
+    "Journal": {
+      "ISSN": "1471-2164",
+      "JournalIssue": {
+        "Volume": "9 Suppl 1",
+        "Issue": "Suppl 1",
+        "PubDate": {
+          "Year": "2008"
+        }
+      },
+      "Title": "BMC genomics",
+      "ISOAbbreviation": "BMC Genomics"
+    },
+    "ArticleTitle": "A hybrid machine learning-based method for classifying the Cushing's Syndrome with comorbid adrenocortical lesions.",
+    "Pagination": {
+      "StartPage": "S23",
+      "MedlinePgn": "S23"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The prognosis for many cancers could be improved dramatically if they could be detected while still at the microscopic disease stage. It follows from a comprehensive statistical analysis that a number of antigens such as hTERT, PCNA and Ki-67 can be considered as cancer markers, while another set of antigens such as P27KIP1 and FHIT are possible markers for normal tissue. Because more than one marker must be considered to obtain a classification of cancer or no cancer, and if cancer, to classify it as malignant, borderline, or benign, we must develop an intelligent decision system that can fullfill such an unmet medical need.",
+        "We have developed an intelligent decision system using machine learning techniques and markers to characterize tissue as cancerous, non-cancerous or borderline. The system incorporates learning techniques such as variants of support vector machines, neural networks, decision trees, self-organizing feature maps (SOFM) and recursive maximum contrast trees (RMCT). These variants and algorithms we have developed, tend to detect microscopic pathological changes based on features derived from gene expression levels and metabolic profiles. We have also used immunohistochemistry techniques to measure the gene expression profiles from a number of antigens such as cyclin E, P27KIP1, FHIT, Ki-67, PCNA, Bax, Bcl-2, P53, Fas, FasL and hTERT in several particular types of neuroendocrine tumors such as pheochromocytomas, paragangliomas, and the adrenocortical carcinomas (ACC), adenomas (ACA), and hyperplasia (ACH) involved with Cushing's syndrome. We provided statistical evidence that higher expression levels of hTERT, PCNA and Ki-67 etc. are associated with a higher risk that the tumors are malignant or borderline as opposed to benign. We also investigated whether higher expression levels of P27KIP1 and FHIT, etc., are associated with a decreased risk of adrenomedullary tumors. While no significant difference was found between cell-arrest antigens such as P27KIP1 for malignant, borderline, and benign tumors, there was a significant difference between expression levels of such antigens in normal adrenal medulla samples and in adrenomedullary tumors.",
+        "Our frame work focused on not only different classification schemes and feature selection algorithms, but also ensemble methods such as boosting and bagging in an effort to improve upon the accuracy of the individual classifiers. It is evident that when all sorts of machine learning and statistically learning techniques are combined appropriately into one integrated intelligent medical decision system, the prediction power can be enhanced significantly. This research has many potential applications; it might provide an alternative diagnostic tool and a better understanding of the mechanisms involved in malignant transformation as well as information that is useful for treatment planning and cancer prevention."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115, USA. jyang@bwh.harvard.edu"
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Jack Y",
+        "Initials": "JY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yang",
+        "ForeName": "Mary Qu",
+        "Initials": "MQ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Luo",
+        "ForeName": "Zuojie",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ma",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Jianling",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Deng",
+        "ForeName": "Youping",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Huang",
+        "ForeName": "Xudong",
+        "Initials": "X"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Genomics",
+    "NlmUniqueID": "100965258",
+    "ISSNLinking": "1471-2164"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proliferating Cell Nuclear Antigen"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "metabolism"
+      ],
+      "DescriptorName": "Adrenal Cortex Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "metabolism"
+      ],
+      "DescriptorName": "Cushing Syndrome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunohistochemistry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "In Situ Hybridization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Logistic Models"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Proliferating Cell Nuclear Antigen"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    }
+  ]
+}

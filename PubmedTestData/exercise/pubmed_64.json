@@ -1,0 +1,203 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "human activity recognition",
+      "machine learning",
+      "pose detection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36616961",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "12",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "363",
+      "10.3390/s23010363"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Dec",
+          "Day": "29"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Physiotherapy Exercise Classification with Single-Camera Pose Detection and Machine Learning.",
+    "Abstract": {
+      "AbstractText": [
+        "Access to healthcare, including physiotherapy, is increasingly occurring through virtual formats. At-home adherence to physical therapy programs is often poor and few tools exist to objectively measure participation. The aim of this study was to develop and evaluate the potential for performing automatic, unsupervised video-based monitoring of at-home low-back and shoulder physiotherapy exercises using a mobile phone camera. Joint locations were extracted from the videos of healthy subjects performing low-back and shoulder physiotherapy exercises using an open source pose detection framework. A convolutional neural network was trained to classify physiotherapy exercises based on the segments of keypoint time series data. The model's performance as a function of input keypoint combinations was studied in addition to its robustness to variation in the camera angle. The CNN model achieved optimal performance using a total of 12 pose estimation landmarks from the upper and lower body (low-back exercise classification: 0.995 \u00b1 0.009; shoulder exercise classification: 0.963 \u00b1 0.020). Training the CNN on a variety of angles was found to be effective in making the model robust to variations in video filming angle. This study demonstrates the feasibility of using a smartphone camera and a supervised machine learning model to effectively classify at-home physiotherapy participation and could provide a low-cost, scalable method for tracking adherence to physical therapy exercise programs in a variety of settings."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-1938-0210"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Orthopaedic Biomechanics Lab, Holland Bone and Joint Program, Sunnybrook Research Institute, Toronto, ON M4N 3M5, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Halterix Corporation, Toronto, ON M5E 1L4, Canada."
+          }
+        ],
+        "LastName": "Arrowsmith",
+        "ForeName": "Colin",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1617-596X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Orthopaedic Biomechanics Lab, Holland Bone and Joint Program, Sunnybrook Research Institute, Toronto, ON M4N 3M5, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Halterix Corporation, Toronto, ON M5E 1L4, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Orthopaedic Surgery, University of Toronto, Toronto, ON M5T 1P5, Canada."
+          }
+        ],
+        "LastName": "Burns",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Halterix Corporation, Toronto, ON M5E 1L4, Canada."
+          }
+        ],
+        "LastName": "Mak",
+        "ForeName": "Thomas",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8941-3543"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Orthopaedic Biomechanics Lab, Holland Bone and Joint Program, Sunnybrook Research Institute, Toronto, ON M4N 3M5, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Orthopaedic Surgery, University of Toronto, Toronto, ON M5T 1P5, Canada."
+          }
+        ],
+        "LastName": "Hardisty",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6822-8314"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Orthopaedic Biomechanics Lab, Holland Bone and Joint Program, Sunnybrook Research Institute, Toronto, ON M4N 3M5, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Orthopaedic Surgery, University of Toronto, Toronto, ON M5T 1P5, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, Toronto, ON M5S 3G9, Canada."
+          }
+        ],
+        "LastName": "Whyne",
+        "ForeName": "Cari",
+        "Initials": "C"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "CHRP#538866",
+        "Agency": "Canadian Institutes of Health Research and Natural Sciences and Engineering Research Council of Canada Collaborative Health Research Program",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Therapy Modalities"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "David Burns and Thomas Mak are the cofounders of and hold equity in Halterix Corporation, a digital physiotherapy company. Colin Arrowsmith worked part-time for Halterix during the completion of this study. Michael Hardisty and Cari Whyne hold equity in Halterix. Otherwise, the authors do not have any personal financial interests related to the subject matter discussed in this manuscript. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or in the decision to publish the results."
+}

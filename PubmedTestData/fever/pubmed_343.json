@@ -1,0 +1,178 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "18310530",
+  "DateCompleted": {
+    "Year": "2008",
+    "Month": "10",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2008",
+        "Month": "02",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1177/0272989X07312715"
+    ],
+    "Journal": {
+      "ISSN": "0272-989X",
+      "JournalIssue": {
+        "Volume": "28",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2008",
+          "Season": "May-Jun"
+        }
+      },
+      "Title": "Medical decision making : an international journal of the Society for Medical Decision Making",
+      "ISOAbbreviation": "Med Decis Making"
+    },
+    "ArticleTitle": "Evaluation of the GIDEON expert computer program for the diagnosis of imported febrile illnesses.",
+    "Pagination": {
+      "StartPage": "435",
+      "EndPage": "442",
+      "MedlinePgn": "435-42"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The authors evaluate the performance of the expert system Global Infectious Diseases and Epidemiology Network (GIDEON) in diagnosing febrile illnesses occurring after a stay in the tropics.",
+        "One investigator (E.B.) entered into the program the collected characteristics of 161 febrile travelers randomly extracted from a database of 1842 cases prospectively included during a study on imported fever. Accuracy was considered acceptable if the correct diagnosis appeared in the top 5 GIDEON ranking list. Interuser agreement was assessed by J.V.d.E. and J.M., who also entered the data of the first 50 sample cases with an established diagnosis.",
+        "The sample was epidemiologically and clinically representative of the whole cohort. An infectious etiology had been established in 129 cases; diagnosis was unknown in 31 cases and non-infectious in 1 case. GIDEON generated a median of 29 diagnoses per case, including 23 with a probability lower than 1%. Accuracy was acceptable in 64% of the 129 fevers with infectious etiology. It tended to decrease when more than 3 findings were entered per case. Eleven (8%) severe conditions were rejected by GIDEON because non-disease-related characteristics had been introduced. In other cases, the posttest probability was inadequately affected by the insufficient weight of absent relevant findings. Interuser agreement was good for acceptable accuracy and final ranking (kappa=0.83 and 0.72, respectively).",
+        "The performance of GIDEON in diagnosing imported fever is relatively good and reproducible but is impaired by some conceptual weaknesses. Its use might be hazardous for inexperienced physicians."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Sciences, Institute of Tropical Medicine, Antwerp, Belgium. ebottieau@itg.be"
+          }
+        ],
+        "LastName": "Bottieau",
+        "ForeName": "Emmanuel",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Moreira",
+        "ForeName": "Juan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Clerinx",
+        "ForeName": "Jan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Colebunders",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Van Gompel",
+        "ForeName": "Alfons",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Van den Ende",
+        "ForeName": "Jef",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Med Decis Making",
+    "NlmUniqueID": "8109073",
+    "ISSNLinking": "0272-989X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Belgium"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Expert Systems"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software Validation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Travel"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tropical Climate"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Metabolic programming",
+      "cancer",
+      "flux balance analysis",
+      "metabolic network",
+      "tissue-specific model"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27760488",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "12",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "08",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "08",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1757-6334",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Journal of bioinformatics and computational biology",
+      "ISOAbbreviation": "J Bioinform Comput Biol"
+    },
+    "ArticleTitle": "Systematic investigation of metabolic reprogramming in different cancers based on tissue-specific metabolic models.",
+    "Pagination": {
+      "StartPage": "1644001",
+      "MedlinePgn": "1644001"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer cells have different metabolism in contrast to normal cells. The advancement in omics measurement technology enables the genome-wide characterization of altered cellular processes in cancers, but the metabolic flux landscape of cancer is still far from understood. In this study, we compared the well-reconstructed tissue-specific models of five cancers, including breast, liver, lung, renal, and urothelial cancer, and their corresponding normal cells. There are similar patterns in majority of significantly regulated pathways and enriched pathways in correlated reaction sets. But the differences among cancers are also explicit. The renal cancer demonstrates more dramatic difference with other cancer models, including the smallest number of reactions, flux distribution patterns, and specifically correlated pathways. We also validated the predicted essential genes and revealed the Warburg effect by in silico simulation in renal cancer, which are consistent with the measurements for renal cancer. In conclusion, the tissue-specific metabolic model is more suitable to investigate the cancer metabolism. The similarity and heterogenicity of metabolic reprogramming in different cancers are crucial for understanding the aberrant mechanisms of cancer proliferation, which is fundamental for identifying drug targets and biomarkers."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "1 School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, P. R. China."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Fangzhou",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "1 School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, P. R. China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Jian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "1 School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, P. R. China."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Ying",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "1 School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai 200240, P. R. China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Zhuo",
+        "Initials": "Z"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Singapore",
+    "MedlineTA": "J Bioinform Comput Biol",
+    "NlmUniqueID": "101187344",
+    "ISSNLinking": "0219-7200"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Energy Metabolism"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Metabolic Networks and Pathways"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34856802",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acs.jctc.1c00965"
+    ],
+    "Journal": {
+      "ISSN": "1549-9626",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "14"
+        }
+      },
+      "Title": "Journal of chemical theory and computation",
+      "ISOAbbreviation": "J Chem Theory Comput"
+    },
+    "ArticleTitle": "Differential Interactions between Human ACE2 and Spike RBD of SARS-CoV-2 Variants of Concern.",
+    "Pagination": {
+      "StartPage": "7972",
+      "EndPage": "7979",
+      "MedlinePgn": "7972-7979"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative agent of the current coronavirus disease 2019 (COVID-19) pandemic. It is known that the receptor-binding domain (RBD) of the spike protein of SARS-CoV-2 interacts with the human angiotensin-converting enzyme 2 (ACE2) receptor, initiating the entry of SARS-CoV-2. Since its emergence, a number of SARS-CoV-2 variants have been reported, and the variants that show high infectivity are classified as variants of concern according to the United States Centers for Disease Control and Prevention. In this study, we performed both all-atom steered molecular dynamics (SMD) simulations and microscale thermophoresis (MST) experiments to characterize the binding interactions between ACE2 and RBD of all current variants of concern (Alpha, Beta, Gamma, and Delta) and two variants of interest (Epsilon and Kappa). We report that RBD of the Alpha (N501Y) variant requires the highest amount of force initially to be detached from ACE2 due to the N501Y mutation in addition to the role of N90-glycan, followed by Beta/Gamma (K417N/T, E484 K, and N501Y) or Delta (L452R and T478 K) variants. Among all variants investigated in this work, RBD of the Epsilon (L452R) variant is relatively easily detached from ACE2. Our results from both SMD simulations and MST experiments indicate what makes each variant more contagious in terms of RBD and ACE2 interactions. This study could shed light on developing new drugs to inhibit SARS-CoV-2 entry effectively."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1890-0061"
+        ],
+        "AffiliationInfo": [],
+        "LastName": "Kim",
+        "ForeName": "Seonghan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Liu",
+        "ForeName": "Yi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lei",
+        "ForeName": "Zewei",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dicker",
+        "ForeName": "Jeffrey",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4516-8689"
+        ],
+        "AffiliationInfo": [],
+        "LastName": "Cao",
+        "ForeName": "Yiwei",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhang",
+        "ForeName": "X Frank",
+        "Initials": "XF"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5642-6041"
+        ],
+        "AffiliationInfo": [],
+        "LastName": "Im",
+        "ForeName": "Wonpil",
+        "Initials": "W"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM138472",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R15 AI133634",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 AI163708",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Chem Theory Comput",
+    "NlmUniqueID": "101232704",
+    "ISSNLinking": "1549-9618"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "ACE2 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "Angiotensin-Converting Enzyme 2"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2021 Jul 26;:",
+      "PMID": "34341794"
+    },
+    {
+      "RefSource": "J Chem Theory Comput. 2022 Jun 14;18(6):4045-4046",
+      "PMID": "35561282"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Angiotensin-Converting Enzyme 2"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "HEK293 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Binding"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "classification",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Internalization"
+    }
+  ]
+}

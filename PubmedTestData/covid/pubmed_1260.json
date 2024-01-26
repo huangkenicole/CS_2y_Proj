@@ -1,0 +1,820 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35952712",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "08",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41586-022-05200-3"
+    ],
+    "Journal": {
+      "ISSN": "1476-4687",
+      "JournalIssue": {
+        "Volume": "610",
+        "Issue": "7930",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Nature",
+      "ISOAbbreviation": "Nature"
+    },
+    "ArticleTitle": "Context-specific emergence and growth of the SARS-CoV-2 Delta variant.",
+    "Pagination": {
+      "StartPage": "154",
+      "EndPage": "160",
+      "MedlinePgn": "154-160"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The SARS-CoV-2 Delta (Pango lineage B.1.617.2) variant of concern spread globally, causing resurgences of COVID-19 worldwide<sup>1,2</sup>. The emergence of the Delta variant in the UK occurred on the background of a heterogeneous landscape of immunity and relaxation of non-pharmaceutical interventions. Here we analyse 52,992 SARS-CoV-2 genomes from England together with 93,649 genomes from the rest of the world to reconstruct the emergence of Delta and quantify its introduction to and regional dissemination across England in the context of changing travel and social restrictions. Using analysis of human movement, contact tracing and virus genomic data, we find that the geographic focus of the expansion of Delta shifted from India to a more global pattern in early May 2021. In England, Delta lineages were introduced more than 1,000 times and spread nationally as non-pharmaceutical interventions were relaxed. We find that hotel quarantine for travellers reduced onward transmission from importations; however, the transmission chains that later dominated the Delta wave in England were seeded before travel restrictions were introduced. Increasing inter-regional travel within England drove the nationwide dissemination of Delta, with some cities receiving more than 2,000 observable lineage introductions from elsewhere. Subsequently, increased levels of local population mixing-and not the number of importations-were associated with the faster relative spread of Delta. The invasion dynamics of Delta depended on spatial heterogeneity in contact patterns, and our findings will inform optimal spatial interventions to reduce the transmission of current and future variants of concern, such as Omicron (Pango lineage B.1.1.529)."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9846-8917"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "McCrone",
+        "ForeName": "John T",
+        "Initials": "JT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "Hill",
+        "ForeName": "Verity",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Bajaj",
+        "ForeName": "Sumali",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Pena",
+        "ForeName": "Rosario Evans",
+        "Initials": "RE"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4274-4158"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Engineering, Mathematics and Physical Sciences, University of Exeter, Exeter, UK."
+          }
+        ],
+        "LastName": "Lambert",
+        "ForeName": "Ben C",
+        "Initials": "BC"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0016-661X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre of Global Infectious Disease Analysis, Jameel Institute for Disease and Emergency Analytics, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Inward",
+        "ForeName": "Rhys",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre of Global Infectious Disease Analysis, Jameel Institute for Disease and Emergency Analytics, Imperial College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Epidemiology, Department of Public Health, University of Copenhagen, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Bhatt",
+        "ForeName": "Samir",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6268-8937"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre of Global Infectious Disease Analysis, Jameel Institute for Disease and Emergency Analytics, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Volz",
+        "ForeName": "Erik",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0977-5534"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Immunity Unit, Department of Medicine, Cambridge University, Cambridge, UK."
+          }
+        ],
+        "LastName": "Ruis",
+        "ForeName": "Christopher",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Spatial Epidemiology Lab (SpELL), Universit\u00e9 Libre de Bruxelles, Bruxelles, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium."
+          }
+        ],
+        "LastName": "Dellicour",
+        "ForeName": "Simon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1915-7732"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium."
+          }
+        ],
+        "LastName": "Baele",
+        "ForeName": "Guy",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Zarebski",
+        "ForeName": "Alexander E",
+        "Initials": "AE"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0784-7098"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Google, Mountain View, CA, USA."
+          }
+        ],
+        "LastName": "Sadilek",
+        "ForeName": "Adam",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Google, Mountain View, CA, USA."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Neo",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Google, Mountain View, CA, USA."
+          }
+        ],
+        "LastName": "Schneider",
+        "ForeName": "Aaron",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7243-0865"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, School of Science and Engineering, Tulane University, New Orleans, LA, USA."
+          }
+        ],
+        "LastName": "Ji",
+        "ForeName": "Xiang",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Raghwani",
+        "ForeName": "Jayna",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9981-0649"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "Jackson",
+        "ForeName": "Ben",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5577-9897"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "Colquhoun",
+        "ForeName": "Rachel",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "O'Toole",
+        "ForeName": "\u00c1ine",
+        "Initials": "\u00c1"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7077-2928"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Imperial College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UK Health Security Agency, London, UK."
+          }
+        ],
+        "LastName": "Peacock",
+        "ForeName": "Thomas P",
+        "Initials": "TP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UK Health Security Agency, London, UK."
+          }
+        ],
+        "LastName": "Twohig",
+        "ForeName": "Kate",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0434-2724"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UK Health Security Agency, London, UK."
+          }
+        ],
+        "LastName": "Thelwall",
+        "ForeName": "Simon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UK Health Security Agency, London, UK."
+          }
+        ],
+        "LastName": "Dabrera",
+        "ForeName": "Gavin",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UK Health Security Agency, London, UK."
+          }
+        ],
+        "LastName": "Myers",
+        "ForeName": "Richard",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "COVID-19 Genomics UK (COG-UK) Consortium"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9747-8822"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre of Global Infectious Disease Analysis, Jameel Institute for Disease and Emergency Analytics, Imperial College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto de Medicina Tropical, Faculdade de Medicina da Universidade de Sao Paulo, Sao Paulo, Brazil."
+          }
+        ],
+        "LastName": "Faria",
+        "ForeName": "Nuno R",
+        "Initials": "NR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BlueDot, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Huber",
+        "ForeName": "Carmen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Divisions of Internal Medicine and Infectious Diseases, Toronto General Hospital, University Health Network, Toronto, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Division of Infectious Diseases, University of Toronto, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Bogoch",
+        "ForeName": "Isaac I",
+        "Initials": "II"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BlueDot, Toronto, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Division of Infectious Diseases, University of Toronto, Toronto, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Li Ka Shing Knowledge Institute, St Michael's Hospital, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Khan",
+        "ForeName": "Kamran",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0352-6289"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Zurich, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "du Plessis",
+        "ForeName": "Louis",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, UK."
+          }
+        ],
+        "LastName": "Barrett",
+        "ForeName": "Jeffrey C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Genomic Pathogen Surveillance, Big Data Institute, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Aanensen",
+        "ForeName": "David M",
+        "Initials": "DM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3948-0895"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Barclay",
+        "ForeName": "Wendy S",
+        "Initials": "WS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UK Health Security Agency, London, UK."
+          }
+        ],
+        "LastName": "Chand",
+        "ForeName": "Meera",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2394-6504"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pathogen Genomics Unit, Public Health Wales NHS Trust, Cardiff, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biosciences, The Sir Martin Evans Building, Cardiff University, Cardiff, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute, Norwich, UK."
+          }
+        ],
+        "LastName": "Connor",
+        "ForeName": "Thomas",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Microbiology and Infection, University of Birmingham, Birmingham, UK."
+          }
+        ],
+        "LastName": "Loman",
+        "ForeName": "Nicholas J",
+        "Initials": "NJ"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9818-479X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departments of Biostatistics, Biomathematics and Human Genetics, University of California, Los Angeles, Los Angeles, CA, USA."
+          }
+        ],
+        "LastName": "Suchard",
+        "ForeName": "Marc A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8797-2667"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK. opybus@rvc.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathobiology and Population Sciences, Royal Veterinary College London, London, UK. opybus@rvc.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pandemic Sciences Institute, University of Oxford, Oxford, UK. opybus@rvc.ac.uk."
+          }
+        ],
+        "LastName": "Pybus",
+        "ForeName": "Oliver G",
+        "Initials": "OG"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4337-3707"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK. a.rambaut@ed.ac.uk."
+          }
+        ],
+        "LastName": "Rambaut",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8838-7147"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK. moritz.kraemer@biology.ox.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pandemic Sciences Institute, University of Oxford, Oxford, UK. moritz.kraemer@biology.ox.ac.uk."
+          }
+        ],
+        "LastName": "Kraemer",
+        "ForeName": "Moritz U G",
+        "Initials": "MUG"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U19 AI135995",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "MC_PC_19012",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "R01 AI153044",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "MR/S019510/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MC_PC_19027",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "204311/Z/16/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "206298/Z/17/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "220885/Z/20/Z",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "225288/Z/22/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "725422",
+        "Acronym": "ERC_",
+        "Agency": "European Research Council",
+        "Country": "International"
+      },
+      {
+        "GrantID": "MR/W005611/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "203783/Z16/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MR/R015600/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nature",
+    "NlmUniqueID": "0410462",
+    "ISSNLinking": "0028-0836"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Res Sq. 2021 Dec 20;:",
+      "PMID": "34981043"
+    },
+    {
+      "RefSource": "medRxiv. 2021 Dec 21;:",
+      "PMID": "34981069"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Cities"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "England"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "legislation & jurisprudence"
+      ],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "growth & development",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "legislation & jurisprudence"
+      ],
+      "DescriptorName": "Travel"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

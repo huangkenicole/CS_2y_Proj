@@ -1,0 +1,263 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2 3D database",
+      "SARS-CoV-2 drug targets",
+      "SARS-CoV-2 proteome modelling",
+      "drug discovery",
+      "proteome analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33416848",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/bib/bbaa404"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "SARS-CoV-2 3D database: understanding the coronavirus proteome and evaluating possible drug targets.",
+    "Pagination": {
+      "StartPage": "769",
+      "EndPage": "780",
+      "MedlinePgn": "769-780"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a rapidly growing infectious disease, widely spread with high mortality rates. Since the release of the SARS-CoV-2 genome sequence in March 2020, there has been an international focus on developing target-based drug discovery, which also requires knowledge of the 3D structure of the proteome. Where there are no experimentally solved structures, our group has created 3D models with coverage of 97.5% and characterized them using state-of-the-art computational approaches. Models of protomers and oligomers, together with predictions of substrate and allosteric binding sites, protein-ligand docking, SARS-CoV-2 protein interactions with human proteins, impacts of mutations, and mapped solved experimental structures are freely available for download. These are implemented in SARS CoV-2 3D, a comprehensive and user-friendly database, available at https://sars3d.com/. This provides essential information for drug discovery, both to evaluate targets and design new potential therapeutics."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, at the University of Cambridge, UK."
+          }
+        ],
+        "LastName": "Alsulami",
+        "ForeName": "Ali F",
+        "Initials": "AF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Thomas",
+        "ForeName": "Sherine E",
+        "Initials": "SE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, at the University of Cambridge, UK."
+          }
+        ],
+        "LastName": "Jamasb",
+        "ForeName": "Arian R",
+        "Initials": "AR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, at the University of Cambridge, UK."
+          }
+        ],
+        "LastName": "Beaudoin",
+        "ForeName": "Christopher A",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCL Cancer Institute, University College London, UK."
+          }
+        ],
+        "LastName": "Moghul",
+        "ForeName": "Ismail",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Cambridge, UK."
+          }
+        ],
+        "LastName": "Bannerman",
+        "ForeName": "Bridget",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, at the University of Cambridge, UK."
+          }
+        ],
+        "LastName": "Copoiu",
+        "ForeName": "Liviu",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Immunity Unit, Department of Medicine University of Cambridge, MRC Laboratory of Molecular Biology, UK."
+          }
+        ],
+        "LastName": "Vedithi",
+        "ForeName": "Sundeep Chaitanya",
+        "Initials": "SC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Modelagem e Din\u00e2mica Molecular, Instituto de Biof\u00edsica Carlos Chagas Filho, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brasil."
+          }
+        ],
+        "LastName": "Torres",
+        "ForeName": "Pedro",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Cambridge."
+          }
+        ],
+        "LastName": "Blundell",
+        "ForeName": "Tom L",
+        "Initials": "TL"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "200814/Z/16/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "BB/M011194/1",
+        "Acronym": "BB_",
+        "Agency": "Biotechnology and Biological Sciences Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteome"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Protein"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Delivery Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteome"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

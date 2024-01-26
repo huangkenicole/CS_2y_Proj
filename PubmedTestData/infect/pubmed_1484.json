@@ -1,0 +1,184 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "22569346",
+  "DateCompleted": {
+    "Year": "2013",
+    "Month": "01",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2012",
+        "Month": "05",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1186/1745-6150-7-16"
+    ],
+    "Journal": {
+      "ISSN": "1745-6150",
+      "JournalIssue": {
+        "Volume": "7",
+        "PubDate": {
+          "Year": "2012",
+          "Month": "May",
+          "Day": "08"
+        }
+      },
+      "Title": "Biology direct",
+      "ISOAbbreviation": "Biol Direct"
+    },
+    "ArticleTitle": "Increased burst size in multiply infected cells can alter basic virus dynamics.",
+    "Pagination": {
+      "StartPage": "16",
+      "MedlinePgn": "16"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The dynamics of viral infections have been studied extensively in a variety of settings, both experimentally and with mathematical models. The majority of mathematical models assumes that only one virus can infect a given cell at a time. It is, however, clear that especially in the context of high viral load, cells can become infected with multiple copies of a virus, a process called coinfection. This has been best demonstrated experimentally for human immunodeficiency virus (HIV), although it is thought to be equally relevant for a number of other viral infections. In a previously explored mathematical model, the viral output from an infected cell does not depend on the number of viruses that reside in the cell, i.e. viral replication is limited by cellular rather than viral factors. In this case, basic virus dynamics properties are not altered by coinfection.",
+        "Here, we explore the alternative assumption that multiply infected cells are characterized by an increased burst size and find that this can fundamentally alter model predictions. Under this scenario, establishment of infection may not be solely determined by the basic reproductive ratio of the virus, but can depend on the initial virus load. Upon infection, the virus population need not follow straight exponential growth. Instead, the exponential rate of growth can increase over time as virus load becomes larger. Moreover, the model suggests that the ability of anti-viral drugs to suppress the virus population can depend on the virus load upon initiation of therapy. This is because more coinfected cells, which produce more virus, are present at higher virus loads. Hence, the degree of drug resistance is not only determined by the viral genotype, but also by the prevalence of coinfected cells.",
+        "Our work shows how an increased burst size in multiply infected cells can alter basic infection dynamics. This forms the basis for future experimental testing of model assumptions and predictions that can distinguish between the different scenarios."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolutionary Biology, University of California, 321 Steinhaus Hall, 92617, Irvine, CA, USA."
+          }
+        ],
+        "LastName": "Cummings",
+        "ForeName": "Kara W",
+        "Initials": "KW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Levy",
+        "ForeName": "David N",
+        "Initials": "DN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wodarz",
+        "ForeName": "Dominik",
+        "Initials": "D"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 AI078783",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI093998",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 EB009418",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "1R01AI093998-01A1",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Biol Direct",
+    "NlmUniqueID": "101258412",
+    "ISSNLinking": "1745-6150"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Cells"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "virology"
+      ],
+      "DescriptorName": "Coinfection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Resistance, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "HIV"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "virology"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Replication"
+    }
+  ]
+}

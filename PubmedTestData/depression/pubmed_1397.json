@@ -1,0 +1,264 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32833958",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "08",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0231995",
+      "10.1371/journal.pone.0231995"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2020"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Applying machine learning in motor activity time series of depressed bipolar and unipolar patients compared to healthy controls.",
+    "Pagination": {
+      "StartPage": "e0231995",
+      "MedlinePgn": "e0231995"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Current practice of assessing mood episodes in affective disorders largely depends on subjective observations combined with semi-structured clinical rating scales. Motor activity is an objective observation of the inner physiological state expressed in behavior patterns. Alterations of motor activity are essential features of bipolar and unipolar depression. The aim was to investigate if objective measures of motor activity can aid existing diagnostic practice, by applying machine-learning techniques to analyze activity patterns in depressed patients and healthy controls. Random Forrest, Deep Neural Network and Convolutional Neural Network algorithms were used to analyze 14 days of actigraph recorded motor activity from 23 depressed patients and 32 healthy controls. Statistical features analyzed in the dataset were mean activity, standard deviation of mean activity and proportion of zero activity. Various techniques to handle data imbalance were applied, and to ensure generalizability and avoid overfitting a Leave-One-User-Out validation strategy was utilized. All outcomes reports as measures of accuracy for binary tests. A Deep Neural Network combined with SMOTE class balancing technique performed a cut above the rest with a true positive rate of 0.82 (sensitivity) and a true negative rate of 0.84 (specificity). Accuracy was 0.84 and the Matthews Correlation Coefficient 0.65. Misclassifications appear related to data overlapping among the classes, so an appropriate future approach will be to compare mood states intra-individualistically. In summary, machine-learning techniques present promising abilities in discriminating between depressed patients and healthy controls in motor activity time series."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7671-2456"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NORMENT, Division of Psychiatry, Haukeland University Hospital, Bergen, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Medicine, University of Bergen, Bergen, Norway."
+          }
+        ],
+        "LastName": "Jakobsen",
+        "ForeName": "Petter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6864-8557"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SINTEF Digital, Oslo, Norway."
+          }
+        ],
+        "LastName": "Garcia-Ceja",
+        "ForeName": "Enrique",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Simula Metropolitan Center for Digitalisation, Oslo, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Informatics, University of Oslo, Oslo, Norway."
+          }
+        ],
+        "LastName": "Riegler",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NORMENT, Division of Psychiatry, Haukeland University Hospital, Bergen, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Medicine, University of Bergen, Bergen, Norway."
+          }
+        ],
+        "LastName": "Stabell",
+        "ForeName": "Lena Antonsen",
+        "Initials": "LA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Psychiatry, Haukeland University Hospital, Bergen, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Psychology, Faculty of Psychology, University of Bergen, Bergen, Norway."
+          }
+        ],
+        "LastName": "Nordgreen",
+        "ForeName": "Tine",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Informatics, University of Oslo, Oslo, Norway."
+          }
+        ],
+        "LastName": "Torresen",
+        "ForeName": "Jim",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NORMENT, Division of Psychiatry, Haukeland University Hospital, Bergen, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Medicine, University of Bergen, Bergen, Norway."
+          }
+        ],
+        "LastName": "Fasmer",
+        "ForeName": "Ole Bernt",
+        "Initials": "OB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NORMENT, Division of Psychiatry, Haukeland University Hospital, Bergen, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Medicine, University of Bergen, Bergen, Norway."
+          }
+        ],
+        "LastName": "Oedegaard",
+        "ForeName": "Ketil Joachim",
+        "Initials": "KJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Bipolar Disorder"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "psychology"
+      ],
+      "DescriptorName": "Mood Disorders"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Motor Activity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ],
+  "CoiStatement": "SINTEF Digital provided support in the form of salaries for author [EGC]. This does not alter our adherence to PLOS ONE policies on sharing data and materials. The other authors have no competing interests."
+}

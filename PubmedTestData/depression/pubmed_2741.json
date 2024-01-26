@@ -1,0 +1,195 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25642935",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "12",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "12",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "02",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1037/pas0000072"
+    ],
+    "Journal": {
+      "ISSN": "1939-134X",
+      "JournalIssue": {
+        "Volume": "27",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Psychological assessment",
+      "ISOAbbreviation": "Psychol Assess"
+    },
+    "ArticleTitle": "Connecting clinical and actuarial prediction with rule-based methods.",
+    "Pagination": {
+      "StartPage": "636",
+      "EndPage": "644",
+      "MedlinePgn": "636-44"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Meta-analyses comparing the accuracy of clinical versus actuarial prediction have shown actuarial methods to outperform clinical methods, on average. However, actuarial methods are still not widely used in clinical practice, and there has been a call for the development of actuarial prediction methods for clinical practice. We argue that rule-based methods may be more useful than the linear main effect models usually employed in prediction studies, from a data and decision analytic as well as a practical perspective. In addition, decision rules derived with rule-based methods can be represented as fast and frugal trees, which, unlike main effects models, can be used in a sequential fashion, reducing the number of cues that have to be evaluated before making a prediction. We illustrate the usability of rule-based methods by applying RuleFit, an algorithm for deriving decision rules for classification and regression problems, to a dataset on prediction of the course of depressive and anxiety disorders from Penninx et al. (2011). The RuleFit algorithm provided a model consisting of 2 simple decision rules, requiring evaluation of only 2 to 4 cues. Predictive accuracy of the 2-rule model was very similar to that of a logistic regression model incorporating 20 predictor variables, originally applied to the dataset. In addition, the 2-rule model required, on average, evaluation of only 3 cues. Therefore, the RuleFit algorithm appears to be a promising method for creating decision tools that are less time consuming and easier to apply in psychological practice, and with accuracy comparable to traditional actuarial methods."
+      ],
+      "CopyrightInformation": "(c) 2015 APA, all rights reserved)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Psychology and Education, VU University Amsterdam."
+          }
+        ],
+        "LastName": "Fokkema",
+        "ForeName": "Marjolein",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Psychology and Education, VU University Amsterdam."
+          }
+        ],
+        "LastName": "Smits",
+        "ForeName": "Niels",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Psychology and Education, VU University Amsterdam."
+          }
+        ],
+        "LastName": "Kelderman",
+        "ForeName": "Henk",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, VU University Medical Center Amsterdam."
+          }
+        ],
+        "LastName": "Penninx",
+        "ForeName": "Brenda W J H",
+        "Initials": "BW"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Psychol Assess",
+    "NlmUniqueID": "8915253",
+    "ISSNLinking": "1040-3590"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Actuarial Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Anxiety Disorders"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Decision Support Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Decision Trees"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Logistic Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematical Computing"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Mental Disorders"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Psychometrics"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Risk Assessment"
+    }
+  ]
+}

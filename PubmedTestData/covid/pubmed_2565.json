@@ -1,0 +1,201 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Daily incidences",
+      "Delay function",
+      "RT-PCR test",
+      "Richard-Lucy deconvolution"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37821841",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "10",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "679",
+      "10.1186/s12879-023-08667-1"
+    ],
+    "Journal": {
+      "ISSN": "1471-2334",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct",
+          "Day": "11"
+        }
+      },
+      "Title": "BMC infectious diseases",
+      "ISOAbbreviation": "BMC Infect Dis"
+    },
+    "ArticleTitle": "Reconstructing COVID-19 incidences from positive RT-PCR tests by deconvolution.",
+    "Pagination": {
+      "StartPage": "679",
+      "MedlinePgn": "679"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The emergency of new COVID-19 variants over the past three years posed a serious challenge to the public health. Cities in China implemented mass daily RT-PCR tests by pooling strategies. However, a random delay exists between an infection and its first positive RT-PCR test. It is valuable for disease control to know the delay pattern and daily infection incidences reconstructed from RT-PCR test observations.",
+        "We formulated the convolution model between daily incidences and positive RT-PCR test counts as a linear inverse problem with positivity restrictions. Consequently, the Richard-Lucy deconvolution algorithm was used to reconstruct COVID-19 incidences from daily PCR tests. A real-time deconvolution was further developed based on the same mathematical principle. The method was applied to an Omicron epidemic data set of a bar outbreak in Beijing and another in Wuxi in June 2022. We estimated the delay function by maximizing likelihood via an E-M algorithm.",
+        "The delay function of the bar-outbreak in 2022 differs from that reported in 2020. Its mode was shortened to 4 days by one day. A 95% confidence interval of the mean delay is [4.43,5.55] as evaluated by bootstrap. In addition, the deconvolved infection incidences successfully detected two associated infection events after the bar was closed. The application of the real-time deconvolution to the Wuxi data identified all explosive incidence increases. The results revealed the progression of the two COVID-19 outbreaks and provided new insights for prevention and control strategies, especially for the role of mass daily RT-PCR testing.",
+        "The proposed deconvolution method is generally applicable to other infectious diseases if the delay model can be assumed to be approximately valid. To ensure a fair reconstruction of daily infection incidences, the delay function should be estimated in a similar context in terms of virus variant and test protocol. Both the delay estimate from the E-M algorithm and the incidences resulted from deconvolution are valuable for epidemic prevention and control. The real-time feedback is particularly useful during the epidemic's acute phase because it can help the local disease control authorities modify the control measures more promptly and precisely."
+      ],
+      "CopyrightInformation": "\u00a9 2023. BioMed Central Ltd., part of Springer Nature."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center of Mathematics and Interdisciplinary Sciences, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, 100190, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Capital University of Economics and Business, Beijing, 100070, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Mengtian",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center of Mathematics and Interdisciplinary Sciences, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, 100190, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Chinese Academy of Sciences, Beijing, 100049, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Jiachen",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center of Mathematics and Interdisciplinary Sciences, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, 100190, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Chinese Academy of Sciences, Beijing, 100049, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Ke",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center of Mathematics and Interdisciplinary Sciences, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, 100190, China. lilei@amss.ac.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Chinese Academy of Sciences, Beijing, 100049, China. lilei@amss.ac.cn."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Lei M",
+        "Initials": "LM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2022YFA1004801",
+        "Agency": "The National Key Research and Development Program of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "11871462",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "32170679",
+        "Agency": "Key Laboratory of Systems and Control, Chinese Academy of Sciences",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Infect Dis",
+    "NlmUniqueID": "100968551",
+    "ISSNLinking": "1471-2334"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

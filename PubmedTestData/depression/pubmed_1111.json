@@ -1,0 +1,138 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      " Kohonen network ",
+      " bereavement exclusion ",
+      " grief ",
+      " major depressive disorder ",
+      " psychometrics ",
+      " self-organizing map "
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35603360",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3934/mbe.2022252"
+    ],
+    "Journal": {
+      "ISSN": "1551-0018",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Mar",
+          "Day": "25"
+        }
+      },
+      "Title": "Mathematical biosciences and engineering : MBE",
+      "ISOAbbreviation": "Math Biosci Eng"
+    },
+    "ArticleTitle": "On the criteria for diagnosing depression in bereaved individuals: a self-organizing map approach.",
+    "Pagination": {
+      "StartPage": "5380",
+      "EndPage": "5392",
+      "MedlinePgn": "5380-5392"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Bereavement exclusion (BE) is a criterion for excluding the diagnosis of major depressive disorder (MDD). Simplistically, this criterion states that an individual who reports MDD symptoms should not be diagnosed as suffering from this mental illness, if such an individual is grieving a sorrowful loss. BE was introduced in 1980 to avoid confusing MDD with normal grief, because several cognitive and physical symptoms of grief and depression can look similar. However, in 2013, BE was removed from the MDD diagnosis guidelines. Here, this controversial topic is computationally investigated. A virtual population is generated according to the Brazilian data of death rate and MDD prevalence and its five kinds of individuals are clustered by using a Kohonen's self-organizing map (SOM). In addition, by examining the current guidelines for diagnosing MDD from an analytical perspective, a slight modification is proposed. With this modification, an adequate clustering is achieved by the SOM neural network. Therefore, for mathematical consistency, unbalanced scores should be assigned to the items composing the MDD diagnostic criteria. With the proposed criteria, the co-occurrence of normal grief and MDD can also be satisfactorily clustered."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidade Presbiteriana Mackenzie, PPGEEC, S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Loula",
+        "ForeName": "R",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidade Presbiteriana Mackenzie, PPGEEC, S\u00e3o Paulo, SP, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Universidade de S\u00e3o Paulo, Escola Polit\u00e9cnica, S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Monteiro",
+        "ForeName": "L H A",
+        "Initials": "LHA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci Eng",
+    "NlmUniqueID": "101197794",
+    "ISSNLinking": "1547-1063"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bereavement"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Grief"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "RT-PCR",
+      "SARS-CoV-2",
+      "mNGS",
+      "the removal of host",
+      "traceability"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36458015",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1016440",
+      "10.3389/fimmu.2022.1016440"
+    ],
+    "Journal": {
+      "ISSN": "1664-3224",
+      "JournalIssue": {
+        "Volume": "13",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Frontiers in immunology",
+      "ISOAbbreviation": "Front Immunol"
+    },
+    "ArticleTitle": "Clinical characteristics of the host DNA-removed metagenomic next-generation sequencing technology for detecting SARS-CoV-2, revealing host local immune signaling and assisting genomic epidemiology.",
+    "Pagination": {
+      "StartPage": "1016440",
+      "MedlinePgn": "1016440"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Metagenomic next-generation sequencing (mNGS) technology has been central in detecting infectious diseases and helping to simultaneously reveal the complex interplay between invaders and their hosts immune response characteristics. However, it needs to be rigorously assessed for clinical utility. The present study is the first to evaluate the clinical characteristics of the host DNA-removed mNGS technology for detecting SARS-CoV-2, revealing host local immune signaling and assisting genomic epidemiology.",
+        "46 swab specimens collected from COVID-19 patients were assayed by two approved commercial RT-qPCR kits and mNGS. The evolutionary tree of SARS-CoV-2 was plotted using FigTree directly from one sample. The workflow of removing the host and retaining the host was compared to investigate the influence of host DNA removal on the performances of mNGS. Functional enrichment analysis of DEGs and xCell score were used to explore the characteristics of host local immune signaling.",
+        "The detection rate of mNGS achieved 92.9% (26/28) for 28 samples with a Ct value \u2264 35 and 81.1% (30/37) for all 46 samples. The genome coverage of SARS-CoV-2 could reach up to 98.9% when the Ct value is about 20 in swab samples. Removing the host could enhance the sensitivity of mNGS for detecting SARS-CoV-2 from the swab sample but does not affect the species abundance of microbes RNA. Improving the sequencing depth did not show a positive effect on improving the detection sensitivity of SARS-CoV-2. Cell type enrichment scores found multiple immune cell types were differentially expressed between patients with high and low viral load.",
+        "The host DNA-removed mNGS has great potential utility and superior performance on comprehensive identification of SARS-CoV-2 and rapid traceability, revealing the microbiome's transcriptional profiles and host immune responses."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Zhaoyang, Guowei, Jing, Yundong, Xinhua, Muyun, Xiaowei, Lixin and Xiaoying."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ],
+        "LastName": "Zhaoyang",
+        "ForeName": "Sun",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Shijiazhuang People's Hospital, Shijiazhuang, China."
+          }
+        ],
+        "LastName": "Guowei",
+        "ForeName": "Song",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Shijiazhuang People's Hospital, Shijiazhuang, China."
+          }
+        ],
+        "LastName": "Jing",
+        "ForeName": "Pan",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shanghai Medical Innovation Fusion Biomedical Research Center, Shanghai, China."
+          }
+        ],
+        "LastName": "Yundong",
+        "ForeName": "Zhou",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ],
+        "LastName": "Xinhua",
+        "ForeName": "Lu",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ],
+        "LastName": "Muyun",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ],
+        "LastName": "Xiaowei",
+        "ForeName": "Ma",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Shijiazhuang People's Hospital, Shijiazhuang, China."
+          }
+        ],
+        "LastName": "Lixin",
+        "ForeName": "Li",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ],
+        "LastName": "Xiaoying",
+        "ForeName": "Chen",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Front Immunol",
+    "NlmUniqueID": "101560960",
+    "ISSNLinking": "1664-3224"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "9007-49-2",
+      "NameOfSubstance": "DNA"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Technology"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

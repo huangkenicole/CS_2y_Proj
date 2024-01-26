@@ -1,0 +1,254 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "feedback loop",
+      "multiscale",
+      "viral mutation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33275493",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1089/cmb.2020.0343"
+    ],
+    "Journal": {
+      "ISSN": "1557-8666",
+      "JournalIssue": {
+        "Volume": "28",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Journal of computational biology : a journal of computational molecular cell biology",
+      "ISOAbbreviation": "J Comput Biol"
+    },
+    "ArticleTitle": "Multiscale Feedback Loops in SARS-CoV-2 Viral Evolution.",
+    "Pagination": {
+      "StartPage": "248",
+      "EndPage": "256",
+      "MedlinePgn": "248-256"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "COVID-19 is an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The viral genome is considered to be relatively stable and the mutations that have been observed and reported thus far are mainly focused on the coding region. This article provides evidence that macrolevel pandemic dynamics, such as social distancing, modulate the genomic evolution of SARS-CoV-2. This view complements the prevalent paradigm that microlevel observables control macrolevel parameters such as death rates and infection patterns. First, we observe differences in mutational signals for geospatially separated populations such as the prevalence of A23404G in CA versus NY and WA. We show that the feedback between macrolevel dynamics and the viral population can be captured employing a transfer entropy framework. Second, we observe complex interactions within mutational clades. Namely, when C14408T first appeared in the viral population, the frequency of A23404G spiked in the subsequent week. Third, we identify a noncoding mutation, G29540A, within the segment between the coding gene of the N protein and the ORF10 gene, which is largely confined to NY (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>></mo></math>95%). These observations indicate that macrolevel sociobehavioral measures have an impact on the viral genomics and may be useful for the dashboard-like tracking of its evolution. Finally, despite the fact that SARS-CoV-2 is a genetically robust organism, our findings suggest that we are dealing with a high degree of adaptability. Owing to its ample spread, mutations of unusual form are observed and a high complexity of mutational interaction is exhibited."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomplexity Institute, University of Virginia, Charlottesville, Virginia, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Barrett",
+        "ForeName": "Christopher",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomplexity Institute, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Bura",
+        "ForeName": "Andrei C",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomplexity Institute, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "He",
+        "ForeName": "Qijun",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomplexity Institute, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Fenix W",
+        "Initials": "FW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomplexity Institute, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Thomas J X",
+        "Initials": "TJX"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomplexity Institute, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Waterman",
+        "ForeName": "Michael S",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomplexity Institute, University of Virginia, Charlottesville, Virginia, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Reidys",
+        "ForeName": "Christian M",
+        "Initials": "CM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Comput Biol",
+    "NlmUniqueID": "9433358",
+    "ISSNLinking": "1066-5277"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Evolution, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Frequency"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Health Behavior"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Health Policy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Distancing"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ]
+}

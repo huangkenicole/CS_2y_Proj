@@ -1,0 +1,243 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33166390",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa969"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "COVID19 Drug Repository: text-mining the literature in search of putative COVID19 therapeutics.",
+    "Pagination": {
+      "StartPage": "D1113",
+      "EndPage": "D1121",
+      "MedlinePgn": "D1113-D1121"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The recent outbreak of COVID-19 has generated an enormous amount of Big Data. To date, the COVID-19 Open Research Dataset (CORD-19), lists \u223c130,000 articles from the WHO COVID-19 database, PubMed Central, medRxiv, and bioRxiv, as collected by Semantic Scholar. According to LitCovid (11\u00a0August 2020), \u223c40,300 COVID19-related articles are currently listed in PubMed. It has been shown in clinical settings that the analysis of past research results and the mining of available data can provide novel opportunities for the successful application of currently approved therapeutics and their combinations for the treatment of conditions caused by a novel SARS-CoV-2 infection. As such, effective responses to the pandemic require the development of efficient applications, methods and algorithms for data navigation, text-mining, clustering, classification, analysis, and reasoning. Thus, our COVID19 Drug Repository represents a modular platform for drug data navigation and analysis, with an emphasis on COVID-19-related information currently being reported. The COVID19 Drug Repository enables users to focus on different levels of complexity, starting from general information about (FDA-) approved drugs, PubMed references, clinical trials, recipes as well as the descriptions of molecular mechanisms of drugs' action. Our COVID19 drug repository provide a most updated world-wide collection of drugs that has been repurposed for COVID19 treatments around the world."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Cancer Genomics and Biocomputing of Complex Diseases, Azrieli Faculty of Medicine, Bar-Ilan University, Henrietta Szold 8, Safed 13195, Israel."
+          }
+        ],
+        "LastName": "Tworowski",
+        "ForeName": "Dmitry",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Cancer Genomics and Biocomputing of Complex Diseases, Azrieli Faculty of Medicine, Bar-Ilan University, Henrietta Szold 8, Safed 13195, Israel."
+          }
+        ],
+        "LastName": "Gorohovski",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Cancer Genomics and Biocomputing of Complex Diseases, Azrieli Faculty of Medicine, Bar-Ilan University, Henrietta Szold 8, Safed 13195, Israel."
+          }
+        ],
+        "LastName": "Mukherjee",
+        "ForeName": "Sumit",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Cancer Genomics and Biocomputing of Complex Diseases, Azrieli Faculty of Medicine, Bar-Ilan University, Henrietta Szold 8, Safed 13195, Israel."
+          }
+        ],
+        "LastName": "Carmi",
+        "ForeName": "Gon",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Cancer Genomics and Biocomputing of Complex Diseases, Azrieli Faculty of Medicine, Bar-Ilan University, Henrietta Szold 8, Safed 13195, Israel."
+          }
+        ],
+        "LastName": "Levy",
+        "ForeName": "Eliad",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Cancer Genomics and Biocomputing of Complex Diseases, Azrieli Faculty of Medicine, Bar-Ilan University, Henrietta Szold 8, Safed 13195, Israel."
+          }
+        ],
+        "LastName": "Detroja",
+        "ForeName": "Rajesh",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Cancer Genomics and Biocomputing of Complex Diseases, Azrieli Faculty of Medicine, Bar-Ilan University, Henrietta Szold 8, Safed 13195, Israel."
+          }
+        ],
+        "LastName": "Mukherjee",
+        "ForeName": "Sunanda Biswas",
+        "Initials": "SB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Cancer Genomics and Biocomputing of Complex Diseases, Azrieli Faculty of Medicine, Bar-Ilan University, Henrietta Szold 8, Safed 13195, Israel."
+          }
+        ],
+        "LastName": "Frenkel-Morgenstern",
+        "ForeName": "Milana",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Clinical Trials as Topic"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Data Mining"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Databases, Pharmaceutical"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Drug Approval"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

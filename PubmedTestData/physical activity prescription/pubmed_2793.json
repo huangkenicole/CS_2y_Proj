@@ -1,0 +1,187 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Biomechanical load",
+      "Ground reaction force",
+      "Multilayer perceptron",
+      "Trunk accelerometry"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32115354",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "02",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.medengphy.2020.02.002",
+      "S1350-4533(20)30028-X"
+    ],
+    "Journal": {
+      "ISSN": "1873-4030",
+      "JournalIssue": {
+        "Volume": "78",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Medical engineering & physics",
+      "ISOAbbreviation": "Med Eng Phys"
+    },
+    "ArticleTitle": "A neural network method to predict task- and step-specific ground reaction force magnitudes from trunk accelerations during running activities.",
+    "Pagination": {
+      "StartPage": "82",
+      "EndPage": "89",
+      "MedlinePgn": "82-89"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Prediction of ground reaction force (GRF) magnitudes during running-based sports has several important applications, including optimal load prescription and injury prevention in athletes. Existing methods typically require information from multiple body-worn sensors, limiting their ecological validity, or aim to estimate discrete force parameters, limiting their ability to assess overall biomechanical load. This paper presents a neural network method to predict GRF time series from a single, commonly used, trunk-mounted accelerometer. The presented method uses a principal component analysis and multilayer perceptron (MLP) to obtain predictions. Time-series r<sup>2</sup> coefficients with test data averaged around 0.9 for each impact, comparing favourably with alternative approaches which require additional sensors. For the impact peak, r<sup>2</sup> was 0.74 across activities, comparing favourably with correlation analysis approaches. Several modifications, such as subject-specific training of the MLP, may help to improve results further, but the presented method can accurately predict GRF from trunk accelerometry data without requiring additional information. Results demonstrate the scope of machine learning to exploit common wearable technologies to estimate GRF in sport-specific environments."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020. Published by Elsevier Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quintessa Ltd., Newtown Road, Henley-on-Thames, Oxfordshire RG9 1HG, UK; Department of Applied Mathematics, Liverpool John Moores University, Liverpool, UK. Electronic address: markpogson@quintessa.org."
+          }
+        ],
+        "LastName": "Pogson",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Institute for Sport and Exercise Sciences, Liverpool John Moores University, Liverpool, UK; School of Sport, Exercise and Rehabilitation Sciences, University of Birmingham, UK."
+          }
+        ],
+        "LastName": "Verheul",
+        "ForeName": "Jasper",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Institute for Sport and Exercise Sciences, Liverpool John Moores University, Liverpool, UK."
+          }
+        ],
+        "LastName": "Robinson",
+        "ForeName": "Mark A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Institute for Sport and Exercise Sciences, Liverpool John Moores University, Liverpool, UK; Department of Rehabilitation Sciences, KU Leuven, Leuven, Belgium."
+          }
+        ],
+        "LastName": "Vanrenterghem",
+        "ForeName": "Jos",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Mathematics, Liverpool John Moores University, Liverpool, UK."
+          }
+        ],
+        "LastName": "Lisboa",
+        "ForeName": "Paulo",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Med Eng Phys",
+    "NlmUniqueID": "9422753",
+    "ISSNLinking": "1350-4533"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Acceleration"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Running"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Torso"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest None declared."
+}

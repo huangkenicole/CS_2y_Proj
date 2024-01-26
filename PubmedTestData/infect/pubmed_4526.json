@@ -1,0 +1,150 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Backward bifurcation",
+      "Bistable dynamics",
+      "Bogdanov\u2013Takens bifurcation",
+      "Chronically infecting phage",
+      "Persistent viral infection",
+      "Robust uniform persistence",
+      "Stability analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33993422",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s00285-021-01612-3"
+    ],
+    "Journal": {
+      "ISSN": "1432-1416",
+      "JournalIssue": {
+        "Volume": "82",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "15"
+        }
+      },
+      "Title": "Journal of mathematical biology",
+      "ISOAbbreviation": "J Math Biol"
+    },
+    "ArticleTitle": "A delay model for persistent viral infections in replicating cells.",
+    "Pagination": {
+      "StartPage": "59",
+      "MedlinePgn": "59"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Persistently infecting viruses remain within infected cells for a prolonged period of time without killing the cells and can reproduce via budding virus particles or passing on to daughter cells after division. The ability for populations of infected cells to be long-lived and replicate viral progeny through cell division may be critical for virus survival in examples such as HIV latent reservoirs, tumor oncolytic virotherapy, and non-virulent phages in microbial hosts. We consider a model for persistent viral infection within a replicating cell population with time delay in the eclipse stage prior to infected cell replicative form. We obtain reproduction numbers that provide criteria for the existence and stability of the equilibria of the system and provide bifurcation diagrams illustrating transcritical (backward and forward), saddle-node, and Hopf bifurcations, and provide evidence of homoclinic bifurcations and a Bogdanov-Takens bifurcation. We investigate the possibility of long term survival of the infection (represented by chronically infected cells and free virus) in the cell population by using the mathematical concept of robust uniform persistence. Using numerical continuation software with parameter values estimated from phage-microbe systems, we obtain two parameter bifurcation diagrams that divide parameter space into regions with different dynamical outcomes. We thus investigate how varying different parameters, including how the time spent in the eclipse phase, can influence whether or not the virus survives."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematics Department, University of Louisiana at Lafayette, Lafayette, LA, USA. hayriye.gulbudak@louisiana.edu."
+          }
+        ],
+        "LastName": "Gulbudak",
+        "ForeName": "Hayriye",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematics Department, University of Louisiana at Lafayette, Lafayette, LA, USA."
+          }
+        ],
+        "LastName": "Salceanu",
+        "ForeName": "Paul L",
+        "Initials": "PL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, McMaster University, Hamilton, ON, Canada."
+          }
+        ],
+        "LastName": "Wolkowicz",
+        "ForeName": "Gail S K",
+        "Initials": "GSK"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "J Math Biol",
+    "NlmUniqueID": "7502105",
+    "ISSNLinking": "0303-6812"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematical Concepts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Diseases"
+    }
+  ]
+}

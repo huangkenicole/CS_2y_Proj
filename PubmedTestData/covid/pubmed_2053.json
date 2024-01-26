@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "random sample"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33441450",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2013906118",
+      "10.1073/pnas.2013906118"
+    ],
+    "Journal": {
+      "ISSN": "1091-6490",
+      "JournalIssue": {
+        "Volume": "118",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "02"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "Bayesian estimation of SARS-CoV-2 prevalence in Indiana by random testing.",
+    "Abstract": {
+      "AbstractText": [
+        "From 25 to 29 April 2020, the state of Indiana undertook testing of 3,658 randomly chosen state residents for the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus, the agent causing COVID-19 disease. This was the first statewide randomized study of COVID-19 testing in the United States. Both PCR and serological tests were administered to all study participants. This paper describes statistical methods used to address nonresponse among various demographic groups and to adjust for testing errors to reduce bias in the estimates of the overall disease prevalence in Indiana. These adjustments were implemented through Bayesian methods, which incorporated all available information on disease prevalence and test performance, along with external data obtained from census of the Indiana statewide population. Both adjustments appeared to have significant impact on the unadjusted estimates, mainly due to upweighting data in study participants of non-White races and Hispanic ethnicity and anticipated false-positive and false-negative test results among both the PCR and antibody tests utilized in the study."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 the Author(s). Published by PNAS."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9014-3651"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, Indiana University Fairbanks School of Public Health, Indianapolis, IN 46202; cyiannou@iu.edu."
+          }
+        ],
+        "LastName": "Yiannoutsos",
+        "ForeName": "Constantin T",
+        "Initials": "CT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Health Policy and Management, Indiana University Fairbanks School of Public Health, Indianapolis, IN 46202."
+          }
+        ],
+        "LastName": "Halverson",
+        "ForeName": "Paul K",
+        "Initials": "PK"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3411-2700"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Health Policy and Management, Indiana University Fairbanks School of Public Health, Indianapolis, IN 46202."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Regenstrief Institute, Inc., Indianapolis, IN 46202."
+          }
+        ],
+        "LastName": "Menachemi",
+        "ForeName": "Nir",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "ethnology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Hispanic or Latino"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "ethnology"
+      ],
+      "DescriptorName": "Indiana"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "White People"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interest."
+}

@@ -1,0 +1,222 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "bioinformatics",
+      "computational genomics",
+      "genomic sequencing",
+      "intrahost variation",
+      "mutation",
+      "variants of concern"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36298683",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "09",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2128",
+      "10.3390/v14102128"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Sep",
+          "Day": "27"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Intrahost SARS-CoV-2 k-mer Identification Method (iSKIM) for Rapid Detection of Mutations of Concern Reveals Emergence of Global Mutation Patterns.",
+    "Abstract": {
+      "AbstractText": [
+        "Despite unprecedented global sequencing and surveillance of SARS-CoV-2, timely identification of the emergence and spread of novel variants of concern (VoCs) remains a challenge. Several million raw genome sequencing runs are now publicly available. We sought to survey these datasets for intrahost variation to study emerging mutations of concern. We developed iSKIM (\"intrahost SARS-CoV-2 k-mer identification method\") to relatively quickly and efficiently screen the many SARS-CoV-2 datasets to identify intrahost mutations belonging to lineages of concern. Certain mutations surged in frequency as intrahost minor variants just prior to, or while lineages of concern arose. The Spike N501Y change common to several VoCs was found as a minor variant in 834 samples as early as October 2020. This coincides with the timing of the first detected samples with this mutation in the Alpha/B.1.1.7 and Beta/B.1.351 lineages. Using iSKIM, we also found that Spike L452R was detected as an intrahost minor variant as early as September 2020, prior to the observed rise of the Epsilon/B.1.429/B.1.427 lineages in late 2020. iSKIM rapidly screens for mutations of interest in raw data, prior to genome assembly, and can be used to detect increases in intrahost variants, potentially providing an early indication of novel variant spread."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Diseases Branch, Walter Reed Army Institute of Research, Silver Spring, MD 20910, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Montgomery Blair High School, Silver Spring, MD 20901, USA."
+          }
+        ],
+        "LastName": "Thommana",
+        "ForeName": "Ashley",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioscience Division, Los Alamos National Laboratory, Los Alamos, NM 87545, USA."
+          }
+        ],
+        "LastName": "Shakya",
+        "ForeName": "Migun",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Diseases Branch, Walter Reed Army Institute of Research, Silver Spring, MD 20910, USA."
+          }
+        ],
+        "LastName": "Gandhi",
+        "ForeName": "Jaykumar",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Diseases Branch, Walter Reed Army Institute of Research, Silver Spring, MD 20910, USA."
+          }
+        ],
+        "LastName": "Fung",
+        "ForeName": "Christian K",
+        "Initials": "CK"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3949-3634"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioscience Division, Los Alamos National Laboratory, Los Alamos, NM 87545, USA."
+          }
+        ],
+        "LastName": "Chain",
+        "ForeName": "Patrick S G",
+        "Initials": "PSG"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8555-5352"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Diseases Branch, Walter Reed Army Institute of Research, Silver Spring, MD 20910, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Integrated Research Facility, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Frederick, MD 21702, USA."
+          }
+        ],
+        "LastName": "Maljkovic Berry",
+        "ForeName": "Irina",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Diseases Branch, Walter Reed Army Institute of Research, Silver Spring, MD 20910, USA."
+          }
+        ],
+        "LastName": "Conte",
+        "ForeName": "Matthew A",
+        "Initials": "MA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2022 Aug 16;:",
+      "PMID": "36032969"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

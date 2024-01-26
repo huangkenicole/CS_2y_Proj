@@ -1,0 +1,302 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "genomic surveillance",
+      "haplotype",
+      "web visualization"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37839865",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "10",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1266/ggs.23-00085"
+    ],
+    "Journal": {
+      "ISSN": "1880-5779",
+      "JournalIssue": {
+        "Volume": "98",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Nov",
+          "Day": "21"
+        }
+      },
+      "Title": "Genes & genetic systems",
+      "ISOAbbreviation": "Genes Genet Syst"
+    },
+    "ArticleTitle": "SARS-CoV-2 HaploGraph: visualization of SARS-CoV-2 haplotype spread in Japan.",
+    "Pagination": {
+      "StartPage": "221",
+      "EndPage": "237",
+      "MedlinePgn": "221-237"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Since the early phase of the coronavirus disease 2019 (COVID-19) pandemic, a number of research institutes have been sequencing and sharing high-quality severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genomes to trace the route of infection in Japan. To provide insight into the spread of COVID-19, we developed a web platform named SARS-CoV-2 HaploGraph to visualize the emergence timing and geographical transmission of SARS-CoV-2 haplotypes. Using data from the GISAID EpiCoV database as of June 4, 2022, we created a haplotype naming system by determining the ancestral haplotype for each epidemic wave and showed prefecture- or region-specific haplotypes in each of four waves in Japan. The SARS-CoV-2 HaploGraph allows for interactive tracking of virus evolution and of geographical prevalence of haplotypes, and aids in developing effective public health control strategies during the global pandemic. The code and the data used for this study are publicly available at: https://github.com/ktym/covid19/."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformation and DDBJ Center, National Institute of Genetics."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Life Science, Tokai University School of Medicine."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Micro/Nano Technology Center, Tokai University."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Sciences, Tokai University."
+          }
+        ],
+        "LastName": "Nakagawa",
+        "ForeName": "So",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Database Center for Life Science."
+          }
+        ],
+        "LastName": "Katayama",
+        "ForeName": "Toshiaki",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomus Co., Ltd."
+          }
+        ],
+        "LastName": "Jin",
+        "ForeName": "Lihua",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Life Science, Tokai University School of Medicine."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Jiaqi",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformation and DDBJ Center, National Institute of Genetics."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Informatics, National Institute of Genetics."
+          }
+        ],
+        "LastName": "Kryukov",
+        "ForeName": "Kirill",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Life Science, Tokai University School of Medicine."
+          }
+        ],
+        "LastName": "Oyachi",
+        "ForeName": "Rise",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Clinical Sciences, National Center for Global Health and Medicine."
+          }
+        ],
+        "LastName": "Takeuchi",
+        "ForeName": "Junko S",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformation and DDBJ Center, National Institute of Genetics."
+          }
+        ],
+        "LastName": "Fujisawa",
+        "ForeName": "Takatomo",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Informatics, National Institute of Genetics."
+          }
+        ],
+        "LastName": "Asano",
+        "ForeName": "Satomi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Smart Information Systems, Faculty of Engineering, Niigata University."
+          }
+        ],
+        "LastName": "Komatsu",
+        "ForeName": "Momoka",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Center for Open Science and Data Platform, National Institute of Informatics."
+          }
+        ],
+        "LastName": "Onami",
+        "ForeName": "Jun-Ichi",
+        "Initials": "JI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformation and DDBJ Center, National Institute of Genetics."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Smart Information Systems, Faculty of Engineering, Niigata University."
+          }
+        ],
+        "LastName": "Abe",
+        "ForeName": "Takashi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformation and DDBJ Center, National Institute of Genetics."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Informatics, National Institute of Genetics."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "RIKEN Center for Sustainable Resource Science."
+          }
+        ],
+        "LastName": "Arita",
+        "ForeName": "Masanori",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Japan",
+    "MedlineTA": "Genes Genet Syst",
+    "NlmUniqueID": "9607822",
+    "ISSNLinking": "1341-7568"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Haplotypes"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Japan"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    }
+  ]
+}

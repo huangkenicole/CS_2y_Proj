@@ -1,0 +1,198 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24098430",
+  "DateCompleted": {
+    "Year": "2014",
+    "Month": "07",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2013",
+        "Month": "10",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e76122",
+      "10.1371/journal.pone.0076122"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "8",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2013"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "How changes in extracellular matrix mechanics and gene expression variability might combine to drive cancer progression.",
+    "Pagination": {
+      "StartPage": "e76122",
+      "MedlinePgn": "e76122"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Changes in extracellular matrix (ECM) structure or mechanics can actively drive cancer progression; however, the underlying mechanism remains unknown. Here we explore whether this process could be mediated by changes in cell shape that lead to increases in genetic noise, given that both factors have been independently shown to alter gene expression and induce cell fate switching. We do this using a computer simulation model that explores the impact of physical changes in the tissue microenvironment under conditions in which physical deformation of cells increases gene expression variability among genetically identical cells. The model reveals that cancerous tissue growth can be driven by physical changes in the microenvironment: when increases in cell shape variability due to growth-dependent increases in cell packing density enhance gene expression variation, heterogeneous autonomous growth and further structural disorganization can result, thereby driving cancer progression via positive feedback. The model parameters that led to this prediction are consistent with experimental measurements of mammary tissues that spontaneously undergo cancer progression in transgenic C3(1)-SV40Tag female mice, which exhibit enhanced stiffness of mammary ducts, as well as progressive increases in variability of cell-cell relations and associated cell shape changes. These results demonstrate the potential for physical changes in the tissue microenvironment (e.g., altered ECM mechanics) to induce a cancerous phenotype or accelerate cancer progression in a clonal population through local changes in cell geometry and increased phenotypic variability, even in the absence of gene mutation."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, Massachusetts, United States of America."
+          }
+        ],
+        "LastName": "Werfel",
+        "ForeName": "Justin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Krause",
+        "ForeName": "Silva",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bischof",
+        "ForeName": "Ashley G",
+        "Initials": "AG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mannix",
+        "ForeName": "Robert J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tobin",
+        "ForeName": "Heather",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bar-Yam",
+        "ForeName": "Yaneer",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bellin",
+        "ForeName": "Robert M",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ingber",
+        "ForeName": "Donald E",
+        "Initials": "DE"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Cell Transformation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Extracellular Matrix"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mammary Neoplasms, Experimental"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Staging"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tumor Microenvironment"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests: </b>The authors have declared that no competing interests exist."
+}

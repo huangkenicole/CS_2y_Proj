@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33101617",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "10",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "8869134",
+      "10.1155/2020/8869134"
+    ],
+    "Journal": {
+      "ISSN": "2040-2309",
+      "JournalIssue": {
+        "Volume": "2020",
+        "PubDate": {
+          "Year": "2020"
+        }
+      },
+      "Title": "Journal of healthcare engineering",
+      "ISOAbbreviation": "J Healthc Eng"
+    },
+    "ArticleTitle": "Accelerometer-Based Automated Counting of Ten Exercises without Exercise-Specific Training or Tuning.",
+    "Pagination": {
+      "StartPage": "8869134",
+      "MedlinePgn": "8869134"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Measuring physical activity using wearable sensors is essential for quantifying adherence to exercise regiments in clinical research and motivating individuals to continue exercising. An important aspect of wearable activity tracking is counting particular movements. One limitation of many previous models is the need to design the counting for a specific exercise. However, during physical therapy, some movements are unique to the patient and also valuable to track. To address this, we create an automatic repetition counting system that is flexible enough to measure multiple distinct and repeating movements during physical therapy without being trained on the specific motion. Accelerometers, using smartphones, were attached to the body or held by participants to track repetitive motions during different exercises. 18 participants completed a series of 10 exercises for 30\u2009seconds, including arm circles, bicep curls, bridges, sit-ups, elbow extensions, leg lifts, lunges, push-ups, squats, and upper trunk rotations. To count the repetitions of each exercise, we apply three analysis techniques: (a) threshold crossing, (b) threshold crossing with a low-pass filter, and (c) Fourier transform. The results demonstrate that arm circles and push-ups can be tracked well, while less periodic and irregular motions such as upper trunk rotations are more difficult. Overall, threshold crossing with low-pass filtering achieves the best performance among these methods. We conclude that the proposed automatic counting system is capable of tracking exercise repetition without prior training and development for that activity."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 Samuel Zelman et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-7785-0773"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Illinois Math and Science Academy, Aurora, IL 60506, USA."
+          }
+        ],
+        "LastName": "Zelman",
+        "ForeName": "Samuel",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Illinois Math and Science Academy, Aurora, IL 60506, USA."
+          }
+        ],
+        "LastName": "Dow",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8955-3397"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, University of North Texas, Denton, TX 76203, USA."
+          }
+        ],
+        "LastName": "Tabashum",
+        "ForeName": "Thasina",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8548-5710"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, University of North Texas, Denton, TX 76203, USA."
+          }
+        ],
+        "LastName": "Xiao",
+        "ForeName": "Ting",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3977-2895"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, University of North Texas, Denton, TX 76203, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, University of North Texas, Denton, TX 76203, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physical Medicine and Rehabilitation, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA."
+          }
+        ],
+        "LastName": "Albert",
+        "ForeName": "Mark V",
+        "Initials": "MV"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Healthc Eng",
+    "NlmUniqueID": "101528166",
+    "ISSNLinking": "2040-2295"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Accelerometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Muscle, Skeletal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Smartphone"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflicts of interest."
+}

@@ -1,0 +1,175 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30873970",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "06",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "06",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1364/AO.58.00A135"
+    ],
+    "Journal": {
+      "ISSN": "1539-4522",
+      "JournalIssue": {
+        "Volume": "58",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Feb",
+          "Day": "10"
+        }
+      },
+      "Title": "Applied optics",
+      "ISOAbbreviation": "Appl Opt"
+    },
+    "ArticleTitle": "Volumetric analysis of breast cancer tissues using machine learning and swept-source optical coherence tomography.",
+    "Pagination": {
+      "StartPage": "A135",
+      "EndPage": "A141",
+      "MedlinePgn": "A135-A141"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In breast cancer, 20%-30% of cases require a second surgery because of incomplete excision of malignant tissues. Therefore, to avoid the risk of recurrence, accurate detection of the cancer margin by the clinician or surgeons needs some assistance. In this paper, an automated volumetric analysis of normal and breast cancer tissue is done by a machine learning algorithm to separate them into two classes. The proposed method is based on a support-vector-machine-based classifier by dissociating 10 features extracted from the A-line, texture, and phase map by the swept-source optical coherence tomographic intensity and phase images. A set of 88 freshly excised breast tissue [44 normal and 44 cancers (invasive ductal carcinoma tissues)] samples from 22 patients was used in our study. The algorithm successfully classifies the cancerous tissue with sensitivity, specificity, and accuracy of 91.56%, 93.86%, and 92.71% respectively. The present computational technique is fast, simple, and sensitive, and extracts features from the whole volume of the tissue, which does not require any special tissue preparation nor an expert to analyze the breast cancer as required in histopathology. Diagnosis of breast cancer by extracting quantitative features from optical coherence tomographic images could be a potentially powerful method for cancer detection and would be a valuable tool for a fine-needle-guided biopsy."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Butola",
+        "ForeName": "Ankit",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ahmad",
+        "ForeName": "Azeem",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dubey",
+        "ForeName": "Vishesh",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Srivastava",
+        "ForeName": "Vishal",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Qaiser",
+        "ForeName": "Darakhshan",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Srivastava",
+        "ForeName": "Anurag",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Senthilkumaran",
+        "ForeName": "Paramsivam",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mehta",
+        "ForeName": "Dalip Singh",
+        "Initials": "DS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Appl Opt",
+    "NlmUniqueID": "0247660",
+    "ISSNLinking": "1559-128X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Carcinoma, Ductal, Breast"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Tomography, Optical Coherence"
+    }
+  ]
+}

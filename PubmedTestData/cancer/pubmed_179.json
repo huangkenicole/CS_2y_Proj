@@ -1,0 +1,147 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28379430",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "08",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkx210"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "45",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "May",
+          "Day": "19"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "Enhancing identification of cancer types via lowly-expressed microRNAs.",
+    "Pagination": {
+      "StartPage": "5048",
+      "EndPage": "5060",
+      "MedlinePgn": "5048-5060"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The primary function of microRNAs (miRNAs) is to maintain cell homeostasis. In cancerous tissues miRNAs' expression undergo drastic alterations. In this study, we use miRNA expression profiles from The Cancer Genome Atlas of 24 cancer types and 3 healthy tissues, collected from >8500 samples. We seek to classify the cancer's origin and tissue identification using the expression from 1046 reported miRNAs. Despite an apparent uniform appearance of miRNAs among cancerous samples, we recover indispensable information from lowly expressed miRNAs regarding the cancer/tissue types. Multiclass support vector machine classification yields an average recall of 58% in identifying the correct tissue and tumor types. Data discretization had led to substantial improvement, reaching an average recall of 91% (95% median). We propose a straightforward protocol as a crucial step in classifying tumors of unknown primary origin. Our counter-intuitive conclusion is that in almost all cancer types, highly expressing miRNAs mask the significant signal that lower expressed miRNAs provide."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2017. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Engineering, The Hebrew University of Jerusalem, Israel."
+          }
+        ],
+        "LastName": "Rasnic",
+        "ForeName": "Roni",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Engineering, The Hebrew University of Jerusalem, Israel."
+          }
+        ],
+        "LastName": "Linial",
+        "ForeName": "Nathan",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Chemistry, Institute of Life Sciences, The Hebrew University of Jerusalem 91904, Israel."
+          }
+        ],
+        "LastName": "Linial",
+        "ForeName": "Michal",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "analysis",
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "analysis",
+        "genetics"
+      ],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24583752",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "07",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1097/MCG.0000000000000104"
+    ],
+    "Journal": {
+      "ISSN": "1539-2031",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Journal of clinical gastroenterology",
+      "ISOAbbreviation": "J Clin Gastroenterol"
+    },
+    "ArticleTitle": "A computer system to be used with laser-based endoscopy for quantitative diagnosis of early gastric cancer.",
+    "Pagination": {
+      "StartPage": "108",
+      "EndPage": "115",
+      "MedlinePgn": "108-15"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To evaluate the usefulness of a newly devised computer system for use with laser-based endoscopy in differentiating between early gastric cancer, reddened lesions, and surrounding tissue.",
+        "Narrow-band imaging based on laser light illumination has come into recent use. We devised a support vector machine (SVM)-based analysis system to be used with the newly devised endoscopy system to quantitatively identify gastric cancer on images obtained by magnifying endoscopy with blue-laser imaging (BLI). We evaluated the usefulness of the computer system in combination with the new endoscopy system.",
+        "We evaluated the system as applied to 100 consecutive early gastric cancers in 95 patients examined by BLI magnification at Hiroshima University Hospital. We produced a set of images from the 100 early gastric cancers; 40 flat or slightly depressed, small, reddened lesions; and surrounding tissues, and we attempted to identify gastric cancer, reddened lesions, and surrounding tissue quantitatively.",
+        "The average SVM output value was 0.846 \u00b1 0.220 for cancerous lesions, 0.381 \u00b1 0.349 for reddened lesions, and 0.219 \u00b1 0.277 for surrounding tissue, with the SVM output value for cancerous lesions being significantly greater than that for reddened lesions or surrounding tissue. The average SVM output value for differentiated-type cancer was 0.840 \u00b1 0.207 and for undifferentiated-type cancer was 0.865 \u00b1 0.259.",
+        "Although further development is needed, we conclude that our computer-based analysis system used with BLI will identify gastric cancers quantitatively."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departments of *Gastroenterology and Metabolism \u2020Endoscopy and Medicine \u2021Information Engineering, Graduate School of Engineering \u00a7Research Institute for Nanodevice and Bio Systems \u2225Department of Health Service Center, Hiroshima University, Hiroshima, Japan."
+          }
+        ],
+        "LastName": "Miyaki",
+        "ForeName": "Rie",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yoshida",
+        "ForeName": "Shigeto",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tanaka",
+        "ForeName": "Shinji",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kominami",
+        "ForeName": "Yoko",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sanomura",
+        "ForeName": "Yoji",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Matsuo",
+        "ForeName": "Taiji",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Oka",
+        "ForeName": "Shiro",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Raytchev",
+        "ForeName": "Bisser",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tamaki",
+        "ForeName": "Toru",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Koide",
+        "ForeName": "Tetsushi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kaneda",
+        "ForeName": "Kazufumi",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yoshihara",
+        "ForeName": "Masaharu",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chayama",
+        "ForeName": "Kazuaki",
+        "Initials": "K"
+      }
+    ],
+    "PublicationTypeList": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Clin Gastroenterol",
+    "NlmUniqueID": "7910017",
+    "ISSNLinking": "0192-0790"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computers"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Diagnosis, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Early Detection of Cancer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Equipment Design"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Gastroscopy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hospitals, University"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Image Interpretation, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Japan"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lasers"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Narrow Band Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Predictive Value of Tests"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software Design"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ]
+}

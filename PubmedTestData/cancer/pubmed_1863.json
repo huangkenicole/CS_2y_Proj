@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "copy number alteration detection",
+      "non-small cell lung cancer",
+      "plasma cell-free DNA",
+      "whole exome sequencing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36361723",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "10",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "12932",
+      "10.3390/ijms232112932"
+    ],
+    "Journal": {
+      "ISSN": "1422-0067",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "21",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Oct",
+          "Day": "26"
+        }
+      },
+      "Title": "International journal of molecular sciences",
+      "ISOAbbreviation": "Int J Mol Sci"
+    },
+    "ArticleTitle": "Read Count Patterns and Detection of Cancerous Copy Number Alterations in Plasma Cell-Free DNA Whole Exome Sequencing Data for Advanced Non-Small Cell Lung Cancer.",
+    "Abstract": {
+      "AbstractText": [
+        "Plasma cell-free DNA (cfDNA) sequencing data have been widely studied for early diagnosis and treatment response or recurrence monitoring of cancers because of the non-invasive benefits. In cancer studies, whole exome sequencing (WES) is mostly used for discovering single nucleotide variants (SNVs), but it also has the potential to detect copy number alterations (CNAs) that are mostly discovered by whole genome sequencing or microarray. In clinical settings where the quantity of the acquired blood from the patients is limited and where various sequencing experiments are not possible, providing various types of mutation information such as CNAs and SNVs using only WES will be helpful in the treatment decision. Here, we questioned whether the plasma cfDNA WES data for patients with advanced non-small cell lung cancer (NSCLC) could be exploited for CNA detection. When the read count (RC) signals of the WES data were investigated, a similar fluctuation pattern was observed among the signals of different samples, and it can be a major challenge hindering CNA detection. When these RC patterns among cfDNA were suppressed by the method we proposed, the cancerous CNAs were more distinguishable in some samples with higher cfDNA quantity. Although the potential to detect CNAs using the plasma cfDNA WES data for NSCLC patients was studied here, further studies with other cancer types, with more samples, and with more sophisticated techniques for bias correction are required to confirm our observation. In conclusion, the detection performance for cancerous CNAs can be improved by controlling RC bias, but it depends on the quantity of cfDNA in plasma."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9869-4562"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Medicine Data Division, Korea Institute of Oriental Medicine, Daejeon 34054, Korea."
+          }
+        ],
+        "LastName": "Jang",
+        "ForeName": "Ho",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2881-4669"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pulmonary and Critical Care Medicine, Department of Oncology, College of Medicine, University of Ulsan, Asan Medical Center, Seoul 05505, Korea."
+          }
+        ],
+        "LastName": "Choi",
+        "ForeName": "Chang-Min",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7666-313X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, Kyung Hee University Medical Center, Kyung Hee University School of Medicine, Seoul 02447, Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Seung-Hyeun",
+        "Initials": "SH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pulmonary, Allergy, and Critical Care Medicine, Department of Internal Medicine, Korea University Guro Hospital, Seoul 08308, Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Sungyong",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0239-0159"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Medicine Convergence Research Division, Korea Institute of Oriental Medicine, Daejeon 34054, Korea."
+          }
+        ],
+        "LastName": "Jeong",
+        "ForeName": "Mi-Kyung",
+        "Initials": "MK"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "KSN2022240",
+        "Agency": "Korea Institute of Oriental Medicine",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Int J Mol Sci",
+    "NlmUniqueID": "101092791",
+    "ISSNLinking": "1422-0067"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cell-Free Nucleic Acids"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exome Sequencing"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Carcinoma, Non-Small-Cell Lung"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "DNA Copy Number Variations"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Cell-Free Nucleic Acids"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

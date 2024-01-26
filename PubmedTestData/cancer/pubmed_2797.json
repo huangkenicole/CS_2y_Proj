@@ -1,0 +1,219 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Immune analysis",
+      "LIHC",
+      "Pan-cancer",
+      "Prognosis",
+      "SYNGR2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37170221",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "05",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "192",
+      "10.1186/s12859-023-05323-y"
+    ],
+    "Journal": {
+      "ISSN": "1471-2105",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May",
+          "Day": "11"
+        }
+      },
+      "Title": "BMC bioinformatics",
+      "ISOAbbreviation": "BMC Bioinformatics"
+    },
+    "ArticleTitle": "Pan-cancer analysis of SYNGR2 with a focus on clinical implications and immune landscape in liver hepatocellular carcinoma.",
+    "Pagination": {
+      "StartPage": "192",
+      "MedlinePgn": "192"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Synaptogyrin-2 (SYNGR2), as a member of synaptogyrin gene family, is overexpressed in several types of cancer. However, the role of SYNGR2 in pan-cancer is largely unexplored.",
+        "From the TCGA and GEO databases, we obtained bulk transcriptomes, and clinical information. We examined the expression patterns, prognostic values, and diagnostic value of SYNGR2 in pan-cancer, and investigated the relationship of SYNGR2 expression with tumor mutation burden (TMB), microsatellite instability (MSI), immune infiltration, and immune checkpoint (ICP) genes. The gene set enrichment analysis (GSEA) software was used to perform pathway analysis. Besides, we built a nomogram of liver hepatocellular carcinoma patients (LIHC) and validated its prediction accuracy.",
+        "SYNGR2 was highly expressed in most cancers. The high expression of SYNGR2 significantly reduced the overall survival (OS), disease-specific survival (DSS), disease-free interval (DFI), and progression-free interval (PFI) in multiple types of cancer. Also, receiver operating characteristic (ROC) curve analysis demonstrated that SYNGR2 showed high accuracy in distinguishing cancerous tissues from normal ones. Moreover, SYNGR2 expression was correlated with TMB, MSI, immune scores, and immune cell infiltrations. We also analyzed the association of SYNGR2 with immunotherapy response in LIHC. Finally, a nomogram including SYNGR2 and pathologic T, N, M stage was built and exhibited good predictive power for the OS, DSS, and PFI of LIHC patients.",
+        "Overall, SYNGR2 is a critical oncogene in various tumors. SYNGR2 participates in the carcinogenic progression, and may contribute to the immune infiltration in tumor microenvironment. Our study suggests that SYNGR2 can serve as a predictor related to prognosis in pan-cancer, especially LIHC."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Hepatopancreatobiliary Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Chunxun",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Hepatopancreatobiliary Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+          }
+        ],
+        "LastName": "Qu",
+        "ForeName": "Zhaowei",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Hepatopancreatobiliary Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Haoran",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Hepatopancreatobiliary Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Peng",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Hepatopancreatobiliary Surgery, Harbin Medical University Cancer Hospital, Harbin, China."
+          }
+        ],
+        "LastName": "Zhan",
+        "ForeName": "Chao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Hepatopancreatobiliary Surgery, Harbin Medical University Cancer Hospital, Harbin, China. zhangyubao@hrbmu.edu.cn."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yubao",
+        "Initials": "Y"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "YXJL-2022-0080-0168",
+        "Agency": "Beijing Medical Award Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "JJZD2014-06",
+        "Agency": "Haiyan Foundation of Harbin Medical University Cancer Hospital",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Bioinformatics",
+    "NlmUniqueID": "100965194",
+    "ISSNLinking": "1471-2105"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Synaptogyrins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "SYNGR2 protein, human"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "Carcinoma, Hepatocellular"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "Liver Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Microsatellite Instability"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oncogenes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Synaptogyrins"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "Tumor Microenvironment"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflict of interest."
+}

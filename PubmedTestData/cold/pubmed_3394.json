@@ -1,0 +1,169 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "9122218",
+  "DateCompleted": {
+    "Year": "1997",
+    "Month": "04",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "05",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0027-8424",
+      "JournalIssue": {
+        "Volume": "94",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "1997",
+          "Month": "Mar",
+          "Day": "18"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "The pentamer channel stiffening model for drug action on human rhinovirus HRV-1A.",
+    "Pagination": {
+      "StartPage": "2466",
+      "EndPage": "2471",
+      "MedlinePgn": "2466-71"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Development of effective drugs against the rhinovirus (HRV) responsible for the common cold remains a challenge because there are over 100 serotypes. This process could be significantly aided by an understanding of the atomistic mechanism by which such drugs work. We suggest that the most effective drugs against HRV-1A act by stiffening the pentamer channel of the viral coat through which the RNA is released, preventing the steps leading to uncoating. Using molecular dynamics methods we tested this Pentamer Channel Stiffening Model (PCSM) by examining the changes in strain energy associated with opening the pentamer channel through which the RNA is released. We find that the PCSM strain correlates well with the effectiveness of the WIN (Sterling-Winthrop) drugs for HRV-1A. To illustrate the use of the PCSM to predict new drugs and to prioritize experimental tests, we tested three modifications of the WIN drugs that are predicted to be nearly as effective (for HRV-1A) as the best current drug."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Materials and Process Simulation Center, Beckman Institute, California Institute of Technology, Pasadena, CA 91125, USA."
+          }
+        ],
+        "LastName": "Vaidehi",
+        "ForeName": "N",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Goddard",
+        "ForeName": "W A",
+        "Initials": "WA",
+        "Suffix": "3rd"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Isoxazoles"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    },
+    {
+      "RegistryNumber": "107355-76-0",
+      "NameOfSubstance": "Win 56291"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry",
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Capsid"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Isoxazoles"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Structural"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Conformation"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "ultrastructure"
+      ],
+      "DescriptorName": "Rhinovirus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Structure-Activity Relationship"
+    }
+  ]
+}

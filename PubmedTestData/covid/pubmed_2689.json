@@ -1,0 +1,214 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33859233",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "8219",
+      "10.1038/s41598-021-87463-w"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr",
+          "Day": "15"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Novel application of automated machine learning with MALDI-TOF-MS for rapid high-throughput screening of COVID-19: a proof of concept.",
+    "Pagination": {
+      "StartPage": "8219",
+      "MedlinePgn": "8219"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The 2019 novel coronavirus infectious disease (COVID-19) pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has created an unsustainable need for molecular diagnostic testing. Molecular approaches such as reverse transcription (RT) polymerase chain reaction (PCR) offers highly sensitive and specific means to detect SARS-CoV-2 RNA, however, despite it being the accepted \"gold standard\", molecular platforms often require a tradeoff between speed versus throughput. Matrix assisted laser desorption ionization (MALDI)-time of flight (TOF)-mass spectrometry (MS) has been proposed as a potential solution for COVID-19 testing and finding a balance between analytical performance, speed, and throughput, without relying on impacted supply chains. Combined with machine learning (ML), this MALDI-TOF-MS approach could overcome logistical barriers encountered by current testing paradigms. We evaluated the analytical performance of an ML-enhanced MALDI-TOF-MS method for screening COVID-19. Residual nasal swab samples from adult volunteers were used for testing and compared against RT-PCR. Two optimized ML models were identified, exhibiting accuracy of 98.3%, positive percent agreement (PPA) of 100%, negative percent agreement (NPA) of 96%, and accuracy of 96.6%, PPA of 98.5%, and NPA of 94% respectively. Machine learning enhanced MALDI-TOF-MS for COVID-19 testing exhibited performance comparable to existing commercial SARS-CoV-2 tests."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of California Davis, 4400 V St., Sacramento, CA, 95817, USA. nktran@ucdavis.edu."
+          }
+        ],
+        "LastName": "Tran",
+        "ForeName": "Nam K",
+        "Initials": "NK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of California Davis, 4400 V St., Sacramento, CA, 95817, USA."
+          }
+        ],
+        "LastName": "Howard",
+        "ForeName": "Taylor",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shimadzu North America/Shimadzu Scientific Instruments, Inc., Baltimore, USA."
+          }
+        ],
+        "LastName": "Walsh",
+        "ForeName": "Ryan",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Spectra Pass, LLC and Allegiant Airlines, Las Vegas, USA."
+          }
+        ],
+        "LastName": "Pepper",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of California Davis, 4400 V St., Sacramento, CA, 95817, USA."
+          }
+        ],
+        "LastName": "Loegering",
+        "ForeName": "Julia",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of California Davis, 4400 V St., Sacramento, CA, 95817, USA."
+          }
+        ],
+        "LastName": "Phinney",
+        "ForeName": "Brett",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of California Davis, 4400 V St., Sacramento, CA, 95817, USA."
+          }
+        ],
+        "LastName": "Salemi",
+        "ForeName": "Michelle R",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of California Davis, 4400 V St., Sacramento, CA, 95817, USA. hrashidi@ucdavis.edu."
+          }
+        ],
+        "LastName": "Rashidi",
+        "ForeName": "Hooman H",
+        "Initials": "HH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Automation"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Screening Assays"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proof of Concept Study"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization"
+    }
+  ],
+  "CoiStatement": "Dr. Tran is a co-inventor the MILO software and co-owner of MILO-ML, LLC. He is also a consultant for Roche Diagnostics and Roche Molecular Systems. Dr. Tran is the Principal Investigator of this SpectraPass, LLC funded study. Dr. Howard is a co-investigator for this SpectraPass, LLC funded study. Dr. Walsh is employed by Shimadzu Scientific Instrumentations who manufacturers the MALDI-TOF-MS instrument used in the study. Mr. Pepper is employed by Allegiant Airlines which collaborators with SpectraPass, LLC. Ms. Loegering is a co-investigator for this SpectraPass, LLC funded study. Dr. Phinney is a co-investigator for this SpectraPass, LLC funded study. Ms. Salemi is a co-investigator for this SpectraPass, LLC funded study. Dr. Rashidi is a co-inventor of MILO, and co-owner of MILO-ML, LLC. He is a co-investigator for this SpectraPass, LLC funded study."
+}

@@ -1,0 +1,202 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Core Decomposition",
+      "Data Mining",
+      "Graph Theory",
+      "Network Inference"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34791019",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab455",
+      "10.1093/bib/bbab455"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "17"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Integrative COVID-19 biological network inference with probabilistic core decomposition.",
+    "Abstract": {
+      "AbstractText": [
+        "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is responsible for millions of deaths around the world. To help contribute to the understanding of crucial knowledge and to further generate new hypotheses relevant to SARS-CoV-2 and human protein interactions, we make use of the information abundant Biomine probabilistic database and extend the experimentally identified SARS-CoV-2-human protein-protein interaction (PPI) network in silico. We generate an extended network by integrating information from the Biomine database, the PPI network and other experimentally validated results. To generate novel hypotheses, we focus on the high-connectivity sub-communities that overlap most with the integrated experimentally validated results in the extended network. Therefore, we propose a new data analysis pipeline that can efficiently compute core decomposition on the extended network and identify dense subgraphs. We then evaluate the identified dense subgraph and the generated hypotheses in three contexts: literature validation for uncovered virus targeting genes and proteins, gene function enrichment analysis on subgraphs and literature support on drug repurposing for identified tissues and diseases related to COVID-19. The major types of the generated hypotheses are proteins with their encoding genes and we rank them by sorting their connections to the integrated experimentally validated nodes. In addition, we compile a comprehensive list of novel genes, and proteins potentially related to COVID-19, as well as novel diseases which might be comorbidities. Together with the generated hypotheses, our results provide novel knowledge relevant to COVID-19 for further validation."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, University of Victoria, 3800 Finnerty Road, V8P 5C2, Victoria, BC, Canada."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Yang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Victoria, 3800 Finnerty Road, V8P 5C2, Victoria, BC, Canada."
+          }
+        ],
+        "LastName": "Esfahani",
+        "ForeName": "Fatemeh",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Technologies Research Centre, National Research Council Canada, 1200 Montreal Road, K1A 0R6, Ottawa, ON, Canada."
+          }
+        ],
+        "LastName": "Shao",
+        "ForeName": "Xiaojian",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Victoria, 3800 Finnerty Road, V8P 5C2, Victoria, BC, Canada."
+          }
+        ],
+        "LastName": "Srinivasan",
+        "ForeName": "Venkatesh",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Victoria, 3800 Finnerty Road, V8P 5C2, Victoria, BC, Canada."
+          }
+        ],
+        "LastName": "Thomo",
+        "ForeName": "Alex",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, University of Saskatchewan, 110 Science Place, S7N 5A2, Saskatoon, SK, Canada."
+          }
+        ],
+        "LastName": "Xing",
+        "ForeName": "Li",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, University of Victoria, 3800 Finnerty Road, V8P 5C2, Victoria, BC, Canada."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Xuekui",
+        "Initials": "X"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "# RGPIN-2017-04722",
+        "Agency": "Natural Sciences and Engineering Research Council of Canada",
+        "Country": ""
+      },
+      {
+        "GrantID": "# 950-231363",
+        "Agency": "Canada Research Chair",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Maps"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

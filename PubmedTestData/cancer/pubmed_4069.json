@@ -1,0 +1,172 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34290286",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "14914",
+      "10.1038/s41598-021-92864-y"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "21"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Integrating ensemble systems biology feature selection and bimodal deep neural network for breast cancer prognosis prediction.",
+    "Pagination": {
+      "StartPage": "14914",
+      "MedlinePgn": "14914"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Breast cancer is a heterogeneous disease. To guide proper treatment decisions for each patient, robust prognostic biomarkers, which allow reliable prognosis prediction, are necessary. Gene feature selection based on microarray data is an approach to discover potential biomarkers systematically. However, standard pure-statistical feature selection approaches often fail to incorporate prior biological knowledge and select genes that lack biological insights. Besides, due to the high dimensionality and low sample size properties of microarray data, selecting robust gene features is an intrinsically challenging problem. We hence combined systems biology feature selection with ensemble learning in this study, aiming to select genes with biological insights and robust prognostic predictive power. Moreover, to capture breast cancer's complex molecular processes, we adopted a multi-gene approach to predict the prognosis status using deep learning classifiers. We found that all ensemble approaches could improve feature selection robustness, wherein the hybrid ensemble approach led to the most robust result. Among all prognosis prediction models, the bimodal deep neural network (DNN)\u00a0achieved the highest test performance, further verified by survival analysis. In summary, this study demonstrated the potential of combining ensemble learning and bimodal DNN in guiding precision medicine."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering, National Tsing Hua University, Hsinchu, 30013, Taiwan."
+          }
+        ],
+        "LastName": "Cheng",
+        "ForeName": "Li-Hsin",
+        "Initials": "LH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering, National Tsing Hua University, Hsinchu, 30013, Taiwan."
+          }
+        ],
+        "LastName": "Hsu",
+        "ForeName": "Te-Cheng",
+        "Initials": "TC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering and Graduate Institute of Communication Engineering, National Taiwan University, Taipei, 10617, Taiwan. che.lin@gmail.com."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Che",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "mortality"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Forecasting"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Analysis"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Systems Biology"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

@@ -1,0 +1,145 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SHapley Additive exPlanation (SHAP)",
+      "bias",
+      "feedforward neural network",
+      "machine learning",
+      "random forest"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37376526",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "05",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1226",
+      "10.3390/v15061226"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May",
+          "Day": "24"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Machine Learning Algorithms Associate Case Numbers with SARS-CoV-2 Variants Rather Than with Impactful Mutations.",
+    "Abstract": {
+      "AbstractText": [
+        "During the SARS-CoV-2 pandemic, much effort has been geared towards creating models to predict case numbers. These models typically rely on epidemiological data, and as such overlook viral genomic information, which could be assumed to improve predictions, as different variants show varying levels of virulence. To test this hypothesis, we implemented simple models to predict future case numbers based on the genomic sequences of the Alpha and Delta variants, which were co-circulating in Texas and Minnesota early during the pandemic. Sequences were encoded, matched with case numbers at a future time based on collection date, and used to train two algorithms: one based on random forests and one based on a feed-forward neural network. While prediction accuracies were \u226593%, explainability analyses showed that the models were not associating case numbers with mutations known to have an impact on virulence, but with individual variants. This work highlights the necessity of gaining a better understanding of the data used for training and of conducting explainability analysis to assess whether model predictions are misleading."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0009-0004-4870-3853"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Ottawa, Ottawa, ON K1N 6N5, Canada."
+          }
+        ],
+        "LastName": "Vilain",
+        "ForeName": "Matthieu",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4987-0296"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Ottawa, Ottawa, ON K1N 6N5, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, University of Ottawa, Ottawa, ON K1N 6N5, Canada."
+          }
+        ],
+        "LastName": "Aris-Brosou",
+        "ForeName": "St\u00e9phane",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript; or in the decision to publish the results."
+}

@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34088907",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "11841",
+      "10.1038/s41598-021-90195-6"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "04"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Robust estimation of SARS-CoV-2 epidemic in US counties.",
+    "Pagination": {
+      "StartPage": "11841",
+      "MedlinePgn": "11841"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 outbreak is asynchronous in US counties. Mitigating the COVID-19 transmission requires not only the state and federal level order of protective measures such as social distancing and testing, but also public awareness of time-dependent risk and reactions at county and community levels. We propose a robust approach to estimate the heterogeneous progression of SARS-CoV-2 at all US counties having no less than 2 COVID-19 associated deaths, and we use the daily probability of contracting (PoC) SARS-CoV-2 for a susceptible individual to quantify the risk of SARS-CoV-2 transmission in a community. We found that shortening by [Formula: see text] of the infectious period of SARS-CoV-2 can reduce around [Formula: see text] (or 78 K, [Formula: see text] CI: [66 K ,\u00a089 K ]) of the COVID-19 associated deaths in the US as of 20 September 2020. Our findings also indicate that reducing infection and deaths by a shortened infectious period is more pronounced for areas with the effective reproduction number close to 1, suggesting that testing should be used along with other mitigation measures, such as social distancing and facial mask-wearing, to reduce the transmission rate. Our deliverable includes a dynamic county-level map for local officials to determine optimal policy responses and for the public to better understand the risk of contracting SARS-CoV-2 on each day."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistics and Applied Probability, University of California, Santa Barbara, CA, 93106, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Hanmo",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistics and Applied Probability, University of California, Santa Barbara, CA, 93106, USA. mengyang@pstat.ucsb.edu."
+          }
+        ],
+        "LastName": "Gu",
+        "ForeName": "Mengyang",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 DK130067",
+        "Acronym": "DK",
+        "Agency": "NIDDK NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "1R01DK130067",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "ArXiv. 2020 Oct 22;:",
+      "PMID": "33948448"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Basic Reproduction Number"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Masks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Distancing"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

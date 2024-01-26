@@ -1,0 +1,218 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Emergency department",
+      "Explainable machine learning",
+      "Febrile young infant",
+      "Invasive bacterial infection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36731394",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.ijmedinf.2023.105007",
+      "S1386-5056(23)00024-2"
+    ],
+    "Journal": {
+      "ISSN": "1872-8243",
+      "JournalIssue": {
+        "Volume": "172",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Apr"
+        }
+      },
+      "Title": "International journal of medical informatics",
+      "ISOAbbreviation": "Int J Med Inform"
+    },
+    "ArticleTitle": "Explainable deep learning model to predict invasive bacterial infection in febrile young infants: A retrospective study.",
+    "Pagination": {
+      "StartPage": "105007",
+      "MedlinePgn": "105007"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Machine learning models have demonstrated superior performance in predicting invasive bacterial infection (IBI) in febrile infants compared to commonly used risk stratification criteria in recent studies. However, the black-box nature of these models can make them difficult to apply in clinical practice. In this study, we developed and validated an explainable deep learning model that can predict IBI in febrile infants\u00a0\u2264\u00a060\u00a0days of age visiting the emergency department.",
+        "We conducted a retrospective study of febrile infants aged\u00a0\u2264\u00a060\u00a0days who presented to the pediatric emergency department of a medical center in Taiwan between January 1, 2011 and December 31, 2019. Patients with uncertain test results and complex chronic health conditions were excluded. IBI was defined as the growth of a pathogen in the blood or cerebrospinal fluid. We used a deep neural network to develop a predictive model for IBI and compared its performance to the IBI score and step-by-step approach. The SHapley Additive Explanations (SHAP) technique was used to explain the model's predictions at different levels.",
+        "Our study included 1847 patients, 53 (2.7%) of whom had IBI. The deep learning model performed similarly to the IBI score and step-by-step approach in terms of sensitivity and negative predictive value, but provided better specificity (54%), positive predictive value (5%), and area under the receiver-operating characteristic curve (0.87). SHapley Additive exPlanations identified five influential predictive variables (absolute neutrophil count, body temperature, heart rate, age, and C-reactive protein).",
+        "We have developed an explainable deep learning model that can predict IBI in febrile infants aged 0-60\u00a0days. The model not only performs better than previous scoring systems, but also provides insight into how it arrives at its predictions through individual features and cases."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Ying",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Yi-Min",
+        "Initials": "YM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, National Sun Yat-sen University, Kaohsiung, Taiwan."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Chun-Hung Richard",
+        "Initials": "CR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan; Department of Computer Science and Engineering, National Sun Yat-sen University, Kaohsiung, Taiwan."
+          }
+        ],
+        "LastName": "Cheng",
+        "ForeName": "Chi-Yung",
+        "Initials": "CY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan; Department of Computer Science and Engineering, National Sun Yat-sen University, Kaohsiung, Taiwan."
+          }
+        ],
+        "LastName": "Tsai",
+        "ForeName": "Chi-Ming",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Ying-Hsien",
+        "Initials": "YH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Cardiology, Department of Internal Medicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Tien-Yu",
+        "Initials": "TY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan; Department of Computer Science and Engineering, National Sun Yat-sen University, Kaohsiung, Taiwan. Electronic address: outofray@hotmail.com."
+          }
+        ],
+        "LastName": "Chiu",
+        "ForeName": "I-Min",
+        "Initials": "IM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Int J Med Inform",
+    "NlmUniqueID": "9711057",
+    "ISSNLinking": "1386-5056"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "microbiology"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Bacterial Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Body Temperature"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

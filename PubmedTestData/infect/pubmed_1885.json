@@ -1,0 +1,382 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Epstein-Barr virus",
+      "basic reproduction number",
+      "cytomegalovirus",
+      "founder population",
+      "herpes simplex virus",
+      "human herpesviruses",
+      "mathematical modeling",
+      "oral shedding",
+      "transient infection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28381570",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "07",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "05",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e00380-17",
+      "10.1128/JVI.00380-17"
+    ],
+    "Journal": {
+      "ISSN": "1098-5514",
+      "JournalIssue": {
+        "Volume": "91",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Jun",
+          "Day": "15"
+        }
+      },
+      "Title": "Journal of virology",
+      "ISOAbbreviation": "J Virol"
+    },
+    "ArticleTitle": "Transient Oral Human Cytomegalovirus Infections Indicate Inefficient Viral Spread from Very Few Initially Infected Cells.",
+    "Abstract": {
+      "AbstractText": [
+        "Cytomegalovirus (CMV) is acquired by the oral route in children, and primary infection is associated with abundant mucosal replication, as well as the establishment of latency in myeloid cells that results in lifelong infection. The efficiency of primary CMV infection in humans following oral exposure, however, is unknown. We consistently detected self-limited, low-level oral CMV shedding events, which we termed transient CMV infections, in a prospective birth cohort of 30 highly exposed CMV-uninfected infants. We estimated the likelihood of transient oral CMV infections by comparing their observed frequency to that of established primary infections, characterized by persistent high-level shedding, viremia, and seroconversion. We developed mathematical models of viral dynamics upon initial oral CMV infection and validated them using clinical shedding data. Transient infections comprised 76 to 88% of oral CMV shedding events. For this high percentage of transient infections to occur, we identified two mathematical prerequisites: a very small number of initially infected oral cells (1 to 4) and low viral infectivity (<1.5 new cells infected/cell). These observations indicate that oral CMV infection in infants typically begins with a single virus that spreads inefficiently to neighboring cells. Thus, although the incidence of CMV infection is high during infancy, our data provide a mechanistic framework to explain why multiple CMV exposures are typically required before infection is successfully established. These findings imply that a sufficiently primed immune response could prevent CMV from establishing latent infection in humans and support the achievability of a prophylactic CMV vaccine.<b>IMPORTANCE</b> CMV infects the majority of the world's population and is a major cause of birth defects. Developing a vaccine to prevent CMV infection would be extremely valuable but would be facilitated by a better understanding of how natural human CMV infection is acquired. We studied CMV acquisition in infants and found that infections are usually brief and self-limited and are successfully established relatively rarely. Thus, although most people eventually acquire CMV infection, it usually requires numerous exposures. Our analyses indicate that this is because the virus is surprisingly inefficient, barely replicating well enough to spread to neighboring cells in the mouth. Greater knowledge of why CMV infection usually fails may provide insight into how to prevent it from succeeding."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2017 American Society for Microbiology."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Mayer",
+        "ForeName": "Bryan T",
+        "Initials": "BT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Krantz",
+        "ForeName": "Elizabeth M",
+        "Initials": "EM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Swan",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Ferrenberg",
+        "ForeName": "James",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of British Columbia, BC Children's Hospital Research Institute, Vancouver, Canada."
+          }
+        ],
+        "LastName": "Simmons",
+        "ForeName": "Karen",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Selke",
+        "ForeName": "Stacy",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Meei-Li",
+        "Initials": "ML"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Casper",
+        "ForeName": "Corey",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Corey",
+        "ForeName": "Lawrence",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Wald",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Schiffer",
+        "ForeName": "Joshua T",
+        "Initials": "JT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA sgantt@bcchr.ca."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of British Columbia, BC Children's Hospital Research Institute, Vancouver, Canada."
+          }
+        ],
+        "LastName": "Gantt",
+        "ForeName": "Soren",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 CA015704",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "MOP 136825",
+        "Agency": "CIHR",
+        "Country": "Canada"
+      },
+      {
+        "GrantID": "P01 AI030731",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "KL2 TR002317",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "KL2 RR025015",
+        "Acronym": "RR",
+        "Agency": "NCRR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 AI027757",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 CA138165",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Virol",
+    "NlmUniqueID": "0113724",
+    "ISSNLinking": "0022-538X"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "J Virol. 2017 Aug 24;91(18):",
+      "PMID": "28839088"
+    },
+    {
+      "RefSource": "J Virol. 2017 Aug 24;91(18):",
+      "PMID": "28839090"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Cytomegalovirus"
+    },
+    {
+      "QualifierName": [
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "Cytomegalovirus Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Mouth"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seroconversion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Uganda"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viremia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Latency"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Replication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Shedding"
+    }
+  ]
+}

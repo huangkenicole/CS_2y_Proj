@@ -1,0 +1,268 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "3D molecular structure modelling",
+      "DNA replication stress",
+      "R-loops",
+      "SARS-CoV-2 ORF6\u2013RAE1 binding",
+      "cell cycle",
+      "cyclin E",
+      "molecular dynamics simulations"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37511350",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "07",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "11589",
+      "10.3390/ijms241411589"
+    ],
+    "Journal": {
+      "ISSN": "1422-0067",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "14",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul",
+          "Day": "18"
+        }
+      },
+      "Title": "International journal of molecular sciences",
+      "ISOAbbreviation": "Int J Mol Sci"
+    },
+    "ArticleTitle": "Insights into the SARS-CoV-2 ORF6 Mechanism of Action.",
+    "Abstract": {
+      "AbstractText": [
+        "ORF6 is responsible for suppressing the immune response of cells infected by the SARS-CoV-2 virus. It is also the most toxic protein of SARS-CoV-2, and its actions are associated with the viral pathogenicity. Here, we study in silico and in vitro the structure of the protein, its interaction with RAE1 and the mechanism of action behind its high toxicity. We show both computationally and experimentally that SARS-CoV-2 ORF6, embedded in the cytoplasmic membranes, binds to RAE1 and sequesters it in the cytoplasm, thus depleting its availability in the nucleus and impairing nucleocytoplasmic mRNA transport. This negatively affects the cellular genome stability by compromising the cell cycle progression into the S-phase and by promoting the accumulation of RNA-DNA hybrids. Understanding the multiple ways in which ORF6 affects DNA replication may also have important implications for elucidating the pathogenicity of SARS-CoV-2 and developing therapeutic strategies to mitigate its deleterious effects on host cells."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9501-0724"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Molecular Biology \"Acad. Roumen Tsanev\", Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Krachmarova",
+        "ForeName": "Elena",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0420-9480"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Physics, Sofia University \"St. Kliment Ohridski\", 1164 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Petkov",
+        "ForeName": "Peicho",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2008-710X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Information and Communication Technologies, Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Lilkova",
+        "ForeName": "Elena",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2372-2319"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Information and Communication Technologies, Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Ilieva",
+        "ForeName": "Nevena",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7953-7593"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Organic Chemistry with Centre of Phytochemistry, Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Rangelov",
+        "ForeName": "Miroslav",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7195-195X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biodiversity and Ecosystem Research, Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Todorova",
+        "ForeName": "Nadezhda",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Molecular Biology \"Acad. Roumen Tsanev\", Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Malinova",
+        "ForeName": "Kristina",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8362-5396"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Molecular Biology \"Acad. Roumen Tsanev\", Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Hristova",
+        "ForeName": "Rossitsa",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5663-8589"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Molecular Biology \"Acad. Roumen Tsanev\", Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Nacheva",
+        "ForeName": "Genoveva",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6216-9563"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Molecular Biology \"Acad. Roumen Tsanev\", Bulgarian Academy of Sciences, 1113 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Gospodinov",
+        "ForeName": "Anastas",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8511-6883"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Physics, Sofia University \"St. Kliment Ohridski\", 1164 Sofia, Bulgaria."
+          }
+        ],
+        "LastName": "Litov",
+        "ForeName": "Leandar",
+        "Initials": "L"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "KP-06-DK1/5/2021 SARSIMM",
+        "Agency": "Bulgarian Science Fund",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Int J Mol Sci",
+    "NlmUniqueID": "101092791",
+    "ISSNLinking": "1422-0067"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Active Transport, Cell Nucleus"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cytoplasm"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results."
+}

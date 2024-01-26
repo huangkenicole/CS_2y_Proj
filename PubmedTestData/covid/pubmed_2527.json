@@ -1,0 +1,210 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33234678",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e202000869",
+      "10.26508/lsa.202000869"
+    ],
+    "Journal": {
+      "ISSN": "2575-1077",
+      "JournalIssue": {
+        "Volume": "4",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Life science alliance",
+      "ISOAbbreviation": "Life Sci Alliance"
+    },
+    "ArticleTitle": "Inhibiting the reproduction of SARS-CoV-2 through perturbations in human lung cell metabolic network.",
+    "Abstract": {
+      "AbstractText": [
+        "Viruses rely on their host for reproduction. Here, we made use of genomic and structural information to create a biomass function capturing the amino and nucleic acid requirements of SARS-CoV-2. Incorporating this biomass function into a stoichiometric metabolic model of the human lung cell and applying metabolic flux balance analysis, we identified host-based metabolic perturbations inhibiting SARS-CoV-2 reproduction. Our results highlight reactions in the central metabolism, as well as amino acid and nucleotide biosynthesis pathways. By incorporating host cellular maintenance into the model based on available protein expression data from human lung cells, we find that only few of these metabolic perturbations are able to selectively inhibit virus reproduction. Some of the catalysing enzymes of such reactions have demonstrated interactions with existing drugs, which can be used for experimental testing of the presented predictions using gene knockouts and RNA interference techniques. In summary, the developed computational approach offers a platform for rapid, experimentally testable generation of drug predictions against existing and emerging viruses based on their biomass requirements."
+      ],
+      "CopyrightInformation": "\u00a9 2020 Delattre et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences, University of Warwick, UK."
+          }
+        ],
+        "LastName": "Delattre",
+        "ForeName": "Hadrien",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9282-6859"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences, University of Warwick, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bio-Electrical Engineering Innovation Hub, University of Warwick, UK."
+          }
+        ],
+        "LastName": "Sasidharan",
+        "ForeName": "Kalesh",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9504-3796"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences, University of Warwick, UK O.Soyer@warwick.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bio-Electrical Engineering Innovation Hub, University of Warwick, UK."
+          }
+        ],
+        "LastName": "Soyer",
+        "ForeName": "Orkun S",
+        "Initials": "OS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Life Sci Alliance",
+    "NlmUniqueID": "101728869",
+    "ISSNLinking": "2575-1077"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Culture Media"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomass"
+    },
+    {
+      "QualifierName": [
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cells, Cultured"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Culture Media"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Glycolysis"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "physiology"
+      ],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "cytology",
+        "metabolism"
+      ],
+      "DescriptorName": "Lung"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Metabolic Flux Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Systems Biology"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "physiology"
+      ],
+      "DescriptorName": "Virus Replication"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflict of interest."
+}

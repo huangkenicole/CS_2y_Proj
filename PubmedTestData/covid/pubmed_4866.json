@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33720988",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "26"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0248243",
+      "10.1371/journal.pone.0248243"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Modelling the impact of interventions on the progress of the COVID-19 outbreak including age segregation.",
+    "Pagination": {
+      "StartPage": "e0248243",
+      "MedlinePgn": "e0248243"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this work, a SEIR-type mathematical model of the COVID-19 outbreak was developed that describes individuals in compartments by infection stage and age group. The model assumes a close well-mixed community with no migrations. Infection rates and clinical and epidemiological information govern the transitions between stages of the disease. The impact of specific interventions (including the availability of critical care) on the outbreak time course, the number of cases and the outcome of fatalities were evaluated. Data available from the COVID-19 outbreak from Spain as of mid-May 2020 was used. Key findings in our model simulation results indicate that (i) universal social isolation measures appear effective in reducing total fatalities only if they are strict and the number of daily interpersonal contacts is reduced to very low numbers; (ii) selective isolation of only the elderly (at higher fatality risk) appears almost as effective as universal isolation in reducing total fatalities but at a possible lower economic and social impact; (iii) an increase in the number of critical care capacity directly avoids fatalities; (iv) the use of personal protective equipment (PPE) appears to be effective to dramatically reduce total fatalities when adopted extensively and to a high degree; (v) extensive random testing of the population for more complete infection recognition (accompanied by subsequent self-isolation of infected aware individuals) can dramatically reduce the total fatalities only above a high percentage threshold that may not be practically feasible."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-5936-9676"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering, College of Engineering, Khalifa University, Abu Dhabi, United Arab Emirates."
+          }
+        ],
+        "LastName": "Rodr\u00edguez",
+        "ForeName": "Jorge",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1869-4448"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering, College of Engineering, Khalifa University, Abu Dhabi, United Arab Emirates."
+          }
+        ],
+        "LastName": "Pat\u00f3n",
+        "ForeName": "Mauricio",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering, College of Engineering, Khalifa University, Abu Dhabi, United Arab Emirates."
+          }
+        ],
+        "LastName": "Uratani",
+        "ForeName": "Joao M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Public Health, College of Medicine, Khalifa University, Abu Dhabi, United Arab Emirates."
+          }
+        ],
+        "LastName": "Acu\u00f1a",
+        "ForeName": "Juan M",
+        "Initials": "JM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Awareness"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Spain"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

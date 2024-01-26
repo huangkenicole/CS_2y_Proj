@@ -1,0 +1,407 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34171231",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/S1473-3099(21)00290-5",
+      "S1473-3099(21)00290-5"
+    ],
+    "Journal": {
+      "ISSN": "1474-4457",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov"
+        }
+      },
+      "Title": "The Lancet. Infectious diseases",
+      "ISOAbbreviation": "Lancet Infect Dis"
+    },
+    "ArticleTitle": "Risk of hospitalisation associated with infection with SARS-CoV-2 lineage B.1.1.7 in Denmark: an observational cohort study.",
+    "Pagination": {
+      "StartPage": "1507",
+      "EndPage": "1517",
+      "MedlinePgn": "1507-1517"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The more infectious SARS-CoV-2 lineage B.1.1.7 rapidly spread in Europe after December, 2020, and a concern that B.1.1.7 could cause more severe disease has been raised. Taking advantage of Denmark's high RT-PCR testing and whole genome sequencing capacities, we used national health register data to assess the risk of COVID-19 hospitalisation in individuals infected with B.1.1.7 compared with those with other SARS-CoV-2 lineages.",
+        "We did an observational cohort study of all SARS-CoV-2-positive cases confirmed by RT-PCR in Denmark, sampled between Jan 1 and March 24, 2021, with 14 days of follow-up for COVID-19 hospitalisation. Cases were identified in the national COVID-19 surveillance system database, which includes data from the Danish Microbiology Database (RT-PCR test results), the Danish COVID-19 Genome Consortium, the National Patient Registry, the Civil Registration System, as well as other nationwide registers. Among all cases, COVID-19 hospitalisation was defined as first admission lasting longer than 12 h within 14 days of a sample with a positive RT-PCR result. The study population and main analysis were restricted to the proportion of cases with viral genome data. We calculated the risk ratio (RR) of admission according to infection with B.1.1.7 versus other co-existing lineages with a Poisson regression model with robust SEs, adjusted a priori for sex, age, calendar time, region, and comorbidities. The contribution of each covariate to confounding of the crude RR was evaluated afterwards by a stepwise forward inclusion.",
+        "Between Jan 1 and March 24, 2021, 50\u2009958 individuals with a positive SARS-CoV-2 test and at least 14 days of follow-up for hospitalisation were identified; 30\u2009572 (60\u00b70%) had genome data, of whom 10\u2009544 (34\u00b75%) were infected with B.1.1.7. 1944 (6\u00b74%) individuals had a COVID-19 hospitalisation and of these, 571 (29\u00b74%) had a B.1.1.7 infection and 1373 (70\u00b76%) had an infection with other SARS-CoV-2 lineages. Although the overall number of hospitalisations decreased during the study period, the proportion of individuals infected with B.1.1.7 increased from 3\u00b75% to 92\u00b71% per week. B.1.1.7 was associated with a crude RR of hospital admission of 0\u00b779 (95% CI 0\u00b772-0\u00b787; p<0\u00b70001) and an adjusted RR of 1\u00b742 (95% CI 1\u00b725-1\u00b760; p<0\u00b70001). The adjusted RR was increased in all strata of age and calendar period-the two covariates with the largest contribution to confounding of the crude RR.",
+        "Infection with SARS-CoV-2 lineage B.1.1.7 was associated with an increased risk of hospitalisation compared with that of other lineages in an analysis adjusted for covariates. The overall effect on hospitalisations in Denmark was lessened due to a strict lockdown, but our findings could support hospital preparedness and modelling of the projected impact of the epidemic in countries with uncontrolled spread of B.1.1.7.",
+        "None."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease Preparedness, Statens Serum Institut, Copenhagen, Denmark; Department of Epidemiology Research, Statens Serum Institut, Copenhagen, Denmark. Electronic address: pbg@ssi.dk."
+          }
+        ],
+        "LastName": "Bager",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology Research, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Wohlfahrt",
+        "ForeName": "Jan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Virus & Microbiological Special Diagnostics, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Fonager",
+        "ForeName": "Jannik",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Virus & Microbiological Special Diagnostics, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Rasmussen",
+        "ForeName": "Morten",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark."
+          }
+        ],
+        "LastName": "Albertsen",
+        "ForeName": "Mads",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark."
+          }
+        ],
+        "LastName": "Michaelsen",
+        "ForeName": "Thomas Yssing",
+        "Initials": "TY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease Preparedness, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "M\u00f8ller",
+        "ForeName": "Camilla Holten",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Disease Epidemiology & Prevention, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Ethelberg",
+        "ForeName": "Steen",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Disease Epidemiology & Prevention, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Legarth",
+        "ForeName": "Rebecca",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Disease Epidemiology & Prevention, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Button",
+        "ForeName": "Mia Sarah Fischer",
+        "Initials": "MSF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease Preparedness, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Gubbels",
+        "ForeName": "Sophie",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease Preparedness, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Voldstedlund",
+        "ForeName": "Marianne",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease Preparedness, Statens Serum Institut, Copenhagen, Denmark; Department of Veterinary and Animal Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "M\u00f8lbak",
+        "ForeName": "K\u00e5re",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease Preparedness, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Skov",
+        "ForeName": "Robert Leo",
+        "Initials": "RL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Virus & Microbiological Special Diagnostics, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Fomsgaard",
+        "ForeName": "Anders",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Disease Preparedness, Statens Serum Institut, Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Krause",
+        "ForeName": "Tyra Grove",
+        "Initials": "TG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "Danish Covid-19 Genome Consortium"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Lancet Infect Dis",
+    "NlmUniqueID": "101130150",
+    "ISSNLinking": "1473-3099"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Lancet Infect Dis. 2021 Nov;21(11):1472-1474",
+      "PMID": "34171234"
+    },
+    {
+      "RefSource": "Lancet Infect Dis. 2021 Nov;21(11):e341",
+      "PMID": "34717817"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "therapy",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cohort Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Comorbidity"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Denmark"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Hospitalization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant, Newborn"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Risk Assessment"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Whole Genome Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "Declaration of interests We declare no competing interests."
+}

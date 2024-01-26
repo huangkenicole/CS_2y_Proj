@@ -1,0 +1,223 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34031465",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10766",
+      "10.1038/s41598-021-89807-y"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "24"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Estimating the impact of control measures to prevent outbreaks of COVID-19 associated with air travel into a COVID-19-free country.",
+    "Pagination": {
+      "StartPage": "10766",
+      "MedlinePgn": "10766"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We aimed to estimate the risk of COVID-19 outbreaks associated with air travel to a COVID-19-free country [New Zealand (NZ)]. A stochastic version of the SEIR model CovidSIM v1.1, designed specifically for COVID-19 was utilised. We first considered historical data for Australia before it eliminated COVID-19 (equivalent to an outbreak generating 74 new cases/day) and one flight per day to NZ with no interventions in place. This gave a median time to an outbreak of 0.2 years (95% range of simulation results: 3 days to 1.1 years) or a mean of 110 flights per outbreak. However, the combined use of a pre-flight PCR test of saliva, three subsequent PCR tests (on days 1, 3 and 12 in NZ), and various other interventions (mask use and contact tracing) reduced this risk to one outbreak after a median of 1.5 years (20 days to 8.1 years). A pre-flight test plus 14 days quarantine was an even more effective strategy (4.9 years; 2,594 flights). For a much lower prevalence (representing only two new community cases per week in the whole of Australia), the annual risk of an outbreak with no interventions was 1.2% and had a median time to an outbreak of 56 years. In contrast the risks associated with travellers from Japan and the United States was very much higher and would need quarantine or other restrictions. Collectively, these results suggest that multi-layered interventions can markedly reduce the risk of importing the pandemic virus via air travel into a COVID-19-free nation. For some low-risk source countries, there is the potential to replace 14-day quarantine with alternative interventions. However, all approaches require public and policy deliberation about acceptable risks, and continuous careful management and evaluation."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BODE3 Programme, University of Otago, Wellington, New Zealand. nick.wilson@otago.ac.nz."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "HEIRU, University of Otago, Wellington, New Zealand. nick.wilson@otago.ac.nz."
+          }
+        ],
+        "LastName": "Wilson",
+        "ForeName": "Nick",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "HEIRU, University of Otago, Wellington, New Zealand."
+          }
+        ],
+        "LastName": "Baker",
+        "ForeName": "Michael G",
+        "Initials": "MG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Population Interventions Unit, Centre for Epidemiology and Biostatistics, Melbourne School of Population and Global Health, University of Melbourne, Melbourne, Australia."
+          }
+        ],
+        "LastName": "Blakely",
+        "ForeName": "Tony",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Epimos GmbH, Du\u00dflingen, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Clinical Epidemiology and Applied Biometry, University of T\u00fcbingen, T\u00fcbingen, Germany."
+          }
+        ],
+        "LastName": "Eichner",
+        "ForeName": "Martin",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "16/443",
+        "Agency": "Health Research Council of New Zealand",
+        "Country": ""
+      },
+      {
+        "GrantID": "20/1066",
+        "Agency": "Health Research Council of New Zealand",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Travel Med Infect Dis. 2021 Nov-Dec;44:102137",
+      "PMID": "34252572"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Air Travel"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "New Zealand"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "analysis",
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Saliva"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

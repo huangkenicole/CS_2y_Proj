@@ -1,0 +1,223 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30258062",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "10",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "09",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "14421",
+      "10.1038/s41598-018-32517-9"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "8",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Sep",
+          "Day": "26"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Mutagenic assessment of chemotherapy and Smac mimetic drugs in cells with defective DNA damage response pathways.",
+    "Pagination": {
+      "StartPage": "14421",
+      "MedlinePgn": "14421"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "DNA damaging therapies can spur the formation of therapy-related cancers, due to mis-repair of lesions they create in non-cancerous cells. This risk may be amplified in patients with impaired DNA damage responses. We disabled key DNA damage response pathways using genetic and pharmacological approaches, and assessed the impact of these deficiencies on the mutagenicity of chemotherapy drugs or the \"Smac mimetic\" GDC-0152, which kills tumor cells by targeting XIAP, cIAP1 and 2. Doxorubicin and cisplatin provoked mutations in more surviving cells deficient in ATM, p53 or the homologous recombination effector RAD51 than in wild type cells, but suppressing non-homologous end joining (NHEJ) by disabling DNA-PKcs prevented chemotherapy-induced mutagenesis. Vincristine-induced mutagenesis required p53 and DNA-PKcs but was not affected by ATM status, consistent with it provoking ATM-independent p53-mediated activation of caspases and CAD, which creates DNA lesions in surviving cells that could be mis-repaired by NHEJ. Encouragingly, GDC-0152 failed to stimulate mutations in cells with proficient or defective DNA damage response pathways. This study highlights the elevated oncogenic risk associated with treating DNA repair-deficient patients with genotoxic anti-cancer therapies, and suggests a potential advantage for Smac mimetic drugs over traditional therapies: a reduced risk of therapy-related cancers."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Genetics, La Trobe Institute for Molecular Science, La Trobe University, Victoria, Australia."
+          }
+        ],
+        "LastName": "Miles",
+        "ForeName": "Mark A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8120-1071"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Genetics, La Trobe Institute for Molecular Science, La Trobe University, Victoria, Australia. c.hawkins@latrobe.edu.au."
+          }
+        ],
+        "LastName": "Hawkins",
+        "ForeName": "Christine J",
+        "Initials": "CJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "APP1145995",
+        "Agency": "Cancer Council Victoria",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Apoptosis Regulatory Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cyclohexanes"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "DIABLO protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Intracellular Signaling Peptides and Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Mitochondrial Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Pyrroles"
+    },
+    {
+      "RegistryNumber": "4KW1M48SHS",
+      "NameOfSubstance": "GDC-0152"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Apoptosis Regulatory Proteins"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Biomimetic Materials"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line, Tumor"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Cyclohexanes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Damage"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "DNA End-Joining Repair"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Delivery Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "HEK293 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Intracellular Signaling Peptides and Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mitochondrial Proteins"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Mutagenesis"
+    },
+    {
+      "QualifierName": [
+        "antagonists & inhibitors",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Pyrroles"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

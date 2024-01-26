@@ -1,0 +1,180 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28113945",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "10",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "02",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "11",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNSRE.2016.2628760"
+    ],
+    "Journal": {
+      "ISSN": "1558-0210",
+      "JournalIssue": {
+        "Volume": "25",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Sep"
+        }
+      },
+      "Title": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+      "ISOAbbreviation": "IEEE Trans Neural Syst Rehabil Eng"
+    },
+    "ArticleTitle": "Validation of a Portable Low-Power Deep Brain Stimulation Device Through Anxiolytic Effects in a Laboratory Rat Model.",
+    "Pagination": {
+      "StartPage": "1365",
+      "EndPage": "1374",
+      "MedlinePgn": "1365-1374"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Deep brain stimulation (DBS) devices deliver electrical pulses to neural tissue through an electrode. To study the mechanisms and therapeutic benefits of deep brain stimulation, murine preclinical research is necessary. However, conducting naturalistic long-term, uninterrupted animal behavioral experiments can be difficult with bench-top systems. The reduction of size, weight, power consumption, and cost of DBS devices can assist the progress of this research in animal studies. A low power, low weight, miniature DBS device is presented in this paper. This device consists of electronic hardware and software components including a low-power microcontroller, an adjustable current source, an n-channel metal-oxide-semiconductor field-effect transistor, a coin-cell battery, electrode wires and a software program to operate the device. Evaluation of the performance of the device in terms of battery lifetime and device functionality through bench and in vivo tests was conducted. The bench test revealed that this device can deliver continuous stimulation current pulses of strength [Formula: see text], width [Formula: see text], and frequency 130 Hz for over 22 days. The in vivo tests demonstrated that chronic stimulation of the nucleus accumbens (NAc) with this device significantly increased psychomotor activity, together with a dramatic reduction in anxiety-like behavior in the elevated zero-maze test."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kouzani",
+        "ForeName": "Abbas Z",
+        "Initials": "AZ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kale",
+        "ForeName": "Rajas P",
+        "Initials": "RP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zarate-Garza",
+        "ForeName": "Pablo Patricio",
+        "Initials": "PP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Berk",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Walder",
+        "ForeName": "Ken",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tye",
+        "ForeName": "Susannah J",
+        "Initials": "SJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Neural Syst Rehabil Eng",
+    "NlmUniqueID": "101097023",
+    "ISSNLinking": "1534-4320"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology",
+        "prevention & control"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Behavior, Animal"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "veterinary"
+      ],
+      "DescriptorName": "Deep Brain Stimulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electric Power Supplies"
+    },
+    {
+      "QualifierName": [
+        "veterinary"
+      ],
+      "DescriptorName": "Equipment Design"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Equipment Failure Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rats"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rats, Wistar"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "instrumentation"
+      ],
+      "DescriptorName": "Signal Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Treatment Outcome"
+    }
+  ]
+}

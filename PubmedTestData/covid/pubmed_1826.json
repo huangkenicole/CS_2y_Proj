@@ -1,0 +1,279 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "browser",
+      "epidemiology",
+      "evolutionary biology",
+      "global health",
+      "mutation tracking",
+      "pandemic",
+      "resource",
+      "virus"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [
+    {
+      "AbstractText": [
+        "The discovery of faster spreading variants of the virus that causes coronavirus disease 2019 (COVID-19) has raised alarm. These new variants are the result of changes (called mutations) in the virus\u2019 genetic code. Random mutations can occur each time a virus multiplies. Although most mutations do not introduce any meaningful changes, some can alter the characteristics of the virus, for instance, helping the virus to spread more easily, reinfecting people who have had COVID-19 before, or reducing the sensitivity to treatments or vaccines. Scientists need to know about mutations in the virus that make treatments or vaccines less effective as soon as possible, so they can adjust their pandemic response. As a result, tracking these genetic changes is essential. But individual scientists or public health agencies may not have the staff, time or computer resources to extract usable information from the growing amount of genetic data available. A free online tool created by Chen et al. may help scientists and public health officials to track changes to the virus more easily. The COVID-19 CoV Genetics tool (COVID-19 CG) can quickly provide information on which virus mutations are present in an area during a specific period. It does this by processing data on mutations found in viral genetic material collected worldwide from hundreds of thousands of people with COVID-19, which are hosted in an existing online database. The COVID-19 CG tool presents customizable, interactive visualizations of the data. Thousands of scientists, public health agencies, and COVID-19 vaccine and treatment developers in over 100 countries are already using the COVID-19 CG tool to find the most common mutations in their area and use it for research. They can use this information to develop more effective vaccines or treatments. Chen et al. plan to update and improve the tool as more information becomes available to help advance global efforts to end the COVID-19 pandemic."
+      ],
+      "CopyrightInformation": "\u00a9 2021, Chen et al."
+    }
+  ],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33620031",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e63409",
+      "10.7554/eLife.63409"
+    ],
+    "Journal": {
+      "ISSN": "2050-084X",
+      "JournalIssue": {
+        "Volume": "10",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "23"
+        }
+      },
+      "Title": "eLife",
+      "ISOAbbreviation": "Elife"
+    },
+    "ArticleTitle": "COVID-19 CG enables SARS-CoV-2 mutation and lineage tracking by locations and dates of interest.",
+    "Abstract": {
+      "AbstractText": [
+        "COVID-19 CG (covidcg.org) is an open resource for tracking SARS-CoV-2 single-nucleotide variations (SNVs), lineages, and clades using the virus genomes on the GISAID database while filtering by location, date, gene, and mutation of interest. COVID-19 CG provides significant time, labor, and cost-saving utility to projects on SARS-CoV-2 transmission, evolution, diagnostics, therapeutics, vaccines, and intervention tracking. Here, we describe case studies in which users can interrogate (1) SNVs in the SARS-CoV-2 spike receptor binding domain (RBD) across different geographical regions to inform the design and testing of therapeutics, (2) SNVs that may impact the sensitivity of commonly used diagnostic primers, and (3) the emergence of a dominant lineage harboring an S477N RBD mutation in Australia in 2020. To accelerate COVID-19 efforts, COVID-19 CG will be upgraded with new features for users to rapidly pinpoint mutations as the virus evolves throughout the pandemic and in response to therapeutic and public health interventions."
+      ],
+      "CopyrightInformation": "\u00a9 2021, Chen et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, United States."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Albert Tian",
+        "Initials": "AT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Independent web designer, Cambridge, United States."
+          }
+        ],
+        "LastName": "Altschuler",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology & Biodiversity Research Centre, the University of British Columbia, Vancouver, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Fusion Genomics Corporation, Burnaby, Canada."
+          }
+        ],
+        "LastName": "Zhan",
+        "ForeName": "Shing Hei",
+        "Initials": "SH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0731-637X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, United States."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Yujia Alina",
+        "Initials": "YA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6223-9303"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, United States."
+          }
+        ],
+        "LastName": "Deverman",
+        "ForeName": "Benjamin E",
+        "Initials": "BE"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "UG3MH120096",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UG3NS111689",
+        "Acronym": "NS",
+        "Agency": "NINDS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Elife",
+    "NlmUniqueID": "101579614",
+    "ISSNLinking": "2050-084X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2020 Sep 28;:",
+      "PMID": "32995794"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Amino Acid Sequence"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Binding Sites"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Geography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Global Health"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Patient Identification Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Homology, Amino Acid"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ],
+  "CoiStatement": "AC, KA, YC, BD No competing interests declared, SZ is a current employee and shareholder of Fusion Genomics Corporation, which develops molecular diagnostic assays for infectious diseases including COVID-19."
+}

@@ -1,0 +1,386 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34325854",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/S2589-7500(21)00102-3",
+      "S2589-7500(21)00102-3"
+    ],
+    "Journal": {
+      "ISSN": "2589-7500",
+      "JournalIssue": {
+        "Volume": "3",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug"
+        }
+      },
+      "Title": "The Lancet. Digital health",
+      "ISOAbbreviation": "Lancet Digit Health"
+    },
+    "ArticleTitle": "A two-transcript biomarker of host classifier genes for discrimination of bacterial from viral infection in acute febrile illness: a multicentre discovery and validation study.",
+    "Pagination": {
+      "StartPage": "e507",
+      "EndPage": "e516",
+      "MedlinePgn": "e507-e516"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Acute febrile illness is one of the main reasons for outpatient hospital visits worldwide. However, differential diagnosis between bacterial and viral causes is challenging and misdiagnosis can result in antimicrobial overuse and hinder prompt treatment. We aimed to build and validate a diagnostic model to discriminate bacterial from viral infection in acute febrile illness by evaluating the expression of potential classifier host genes.",
+        "In this multicentre discovery and validation study, we included patients aged 14-85 years with acute febrile illness (fever for \u226414 days, axillary temperature of \u226538\u00b0C, and confirmed bacterial infection, viral infection, or non-infectious inflammatory disease), and healthy control participants (no significant medical history and no fever within the past 90 days) from four hospitals in Shandong province, China. Patients from the first hospital were divided into the screening, discovery, and internal validation groups, and patients from the three other hospitals comprised the external validation group. We measured expression of candidate genes in peripheral blood by RT-PCR, and patients for whom a successful RT-PCT result was recorded were included in the next-step analysis. For patients from the first hospital, those enrolled during the early phase of the study were assigned to the screening group, which was used to identify the optimal transcripts (IFI44L and PI3) for discrimination between bacterial and viral infections by screening four candidate genes (FAM89A, IFI44L, PI3, and ITGB2) by RT-PCR. The remaining patients were then randomly assigned (1:1) to discovery and internal validation groups by time of admission and blood drawing via the equidistant random sampling method. A logistic regression model integrating the mRNA levels of IFI44L and PI3 was built by use of the discovery group, and the diagnostic performance of the model was evaluated in the internal and external validation groups using area under the receiver operating curve (AUC), sensitivity, and specificity.",
+        "Between March 1, 2018, and Aug 31, 2019, we assessed 1658 individuals for inclusion in the study. After exclusion of ineligible participants, 458 participants were enrolled (178 patients with acute febrile illness caused by bacterial infection, 212 with acute febrile illness caused by viral infection, 38 with non-infectious inflammatory diseases, and 30 healthy controls). The 390 patients with bacterial or viral infections were assigned to one of four groups: screening (n=64, 33 with bacterial infections and 31 with viral infections), discovery (n=124, 55 with bacterial infections and 69 with viral infections), internal validation (n=124, 55 with bacterial infections and 69 with viral infections), and external validation (n=78, 35 with bacterial infections and 43 with viral infections). Of the four candidate host genes (FAM89A, IFI44L, PI3, and ITGB2), IFI44L and PI3 showed the most discriminative expression pattern and were used to build the logistic regression model. We established the optimal cutoff of the bacterial infection likelihood score to be 0\u00b7547598. With the diagnostic result from the gold standard tests (culture and PCR) as the reference, the two-transcript classifier model had an AUC of 0\u00b7969 (95% CI 0\u00b7937-1\u00b7000), sensitivity of 0\u00b7891 (0\u00b7782-0\u00b7949), and specificity of 0\u00b7971 (0\u00b7900-0\u00b7992) to discriminate bacterial and viral infections in the internal validation group. The model showed similar results in the external validation group (AUC 0\u00b7986, 95% CI 0\u00b7968-1\u00b7000; sensitivity 0\u00b7857, 0\u00b7706-0\u00b7937; and specificity 0\u00b7954, 0\u00b7845-0\u00b7987).",
+        "IFI44L and PI3 transcripts, measured by RT-PCR, are robust classifiers to discriminate bacterial from viral infection in acute febrile illness. This two-transcript biomarker has the potential to be transformed into a commercial panel and applied universally.",
+        "None."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY-NC-ND 4.0 license. Published by Elsevier Ltd.. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Qilu Hospital, Cheeloo College of Medicine, Shandong University, Jinan, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Nannan",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Technology, Shandong Jianzhu University, Jinan, China."
+          }
+        ],
+        "LastName": "Hao",
+        "ForeName": "Fanchang",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Qilu Hospital, Cheeloo College of Medicine, Shandong University, Jinan, China."
+          }
+        ],
+        "LastName": "Dong",
+        "ForeName": "Xiaomeng",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Intensive Care Medicine, Rizhao People's Hospital, Rizhao, China."
+          }
+        ],
+        "LastName": "Yao",
+        "ForeName": "Yongyuan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Rizhao People's Hospital, Rizhao, China."
+          }
+        ],
+        "LastName": "Guan",
+        "ForeName": "Yanyan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Qilu Hospital, Cheeloo College of Medicine, Shandong University, Jinan, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Lulu",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Qilu Hospital, Cheeloo College of Medicine, Shandong University, Jinan, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Fengzhe",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Qilu Hospital, Cheeloo College of Medicine, Shandong University, Jinan, China."
+          }
+        ],
+        "LastName": "Zheng",
+        "ForeName": "Feng",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Liaocheng People's Hospital, Liaocheng, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Qingyan",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Gaotang People's Hospital, Liaocheng, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Wenguo",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Gaotang People's Hospital, Liaocheng, China."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Cui",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Qilu Hospital, Cheeloo College of Medicine, Shandong University, Jinan, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Wen",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Wake Forest Baptist Health, Winston-Salem, NC, USA."
+          }
+        ],
+        "LastName": "Palavecino",
+        "ForeName": "Elizabeth",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Hematopathology, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Qilu Hospital, Cheeloo College of Medicine, Shandong University, Jinan, China. Electronic address: wangg1975@hotmail.com."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Gang",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Multicenter Study",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Lancet Digit Health",
+    "NlmUniqueID": "101751302",
+    "ISSNLinking": "2589-7500"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Lancet Digit Health. 2021 Aug;3(8):e465-e466",
+      "PMID": "34325851"
+    },
+    {
+      "RefSource": "Lancet Digit Health. 2021 Nov;3(11):e696",
+      "PMID": "34711375"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Area Under Curve"
+    },
+    {
+      "QualifierName": [
+        "growth & development"
+      ],
+      "DescriptorName": "Bacteria"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "metabolism",
+        "microbiology"
+      ],
+      "DescriptorName": "Bacterial Infections"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "metabolism",
+        "microbiology",
+        "virology"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Mass Screening"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "ROC Curve"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "Virus Diseases"
+    },
+    {
+      "QualifierName": [
+        "growth & development"
+      ],
+      "DescriptorName": "Viruses"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "Declaration of interests We declare no competing interests."
+}

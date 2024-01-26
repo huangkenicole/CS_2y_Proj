@@ -1,0 +1,361 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "2-step algorithm",
+      "KD diagnosis",
+      "LDA",
+      "incomplete KD",
+      "random forest"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [
+    [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Grubensky",
+        "ForeName": "Lindsay T",
+        "Initials": "LT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Harley",
+        "ForeName": "Jim R",
+        "Initials": "JR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ishimine",
+        "ForeName": "Paul",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lien",
+        "ForeName": "Jamie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lucio",
+        "ForeName": "Simon J",
+        "Initials": "SJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Shah",
+        "ForeName": "Seema",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ulrich",
+        "ForeName": "Stacey",
+        "Initials": "S"
+      }
+    ]
+  ],
+  "PMID": "27344221",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "06",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "06",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jpeds.2016.05.060",
+      "S0022-3476(16)30334-1"
+    ],
+    "Journal": {
+      "ISSN": "1097-6833",
+      "JournalIssue": {
+        "Volume": "176",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Sep"
+        }
+      },
+      "Title": "The Journal of pediatrics",
+      "ISOAbbreviation": "J Pediatr"
+    },
+    "ArticleTitle": "A Classification Tool for Differentiation of Kawasaki Disease from Other\u00a0Febrile Illnesses.",
+    "Pagination": {
+      "StartPage": "114",
+      "EndPage": "120.e8",
+      "MedlinePgn": "114-120.e8"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To develop and validate a novel decision tree-based clinical algorithm to differentiate Kawasaki disease (KD) from other pediatric febrile illnesses that share common clinical characteristics.",
+        "Using clinical and laboratory data from 801 subjects with acute KD (533 for development, and 268 for validation) and 479 febrile control subjects (318 for development, and 161 for validation), we developed a stepwise KD diagnostic algorithm combining our previously developed linear discriminant analysis (LDA)-based model with a newly developed tree-based algorithm.",
+        "The primary model (LDA) stratified the 1280 subjects into febrile controls (n\u00a0=\u00a0276), indeterminate (n\u00a0=\u00a0247), and KD (n\u00a0=\u00a0757) subgroups. The subsequent model (decision trees) further classified the indeterminate group into febrile controls (n\u00a0=\u00a0103) and KD (n\u00a0=\u00a058) subgroups, leaving only 29 of 801 KD (3.6%) and 57 of 479 febrile control (11.9%) subjects indeterminate. The 2-step algorithm had a sensitivity of 96.0% and a specificity of 78.5%, and correctly classified all subjects with KD who later developed coronary artery aneurysms.",
+        "The addition of a decision tree step increased sensitivity and specificity in the classification of subject with KD and febrile controls over our previously described LDA model. A multicenter trial is needed to prospectively determine its utility as a point of care diagnostic test for KD."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2016 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Stanford University, Stanford, CA."
+          }
+        ],
+        "LastName": "Hao",
+        "ForeName": "Shiying",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Stanford University, Stanford, CA."
+          }
+        ],
+        "LastName": "Jin",
+        "ForeName": "Bo",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Stanford University, Stanford, CA."
+          }
+        ],
+        "LastName": "Tan",
+        "ForeName": "Zhou",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Stanford University, Stanford, CA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Zhen",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Stanford University, Stanford, CA."
+          }
+        ],
+        "LastName": "Ji",
+        "ForeName": "Jun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Stanford University, Stanford, CA."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Guang",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Stanford University, Stanford, CA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Yue",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Stanford University, Stanford, CA."
+          }
+        ],
+        "LastName": "Deng",
+        "ForeName": "Xiaohong",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA; Rady Children's Hospital San Diego, San Diego, CA."
+          }
+        ],
+        "LastName": "Kanegaye",
+        "ForeName": "John T",
+        "Initials": "JT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA; Rady Children's Hospital San Diego, San Diego, CA."
+          }
+        ],
+        "LastName": "Tremoulet",
+        "ForeName": "Adriana H",
+        "Initials": "AH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of California San Diego, La Jolla, CA; Rady Children's Hospital San Diego, San Diego, CA."
+          }
+        ],
+        "LastName": "Burns",
+        "ForeName": "Jane C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Stanford University, Stanford, CA."
+          }
+        ],
+        "LastName": "Cohen",
+        "ForeName": "Harvey J",
+        "Initials": "HJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Stanford University, Stanford, CA. Electronic address: bxling@stanford.edu."
+          }
+        ],
+        "LastName": "Ling",
+        "ForeName": "Xuefeng B",
+        "Initials": "XB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "Pediatric Emergency Medicine Kawasaki\u00a0Disease\u00a0Research Group"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 HL069413",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 HL086835",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Pediatr",
+    "NlmUniqueID": "0375410",
+    "ISSNLinking": "0022-3476"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Decision Trees"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Mucocutaneous Lymph Node Syndrome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflicts of interest."
+}

@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Drug targets",
+      "Enrichment analysis",
+      "Lung cancer",
+      "Network modeling and analysis",
+      "Systems biology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28592245",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "02",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "06",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "40",
+      "10.1186/s12920-017-0284-z"
+    ],
+    "Journal": {
+      "ISSN": "1755-8794",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Jun",
+          "Day": "07"
+        }
+      },
+      "Title": "BMC medical genomics",
+      "ISOAbbreviation": "BMC Med Genomics"
+    },
+    "ArticleTitle": "In silico identification of potential key regulatory factors in smoking-induced lung cancer.",
+    "Pagination": {
+      "StartPage": "40",
+      "MedlinePgn": "40"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Lung cancer is a leading cause of cancer-related death worldwide and is the most commonly diagnosed cancer. Like other cancers, it is a complex and highly heterogeneous disease involving multiple signaling pathways. Identifying potential therapeutic targets is critical for the development of effective treatment strategies.",
+        "We used a systems biology approach to identify potential key regulatory factors in smoking-induced lung cancer. We first identified genes that were differentially expressed between smokers with normal lungs and those with cancerous lungs, then integrated these differentially expressed genes (DEGs) with data from a protein-protein interaction database to build a network model with functional modules for pathway analysis. We also carried out a gene set enrichment analysis of DEG lists using the Kinase Enrichment Analysis (KEA), Protein-Protein Interaction (PPI) hubs, and KEGG (Kyoto Encyclopedia of Genes and Genomes) databases.",
+        "Twelve transcription factors were identified as having potential significance in lung cancer (CREB1, NUCKS1, HOXB4, MYCN, MYC, PHF8, TRIM28, WT1, CUX1, CRX, GABP, and TCF3); three of these (CRX, GABP, and TCF) have not been previously implicated in lung carcinogenesis. In addition, 11 kinases were found to be potentially related to lung cancer (MAPK1, IGF1R, RPS6KA1, ATR, MAPK14, MAPK3, MAPK4, MAPK8, PRKCZ, and INSR, and PRKAA1). However, PRKAA1 is reported here for the first time. MEPCE, CDK1, PRKCA, COPS5, GSK3B, BRCA1, EP300, and PIN1 were identified as potential hubs in lung cancer-associated signaling. In addition, we found 18 pathways that were potentially related to lung carcinogenesis, of which 12 (mitogen-activated protein kinase, gonadotropin-releasing hormone, Toll-like receptor, ErbB, and insulin signaling; purine and ether lipid metabolism; adherens junctions; regulation of autophagy; snare interactions in vesicular transport; and cell cycle) have been previously identified.",
+        "Our systems-based approach identified potential key molecules in lung carcinogenesis and provides a basis for investigations of tumor development as well as novel drug targets for lung cancer treatment."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, Genetic Engineering and Biotechnology Research Institute (GEBRI), University of Sadat City, Sadat City, Egypt."
+          }
+        ],
+        "LastName": "El-Aarag",
+        "ForeName": "Salem A",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, Genetic Engineering and Biotechnology Research Institute (GEBRI), University of Sadat City, Sadat City, Egypt."
+          }
+        ],
+        "LastName": "Mahmoud",
+        "ForeName": "Amal",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Animal biotechnology Department, Genetic Engineering and Biotechnology Research Institute, (GEBRI), University of Sadat City, Sadat City, Egypt."
+          }
+        ],
+        "LastName": "Hashem",
+        "ForeName": "Medhat H",
+        "Initials": "MH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information Systems Department, Faculty of Computer and Information, Menoufia University, Al Minufiyah, Egypt."
+          }
+        ],
+        "LastName": "Abd Elkader",
+        "ForeName": "Hatem",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Department, Genetic Engineering and Biotechnology Research Institute (GEBRI), University of Sadat City, Sadat City, Egypt."
+          }
+        ],
+        "LastName": "Hemeida",
+        "ForeName": "Alaa E",
+        "Initials": "AE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Informatics and Chemoinformatics Group, Informatics and Systems Department, National Research Center, Cairo, Egypt. mahef@aucegypt.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Informatics, Nile university, Sheikh Zayed City, Giza, Egypt. mahef@aucegypt.edu."
+          }
+        ],
+        "LastName": "ElHefnawi",
+        "ForeName": "Mahmoud",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med Genomics",
+    "NlmUniqueID": "101319628",
+    "ISSNLinking": "1755-8794"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genes, Neoplasm"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "chemically induced",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Transduction"
+    },
+    {
+      "QualifierName": [
+        "adverse effects"
+      ],
+      "DescriptorName": "Smoking"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34650062",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "10",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "6009",
+      "10.1038/s41467-021-26267-y"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Oct",
+          "Day": "14"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Rapid incidence estimation from SARS-CoV-2 genomes reveals decreased case detection in Europe during summer 2020.",
+    "Pagination": {
+      "StartPage": "6009",
+      "MedlinePgn": "6009"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "By October 2021, 230 million SARS-CoV-2 diagnoses have been reported. Yet, a considerable proportion of cases remains undetected. Here, we propose GInPipe, a method that rapidly reconstructs SARS-CoV-2 incidence profiles solely from publicly available, time-stamped viral genomes. We validate GInPipe against simulated outbreaks and elaborate phylodynamic analyses. Using available sequence data, we reconstruct incidence histories for Denmark, Scotland, Switzerland, and Victoria (Australia) and demonstrate, how to use the method to investigate the effects of changing testing policies on case ascertainment. Specifically, we find that under-reporting was highest during summer 2020 in Europe, coinciding with more liberal testing policies at times of low testing capacities. Due to the increased use of real-time sequencing, it is envisaged that GInPipe can complement established surveillance tools to monitor the SARS-CoV-2 pandemic. In post-pandemic times, when diagnostic efforts are decreasing, GInPipe may facilitate the detection of hidden infection dynamics."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Systems Medicine of Infectious Disease (P5), Robert Koch Institute, Berlin, Germany. smithm@rki.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics (MF1), Robert Koch Institute, Berlin, Germany. smithm@rki.de."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Maureen Rebecca",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Systems Medicine of Infectious Disease (P5), Robert Koch Institute, Berlin, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics (MF1), Robert Koch Institute, Berlin, Germany."
+          }
+        ],
+        "LastName": "Trofimova",
+        "ForeName": "Maria",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Transmission, Infection, Diversification and Evolution Group, Max-Planck Institute for the Science of Human History, Jena, Germany."
+          }
+        ],
+        "LastName": "Weber",
+        "ForeName": "Ariane",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Systems Medicine of Infectious Disease (P5), Robert Koch Institute, Berlin, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics (MF1), Robert Koch Institute, Berlin, Germany."
+          }
+        ],
+        "LastName": "Duport",
+        "ForeName": "Yannick",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5657-018X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Transmission, Infection, Diversification and Evolution Group, Max-Planck Institute for the Science of Human History, Jena, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German COVID Omics Initiative (deCOI), Bonn, Germany."
+          }
+        ],
+        "LastName": "K\u00fchnert",
+        "ForeName": "Denise",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6587-6394"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Systems Medicine of Infectious Disease (P5), Robert Koch Institute, Berlin, Germany. kleistm@rki.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics (MF1), Robert Koch Institute, Berlin, Germany. kleistm@rki.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German COVID Omics Initiative (deCOI), Bonn, Germany. kleistm@rki.de."
+          }
+        ],
+        "LastName": "von Kleist",
+        "ForeName": "Max",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "01KI2016",
+        "Agency": "Bundesministerium f\u00fcr Bildung und Forschung (Federal Ministry of Education and Research)",
+        "Country": ""
+      },
+      {
+        "GrantID": "031L0176A",
+        "Agency": "Bundesministerium f\u00fcr Bildung und Forschung (Federal Ministry of Education and Research)",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Historical Article",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "history"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Europe"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "History, 21st Century"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Scotland"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Switzerland"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Victoria"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

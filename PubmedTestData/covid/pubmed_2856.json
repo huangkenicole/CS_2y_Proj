@@ -1,0 +1,310 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "CRISPR-Cas12a",
+      "SARS-CoV-2 variants detection",
+      "SAVED",
+      "SNP genotyping",
+      "chimeric crRNA",
+      "short crRNA"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36342324",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e03260-22",
+      "10.1128/spectrum.03260-22"
+    ],
+    "Journal": {
+      "ISSN": "2165-0497",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Dec",
+          "Day": "21"
+        }
+      },
+      "Title": "Microbiology spectrum",
+      "ISOAbbreviation": "Microbiol Spectr"
+    },
+    "ArticleTitle": "Rapid SARS-CoV-2 Variants Enzymatic Detection (SAVED) by CRISPR-Cas12a.",
+    "Pagination": {
+      "StartPage": "e0326022",
+      "MedlinePgn": "e0326022"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The continuous and rapid surge of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants with high transmissibility and evading neutralization is alarming, necessitating expeditious detection of the variants concerned. Here, we report the development of rapid <u>SA</u>RS-CoV-2 <u>v</u>ariants <u>e</u>nzymatic <u>d</u>etection (SAVED) based on CRISPR-Cas12a targeting of previously crucial variants, including Alpha, Beta, Gamma, Delta, Lambda, Mu, Kappa, and currently circulating variant of concern (VOC) Omicron and its subvariants BA.1, BA.2, BA.3, BA.4, and BA.5. SAVED is inexpensive (US$3.23 per reaction) and instrument-free. SAVED results can be read out by fluorescence reader and tube visualization under UV/blue light, and it is stable for 1 h, enabling high-throughput screening and point-of-care testing. We validated SAVED performance on clinical samples with 100% specificity in all samples and 100% sensitivity for the current pandemic Omicron variant samples having a threshold cycle (<i>C<sub>T</sub></i>) value of \u226434.9. We utilized chimeric CRISPR RNA (crRNA) and short crRNA (15-nucleotide [nt] to 17-nt spacer) to achieve single nucleotide polymorphism (SNP) genotyping, which is necessary for variant differentiation and is a challenge to accomplish using CRISPR-Cas12a technology. We propose a scheme that can be used for discriminating variants effortlessly and allows for modifications to incorporate newer upcoming variants as the mutation site of these variants may reappear in future variants. <b>IMPORTANCE</b> Rapid differentiation and detection tests that can directly identify SARS-CoV-2 variants must be developed in order to meet the demands of public health or clinical decisions. This will allow for the prompt treatment or isolation of infected people and the implementation of various quarantine measures for those exposed. We report the development of the rapid <u>SA</u>RS-CoV-2 <u>v</u>ariants <u>e</u>nzymatic <u>d</u>etection (SAVED) method based on CRISPR-Cas12a that targets previously significant variants like Alpha, Beta, Gamma, Delta, Lambda, Mu, and Kappa as well as the VOC Omicron and its subvariants BA.1, BA.2, BA.3, BA.4, and BA.5 that are currently circulating. SAVED uses no sophisticated instruments and is reasonably priced ($3.23 per reaction). As the mutation location of these variations may reoccur in subsequent variants, we offer a system that can be applied for variant discrimination with ease and allows for adjustments to integrate newer incoming variants."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3739-7067"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Jun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Barua",
+        "ForeName": "Nilakshi",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Food Technology and Nutritional Science, Mawlana Bhashani Science and Technology University, Tangail, Bangladesh."
+          }
+        ],
+        "LastName": "Rahman",
+        "ForeName": "Md Nannur",
+        "Initials": "MN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Carmen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Lo",
+        "ForeName": "Norman",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Yeong",
+        "ForeName": "Kai Yan",
+        "Initials": "KY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Tsang",
+        "ForeName": "Tsz Fung",
+        "Initials": "TF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Xiao",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiology Division, Public Health Laboratory Services Branch, Centre for Health Protection, Department of Health, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Cheung",
+        "ForeName": "Yuk-Yam",
+        "Initials": "YY"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1289-3670"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiology Division, Public Health Laboratory Services Branch, Centre for Health Protection, Department of Health, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Tsang",
+        "ForeName": "Alan K L",
+        "Initials": "AKL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiology Division, Public Health Laboratory Services Branch, Centre for Health Protection, Department of Health, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Rickjason C W",
+        "Initials": "RCW"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5036-1707"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Leung",
+        "ForeName": "Eddie Chi-Man",
+        "Initials": "EC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6360-4608"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Paul K S",
+        "Initials": "PKS"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1291-6537"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Konggrid.10784.3a, Prince of Wales Hospital, Hong Kong, SAR, China."
+          }
+        ],
+        "LastName": "Ip",
+        "ForeName": "Margaret",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Microbiol Spectr",
+    "NlmUniqueID": "101634614",
+    "ISSNLinking": "2165-0497"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Nucleotides"
+    },
+    {
+      "RegistryNumber": "63231-63-0",
+      "NameOfSubstance": "RNA"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CRISPR-Cas Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleotides"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

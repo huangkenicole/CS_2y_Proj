@@ -1,0 +1,440 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34882728",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0260857",
+      "10.1371/journal.pone.0260857"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Genome-wide host methylation profiling of anal and cervical carcinoma.",
+    "Pagination": {
+      "StartPage": "e0260857",
+      "MedlinePgn": "e0260857"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "HPV infection results in changes in host gene methylation which, in turn, are thought to contribute to the neoplastic progression of HPV-associated cancers. The objective of this study was to identify joint and disease-specific genome-wide methylation changes in anal and cervical cancer as well as changes in high-grade pre-neoplastic lesions. Formalin-fixed paraffin-embedded (FFPE) anal tissues (n = 143; 99% HPV+) and fresh frozen cervical tissues (n = 28; 100% HPV+) underwent microdissection, DNA extraction, HPV genotyping, bisulfite modification, DNA restoration (FFPE) and analysis by the Illumina HumanMethylation450 Array. Differentially methylated regions (DMR; t test q<0.01, 3 consecutive significant CpG probes and mean \u0394\u03b2 methylation value>0.3) were compared between normal and cancer specimens in partial least squares (PLS) models and then used to classify anal or cervical intraepithelial neoplasia-3 (AIN3/CIN3). In AC, an 84-gene PLS signature (355 significant probes) differentiated normal anal mucosa (NM; n = 9) from AC (n = 121) while a 36-gene PLS signature (173 significant probes) differentiated normal cervical epithelium (n = 10) from CC (n = 9). The CC progression signature was validated using three independent publicly available datasets (n = 424 cases). The AC and CC progression PLS signatures were interchangeable in segregating normal, AIN3/CIN3 and AC and CC and were found to include 17 common overlapping hypermethylated genes. Moreover, these signatures segregated AIN3/CIN3 lesions similarly into cancer-like and normal-like categories. Distinct methylation changes occur across the genome during the progression of AC and CC with overall similar profiles and add to the evidence suggesting that HPV-driven oncogenesis may result in similar non-random methylomic events. Our findings may lead to identification of potential epigenetic drivers of HPV-associated cancers and also, of potential markers to identify higher risk pre-cancerous lesions."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departments of Cancer Epidemiology, Tampa, FL, United States of America."
+          }
+        ],
+        "LastName": "Siegel",
+        "ForeName": "Erin M",
+        "Initials": "EM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8731-8884"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, University of Tennessee Health Science Center, Memphis, TN, United States of America."
+          }
+        ],
+        "LastName": "Ajidahun",
+        "ForeName": "Abidemi",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics and Bioinformatics, Tampa, FL, United States of America."
+          }
+        ],
+        "LastName": "Berglund",
+        "ForeName": "Anders",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, University of Tennessee Health Science Center, Memphis, TN, United States of America."
+          }
+        ],
+        "LastName": "Guerrero",
+        "ForeName": "Whitney",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics and Bioinformatics, Tampa, FL, United States of America."
+          }
+        ],
+        "LastName": "Eschrich",
+        "ForeName": "Steven",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics and Bioinformatics, Tampa, FL, United States of America."
+          }
+        ],
+        "LastName": "Putney",
+        "ForeName": "Ryan M",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Anatomic Pathology, H. Lee Moffitt Cancer Center & Research Institute, Tampa, FL, United States of America."
+          }
+        ],
+        "LastName": "Magliocco",
+        "ForeName": "Anthony",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departments of Cancer Epidemiology, Tampa, FL, United States of America."
+          }
+        ],
+        "LastName": "Riggs",
+        "ForeName": "Bridget",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NRG Oncology Statistics and Data Management Center-ACR, Philadelphia, PA, United States of America."
+          }
+        ],
+        "LastName": "Winter",
+        "ForeName": "Kathryn",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF Medical Center-Mount Zion, San Francisco, CA, United States of America."
+          }
+        ],
+        "LastName": "Simko",
+        "ForeName": "Jeff P",
+        "Initials": "JP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "M D Anderson Cancer Center, Houston, TX, United States of America."
+          }
+        ],
+        "LastName": "Ajani",
+        "ForeName": "Jaffer A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Montefiore Medical Center, New York, NY, United States of America."
+          }
+        ],
+        "LastName": "Guha",
+        "ForeName": "Chandan",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Juravinski Cancer Centre at Hamilton Health Sciences, Hamilton, ON, United States of America."
+          }
+        ],
+        "LastName": "Okawara",
+        "ForeName": "Gordon S",
+        "Initials": "GS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Research for the Ozarks CCOP, Springfield, MO, United States of America."
+          }
+        ],
+        "LastName": "Abdalla",
+        "ForeName": "Ibrahim",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Columbus Community Clinical Oncology Program, Columbus, OH, United States of America."
+          }
+        ],
+        "LastName": "Becker",
+        "ForeName": "Mark J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mount Sinai Comprehensive Cancer Center CCOP, Miami, FL, United States of America."
+          }
+        ],
+        "LastName": "Pizzolato",
+        "ForeName": "Joseph F",
+        "Initials": "JF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "M D Anderson Cancer Center, Houston, TX, United States of America."
+          }
+        ],
+        "LastName": "Crane",
+        "ForeName": "Christopher H",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Molecular Biology, University of Florida, Gainesville, FL, United States of America."
+          }
+        ],
+        "LastName": "Brown",
+        "ForeName": "Kevin D",
+        "Initials": "KD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, University of Tennessee Health Science Center, Memphis, TN, United States of America."
+          }
+        ],
+        "LastName": "Shibata",
+        "ForeName": "David",
+        "Initials": "D"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U10 CA180868",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UG1 CA189867",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA076292",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 CA185921",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U10 CA180822",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology",
+        "therapy"
+      ],
+      "DescriptorName": "Anus Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology",
+        "therapy"
+      ],
+      "DescriptorName": "Carcinoma, Squamous Cell"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Chemoradiotherapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Clinical Trials, Phase III as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Follow-Up Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Randomized Controlled Trials as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Rate"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology",
+        "therapy"
+      ],
+      "DescriptorName": "Uterine Cervical Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "I have read the journal\u2019s policy and the authors of this manuscript have the following competing interests: Dr. Berglund discloses grants from NIH and from Florida Biomedical Research program, during the conduct of the study. Dr. Eschrich reports grants from the NCI, during the conduct of the study and other relevant financial activities with Cvergenx, Inc., outside the submitted work. Dr. Guha reports grants and personal fees from Johnson & Johnson, grants from Celldex, and other financial activities from Focused Ultrasound Foundation and Varian, outside the submitted work. Dr. Siegel reports grant from the NIH and from the Florida Biomedical Research Program, during the conduct of the study. This does not alter our adherence to PLOS ONE policies on sharing data and materials."
+}

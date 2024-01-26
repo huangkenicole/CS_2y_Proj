@@ -1,0 +1,136 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Data mining",
+      "Diversity",
+      "Ensemble learning",
+      "Heart disease",
+      "Random forest"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33540075",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jbi.2021.103690",
+      "S1532-0464(21)00019-8"
+    ],
+    "Journal": {
+      "ISSN": "1532-0480",
+      "JournalIssue": {
+        "Volume": "115",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Journal of biomedical informatics",
+      "ISOAbbreviation": "J Biomed Inform"
+    },
+    "ArticleTitle": "Random forest swarm optimization-based for heart diseases diagnosis.",
+    "Pagination": {
+      "StartPage": "103690",
+      "MedlinePgn": "103690"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Heart disease has been one of the leading causes of death worldwide in recent years. Among diagnostic methods for heart disease, angiography is one of the most common methods, but it is costly and has side effects. Given the difficulty of heart disease prediction, data mining can play an important role in predicting heart disease accurately. In this paper, by combining the multi-objective particle swarm optimization (MOPSO) and Random Forest, a new approach is proposed to predict heart disease. The main goal is to produce diverse and accurate decision trees and determine the (near) optimal number of them simultaneously. In this method, an evolutionary multi-objective approach is used instead of employing a commonly used approach, i.e., bootstrap, feature selection in the Random Forest, and random number selection of training sets. By doing so, different training sets with different samples and features for training each tree are generated. Also, the obtained solutions in Pareto-optimal fronts determine the required number of training sets to build the random forest. By doing so, the random forest's performance can be enhanced, and consequently, the prediction accuracy will be improved. The proposed method's effectiveness is investigated by comparing its performance over six heart datasets with individual and ensemble classifiers. The results suggest that the proposed method with the (near) optimal number of classifiers outperforms the random forest algorithm with different classifiers."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Mining Laboratory, Department of Engineering, College of Farabi, University of Tehran, Tehran, Iran. Electronic address: shahrokh.asadi@ut.ac.ir."
+          }
+        ],
+        "LastName": "Asadi",
+        "ForeName": "Shahrokh",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Mining Laboratory, Department of Engineering, College of Farabi, University of Tehran, Tehran, Iran."
+          }
+        ],
+        "LastName": "Roshan",
+        "ForeName": "SeyedEhsan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Quantitative Health Sciences, Cleveland Cancer Foundation, Cleveland, OH, United States."
+          }
+        ],
+        "LastName": "Kattan",
+        "ForeName": "Michael W",
+        "Initials": "MW"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Biomed Inform",
+    "NlmUniqueID": "100970413",
+    "ISSNLinking": "1532-0464"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Mining"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    }
+  ]
+}

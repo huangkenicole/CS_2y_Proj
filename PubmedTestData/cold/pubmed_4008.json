@@ -1,0 +1,558 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "229E",
+      "COVID-19",
+      "CRISPR",
+      "OC43",
+      "SARS-CoV-2",
+      "coronavirus",
+      "genetic screen",
+      "host factors",
+      "host-targeted antivirals",
+      "virus-host interactions"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33333024",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cell.2020.12.004",
+      "S0092-8674(20)31626-3"
+    ],
+    "Journal": {
+      "ISSN": "1097-4172",
+      "JournalIssue": {
+        "Volume": "184",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "07"
+        }
+      },
+      "Title": "Cell",
+      "ISOAbbreviation": "Cell"
+    },
+    "ArticleTitle": "Genetic Screens Identify Host Factors for SARS-CoV-2 and Common Cold Coronaviruses.",
+    "Pagination": {
+      "StartPage": "106",
+      "EndPage": "119.e14",
+      "MedlinePgn": "106-119.e14"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Coronaviridae are a family of viruses that cause disease in humans ranging from mild respiratory infection to potentially lethal acute respiratory distress syndrome. Finding host factors common to multiple coronaviruses could facilitate the development of therapies to combat current and future coronavirus pandemics. Here, we conducted genome-wide CRISPR screens in cells infected by SARS-CoV-2 as well as two seasonally circulating common cold coronaviruses, OC43 and 229E. This approach correctly identified the distinct viral entry factors ACE2 (for SARS-CoV-2), aminopeptidase N (for 229E), and glycosaminoglycans (for OC43). Additionally, we identified phosphatidylinositol phosphate biosynthesis and cholesterol homeostasis as critical host pathways supporting infection by all three coronaviruses. By contrast, the lysosomal protein TMEM106B appeared unique to SARS-CoV-2 infection. Pharmacological inhibition of phosphatidylinositol kinases and cholesterol homeostasis reduced replication of all three coronaviruses. These findings offer important insights for the understanding of the coronavirus life cycle and the development of host-directed therapies."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, CA 94158, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Ruofan",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institutes, San Francisco, CA 94158, USA; Department of Medicine, University of California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences Institute COVID-19 Research Group (QCRG), University of California, San Francisco, San Francisco, CA 94158, USA; Biomedical Sciences Graduate Program, University of California, San Francisco, San Francisco, CA 94143, USA."
+          }
+        ],
+        "LastName": "Simoneau",
+        "ForeName": "Camille R",
+        "Initials": "CR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, CA 94158, USA."
+          }
+        ],
+        "LastName": "Kulsuptrakul",
+        "ForeName": "Jessie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institutes, San Francisco, CA 94158, USA; Quantitative Biosciences Institute COVID-19 Research Group (QCRG), University of California, San Francisco, San Francisco, CA 94158, USA; Quantitative Biosciences Institute (QBI), University of California, San Francisco, San Francisco, CA 94158, USA; Department of Cellular and Molecular Pharmacology, University of California, San Francisco, San Francisco, CA 94158, USA."
+          }
+        ],
+        "LastName": "Bouhaddou",
+        "ForeName": "Mehdi",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, CA 94158, USA."
+          }
+        ],
+        "LastName": "Travisano",
+        "ForeName": "Katherine A",
+        "Initials": "KA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institutes, San Francisco, CA 94158, USA; Department of Medicine, University of California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences Institute COVID-19 Research Group (QCRG), University of California, San Francisco, San Francisco, CA 94158, USA."
+          }
+        ],
+        "LastName": "Hayashi",
+        "ForeName": "Jennifer M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Synthego Corporation, Menlo Park, CA 94025, USA."
+          }
+        ],
+        "LastName": "Carlson-Stevermer",
+        "ForeName": "Jared",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, Stanford University, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "Zengel",
+        "ForeName": "James R",
+        "Initials": "JR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, Stanford University, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "Richards",
+        "ForeName": "Christopher M",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institutes, San Francisco, CA 94158, USA; Department of Medicine, University of California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences Institute COVID-19 Research Group (QCRG), University of California, San Francisco, San Francisco, CA 94158, USA; Biomedical Sciences Graduate Program, University of California, San Francisco, San Francisco, CA 94143, USA; Medical Scientist Training Program, University of California, San Francisco, San Francisco, CA 94143, USA."
+          }
+        ],
+        "LastName": "Fozouni",
+        "ForeName": "Parinaz",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Synthego Corporation, Menlo Park, CA 94025, USA."
+          }
+        ],
+        "LastName": "Oki",
+        "ForeName": "Jennifer",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF CoLabs, Department of Microbiology and Immunology, University of California, San Francisco, San Francisco, CA 94143, USA."
+          }
+        ],
+        "LastName": "Rodriguez",
+        "ForeName": "Lauren",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, University of California, San Francisco, San Francisco, CA 94143, USA."
+          }
+        ],
+        "LastName": "Joehnk",
+        "ForeName": "Bastian",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, University of California, San Francisco, San Francisco, CA 94143, USA."
+          }
+        ],
+        "LastName": "Walcott",
+        "ForeName": "Keith",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Synthego Corporation, Menlo Park, CA 94025, USA."
+          }
+        ],
+        "LastName": "Holden",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, University of California, San Francisco, San Francisco, CA 94143, USA."
+          }
+        ],
+        "LastName": "Sil",
+        "ForeName": "Anita",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, Stanford University, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "Carette",
+        "ForeName": "Jan E",
+        "Initials": "JE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institutes, San Francisco, CA 94158, USA; Quantitative Biosciences Institute COVID-19 Research Group (QCRG), University of California, San Francisco, San Francisco, CA 94158, USA; Quantitative Biosciences Institute (QBI), University of California, San Francisco, San Francisco, CA 94158, USA; Department of Cellular and Molecular Pharmacology, University of California, San Francisco, San Francisco, CA 94158, USA."
+          }
+        ],
+        "LastName": "Krogan",
+        "ForeName": "Nevan J",
+        "Initials": "NJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institutes, San Francisco, CA 94158, USA; Department of Medicine, University of California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences Institute COVID-19 Research Group (QCRG), University of California, San Francisco, San Francisco, CA 94158, USA. Electronic address: melanie.ott@gladstone.ucsf.edu."
+          }
+        ],
+        "LastName": "Ott",
+        "ForeName": "Melanie",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan Zuckerberg Biohub, San Francisco, CA 94158, USA. Electronic address: andreas.puschnik@czbiohub.org."
+          }
+        ],
+        "LastName": "Puschnik",
+        "ForeName": "Andreas S",
+        "Initials": "AS"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "T32 AI060537",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI120694",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 GM007618",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U19 AI135990",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI122747",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "F32 CA239333",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI141970",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI130123",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "DP1 DA038043",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U19 AI135972",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI143292",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P01 AI063302",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI140186",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P50 AI150476",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 GM136534",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Cell",
+    "NlmUniqueID": "0413066",
+    "ISSNLinking": "0092-8674"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Phosphatidylinositols"
+    },
+    {
+      "RegistryNumber": "97C5T2UQ7J",
+      "NameOfSubstance": "Cholesterol"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2020 Sep 24;:",
+      "PMID": "32995787"
+    },
+    {
+      "RefSource": "Cell. 2021 Jan 7;184(1):15-17",
+      "PMID": "33338422"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "A549 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Biosynthetic Pathways"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chlorocebus aethiops"
+    },
+    {
+      "QualifierName": [
+        "biosynthesis",
+        "metabolism"
+      ],
+      "DescriptorName": "Cholesterol"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Clustered Regularly Interspaced Short Palindromic Repeats"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "physiology"
+      ],
+      "DescriptorName": "Coronavirus"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "Coronavirus Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Knockout Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome-Wide Association Study"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [
+        "biosynthesis"
+      ],
+      "DescriptorName": "Phosphatidylinositols"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vero Cells"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Virus Internalization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Replication"
+    }
+  ],
+  "CoiStatement": "Declaration of Interests J.C.-S., J.O., and K.H. are employees of Synthego Corporation. All authors declare no other competing interests."
+}

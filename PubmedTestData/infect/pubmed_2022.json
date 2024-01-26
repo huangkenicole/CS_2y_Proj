@@ -1,0 +1,165 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "16957056",
+  "DateCompleted": {
+    "Year": "2007",
+    "Month": "08",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "11",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2006",
+        "Month": "09",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1465-4644",
+      "JournalIssue": {
+        "Volume": "8",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Biostatistics (Oxford, England)",
+      "ISOAbbreviation": "Biostatistics"
+    },
+    "ArticleTitle": "Nonhomogeneous birth and death models for epidemic outbreak data.",
+    "Pagination": {
+      "StartPage": "453",
+      "EndPage": "467",
+      "MedlinePgn": "453-67"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this paper, generalized nonlinear models are proposed in order to incorporate the following considerations in modeling an epidemic disease outbreak statistically. (1) The dependence of the data is handled with a nonhomogeneous death or a nonhomogeneous birth process. (2) The first stage of the outbreak is described with an epidemic susceptibles-infectives-removed (SIR) model. Soon the control measures taken will dominate the process. These measures are in addition to the natural epidemic removal process. The prevalence is related to the censored infection times in such a way that the distribution function and thus the survival function satisfy approximately the first equation of the SIR model. This leads in a natural way to the Burr family of distributions. (3) The nonhomogeneous birth process handles the fact that in practice, with some delay, infecteds are registered, but not susceptibles. (4) Finally, the ending of the epidemic caused by the measures taken is incorporated through a modification of the survival function with a final-size parameter, in the same way as is done in long-term survival models. These models are applied to three outbreaks: The Dutch classical swine fever outbreak from 1997 to 1998, the foot- and-mouth disease outbreak in Great Britain from 2001, and the Dutch avian influenza (H7N7) outbreak from 2003."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Veterinary Medicine, Utrecht University, The Netherlands. j.vandenbroek@vet.uu.nl"
+          }
+        ],
+        "LastName": "van den Broek",
+        "ForeName": "Jan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Heesterbeek",
+        "ForeName": "Hans",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Biostatistics",
+    "NlmUniqueID": "100897327",
+    "ISSNLinking": "1465-4644"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cattle"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chickens"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Classical Swine Fever"
+    },
+    {
+      "QualifierName": [
+        "veterinary"
+      ],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Foot-and-Mouth Disease"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Influenza A Virus, H7N7 Subtype"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Influenza in Birds"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Ireland"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Netherlands"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nonlinear Dynamics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Swine"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United Kingdom"
+    }
+  ]
+}

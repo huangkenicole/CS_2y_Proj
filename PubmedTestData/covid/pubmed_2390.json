@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33645217",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acs.analchem.0c02971"
+    ],
+    "Journal": {
+      "ISSN": "1520-6882",
+      "JournalIssue": {
+        "Volume": "93",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "09"
+        }
+      },
+      "Title": "Analytical chemistry",
+      "ISOAbbreviation": "Anal Chem"
+    },
+    "ArticleTitle": "Detection of SARS-CoV-2 DNA Targets Using Femtoliter Optofluidic Waveguides.",
+    "Pagination": {
+      "StartPage": "4154",
+      "EndPage": "4159",
+      "MedlinePgn": "4154-4159"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Chip-scale SARS-CoV-2 testing was demonstrated using silicon nitride (Si<sub>3</sub>N<sub>4</sub>) nanoslot fluidic waveguides to detect a tagged oligonucleotide with a coronavirus DNA sequence. The slot waveguides were fabricated using complementary metal-oxide-semiconductor (CMOS) fabrication processes, including multiscale lithography and selective reactive ion etching (RIE), forming femtoliter fluidic channels. Finite difference method (FDM) simulation was used to calculate the optical field distribution of the waveguide mode when the waveguide sensor was excited by transverse electric (TE) and transverse magnetic (TM) polarized light. For the TE polarization, a strong optical field was created in the slot region and its field intensity was 14\u00d7 stronger than the evanescent sensing field from the TM polarization. The nanoscale confinement of the optical sensing field significantly enhanced the light-analyte interaction and improved the optical sensitivity. The sensitivity enhancement was experimentally demonstrated by measuring the polarization-dependent fluorescence emission from the tagged oligonucleotide. The photonic chips consisting of femtoliter Si<sub>3</sub>N<sub>4</sub> waveguides provide a low-cost and high throughput platform for real-time virus identification, which is critical for point-of-care (PoC) diagnostic applications."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-3131-653X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, Texas A&M University, College Station 77843, Texas, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Materials Science and Engineering, Texas A&M University, College Station 77843, Texas, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Center for Remote Health Technologies and Systems, Texas A&M University, College Station 77843, Texas, United States."
+          }
+        ],
+        "LastName": "Makela",
+        "ForeName": "Megan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5417-6920"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, Texas A&M University, College Station 77843, Texas, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Materials Science and Engineering, Texas A&M University, College Station 77843, Texas, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Center for Remote Health Technologies and Systems, Texas A&M University, College Station 77843, Texas, United States."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Pao Tai",
+        "Initials": "PT"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R21 GM132705",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Anal Chem",
+    "NlmUniqueID": "0370536",
+    "ISSNLinking": "0003-2700"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "DNA, Viral"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Silicon Compounds"
+    },
+    {
+      "RegistryNumber": "QHB8T06IDK",
+      "NameOfSubstance": "silicon nitride"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "analysis"
+      ],
+      "DescriptorName": "DNA, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Nanoparticles"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Optics and Photonics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Point-of-Care Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Refractometry"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Semiconductors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Silicon Compounds"
+    }
+  ]
+}

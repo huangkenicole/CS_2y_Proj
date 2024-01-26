@@ -1,0 +1,180 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28813869",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "03",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "03",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/ICORR.2017.8009297"
+    ],
+    "Journal": {
+      "ISSN": "1945-7901",
+      "JournalIssue": {
+        "Volume": "2017",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Jul"
+        }
+      },
+      "Title": "IEEE ... International Conference on Rehabilitation Robotics : [proceedings]",
+      "ISOAbbreviation": "IEEE Int Conf Rehabil Robot"
+    },
+    "ArticleTitle": "Effects of assistance timing on metabolic cost, assistance power, and gait parameters for a hip-type exoskeleton.",
+    "Pagination": {
+      "StartPage": "498",
+      "EndPage": "504",
+      "MedlinePgn": "498-504"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "There are many important factors in developing an exoskeleton for assisting human locomotion. For example, the weight should be sufficiently light, the assist torque should be high enough to assist joint motion, and the assistance timing should be just right. Understanding how these design parameters affect overall performance of a complex human-machine system is critical for the development of these types of systems. The present study introduces an assistance timing controller that regulates assistance timing such that peak joint velocity and peak assistance power are offset by a reference value for our hip-type exoskeleton. This is followed by measuring the manner in which various assistance timing references affect an important metric for performance, namely metabolic cost. The results indicate that net metabolic cost exhibits a concave up pattern with the most reduction of 21%, when compared to walking without the exoskeleton, at 0% assistance timing reference. The study also examines assistance timing's effect on gait parameters; increase in assistance timing reference increases step length, decreases cadence, and increases walk ratio (i.e. step length/cadence ratio) during treadmill walking."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lee",
+        "ForeName": "Jusuk",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Seo",
+        "ForeName": "Keehong",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lim",
+        "ForeName": "Bokman",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Jang",
+        "ForeName": "Junwon",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kim",
+        "ForeName": "Kyungrock",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Choi",
+        "ForeName": "Hyundo",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Int Conf Rehabil Robot",
+    "NlmUniqueID": "101260913",
+    "ISSNLinking": "1945-7898"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Equipment Design"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Test"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exoskeleton Device"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Gait"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Hip"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Locomotion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Muscle, Skeletal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Walking"
+    }
+  ]
+}

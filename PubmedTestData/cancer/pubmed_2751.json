@@ -1,0 +1,176 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34143767",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1009085",
+      "10.1371/journal.pcbi.1009085"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Analyzing cancer gene expression data through the lens of normal tissue-specificity.",
+    "Pagination": {
+      "StartPage": "e1009085",
+      "MedlinePgn": "e1009085"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The genetic alterations that underlie cancer development are highly tissue-specific with the majority of driving alterations occurring in only a few cancer types and with alterations common to multiple cancer types often showing a tissue-specific functional impact. This tissue-specificity means that the biology of normal tissues carries important information regarding the pathophysiology of the associated cancers, information that can be leveraged to improve the power and accuracy of cancer genomic analyses. Research exploring the use of normal tissue data for the analysis of cancer genomics has primarily focused on the paired analysis of tumor and adjacent normal samples. Efforts to leverage the general characteristics of normal tissue for cancer analysis has received less attention with most investigations focusing on understanding the tissue-specific factors that lead to individual genomic alterations or dysregulated pathways within a single cancer type. To address this gap and support scenarios where adjacent normal tissue samples are not available, we explored the genome-wide association between the transcriptomes of 21 solid human cancers and their associated normal tissues as profiled in healthy individuals. While the average gene expression profiles of normal and cancerous tissue may appear distinct, with normal tissues more similar to other normal tissues than to the associated cancer types, when transformed into relative expression values, i.e., the ratio of expression in one tissue or cancer relative to the mean in other tissues or cancers, the close association between gene activity in normal tissues and related cancers is revealed. As we demonstrate through an analysis of tumor data from The Cancer Genome Atlas and normal tissue data from the Human Protein Atlas, this association between tissue-specific and cancer-specific expression values can be leveraged to improve the prognostic modeling of cancer, the comparative analysis of different cancer types, and the analysis of cancer and normal tissue pairs."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6794-9945"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Data Science, Geisel School of Medicine, Dartmouth College, Hanover, New Hampshire, United States of America."
+          }
+        ],
+        "LastName": "Frost",
+        "ForeName": "H Robert",
+        "Initials": "HR"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "K01 LM012426",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P20 GM130454",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA023108",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 CA253408",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Organ Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Principal Component Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA-Seq"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reference Values"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Analysis"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

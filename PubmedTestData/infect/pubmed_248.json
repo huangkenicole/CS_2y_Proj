@@ -1,0 +1,109 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "8714413",
+  "DateCompleted": {
+    "Year": "1996",
+    "Month": "10",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "10",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0025-5564",
+      "JournalIssue": {
+        "Volume": "132",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "1996",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Mathematical biosciences",
+      "ISOAbbreviation": "Math Biosci"
+    },
+    "ArticleTitle": "Carrier-borne epidemic models incorporating population mobility.",
+    "Pagination": {
+      "StartPage": "185",
+      "EndPage": "204",
+      "MedlinePgn": "185-204"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A study was made of multigroup epidemic models in which individuals are able to move between groups, infectious contact occurring only between an infective and a susceptible in the same group. Because of the mathematical intractability of such models; we look mainly at the number of susceptibles directly contacted by the infectives that are initially introduced into the population, ignoring subsequent infections caused by these newly infected individuals. We thus have a generalization of the carrier-borne epidemic model of Weiss [Biometrics 21:481-491 (1965)]. We consider first a model in which only infectives are able to move, then one in which both infectives and susceptibles move between groups. In each case we study both deterministic and stochastic versions of the model, concentrating mainly on the effect of varying the speed at which individuals move between groups on the number of initial susceptibles contacted. For the case in which only infectives move, the model is compared with a suitably matched model in which there is no movement between groups but infectives are able to infect outside their own group. The paper concludes with remarks on the behavior of the epidemic process if initially susceptible individuals that become infected are able to contribute to the further spread of the disease."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, University of Newcastle, Newcastle upon Tyne, United Kingdom."
+          }
+        ],
+        "LastName": "Clancy",
+        "ForeName": "D",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci",
+    "NlmUniqueID": "0103146",
+    "ISSNLinking": "0025-5564"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Carrier State"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemiologic Methods"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Population Dynamics"
+    }
+  ]
+}

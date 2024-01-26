@@ -1,0 +1,194 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "16953788",
+  "DateCompleted": {
+    "Year": "2006",
+    "Month": "11",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2007",
+    "Month": "12",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1064-5462",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2006",
+          "Season": "Fall"
+        }
+      },
+      "Title": "Artificial life",
+      "ISOAbbreviation": "Artif Life"
+    },
+    "ArticleTitle": "Simulating the hallmarks of cancer.",
+    "Pagination": {
+      "StartPage": "617",
+      "EndPage": "634",
+      "MedlinePgn": "617-34"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer can be viewed as the loss of cooperative cell behaviors that normally facilitate multicellularity, including the formation of tissues and organs. Hanahan and Weinberg describe the phenotypic differences between healthy and cancerous cells in an article titled \"The Hallmarks of Cancer\" (Cell, 100, 57-70, 2000). Here the authors propose six phenotypic changes at the cellular level as the essential hallmarks of cancer. They investigate the dynamics and interactions of these hallmarks in a model known as CancerSim. They describe how CancerSim implements the hallmarks in an agent-based simulation which can help test the hypotheses put forth by Hanahan and Weinberg. Experiments with CancerSim are described that study the interactions of cell phenotype alterations, and in particular, the likely sequences of precancerous mutations, known as pathways. The experiments show that sequencing is an important factor in tumorigenesis, as some mutations have preconditions--they are selectively advantageous only in combination with other mutations. CancerSim enables a modeler to study the dynamics of a developing tumor and simulate how progression can be altered by tuning model parameters."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sandia National Laboratories, P.O. Box 5800, Albuquerque, NM 87185, USA. rgabbot@sandia.gov"
+          }
+        ],
+        "LastName": "Abbott",
+        "ForeName": "Robert G",
+        "Initials": "RG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Forrest",
+        "ForeName": "Stephanie",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pienta",
+        "ForeName": "Kenneth J",
+        "Initials": "KJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "1P20 RR18754",
+        "Acronym": "RR",
+        "Agency": "NCRR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P01 CA093900",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P20 GM066283",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA46492",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P50 CA69568",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 CA102872",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Artif Life",
+    "NlmUniqueID": "9433814",
+    "ISSNLinking": "1064-5462"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Apoptosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Cycle"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Division"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomic Instability"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Invasiveness"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Metastasis"
+    },
+    {
+      "QualifierName": [
+        "blood supply",
+        "genetics",
+        "pathology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neovascularization, Pathologic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phenotype"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Transduction"
+    }
+  ]
+}

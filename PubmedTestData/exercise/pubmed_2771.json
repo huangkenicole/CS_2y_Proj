@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Balance training",
+      "Machine learning",
+      "Telerehabilitation",
+      "Wearable sensors"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34256799",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "114",
+      "10.1186/s12984-021-00894-4"
+    ],
+    "Journal": {
+      "ISSN": "1743-0003",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "13"
+        }
+      },
+      "Title": "Journal of neuroengineering and rehabilitation",
+      "ISOAbbreviation": "J Neuroeng Rehabil"
+    },
+    "ArticleTitle": "Automatically evaluating balance using\u00a0machine\u00a0learning and data from a single inertial measurement unit.",
+    "Pagination": {
+      "StartPage": "114",
+      "MedlinePgn": "114"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Recently, machine learning techniques have been applied to data collected from inertial measurement units to automatically assess balance, but rely on hand-engineered features. We explore the utility of machine learning to automatically extract important features from inertial measurement unit data for balance assessment.",
+        "Ten participants with balance concerns performed multiple balance exercises in a laboratory setting while wearing an inertial measurement unit on their lower back. Physical therapists watched video recordings of participants performing the exercises and rated balance on a 5-point scale. We trained machine learning models using different representations of the unprocessed inertial measurement unit data to estimate\u00a0physical therapist ratings. On a held-out test set, we compared these learned models to one another, to participants' self-assessments of balance, and to models trained using hand-engineered features. Utilizing the unprocessed kinematic data from the\u00a0inertial measurement unit provided significant improvements over both self-assessments and models using hand-engineered features (AUROC of 0.806 vs. 0.768, 0.665).",
+        "Unprocessed data from an inertial measurement unit used as input to a machine learning model produced accurate estimates of balance performance. The ability to learn from unprocessed data presents a potentially generalizable approach for assessing balance without the need for labor-intensive feature engineering, while maintaining comparable model performance."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2488-8887"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computer Science and Engineering, University of Michigan, Ann Arbor, USA. fhdkmrn@umich.edu."
+          }
+        ],
+        "LastName": "Kamran",
+        "ForeName": "Fahad",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mechanical Engineering, University of Michigan, Ann Arbor, USA."
+          }
+        ],
+        "LastName": "Harrold",
+        "ForeName": "Kathryn",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mechanical Engineering, University of Michigan, Ann Arbor, USA."
+          }
+        ],
+        "LastName": "Zwier",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology, Michigan Medicine, Ann Arbor, USA."
+          }
+        ],
+        "LastName": "Carender",
+        "ForeName": "Wendy",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mechanical Engineering, University of Michigan, Ann Arbor, USA."
+          }
+        ],
+        "LastName": "Bao",
+        "ForeName": "Tian",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mechanical Engineering, University of Michigan, Ann Arbor, USA."
+          }
+        ],
+        "LastName": "Sienko",
+        "ForeName": "Kathleen H",
+        "Initials": "KH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computer Science and Engineering, University of Michigan, Ann Arbor, USA."
+          }
+        ],
+        "LastName": "Wiens",
+        "ForeName": "Jenna",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "CBET-1804945",
+        "Agency": "National Science Foundation",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Neuroeng Rehabil",
+    "NlmUniqueID": "101232233",
+    "ISSNLinking": "1743-0003"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

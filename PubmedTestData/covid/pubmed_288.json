@@ -1,0 +1,341 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36548384",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "12",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0279428",
+      "10.1371/journal.pone.0279428"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Retrospective in silico mutation profiling of SARS-CoV-2 structural proteins circulating in Uganda by July 2021: Towards refinement of COVID-19 disease vaccines, diagnostics, and therapeutics.",
+    "Pagination": {
+      "StartPage": "e0279428",
+      "MedlinePgn": "e0279428"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The SARS-CoV-2 virus, the agent of COVID-19, caused unprecedented loss of lives and economic decline worldwide. Although the introduction of public health measures, vaccines, diagnostics, and therapeutics disrupted the spread of the SARS-CoV-2, the emergence of variants poses substantial threat. This study traced SARS-CoV-2 variants circulating in Uganda by July 2021 to inform the necessity for refinement of the intervention medical products. A comprehensive in silico analysis of the SARS-CoV-2 genomes detected in clinical samples collected from COVID-19 patients in Uganda revealed occurrence of structural protein variants with potential of escaping detection, resisting antibody therapy, or increased infectivity. The genome sequence dataset was retrieved from the GISAID database and the open reading frame encoding the spike, envelope, membrane, or nucleocapsid proteins was translated. The obtained protein sequences were aligned and inspected for existence of variants. The variant positions on each of the four alignment sets were mapped on predicted epitopes as well as the 3D structures. Additionally, sequences within each of the sets were clustered by family. A phylogenetic tree was constructed to assess relationship between the encountered spike protein sequences and Wuhan-Hu-1 wild-type, or the Alpha, Beta, Delta and Gamma variants of concern. Strikingly, the frequency of each of the spike protein point mutations F157L/Del, D614G and P681H/R was over 50%. The furin and the transmembrane serine protease 2 cleavage sites were unaffected by mutation. Whereas the Delta dominated the spike sequences (16.5%, 91/550), Gamma was not detected. The envelope protein was the most conserved with 96.3% (525/545) sequences being wild-type followed by membrane at 68.4% (397/580). Although the nucleocapsid protein sequences varied, the variant residue positions were less concentrated at the RNA binding domains. The dominant nucleocapsid sequence variant was S202N (34.5%, 205/595). These findings offer baseline information required for refining the existing COVID-19 vaccines, diagnostics, and therapeutics."
+      ],
+      "CopyrightInformation": "Copyright: \u00a9 2022 Odongo et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-8503-8897"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnical and Diagnostic Sciences, College of Veterinary Medicine, Animal Resources and Biosecurity (COVAB), Makerere University, Kampala, Uganda."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biosecurity and Global Health, College of Veterinary Medicine, Animal Resources and Biosecurity (COVAB), Makerere University, Kampala, Uganda."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Biomedical Research, Ghent University Global Campus, Incheon, South Korea."
+          }
+        ],
+        "LastName": "Odongo",
+        "ForeName": "Steven",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biosecurity and Global Health, College of Veterinary Medicine, Animal Resources and Biosecurity (COVAB), Makerere University, Kampala, Uganda."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pharm-Biotechnology and Traditional Medicine Center, Mbarara University of Science and Technology, Mbarara, Uganda."
+          }
+        ],
+        "LastName": "Okella",
+        "ForeName": "Hedmon",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Uganda Virus Research Institute, Entebbe, Uganda."
+          }
+        ],
+        "LastName": "Ndekezi",
+        "ForeName": "Christian",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Microbiology, College of Health Sciences, Makerere University, Kampala, Uganda."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Africa Center of Excellence in Materials, Product Development and Nanotechnology, College of Engineering, Makerere University, Kampala, Uganda."
+          }
+        ],
+        "LastName": "Okee",
+        "ForeName": "Moses",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biosecurity and Global Health, College of Veterinary Medicine, Animal Resources and Biosecurity (COVAB), Makerere University, Kampala, Uganda."
+          }
+        ],
+        "LastName": "Namayanja",
+        "ForeName": "Monica",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Africa Center of Excellence in Materials, Product Development and Nanotechnology, College of Engineering, Makerere University, Kampala, Uganda."
+          }
+        ],
+        "LastName": "Mujuni",
+        "ForeName": "Brian",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Medical Biochemistry and the Infla-Med Centre of Excellence, University of Antwerp, Campus Drie Eiken, Universiteitsplein, Wilrijk, Belgium."
+          }
+        ],
+        "LastName": "Sterckx",
+        "ForeName": "Yann G J",
+        "Initials": "YGJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Uganda Virus Research Institute, Entebbe, Uganda."
+          }
+        ],
+        "LastName": "Kizito",
+        "ForeName": "Dennison",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Biomedical Research, Ghent University Global Campus, Incheon, South Korea."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Molecular Biology, Ghent University, Ghent, Belgium."
+          }
+        ],
+        "LastName": "Radwanska",
+        "ForeName": "Magdalena",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Biomedical Research, Ghent University Global Campus, Incheon, South Korea."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Cellular and Molecular Immunology, Vrije Universiteit Brussel, Brussels, Belgium."
+          }
+        ],
+        "LastName": "Magez",
+        "ForeName": "Stefan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomolecular Resources, College of Veterinary Medicine, Animal Resources and Biosecurity, Makerere University, Kampala, Uganda."
+          }
+        ],
+        "LastName": "Ikwap",
+        "ForeName": "Kokas",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomolecular Resources, College of Veterinary Medicine, Animal Resources and Biosecurity, Makerere University, Kampala, Uganda."
+          }
+        ],
+        "LastName": "Mwiine",
+        "ForeName": "Frank Nobert",
+        "Initials": "FN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Uganda Virus Research Institute, Entebbe, Uganda."
+          }
+        ],
+        "LastName": "Lutwama",
+        "ForeName": "Julius Julian",
+        "Initials": "JJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anatomy, School of Biomedical Sciences, College of Health Sciences, Makerere University, Kampala, Uganda."
+          }
+        ],
+        "LastName": "Ibingira",
+        "ForeName": "Charles",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Uganda"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Point Mutation"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

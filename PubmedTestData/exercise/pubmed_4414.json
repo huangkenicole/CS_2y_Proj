@@ -1,0 +1,213 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31217121",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "04",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "04",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "06",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNSRE.2019.2923060"
+    ],
+    "Journal": {
+      "ISSN": "1558-0210",
+      "JournalIssue": {
+        "Volume": "27",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Jul"
+        }
+      },
+      "Title": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+      "ISOAbbreviation": "IEEE Trans Neural Syst Rehabil Eng"
+    },
+    "ArticleTitle": "The KIMORE Dataset: KInematic Assessment of MOvement and Clinical Scores for Remote Monitoring of Physical REhabilitation.",
+    "Pagination": {
+      "StartPage": "1436",
+      "EndPage": "1448",
+      "MedlinePgn": "1436-1448"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This paper proposes a free dataset, available at the following link,<sup>1</sup>named KIMORE, regarding different rehabilitation exercises collected by a RGB-D sensor. Three data inputs including RGB, depth videos, and skeleton joint positions were recorded during five physical exercises, specific for low back pain and accurately selected by physicians. For each exercise, the dataset also provides a set of features, specifically defined by the physicians, and relevant to describe its scope. These features, validated with respect to a stereophotogrammetric system, can be analyzed to compute a score for the subject's performance. The dataset also contains an evaluation of the same performance provided by the clinicians, through a clinical questionnaire. The impact of KIMORE has been analyzed by comparing the output obtained by an example of rule and template-based approaches and the clinical score. The dataset presented is intended to be used as a benchmark for human movement assessment in a rehabilitation scenario in order to test the effectiveness and the reliability of different computational approaches. Unlike other existing datasets, the KIMORE merges a large heterogeneous population of 78 subjects, divided into 2 groups with 44 healthy subjects and 34 with motor dysfunctions. It provides the most clinically-relevant features and the clinical score for each exercise.<sup>1</sup>https://univpm-my.sharepoint.com/:f:/g/personal/p008099_staff_univpm_it/EiwbKIzk6N9NoJQx4J8aubIBx0o7tIa1XwclWp1NmRkA-w?e=F3jtBk."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Capecci",
+        "ForeName": "Marianna",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ceravolo",
+        "ForeName": "Maria Gabriella",
+        "Initials": "MG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ferracuti",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Iarlori",
+        "ForeName": "Sabrina",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Monteriu",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Romeo",
+        "ForeName": "Luca",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Verdini",
+        "ForeName": "Federica",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Neural Syst Rehabil Eng",
+    "NlmUniqueID": "101097023",
+    "ISSNLinking": "1534-4320"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Arm"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Biomechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Healthy Volunteers"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Monitoring, Ambulatory"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Movement"
+    },
+    {
+      "QualifierName": [
+        "physiopathology",
+        "rehabilitation"
+      ],
+      "DescriptorName": "Movement Disorders"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Pelvis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Torso"
+    }
+  ]
+}

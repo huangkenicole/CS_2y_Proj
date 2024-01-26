@@ -1,0 +1,189 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "RT-PCR",
+      "SARS-CoV-2",
+      "coronavirus",
+      "diagnostic test performance",
+      "mobile laboratory",
+      "molecular diagnostics",
+      "nucleic acid test"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33856292",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "001346",
+      "10.1099/jmm.0.001346"
+    ],
+    "Journal": {
+      "ISSN": "1473-5644",
+      "JournalIssue": {
+        "Volume": "70",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Journal of medical microbiology",
+      "ISOAbbreviation": "J Med Microbiol"
+    },
+    "ArticleTitle": "Development, deployment and in-field demonstration of mobile coronavirus SARS-CoV-2 Nucleic acid amplification test.",
+    "Abstract": {
+      "AbstractText": [
+        "<b>Introduction.</b> The evolving SARS-CoV-2 coronavirus pandemic presents a series of challenges to clinical diagnostic services. Many proprietary PCR platforms deployed outside centralised laboratories have limited capacity to upscale when public health demands increase. We set out to develop and validate an open-platform mobile laboratory for remote area COVID-19 diagnosis, with a subsequent field trial.<b>Gap Statement.</b> In regional Western Australia, molecular diagnostic support is limited to near point-of-care devices. We therefore aimed to demonstrate open-platform capability in a rapidly deployable format within the context of the COVID-19 pandemic.<b>Methodology.</b> We compared, selected and validated components of a SARS-CoV-2 RT-PCR assay in order to establish a portable molecular diagnostics laboratory. The optimal combination of PCR assay equipment, reagents and consumables required for operation to national standards in regional laboratories was identified. This comprised RNA extraction and purification (QuickGene-480, Kurabo, Japan), a duplex RT-PCR assay (Logix Smart COVID-19, Co-Diagnostics, USA), a Myra liquid handling robot (Biomolecular Systems, Australia) and a magnetic induction thermal cycler (MIC, Biomolecular Systems).<b>Results</b> The 95 and 99% limits of detection were 1.01 copies \u03bcl<sup>-1</sup> (5.05 copies per reaction) and 2.80 copies \u03bcl<sup>-1</sup> (14.00 copies per reaction) respectively. The Co-Diagnostics assay amplified both SARS-CoV-1 and -2 RNA but showed no other cross reactivity. Qualitative results aligned with the reference laboratory SARS-CoV-2 assay (sensitivity 100% [95 % CI 96.48-100%], specificity 100% [95% CI 96.52-100%]). In field trials, the laboratory was operational within an hour of arrival on-site, can process up to 36 samples simultaneously, produces results in two and a half hours from specimen reception, and performed well during six consecutive runs during a 1 week deployment.<b>Conclusion.</b> Our mobile laboratory enables an adaptive response to increased test demand, and unlike many proprietary point-of-care PCR systems, rapid substitution with an alternative assay if gene targets change or reagent supply chains fail. We envisage operation of this RT-PCR assay as a standby capability to meet varying regional test demands under public health emergency operations guidance."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, PathWest Laboratory Medicine WA, Queen Elizabeth II Medical Centre, Nedlands 6009, WA, Western Australia, Australia."
+          }
+        ],
+        "LastName": "Paton",
+        "ForeName": "Teagan F",
+        "Initials": "TF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Menzies School of Health, National Health Laboratory, Dili, Timor-Leste."
+          }
+        ],
+        "LastName": "Marr",
+        "ForeName": "Ian",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, PathWest Laboratory Medicine WA, Queen Elizabeth II Medical Centre, Nedlands 6009, WA, Western Australia, Australia."
+          }
+        ],
+        "LastName": "O'Keefe",
+        "ForeName": "Zoe",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, PathWest Laboratory Medicine WA, Queen Elizabeth II Medical Centre, Nedlands 6009, WA, Western Australia, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Schools of Medicine and Biomedical Sciences, the University of Western Australia, Crawley 6009 WA, Australia."
+          }
+        ],
+        "LastName": "Inglis",
+        "ForeName": "Timothy J J",
+        "Initials": "TJJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Med Microbiol",
+    "NlmUniqueID": "0224131",
+    "ISSNLinking": "0022-2615"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cross Reactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Limit of Detection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mobile Health Units"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Point-of-Care Systems"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Western Australia"
+    }
+  ],
+  "CoiStatement": "None of the authors have financial, personal or professional competing interests regarding the manufacturers or distributors of the laboratory equipment and reagents used in this work or funding this work."
+}

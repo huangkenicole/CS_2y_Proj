@@ -1,0 +1,694 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33536218",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "eabe5984",
+      "10.1126/sciadv.abe5984"
+    ],
+    "Journal": {
+      "ISSN": "2375-2548",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Science advances",
+      "ISOAbbreviation": "Sci Adv"
+    },
+    "ArticleTitle": "A diagnostic host response biosignature for COVID-19 from RNA profiling of nasal swabs and blood.",
+    "Abstract": {
+      "AbstractText": [
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which causes coronavirus disease-19 (COVID-19), has emerged as the cause of a global pandemic. We used RNA sequencing to analyze 286 nasopharyngeal (NP) swab and 53 whole-blood (WB) samples from 333 patients with COVID-19 and controls. Overall, a muted immune response was observed in COVID-19 relative to other infections (influenza, other seasonal coronaviruses, and bacterial sepsis), with paradoxical down-regulation of several key differentially expressed genes. Hospitalized patients and outpatients exhibited up-regulation of interferon-associated pathways, although heightened and more robust inflammatory responses were observed in hospitalized patients with more clinically severe illness. Two-layer machine learning-based host classifiers consisting of complete (>1000 genes), medium (<100), and small (<20) gene biomarker panels identified COVID-19 disease with 85.1-86.5% accuracy when benchmarked using an independent test set. SARS-CoV-2 infection has a distinct biosignature that differs between NP swabs and WB and can be leveraged for COVID-19 diagnosis."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. Distributed under a Creative Commons Attribution NonCommercial License 4.0 (CC BY-NC)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-5410-2326"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Ng",
+        "ForeName": "Dianna L",
+        "Initials": "DL"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6759-0154"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Granados",
+        "ForeName": "Andrea C",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Santos",
+        "ForeName": "Yale A",
+        "Initials": "YA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1745-4012"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Servellita",
+        "ForeName": "Venice",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8732-9834"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Goldgof",
+        "ForeName": "Gregory M",
+        "Initials": "GM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0663-6216"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Meydan",
+        "ForeName": "Cem",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8930-745X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Sotomayor-Gonzalez",
+        "ForeName": "Alicia",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Levine",
+        "ForeName": "Andrew G",
+        "Initials": "AG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Balcerek",
+        "ForeName": "Joanna",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Lucy M",
+        "Initials": "LM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0804-7589"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Akagi",
+        "ForeName": "Naomi",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Truong",
+        "ForeName": "Kent",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9779-7754"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Neumann",
+        "ForeName": "Neil M",
+        "Initials": "NM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6808-2717"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "David N",
+        "Initials": "DN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Division of Infectious Diseases, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Bapat",
+        "ForeName": "Sagar P",
+        "Initials": "SP"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0417-3713"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Preventive and Restorative Dental Sciences, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Biostatistics, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Cheng",
+        "ForeName": "Jing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Claudia Sanchez-San",
+        "Initials": "CS"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8712-3131"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Federman",
+        "ForeName": "Scot",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Foox",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Gopez",
+        "ForeName": "Allan",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Division of Hematology and Oncology, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Tony",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Ray",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Chu",
+        "ForeName": "Cynthia S",
+        "Initials": "CS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Wabl",
+        "ForeName": "Chiara A",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Gliwa",
+        "ForeName": "Amelia S",
+        "Initials": "AS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Reyes",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral and Rickettsial Disease Laboratory, California Department of Health, Richmond, CA, USA."
+          }
+        ],
+        "LastName": "Pan",
+        "ForeName": "Chao-Yang",
+        "Initials": "CY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral and Rickettsial Disease Laboratory, California Department of Health, Richmond, CA, USA."
+          }
+        ],
+        "LastName": "Guevara",
+        "ForeName": "Hugo",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8630-427X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral and Rickettsial Disease Laboratory, California Department of Health, Richmond, CA, USA."
+          }
+        ],
+        "LastName": "Wadford",
+        "ForeName": "Debra",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9188-3392"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Miller",
+        "ForeName": "Steve",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1850-1642"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "New York Genome Center, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Feil Family Brain and Mind Research Institute, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Mason",
+        "ForeName": "Christopher E",
+        "Initials": "CE"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2915-2094"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, San Francisco, CA, USA. charles.chiu@ucsf.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Division of Infectious Diseases, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Chiu",
+        "ForeName": "Charles Y",
+        "Initials": "CY"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 CA249054",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "L40 AI140341",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R33 AI29077",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 NS076465",
+        "Acronym": "NS",
+        "Agency": "NINDS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HL105704",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R33 AI120977",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R38 HL143581",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Sci Adv",
+    "NlmUniqueID": "101653440",
+    "ISSNLinking": "2375-2548"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Area Under Curve"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "metabolism",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Library"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Nasopharynx"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "ROC Curve"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

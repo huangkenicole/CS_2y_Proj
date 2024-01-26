@@ -1,0 +1,399 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "hypercube pooling",
+      "one round pooling PCR",
+      "pooling PCR"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36339215",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "10",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "994712",
+      "10.3389/fpubh.2022.994712"
+    ],
+    "Journal": {
+      "ISSN": "2296-2565",
+      "JournalIssue": {
+        "Volume": "10",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Frontiers in public health",
+      "ISOAbbreviation": "Front Public Health"
+    },
+    "ArticleTitle": "An improvement of current hypercube pooling PCR tests for SARS-CoV-2 detection.",
+    "Pagination": {
+      "StartPage": "994712",
+      "MedlinePgn": "994712"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic can be effectively controlled by rapid and accurate identification of SARS-CoV-2-infected cases through large-scale screening. Hypercube pooling polymerase chain reaction (PCR) is frequently used as a pooling technique because of its high speed and efficiency. We attempted to implement the hypercube pooling strategy and found it had a large quantization effect. This raised two questions: is hypercube pooling with edge = 3 actually the optimal strategy? If not, what is the best edge and dimension? We used a C++ program to calculate the expected number of PCR tests per patient for different values of prevalence, edge, and dimension. The results showed that every edge had a best performance range. Then, using C++ again, we created a program to calculate the optimal edge and dimension required for pooling samples when entering prevalence into our program. Our program will be provided as freeware in the hope that it can help governments fight the SARS-CoV-2 pandemic."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Wu, Liao, Fuh, Weng, Wang, Chen, Huang, Chen, Chu, Chen, Yeh, Yu, Wu, Lin, Liou, Wu and Liaw."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Family Medicine, Zhongxing Branch, Taipei City Hospital, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Epidemiology and Preventive Medicine, National Taiwan University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "General Education Center, University of Taipei, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Tai-Yin",
+        "Initials": "TY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Liao",
+        "ForeName": "Yu-Ciao",
+        "Initials": "YC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Fuh",
+        "ForeName": "Chiou-Shann",
+        "Initials": "CS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, Shuang Ho Hospital, Taipei Medical University, New Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate Institute of Biomedical Optomechatronics, College of Biomedical Engineering, Research Center of Biomedical Device, Taipei Medical University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Weng",
+        "ForeName": "Pei-Wei",
+        "Initials": "PW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, Shuang Ho Hospital, Taipei Medical University, New Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Jr-Yi",
+        "Initials": "JY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, Shuang Ho Hospital, Taipei Medical University, New Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate Institute of Biomedical Optomechatronics, College of Biomedical Engineering, Research Center of Biomedical Device, Taipei Medical University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "International Ph.D. Program in Biomedical Engineering, College of Biomedical Engineering, Taipei Medical University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Chih-Yu",
+        "Initials": "CY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, Shuang Ho Hospital, Taipei Medical University, New Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Yu-Min",
+        "Initials": "YM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, Cathay General Hospital, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Chung-Pei",
+        "Initials": "CP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, Shin Kong Wu Ho-Su Memorial Hospital, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine, College of Medicine, Fu Jen Catholic University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, National Taiwan University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Chu",
+        "ForeName": "Yo-Lun",
+        "Initials": "YL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, Shin Kong Wu Ho-Su Memorial Hospital, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, National Taiwan University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Cheng-Kuang",
+        "Initials": "CK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedics, Ditmanson Medical Foundation Chia-Yi Christian Hospital, Chiayi, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Long-Term Care and Management, WuFeng University, Chiayi, Taiwan."
+          }
+        ],
+        "LastName": "Yeh",
+        "ForeName": "Kuei-Lin",
+        "Initials": "KL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, Taoyuan General Hospital, Ministry of Health and Welfare, Taoyuan, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, National Taiwan University Hospital, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Ching-Hsiao",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, Taoyuan General Hospital, Ministry of Health and Welfare, Taoyuan, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, National Taiwan University Hospital, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Nursing, Yuanpei University of Medical Technology, Hsinchu, Taiwan."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Hung-Kang",
+        "Initials": "HK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, National Taiwan University Hospital, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, Postal Hospital, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Wei-Peng",
+        "Initials": "WP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physical Medicine and Rehabilitation, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Liou",
+        "ForeName": "Tsan-Hon",
+        "Initials": "TH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Nephrology, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Mai-Szu",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopedics, Shuang Ho Hospital, Taipei Medical University, New Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate Institute of Biomedical Optomechatronics, College of Biomedical Engineering, Research Center of Biomedical Device, Taipei Medical University, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "TMU Biodesign Center, Taipei Medical University, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Liaw",
+        "ForeName": "Chen-Kun",
+        "Initials": "CK"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Front Public Health",
+    "NlmUniqueID": "101616579",
+    "ISSNLinking": "2296-2565"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymerase Chain Reaction"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

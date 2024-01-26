@@ -1,0 +1,264 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "deep representation learning",
+      "drug discovery",
+      "excessive inflammatory response",
+      "heterogeneous drug networks"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34117734",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab226",
+      "10.1093/bib/bbab226"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "DeepR2cov: deep representation learning on heterogeneous drug networks to discover anti-inflammatory agents for COVID-19.",
+    "Abstract": {
+      "AbstractText": [
+        "Recent studies have demonstrated that the excessive inflammatory response is an important factor of death in coronavirus disease 2019 (COVID-19) patients. In this study, we propose a deep representation on heterogeneous drug networks, termed DeepR2cov, to discover potential agents for treating the excessive inflammatory response in COVID-19 patients. This work explores the multi-hub characteristic of a heterogeneous drug network integrating eight unique networks. Inspired by the multi-hub characteristic, we design 3 billion special meta paths to train a deep representation model for learning low-dimensional vectors that integrate long-range structure dependency and complex semantic relation among network nodes. Based on the representation vectors and transcriptomics data, we predict 22 drugs that bind to tumor necrosis factor-\u03b1 or interleukin-6, whose therapeutic associations with the inflammation storm in COVID-19 patients, and molecular binding model are further validated via data from PubMed publications, ongoing clinical trials and a docking program. In addition, the results on five biomedical applications suggest that DeepR2cov significantly outperforms five existing representation approaches. In summary, DeepR2cov is a powerful network representation approach and holds the potential to accelerate treatment of the inflammatory responses in COVID-19 patients. The source code and data can be downloaded from https://github.com/pengsl-lab/DeepR2cov.git."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Computer Science and Electronic Engineering, Hunan University, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Xiaoqi",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Computer Science and Electronic Engineering, Hunan University, China."
+          }
+        ],
+        "LastName": "Xin",
+        "ForeName": "Bin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chinese Academy of Sciences in the College of Chemistry and Chemical Engineering, College of Biology, Hunan University, China."
+          }
+        ],
+        "LastName": "Tan",
+        "ForeName": "Weihong",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Drug Discovery and Design Center, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Zhijian",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Computer Science and Electronic Engineering, Hunan University, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Kenli",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computer Network Information Center, Chinese Academy of Sciences, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Fei",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Engineering Research Center for the Emergency Drug, Beijing Institute of Pharmacology and Toxicology, China."
+          }
+        ],
+        "LastName": "Zhong",
+        "ForeName": "Wu",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Computer Science and Electronic Engineering, Hunan University, China."
+          }
+        ],
+        "LastName": "Peng",
+        "ForeName": "Shaoliang",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2017YFB0202602",
+        "Agency": "National Key Research and Development Program of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "81973244",
+        "Agency": "National Nature Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "Agency": "Fundamental Research Funds for the Central Universities",
+        "Country": ""
+      },
+      {
+        "GrantID": "2016B090918122",
+        "Agency": "Guangdong Provincial Department of Science and Technology",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Anti-Inflammatory Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Anti-Inflammatory Agents"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "drug therapy",
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "Inflammation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

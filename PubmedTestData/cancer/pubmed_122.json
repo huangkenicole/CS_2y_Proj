@@ -1,0 +1,120 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34752443",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "11",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1009596",
+      "10.1371/journal.pcbi.1009596"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Deciphering the molecular mechanism of the cancer formation by chromosome structural dynamics.",
+    "Pagination": {
+      "StartPage": "e1009596",
+      "MedlinePgn": "e1009596"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer reflects the dysregulation of the underlying gene network, which is strongly related to the 3D genome organization. Numerous efforts have been spent on experimental characterizations of the structural alterations in cancer genomes. However, there is still a lack of genomic structural-level understanding of the temporal dynamics for cancer initiation and progression. Here, we use a landscape-switching model to investigate the chromosome structural transition during the cancerization and reversion processes. We find that the chromosome undergoes a non-monotonic structural shape-changing pathway with initial expansion followed by compaction during both of these processes. Furthermore, our analysis reveals that the chromosome with a more expanding structure than those at both the normal and cancer cell during cancerization exhibits a sparse contact pattern, which shows significant structural similarity to the one at the embryonic stem cell in many aspects, including the trend of contact probability declining with the genomic distance, the global structural shape geometry and the spatial distribution of loci on the chromosome. In light of the intimate structure-function relationship at the chromosomal level, we further describe the cell state transition processes by the chromosome structural changes, suggesting an elevated cell stemness during the formation of the cancer cells. We show that cell cancerization and reversion are highly irreversible processes in terms of the chromosome structural transition pathways, spatial repositioning of chromosomal loci and hysteresis loop of contact evolution analysis. Our model draws a molecular-scale picture of cell cancerization from the chromosome structural perspective. The process contains initial reprogramming towards the stem cell followed by the differentiation towards the cancer cell, accompanied by an initial increase and subsequent decrease of the cell stemness."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3166-7070"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, State University of New York at Stony Brook, Stony Brook, New York, United States of America."
+          }
+        ],
+        "LastName": "Chu",
+        "ForeName": "Xiakun",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, State University of New York at Stony Brook, Stony Brook, New York, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics and Astronomy, State University of New York at Stony Brook, Stony Brook, New York, United States of America."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Jin",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chromosomes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

@@ -1,0 +1,169 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "coronavirus",
+      "literature",
+      "pandemic",
+      "research",
+      "topic modeling"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33031049",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e21559",
+      "10.2196/21559"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov",
+          "Day": "10"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Analysis of Scientific Publications During the Early Phase of the COVID-19 Pandemic: Topic Modeling Study.",
+    "Pagination": {
+      "StartPage": "e21559",
+      "MedlinePgn": "e21559"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic has spread at an alarming speed, and effective treatment for the disease is still lacking. The body of evidence on COVID-19 has been increasing at an impressive pace, creating the need for a method to rapidly assess the current knowledge and identify key information. Gold standard methods such as systematic reviews and meta-analyses are regarded unsuitable because they have a narrow scope and are very time consuming.",
+        "This study aimed to explore the published scientific literature on COVID-19 and map the research evolution during the early phase of the COVID-19 pandemic.",
+        "We performed a PubMed search to analyze the titles, keywords, and abstracts of published papers on COVID-19. We used latent Dirichlet allocation modeling to extract topics and conducted a trend analysis to understand the temporal changes in research for each topic, journal impact factor (JIF), and geographic origin.",
+        "Based on our search, we identified 16,670 relevant articles dated between February 14, 2020, and June 1, 2020. Of these, 6 articles were reports from peer-reviewed randomized trials on patients with COVID-19. We identified 14 main research topics, of which the most common topics were health care responses (2812/16,670, 16.86%) and clinical manifestations (1828/16,670, 10.91%). We found an increasing trend for research on clinical manifestations and protective measures and a decreasing trend for research on disease transmission, epidemiology, health care response, and radiology. Publications on protective measures, immunology, and clinical manifestations were associated with the highest JIF. The overall median JIF was 3.7 (IQR 2.6-5.9), and we found that the JIF for these publications declined over time. The top countries producing research were the United States, China, Italy, and the United Kingdom.",
+        "In less than 6 months since the novel coronavirus was first detected, a remarkably high number of research articles on COVID-19 have been published. Here, we discuss and present the temporal changes in the available COVID-19 research during the early phase of the pandemic. Our findings may aid researchers and policy makers to form a structured view of the current COVID-19 evidence base and provide further research directions."
+      ],
+      "CopyrightInformation": "\u00a9Andreas \u00c4lg\u00e5, Oskar Eriksson, Martin Nordberg. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 10.11.2020."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-5245-7668"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Science and Education, S\u00f6dersjukhuset, Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden."
+          }
+        ],
+        "LastName": "\u00c4lg\u00e5",
+        "ForeName": "Andreas",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3648-1523"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DataRobot Inc, Stockholm, Sweden."
+          }
+        ],
+        "LastName": "Eriksson",
+        "ForeName": "Oskar",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8263-0433"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Science and Education, S\u00f6dersjukhuset, Karolinska Institutet, Stockholm, Sweden."
+          }
+        ],
+        "LastName": "Nordberg",
+        "ForeName": "Martin",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "J Med Internet Res. 2021 May 20;23(5):e27937",
+      "PMID": "33989167"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "standards"
+      ],
+      "DescriptorName": "Publications"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Research Design"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

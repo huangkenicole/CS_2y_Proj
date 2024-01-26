@@ -1,0 +1,169 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "17440813",
+  "DateCompleted": {
+    "Year": "2007",
+    "Month": "08",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2007",
+    "Month": "05",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2007",
+        "Month": "04",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0090-6964",
+      "JournalIssue": {
+        "Volume": "35",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Annals of biomedical engineering",
+      "ISOAbbreviation": "Ann Biomed Eng"
+    },
+    "ArticleTitle": "Estimation of likely cancer cure using first- and second-order product densities of population balance models.",
+    "Pagination": {
+      "StartPage": "903",
+      "EndPage": "915",
+      "MedlinePgn": "903-15"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The objective of chemotherapy is to eradicate all cancerous cells. However, due to the stochastic behavior of cells, the elimination of all cancerous cells must be discussed probabilistically. We hypothesize, and demonstrate in the results, that the mean and standard deviation of a cancer cell population, derived through the probabilistic interpretation of population balance equations, are sufficient to estimate the likelihood of cancer eradication. Our analysis of a binary cell division model reveals that an expected cancer population that is six standard deviations less than one cell provides a good estimate for the treatment durations that nearly ensures treatment successes. This approximation is evaluated and tested on two other physiologically likely scenarios: variable patient response to chemotherapy and the presence of a dormant population. We find that early identification of individual patient susceptibility to the chemotherapeutic agent is extremely important to all patients as treatment adjustments for non-responders greatly enhances their likelihood of cure while responders need not be subjected to needlessly harsh treatments. Presence of a dormant population increases both the required treatment duration and population variability, but the same estimation method holds. This work is a step toward using stochastic models for a quantitative evaluation of chemotherapy."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Chemical Engineering, Forney Hall of Chemical Engineering, Purdue University, West Lafayette, IN 47907, USA."
+          }
+        ],
+        "LastName": "Sherer",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hannemann",
+        "ForeName": "Robert E",
+        "Initials": "RE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rundell",
+        "ForeName": "Ann",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ramkrishna",
+        "ForeName": "Doraiswami",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Ann Biomed Eng",
+    "NlmUniqueID": "0361512",
+    "ISSNLinking": "0090-6964"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antineoplastic Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "administration & dosage"
+      ],
+      "DescriptorName": "Antineoplastic Agents"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Apoptosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Count"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Cell Survival"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "pathology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Treatment Outcome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tumor Cells, Cultured"
+    }
+  ]
+}

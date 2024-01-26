@@ -1,0 +1,304 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27935995",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "07",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "12",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0167055",
+      "10.1371/journal.pone.0167055"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2016"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Into the Bowels of Depression: Unravelling Medical Symptoms Associated with Depression by Applying Machine-Learning Techniques to a Community Based Population Sample.",
+    "Pagination": {
+      "StartPage": "e0167055",
+      "MedlinePgn": "e0167055"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Depression is commonly comorbid with many other somatic diseases and symptoms. Identification of individuals in clusters with comorbid symptoms may reveal new pathophysiological mechanisms and treatment targets. The aim of this research was to combine machine-learning (ML) algorithms with traditional regression techniques by utilising self-reported medical symptoms to identify and describe clusters of individuals with increased rates of depression from a large cross-sectional community based population epidemiological study.",
+        "A multi-staged methodology utilising ML and traditional statistical techniques was performed using the community based population National Health and Nutrition Examination Study (2009-2010) (N = 3,922). A Self-organised Mapping (SOM) ML algorithm, combined with hierarchical clustering, was performed to create participant clusters based on 68 medical symptoms. Binary logistic regression, controlling for sociodemographic confounders, was used to then identify the key clusters of participants with higher levels of depression (PHQ-9\u226510, n = 377). Finally, a Multiple Additive Regression Tree boosted ML algorithm was run to identify the important medical symptoms for each key cluster within 17 broad categories: heart, liver, thyroid, respiratory, diabetes, arthritis, fractures and osteoporosis, skeletal pain, blood pressure, blood transfusion, cholesterol, vision, hearing, psoriasis, weight, bowels and urinary.",
+        "Five clusters of participants, based on medical symptoms, were identified to have significantly increased rates of depression compared to the cluster with the lowest rate: odds ratios ranged from 2.24 (95% CI 1.56, 3.24) to 6.33 (95% CI 1.67, 24.02). The ML boosted regression algorithm identified three key medical condition categories as being significantly more common in these clusters: bowel, pain and urinary symptoms. Bowel-related symptoms was found to dominate the relative importance of symptoms within the five key clusters.",
+        "This methodology shows promise for the identification of conditions in general populations and supports the current focus on the potential importance of bowel symptoms and the gut in mental health research."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IMPACT Strategic Research Centre, School of Medicine, Deakin University, Geelong, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistics, Data Science and Epidemiology, Swinburne University of Technology, Melbourne, Victoria, Australia."
+          }
+        ],
+        "LastName": "Dipnall",
+        "ForeName": "Joanna F",
+        "Initials": "JF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IMPACT Strategic Research Centre, School of Medicine, Deakin University, Geelong, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Melbourne Clinical School-Western Campus, The University of Melbourne, St Albans, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University Hospital Geelong, Geelong VIC Australia."
+          }
+        ],
+        "LastName": "Pasco",
+        "ForeName": "Julie A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IMPACT Strategic Research Centre, School of Medicine, Deakin University, Geelong, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University Hospital Geelong, Geelong VIC Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, The University of Melbourne, Parkville, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Florey Institute of Neuroscience and Mental Health, Parkville, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Orygen, the National Centre of Excellence in Youth Mental Health, Parkville, VIC, Australia."
+          }
+        ],
+        "LastName": "Berk",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IMPACT Strategic Research Centre, School of Medicine, Deakin University, Geelong, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University Hospital Geelong, Geelong VIC Australia."
+          }
+        ],
+        "LastName": "Williams",
+        "ForeName": "Lana J",
+        "Initials": "LJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IMPACT Strategic Research Centre, School of Medicine, Deakin University, Geelong, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University Hospital Geelong, Geelong VIC Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, The University of Melbourne, Parkville, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Orygen, the National Centre of Excellence in Youth Mental Health, Parkville, VIC, Australia."
+          }
+        ],
+        "LastName": "Dodd",
+        "ForeName": "Seetal",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IMPACT Strategic Research Centre, School of Medicine, Deakin University, Geelong, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, The University of Melbourne, Parkville, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Adolescent Health, Murdoch Children's Research Institute, Melbourne, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Black Dog Institute, Sydney, Australia."
+          }
+        ],
+        "LastName": "Jacka",
+        "ForeName": "Felice N",
+        "Initials": "FN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistics, Data Science and Epidemiology, Swinburne University of Technology, Melbourne, Victoria, Australia."
+          }
+        ],
+        "LastName": "Meyer",
+        "ForeName": "Denny",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Community Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Comorbidity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cross-Sectional Studies"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depressive Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Gastrointestinal Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Logistic Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Nutrition Surveys"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Population Surveillance"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Self Report"
+    }
+  ],
+  "CoiStatement": "JFD has no conflicts of interest in relation to this manuscript. JAP has recently received grant/research support from the National Health and Medical Research Council (NHMRC), BUPA Foundation, Amgen,/GlaxoSmithKline/Osteoporosis Australia/Australian and New Zealand Bone and Mineral Society, Western Alliance, Barwon Health, Deakin University and the Geelong Community Foundation. MB has received Grant/Research Support from the NIH, Cooperative Research Centre, Simons Autism Foundation, Cancer Council of Victoria, Stanley Medical Research Foundation, MBF, NHMRC, Beyond Blue, Rotary Health, Geelong Medical Research Foundation, Bristol Myers Squibb, Eli Lilly, Glaxo SmithKline, Meat and Livestock Board, Organon, Novartis, Mayne Pharma, Servier and Woolworths, has been a speaker for Astra Zeneca, Bristol Myers Squibb, Eli Lilly, Glaxo SmithKline, Janssen Cilag, Lundbeck, Merck, Pfizer, Sanofi Synthelabo, Servier, Solvay and Wyeth, and served as a consultant to Astra Zeneca, Bioadvantex, Bristol Myers Squibb, Eli Lilly, Glaxo SmithKline, Janssen Cilag, Lundbeck Merck and Servier. Drs Copolov, MB and Bush are co-inventors of provisional patent 02799377.3-2107-AU02 \u201cModulation of physiological process and agents useful for same\u201d. MB and Laupu are co-authors of provisional patent 2014900627 \u201cModulation of diseases of the central nervous system and related disorders\u201d. MB is supported by a NHMRC Senior Principal Research Fellowship 1059660. LJW is supported by a NHMRC Career Development Fellowship 1064272. SD has received grants/research support from the Stanley Medical Research Institute, NHMRC, Beyond Blue, ARHRF, Simons Foundation, Geelong Medical Research Foundation, Fondation FondaMental, Eli Lilly, Glaxo SmithKline, Organon, Mayne Pharma and Servier, speaker\u2019s fees from Eli Lilly, advisory board fees from Eli Lilly and Novartis, and conference travel support from Servier. FNJ has received Grant/Research support from the Brain and Behaviour Research Institute, the National Health and Medical Research Council (NHMRC), Australian Rotary Health, the Geelong Medical Research Foundation, the Ian Potter Foundation, Eli Lilly, the Meat and Livestock Board and The University of Melbourne and has received speakers honoraria from Sanofi-Synthelabo, Janssen Cilag, Servier, Pfizer, Health Ed, Network Nutrition, Angelini Farmaceutica, and Eli Lilly. She is supported by an NHMRC Career Development Fellowship (#1108125). DM has received grant/research support from the Australian research Council (ARC), Mental Illness Research Fund (MIRF), Victorian Department of Justice, Beyond Blue, Swinburne University of Technology, Federal University. This does not alter our adherence to PLOS ONE policies on sharing data and materials."
+}

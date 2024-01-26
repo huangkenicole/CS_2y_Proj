@@ -1,0 +1,162 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33186199",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1097/HCR.0000000000000553"
+    ],
+    "Journal": {
+      "ISSN": "1932-751X",
+      "JournalIssue": {
+        "Volume": "41",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "01"
+        }
+      },
+      "Title": "Journal of cardiopulmonary rehabilitation and prevention",
+      "ISOAbbreviation": "J Cardiopulm Rehabil Prev"
+    },
+    "ArticleTitle": "Automated Detection of Exercise Sessions in Patients With Peripheral Artery Disease: EVIDENCE FOR AN EXERCISE DOSE RESPONSE TO TRAINING.",
+    "Pagination": {
+      "StartPage": "176",
+      "EndPage": "181",
+      "MedlinePgn": "176-181"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Monitoring home exercise using accelerometry in patients with peripheral artery disease (PAD) may provide a tool to improve adherence and titration of the exercise prescription. However, methods for unbiased analysis of accelerometer data are lacking. The aim of the current post hoc analysis was to develop an automated method to analyze accelerometry output collected during home-based exercise.",
+        "Data were obtained from 54 patients with PAD enrolled in a clinical trial that included a home-based exercise intervention using diaries and an accelerometer. Peak walking time was assessed on a graded treadmill at baseline and 6 mo. In 35 randomly selected patient data sets, visual inspection of accelerometer output confirmed exercise sessions throughout the 6 mo. An algorithm was developed to detect exercise sessions and then compared with visual inspection of sessions to mitigate the heterogeneity in session intensity across the population. Identified exercise sessions were characterized on the basis of total step count and activity duration. The methodology was then applied to data sets for all 54 patients.",
+        "The ability of the algorithm to detect exercise sessions compared with visual inspection of the accelerometer output resulted in a sensitivity of 85% and specificity of 90%. Algorithm-detected exercise sessions (total) and intensity (steps/wk) were correlated with change in peak walking time (r = 0.28; r = 0.43).",
+        "An algorithm to assess data from an accelerometer successfully detected home-based exercise sessions. Algorithm-identified exercise sessions were correlated with improvements in performance after 6 mo of training in patients with PAD, supporting the effectiveness of monitored home-based exercise."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 Wolters Kluwer Health, Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Academic Health Center, School of Nursing, University of Minnesota, Minneapolis (Dr Mays); Syneos Health, Milliken, Colorado (Mr Wesselman); CPC Clinical Research, Aurora, Colorado (Ms White, Ms Greenwalt, and Dr Hiatt); Geisel School of Medicine at Dartmouth, Dartmouth-Hitchcock Medical Center, Heart and Vascular Center, Lebanon, New Hampshire (Dr Creager); BetaGlue Technologies SpA, Milan, Italy (Dr Amato); and Department of Medicine, Division of Cardiology, School of Medicine, University of Colorado, Aurora (Dr Hiatt)."
+          }
+        ],
+        "LastName": "Mays",
+        "ForeName": "Ryan J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wesselman",
+        "ForeName": "Craig W",
+        "Initials": "CW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "White",
+        "ForeName": "Robin",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Creager",
+        "ForeName": "Mark A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Amato",
+        "ForeName": "Antonino",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Greenwalt",
+        "ForeName": "Marilyn",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hiatt",
+        "ForeName": "William R",
+        "Initials": "WR"
+      }
+    ],
+    "DataBankList": [
+      {
+        "DataBankName": "ClinicalTrials.gov",
+        "AccessionNumberList": [
+          "NCT00399919"
+        ]
+      }
+    ],
+    "PublicationTypeList": [
+      "Clinical Trial",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Cardiopulm Rehabil Prev",
+    "NlmUniqueID": "101291247",
+    "ISSNLinking": "1932-7501"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Accelerometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Peripheral Arterial Disease"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Walking"
+    }
+  ],
+  "CoiStatement": "Dr Mays is principal investigator for 2 PAD-related clinical studies funded by the University of Minnesota Academic Health Center and the University of Minnesota Foundation. Dr Hiatt receives research funding for studies in PAD from the National Institutes of Health, Bayer, Janssen, and Amgen. The remaining authors have no conflicts of interest to declare."
+}

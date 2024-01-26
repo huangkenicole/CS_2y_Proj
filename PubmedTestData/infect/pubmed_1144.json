@@ -1,0 +1,277 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "India",
+      "RT-PCR",
+      "SARS-CoV-2",
+      "next-generation sequencing",
+      "replication cycle",
+      "transcriptome"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32773420",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.4103/ijmr.IJMR_2257_20"
+    ],
+    "Journal": {
+      "ISSN": "0975-9174",
+      "JournalIssue": {
+        "Volume": "152",
+        "Issue": "1 & 2",
+        "PubDate": {
+          "MedlineDate": "2020 Jul & Aug"
+        }
+      },
+      "Title": "The Indian journal of medical research",
+      "ISOAbbreviation": "Indian J Med Res"
+    },
+    "ArticleTitle": "Transcriptome & viral growth analysis of SARS-CoV-2-infected Vero CCL-81 cells.",
+    "Pagination": {
+      "StartPage": "70",
+      "EndPage": "76",
+      "MedlinePgn": "70-76"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The genome of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), belonging to the family Coronaviridae, encodes for structural, non-structural, and accessory proteins, which are required for replication of the virus. These proteins are encoded by different genes present on the SARS-CoV-2 genome. The expression pattern of these genes in the host cells needs to be assessed. This study was undertaken to understand the transcription pattern of the SARS-CoV-2 genes in the Vero CCL-81 cells during the course of infection.",
+        "Vero CCL-81 cells were infected with the SARS-CoV-2 virus inoculum having a 0.1 multiplicity of infection. The supernatants and cell pellets were harvested after centrifugation at different time points, post-infection. The 50% tissue culture infective dose (TCID<sub>50</sub>)and cycle threshold (C<sub>t</sub>) values of the E and the RdRp-2 genes were calculated. Next-generation sequencing of the harvested sample was carried out to observe the expression pattern of the virus by mapping to the SARS-CoV-2 Wuhan HU-1 reference sequence. The expressions were in terms of the reads per kilobase million (RPKM) values.",
+        "In the inital six hours post-infection, the copy numbers of E and RdRp-2 genes were approximately constant, which raised 10 log-fold and continued to increase till the 12 h post-infection (hpi). The TCID<sub>50</sub> was observed in the supernatant after 7 hpi, indicating the release of the viral progeny. ORF8 and ORF7a, along with the nucleocapsid transcript, were found to express at higher levels.",
+        "This study was a step towards understanding the growth kinetics of the SARS-CoV-2 replication cycle. The findings indicated that ORF8 and ORF7b gene transcripts were expressed in higher amounts indicating their essential role in viral replication. Future studies need to be conducted to explore their role in the SARS-CoV-2 replication."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Nyayanit",
+        "ForeName": "Dimpal A",
+        "Initials": "DA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Sarkale",
+        "ForeName": "Prasad",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Baradkar",
+        "ForeName": "Shreekant",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Patil",
+        "ForeName": "Savita",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Yadav",
+        "ForeName": "Pragya D",
+        "Initials": "PD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Shete-Aich",
+        "ForeName": "Anita",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Kalele",
+        "ForeName": "Kaumudi",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Gawande",
+        "ForeName": "Pranita",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Majumdar",
+        "ForeName": "Triparna",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Maximum Containment Laboratory, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Jain",
+        "ForeName": "Rajlaxmi",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Diagnostic Virology Group, ICMR-National Institute of Virology, Pune, Maharashtra, India."
+          }
+        ],
+        "LastName": "Sapkal",
+        "ForeName": "Gajanan",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "India",
+    "MedlineTA": "Indian J Med Res",
+    "NlmUniqueID": "0374701",
+    "ISSNLinking": "0971-5916"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Betacoronavirus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chlorocebus aethiops"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "Coronavirus Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "Pneumonia, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Vero Cells"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Virus Replication"
+    }
+  ],
+  "CoiStatement": "None"
+}

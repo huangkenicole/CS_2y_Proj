@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Data mining",
+      "Detection of disease",
+      "Image processing",
+      "Microarray"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28061369",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "12",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "04",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "12",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2016.12.012",
+      "S0010-4825(16)30332-8"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "81",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Feb",
+          "Day": "01"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Employing image processing techniques for cancer detection using microarray images.",
+    "Pagination": {
+      "StartPage": "139",
+      "EndPage": "147",
+      "MedlinePgn": "139-147"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Microarray technology is a powerful genomic tool for simultaneously studying and analyzing the behavior of thousands of genes. The analysis of images obtained from this technology plays a critical role in the detection and treatment of diseases. The aim of the current study is to develop an automated system for analyzing data from microarray images in order to detect cancerous cases. The proposed system consists of three main phases, namely image processing, data mining, and the detection of the disease. The image processing phase performs operations such as refining image rotation, gridding (locating genes) and extracting raw data from images the data mining includes normalizing the extracted data and selecting the more effective genes. Finally, via the extracted data, cancerous cell is recognized. To evaluate the performance of the proposed system, microarray database is employed which includes Breast cancer, Myeloid Leukemia and Lymphomas from the Stanford Microarray Database. The results indicate that the proposed system is able to identify the type of cancer from the data set with an accuracy of 95.45%, 94.11%, and 100%, respectively."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2017 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Computer Engineering and IT, Shahrood University of Technology, Iran. Electronic address: dehqan_nastaran@yahoo.com."
+          }
+        ],
+        "LastName": "Dehghan Khalilabad",
+        "ForeName": "Nastaran",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Computer Engineering and IT, Shahrood University of Technology, Iran. Electronic address: h.hassanpour@shahroodut.ac.ir."
+          }
+        ],
+        "LastName": "Hassanpour",
+        "ForeName": "Hamid",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Interpretation, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Molecular Imaging"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Pattern Recognition, Automated"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ]
+}

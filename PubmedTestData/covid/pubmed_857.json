@@ -1,0 +1,324 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34255796",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0254640",
+      "10.1371/journal.pone.0254640"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "On-admission SARS-CoV-2 RNAemia as a single potent predictive marker of critical condition development and mortality in COVID-19.",
+    "Pagination": {
+      "StartPage": "e0254640",
+      "MedlinePgn": "e0254640"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This study aimed to clarify how SARS-CoV-2 RNAemia is related to COVID-19 critical condition development and mortality in comparison with other predictive markers and scoring systems.",
+        "This is a retrospective cohort study conducted at Yokohama Municipal Citizen's Hospital and National Institute of Infectious Diseases. We recruited adult patients with COVID-19 admitted between March 2020 and January 2021. We compared RNAemia with clinical status on admission including scoring systems such as the 4C Mortality, CURB-65, and A-DROP, as well as the Ct value of the nasopharyngeal PCR, in predicting COVID-19 mortality and critical condition development.",
+        "Of the 92 recruited patients (median age, 58; interquartile range, 45-71 years), 14 (14.9%) had RNAemia. These patients had an older age (median, 68 years vs. 55.5 years; p = 0.011), higher values of lactated dehydrogenase (median, 381 U/L vs. 256.5 U/L, p < 0.001), C-reactive protein (median, 10.9 mg/dL vs. 3.8 mg/dL; p < 0.001), D-dimer (median, 2.07 \u03bcg/mL vs. 1.28 \u03bcg/mL; p = 0.015), lower values of lymphocyte (median, 802/\u03bcL vs. 1007/\u03bcL, p = 0.025) and Ct of the nasopharyngeal PCR assay (median, 20.59 vs. 25.54; p = 0.021) than those without RNAemia. Univariate analysis showed RNAemia was associated with mortality (odds ratio [OR], 18.75; 95% confidence interval [CI], 3.92-89.76; area under the receiver operating characteristic curve [AUC], 0.7851; p = 0.002) and critical condition (OR, 72.00; 95% CI, 12.98-399.29; AUC, 0.8198; p < 0.001). Plus, multivariate analysis also revealed the association of RNAemia with critical condition (adjusted OR, 125.71; 95% CI, 11.47-1377.32; p < 0.001).",
+        "On-admission SARS-CoV-2 RNAemia is a potent predictive marker of COVID-19 critical condition and mortality. The adjusted OR for critical condition was as high as 125.71."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AIDS Research Center, National Institute of Infectious Diseases, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Miki",
+        "ForeName": "Shoji",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3414-1146"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Yokohama Municipal Citizen's Hospital, Yokohama, Kanagawa, Japan."
+          }
+        ],
+        "LastName": "Sasaki",
+        "ForeName": "Hiroaki",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Yokohama Municipal Citizen's Hospital, Yokohama, Kanagawa, Japan."
+          }
+        ],
+        "LastName": "Horiuchi",
+        "ForeName": "Hiroshi",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Yokohama Municipal Citizen's Hospital, Yokohama, Kanagawa, Japan."
+          }
+        ],
+        "LastName": "Miyata",
+        "ForeName": "Nobuyuki",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Yokohama Municipal Citizen's Hospital, Yokohama, Kanagawa, Japan."
+          }
+        ],
+        "LastName": "Yoshimura",
+        "ForeName": "Yukihiro",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiratory Medicine, Yokohama Municipal Citizen's Hospital, Yokohama, Kanagawa, Japan."
+          }
+        ],
+        "LastName": "Miyazaki",
+        "ForeName": "Kazuhito",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1760-3484"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Center for Drug and Vaccine Development, National Institute of Infectious Diseases, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Matsumura",
+        "ForeName": "Takayuki",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Center for Drug and Vaccine Development, National Institute of Infectious Diseases, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Takahashi",
+        "ForeName": "Yoshimasa",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, National Institute of Infectious Diseases, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Suzuki",
+        "ForeName": "Tadaki",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AIDS Research Center, National Institute of Infectious Diseases, Tokyo, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Joint Research Center for Human Retrovirus Infection, Kumamoto University, Kumamoto, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of AIDS Vaccine Development, Institute of Medical Science, University of Tokyo, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Matano",
+        "ForeName": "Tetsuro",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AIDS Research Center, National Institute of Infectious Diseases, Tokyo, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Joint Research Center for Human Retrovirus Infection, Kumamoto University, Kumamoto, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of AIDS Vaccine Development, Institute of Medical Science, University of Tokyo, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Kawana-Tachikawa",
+        "ForeName": "Ai",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Yokohama Municipal Citizen's Hospital, Yokohama, Kanagawa, Japan."
+          }
+        ],
+        "LastName": "Tachikawa",
+        "ForeName": "Natsuo",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "analysis"
+      ],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "mortality"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "standards"
+      ],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Nasal Mucosa"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Patient Admission"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [
+        "analysis"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viral Load"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

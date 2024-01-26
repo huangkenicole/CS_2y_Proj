@@ -1,0 +1,147 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33735088",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2021.3067333"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "25",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "Integration of CNN, CBMIR, and Visualization Techniques for Diagnosis and Quantification of Covid-19 Disease.",
+    "Pagination": {
+      "StartPage": "1873",
+      "EndPage": "1880",
+      "MedlinePgn": "1873-1880"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Diagnosis techniques based on medical image modalities have higher sensitivities compared to conventional RT-PCT tests. We propose two methods for diagnosing COVID-19 disease using X-ray images and differentiating it from viral pneumonia. The diagnosis section is based on deep neural networks, and the discriminating uses an image retrieval approach. Both units were trained by healthy, pneumonia, and COVID-19 images. In COVID-19 patients, the maximum intensity projection of the lung CT is visualized to a physician, and the CT Involvement Score is calculated. The performance of the CNN and image retrieval algorithms were improved by transfer learning and hashing functions. We achieved an accuracy of 97% and an overall prec@10 of 87%, respectively, concerning the CNN and the retrieval methods."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mohagheghi",
+        "ForeName": "Saeed",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Alizadeh",
+        "ForeName": "Mehdi",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Safavi",
+        "ForeName": "Seyed Mahdi",
+        "Initials": "SM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Foruzan",
+        "ForeName": "Amir H",
+        "Initials": "AH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chen",
+        "ForeName": "Yen-Wei",
+        "Initials": "YW"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Lung"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Radiography, Thoracic"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

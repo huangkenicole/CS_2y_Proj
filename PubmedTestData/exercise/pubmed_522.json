@@ -1,0 +1,256 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "dataset",
+      "deep learning",
+      "human pose estimation",
+      "rehabilitation exercises"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37960561",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "10",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "8862",
+      "10.3390/s23218862"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "21",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct",
+          "Day": "31"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "UCO Physical Rehabilitation: New Dataset and Study of Human Pose Estimation Methods on Physical Rehabilitation Exercises.",
+    "Abstract": {
+      "AbstractText": [
+        "Physical rehabilitation plays a crucial role in restoring motor function following injuries or surgeries. However, the challenge of overcrowded waiting lists often hampers doctors' ability to monitor patients' recovery progress in person. Deep Learning methods offer a solution by enabling doctors to optimize their time with each patient and distinguish between those requiring specific attention and those making positive progress. Doctors use the flexion angle of limbs as a cue to assess a patient's mobility level during rehabilitation. From a Computer Vision perspective, this task can be framed as automatically estimating the pose of the target body limbs in an image. The objectives of this study can be summarized as follows: (i) evaluating and comparing multiple pose estimation methods; (ii) analyzing how the subject's position and camera viewpoint impact the estimation; and (iii) determining whether 3D estimation methods are necessary or if 2D estimation suffices for this purpose. To conduct this technical study, and due to the limited availability of public datasets related to physical rehabilitation exercises, we introduced a new dataset featuring 27 individuals performing eight diverse physical rehabilitation exercises focusing on various limbs and body positions. Each exercise was recorded using five RGB cameras capturing different viewpoints of the person. An infrared tracking system named OptiTrack was utilized to establish the ground truth positions of the joints in the limbs under study. The results, supported by statistical tests, show that not all state-of-the-art pose estimators perform equally in the presented situations (e.g., patient lying on the stretcher vs. standing). Statistical differences exist between camera viewpoints, with the frontal view being the most convenient. Additionally, the study concludes that 2D pose estimators are adequate for estimating joint angles given the selected camera viewpoints."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-7866-9925"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Inform\u00e1tica y An\u00e1lisis Num\u00e9rico, Edificio Einstein, Campus de Rabanales, Universidad de C\u00f3rdoba, 14071 C\u00f3rdoba, Spain."
+          }
+        ],
+        "LastName": "Aguilar-Ortega",
+        "ForeName": "Rafael",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9105-1481"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Inform\u00e1tica y An\u00e1lisis Num\u00e9rico, Edificio Einstein, Campus de Rabanales, Universidad de C\u00f3rdoba, 14071 C\u00f3rdoba, Spain."
+          }
+        ],
+        "LastName": "Berral-Soler",
+        "ForeName": "Rafael",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1120-2874"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Inform\u00e1tica y An\u00e1lisis Num\u00e9rico, Edificio Einstein, Campus de Rabanales, Universidad de C\u00f3rdoba, 14071 C\u00f3rdoba, Spain."
+          }
+        ],
+        "LastName": "Jim\u00e9nez-Velasco",
+        "ForeName": "Isabel",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9572-0128"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Inform\u00e1tica y An\u00e1lisis Num\u00e9rico, Edificio Einstein, Campus de Rabanales, Universidad de C\u00f3rdoba, 14071 C\u00f3rdoba, Spain."
+          }
+        ],
+        "LastName": "Romero-Ram\u00edrez",
+        "ForeName": "Francisco J",
+        "Initials": "FJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5449-4961"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departmento de Rehabilitaci\u00f3n, Hospital Universitario de Ja\u00e9n, Avenida del Ej\u00e9rcito Espa\u00f1ol n\u00ba10, 23007 Ja\u00e9n, Spain."
+          }
+        ],
+        "LastName": "Garc\u00eda-Mar\u00edn",
+        "ForeName": "Manuel",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1735-8837"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Maim\u00f3nides de Investigaci\u00f3n en Biomedicina (IMIBIC), Avenida Men\u00e9ndez Pidal s/n, 14004 C\u00f3rdoba, Spain."
+          }
+        ],
+        "LastName": "Zafra-Palma",
+        "ForeName": "Jorge",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8773-8571"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Inform\u00e1tica y An\u00e1lisis Num\u00e9rico, Edificio Einstein, Campus de Rabanales, Universidad de C\u00f3rdoba, 14071 C\u00f3rdoba, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Maim\u00f3nides de Investigaci\u00f3n en Biomedicina (IMIBIC), Avenida Men\u00e9ndez Pidal s/n, 14004 C\u00f3rdoba, Spain."
+          }
+        ],
+        "LastName": "Mu\u00f1oz-Salinas",
+        "ForeName": "Rafael",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4481-0614"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Inform\u00e1tica y An\u00e1lisis Num\u00e9rico, Edificio Einstein, Campus de Rabanales, Universidad de C\u00f3rdoba, 14071 C\u00f3rdoba, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Maim\u00f3nides de Investigaci\u00f3n en Biomedicina (IMIBIC), Avenida Men\u00e9ndez Pidal s/n, 14004 C\u00f3rdoba, Spain."
+          }
+        ],
+        "LastName": "Medina-Carnicer",
+        "ForeName": "Rafael",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9294-6714"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Inform\u00e1tica y An\u00e1lisis Num\u00e9rico, Edificio Einstein, Campus de Rabanales, Universidad de C\u00f3rdoba, 14071 C\u00f3rdoba, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Maim\u00f3nides de Investigaci\u00f3n en Biomedicina (IMIBIC), Avenida Men\u00e9ndez Pidal s/n, 14004 C\u00f3rdoba, Spain."
+          }
+        ],
+        "LastName": "Mar\u00edn-Jim\u00e9nez",
+        "ForeName": "Manuel J",
+        "Initials": "MJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "TED2021-129151B-I00",
+        "Agency": "Ministerio de Ciencia e Innovaci\u00f3n",
+        "Country": ""
+      },
+      {
+        "GrantID": "PID2019-103871GB-I00",
+        "Agency": "Ministerio de Ciencia e Innovaci\u00f3n",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Dataset",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Extremities"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Posture"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Standing Position"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

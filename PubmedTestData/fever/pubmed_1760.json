@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Malaria classifier",
+      "Malaria diagnosis",
+      "Malaria symptom",
+      "Nonsymptom-related factor"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33249286",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.ijid.2020.11.177",
+      "S1201-9712(20)32490-5"
+    ],
+    "Journal": {
+      "ISSN": "1878-3511",
+      "JournalIssue": {
+        "Volume": "103",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb"
+        }
+      },
+      "Title": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "ISOAbbreviation": "Int J Infect Dis"
+    },
+    "ArticleTitle": "Significant symptoms and nonsymptom-related factors for malaria diagnosis in endemic regions of Indonesia.",
+    "Pagination": {
+      "StartPage": "194",
+      "EndPage": "200",
+      "MedlinePgn": "194-200"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This study aims to identify significant symptoms and nonsymptom-related factors for malaria diagnosis in endemic regions of Indonesia.",
+        "Medical records are collected from patients suffering from malaria and other febrile diseases from public hospitals in endemic regions of Indonesia. Interviews with eight Indonesian medical doctors are conducted. Feature selection and machine learning techniques are used to develop malaria classifiers for identifying significant symptoms and nonsymptom-related factors.",
+        "Seven significant symptoms (duration of fever, headache, nausea and vomiting, heartburn, severe symptom, dizziness, and joint pain) and patients' history of malaria as a nonsymptom-related factor contribute most to malaria diagnosis. As a symptom, fever duration is more significant than temperature or fever for distinguishing malaria from other febrile diseases. Shivering, fever, and sweating (known to indicate malaria presence in Indonesia) are shown to be less significant than other symptoms in endemic regions.",
+        "Three most suitable malaria classifiers have been developed to identify the significant features that can be used to predict malaria as distinct from other febrile diseases. With extensive experiments on the classifiers, the significant features identified can help medical doctors in the clinical diagnosis of malaria and raise public awareness of significant malaria symptoms at early stages."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, Victoria 3800, Australia. Electronic address: yulianti.bria@monash.edu."
+          }
+        ],
+        "LastName": "Bria",
+        "ForeName": "Yulianti Paula",
+        "Initials": "YP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, Victoria 3800, Australia. Electronic address: chunghsing.yeh@monash.edu."
+          }
+        ],
+        "LastName": "Yeh",
+        "ForeName": "Chung-Hsing",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Data Science and Artificial Intelligence, Faculty of Information Technology, Monash University, Clayton, Victoria 3800, Australia. Electronic address: sue.bedingfield@monash.edu."
+          }
+        ],
+        "LastName": "Bedingfield",
+        "ForeName": "Susan",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "Int J Infect Dis",
+    "NlmUniqueID": "9610933",
+    "ISSNLinking": "1201-9712"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Endemic Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "parasitology"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Indonesia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "epidemiology",
+        "parasitology"
+      ],
+      "DescriptorName": "Malaria"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pregnancy"
+    }
+  ]
+}

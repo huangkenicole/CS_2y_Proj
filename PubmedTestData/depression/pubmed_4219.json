@@ -1,0 +1,241 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Acoustic features",
+      "Automated speech analysis",
+      "Depressive symptoms",
+      "Machine learning",
+      "Textual features"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36575442",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "12",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "830",
+      "10.1186/s12888-022-04475-0"
+    ],
+    "Journal": {
+      "ISSN": "1471-244X",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Dec",
+          "Day": "27"
+        }
+      },
+      "Title": "BMC psychiatry",
+      "ISOAbbreviation": "BMC Psychiatry"
+    },
+    "ArticleTitle": "Detecting subtle signs of depression with automated speech analysis in a non-clinical sample.",
+    "Pagination": {
+      "StartPage": "830",
+      "MedlinePgn": "830"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Automated speech analysis has gained increasing attention to help diagnosing depression. Most previous studies, however, focused on comparing speech in patients with major depressive disorder to that in healthy volunteers. An alternative may be to associate speech with depressive symptoms in a non-clinical sample as this may help to find early and sensitive markers in those at risk of depression.",
+        "We included n\u2009=\u2009118 healthy young adults (mean age: 23.5\u2009\u00b1\u20093.7\u00a0years; 77% women) and asked them to talk about a positive and a negative event in their life. Then, we assessed the level of depressive symptoms with a self-report questionnaire, with scores ranging from 0-60. We transcribed speech data and extracted acoustic as well as linguistic features. Then, we tested whether individuals below or above the cut-off of clinically relevant depressive symptoms differed in speech features. Next, we predicted whether someone would be below or above that cut-off as well as the individual scores on the depression questionnaire. Since depression is associated with cognitive slowing or attentional deficits, we finally correlated depression scores with performance in the Trail Making Test.",
+        "In our sample, n\u2009=\u200993 individuals scored below and n\u2009=\u200925 scored above cut-off for clinically relevant depressive symptoms. Most speech features did not differ significantly between both groups, but individuals above cut-off spoke more than those below that cut-off in the positive and the negative story. In addition, higher depression scores in that group were associated with slower completion time of the Trail Making Test. We were able to predict with 93% accuracy who would be below or above cut-off. In addition, we were able to predict the individual depression scores with low mean absolute error (3.90), with best performance achieved by a support vector machine.",
+        "Our results indicate that even in a sample without a clinical diagnosis of depression, changes in speech relate to higher depression scores. This should be investigated in more detail in the future. In a longitudinal study, it may be tested whether speech features found in our study represent early and sensitive markers for subsequent depression in individuals at risk."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institut National de Recherche en Informatique Et en Automatique (INRIA), Sophia Antipolis, Stars Team, Valbonne, France."
+          }
+        ],
+        "LastName": "K\u00f6nig",
+        "ForeName": "Alexandra",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ki Elements, Saarbr\u00fccken, Germany."
+          }
+        ],
+        "LastName": "Tr\u00f6ger",
+        "ForeName": "Johannes",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ki Elements, Saarbr\u00fccken, Germany."
+          }
+        ],
+        "LastName": "Mallick",
+        "ForeName": "Elisa",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ki Elements, Saarbr\u00fccken, Germany."
+          }
+        ],
+        "LastName": "Mina",
+        "ForeName": "Mario",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ki Elements, Saarbr\u00fccken, Germany."
+          }
+        ],
+        "LastName": "Linz",
+        "ForeName": "Nicklas",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University Hospital of Old Age Psychiatry and Psychotherapy, University of Bern, Bolligenstrasse 111, CH-3000, Bern 60, Switzerland."
+          }
+        ],
+        "LastName": "Wagnon",
+        "ForeName": "Carole",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Koblenz-Landau, Koblenz, Germany."
+          }
+        ],
+        "LastName": "Karbach",
+        "ForeName": "Julia",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, Clinical Neuropsychology, University of Saarland, Saarbr\u00fccken, Germany."
+          }
+        ],
+        "LastName": "Kuhn",
+        "ForeName": "Caroline",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University Hospital of Old Age Psychiatry and Psychotherapy, University of Bern, Bolligenstrasse 111, CH-3000, Bern 60, Switzerland. Jessica.peter@upd.unibe.ch."
+          }
+        ],
+        "LastName": "Peter",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Psychiatry",
+    "NlmUniqueID": "100968559",
+    "ISSNLinking": "1471-244X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Longitudinal Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Speech"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Surveys and Questionnaires"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

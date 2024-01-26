@@ -1,0 +1,124 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37729572",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "09",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNSRE.2023.3317411"
+    ],
+    "Journal": {
+      "ISSN": "1558-0210",
+      "JournalIssue": {
+        "Volume": "31",
+        "PubDate": {
+          "Year": "2023"
+        }
+      },
+      "Title": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+      "ISOAbbreviation": "IEEE Trans Neural Syst Rehabil Eng"
+    },
+    "ArticleTitle": "A Contrastive Learning Network for Performance Metric and Assessment of Physical Rehabilitation Exercises.",
+    "Pagination": {
+      "StartPage": "3790",
+      "EndPage": "3802",
+      "MedlinePgn": "3790-3802"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Human activity analysis in the legal monitoring environment plays an important role in the physical rehabilitation field, as it helps patients with physical injuries improve their postoperative conditions and reduce their medical costs. Recently, several deep learning-based action quality assessment (AQA) frameworks have been proposed to evaluate physical rehabilitation exercises. However, most of them treat this problem as a simple regression task, which requires both the action instance and its score label as input. This approach is limited by the fact that the annotations in this field usually consist of healthy or unhealthy labels rather than quality scores provided by professional physicians. Additionally, most of these methods cannot provide informative feedback on a patient's motion defects, which weakens their practical application. To address these problems, we propose a multi-task contrastive learning framework to learn subtle and critical differences from skeleton sequences to deal with the performance metric and AQA problems of physical rehabilitation exercises. Specifically, we propose a performance metric network that takes triplets of training samples as input for score generation. For the AQA task, the same contrast learning strategy is used, but pairwise training samples are fed into the action quality assessment network for score prediction. Notably, we propose quantifying the deviation of the joint attention matrix between different skeleton sequences and introducing it into the loss function of our learning network. It is proven that considering both score prediction loss and joint attention deviation loss improves physical exercises AQA performance. Furthermore, it helps to obtain informative feedback for patients to improve their motion defects by visualizing the joint attention matrix's difference. The proposed method is verified on the UI-PRMD and KIMORE datasets. Experimental results show that the proposed method achieves state-of-the-art performance."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yao",
+        "ForeName": "Long",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lei",
+        "ForeName": "Qing",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhang",
+        "ForeName": "Hongbo",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Du",
+        "ForeName": "Jixiang",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gao",
+        "ForeName": "Shangce",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Neural Syst Rehabil Eng",
+    "NlmUniqueID": "101097023",
+    "ISSNLinking": "1534-4320"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Motion"
+    }
+  ]
+}

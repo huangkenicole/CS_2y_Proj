@@ -1,0 +1,176 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer",
+      "Health systems",
+      "Image analysis",
+      "Life expectancy",
+      "Machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32758393",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "10",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "10",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "08",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jiph.2020.06.033",
+      "S1876-0341(20)30563-3"
+    ],
+    "Journal": {
+      "ISSN": "1876-035X",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Journal of infection and public health",
+      "ISOAbbreviation": "J Infect Public Health"
+    },
+    "ArticleTitle": "Recent advancement in cancer detection using machine learning: Systematic survey of decades, comparisons and challenges.",
+    "Pagination": {
+      "StartPage": "1274",
+      "EndPage": "1289",
+      "MedlinePgn": "1274-1289"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer is a fatal illness often caused by genetic disorder aggregation and a variety of pathological changes. Cancerous cells are abnormal areas often growing in any part of human body that are life-threatening. Cancer also known as tumor must be quickly and correctly detected in the initial stage to identify what might be beneficial for its cure. Even though modality has different considerations, such as complicated history, improper diagnostics and treatement that are main causes of deaths. The aim of the research is to analyze, review, categorize and address the current developments of human body cancer detection using machine learning techniques for breast, brain, lung, liver, skin cancer leukemia. The study highlights how cancer diagnosis, cure process is assisted using machine learning with supervised, unsupervised and deep learning techniques. Several state of art techniques are categorized under the same cluster and results are compared on benchmark datasets from accuracy, sensitivity, specificity, false-positive metrics. Finally, challenges are also highlighted for possible future work."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Computer and Information Sciences, Prince Sultan University, Riyadh, Saudi Arabia. Electronic address: tsaba@psu.edu.sa."
+          }
+        ],
+        "LastName": "Saba",
+        "ForeName": "Tanzila",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Systematic Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Infect Public Health",
+    "NlmUniqueID": "101487384",
+    "ISSNLinking": "1876-0341"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Brain Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Liver Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Skin Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Surveys and Questionnaires"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tomography, X-Ray Computed"
+    }
+  ]
+}

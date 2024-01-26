@@ -1,0 +1,145 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "In silico",
+      "RT-qPCR",
+      "SARS-CoV-2",
+      "bioinformatics",
+      "variants"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37247233",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1121-7138",
+      "JournalIssue": {
+        "Volume": "46",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May"
+        }
+      },
+      "Title": "The new microbiologica",
+      "ISOAbbreviation": "New Microbiol"
+    },
+    "ArticleTitle": "In Silico Evaluation of SARS-CoV-2 K417N, L452R, and E484K Detection Assays Against Omicron Variants.",
+    "Pagination": {
+      "StartPage": "133",
+      "EndPage": "140",
+      "MedlinePgn": "133-140"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The study's objective was to assess whether the performance of the DIAGNOVITAL SARS-CoV-2 Mutation Detection Assays is affected by Omicron mutations. In silico evaluation of 67,717 Variant of Concern, Variant of Interest sequences and 6,612 sequences of the Omicron variants involving BA1., BA2., BA3 sub-lineages downloaded from the GISAID database by 17 December 2021, were performed. The sequences were aligned according to the reference genome MN908947.3 using MAFFT multiple sequence alignment software version 7. Our findings showed that among 6,612 Omicron, 41 Spike gene mutations with a frequency of \u226570% were identified. Some of the Omicron mutations (R408S, N440K, G446S, Q493S, Q498R) could affect the diagnostic performance of K417N, L452R, and E484K assays against the Omicron sub-lineages. However, L452R and K417N mutation tests allow differentiation of the Delta and Omicron variants mutation profile. The COVID-19 pandemic lasted longer than expected, and the rapid modification of diagnostic kits seems necessary to combat the pandemic."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kocaeli University, Research and Education Hospital, PCR Unit, 41380, Kocaeli, Turkey."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Near East University, DESAM Research Institute, 99138, Nicosia, Northern Cyprus."
+          }
+        ],
+        "LastName": "Sayan",
+        "ForeName": "Murat",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Near East University, DESAM Research Institute, 99138, Nicosia, Northern Cyprus."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Near East University, Faculty of Medicine, Department of Medical Microbiology and Clinical Microbiology, 99138, Nicosia, Northern Cyprus."
+          }
+        ],
+        "LastName": "Arikan",
+        "ForeName": "Ayse",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Acibadem Mehmet Ali Aydinlar University, Graduate School of Health Sciences, Department of Biostatistics and Bioinformatics, 34752, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Isbilen",
+        "ForeName": "Murat",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Italy",
+    "MedlineTA": "New Microbiol",
+    "NlmUniqueID": "9516291",
+    "ISSNLinking": "1121-7138"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    }
+  ]
+}

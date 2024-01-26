@@ -1,0 +1,188 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19953322",
+  "DateCompleted": {
+    "Year": "2010",
+    "Month": "06",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2013",
+    "Month": "05",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2009",
+        "Month": "12",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10439-009-9849-0"
+    ],
+    "Journal": {
+      "ISSN": "1573-9686",
+      "JournalIssue": {
+        "Volume": "38",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2010",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Annals of biomedical engineering",
+      "ISOAbbreviation": "Ann Biomed Eng"
+    },
+    "ArticleTitle": "Optimizing heart rate regulation for safe exercise.",
+    "Pagination": {
+      "StartPage": "758",
+      "EndPage": "768",
+      "MedlinePgn": "758-68"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Safe exercise protocols are critical for effective rehabilitation programs. This paper aims to develop a novel control strategy for an automated treadmill system to reduce the danger of injury during cardiac rehabilitation. We have developed a control-oriented nonparametric Hammerstein model for the control of heart rate during exercises by using support vector regression and correlation analysis. Based on this nonparametric model, a model predictive controller has been built. In order to guarantee the safety of treadmill exercise during rehabilitation, this new automated treadmill system is capable of optimizing system performance over predefined ranges of speed and acceleration. The effectiveness of the proposed approach was demonstrated with six subjects by having their heart rate track successfully a predetermined heart rate."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Faculty of Engineering and Information Technology, University of Technology, Sydney, Australia. Steven.Su@uts.edu.au"
+          }
+        ],
+        "LastName": "Su",
+        "ForeName": "Steven W",
+        "Initials": "SW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Huang",
+        "ForeName": "Shoudong",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Lu",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Celler",
+        "ForeName": "Branko G",
+        "Initials": "BG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Savkin",
+        "ForeName": "Andrey V",
+        "Initials": "AV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Guo",
+        "ForeName": "Ying",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Cheng",
+        "ForeName": "Teddy M",
+        "Initials": "TM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Ann Biomed Eng",
+    "NlmUniqueID": "0361512",
+    "ISSNLinking": "0090-6964"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Feedback, Physiological"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Heart Rate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Cardiovascular"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Physical Exertion"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Therapy, Computer-Assisted"
+    }
+  ]
+}

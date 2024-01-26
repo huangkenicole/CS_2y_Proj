@@ -1,0 +1,520 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34706766",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "10",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "169",
+      "10.1186/s13073-021-00986-9"
+    ],
+    "Journal": {
+      "ISSN": "1756-994X",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Oct",
+          "Day": "28"
+        }
+      },
+      "Title": "Genome medicine",
+      "ISOAbbreviation": "Genome Med"
+    },
+    "ArticleTitle": "A small number of early introductions seeded widespread transmission of SARS-CoV-2 in Qu\u00e9bec, Canada.",
+    "Pagination": {
+      "StartPage": "169",
+      "MedlinePgn": "169"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Qu\u00e9bec was the Canadian province most impacted by COVID-19, with 401,462 cases as of September 24th, 2021, and 11,347 deaths due mostly to a very severe first pandemic wave. In April 2020, we assembled the Coronavirus Sequencing in Qu\u00e9bec (CoVSeQ) consortium to sequence SARS-CoV-2 genomes in Qu\u00e9bec to track viral introduction events and transmission within the province.",
+        "Using genomic epidemiology, we investigated the arrival of SARS-CoV-2 to Qu\u00e9bec. We report 2921 high-quality SARS-CoV-2 genomes in the context of >\u200912,000 publicly available genomes sampled globally over the first pandemic wave (up to June 1st, 2020). By combining phylogenetic and phylodynamic analyses with epidemiological data, we quantify the number of introduction events into Qu\u00e9bec, identify their origins, and characterize the spatiotemporal spread of the virus.",
+        "Conservatively, we estimated approximately 600 independent introduction events, the majority of which happened from spring break until 2 weeks after the Canadian border closed for non-essential travel. Subsequent mass repatriations did not generate large transmission lineages (>\u200950 sequenced cases), likely due to mandatory quarantine measures in place at the time. Consistent with common spring break and \"snowbird\" destinations, most of the introductions were inferred to have originated from Europe via the Americas. Once introduced into Qu\u00e9bec, viral lineage sizes were overdispersed, with a few lineages giving rise to most infections. Consistent with founder effects, the earliest lineages to arrive tended to spread most successfully. Fewer than 100 viral introductions arrived during spring break, of which 7-12 led to the largest transmission lineages of the first wave (accounting for 52-75% of all sequenced infections). These successful transmission lineages dispersed widely across the province. Transmission lineage size was greatly reduced after March 11th, when a quarantine order for returning travellers was enacted. While this suggests the effectiveness of early public health measures, the biggest transmission lineages had already been ignited prior to this order.",
+        "Combined, our results reinforce how, in the absence of tight travel restrictions or quarantine measures, fewer than 100 viral introductions in a week can ensure the establishment of extended transmission chains."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, McGill University, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "D\u00e9partement de Sciences Biologiques, Universit\u00e9 de Montr\u00e9al, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Murall",
+        "ForeName": "Carmen L\u00eda",
+        "Initials": "CL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire de Sant\u00e9 Publique du Qu\u00e9bec, Institut National de Sant\u00e9 Publique, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Fournier",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Canadian Center for Computational Genomics, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Galvez",
+        "ForeName": "Jose Hector",
+        "Initials": "JH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "D\u00e9partement de Sciences Biologiques, Universit\u00e9 de Montr\u00e9al, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "N'Guessan",
+        "ForeName": "Arnaud",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Genetics, McGill University, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Reiling",
+        "ForeName": "Sarah J",
+        "Initials": "SJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Canadian Center for Computational Genomics, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Calcul Qu\u00e9bec, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Quirion",
+        "ForeName": "Pierre-Olivier",
+        "Initials": "PO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, McGill University, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Naderi",
+        "ForeName": "Sana",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Genetics, McGill University, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Roy",
+        "ForeName": "Anne-Marie",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Genetics, McGill University, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Shu-Huang",
+        "Initials": "SH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Canadian Center for Computational Genomics, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Stretenowich",
+        "ForeName": "Paul",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Canadian Center for Computational Genomics, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Bourgey",
+        "ForeName": "Mathieu",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Canadian Center for Computational Genomics, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Bujold",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Canadian Center for Computational Genomics, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Gregoire",
+        "ForeName": "Romain",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Lepage",
+        "ForeName": "Pierre",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "St-Cyr",
+        "ForeName": "Janick",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Willet",
+        "ForeName": "Patrick",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire de Sant\u00e9 Publique du Qu\u00e9bec, Institut National de Sant\u00e9 Publique, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Ecole de sant\u00e9 publique, Universit\u00e9 de Montr\u00e9al, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Dion",
+        "ForeName": "R\u00e9jean",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire de Sant\u00e9 Publique du Qu\u00e9bec, Institut National de Sant\u00e9 Publique, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Charest",
+        "ForeName": "Hugues",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Genetics, McGill University, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Lathrop",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire de Sant\u00e9 Publique du Qu\u00e9bec, Institut National de Sant\u00e9 Publique, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "D\u00e9partement de Microbiologie, infectiologie et Immunologie, Universit\u00e9 de Montr\u00e9al, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Roger",
+        "ForeName": "Michel",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Canadian Center for Computational Genomics, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Genetics, McGill University, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Bourque",
+        "ForeName": "Guillaume",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Genetics, McGill University, Montreal, QC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, McGill University, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Ragoussis",
+        "ForeName": "Jiannis",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6819-8699"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "McGill Genome Centre, Montreal, QC, Canada. jesse.shapiro@mcgill.ca."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, McGill University, Montreal, QC, Canada. jesse.shapiro@mcgill.ca."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "D\u00e9partement de Sciences Biologiques, Universit\u00e9 de Montr\u00e9al, Montreal, QC, Canada. jesse.shapiro@mcgill.ca."
+          }
+        ],
+        "LastName": "Shapiro",
+        "ForeName": "B Jesse",
+        "Initials": "BJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire de Sant\u00e9 Publique du Qu\u00e9bec, Institut National de Sant\u00e9 Publique, Montreal, QC, Canada."
+          }
+        ],
+        "LastName": "Moreira",
+        "ForeName": "Sandrine",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Genome Med",
+    "NlmUniqueID": "101475844",
+    "ISSNLinking": "1756-994X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Canada"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Europe"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Epidemiology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Public Health"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Quebec"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Travel"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

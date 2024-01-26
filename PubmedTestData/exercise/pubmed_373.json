@@ -1,0 +1,135 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19163064",
+  "DateCompleted": {
+    "Year": "2009",
+    "Month": "05",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/IEMBS.2008.4649561"
+    ],
+    "Journal": {
+      "ISSN": "2375-7477",
+      "JournalIssue": {
+        "Volume": "2008",
+        "PubDate": {
+          "Year": "2008"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Gesture recognition for interactive exercise programs.",
+    "Pagination": {
+      "StartPage": "1915",
+      "EndPage": "1917",
+      "MedlinePgn": "1915-7"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This paper describes a gesture recognition system which can recognize seated exercises that will be incorporated into an in-home automated interactive exercise program. Hidden Markov Models (HMMs) are used as a motion classifier, with motion features extracted from the grayscale images and the location of the subject's head estimated at initialization. An overall recognition rate of 94.1% is achieved."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Oregon Health & Science University, Portland, Oregon 97239, USA. jperkins@bme.ogi.edu"
+          }
+        ],
+        "LastName": "Perkins",
+        "ForeName": "Jedediah",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pavel",
+        "ForeName": "Misha",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Jimison",
+        "ForeName": "Holly B",
+        "Initials": "HB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Scott",
+        "ForeName": "Susan",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomedical Engineering"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gestures"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Image Interpretation, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Markov Chains"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Movement"
+    }
+  ]
+}

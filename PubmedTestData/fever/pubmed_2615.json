@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35333881",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "03",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0265500",
+      "10.1371/journal.pone.0265500"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Development and validation of machine learning-driven prediction model for serious bacterial infection among febrile children in emergency departments.",
+    "Pagination": {
+      "StartPage": "e0265500",
+      "MedlinePgn": "e0265500"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Serious bacterial infection (SBI) in children, such as bacterial meningitis or sepsis, is an important condition that can lead to fatal outcomes. Therefore, since it is very important to accurately diagnose SBI, SBI prediction tools such as 'Refined Lab-score' or 'clinical prediction rule' have been developed and used. However, these tools can predict SBI only when there are values of all factors used in the tool, and if even one of them is missing, the tools become useless. Therefore, the purpose of this study was to develop and validate a machine learning-driven model to predict SBIs among febrile children, even with missing values. This was a multicenter retrospective observational study including febrile children <6 years of age who visited Emergency departments (EDs) of 3 different tertiary hospitals from 2016 to 2018. The SBI prediction model was trained with a derivation cohort (data from two hospitals) and externally tested with a validation cohort (data from a third hospital). A total of 11,973 and 2,858 patient records were included in the derivation and validation cohorts, respectively. In the derivation cohort, the area under the receiver operating characteristic curve (AUROC) of the RF model was 0.964 (95% confidence interval [CI], 0.943-0.986), and the area under the precision-recall curve (AUPRC) was 0.753 (95% CI, 0.681-0.824). The conventional LR (CLR) model showed corresponding values of 0.902 (95% CI, 0.894-0.910) and 0.573 (95% CI, 0.560-0.586), respectively. In the validation cohort, the AUROC (95% CI) of the RF model was 0.950 (95% CI, 0.945-0.956), the AUPRC was 0.605 (95% CI, 0.593-0.616), and the CLR presented corresponding values of 0.815 (95% CI, 0.789-0.841) and 0.586 (95% CI, 0.553-0.619), respectively. We developed a machine learning-driven prediction model for SBI among febrile children, which works robustly despite missing values. And it showed superior performance compared to CLR in both internal validation and external validation."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-7878-9644"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Seoul National University Hospital, Seoul, Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Bongjin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, CHA Bundang Medical Center, CHA University, Seongnam, Korea."
+          }
+        ],
+        "LastName": "Chung",
+        "ForeName": "Hyun Jung",
+        "Initials": "HJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, College of Medicine, The Catholic University of Korea, Seoul, Korea."
+          }
+        ],
+        "LastName": "Kang",
+        "ForeName": "Hyun Mi",
+        "Initials": "HM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6144-302X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Seoul National University Hospital, Seoul, Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Do Kyun",
+        "Initials": "DK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Seoul National University Hospital, Seoul, Korea."
+          }
+        ],
+        "LastName": "Kwak",
+        "ForeName": "Young Ho",
+        "Initials": "YH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Bacterial Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Emergency Service, Hospital"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "microbiology"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "ROC Curve"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

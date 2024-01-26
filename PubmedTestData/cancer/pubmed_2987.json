@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32152446",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "11",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "03",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4350",
+      "10.1038/s41598-020-61422-3"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Mar",
+          "Day": "09"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Edgetic perturbation signatures represent known and novel cancer biomarkers.",
+    "Pagination": {
+      "StartPage": "4350",
+      "MedlinePgn": "4350"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Isoform switching is a recently characterized hallmark of cancer, and often translates to the loss or gain of domains mediating protein interactions and thus, the re-wiring of the interactome. Recent computational tools leverage domain-domain interaction data to resolve the condition-specific interaction networks from RNA-Seq data accounting for the domain content of the primary transcripts expressed. Here, we used The Cancer Genome Atlas RNA-Seq datasets to generate 642 patient-specific pairs of interactomes corresponding to both the tumor and the healthy tissues across 13 cancer types. The comparison of these interactomes provided a list of patient-specific edgetic perturbations of the interactomes associated with the cancerous state. We found that among the identified perturbations, select sets are robustly shared between patients at the multi-cancer, cancer-specific and cancer sub-type specific levels. Interestingly, the majority of the alterations do not directly involve significantly mutated genes, nevertheless, they strongly correlate with patient survival. The findings (available at EdgeExplorer: \"http://webclu.bio.wzw.tum.de/EdgeExplorer\") are a new source of potential biomarkers for classifying cancer types and the proteins we identified are potential anti-cancer therapy targets."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, Wissenschaftszentrum Weihenstephan, Technische Universit\u00e4t M\u00fcnchen, Maximus-von-Imhof-Forum 3, 85354, Freising, Germany."
+          }
+        ],
+        "LastName": "Kataka",
+        "ForeName": "Evans",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, Wissenschaftszentrum Weihenstephan, Technische Universit\u00e4t M\u00fcnchen, Maximus-von-Imhof-Forum 3, 85354, Freising, Germany."
+          }
+        ],
+        "LastName": "Zaucha",
+        "ForeName": "Jan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Experimental Genetics (IEG), Helmholtz Zentrum M\u00fcnchen-German Research Center for Environmental Health (GmbH), Ingolst\u00e4dter Landstrasse 1, 85764, Neuherberg, Germany."
+          }
+        ],
+        "LastName": "Frishman",
+        "ForeName": "Goar",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Experimental Genetics (IEG), Helmholtz Zentrum M\u00fcnchen-German Research Center for Environmental Health (GmbH), Ingolst\u00e4dter Landstrasse 1, 85764, Neuherberg, Germany."
+          }
+        ],
+        "LastName": "Ruepp",
+        "ForeName": "Andreas",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, Wissenschaftszentrum Weihenstephan, Technische Universit\u00e4t M\u00fcnchen, Maximus-von-Imhof-Forum 3, 85354, Freising, Germany. d.frishman@wzw.tum.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Bioinformatics, RASA Research Center, St Petersburg State Polytechnic University, St Petersburg, 195251, Russia. d.frishman@wzw.tum.de."
+          }
+        ],
+        "LastName": "Frishman",
+        "ForeName": "Dmitrij",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Protein Isoforms"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Sci Rep. 2021 Feb 5;11(1):3582",
+      "PMID": "33547345"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Susceptibility"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "etiology",
+        "metabolism",
+        "mortality",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Mapping"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Isoforms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Structure-Activity Relationship"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

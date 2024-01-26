@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "activity of daily living",
+      "human activity recognition",
+      "neural network",
+      "quality of life",
+      "wearable device"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36850664",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "02",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2066",
+      "10.3390/s23042066"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb",
+          "Day": "12"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Recognizing Human Activity of Daily Living Using a Flexible Wearable for 3D Spine Pose Tracking.",
+    "Abstract": {
+      "AbstractText": [
+        "The World Health Organization recognizes physical activity as an influencing domain on quality of life. Monitoring, evaluating, and supervising it by wearable devices can contribute to the early detection and progress assessment of diseases such as Alzheimer's, rehabilitation, and exercises in telehealth, as well as abrupt events such as a fall. In this work, we use a non-invasive and non-intrusive flexible wearable device for 3D spine pose measurement to monitor and classify physical activity. We develop a comprehensive protocol that consists of 10 indoor, 4 outdoor, and 8 transition states activities in three categories of static, dynamic, and transition in order to evaluate the applicability of the flexible wearable device in human activity recognition. We implement and compare the performance of three neural networks: long short-term memory (LSTM), convolutional neural network (CNN), and a hybrid model (CNN-LSTM). For ground truth, we use an accelerometer and strips data. LSTM reached an overall classification accuracy of 98% for all activities. The CNN model with accelerometer data delivered better performance in lying down (100%), static (standing = 82%, sitting = 75%), and dynamic (walking = 100%, running = 100%) positions. Data fusion improved the outputs in standing (92%) and sitting (94%), while LSTM with the strips data yielded a better performance in bending-related activities (bending forward = 49%, bending backward = 88%, bending right = 92%, and bending left = 100%), the combination of data fusion and principle components analysis further strengthened the output (bending forward = 100%, bending backward = 89%, bending right = 100%, and bending left = 100%). Moreover, the LSTM model detected the first transition state that is similar to fall with the accuracy of 84%. The results show that the wearable device can be used in a daily routine for activity monitoring, recognition, and exercise supervision, but still needs further improvement for fall detection."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-8966-0176"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, 38106 Braunschweig, Lower Saxony, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Ubiquitous Computing Lab, Department of Computer Science, Konstanz University of Applied Sciences, 78462 Konstanz, Baden-W\u00fcrttemberg, Germany."
+          }
+        ],
+        "LastName": "Haghi",
+        "ForeName": "Mostafa",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9441-1422"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, 38106 Braunschweig, Lower Saxony, Germany."
+          }
+        ],
+        "LastName": "Ershadi",
+        "ForeName": "Arman",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3492-4407"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Hannover Medical School, 38106 Braunschweig, Lower Saxony, Germany."
+          }
+        ],
+        "LastName": "Deserno",
+        "ForeName": "Thomas M",
+        "Initials": "TM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "ZN3491",
+        "Agency": "Center for Digital Innovations",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quality of Life"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Human Activities"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Memory, Long-Term"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

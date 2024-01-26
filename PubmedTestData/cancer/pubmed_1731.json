@@ -1,0 +1,127 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Adjacent normal tissues",
+      "Breast cancer subtypes",
+      "Differential correlations",
+      "Escape velocity centrality",
+      "Influential genes",
+      "Normal breast tissues",
+      "Switching genes."
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37878223",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "10",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10142-023-01251-5"
+    ],
+    "Journal": {
+      "ISSN": "1438-7948",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct",
+          "Day": "25"
+        }
+      },
+      "Title": "Functional & integrative genomics",
+      "ISOAbbreviation": "Funct Integr Genomics"
+    },
+    "ArticleTitle": "Architecture and topologies of gene regulatory networks associated with breast cancer, adjacent normal, and normal tissues.",
+    "Pagination": {
+      "StartPage": "324",
+      "MedlinePgn": "324"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Most cancer studies employ adjacent normal tissues to tumors (ANTs) as controls, which are not completely normal and represent a pre-cancerous state. However, the regulatory landscape of ANTs compared to tumor and non-tumor-bearing normal tissues is largely unexplored. Among cancers, breast cancer is the most commonly diagnosed cancer and a leading cause of death in women worldwide, with a lack of sufficient treatment regimens for various reasons. Hence, we aimed to gain deeper insights into normal, pre-cancerous, and cancerous regulatory systems of breast tissues towards identifying ANT and subtype-specific candidate genes. For this, we constructed and analyzed eight gene regulatory networks (GRNs), including five subtypes (viz., Basal, Her2, Luminal A, Luminal B, and Normal-Like), one ANT, and two normal tissue networks. Whereas several topological properties of these GRNs enabled us to identify tumor-related features of ANT, escape velocity centrality (EVC+) identified 24 functionally significant common genes, including well-known genes such as E2F1, FOXA1, JUN, BRCA1, GATA3, ERBB2, and ERBB3 across all six tissues including subtypes and ANT. Similarly, the EVC+ also helped us to identify tissue-specific key genes (Basal: 18, Her2: 6, Luminal A: 5, Luminal B: 5, Normal-Like: 2, and ANT: 7). Additionally, differentially correlated switching gene pairs along with functional, pathway, and disease annotations highlighted the cancer-associated role of these genes. In a nutshell, the present study revealed ANT and subtype-specific regulatory features and key candidate genes, which can be explored further using in vitro and in vivo experiments for better and effective disease management at an early stage."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology & Bioinformatics, School of Life Sciences, University of Hyderabad, Gachibowli, Hyderabad, 500046, India."
+          }
+        ],
+        "LastName": "Kumar",
+        "ForeName": "Swapnil",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology & Bioinformatics, School of Life Sciences, University of Hyderabad, Gachibowli, Hyderabad, 500046, India. vaibhav@uohyd.ac.in."
+          }
+        ],
+        "LastName": "Vindal",
+        "ForeName": "Vaibhav",
+        "Initials": "V"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "Funct Integr Genomics",
+    "NlmUniqueID": "100939343",
+    "ISSNLinking": "1438-793X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    }
+  ]
+}

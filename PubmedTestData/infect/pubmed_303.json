@@ -1,0 +1,139 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24590573",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "09",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "03",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s00285-014-0769-8"
+    ],
+    "Journal": {
+      "ISSN": "1432-1416",
+      "JournalIssue": {
+        "Volume": "70",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Journal of mathematical biology",
+      "ISOAbbreviation": "J Math Biol"
+    },
+    "ArticleTitle": "Epidemic dynamics and host immune response: a nested approach.",
+    "Pagination": {
+      "StartPage": "399",
+      "EndPage": "435",
+      "MedlinePgn": "399-435"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This paper proposes an approach for building epidemiological models that incorporate the intra-host pathogen-immunity dynamics. The infected population is structured in terms of pathogen load and level of immunity, and the initial infection load may depend on the load of the individual from whom the infection is acquired. In particular, we focus on the case in which the initial inoculum is taken proportional to the load of the infectant. Possible reinfections are disregarded. Such an approach is applied to formulate an epidemic model with isolation in a closed population by introducing a specific intra-host dynamics. A numerical scheme for the solution of model equations is developed, and some numerical results illustrating the role of the initial inoculum, of the isolation threshold and of the pathogen dynamics on the epidemic evolution are presented. From the simulations the distributions of latency, infectivity, and isolation times can be also derived; however the predictions of the present models differ qualitatively from those of traditional SEIHR models with distributed latency, infectivity and isolation periods."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto di Analisi dei Sistemi ed Informatica \"A. Ruberti\", CNR, Viale Manzoni 30, 00185\u00a0, Rome, Italy, alberto.gandolfi@iasi.cnr.it."
+          }
+        ],
+        "LastName": "Gandolfi",
+        "ForeName": "Alberto",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pugliese",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sinisgalli",
+        "ForeName": "Carmela",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "J Math Biol",
+    "NlmUniqueID": "7502105",
+    "ISSNLinking": "0303-6812"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematical Concepts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Immunological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Population Dynamics"
+    }
+  ]
+}

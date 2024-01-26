@@ -1,0 +1,365 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35723286",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "jfac054",
+      "10.1093/jalm/jfac054"
+    ],
+    "Journal": {
+      "ISSN": "2576-9456",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Sep",
+          "Day": "01"
+        }
+      },
+      "Title": "The journal of applied laboratory medicine",
+      "ISOAbbreviation": "J Appl Lab Med"
+    },
+    "ArticleTitle": "Automated Library Construction and Analysis for High-Throughput Nanopore Sequencing of SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "1025",
+      "EndPage": "1036",
+      "MedlinePgn": "1025-1036"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To support the implementation of high-throughput pipelines suitable for SARS-CoV-2 sequencing and analysis in a clinical laboratory, we developed an automated sample preparation and analysis workflow.",
+        "We used the established ARTIC protocol with approximately 400\u2005bp amplicons sequenced on Oxford Nanopore's MinION. Sequences were analyzed using Nextclade, assigning both a clade and quality score to each sample.",
+        "A total of 2179 samples on twenty-five 96-well plates were sequenced. Plates of purified RNA were processed within 12\u2005h, sequencing required up to 24\u2005h, and analysis of each pooled plate required 1\u2005h. The use of samples with known threshold cycle (Ct) values enabled normalization, acted as a quality control check, and revealed a strong correlation between sample Ct values and successful analysis, with 85% of samples with Ct\u2009<\u200930 achieving a \"good\" Nextclade score. Less abundant samples responded to enrichment with the fraction of Ct\u2009>\u200930 samples achieving a \"good\" classification rising by 60% after addition of a post-ARTIC PCR normalization. Serial dilutions of 3 variant of concern samples, diluted from approximately Ct\u2009=\u200916 to approximately Ct\u2009=\u200950, demonstrated successful sequencing to Ct\u2005=\u200537. The sample set contained a median of 24 mutations per sample and a total of 1281 unique mutations with reduced sequence read coverage noted in some regions of some samples. A total of 10 separate strains were observed in the sample set, including 3 variants of concern prevalent in British Columbia in the spring of 2021.",
+        "We demonstrated a robust automated sequencing pipeline that takes advantage of input Ct values to improve reliability."
+      ],
+      "CopyrightInformation": "\u00a9 American Association for Clinical Chemistry 2022. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4685-3506"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Coope",
+        "ForeName": "Robin J N",
+        "Initials": "RJN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Saint Paul's Hospital, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Matic",
+        "ForeName": "Nancy",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Pandoh",
+        "ForeName": "Pawan K",
+        "Initials": "PK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Corbett",
+        "ForeName": "Richard D",
+        "Initials": "RD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Smailus",
+        "ForeName": "Duane E",
+        "Initials": "DE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Pleasance",
+        "ForeName": "Stephen",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Saint Paul's Hospital, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Lowe",
+        "ForeName": "Christopher F",
+        "Initials": "CF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Saint Paul's Hospital, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Ritchie",
+        "ForeName": "Gordon",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Chorlton",
+        "ForeName": "Samuel D",
+        "Initials": "SD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Saint Paul's Hospital, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Young",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Ally",
+        "ForeName": "Adrian A",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Asano",
+        "ForeName": "Jennifer K",
+        "Initials": "JK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Carlsen",
+        "ForeName": "Rebecca E",
+        "Initials": "RE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Chahal",
+        "ForeName": "Sundeep S",
+        "Initials": "SS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Yongjun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Saint Paul's Hospital, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Holmes",
+        "ForeName": "Daniel T",
+        "Initials": "DT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Saint Paul's Hospital, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Romney",
+        "ForeName": "Marc G",
+        "Initials": "MG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Genetics, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Jones",
+        "ForeName": "Steven J M",
+        "Initials": "SJM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7146-7175"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre at BC Cancer, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Genetics, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Marra",
+        "ForeName": "Marco A",
+        "Initials": "MA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Appl Lab Med",
+    "NlmUniqueID": "101693884",
+    "ISSNLinking": "2475-7241"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nanopore Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nanopores"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "Authors\u2019 Disclosures or Potential Conflicts of Interest: Upon manuscript submission, all authors completed the author disclosure form. Disclosures and/or potential conflicts of interest: Employment or Leadership: None declared. Consultant or Advisory Role: None declared. Stock Ownership: S.D. Chorlton, PathoGene Inc., BugSeq Bioinformatics Inc. Honoraria: None declared. Research Funding: Researchers from the St. Paul\u2019s Hospital Department of Pathology and Laboratory Medicine have received institutional support from the Public Health Agency of Canada\u2019s COVID-19 Immunity Task Force Hot Spots Competitive Grant, 2021-HQ-000120 (M.G. Romney, N. Matic, G. Ritchie, C.F. Lowe, M. Young), Genome BC COVID-19 rapid response grant (M.G. Romney, N. Matic, G. Ritchie, C.F. Lowe, M. Young), Genome BC Rapid SARS-CoV-2 Vaccine Research Initiative in BC (M.G. Romney and C.F. Lowe), Providence Health Care Research Institute (N. Matic), and Canada Foundation for Innovation Exceptional Opportunities Fund\u2013COVID-19 (C.F. Lowe). M.A. Marra, S. Jones, D.E. Smailus, R. Corbett, S. Pleasance, S. Chahal, R.E. Carlsen, R.J.N. Coope, P.K. Pandoh, J. Asano, A. Ally, Y. Zhao, and Canada\u2019s Michael Smith Genome Sciences Centre, have also received institutional support from Genome BC (COV-088), Genome Canada (262SEQ), and the Canada Foundation for Innovation and BC Knowledge Development Fund (#40991). S.D. Chorlton has received funding from the Open Philanthropy Project. Expert Testimony: None declared. Patents: None declared. Other Remuneration: D. Holmes has received travel reimbursements from AACC and MSACL."
+}

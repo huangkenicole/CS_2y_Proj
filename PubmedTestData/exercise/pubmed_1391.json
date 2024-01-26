@@ -1,0 +1,126 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31945964",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC.2019.8856428"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2019",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Rehabilitation Exercise Segmentation for Autonomous Biofeedback Systems with ConvFSM.",
+    "Pagination": {
+      "StartPage": "574",
+      "EndPage": "579",
+      "MedlinePgn": "574-579"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Segmenting physical movements is a key step for any accelerometry-based autonomous biofeedback system oriented to rehabilitation and physiotherapy activities. Fundamentally, this can be reduced to the detection of recurrent patterns, also called motion primitives, in longer inertial signals. Most of the solutions developed in the literature require extensive domain knowledge, or are incapable of scaling to complex motion patterns and new exercises. In this paper, we explore the capabilities of inertial measurement units for the segmentation of upper limb rehabilitation exercises. To do so, we introduce a novel segmentation technique based on Convolutional Neural Networks and Finite State Machines, called ConvFSM. ConvFSM is able to isolate motion primitives from raw streaming data, using very little domain knowledge. We also investigate different combinations of sensors, in order to identify the most effective and flexible setup that could fit a home-based rehabilitation feedback system. Experimental results are presented, based on a dataset obtained from a combination of common upper limb and lower limb exercises."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bevilacqua",
+        "ForeName": "Antonio",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Brennan",
+        "ForeName": "Louise",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Argent",
+        "ForeName": "Rob",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Caulfield",
+        "ForeName": "Brian",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kechadi",
+        "ForeName": "Tahar",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Accelerometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biofeedback, Psychology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Upper Extremity"
+    }
+  ]
+}

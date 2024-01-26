@@ -1,0 +1,147 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28430229",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "02",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "10",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1364/AO.56.003608"
+    ],
+    "Journal": {
+      "ISSN": "1539-4522",
+      "JournalIssue": {
+        "Volume": "56",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Apr",
+          "Day": "20"
+        }
+      },
+      "Title": "Applied optics",
+      "ISOAbbreviation": "Appl Opt"
+    },
+    "ArticleTitle": "Light scattering from normal and cervical cancer cells.",
+    "Pagination": {
+      "StartPage": "3608",
+      "EndPage": "3614",
+      "MedlinePgn": "3608-3614"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The light scattering characteristic plays a very important role in optic imaging and diagnostic applications. For optical detection of the cell, cell scattering characteristics have an extremely vital role. In this paper, we use the finite-difference time-domain (FDTD) algorithm to simulate the propagation and scattering of light in biological cells. The two-dimensional scattering cell models were set up based on the FDTD algorithm. The cell models of normal cells and cancerous cells were established, and the shapes of organelles, such as mitochondria, were elliptical. Based on these models, three aspects of the scattering characteristics were studied. First, the radar cross section (RCS) distribution curves of the corresponding cell models were calculated, then corresponding relationships between the size and the refractive index of the nucleus and light scattering information were analyzed in the three periods of cell canceration. The values of RCS increase positively with the increase of the nucleo-cytoplasmic ratio in the cancerous process when the scattering angle ranges from 0\u00b0 to 20\u00b0. Second, the effect of organelles in the scattering was analyzed. The peak value of the RCS of cells with mitochondria is higher than the cells without mitochondria when the scattering angle ranges from 20\u00b0 to 180\u00b0. Third, we demonstrated that the influence of cell shape is important, and the impact was revealed by the two typical ideal cells: round cells and oval cells. When the scattering angle ranges from 0\u00b0 to 80\u00b0, the peak values and the frequencies of the appearance of the peaks from the two models are roughly similar. It can be concluded that: (1) the size of the nuclei and the change of the refractive index of cells have a certain impact on light scattering information of the whole cell; (2) mitochondria and other small organelles contribute to the cell light scattering characteristics in the larger scattering angle area; and (3) the change of the cell shape significantly influences the value of scattering peak and the deviation of scattering peak position. The results of the numerical simulation will guide subsequent experiments and early diagnosis of cervical cancer."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lin",
+        "ForeName": "Xiaogang",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wan",
+        "ForeName": "Nan",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Weng",
+        "ForeName": "Lingdong",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhou",
+        "ForeName": "Yong",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Appl Opt",
+    "NlmUniqueID": "0247660",
+    "ISSNLinking": "1559-128X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Nucleus"
+    },
+    {
+      "QualifierName": [
+        "cytology",
+        "ultrastructure"
+      ],
+      "DescriptorName": "Cervix Uteri"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Light"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mitochondria"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Organ Size"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Refractometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Scattering, Radiation"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "ultrastructure"
+      ],
+      "DescriptorName": "Uterine Cervical Neoplasms"
+    }
+  ]
+}

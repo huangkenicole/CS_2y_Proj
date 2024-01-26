@@ -1,0 +1,191 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33827141",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1055/s-0041-1726348"
+    ],
+    "Journal": {
+      "ISSN": "1869-0327",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Applied clinical informatics",
+      "ISOAbbreviation": "Appl Clin Inform"
+    },
+    "ArticleTitle": "Tracking Hospital Visitors/Chaperones during the COVID-19 Pandemic.",
+    "Pagination": {
+      "StartPage": "266",
+      "EndPage": "273",
+      "MedlinePgn": "266-273"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus disease (COVID-19) is an emerging infectious disease with strong infectious power and fatality rate. To protect national health, government agencies have regulations on hospital chaperoning and visiting. This article presents the development and implementation of a monitoring system for hospital visiting and chaperoning during the COVID-19 pandemic. The study aimed to create a hospital visiting and chaperoning monitor system that uses nation-wide data sources to more accurately screen hospital visitors and chaperones, assist contract tracing, and prevent transmission of severe acute respiratory syndrome coronavirus 2.",
+        "This project was implemented in 57 ward units of an academic medical center. The system was connected to the National Health Insurance (NHI) system and Hospital Information System (HIS), and built on the data of everyone who accessed either the hospital or ward using an NHI smart card or national identification card. To shorten the time for manual identification, we also developed a new system of \"app for appointment visits and chaperones\" to make appointments online.",
+        "After the implementation of the system, data from visitors and chaperones in the nursing information system could be accessed. Given that all data were registered in the HIS visiting/chaperoning monitor system, an epidemic investigation could be performed whenever there was a confirmed case.",
+        "Through the establishment of this system, people entering the ward can be accurately controlled, and all the contacts of potential cases can be traced."
+      ],
+      "CopyrightInformation": "Thieme. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Nursing, MacKay Memorial Hospital, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Nursing, National Taipei University of Nursing and Health Sciences, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Hsu",
+        "ForeName": "Suh-Meei",
+        "Initials": "SM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information, Mackay Memorial Hospital, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Cheng",
+        "ForeName": "Tsung-Kuei",
+        "Initials": "TK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information, Mackay Memorial Hospital, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Chang",
+        "ForeName": "Po-Jen",
+        "Initials": "PJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information, Mackay Memorial Hospital, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Teng-Yu",
+        "Initials": "TY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Nursing, MacKay Children's Hospital, Taipei, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Nursing, Mackay Medical College, New Taipei City, Taiwan."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Ming-Huei",
+        "Initials": "MH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Nursing, MacKay Memorial Hospital, Taipei, Taiwan."
+          }
+        ],
+        "LastName": "Yeh",
+        "ForeName": "Hui-Tzu",
+        "Initials": "HT"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "Appl Clin Inform",
+    "NlmUniqueID": "101537732",
+    "ISSNLinking": "1869-0327"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hospitals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Medical Chaperones"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Visitors to Patients"
+    }
+  ],
+  "CoiStatement": "None declared."
+}

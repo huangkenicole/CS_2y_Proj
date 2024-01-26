@@ -1,0 +1,194 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37087497",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "04",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "443",
+      "10.1038/s42003-023-04784-4"
+    ],
+    "Journal": {
+      "ISSN": "2399-3642",
+      "JournalIssue": {
+        "Volume": "6",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Apr",
+          "Day": "22"
+        }
+      },
+      "Title": "Communications biology",
+      "ISOAbbreviation": "Commun Biol"
+    },
+    "ArticleTitle": "HaploCoV: unsupervised classification and rapid detection of novel emerging variants of SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "443",
+      "MedlinePgn": "443"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Accurate and timely monitoring of the evolution of SARS-CoV-2 is crucial for identifying and tracking potentially more transmissible/virulent viral variants, and implement mitigation strategies to limit their spread. Here we introduce HaploCoV, a novel software framework that enables the exploration of SARS-CoV-2 genomic diversity through space and time, to identify novel emerging viral variants and prioritize variants of potential epidemiological interest in a rapid and unsupervised manner. HaploCoV can integrate with any classification/nomenclature and incorporates an effective scoring system for the prioritization of SARS-CoV-2 variants. By performing retrospective analyses of more than 11.5\u2009M genome sequences we show that HaploCoV demonstrates high levels of accuracy and reproducibility and identifies the large majority of epidemiologically relevant viral variants - as flagged by international health authorities - automatically and with rapid turn-around times.Our results highlight the importance of the application of strategies based on the systematic analysis and integration of regional data for rapid identification of novel, emerging variants of SARS-CoV-2. We believe that the approach outlined in this study will contribute to relevant advances to current and future genomic surveillance methods."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3983-4961"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosciences, University of Milan, Milan, Italy. matteo.chiara@unimi.it."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies, Consiglio Nazionale delle Ricerche, Bari, Italy. matteo.chiara@unimi.it."
+          }
+        ],
+        "LastName": "Chiara",
+        "ForeName": "Matteo",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6739-2657"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosciences, University of Milan, Milan, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies, Consiglio Nazionale delle Ricerche, Bari, Italy."
+          }
+        ],
+        "LastName": "Horner",
+        "ForeName": "David S",
+        "Initials": "DS"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2968-8350"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosciences, University of Milan, Milan, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies, Consiglio Nazionale delle Ricerche, Bari, Italy."
+          }
+        ],
+        "LastName": "Ferrandi",
+        "ForeName": "Erika",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies, Consiglio Nazionale delle Ricerche, Bari, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosciences, Biotechnology and Environment, University of Bari \"A. Moro\", Bari, Italy."
+          }
+        ],
+        "LastName": "Gissi",
+        "ForeName": "Carmela",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3663-0859"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies, Consiglio Nazionale delle Ricerche, Bari, Italy. graziano.pesole@uniba.it."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosciences, Biotechnology and Environment, University of Bari \"A. Moro\", Bari, Italy. graziano.pesole@uniba.it."
+          }
+        ],
+        "LastName": "Pesole",
+        "ForeName": "Graziano",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Commun Biol",
+    "NlmUniqueID": "101719179",
+    "ISSNLinking": "2399-3642"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

@@ -1,0 +1,183 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "artificial intelligence",
+      "data science",
+      "network science"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33592108",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbaa420",
+      "10.1093/bib/bbaa420"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Data science in unveiling COVID-19 pathogenesis and diagnosis: evolutionary origin to drug repurposing.",
+    "Pagination": {
+      "StartPage": "855",
+      "EndPage": "872",
+      "MedlinePgn": "855-872"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The outbreak of novel severe acute respiratory syndrome coronavirus (SARS-CoV-2, also known as COVID-19) in Wuhan has attracted worldwide attention. SARS-CoV-2 causes severe inflammation, which can be fatal. Consequently, there has been a massive and rapid growth in research aimed at throwing light on the mechanisms of infection and the progression of the disease. With regard to this data science is playing a pivotal role in in silico analysis to gain insights into SARS-CoV-2 and the outbreak of COVID-19 in order to forecast, diagnose and come up with a drug to tackle the virus. The availability of large multiomics, radiological, bio-molecular and medical datasets requires the development of novel exploratory and predictive models, or the customisation of existing ones in order to fit the current problem. The high number of approaches generates the need for surveys to guide data scientists and medical practitioners in selecting the right tools to manage their clinical data.",
+        "Focusing on data science methodologies, we conduct a detailed study on the state-of-the-art of works tackling the current pandemic scenario. We consider various current COVID-19 data analytic domains such as phylogenetic analysis, SARS-CoV-2 genome identification, protein structure prediction, host-viral protein interactomics, clinical imaging, epidemiological research and drug discovery. We highlight data types and instances, their generation pipelines and the data science models currently in use. The current study should give a detailed sketch of the road map towards handling COVID-19 like situations by leveraging data science experts in choosing the right tools. We also summarise our review focusing on prime challenges and possible future research directions.",
+        "hguzzi@unicz.it, sroy01@cus.ac.in."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, School of Medicine, Johns Hopkins University, Maryland, USA."
+          }
+        ],
+        "LastName": "Kumar Das",
+        "ForeName": "Jayanta",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "eCampus University, Via Isimbardi 10, 22060 Novedrate, CO, Italy."
+          }
+        ],
+        "LastName": "Tradigo",
+        "ForeName": "Giuseppe",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgical and Medical Sciences, Magna Graecia University, Catanzaro, 88100, Italy."
+          }
+        ],
+        "LastName": "Veltri",
+        "ForeName": "Pierangelo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgical and Medical Sciences, Magna Graecia University, Catanzaro, 88100, Italy."
+          }
+        ],
+        "LastName": "H Guzzi",
+        "ForeName": "Pietro",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Network Reconstruction & Analysis (NetRA) Lab, Department of Computer Applications, Sikkim University, Gangtok, India."
+          }
+        ],
+        "LastName": "Roy",
+        "ForeName": "Swarup",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Science"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Weibo",
+      "attitude",
+      "echo chamber effect",
+      "infodemic",
+      "infodemiology",
+      "rumor rebuttal"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33690145",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e27009",
+      "10.2196/27009"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "25"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Echo Chamber Effect in Rumor Rebuttal Discussions About COVID-19 in China: Social Media Content and Network Analysis Study.",
+    "Pagination": {
+      "StartPage": "e27009",
+      "MedlinePgn": "e27009"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The dissemination of rumor rebuttal content on social media is vital for rumor control and disease containment during public health crises. Previous research on the effectiveness of rumor rebuttal, to a certain extent, ignored or simplified the structure of dissemination networks and users' cognition as well as decision-making and interaction behaviors.",
+        "This study aimed to roughly evaluate the effectiveness of rumor rebuttal; dig deeply into the attitude-based echo chamber effect on users' responses to rumor rebuttal under multiple topics on Weibo, a Chinese social media platform, in the early stage of the COVID-19 epidemic; and evaluate the echo chamber's impact on the information characteristics of user interaction content.",
+        "We used Sina Weibo's application programming interface to crawl rumor rebuttal content related to COVID-19 from 10 AM on January 23, 2020, to midnight on April 8, 2020. Using content analysis, sentiment analysis, social network analysis, and statistical analysis, we first analyzed whether and to what extent there was an echo chamber effect on the shaping of individuals' attitudes when retweeting or commenting on others' tweets. Then, we tested the heterogeneity of attitude distribution within communities and the homophily of interactions between communities. Based on the results at user and community levels, we made comprehensive judgments. Finally, we examined users' interaction content from three dimensions-sentiment expression, information seeking and sharing, and civility-to test the impact of the echo chamber effect.",
+        "Our results indicated that the retweeting mechanism played an essential role in promoting polarization, and the commenting mechanism played a role in consensus building. Our results showed that there might not be a significant echo chamber effect on community interactions and verified that, compared to like-minded interactions, cross-cutting interactions contained significantly more negative sentiment, information seeking and sharing, and incivility. We found that online users' information-seeking behavior was accompanied by incivility, and information-sharing behavior was accompanied by more negative sentiment, which was often accompanied by incivility.",
+        "Our findings revealed the existence and degree of an echo chamber effect from multiple dimensions, such as topic, interaction mechanism, and interaction level, and its impact on interaction content. Based on these findings, we provide several suggestions for preventing or alleviating group polarization to achieve better rumor rebuttal."
+      ],
+      "CopyrightInformation": "\u00a9Dandan Wang, Yuxing Qian. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 25.03.2021."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-5319-5820"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Management, Wuhan University, Wuhan, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Studies of Information Resources, Wuhan University, Wuhan, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Institute, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Dandan",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3803-2505"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Management, Wuhan University, Wuhan, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Studies of Information Resources, Wuhan University, Wuhan, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Institute, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Qian",
+        "ForeName": "Yuxing",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Social Media"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Social Network Analysis"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

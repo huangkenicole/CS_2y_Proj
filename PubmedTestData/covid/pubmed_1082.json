@@ -1,0 +1,169 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bayesian phylogenetics",
+      "SARS-CoV-2",
+      "birth\u2013death",
+      "coalescent",
+      "phylodynamics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33430050",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "79",
+      "10.3390/v13010079"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "The Impacts of Low Diversity Sequence Data on Phylodynamic Inference during an Emerging Epidemic.",
+    "Abstract": {
+      "AbstractText": [
+        "Phylodynamic inference is a pivotal tool in understanding transmission dynamics of viral outbreaks. These analyses are strongly guided by the input of an epidemiological model as well as sequence data that must contain sufficient intersequence variability in order to be informative. These criteria, however, may not be met during the early stages of an outbreak. Here we investigate the impact of low diversity sequence data on phylodynamic inference using the birth-death and coalescent exponential models. Through our simulation study, estimating the molecular evolutionary rate required enough sequence diversity and is an essential first step for any phylodynamic inference. Following this, the birth-death model outperforms the coalescent exponential model in estimating epidemiological parameters, when faced with low diversity sequence data due to explicitly exploiting the sampling times. In contrast, the coalescent model requires additional samples and therefore variability in sequence data before accurate estimates can be obtained. These findings were also supported through our empirical data analyses of an Australian and a New Zealand cluster outbreaks of SARS-CoV-2. Overall, the birth-death model is more robust when applied to datasets with low sequence diversity given sampling is specified and this should be considered for future viral outbreak investigations."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, VIC 3010, Australia."
+          }
+        ],
+        "LastName": "Lam",
+        "ForeName": "Anthony",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2863-0907"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, Peter Doherty Institute for Infection and Immunity, University of Melbourne, Melbourne, VIC 3010, Australia."
+          }
+        ],
+        "LastName": "Duchene",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "DE190100805",
+        "Agency": "Australian Research Council",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Australia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Evolution, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "New Zealand"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

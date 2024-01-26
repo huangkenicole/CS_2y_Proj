@@ -1,0 +1,167 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "3D model",
+      "artificial intelligence",
+      "biofeedback",
+      "deep learning",
+      "tele-rehabilitation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36772246",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1206",
+      "10.3390/s23031206"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jan",
+          "Day": "20"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Design and Validation of Vision-Based Exercise Biofeedback for Tele-Rehabilitation.",
+    "Abstract": {
+      "AbstractText": [
+        "Tele-rehabilitation has the potential to considerably change the way patients are monitored from their homes during the care process, by providing equitable access without the need to travel to rehab centers or shoulder the high cost of personal in-home services. Developing a tele-rehab platform with the capability of automating exercise guidance is likely to have a significant impact on rehabilitation outcomes. In this paper, a new vision-based biofeedback system is designed and validated to identify the quality of performed exercises. This new system will help patients to refine their movements to get the most out of their plan of care. An open dataset was used, which consisted of data from 30 participants performing nine different exercises. Each exercise was labeled as \"Correctly\" or \"Incorrectly\" executed by five clinicians. We used a pre-trained 3D Convolution Neural Network (3D-CNN) to design our biofeedback system. The proposed system achieved average accuracy values of 90.57% \u00b1 9.17% and 83.78% \u00b1 7.63% using 10-Fold and Leave-One-Subject-Out (LOSO) cross validation, respectively. In addition, we obtained average F1-scores of 71.78% \u00b1 5.68% using 10-Fold and 60.64% \u00b1 21.3% using LOSO validation. The proposed 3D-CNN was able to classify the rehabilitation videos and feedback on the quality of exercises to help users modify their movement patterns."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6709-8618"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KITE Research Institute, Toronto Rehabilitation Institute, University Health Network, 550 University Ave, Toronto, ON M5G 2A2, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, 164 College St., Toronto, ON M5S 3G9, Canada."
+          }
+        ],
+        "LastName": "Barzegar Khanghah",
+        "ForeName": "Ali",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4821-7650"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KITE Research Institute, Toronto Rehabilitation Institute, University Health Network, 550 University Ave, Toronto, ON M5G 2A2, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, 164 College St., Toronto, ON M5S 3G9, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, University of Toronto, 149 College Street, Toronto, ON M5T 1P5, Canada."
+          }
+        ],
+        "LastName": "Fernie",
+        "ForeName": "Geoff",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KITE Research Institute, Toronto Rehabilitation Institute, University Health Network, 550 University Ave, Toronto, ON M5G 2A2, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, 164 College St., Toronto, ON M5S 3G9, Canada."
+          }
+        ],
+        "LastName": "Roshan Fekr",
+        "ForeName": "Atena",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "FDN-148450",
+        "Agency": "Canadian Institutes of Health Research",
+        "Country": "Canada"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Telerehabilitation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biofeedback, Psychology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feedback"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

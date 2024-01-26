@@ -1,0 +1,192 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33853140",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1055/s-0041-1723989"
+    ],
+    "Journal": {
+      "ISSN": "1869-0327",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Applied clinical informatics",
+      "ISOAbbreviation": "Appl Clin Inform"
+    },
+    "ArticleTitle": "U.S. COVID-19 State Government Public Dashboards: An Expert Review.",
+    "Pagination": {
+      "StartPage": "208",
+      "EndPage": "221",
+      "MedlinePgn": "208-221"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In the United States, all 50 state governments deployed publicly viewable dashboards regarding the novel coronavirus disease 2019 (COVID-19) to track and respond to the pandemic. States dashboards, however, reflect idiosyncratic design practices based on their content, function, and visual design and platform. There has been little guidance for what state dashboards should look like or contain, leading to significant variation.",
+        "The primary objective of our study was to catalog how information, system function, and user interface were deployed across the COVID-19 state dashboards. Our secondary objective was to group and characterize the dashboards based on the information we collected using clustering analysis.",
+        "For preliminary data collection, we developed a framework to first analyze two dashboards as a group and reach agreement on coding. We subsequently doubled coded the remaining 48 dashboards using the framework and reviewed the coding to reach total consensus.",
+        "All state dashboards included maps and graphs, most frequently line charts, bar charts, and histograms. The most represented metrics were total deaths, total cases, new cases, laboratory tests, and hospitalization. Decisions on how metrics were aggregated and stratified greatly varied across dashboards. Overall, the dashboards were very interactive with 96% having at least some functionality including tooltips, zooming, or exporting capabilities. For visual design and platform, we noted that the software was dominated by a few major organizations. Our cluster analysis yielded a six-cluster solution, and each cluster provided additional insights about how groups of states engaged in specific practices in dashboard design.",
+        "Our study indicates that states engaged in dashboard practices that generally aligned with many of the goals set forth by the Centers for Disease Control and Prevention, Essential Public Health Services. We highlight areas where states fall short of these expectations and provide specific design recommendations to address these gaps."
+      ],
+      "CopyrightInformation": "Thieme. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CATALYST-The Center for the Advancement of Team Science, Analytics, and Systems Thinking, College of Medicine, The Ohio State University, Columbus, Ohio, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, College of Medicine, Institute for Behavioral Medicine Research, The Ohio State University, Columbus, Ohio, United States."
+          }
+        ],
+        "LastName": "Fareed",
+        "ForeName": "Naleef",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CATALYST-The Center for the Advancement of Team Science, Analytics, and Systems Thinking, College of Medicine, The Ohio State University, Columbus, Ohio, United States."
+          }
+        ],
+        "LastName": "Swoboda",
+        "ForeName": "Christine M",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CATALYST-The Center for the Advancement of Team Science, Analytics, and Systems Thinking, College of Medicine, The Ohio State University, Columbus, Ohio, United States."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, Ohio University, Athens, Ohio, United States."
+          }
+        ],
+        "LastName": "Potter",
+        "ForeName": "Evelyn",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, College of Medicine, University of Cincinnati, Cincinnati, Ohio, United States."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Danny T Y",
+        "Initials": "DTY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CATALYST-The Center for the Advancement of Team Science, Analytics, and Systems Thinking, College of Medicine, The Ohio State University, Columbus, Ohio, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Family and Community Medicine, College of Medicine, Institute for Behavioral Medicine Research, The Ohio State University, Columbus, Ohio, United States."
+          }
+        ],
+        "LastName": "Sieck",
+        "ForeName": "Cynthia J",
+        "Initials": "CJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "Appl Clin Inform",
+    "NlmUniqueID": "101537732",
+    "ISSNLinking": "1869-0327"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "State Government"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    }
+  ],
+  "CoiStatement": "None declared."
+}

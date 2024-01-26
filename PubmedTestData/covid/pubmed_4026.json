@@ -1,0 +1,668 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Human factors",
+      "point-of-care diagnostics",
+      "usability"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35527805",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "05",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "100222",
+      "10.1016/j.crmeth.2022.100222"
+    ],
+    "Journal": {
+      "ISSN": "2667-2375",
+      "JournalIssue": {
+        "Volume": "2",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "May",
+          "Day": "23"
+        }
+      },
+      "Title": "Cell reports methods",
+      "ISOAbbreviation": "Cell Rep Methods"
+    },
+    "ArticleTitle": "Don't forget about human factors: Lessons learned from COVID-19 point-of-care testing.",
+    "Pagination": {
+      "StartPage": "100222",
+      "MedlinePgn": "100222"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "During the COVID-19 pandemic, the development of point-of-care (POC) diagnostic testing accelerated in an unparalleled fashion. As a result, there has been an increased need for accurate, robust, and easy-to-use POC testing in a variety of non-traditional settings (i.e., pharmacies, drive-thru sites, schools). While stakeholders often express the desire for POC technologies that are \"as simple as digital pregnancy tests,\" there is little discussion of what this means in regards to device design, development, and assessment. The design of POC technologies and systems should take into account the capabilities and limitations of the users and their environments. Such \"human factors\" are important tenets that can help technology developers create POC technologies that are effective for end-users in a multitude of settings. Here, we review the core principles of human factors and discuss lessons learned during the evaluation process of SARS-CoV-2 POC testing."
+      ],
+      "CopyrightInformation": "\u00a9 2022 The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Advanced Communications Policy, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Georgia Tech Research Institute, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Farmer",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Georgia Tech Research Institute, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Razin",
+        "ForeName": "Victoria",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Advanced Communications Policy, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Georgia Tech Research Institute, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Peagler",
+        "ForeName": "Amanda Foster",
+        "Initials": "AF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine and Department of Anesthesia, Division of Critical Care, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Strickler",
+        "ForeName": "Samantha",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Advanced Communications Policy, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Georgia Tech Research Institute, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Fain",
+        "ForeName": "W Bradley",
+        "Initials": "WB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Damhorst",
+        "ForeName": "Gregory L",
+        "Initials": "GL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Kempker",
+        "ForeName": "Russell R",
+        "Initials": "RR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Boston Children's Hospital, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Pollock",
+        "ForeName": "Nira R",
+        "Initials": "NR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Electronics and Nanotechnology, Georgia Institute of Technology, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Brand",
+        "ForeName": "Oliver",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Children's Healthcare of Atlanta, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Seitter",
+        "ForeName": "Brooke",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Heilman",
+        "ForeName": "Stacy S",
+        "Initials": "SS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Rollins School of Public Health, Emory University, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Nehl",
+        "ForeName": "Eric J",
+        "Initials": "EJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology-Head and Neck Surgery, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Levy",
+        "ForeName": "Joshua M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Electronics and Nanotechnology, Georgia Institute of Technology, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Gottfried",
+        "ForeName": "David S",
+        "Initials": "DS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Greg S",
+        "Initials": "GS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Greenleaf",
+        "ForeName": "Morgan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Ku",
+        "ForeName": "David N",
+        "Initials": "DN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Emory University School of Medicine, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Rollins School of Public Health, Emory University, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Waggoner",
+        "ForeName": "Jesse J",
+        "Initials": "JJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Iffrig",
+        "ForeName": "Elizabeth",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Electronics and Nanotechnology, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Mannino",
+        "ForeName": "Robert G",
+        "Initials": "RG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "F Wang",
+        "ForeName": "Yun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Ortlund",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Sullivan",
+        "ForeName": "Julie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Emory University School of Medicine, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Rollins School of Public Health, Emory University, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Rebolledo",
+        "ForeName": "Paulina A",
+        "Initials": "PA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mechanical Engineering, Georgia Institute of Technology, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Claver\u00eda",
+        "ForeName": "Viviana",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Roback",
+        "ForeName": "John D",
+        "Initials": "JD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Children's Healthcare of Atlanta, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Benoit",
+        "ForeName": "MacArthur",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Children's Healthcare of Atlanta, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Stone",
+        "ForeName": "Cheryl",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Esper",
+        "ForeName": "Annette",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Frank",
+        "ForeName": "Filipp",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Atlanta Center for Microsystems-Engineered Point-of-Care Technologies, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Electronics and Nanotechnology, Georgia Institute of Technology, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Children's Healthcare of Atlanta, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Emory University School of Medicine, Atlanta, GA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Wallace H. Coulter Department of Biomedical Engineering, Emory University and Georgia Institute of Technology, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Lam",
+        "ForeName": "Wilbur A",
+        "Initials": "WA"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "T32 HL069769",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54 EB027690",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UL1 TR002378",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Cell Rep Methods",
+    "NlmUniqueID": "9918227360606676",
+    "ISSNLinking": "2667-2375"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Point-of-Care Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Point-of-Care Systems"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

@@ -1,0 +1,188 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bat virus",
+      "SIR model",
+      "mechanistic model",
+      "virus dynamics",
+      "zoonotic disease"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33185145",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1080/20477724.2020.1833161"
+    ],
+    "Journal": {
+      "ISSN": "2047-7732",
+      "JournalIssue": {
+        "Volume": "114",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Pathogens and global health",
+      "ISOAbbreviation": "Pathog Glob Health"
+    },
+    "ArticleTitle": "A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease.",
+    "Pagination": {
+      "StartPage": "407",
+      "EndPage": "425",
+      "MedlinePgn": "407-425"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The emergence of SARS-CoV-2, a coronavirus with suspected bat origins, highlights a critical need for heightened understanding of the mechanisms by which bats maintain potentially zoonotic viruses at the population level and transmit these pathogens across species. We review mechanistic models, which test hypotheses of the transmission dynamics that underpin viral maintenance in bat systems. A search of the literature identified only twenty-five mechanistic models of bat-virus systems published to date, derived from twenty-three original studies. Most models focused on rabies and related lyssaviruses (eleven), followed by Ebola-like filoviruses (seven), Hendra and Nipah-like henipaviruses (five), and coronaviruses (two). The vast majority of studies has modelled bat virus transmission dynamics at the population level, though a few nested within-host models of viral pathogenesis in population-level frameworks, and one study focused on purely within-host dynamics. Population-level studies described bat virus systems from every continent but Antarctica, though most were concentrated in North America and Africa; indeed, only one simulation model with no associated data was derived from an Asian bat-virus system. In fact, of the twenty-five models identified, only ten population-level models were fitted to data - emphasizing an overall dearth of empirically derived epidemiological inference in bat virus systems. Within the data fitted subset, the vast majority of models were fitted to serological data only, highlighting extensive uncertainty in our understanding of the transmission status of a wild bat. Here, we discuss similarities and differences in the approach and findings of previously published bat virus models and make recommendations for improvement in future work."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Odum School of Ecology, University of Georgia , Athens, GA, USA."
+          }
+        ],
+        "LastName": "Gentles",
+        "ForeName": "Anecia D",
+        "Initials": "AD"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5533-9456"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Biology, University of California , Berkeley, CA, USA."
+          }
+        ],
+        "LastName": "Guth",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1503-4871"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Biology, University of California , Berkeley, CA, USA."
+          }
+        ],
+        "LastName": "Rozins",
+        "ForeName": "Carly",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4276-073X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Biology, University of California , Berkeley, CA, USA."
+          }
+        ],
+        "LastName": "Brook",
+        "ForeName": "Cara E",
+        "Initials": "CE"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 AI129822",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Pathog Glob Health",
+    "NlmUniqueID": "101583421",
+    "ISSNLinking": "2047-7724"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Chiroptera"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Disease Reservoirs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "Zoonoses"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

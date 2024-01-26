@@ -1,0 +1,121 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "22880616",
+  "DateCompleted": {
+    "Year": "2013",
+    "Month": "04",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2012",
+    "Month": "08",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1080/17513750601040383"
+    ],
+    "Journal": {
+      "ISSN": "1751-3766",
+      "JournalIssue": {
+        "Volume": "1",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Journal of biological dynamics",
+      "ISOAbbreviation": "J Biol Dyn"
+    },
+    "ArticleTitle": "Infection-age structured epidemic models with behavior change or treatment.",
+    "Pagination": {
+      "StartPage": "109",
+      "EndPage": "131",
+      "MedlinePgn": "109-31"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We formulate infection-age structured susceptible-infective-removed (SIR) models with behavior change or treatment of infections. Individuals change their behavior or have treatment after they are infected. Using infection age as a continuous variable, and dividing infectives into discrete groups with different infection stages, respectively, we formulate a partial differential equation model and an ordinary differential equation model with behavior change or treatment. We derive explicit formulas for the reproductive number by linear stability analysis of the infection-free equilibrium, and explicit formulas for the unique endemic equilibrium, when it exists, for both models. These formulas provide mathematical theoretical frameworks for analysis of impact of behavior change or treatment of infection to the transmission dynamics of infectious diseases. We study several special cases and provide sensitivity analysis for the reproductive numbers with respect to model parameters based on those formulas."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Theoretical Division, MS-B284, Center for Nonlinear Studies, Los Alamos National Laboratory, Los Alamos, NM 87545, USA."
+          }
+        ],
+        "LastName": "Hyman",
+        "ForeName": "James M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Jia",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Biol Dyn",
+    "NlmUniqueID": "101299725",
+    "ISSNLinking": "1751-3758"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Behavior"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "therapy"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Susceptibility"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    }
+  ]
+}

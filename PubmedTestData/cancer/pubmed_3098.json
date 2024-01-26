@@ -1,0 +1,179 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Deep Convolution Neural Network (DCNN)",
+      "Deep learning",
+      "GUI",
+      "HAM10000",
+      "Prediction",
+      "Skin cancer"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37407845",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "07",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10278-023-00862-5"
+    ],
+    "Journal": {
+      "ISSN": "1618-727X",
+      "JournalIssue": {
+        "Volume": "36",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Journal of digital imaging",
+      "ISOAbbreviation": "J Digit Imaging"
+    },
+    "ArticleTitle": "Deep Learning-Based Skin Lesion Multi-class Classification with Global Average Pooling Improvement.",
+    "Pagination": {
+      "StartPage": "2227",
+      "EndPage": "2248",
+      "MedlinePgn": "2227-2248"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancerous skin lesions are one of the deadliest diseases that have the ability in spreading across other body parts and organs. Conventionally, visual inspection and biopsy methods are widely used to detect skin cancers. However, these methods have some drawbacks, and the prediction is not highly accurate. This is where a dependable automatic recognition system for skin cancers comes into play. With the extensive usage of deep learning in various aspects of medical health, a novel computer-aided dermatologist tool has been suggested for the accurate identification and classification of skin lesions by deploying a novel deep convolutional neural network (DCNN) model that incorporates global average pooling along with preprocessing to discern the skin lesions. The proposed model is trained and tested on the HAM10000 dataset, which contains seven different classes of skin lesions as target classes. The black hat filtering technique has been applied to remove artifacts in the preprocessing stage along with the resampling techniques to balance the data. The performance of the proposed model is evaluated by comparing it with some of the transfer learning models such as ResNet50, VGG-16, MobileNetV2, and DenseNet121. The proposed model provides an accuracy of 97.20%, which is the highest among the previous state-of-art models for multi-class skin lesion classification. The efficacy of the proposed model is also validated by visualizing the results obtained using a graphical user interface (GUI)."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s) under exclusive licence to Society for Imaging Informatics in Medicine."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mechanical Engineering, SASTRA Deemed to be University, 613401, Thanjavur, India."
+          }
+        ],
+        "LastName": "Raghavendra",
+        "ForeName": "Paravatham V S P",
+        "Initials": "PVSP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electrical and Electronics Engineering, SASTRA Deemed to be University, 613401, Thanjavur, India."
+          }
+        ],
+        "LastName": "Charitha",
+        "ForeName": "C",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4460-1898"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electrical and Electronics Engineering, SASTRA Deemed to be University, 613401, Thanjavur, India. ghousiyabegum@eie.sastra.edu."
+          }
+        ],
+        "LastName": "Begum",
+        "ForeName": "K Ghousiya",
+        "Initials": "KG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biomedical Informatics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, 45229, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, College of Medicine, University of Cincinnati, Cincinnati, OH, 45257, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, College of Medicine, University of Cincinnati, Cincinnati, OH, 45267, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Cincinnati, Cincinnati, OH, 45221, USA."
+          }
+        ],
+        "LastName": "Prasath",
+        "ForeName": "V B S",
+        "Initials": "VBS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Digit Imaging",
+    "NlmUniqueID": "9100529",
+    "ISSNLinking": "0897-1889"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Skin Diseases"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Skin"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Skin Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

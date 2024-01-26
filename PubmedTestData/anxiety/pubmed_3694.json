@@ -1,0 +1,169 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Anxiety",
+      "Computational psychiatry",
+      "Depression",
+      "Learning",
+      "Reinforcement-learning",
+      "Social feedback"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37201901",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "05",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jad.2023.05.021",
+      "S0165-0327(23)00649-3"
+    ],
+    "Journal": {
+      "ISSN": "1573-2517",
+      "JournalIssue": {
+        "Volume": "335",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Aug",
+          "Day": "15"
+        }
+      },
+      "Title": "Journal of affective disorders",
+      "ISOAbbreviation": "J Affect Disord"
+    },
+    "ArticleTitle": "Anxiety and depression related abnormalities in socio-affective learning.",
+    "Pagination": {
+      "StartPage": "322",
+      "EndPage": "331",
+      "MedlinePgn": "322-331"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Affective distress (as observed in anxiety and depression) has been observed to be related to insufficient sensitivity to changing reinforcement during operant learning. Whether such findings are specific to anxiety or depression is unclear given a wider literature relating negative affect to abnormal learning and the possibility that relationships are not consistent across incentive types (i.e., punishment and reward) and outcomes (i.e., positive or negative). In two separate samples (n<sub>1</sub> =\u00a0100; n<sub>2</sub>\u00a0=\u00a088), participants completed an operant learning task with positive or negative, and neutral socio-affective feedback, designed to assess adaptive responses to changing environmental volatility. Individual parameter estimates were generated with hierarchical Bayesian modelling. Effects of manipulations were modelled by decomposing parameters into a linear combination of effects on the logit scale. While effects tended to support prior work, neither general affective distress nor anxiety or depression were consistently related to a decrease in the adaptive adjustment of learning-rates in response to changing environmental volatility (Sample 1: \u03b2<sub>\u03b1:volatility</sub>\u00a0=\u00a0-0.01, 95\u00a0% HDI\u00a0=\u00a0-0.14, 0.13; Sample 2: \u03b2<sub>\u03b1:volatility</sub>\u00a0=\u00a0-0.15, 95\u00a0% HDI\u00a0=\u00a0-0.37, 0.05). Interaction effects in Sample 1 suggested that while distress was associated with decrements in adaptive learning under punishment-minimisation, it was associated with improvements under reward-maximisation. While our results are broadly consistent with prior work, they suggest that the role of anxiety or depression in volatility learning, if present, is subtle and difficult to detect. Inconsistencies between our samples, along with issues of parameter identifiability complicated interpretation."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 The Authors. Published by Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Melbourne School of Psychological Sciences, The University of Melbourne, Melbourne, Australia."
+          }
+        ],
+        "LastName": "Hammond",
+        "ForeName": "Dylan",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Psychology, Beijing Normal University, Beijing, China; Center for Neuroimaging, Shenzhen Institute of Neuroscience, Shenzhen, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Pengfei",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Applied Psychology, Tianjin University, Tianjin, China; Academy of Medical Engineering and Translational Medicine, Tianjin University, Tianjin, China."
+          }
+        ],
+        "LastName": "Ai",
+        "ForeName": "Hui",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Melbourne School of Psychological Sciences, The University of Melbourne, Melbourne, Australia. Electronic address: nicholas.vandam@unimelb.edu.au."
+          }
+        ],
+        "LastName": "Van Dam",
+        "ForeName": "Nicholas T",
+        "Initials": "NT"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "J Affect Disord",
+    "NlmUniqueID": "7906073",
+    "ISSNLinking": "0165-0327"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Anxiety Disorders"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reinforcement, Psychology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reward"
+    }
+  ],
+  "CoiStatement": "Declaration of competing interest The authors have no conflicts of interest to declare."
+}

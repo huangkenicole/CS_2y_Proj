@@ -1,0 +1,166 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35623021",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2100129",
+      "10.1200/CCI.21.00129"
+    ],
+    "Journal": {
+      "ISSN": "2473-4276",
+      "JournalIssue": {
+        "Volume": "6",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "May"
+        }
+      },
+      "Title": "JCO clinical cancer informatics",
+      "ISOAbbreviation": "JCO Clin Cancer Inform"
+    },
+    "ArticleTitle": "Machine Learning Approach to Facilitate Knowledge Synthesis at the Intersection of Liver Cancer, Epidemiology, and Health Disparities Research.",
+    "Pagination": {
+      "StartPage": "e2100129",
+      "MedlinePgn": "e2100129"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Liver cancer is a global challenge, and disparities exist across multiple domains and throughout the disease continuum. However, liver cancer's global epidemiology and etiology are shifting, and the literature is rapidly evolving, presenting a challenge to the synthesis of knowledge needed to identify areas of research needs and to develop research agendas focusing on disparities. Machine learning (ML) techniques can be used to semiautomate the literature review process and improve efficiency. In this study, we detail our approach and provide practical benchmarks for the development of a ML approach to classify literature and extract data at the intersection of three fields: liver cancer, health disparities, and epidemiology.",
+        "We performed a six-phase process including: training (I), validating (II), confirming (III), and performing error analysis (IV) for a ML classifier. We then developed an extraction model (V) and applied it (VI) to the liver cancer literature identified through PubMed. We present precision, recall, F1, and accuracy metrics for the classifier and extraction models as appropriate for each phase of the process. We also provide the results for the application of our extraction model.",
+        "With limited training data, we achieved a high degree of accuracy for both our classifier and for the extraction model for liver cancer disparities research literature performed using epidemiologic methods. The disparities concept was the most challenging to accurately classify, and concepts that appeared infrequently in our data set were the most difficult to extract.",
+        "We provide a roadmap for using ML to classify and extract comprehensive information on multidisciplinary literature. Our technique can be adapted and modified for other cancers or diseases where disparities persist."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1015-2708"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Office of the Director, Division of Cancer Control and Population Sciences, National Cancer Institute, National Institutes of Health, Bethesda, MD."
+          }
+        ],
+        "LastName": "Hyams",
+        "ForeName": "Travis C",
+        "Initials": "TC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5141-0259"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD."
+          }
+        ],
+        "LastName": "Luo",
+        "ForeName": "Ling",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Office of the Director, Division of Cancer Control and Population Sciences, National Cancer Institute, National Institutes of Health, Bethesda, MD."
+          }
+        ],
+        "LastName": "Hair",
+        "ForeName": "Brionna",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2015-3939"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics and Bioinformatics, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Kyubum",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Zhiyong",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Office of the Director, Division of Cancer Control and Population Sciences, National Cancer Institute, National Institutes of Health, Bethesda, MD."
+          }
+        ],
+        "LastName": "Seminara",
+        "ForeName": "Daniela",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Intramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "JCO Clin Cancer Inform",
+    "NlmUniqueID": "101708809",
+    "ISSNLinking": "2473-4276"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "therapy"
+      ],
+      "DescriptorName": "Liver Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "<b>Kyubum Lee</b><b>Employment:</b> Amgen<b>Stock and Other Ownership Interests:</b> Amgen<b>Travel, Accommodations, Expenses:</b> Amgen <b>Zhiyong Lu</b><b>Patents, Royalties, Other Intellectual Property:</b> I have received royalties from my patent named \u201cMethod and System of Building Hospital-Scale Chest X-Ray Database for Entity Extraction and Weakly-Supervised Classification and Localization of Common Thorax Diseases\u201dNo other potential conflicts of interest were reported."
+}

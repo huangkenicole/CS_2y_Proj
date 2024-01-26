@@ -1,0 +1,152 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "16903003",
+  "DateCompleted": {
+    "Year": "2007",
+    "Month": "05",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2013",
+    "Month": "11",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0277-6715",
+      "JournalIssue": {
+        "Volume": "26",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "Mar",
+          "Day": "30"
+        }
+      },
+      "Title": "Statistics in medicine",
+      "ISOAbbreviation": "Stat Med"
+    },
+    "ArticleTitle": "Multivariate time-to-event analysis of multiple adverse events of drugs in integrated analyses.",
+    "Pagination": {
+      "StartPage": "1518",
+      "EndPage": "1531",
+      "MedlinePgn": "1518-31"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In each clinical trial the statistical evaluation of adverse events (AEs) is a major part of standard safety analyses. However, the analyses of AEs usually lack from adequately accounting for the occurrence of multiple, different AEs. Furthermore, predictive variables other than treatment such as age, sex and concomitant medication are often ignored. These issues can be addressed by the Cox regression as introduced by Andersen and Gill and Wei et al. A further issue arises from the fact that an ordered programme of studies is conducted during clinical testing of pharmaceutical drugs. In this paper, we therefore discuss a stratified multivariate Cox regression model that can be used in integrated summaries of safety. We derive partial maximum likelihood estimators of the model parameters which can be shown to be consistent and asymptotically normally distributed. Mainly based on a sandwich estimator of their covariance matrix several test statistics are proposed that can be used to test various null hypotheses on the underlying parameters. Their asymptotic null distributions are given. The benefit of this survival time approach for analysing AEs is illustrated by evaluating symptoms of common cold from the database of a clinical development project."
+      ],
+      "CopyrightInformation": "Copyright (c) 2006 John Wiley & Sons, Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Novartis Pharma AG, Biostatistics and Statistical Reporting, CH-4002 Basel, Switzerland. achim.guettner@novartis.com"
+          }
+        ],
+        "LastName": "G\u00fcttner",
+        "ForeName": "Achim",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "K\u00fcbler",
+        "ForeName": "J\u00fcrgen",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pigeot",
+        "ForeName": "Iris",
+        "Initials": "I"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Stat Med",
+    "NlmUniqueID": "8215016",
+    "ISSNLinking": "0277-6715"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cholinesterase Inhibitors"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "drug therapy"
+      ],
+      "DescriptorName": "Alzheimer Disease"
+    },
+    {
+      "QualifierName": [
+        "adverse effects",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Cholinesterase Inhibitors"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Clinical Trials as Topic"
+    },
+    {
+      "QualifierName": [
+        "chemically induced"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug-Related Side Effects and Adverse Reactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Meta-Analysis as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Multivariate Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proportional Hazards Models"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Randomized Controlled Trials as Topic"
+    }
+  ]
+}

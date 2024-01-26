@@ -1,0 +1,296 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "cancer biology",
+      "chromosomal instability",
+      "computational biology",
+      "human",
+      "lung squamous cell carcinoma",
+      "precancerous lesions",
+      "shiny app",
+      "systems biology",
+      "transcriptomics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [
+    {
+      "AbstractText": [
+        "Lung squamous cell carcinoma is the second most common lung cancer. However, very little is known about how normal tissues in the lung develop in to these tumours. Like many cancers, this transformation comprises of an intermediate phase where healthy cells begin to form lesions that may (or may not) progress in to tumours. Understanding the biology of these lesions in lung squamous cell carcinoma may help clinicians detect them before they become cancerous. Knowing which genes are switched on and off during this intermediary phase can provide clues as to how these lesions form. There are already some publicly available transcriptional datasets showing the activity of tens of thousands of genes in pre-cancerous lesions extracted from patients with lung squamous cell carcinoma. But not every laboratory has the bioinformatic tools and skills required to interrogate these extensive databases. To address this, Roberts et al. built an open-source platform called XTABLE (short for Exploring Transcriptomes of Bronchial Lesions) which can analyse transcriptional datasets in multiple ways depending on the needs of the user. For instance, the tool can stratify the data into groups based on different parameters, such as the lesions potential to progress in to cancer, to see how the genes of the groups compare. It can also analyse the activity of individual genes and sets of genes involved in the same biological processes. Using XTABLE, Roberts et al. showed that a biological process linked to lung squamous cell carcinoma is also involved in the formation of pre-cancerous lesions. This suggests that molecules and genes associated with this process could potentially help scientists design prevention strategies. XTABLE will help researchers to better understand the biology of pre-cancerous lesions and how they develop in to tumours. Moreover, it will make it easier for scientists to validate their hypotheses using data collected from patients. The tool could also be useful for scientists interested in other types of lung cancers that share a similar biology."
+      ],
+      "CopyrightInformation": "\u00a9 2023, Roberts et al."
+    }
+  ],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36892933",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "26"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "03",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e77507",
+      "10.7554/eLife.77507"
+    ],
+    "Journal": {
+      "ISSN": "2050-084X",
+      "JournalIssue": {
+        "Volume": "12",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Mar",
+          "Day": "09"
+        }
+      },
+      "Title": "eLife",
+      "ISOAbbreviation": "Elife"
+    },
+    "ArticleTitle": "Interrogating the precancerous evolution of pathway dysfunction in lung squamous cell carcinoma using XTABLE.",
+    "Abstract": {
+      "AbstractText": [
+        "Lung squamous cell carcinoma (LUSC) is a type of lung cancer with a dismal prognosis that lacks adequate therapies and actionable targets. This disease is characterized by a sequence of low- and high-grade preinvasive stages with increasing probability of malignant progression. Increasing our knowledge about the biology of these premalignant lesions (PMLs) is necessary to design new methods of early detection and prevention, and to identify the molecular processes that are key for malignant progression. To facilitate this research, we have designed XTABLE (E<b>x</b>ploring <b>T</b>r<b>a</b>nscriptomes of <b>B</b>ronchial <b>L</b>esions), an open-source application that integrates the most extensive transcriptomic databases of PMLs published so far. With this tool, users can stratify samples using multiple parameters and interrogate PML biology in multiple manners, such as two- and multiple-group comparisons, interrogation of genes of interests, and transcriptional signatures. Using XTABLE, we have carried out a comparative study of the potential role of chromosomal instability scores as biomarkers of PML progression and mapped the onset of the most relevant LUSC pathways to the sequence of LUSC developmental stages. XTABLE will critically facilitate new research for the identification of early detection biomarkers and acquire a better understanding of the LUSC precancerous stages."
+      ],
+      "CopyrightInformation": "\u00a9 2023, Roberts et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Biomarker Centre, Cancer Research UK Manchester Institute, The University of Manchester, Macclesfield, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Research UK Lung Cancer Centre of Excellence, Alderley Park, United Kingdom."
+          }
+        ],
+        "LastName": "Roberts",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Research UK Lung Cancer Centre of Excellence, Alderley Park, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Lung Cancer Biology Laboratory, Cancer Research UK Manchester Institute, University of Manchester, Macclesfield, United Kingdom."
+          }
+        ],
+        "LastName": "Ogden",
+        "ForeName": "Julia",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Biomarker Centre, Cancer Research UK Manchester Institute, The University of Manchester, Macclesfield, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Research UK Lung Cancer Centre of Excellence, Alderley Park, United Kingdom."
+          }
+        ],
+        "LastName": "Hossain",
+        "ForeName": "A S Mukarram",
+        "Initials": "ASM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Research UK Lung Cancer Centre of Excellence, Alderley Park, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Histopathology, The Christie Hospital, Manchester, United Kingdom."
+          }
+        ],
+        "LastName": "Chaturvedi",
+        "ForeName": "Anshuman",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9207-6050"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Biomarker Centre, Cancer Research UK Manchester Institute, The University of Manchester, Macclesfield, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Research UK Lung Cancer Centre of Excellence, Alderley Park, United Kingdom."
+          }
+        ],
+        "LastName": "Kerr",
+        "ForeName": "Alastair R W",
+        "Initials": "ARW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Biomarker Centre, Cancer Research UK Manchester Institute, The University of Manchester, Macclesfield, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Research UK Lung Cancer Centre of Excellence, Alderley Park, United Kingdom."
+          }
+        ],
+        "LastName": "Dive",
+        "ForeName": "Caroline",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Boston University School of Medicine, Boston, United States."
+          }
+        ],
+        "LastName": "Beane",
+        "ForeName": "Jennifer Ellen",
+        "Initials": "JE"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9848-8216"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Research UK Lung Cancer Centre of Excellence, Alderley Park, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Lung Cancer Biology Laboratory, Cancer Research UK Manchester Institute, University of Manchester, Macclesfield, United Kingdom."
+          }
+        ],
+        "LastName": "Lopez-Garcia",
+        "ForeName": "Carlos",
+        "Initials": "C"
+      }
+    ],
+    "DataBankList": [
+      {
+        "DataBankName": "GEO",
+        "AccessionNumberList": [
+          "GSE33479",
+          "GSE109743",
+          "GSE114489",
+          "GSE108124"
+        ]
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "A25146",
+        "Acronym": "CRUK_",
+        "Agency": "Cancer Research UK",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Elife",
+    "NlmUniqueID": "101579614",
+    "ISSNLinking": "2050-084X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "doi: 10.1101/2022.05.06.490640"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Carcinoma, Non-Small-Cell Lung"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Carcinoma, Squamous Cell"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Lung"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Precancerous Conditions"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    }
+  ],
+  "CoiStatement": "MR, JO, AH, AC, AK, CD, JB, CL No competing interests declared"
+}

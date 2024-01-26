@@ -1,0 +1,228 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27913438",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "07",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "02",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "10",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1538-7445",
+      "JournalIssue": {
+        "Volume": "76",
+        "Issue": "24",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Dec",
+          "Day": "15"
+        }
+      },
+      "Title": "Cancer research",
+      "ISOAbbreviation": "Cancer Res"
+    },
+    "ArticleTitle": "Quantifying the Dynamics of Field Cancerization in Tobacco-Related Head and Neck Cancer: A Multiscale Modeling Approach.",
+    "Pagination": {
+      "StartPage": "7078",
+      "EndPage": "7088",
+      "MedlinePgn": "7078-7088"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "High rates of local recurrence in tobacco-related head and neck squamous cell carcinoma (HNSCC) are commonly attributed to unresected fields of precancerous tissue. Because they are not easily detectable at the time of surgery without additional biopsies, there is a need for noninvasive methods to predict the extent and dynamics of these fields. Here, we developed a spatial stochastic model of tobacco-related HNSCC at the tissue level and calibrated the model using a Bayesian framework and population-level incidence data from the Surveillance, Epidemiology, and End Results (SEER) registry. Probabilistic model analyses were performed to predict the field geometry at time of diagnosis, and model predictions of age-specific recurrence risks were tested against outcome data from SEER. The calibrated models predicted a strong dependence of the local field size on age at diagnosis, with a doubling of the expected field diameter between ages at diagnosis of 50 and 90 years, respectively. Similarly, the probability of harboring multiple, clonally unrelated fields at the time of diagnosis was found to increase substantially with patient age. On the basis of these findings, we hypothesized a higher recurrence risk in older than in younger patients when treated by surgery alone; we successfully tested this hypothesis using age-stratified outcome data. Further clinical studies are needed to validate the model predictions in a patient-specific setting. This work highlights the importance of spatial structure in models of epithelial carcinogenesis and suggests that patient age at diagnosis may be a critical predictor of the size and multiplicity of precancerous lesions. Cancer Res; 76(24); 7078-88. \u00a92016 AACR."
+      ],
+      "CopyrightInformation": "\u00a92016 American Association for Cancer Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke University, Department of Mathematics, Durham, North Carolina. jyfoo@umn.edu ryser@math.duke.edu."
+          }
+        ],
+        "LastName": "Ryser",
+        "ForeName": "Marc D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Head and Neck Surgery & Communication Sciences, Duke University School of Medicine, Durham, North Carolina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Otolaryngology-Head and Neck Surgery, Durham VA Medical Center, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Walter T",
+        "Initials": "WT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, Duke University School of Medicine, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Ready",
+        "ForeName": "Neal E",
+        "Initials": "NE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Industrial & Systems Engineering, University of Minnesota, Minneapolis, Minnesota."
+          }
+        ],
+        "LastName": "Leder",
+        "ForeName": "Kevin Z",
+        "Initials": "KZ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematics, University of Minnesota, Minneapolis, Minnesota. jyfoo@umn.edu ryser@math.duke.edu."
+          }
+        ],
+        "LastName": "Foo",
+        "ForeName": "Jasmine",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM096190",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Cancer Res",
+    "NlmUniqueID": "2984705R",
+    "ISSNLinking": "0008-5472"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age of Onset"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology",
+        "pathology"
+      ],
+      "DescriptorName": "Carcinoma, Squamous Cell"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology",
+        "pathology"
+      ],
+      "DescriptorName": "Head and Neck Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasm Recurrence, Local"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology",
+        "pathology"
+      ],
+      "DescriptorName": "Precancerous Conditions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "SEER Program"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Squamous Cell Carcinoma of Head and Neck"
+    },
+    {
+      "QualifierName": [
+        "adverse effects"
+      ],
+      "DescriptorName": "Tobacco Use"
+    }
+  ],
+  "CoiStatement": "<b>Potential conflicts of interest:</b> The authors disclose no potential conflicts of interest."
+}

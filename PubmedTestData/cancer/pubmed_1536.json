@@ -1,0 +1,234 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36271790",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkac922"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "51",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jan",
+          "Day": "06"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "ImmCluster: an ensemble resource for immunology cell type clustering and annotations in normal and cancerous tissues.",
+    "Pagination": {
+      "StartPage": "D1325",
+      "EndPage": "D1332",
+      "MedlinePgn": "D1325-D1332"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Single-cell transcriptome has enabled the transcriptional profiling of thousands of immune cells in complex tissues and cancers. However, subtle transcriptomic differences in immune cell subpopulations and the high dimensionality of transcriptomic data make the clustering and annotation of immune cells challenging. Herein, we introduce ImmCluster (http://bio-bigdata.hrbmu.edu.cn/ImmCluster) for immunology cell type clustering and annotation. We manually curated 346 well-known marker genes from 1163 studies. ImmCluster integrates over 420 000 immune cells from nine healthy tissues and over 648 000 cells from different tumour samples of 17 cancer types to generate stable marker-gene sets and develop context-specific immunology references. In addition, ImmCluster provides cell clustering using seven reference-based and four marker gene-based computational methods, and the ensemble method was developed to provide consistent cell clustering than individual methods. Five major analytic modules were provided for interactively exploring the annotations of immune cells, including clustering and annotating immune cell clusters, gene expression of markers, functional assignment in cancer hallmarks, cell states and immune pathways, cell-cell communications and the corresponding ligand-receptor interactions, as well as online tools. ImmCluster generates diverse plots and tables, enabling users to identify significant associations in immune cell clusters simultaneously. ImmCluster is a valuable resource for analysing cellular heterogeneity in cancer microenvironments."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2022. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang150081, China."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Tiantongfei",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang150081, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Weiwei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang150081, China."
+          }
+        ],
+        "LastName": "Sheng",
+        "ForeName": "Qi",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang150081, China."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Jiaxin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang150081, China."
+          }
+        ],
+        "LastName": "Xie",
+        "ForeName": "Yunjin",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang150081, China."
+          }
+        ],
+        "LastName": "Ding",
+        "ForeName": "Na",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang150081, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yunpeng",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3709-4165"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang150081, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Juan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6047-9592"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Biomedical Information and Engineering, Hainan Women and Children's Medical Center, Hainan Medical University, Haikou, 571199, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yongsheng",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Genetic Markers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Tumor Microenvironment"
+    },
+    {
+      "QualifierName": [
+        "cytology"
+      ],
+      "DescriptorName": "Immune System"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Communication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Markers"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Mathematical model",
+      "Nonlinear analysis",
+      "Oncolytic virus",
+      "Oncotropism",
+      "Stochasticity"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37633084",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "08",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2023.107362",
+      "S0010-4825(23)00827-2"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "165",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Modeling of oncolytic viruses in a heterogeneous cell population to predict spread into non-cancerous cells.",
+    "Pagination": {
+      "StartPage": "107362",
+      "MedlinePgn": "107362"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "New cancer treatment modalities that limit patient discomfort need to be developed. One possible new therapy is the use of oncolytic (cancer-killing) viruses. It is only recently that our ability to manipulate viral genomes has allowed us to consider deliberately infecting cancer patients with viruses. One key consideration is to ensure that the virus exclusively targets cancer cells and does not harm nearby non-cancerous cells. Here, we use a mathematical model of viral infection to determine the characteristics a virus would need to have in order to eradicate a tumor, but leave non-cancerous cells untouched. We conclude that the virus must differ in its ability to infect the two different cell types, with the infection rate of non-cancerous cells needing to be less than one hundredth of the infection rate of cancer cells. Differences in viral production rate or infectious cell death rate alone are not sufficient to protect non-cancerous cells."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SUNY Upstate Medical University, Syracuse, NY, United States of America; Department of Physics and Astronomy, Texas Christian University, Fort Worth, TX, United States of America."
+          }
+        ],
+        "LastName": "Buntval",
+        "ForeName": "Karan",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics and Astronomy, Texas Christian University, Fort Worth, TX, United States of America. Electronic address: h.dobrovolny@tcu.edu."
+          }
+        ],
+        "LastName": "Dobrovolny",
+        "ForeName": "Hana M",
+        "Initials": "HM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Oncolytic Viruses"
+    },
+    {
+      "QualifierName": [
+        "therapy"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    }
+  ],
+  "CoiStatement": "Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

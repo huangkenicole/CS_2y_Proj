@@ -1,0 +1,193 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Named entity recognition",
+      "Natural language processing",
+      "Radiological report",
+      "Text classification"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33130435",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "10",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2020.104066",
+      "S0010-4825(20)30397-8"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "127",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "COVID-19 detection in radiological text reports integrating entity recognition.",
+    "Pagination": {
+      "StartPage": "104066",
+      "MedlinePgn": "104066"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "COVID-19 diagnosis is usually based on PCR test using radiological images, mainly chest Computed Tomography (CT) for the assessment of lung involvement by COVID-19. However, textual radiological reports also contain relevant information for determining the likelihood of presenting radiological signs of COVID-19 involving lungs. The development of COVID-19 automatic detection systems based on Natural Language Processing (NLP) techniques could provide a great help in supporting clinicians and detecting COVID-19 related disorders within radiological reports. In this paper we propose a text classification system based on the integration of different information sources. The system can be used to automatically predict whether or not a patient has radiological findings consistent with COVID-19 on the basis of radiological reports of chest CT. To carry out our experiments we use 295 radiological reports from chest CT studies provided by the ''HT m\u00e9dica\" clinic. All of them are radiological requests with suspicions of chest involvement by COVID-19. In order to train our text classification system we apply Machine Learning approaches and Named Entity Recognition. The system takes two sources of information as input: the text of the radiological report and COVID-19 related disorders extracted from SNOMED-CT. The best system is trained using SVM and the baseline results achieve 85% accuracy predicting lung involvement by COVID-19, which already offers competitive values that are difficult to overcome. Moreover, we apply mutual information in order to integrate the best quality information extracted from SNOMED-CT. In this way, we achieve around 90% accuracy improving the baseline results by 5 points."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SINAI Group, CEATIC, Universidad de Ja\u00e9n, Campus Las Lagunillas S/N, E-23071, Ja\u00e9n, Spain. Electronic address: plubeda@ujaen.es."
+          }
+        ],
+        "LastName": "L\u00f3pez-\u00dabeda",
+        "ForeName": "Pilar",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SINAI Group, CEATIC, Universidad de Ja\u00e9n, Campus Las Lagunillas S/N, E-23071, Ja\u00e9n, Spain. Electronic address: mcdiaz@ujaen.es."
+          }
+        ],
+        "LastName": "D\u00edaz-Galiano",
+        "ForeName": "Manuel Carlos",
+        "Initials": "MC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MRI Unit, Radiology Department, HT M\u00e9dica, Carmelo Torres 2, 23007, Ja\u00e9n, Spain. Electronic address: t.martin.f@htime.org."
+          }
+        ],
+        "LastName": "Mart\u00edn-Noguerol",
+        "ForeName": "Teodoro",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MRI Unit, Radiology Department, HT M\u00e9dica, Carmelo Torres 2, 23007, Ja\u00e9n, Spain. Electronic address: aluna70@htime.org."
+          }
+        ],
+        "LastName": "Luna",
+        "ForeName": "Antonio",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SINAI Group, CEATIC, Universidad de Ja\u00e9n, Campus Las Lagunillas S/N, E-23071, Ja\u00e9n, Spain. Electronic address: laurena@ujaen.es."
+          }
+        ],
+        "LastName": "Ure\u00f1a-L\u00f3pez",
+        "ForeName": "L Alfonso",
+        "Initials": "LA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SINAI Group, CEATIC, Universidad de Ja\u00e9n, Campus Las Lagunillas S/N, E-23071, Ja\u00e9n, Spain. Electronic address: maite@ujaen.es."
+          }
+        ],
+        "LastName": "Mart\u00edn-Valdivia",
+        "ForeName": "M Teresa",
+        "Initials": "MT"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Automation"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Language"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spain"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Systematized Nomenclature of Medicine"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflicts of interest."
+}

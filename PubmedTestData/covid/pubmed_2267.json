@@ -1,0 +1,148 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Detection probability",
+      "Epidemiology",
+      "Mathematical model",
+      "SARS-CoV-2",
+      "Test and isolate"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33799290",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.epidem.2021.100445",
+      "S1755-4365(21)00008-6"
+    ],
+    "Journal": {
+      "ISSN": "1878-0067",
+      "JournalIssue": {
+        "Volume": "35",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Epidemics",
+      "ISOAbbreviation": "Epidemics"
+    },
+    "ArticleTitle": "Estimating the global reduction in transmission and rise in detection capacity of the novel coronavirus SARS-CoV-2 in early 2020.",
+    "Pagination": {
+      "StartPage": "100445",
+      "MedlinePgn": "100445"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To better control the SARS-CoV-2 pandemic, it is essential to quantify the impact of control measures and the fraction of infected individuals that are detected. To this end we developed a deterministic transmission model based on the renewal equation and fitted the model to daily case and death data in the first few months of 2020 in 79 countries and states, representing 4.2 billions individuals. Based on a region-specific infection fatality ratio, we inferred the time-varying probability of case detection and the time-varying decline in transmissiblity. As a validation, the predicted total number of infected was close to that found in serosurveys; more importantly, the inferred probability of detection strongly correlated with the number of daily tests per inhabitant, with 50 % detection achieved with 0.003 daily tests per inhabitants. Most of the decline in transmission was explained by the reductions in transmissibility (social distancing), which avoided 10 millions deaths in the regions studied over the first four months of 2020. In contrast, symptom-based testing and isolation of positive cases was not an efficient way to control the spread of the disease, as a large part of transmission happens before symptoms and only a small fraction of infected individuals was typically detected. The latter is explained by the limited number of tests available, and the fact that increasing test capacity often increases the probability of detection less than proportionally. Together these results suggest that little control can be achieved by symptom-based testing and isolation alone."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Authors. Published by Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ecole Polytechnique, Route de Saclay, 91120 Palaiseau, France."
+          }
+        ],
+        "LastName": "Belloir",
+        "ForeName": "Antoine",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Interdisciplinary Research in Biology (CIRB), Coll\u00e8ge de France, CNRS, INSERM, PSL Research University, Paris, France; Infection Antimicrobials Modelling Evolution, UMR 1137, INSERM, Universit\u00e9 de Paris, Paris, France. Electronic address: francois.blanquart@college-de-france.fr."
+          }
+        ],
+        "LastName": "Blanquart",
+        "ForeName": "Fran\u00e7ois",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Epidemics",
+    "NlmUniqueID": "101484711",
+    "ISSNLinking": "1878-0067"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Communicable Disease Control"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "None."
+}

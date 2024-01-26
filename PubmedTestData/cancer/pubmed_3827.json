@@ -1,0 +1,185 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34927093",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "100984",
+      "10.1016/j.xpro.2021.100984"
+    ],
+    "Journal": {
+      "ISSN": "2666-1667",
+      "JournalIssue": {
+        "Volume": "2",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "17"
+        }
+      },
+      "Title": "STAR protocols",
+      "ISOAbbreviation": "STAR Protoc"
+    },
+    "ArticleTitle": "Multiplexed imaging and effluent analysis to monitor cancer cell intravasation using a colorectal cancer-on-chip.",
+    "Pagination": {
+      "StartPage": "100984",
+      "MedlinePgn": "100984"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Despite colorectal cancer's (CRC) prevalence, its progression is not well understood. The microfluidic organ-on-chip (OOC) model described herein recreates the epithelial-endothelial tissue-tissue interface, fluid flow, and mechanical forces that exist <i>in vivo</i> <i>,</i> making it an attractive model to understand and ultimately disrupt CRC intravasation. This protocol provides step-by-step details for tumor cell seeding to create a CRC-on-chip model, chip effluent collection and analysis, and on-chip imaging to monitor tumor cell invasion within a more physiologically relevant microenvironment. For complete details on the use and execution of this protocol, please refer to Strelez et\u00a0al. (2021)."
+      ],
+      "CopyrightInformation": "\u00a9 2021 The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lawrence J. Ellison Institute for Transformative Medicine of University of Southern California, Los Angeles, CA 90064, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, Norris Comprehensive Cancer Center, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA."
+          }
+        ],
+        "LastName": "Strelez",
+        "ForeName": "Carly",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lawrence J. Ellison Institute for Transformative Medicine of University of Southern California, Los Angeles, CA 90064, USA."
+          }
+        ],
+        "LastName": "Ghaffarian",
+        "ForeName": "Kimya",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lawrence J. Ellison Institute for Transformative Medicine of University of Southern California, Los Angeles, CA 90064, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, Norris Comprehensive Cancer Center, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA."
+          }
+        ],
+        "LastName": "Mumenthaler",
+        "ForeName": "Shannon M",
+        "Initials": "SM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 CA241137",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "STAR Protoc",
+    "NlmUniqueID": "101769501",
+    "ISSNLinking": "2666-1667"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Colorectal Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "HCT116 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "HT29 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Human Umbilical Vein Endothelial Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lab-On-A-Chip Devices"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Microscopy, Confocal"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasm Invasiveness"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Organ Culture Techniques"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Tissue Array Analysis"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Tumor Microenvironment"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

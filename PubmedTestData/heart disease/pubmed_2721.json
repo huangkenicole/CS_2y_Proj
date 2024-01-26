@@ -1,0 +1,134 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "A-Test method",
+      "Deep time growing neural network",
+      "deep learning",
+      "heart sounds",
+      "intelligent phonocardiography"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35773918",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3233/SHTI220772"
+    ],
+    "Journal": {
+      "ISSN": "1879-8365",
+      "JournalIssue": {
+        "Volume": "295",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jun",
+          "Day": "29"
+        }
+      },
+      "Title": "Studies in health technology and informatics",
+      "ISOAbbreviation": "Stud Health Technol Inform"
+    },
+    "ArticleTitle": "Deep Time Growing Neural Network vs Convolutional Neural Network for Intelligent Phonocardiography.",
+    "Pagination": {
+      "StartPage": "491",
+      "EndPage": "494",
+      "MedlinePgn": "491-494"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This paper explores the capabilities of a sophisticated deep learning method, named Deep Time Growing Neural Network (DTGNN), and compares its possibilities against a generally well-known method, Convolutional Neural network (CNN). The comparison is performed by using time series of the heart sound signal, so-called Phonocardiography (PCG). The classification objective is to discriminate between healthy and patients with cardiac diseases by applying a deep machine learning method to PCGs. This approach which is called intelligent phonocardiography has received interest from the researchers toward the development of a smart stethoscope for decentralized diagnosis of heart disease. It is found that DTGNN associates further flexibility to the approach which enables the classifier to learn subtle contents of PCG, and meanwhile better copes with the complexities intrinsically that exist in the medical applications such as the imbalance training. The structural risk of the two methods is compared using the A-Test method."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Technology, Halmstad University, Sweden."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Link\u00f6ping University, Sweden."
+          }
+        ],
+        "LastName": "Gharehbaghi",
+        "ForeName": "Arash",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Link\u00f6ping University, Sweden."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Science and Media Studies, University of Bergen, Norway."
+          }
+        ],
+        "LastName": "Babic",
+        "ForeName": "Ankica",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Stud Health Technol Inform",
+    "NlmUniqueID": "9214582",
+    "ISSNLinking": "0926-9630"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "diagnostic imaging",
+        "physiopathology"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heart Sounds"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phonocardiography"
+    }
+  ]
+}

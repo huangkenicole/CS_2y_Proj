@@ -1,0 +1,143 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34347838",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0255584",
+      "10.1371/journal.pone.0255584"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Topological data analysis model for the spread of the coronavirus.",
+    "Pagination": {
+      "StartPage": "e0255584",
+      "MedlinePgn": "e0255584"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We apply topological data analysis, specifically the Mapper algorithm, to the U.S. COVID-19 data. The resulting Mapper graphs provide visualizations of the pandemic that are more complete than those supplied by other, more standard methods. They allow for easy comparisons of the features of the pandemic across time and space and encode a variety of geometric features of the data cloud created from geographic information, time progression, and the number of COVID-19 cases. The Mapper graphs reflect the development of the pandemic across all of the U.S. and capture the growth rates as well as the regional prominence of hot-spots."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Wellesley College, Wellesley, MA, United States of America."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Yiran",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5158-3416"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Wellesley College, Wellesley, MA, United States of America."
+          }
+        ],
+        "LastName": "Voli\u0107",
+        "ForeName": "Ismar",
+        "Initials": "I"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Geographic Mapping"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

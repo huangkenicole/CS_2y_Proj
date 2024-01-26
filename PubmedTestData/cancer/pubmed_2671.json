@@ -1,0 +1,322 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28611203",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "05",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "06",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1158/1078-0432.CCR-17-0906"
+    ],
+    "Journal": {
+      "ISSN": "1557-3265",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "18",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Sep",
+          "Day": "15"
+        }
+      },
+      "Title": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "ISOAbbreviation": "Clin Cancer Res"
+    },
+    "ArticleTitle": "Detection of Head and Neck Cancer in Surgical Specimens Using Quantitative Hyperspectral Imaging.",
+    "Pagination": {
+      "StartPage": "5426",
+      "EndPage": "5436",
+      "MedlinePgn": "5426-5436"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "<b>Purpose:</b> This study intends to investigate the feasibility of using hyperspectral imaging (HSI) to detect and delineate cancers in fresh, surgical specimens of patients with head and neck cancers.<b>Experimental Design:</b> A clinical study was conducted in order to collect and image fresh, surgical specimens from patients (<i>N</i> = 36) with head and neck cancers undergoing surgical resection. A set of machine-learning tools were developed to quantify hyperspectral images of the resected tissue in order to detect and delineate cancerous regions which were validated by histopathologic diagnosis. More than two million reflectance spectral signatures were obtained by HSI and analyzed using machine-learning methods. The detection results of HSI were compared with autofluorescence imaging and fluorescence imaging of two vital-dyes of the same specimens.<b>Results:</b> Quantitative HSI differentiated cancerous tissue from normal tissue in <i>ex vivo</i> surgical specimens with a sensitivity and specificity of 91% and 91%, respectively, and which was more accurate than autofluorescence imaging (<i>P</i> < 0.05) or fluorescence imaging of 2-NBDG (<i>P</i> < 0.05) and proflavine (<i>P</i> < 0.05). The proposed quantification tools also generated cancer probability maps with the tumor border demarcated and which could provide real-time guidance for surgeons regarding optimal tumor resection.<b>Conclusions:</b> This study highlights the feasibility of using quantitative HSI as a diagnostic tool to delineate the cancer boundaries in surgical specimens, and which could be translated into the clinic application with the hope of improving clinical outcomes in the future. <i>Clin Cancer Res; 23(18); 5426-36. \u00a92017 AACR</i>."
+      ],
+      "CopyrightInformation": "\u00a92017 American Association for Cancer Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, Georgia."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Guolan",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Emory University School of Medicine, Atlanta, Georgia."
+          }
+        ],
+        "LastName": "Little",
+        "ForeName": "James V",
+        "Initials": "JV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Hematology and Medical Oncology, Emory University School of Medicine, Atlanta, Georgia."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Xu",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology, Emory University School of Medicine, Atlanta, Georgia."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Hongzheng",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology, Emory University School of Medicine, Atlanta, Georgia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Winship Cancer Institute of Emory University, Atlanta, Georgia."
+          }
+        ],
+        "LastName": "Patel",
+        "ForeName": "Mihir R",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Emory University School of Medicine, Atlanta, Georgia."
+          }
+        ],
+        "LastName": "Griffith",
+        "ForeName": "Christopher C",
+        "Initials": "CC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology, Emory University School of Medicine, Atlanta, Georgia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Winship Cancer Institute of Emory University, Atlanta, Georgia."
+          }
+        ],
+        "LastName": "El-Deiry",
+        "ForeName": "Mark W",
+        "Initials": "MW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology, Emory University School of Medicine, Atlanta, Georgia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Winship Cancer Institute of Emory University, Atlanta, Georgia."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Amy Y",
+        "Initials": "AY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, Georgia. bfei@emory.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Winship Cancer Institute of Emory University, Atlanta, Georgia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology and Imaging Sciences, Emory University, Atlanta, Georgia."
+          }
+        ],
+        "LastName": "Fei",
+        "ForeName": "Baowei",
+        "Initials": "B"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R21 CA120536",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA138292",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 CA176684",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 CA156775",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 CA204254",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Clin Cancer Res",
+    "NlmUniqueID": "9502500",
+    "ISSNLinking": "1078-0432"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "standards"
+      ],
+      "DescriptorName": "Diagnostic Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "surgery"
+      ],
+      "DescriptorName": "Head and Neck Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "standards"
+      ],
+      "DescriptorName": "Optical Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "ROC Curve"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Research Design"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Workflow"
+    }
+  ],
+  "CoiStatement": "<b>Disclosure of Potential Conflicts of Interest</b>. M.R. Patel is a consultant/advisory board member for AstraZeneca and Intuitive Surgical. No potential conflicts of interest were disclosed by the other authors."
+}

@@ -1,0 +1,243 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Hidden Markov Models",
+      "Human motion",
+      "RGB-D camera",
+      "Rehabilitation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29277330",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "02",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "02",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "12",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jbi.2017.12.012",
+      "S1532-0464(17)30282-4"
+    ],
+    "Journal": {
+      "ISSN": "1532-0480",
+      "JournalIssue": {
+        "Volume": "78",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Journal of biomedical informatics",
+      "ISOAbbreviation": "J Biomed Inform"
+    },
+    "ArticleTitle": "A Hidden Semi-Markov Model based approach for rehabilitation exercise assessment.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "11",
+      "MedlinePgn": "1-11"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this paper, a Hidden Semi-Markov Model (HSMM) based approach is proposed to evaluate and monitor body motion during a rehabilitation training program. The approach extracts clinically relevant motion features from skeleton joint trajectories, acquired by the RGB-D camera, and provides a score for the subject's performance. The approach combines different aspects of rule and template based methods. The features have been defined by clinicians as exercise descriptors and are then assessed by a HSMM, trained upon an exemplar motion sequence. The reliability of the proposed approach is studied by evaluating its correlation with both a clinical assessment and a Dynamic Time Warping (DTW) algorithm, while healthy and neurological disabled people performed physical exercises. With respect to the discrimination between healthy and pathological conditions, the HSMM based method correlates better with the physician's score than DTW. The study supports the use of HSMMs to assess motor performance providing a quantitative feedback to physiotherapist and patients. This result is particularly appropriate and useful for a remote assessment in the home."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2017 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Neurorehabilitation Clinic, Department of Experimental and Clinical Medicine, University Hospital \"Ospedali Riuniti di Ancona\", Polytechnic University of Marche, 60126 Ancona, Italy. Electronic address: m.capecci@univpm.it."
+          }
+        ],
+        "LastName": "Capecci",
+        "ForeName": "Marianna",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Neurorehabilitation Clinic, Department of Experimental and Clinical Medicine, University Hospital \"Ospedali Riuniti di Ancona\", Polytechnic University of Marche, 60126 Ancona, Italy. Electronic address: m.g.ceravolo@univpm.it."
+          }
+        ],
+        "LastName": "Ceravolo",
+        "ForeName": "Maria Gabriella",
+        "Initials": "MG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Engineering, Polytechnic University of Marche, 60131 Ancona, Italy. Electronic address: f.ferracuti@univpm.it."
+          }
+        ],
+        "LastName": "Ferracuti",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Engineering, Polytechnic University of Marche, 60131 Ancona, Italy. Electronic address: s.iarlori@univpm.it."
+          }
+        ],
+        "LastName": "Iarlori",
+        "ForeName": "Sabrina",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering and Automation, Aalto University, Maarintie 8, 02150 Espoo, Finland. Electronic address: ville.kyrki@aalto.fi."
+          }
+        ],
+        "LastName": "Kyrki",
+        "ForeName": "Ville",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Engineering, Polytechnic University of Marche, 60131 Ancona, Italy. Electronic address: a.monteriu@univpm.it."
+          }
+        ],
+        "LastName": "Monteri\u00f9",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Engineering, Polytechnic University of Marche, 60131 Ancona, Italy. Electronic address: l.romeo@univpm.it."
+          }
+        ],
+        "LastName": "Romeo",
+        "ForeName": "Luca",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Engineering, Polytechnic University of Marche, 60131 Ancona, Italy. Electronic address: f.verdini@univpm.it."
+          }
+        ],
+        "LastName": "Verdini",
+        "ForeName": "Federica",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Biomed Inform",
+    "NlmUniqueID": "100970413",
+    "ISSNLinking": "1532-0464"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "classification"
+      ],
+      "DescriptorName": "Human Activities"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Markov Chains"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Video Recording"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ]
+}

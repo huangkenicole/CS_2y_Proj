@@ -1,0 +1,158 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34315934",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "15232",
+      "10.1038/s41598-021-94445-5"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "27"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "A data-driven approach to modeling cancer cell mechanics during microcirculatory transport.",
+    "Pagination": {
+      "StartPage": "15232",
+      "MedlinePgn": "15232"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In order to understand the effect of cellular level features on the transport of circulating cancer cells in the microcirculation, there has been an increasing reliance on high-resolution in silico models. Accurate simulation of cancer cells flowing with blood cells requires resolving cellular-scale interactions in 3D, which is a significant computational undertaking warranting a cancer cell model that is both computationally efficient yet sufficiently complex to capture relevant behavior. Given that the characteristics of metastatic spread are known to depend on cancer type, it is crucial to account for mechanistic behavior representative of a specific cancer's cells. To address this gap, in the present work we develop and validate a means by which an efficient and popular membrane model-based approach can be used to simulate deformable cancer cells and reproduce experimental data from specific cell lines. Here, cells are modeled using the immersed boundary method (IBM) within a lattice Boltzmann method (LBM) fluid solver, and the finite element method (FEM) is used to model cell membrane resistance to deformation. Through detailed comparisons with experiments, we (i) validate this model to represent cancer cells undergoing large deformation, (ii) outline a systematic approach to parameterize different cell lines to optimally fit experimental data over a range of deformations, and (iii) provide new insight into nucleated vs. non-nucleated cell models and their ability to match experiments. While many works have used the membrane-model based method employed here to model generic cancer cells, no quantitative comparisons with experiments exist in the literature for specific cell lines undergoing large deformation. Here, we describe a phenomenological, data-driven approach that can not only yield good agreement for large deformations, but explicitly detail how it can be used to represent different cancer cell lines. This model is readily incorporated into cell-resolved hemodynamic transport simulations, and thus offers significant potential to complement experiments towards providing new insights into various aspects of cancer progression."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Balogh",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Sciences and Engineering, Oak Ridge National Laboratory, Oak Ridge, TN, USA."
+          }
+        ],
+        "LastName": "Gounley",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Roychowdhury",
+        "ForeName": "Sayan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Duke University, Durham, NC, USA. amanda.randles@duke.edu."
+          }
+        ],
+        "LastName": "Randles",
+        "ForeName": "Amanda",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U01 CA253511",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Microcirculation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "blood supply",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

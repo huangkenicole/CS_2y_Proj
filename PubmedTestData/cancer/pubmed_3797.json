@@ -1,0 +1,135 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      " TCGA ",
+      " lncRNAs ",
+      " lung adenocarcinoma "
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32233597",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3934/mbe.2020083"
+    ],
+    "Journal": {
+      "ISSN": "1551-0018",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Dec",
+          "Day": "09"
+        }
+      },
+      "Title": "Mathematical biosciences and engineering : MBE",
+      "ISOAbbreviation": "Math Biosci Eng"
+    },
+    "ArticleTitle": "The signature lncRNAs associated with the lung adenocarcinoma patients prognosis.",
+    "Pagination": {
+      "StartPage": "1593",
+      "EndPage": "1603",
+      "MedlinePgn": "1593-1603"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Long non-coding RNAs (lncRNAs) consist of over 200 nucleotides and are not translated into proteins. Previous studies have shown the importance of lncRNAs in the development of the lung adenocarcinoma (LUAD). Emergence of the high-throughput sequencing technology has led to the identification of a lot of lncRNAs which plays important roles in various biological events. Increasingly evidence has revealed that aberrant lncRNAs expression is related to the development of various cancers. We analyzed the RNA-seq data of 551 lung adenocarcinoma patients downloaded from The Cancer Genome Atlas (TCGA). By analyzing the pre-cancerous and cancer tissues of the relevant patient transcriptomes, we discovered the significant lncRNAs associated with the lung adenocarcinoma. Based on their median score, the prognosis of the patients was categorized as either poor or favorable. Univariate and multivariate COX analysis were used to further analyze the differential lncRNAs. Co-expression and gene enrichment analysis were performed to further investigate the function of the related lncRNA. RNA-seq data analysis led to the discovery of the lncRNA, OGFRP1 as an interesting factor involved in the lung adenocarcinoma. Therefore, lncRNAs play an important role in the clinical diagnosis and the treatment of the lung adenocarcinoma."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Oncology, Shaoxing Hospital of Traditional Chinese Medicine, Shaoxing 312000, China."
+          }
+        ],
+        "LastName": "Ding",
+        "ForeName": "Yong",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, Zhejiang Jinhua Guangfu Hospital, Jinhua 321000, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Jian-Hong",
+        "Initials": "JH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci Eng",
+    "NlmUniqueID": "101197794",
+    "ISSNLinking": "1547-1063"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Long Noncoding"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Adenocarcinoma of Lung"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Long Noncoding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

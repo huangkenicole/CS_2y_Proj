@@ -1,0 +1,426 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34252080",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e3001333",
+      "10.1371/journal.pbio.3001333"
+    ],
+    "Journal": {
+      "ISSN": "1545-7885",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul"
+        }
+      },
+      "Title": "PLoS biology",
+      "ISOAbbreviation": "PLoS Biol"
+    },
+    "ArticleTitle": "Viral dynamics of acute SARS-CoV-2 infection and applications to diagnostic and public health strategies.",
+    "Pagination": {
+      "StartPage": "e3001333",
+      "MedlinePgn": "e3001333"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "SARS-CoV-2 infections are characterized by viral proliferation and clearance phases and can be followed by low-level persistent viral RNA shedding. The dynamics of viral RNA concentration, particularly in the early stages of infection, can inform clinical measures and interventions such as test-based screening. We used prospective longitudinal quantitative reverse transcription PCR testing to measure the viral RNA trajectories for 68 individuals during the resumption of the 2019-2020 National Basketball Association season. For 46 individuals with acute infections, we inferred the peak viral concentration and the duration of the viral proliferation and clearance phases. According to our mathematical model, we found that viral RNA concentrations peaked an average of 3.3 days (95% credible interval [CI] 2.5, 4.2) after first possible detectability at a cycle threshold value of 22.3 (95% CI 20.5, 23.9). The viral clearance phase lasted longer for symptomatic individuals (10.9 days [95% CI 7.9, 14.4]) than for asymptomatic individuals (7.8 days [95% CI 6.1, 9.7]). A second test within 2 days after an initial positive PCR test substantially improves certainty about a patient's infection stage. The effective sensitivity of a test intended to identify infectious individuals declines substantially with test turnaround time. These findings indicate that SARS-CoV-2 viral concentrations peak rapidly regardless of symptoms. Sequential tests can help reveal a patient's progress through infection stages. Frequent, rapid-turnaround testing is needed to effectively screen individuals before they become infectious."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6000-8387"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America."
+          }
+        ],
+        "LastName": "Kissler",
+        "ForeName": "Stephen M",
+        "Initials": "SM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America."
+          }
+        ],
+        "LastName": "Fauver",
+        "ForeName": "Joseph R",
+        "Initials": "JR"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3495-3796"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Real World Solutions, IQVIA, Durham, North Carolina, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+          }
+        ],
+        "LastName": "Mack",
+        "ForeName": "Christina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5400-4945"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America."
+          }
+        ],
+        "LastName": "Olesen",
+        "ForeName": "Scott W",
+        "Initials": "SW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Real World Solutions, IQVIA, Durham, North Carolina, United States of America."
+          }
+        ],
+        "LastName": "Tai",
+        "ForeName": "Caroline",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5337-6656"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Real World Solutions, IQVIA, Durham, North Carolina, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+          }
+        ],
+        "LastName": "Shiue",
+        "ForeName": "Kristin Y",
+        "Initials": "KY"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9675-0065"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America."
+          }
+        ],
+        "LastName": "Kalinich",
+        "ForeName": "Chaney C",
+        "Initials": "CC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Health Management and Policy, University of Michigan School of Public Health, Ann Arbor, Michigan, United States of America."
+          }
+        ],
+        "LastName": "Jednak",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7134-0956"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America."
+          }
+        ],
+        "LastName": "Ott",
+        "ForeName": "Isabel M",
+        "Initials": "IM"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0027-6480"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America."
+          }
+        ],
+        "LastName": "Vogels",
+        "ForeName": "Chantal B F",
+        "Initials": "CBF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quest Diagnostics, San Juan Capistrano, California, United States of America."
+          }
+        ],
+        "LastName": "Wohlgemuth",
+        "ForeName": "Jay",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioreference Laboratories, Elmwood Park, New Jersey, United States of America."
+          }
+        ],
+        "LastName": "Weisberger",
+        "ForeName": "James",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hospital for Special Surgery, New York, New York, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "National Basketball Association, New York, New York, United States of America."
+          }
+        ],
+        "LastName": "DiFiori",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6882-5496"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke Center for Antimicrobial Stewardship and Infection Prevention, Durham, North Carolina, United States of America."
+          }
+        ],
+        "LastName": "Anderson",
+        "ForeName": "Deverick J",
+        "Initials": "DJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Tennessee Health Science Center, Memphis, Tennessee, United States of America."
+          }
+        ],
+        "LastName": "Mancell",
+        "ForeName": "Jimmie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Aaron Diamond AIDS Research Center, Columbia University Vagelos College of Physicians and Surgeons, New York, New York, United States of America."
+          }
+        ],
+        "LastName": "Ho",
+        "ForeName": "David D",
+        "Initials": "DD"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2031-1933"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America."
+          }
+        ],
+        "LastName": "Grubaugh",
+        "ForeName": "Nathan D",
+        "Initials": "ND"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America."
+          }
+        ],
+        "LastName": "Grad",
+        "ForeName": "Yonatan H",
+        "Initials": "YH"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "T35 HL007649",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UL1 TR001863",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Biol",
+    "NlmUniqueID": "101183755",
+    "ISSNLinking": "1544-9173"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Athletes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Basketball"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Convalescence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prospective Studies"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Public Health"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "growth & development"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Severity of Illness Index"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Virus Replication"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Virus Shedding"
+    }
+  ],
+  "CoiStatement": "I have read the journal\u2019s policy and the authors of this manuscript have the following competing interests: JW is an employee of Quest Diagnostics. JW is an employee of Bioreference Laboratories. NDG has a consulting agreement for Tempus and receives financial support from Tempus to develop SARS-CoV-2 diagnostic tests. SMK, SWO, and YHG have a consulting agreement with the NBA."
+}

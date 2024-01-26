@@ -1,0 +1,217 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "MRI",
+      "Machine learning model",
+      "Rectal adenoma with canceration"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33646452",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10334-021-00915-2"
+    ],
+    "Journal": {
+      "ISSN": "1352-8661",
+      "JournalIssue": {
+        "Volume": "34",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Magma (New York, N.Y.)",
+      "ISOAbbreviation": "MAGMA"
+    },
+    "ArticleTitle": "Multiparametric MRI-based machine learning models for preoperatively predicting rectal adenoma with canceration.",
+    "Pagination": {
+      "StartPage": "707",
+      "EndPage": "716",
+      "MedlinePgn": "707-716"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To propose multiparametric MRI-based machine learning models and assess their ability to preoperatively predict rectal adenoma with canceration.",
+        "A total of 53 patients with postoperative pathology confirming rectal adenoma (n\u2009=\u200929) and adenoma with canceration (n\u2009=\u200924) were enrolled in this retrospective study. All patients were divided into a training cohort (n\u2009=\u200942) and a test cohort (n\u2009=\u200911). All patients underwent preoperative pelvic MR examination, including high-resolution T2-weighted imaging (HR-T2WI) and diffusion-weighted imaging (DWI). A total of 1396 radiomics features were extracted from the HR-T2WI and DWI sequences, respectively. The least absolute shrinkage and selection operator (LASSO) was utilized for feature selection from the radiomics feature sets from the HR-T2WI and DWI sequences and from the combined feature set with 2792 radiomics features incorporating two sequences. Five-fold cross-validation and two machine learning algorithms (logistic regression, LR; support vector machine, SVM) were utilized for model construction in the training cohort. The diagnostic performance of the models was evaluated by sensitivity, specificity and area under the curve (AUC) and compared with the Delong's test.",
+        "Ten, 8, and 25 optimal features were selected from 1396\u00a0HR-T2WI, 1396 DWI and 2792 combined features, respectively. Three group models were constructed using the selected features from HR-T2WI (Model<sub>T2</sub>), DWI (Model<sub>DWI</sub>) and the two sequences combined (Model<sub>combined</sub>). Model<sub>combined</sub> showed better prediction performance than Model<sub>T2</sub> and Model<sub>DWI</sub>. In Model<sub>combined</sub>, there was no significant difference between the LR and SVM algorithms (p\u2009=\u20090.4795), with AUCs in the test cohort of 0.867 and 0.900, respectively.",
+        "Multiparametric MRI-based machine learning models have the potential to predict rectal adenoma with canceration. Compared with Model<sub>T2</sub> and Model<sub>DWI</sub>, Model<sub>combined</sub> showed the best performance. Moreover, both LR and SVM have equal excellent performance for model construction."
+      ],
+      "CopyrightInformation": "\u00a9 2021. European Society for Magnetic Resonance in Medicine and Biology (ESMRMB)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Shandong Provincial Qianfoshan Hospital Affiliated To Shandong University, Jinan, Shandong, People's Republic of China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, The First Affiliated Hospital of Shandong First Medical University, Shandong Provincial Qianfoshan Hospital, Jinan, Shandong, People's Republic of China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Panpan",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, The First Affiliated Hospital of Shandong First Medical University, Shandong Provincial Qianfoshan Hospital, Jinan, Shandong, People's Republic of China."
+          }
+        ],
+        "LastName": "Song",
+        "ForeName": "Gesheng",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Shandong Provincial Qianfoshan Hospital Affiliated To Shandong University, Jinan, Shandong, People's Republic of China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Rui",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, The First Affiliated Hospital of Shandong First Medical University, Shandong Provincial Qianfoshan Hospital, Jinan, Shandong, People's Republic of China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Houying",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dongsheng Science and Technology Park, Huiying Medical Technology Co. Ltd, Room C103, B2, HaiDian, Beijing, 100192, People's Republic of China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Ran",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dongsheng Science and Technology Park, Huiying Medical Technology Co. Ltd, Room C103, B2, HaiDian, Beijing, 100192, People's Republic of China."
+          }
+        ],
+        "LastName": "Zuo",
+        "ForeName": "Panli",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, The First Affiliated Hospital of Shandong First Medical University, Shandong Provincial Qianfoshan Hospital, Jinan, Shandong, People's Republic of China. laycll@sina.com."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Aiyin",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2014SF118086",
+        "Agency": "Shandong Science and Technology Development Plan, China",
+        "Country": ""
+      },
+      {
+        "GrantID": "2016WS0475",
+        "Agency": "Shandong Medical and Health Science and Technology Development Plan, China",
+        "Country": ""
+      },
+      {
+        "GrantID": "2017WS879",
+        "Agency": "Shandong Medical and Health Science and Technology Development Plan, China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "MAGMA",
+    "NlmUniqueID": "9310752",
+    "ISSNLinking": "0968-5243"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Adenoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Multiparametric Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Rectal Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    }
+  ]
+}

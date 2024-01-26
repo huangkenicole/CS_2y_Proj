@@ -1,0 +1,196 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Epidemiology",
+      "epidemic stage classification",
+      "queueing",
+      "simulation",
+      "stochastic modeling"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34080487",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "00368504211017800",
+      "10.1177/00368504211017800"
+    ],
+    "Journal": {
+      "ISSN": "2047-7163",
+      "JournalIssue": {
+        "Volume": "104",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Season": "Apr-Jun"
+        }
+      },
+      "Title": "Science progress",
+      "ISOAbbreviation": "Sci Prog"
+    },
+    "ArticleTitle": "Building epidemic models for living populations and computer networks.",
+    "Pagination": {
+      "StartPage": "368504211017800",
+      "MedlinePgn": "368504211017800"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Accurate modeling of viral outbreaks in living populations and computer networks is a prominent research field. Many researchers are in search for simple and realistic models to manage preventive resources and implement effective measures against hazardous circumstances. The ongoing Covid-19 pandemic has revealed the fact about deficiencies in health resource planning of some countries having relatively high case count and death toll. A unique epidemic model incorporating stochastic processes and queuing theory is presented, which was evaluated by computer simulation using pre-processed data obtained from an urban clinic providing family health services. Covid-19 data from a local corona-center was used as the initial model parameters (e.g. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><msub><mrow><mi>R</mi></mrow><mrow><mn>0</mn></mrow></msub></mrow></math>, infection rate, local population size, number of contacts with infected individuals, and recovery rate). A long-run trend analysis for 1\u2009year was simulated. The results fit well to the current case data of the sample corona center. Effective preventive and reactive resource planning basically depends on accurately designed models, tools, and techniques needed for the prediction of feature threats, risks, and mitigation costs. In order to sufficiently analyze the transmission and recovery dynamics of epidemics it is important to choose concise mathematical models. Hence, a unique stochastic modeling approach tied to queueing theory and computer simulation has been chosen. The methods used here can also serve as a guidance for accurate modeling and classification of stages (or compartments) of epidemics in general."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-5150-3220"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Private Practice, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Kondakci",
+        "ForeName": "Suleyman",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kalabak Mah., Urla, Izmir, Turkey."
+          }
+        ],
+        "LastName": "Kondakci",
+        "ForeName": "Dilek Doruk",
+        "Initials": "DD"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Prog",
+    "NlmUniqueID": "0411361",
+    "ISSNLinking": "0036-8504"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "mortality",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Family Practice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hospitals, Urban"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Immunological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Population Density"
+    },
+    {
+      "QualifierName": [
+        "organization & administration"
+      ],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Analysis"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Turkey"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "The author(s) declared no potential conflicts of interest with respect to the\nresearch, authorship, and/or publication of this article."
+}

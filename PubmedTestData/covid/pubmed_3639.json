@@ -1,0 +1,189 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "bioinformatics",
+      "feature selection",
+      "gene expression markers",
+      "random forest classifier"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35812497",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "901602",
+      "10.3389/fpubh.2022.901602"
+    ],
+    "Journal": {
+      "ISSN": "2296-2565",
+      "JournalIssue": {
+        "Volume": "10",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Frontiers in public health",
+      "ISOAbbreviation": "Front Public Health"
+    },
+    "ArticleTitle": "Screening of Gene Expression Markers for Corona Virus Disease 2019 Through Boruta_MCFS Feature Selection.",
+    "Pagination": {
+      "StartPage": "901602",
+      "MedlinePgn": "901602"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Since the first report of SARS-CoV-2 virus in Wuhan, China in December 2019, a global outbreak of Corona Virus Disease 2019 (COVID-19) pandemic has been aroused. In the prevention of this disease, accurate diagnosis of COVID-19 is the center of the problem. However, due to the limitation of detection technology, the test results are impossible to be totally free from pseudo-positive or -negative. Improving the precision of the test results asks for the identification of more biomarkers for COVID-19. On the basis of the expression data of COVID-19 positive and negative samples, we first screened the feature genes through ReliefF, minimal-redundancy-maximum-relevancy, and Boruta_MCFS methods. Thereafter, 36 optimal feature genes were selected through incremental feature selection method based on the random forest classifier, and the enriched biological functions and signaling pathways were revealed by Gene Ontology and Kyoto Encyclopedia of Genes and Genomes. Also, protein-protein interaction network analysis was performed on these feature genes, and the enriched biological functions and signaling pathways of main submodules were analyzed. In addition, whether these 36 feature genes could effectively distinguish positive samples from the negative ones was verified by dimensionality reduction analysis. According to the results, we inferred that the 36 feature genes selected via Boruta_MCFS could be deemed as biomarkers in COVID-19."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Sun, Zhang, Yang, Yao, Xu and Chen."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Affiliated Hospital of Jiaxing University, Jiaxing, China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Yanbao",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration in Affiliated Hospital of Jiaxing University/The First Hospital of Jiaxing, Jiaxing, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Qi",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration in Affiliated Hospital of Jiaxing University/The First Hospital of Jiaxing, Jiaxing, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Qi",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Pain Medicine in Affiliated Hospital of Jiaxing University/The First Hospital of Jiaxing, Jiaxing, China."
+          }
+        ],
+        "LastName": "Yao",
+        "ForeName": "Ming",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Xiuzhou Kang'an Hospital of Jiaxing, Jiaxing, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Fang",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration in Affiliated Hospital of Jiaxing University/The First Hospital of Jiaxing, Jiaxing, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Wenyu",
+        "Initials": "W"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Front Public Health",
+    "NlmUniqueID": "101616579",
+    "ISSNLinking": "2296-2565"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Ontology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

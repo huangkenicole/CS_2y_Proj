@@ -1,0 +1,154 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "epidemiology",
+      "genomics",
+      "imaging",
+      "machine learning",
+      "pharmacology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34788381",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab456",
+      "10.1093/bib/bbab456"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "17"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Impact of computational approaches in the fight against COVID-19: an AI guided review of 17 000 studies.",
+    "Abstract": {
+      "AbstractText": [
+        "SARS-CoV-2 caused the first severe pandemic of the digital era. Computational approaches have been ubiquitously used in an attempt to timely and effectively cope with the resulting global health crisis. In order to extensively assess such contribution, we collected, categorized and prioritized over 17 000 COVID-19-related research articles including both peer-reviewed and preprint publications that make a relevant use of computational approaches. Using machine learning methods, we identified six broad application areas i.e. Molecular Pharmacology and Biomarkers, Molecular Virology, Epidemiology, Healthcare, Clinical Medicine and Clinical Imaging. We then used our prioritization model as a guidance through an extensive, systematic review of the most relevant studies. We believe that the remarkable contribution provided by computational applications during the ongoing pandemic motivates additional efforts toward their further development and adoption, with the aim of enhancing preparedness and critical response for current and future emergencies."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Bioscience Research Center, King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Makkah, Saudi Arabia."
+          }
+        ],
+        "LastName": "Napolitano",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Bioscience Research Center, King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Makkah, Saudi Arabia."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Xiaopeng",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Bioscience Research Center, King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Makkah, Saudi Arabia."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Xin",
+        "Initials": "X"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "BAS/1/1624-01",
+        "Agency": "KAUST",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics",
+        "metabolism",
+        "therapy"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Global Health"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

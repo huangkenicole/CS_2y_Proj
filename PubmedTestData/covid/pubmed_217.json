@@ -1,0 +1,201 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "drug combination",
+      "drug repurposing",
+      "systems pharmacology analysis",
+      "virus knowledgebase"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32715315",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/bib/bbaa155"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Virus-CKB: an integrated bioinformatics platform and analysis resource for COVID-19 research.",
+    "Pagination": {
+      "StartPage": "882",
+      "EndPage": "895",
+      "MedlinePgn": "882-895"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Given the scale and rapid spread of the coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), there is an urgent need for medicines that can help before vaccines are available. In this study, we present a viral-associated disease-specific chemogenomics knowledgebase (Virus-CKB) and apply our computational systems pharmacology-target mapping to rapidly predict the FDA-approved drugs which can quickly progress into clinical trials to meet the urgent demand of the COVID-19 outbreak. Virus-CKB reuses the underlying platform of our DAKB-GPCRs but adds new features like multiple-compound support, multi-cavity protein support and customizable symbol display. Our one-stop computing platform describes the chemical molecules, genes and proteins involved in viral-associated diseases regulation. To date, Virus-CKB archived 65 antiviral drugs in the market, 107 viral-related targets with 189 available 3D crystal or cryo-EM structures and 2698 chemical agents reported for these target proteins. Moreover, Virus-CKB is implemented with web applications for the prediction of the relevant protein targets and analysis and visualization of the outputs, including HTDocking, TargetHunter, BBB predictor, NGL Viewer, Spider Plot, etc. The Virus-CKB server is accessible at https://www.cbligand.org/g/virus-ckb."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy, University of Pittsburgh."
+          }
+        ],
+        "LastName": "Feng",
+        "ForeName": "Zhiwei",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "South China Agricultural University, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Maozi",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Jiangnan University, China."
+          }
+        ],
+        "LastName": "Liang",
+        "ForeName": "Tianjian",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy, University of Pittsburgh."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Mingzhe",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy, University of Pittsburgh."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Hui",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy and a Professor of Pharmaceutical Sciences."
+          }
+        ],
+        "LastName": "Xie",
+        "ForeName": "Xiang-Qun",
+        "Initials": "XQ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 DA035778",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Docking Simulation"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

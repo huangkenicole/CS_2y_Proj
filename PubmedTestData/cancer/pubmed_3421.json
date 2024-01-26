@@ -1,0 +1,167 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33945469",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "11",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TBME.2021.3077582"
+    ],
+    "Journal": {
+      "ISSN": "1558-2531",
+      "JournalIssue": {
+        "Volume": "68",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec"
+        }
+      },
+      "Title": "IEEE transactions on bio-medical engineering",
+      "ISOAbbreviation": "IEEE Trans Biomed Eng"
+    },
+    "ArticleTitle": "Hybrid Spectral-IRDx: Near-IR and Ultrasound Attenuation System for Differentiating Breast Cancer From Adjacent Normal Tissue.",
+    "Pagination": {
+      "StartPage": "3554",
+      "EndPage": "3563",
+      "MedlinePgn": "3554-3563"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "While performing surgical excision for breast cancer (lumpectomy), it is important to ensure a clear margin of normal tissue around the cancer to achieve complete resection. The current standard is histopathology; however, it is time-consuming and labour-intensive requiring skilled personnel.",
+        "We describe a Hybrid Spectral-IRDx - a combination of the previously reported Spectral-IRDx tool with multimodal ultrasound and NIR spectroscopy techniques. We show how this portable, cost-effective, minimal-contact tool could provide rapid diagnosis of cancer using formalin-fixed (FF) and deparaffinized (DP) breast biopsy tissues.",
+        "Using this new tool, measurements were performed on cancerous/fibroadenoma and its adjacent normal tissues from the same patients (N = 14). The acoustic attenuation coefficient (\u03b1) and reduced scattering coefficient (\u00b5'<sub>s</sub>) (at 850, 940, and 1060 nm) for the cancerous/fibroadenoma tissues were reported to be higher compared to adjacent normal tissues, a basis of delineation. Comparing FF cancerous and adjacent normal tissue, the difference in \u00b5'<sub>s</sub> at 850 nm and 940 nm were statistically significant (p = 3.17e-2 and 7.94e-3 respectively). The difference in \u03b1 between the cancerous and adjacent normal tissues for DP and FF tissues were also statistically significant (p = 2.85e-2 and 7.94e-3 respectively). Combining multimodal parameters \u03b1 and \u00b5'<sub>s</sub> (at 940 nm) show highest statistical significance (p = 6.72e-4) between FF cancerous/fibroadenoma and adjacent normal tissues.",
+        "We show that Hybrid Spectral-IRDx can accurately delineate between cancerous and adjacent normal breast biopsy tissue.",
+        "The results obtained establish the proof-of-principle and large-scale testing of this multimodal breast cancer diagnostic platform for core biopsy diagnosis."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pal",
+        "ForeName": "Uttam M",
+        "Initials": "UM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Nayak",
+        "ForeName": "Ashika",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Medisetti",
+        "ForeName": "Tejaswi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gogoi",
+        "ForeName": "Gayatri",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Shekhar",
+        "ForeName": "Himanshu",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Prasad",
+        "ForeName": "M S N",
+        "Initials": "MSN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Vaidya",
+        "ForeName": "Jayant S",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pandya",
+        "ForeName": "Hardik J",
+        "Initials": "HJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Biomed Eng",
+    "NlmUniqueID": "0012737",
+    "ISSNLinking": "0018-9294"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biopsy"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Breast"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "surgery"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mastectomy, Segmental"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spectroscopy, Near-Infrared"
+    }
+  ]
+}

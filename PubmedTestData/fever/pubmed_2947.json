@@ -1,0 +1,638 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "RNA-seq",
+      "Translation to patients",
+      "biomarkers",
+      "gene expression",
+      "host response",
+      "infectious disease",
+      "inflammatory disease",
+      "machine learning",
+      "multi-class classification",
+      "point-of-care diagnostics",
+      "transcriptomics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37597512",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "08",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.medj.2023.06.007",
+      "S2666-6340(23)00194-0"
+    ],
+    "Journal": {
+      "ISSN": "2666-6340",
+      "JournalIssue": {
+        "Volume": "4",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep",
+          "Day": "08"
+        }
+      },
+      "Title": "Med (New York, N.Y.)",
+      "ISOAbbreviation": "Med"
+    },
+    "ArticleTitle": "Diagnosis of childhood febrile illness using a multi-class blood RNA molecular signature.",
+    "Pagination": {
+      "StartPage": "635",
+      "EndPage": "654.e5",
+      "MedlinePgn": "635-654.e5"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Appropriate treatment and management of children presenting with fever depend on accurate and timely diagnosis, but current diagnostic tests lack sensitivity and specificity and are frequently too slow to inform initial treatment. As an alternative to pathogen detection, host gene expression signatures in blood have shown promise in discriminating several infectious and inflammatory diseases in a dichotomous manner. However, differential diagnosis requires simultaneous consideration of multiple diseases. Here, we show that diverse infectious and inflammatory diseases can be discriminated by the expression levels of a single panel of genes in blood.",
+        "A multi-class supervised machine-learning approach, incorporating clinical consequence of misdiagnosis as a \"cost\" weighting, was applied to a whole-blood transcriptomic microarray dataset, incorporating 12 publicly available datasets, including 1,212 children with 18 infectious or inflammatory diseases. The transcriptional panel identified was further validated in a new RNA sequencing dataset comprising 411 febrile children.",
+        "We identified 161 transcripts that classified patients into 18 disease categories, reflecting individual causative pathogen and specific disease, as well as reliable prediction of broad classes comprising bacterial infection, viral infection, malaria, tuberculosis, or inflammatory disease. The transcriptional panel was validated in an independent cohort and benchmarked against existing dichotomous RNA signatures.",
+        "Our data suggest that classification of febrile illness can be achieved with a single blood sample and opens the way for a new approach for clinical diagnosis.",
+        "European Union's Seventh Framework no. 279185; Horizon2020 no. 668303 PERFORM; Wellcome Trust (206508/Z/17/Z); Medical Research Foundation (MRF-160-0008-ELP-KAFO-C0801); NIHR Imperial BRC."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 The Author(s). Published by Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Paediatric Infectious Disease and Centre for Paediatrics & Child Health, Department of Infectious Disease, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Habgood-Coote",
+        "ForeName": "Dominic",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Paediatric Infectious Disease and Centre for Paediatrics & Child Health, Department of Infectious Disease, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Wilson",
+        "ForeName": "Clare",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Rady Children's Hospital San Diego/University of California San Diego School of Medicine, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Shimizu",
+        "ForeName": "Chisato",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatric Immunology, Rheumatology and Infectious Diseases, Emma Children's Hospital, Amsterdam University Medical Center (AUMC), University of Amsterdam, Amsterdam, the Netherlands."
+          }
+        ],
+        "LastName": "Barendregt",
+        "ForeName": "Anouk M",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Radboud Institute for Molecular Life Sciences, Radboud University Medical Center, Department of Laboratory Medicine, Nijmegen, the Netherlands."
+          }
+        ],
+        "LastName": "Philipsen",
+        "ForeName": "Ria",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Paediatric Infectious Disease and Centre for Paediatrics & Child Health, Department of Infectious Disease, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Galassini",
+        "ForeName": "Rachel",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pediatrics Department, Translational Pediatrics and Infectious Diseases Section, Santiago de Compostela, Spain; Genetics- Vaccines- Infectious Diseases and Pediatrics Research Group GENVIP, Instituto de Investigaci\u00f3n Sanitaria de Santiago (IDIS), Santiago de Compostela, Spain."
+          }
+        ],
+        "LastName": "Calle",
+        "ForeName": "Irene Rivero",
+        "Initials": "IR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Paediatrics & Child Health, Red Cross Childrens Hospital and SA-MRC Unit on Child & Adolescent Health, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Workman",
+        "ForeName": "Lesley",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland."
+          }
+        ],
+        "LastName": "Agyeman",
+        "ForeName": "Philipp K A",
+        "Initials": "PKA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Radboud Institute for Molecular Life Sciences, Radboud University Medical Center, Department of Laboratory Medicine, Nijmegen, the Netherlands."
+          }
+        ],
+        "LastName": "Ferwerda",
+        "ForeName": "Gerben",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Research Council Unit, Fajara, The Gambia at the London School of Hygiene and Tropical Medicine, MRCG at LSHTM Fajara, Banjul, The Gambia."
+          }
+        ],
+        "LastName": "Anderson",
+        "ForeName": "Suzanne T",
+        "Initials": "ST"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatric Immunology, Rheumatology and Infectious Diseases, Emma Children's Hospital, Amsterdam University Medical Center (AUMC), University of Amsterdam, Amsterdam, the Netherlands."
+          }
+        ],
+        "LastName": "van den Berg",
+        "ForeName": "J Merlijn",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Great North Children's Hospital, Department of Paediatric Immunology, Infectious Diseases & Allergy and NIHR Newcastle Biomedical Research Centre, Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle Upon Tyne, UK; Translational and Clinical Research Institute, Newcastle University, Newcastle Upon Tyne, UK."
+          }
+        ],
+        "LastName": "Emonts",
+        "ForeName": "Marieke",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Infection, Microbiology and Immunology, University of Liverpool Institute of Infection, Veterinary and Ecological Sciences, Liverpool, UK."
+          }
+        ],
+        "LastName": "Carrol",
+        "ForeName": "Enitan D",
+        "Initials": "ED"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Micropathology Ltd Research and Diagnosis, Coventry, UK; University of Warwick, Coventry, UK."
+          }
+        ],
+        "LastName": "Fink",
+        "ForeName": "Colin G",
+        "Initials": "CG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Radboud Institute for Molecular Life Sciences, Radboud University Medical Center, Department of Laboratory Medicine, Nijmegen, the Netherlands."
+          }
+        ],
+        "LastName": "de Groot",
+        "ForeName": "Ronald",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infection Biology, Faculty of Infectious and Tropical Disease, London School of Hygiene and Tropical Medicine, London, UK."
+          }
+        ],
+        "LastName": "Hibberd",
+        "ForeName": "Martin L",
+        "Initials": "ML"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Rady Children's Hospital San Diego/University of California San Diego School of Medicine, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Kanegaye",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Marshall Centre, School of Biomedical Sciences, University of Western Australia, Perth, Australia."
+          }
+        ],
+        "LastName": "Nicol",
+        "ForeName": "Mark P",
+        "Initials": "MP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Infection, Microbiology and Immunology, University of Liverpool Institute of Infection, Veterinary and Ecological Sciences, Liverpool, UK; Oxford Vaccine Group, Department of Paediatrics, University of Oxford and the NIHR Oxford Biomedical Research Centre, Oxford, UK."
+          }
+        ],
+        "LastName": "Paulus",
+        "ForeName": "St\u00e9phane",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford Vaccine Group, Department of Paediatrics, University of Oxford and the NIHR Oxford Biomedical Research Centre, Oxford, UK."
+          }
+        ],
+        "LastName": "Pollard",
+        "ForeName": "Andrew J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pediatrics Department, Translational Pediatrics and Infectious Diseases Section, Santiago de Compostela, Spain; Genetics- Vaccines- Infectious Diseases and Pediatrics Research Group GENVIP, Instituto de Investigaci\u00f3n Sanitaria de Santiago (IDIS), Santiago de Compostela, Spain; Unidade de Xen\u00e9tica, Instituto de Ciencias Forenses (INCIFOR), Facultade de Medicina, Universidade de Santiago de Compostela, and GenPoB Research Group, Instituto de Investigaci\u00f3n Sanitaria (IDIS), Hospital Cl\u00ednico Universitario de Santiago (SERGAS), 15706 Galicia, Spain."
+          }
+        ],
+        "LastName": "Salas",
+        "ForeName": "Antonio",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Research Council Unit, Fajara, The Gambia at the London School of Hygiene and Tropical Medicine, MRCG at LSHTM Fajara, Banjul, The Gambia."
+          }
+        ],
+        "LastName": "Secka",
+        "ForeName": "Fatou",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pediatric and Neonatal Intensive Care Unit, and Children`s Research Center, University Children's Hospital Zurich, Zurich, Switzerland; Child Health Research Centre, The University of Queensland, and Paediatric Intensive Care Unit, Queensland Children's Hospital, Brisbane, QLD, Australia."
+          }
+        ],
+        "LastName": "Schlapbach",
+        "ForeName": "Luregn J",
+        "Initials": "LJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Rady Children's Hospital San Diego/University of California San Diego School of Medicine, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Tremoulet",
+        "ForeName": "Adriana H",
+        "Initials": "AH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Research Council Unit, Fajara, The Gambia at the London School of Hygiene and Tropical Medicine, MRCG at LSHTM Fajara, Banjul, The Gambia."
+          }
+        ],
+        "LastName": "Walther",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University Clinic of Paediatrics and Adolescent Medicine, Department of General Paediatrics, Medical University of Graz, Graz, Austria."
+          }
+        ],
+        "LastName": "Zenz",
+        "ForeName": "Werner",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "Pediatric Emergency Medicine Kawasaki Disease Research Group (PEMKDRG)"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "UK Kawasaki Genetics consortium"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "GENDRES consortium"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "EUCLIDS consortium"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "PERFORM consortium"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paediatric Infectious Diseases and Immunology, Wilhelmina Children's Hospital, University Medical Center Utrecht, Utrecht, the Netherlands; Paediatric Infectious Diseases and Immunology Amalia Children's Hospital, Radboudumc, Nijmegen, the Netherlands."
+          }
+        ],
+        "LastName": "Van der Flier",
+        "ForeName": "Michiel",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Paediatrics & Child Health, Red Cross Childrens Hospital and SA-MRC Unit on Child & Adolescent Health, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Zar",
+        "ForeName": "Heather J",
+        "Initials": "HJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatric Immunology, Rheumatology and Infectious Diseases, Emma Children's Hospital, Amsterdam University Medical Center (AUMC), University of Amsterdam, Amsterdam, the Netherlands; Department of Blood Cell Research, Sanquin Blood Supply, Division Research and Landsteiner Laboratory of Amsterdam UMC (AUMC), University of Amsterdam, Amsterdam, the Netherlands."
+          }
+        ],
+        "LastName": "Kuijpers",
+        "ForeName": "Taco",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Rady Children's Hospital San Diego/University of California San Diego School of Medicine, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Burns",
+        "ForeName": "Jane C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pediatrics Department, Translational Pediatrics and Infectious Diseases Section, Santiago de Compostela, Spain; Genetics- Vaccines- Infectious Diseases and Pediatrics Research Group GENVIP, Instituto de Investigaci\u00f3n Sanitaria de Santiago (IDIS), Santiago de Compostela, Spain."
+          }
+        ],
+        "LastName": "Martin\u00f3n-Torres",
+        "ForeName": "Federico",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Paediatric Infectious Disease and Centre for Paediatrics & Child Health, Department of Infectious Disease, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Wright",
+        "ForeName": "Victoria J",
+        "Initials": "VJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Coin",
+        "ForeName": "Lachlan J M",
+        "Initials": "LJM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Paediatric Infectious Disease and Centre for Paediatrics & Child Health, Department of Infectious Disease, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Cunnington",
+        "ForeName": "Aubrey J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Paediatric Infectious Disease and Centre for Paediatrics & Child Health, Department of Infectious Disease, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Herberg",
+        "ForeName": "Jethro A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Paediatric Infectious Disease and Centre for Paediatrics & Child Health, Department of Infectious Disease, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Levin",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Paediatric Infectious Disease and Centre for Paediatrics & Child Health, Department of Infectious Disease, Imperial College London, London, UK. Electronic address: m.kaforou@imperial.ac.uk."
+          }
+        ],
+        "LastName": "Kaforou",
+        "ForeName": "Myrsini",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "206508/Z/17/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MRF_MRF-160-0008-ELP-KAFO-C0801",
+        "Acronym": "MRF",
+        "Agency": "MRF",
+        "Country": "United Kingdom"
+      },
+      {
+        "Acronym": "DH_",
+        "Agency": "Department of Health",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Med",
+    "NlmUniqueID": "101769215",
+    "ISSNLinking": "2666-6340"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "63231-63-0",
+      "NameOfSubstance": "RNA"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleotide Motifs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Benchmarking"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomedical Research"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA"
+    }
+  ],
+  "CoiStatement": "Declaration of interests The authors declare that a patent application on the method described in this manuscript has been filed (2304229.4/GB/PRV, 23-03-2023)."
+}

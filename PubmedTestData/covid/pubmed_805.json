@@ -1,0 +1,297 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "gender difference",
+      "master regulator",
+      "zinc finger protein"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33907801",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab118",
+      "10.1093/bib/bbab118"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep",
+          "Day": "02"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Analyzing master regulators and scRNA-seq of COVID-19 patients reveals an underlying anti-SARS-CoV-2 mechanism of ZNF proteins.",
+    "Abstract": {
+      "AbstractText": [
+        "Studies have demonstrated that both mortality and severe illness rates exist significant difference in different gender COVID-19 patients, but the reasons are still very mysterious to date. Here, we firstly find that the survival outcome of female patients is better to male patients through analyzing the 3044 COVID-19 cases. Secondly, we identify many important master regulators [e.g. STAT1/STAT2 and zinc finger (ZNF) proteins], in particular female patients can express more ZNF proteins and stronger transcriptional activities than male patients in response to SARS-CoV-2 infection. Thirdly, we discover that ZNF protein activity is significantly negative correlation with the SARS-CoV-2 load of COVID-19 patients, and ZNF proteins as transcription factors can also activate their target genes to participate in anti-SARS-CoV-2 infection. Fourthly, we demonstrate that ZNF protein activity is positive correlation with the abundance of multiple immune cells of COVID-19 patients, implying that the highly ZNF protein activity might promote the abundance and the antiviral activity of multiple immune cells to effectively suppress SARS-CoV-2 infection. Taken together, our study proposes an underlying anti-SARS-COV-2 role of ZNF proteins, and differences in the amount and activity of ZNF proteins might be responsible for the distinct prognosis of different gender COVID-19 patients."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Comparative Genomics and Bioinformatics Laboratory of the College of Life Sciences, Nanjing Normal University, China."
+          }
+        ],
+        "LastName": "Qin",
+        "ForeName": "Shijie",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Research Center, Institute of laboratory medicine, Jinling Hospital, Nanjing University School of medicine, the first school of clinical medicine, Southern Medical University, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Weijun",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Comparative Genomics and Bioinformatics Laboratory of the College of Life Sciences, Nanjing Normal University, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Canbiao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Arts and Sciences, Emory University, Atlanta, USA."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Sizhu",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Research Center, Institute of laboratory medicine, Jinling Hospital, Nanjing University School of medicine, the first school of clinical medicine, Southern Medical University, China."
+          }
+        ],
+        "LastName": "Dai",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Research Center, Institute of laboratory medicine, Jinling Hospital, Nanjing University School of medicine, the first school of clinical medicine, Southern Medical University, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Yang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Research Center, Institute of laboratory medicine, Jinling Hospital, Nanjing University School of medicine, the first school of clinical medicine, Southern Medical University, China."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Jiawei",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Comparative Genomics and Bioinformatics, School of Life Sciences, Nanjing Normal University, China."
+          }
+        ],
+        "LastName": "Jin",
+        "ForeName": "Ping",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Comparative Genomics and Bioinformatics at the School of Life Sciences, Nanjing Normal University, China."
+          }
+        ],
+        "LastName": "Ma",
+        "ForeName": "Fei",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Research Center, Institute of Laboratory Medicine, Jinling Hospital, Nanjing University School of Medicine; Nanjing Clinical College of Southern Medical University, Nanjing, China."
+          }
+        ],
+        "LastName": "Xia",
+        "ForeName": "Xinyi",
+        "Initials": "X"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "Priority Academic Program Development of Jiangsu Higher Education Institutions",
+        "Country": ""
+      },
+      {
+        "GrantID": "JSFY202005",
+        "Agency": "Jiangsu Provincial Association for Maternal and Child Health Studies Commissioned Research",
+        "Country": ""
+      },
+      {
+        "GrantID": "JSPA2019017",
+        "Agency": "Foundation of Jiangsu Population Association",
+        "Country": ""
+      },
+      {
+        "GrantID": "18JS005",
+        "Agency": "Medical Innovation Project of Logistics Service",
+        "Country": ""
+      },
+      {
+        "GrantID": "BE2018713",
+        "Agency": "Key Research &amp; Development Program of Jiangsu Province",
+        "Country": ""
+      },
+      {
+        "GrantID": "2020[18]",
+        "Agency": "Key Foundation of Wuhan Huoshenshan Hospital",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Flow Cytometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lymphocyte Subsets"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Sequence Analysis, RNA"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Single-Cell Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Zinc Fingers"
+    }
+  ]
+}

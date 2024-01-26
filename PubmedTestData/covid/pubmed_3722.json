@@ -1,0 +1,226 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "CAR T-cell",
+      "COVID-19 diagnostics",
+      "antigen test",
+      "cell-based sensors",
+      "reporter cell"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35852348",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "07",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e00731-22",
+      "10.1128/spectrum.00731-22"
+    ],
+    "Journal": {
+      "ISSN": "2165-0497",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug",
+          "Day": "31"
+        }
+      },
+      "Title": "Microbiology spectrum",
+      "ISOAbbreviation": "Microbiol Spectr"
+    },
+    "ArticleTitle": "Cell-Based Platform for Antigen Testing and Its Application for SARS-CoV-2 Infection.",
+    "Pagination": {
+      "StartPage": "e0073122",
+      "MedlinePgn": "e0073122"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We have engineered a cell that can be used for diagnosing active severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections. Isolation of individuals with active infections offers an effective solution for mitigating pandemics. However, the implementation of this practice requires robust infrastructure for rapid and intuitive testing, which is currently missing in our communities. To address this need, we engineered a fast-growing cell line into a cell-based antigen test platform for emerging viruses, i.e., DxCell, that can be rapidly deployed in decentralized health care facilities for continuous testing. The technology was characterized using cells engineered to present spike glycoprotein of SARS-CoV-2 (SARS-CoV-2-Sgp-cells) and Calu-3 host cells infected with competent SARS-CoV-2. Preclinical validation was conducted by directly incubating the DxCell with oropharyngeal swabs from mice infected with SARS-CoV-2. No sample preparation steps are necessary. The DxCell quantitatively detected the SARS-CoV-2-Sgp-cells within 1\u2009h (<i>P</i>\u2009<\u20090.02). Reporter signal was proportional to the number of SARS-CoV-2-Sgp-cells, which represents the infection burden. The SARS-CoV-2 DxCell antigen test was benchmarked against quantitative PCR (qPCR) test and accurately differentiated between infected (<i>n</i>\u2009=\u20098) and control samples (<i>n</i>\u2009=\u20093) (<i>P</i>\u2009<\u20090.05). To demonstrate the broad applicability of the platform, we successfully redirected its specificity and tested its sensing function with cells engineered to present antigens from other viruses. In conclusion, we have developed an antigen test platform that capitalizes on the two innate functions of the cell, self-replication and activation-induced cell signaling. These provide the DxCell key advantages over existing technologies, e.g., label-free testing without sample processing, and will facilitate its implementation in decentralized health care facilities. <b>IMPORTANCE</b> Pandemic mitigation requires continuous testing of symptomatic or asymptomatic individuals with rapid turnaround time, and lack of this capability in our community has prolonged pandemic duration leading to obliteration of world economies. The DxCell platform is a cell-based self-replicative antigen test that detects molecular signatures of the target pathogen and can be distributed in small quantities to testing facilities for expansion on site to the desired volume. In this work, we directed this platform to target SARS-CoV-2. Unlike the PCR detection of viral mRNA that requires trained personnel, the DxCell does not require any sample preparation or signal amplification step and introduces an opportunity for a decentralized testing network."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6869-8025"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biosciences Division, SRI Internationalgrid.98913.3a, Menlo Park, California, USA."
+          }
+        ],
+        "LastName": "Ssemadaali",
+        "ForeName": "Marvin A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biosciences Division, SRI Internationalgrid.98913.3a, Menlo Park, California, USA."
+          }
+        ],
+        "LastName": "Newmyer",
+        "ForeName": "Sherri",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biosciences Division, SRI Internationalgrid.98913.3a, Menlo Park, California, USA."
+          }
+        ],
+        "LastName": "Radhakrishnan",
+        "ForeName": "Harikrishnan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Microbiology and Immunology, University of California Davis, Davis, California, USA."
+          }
+        ],
+        "LastName": "Arredondo",
+        "ForeName": "Juan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Education Division, SRI Internationalgrid.98913.3a, Menlo Park, California, USA."
+          }
+        ],
+        "LastName": "Javitz",
+        "ForeName": "Harold S",
+        "Initials": "HS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Microbiology and Immunology, University of California Davis, Davis, California, USA."
+          }
+        ],
+        "LastName": "Dandekar",
+        "ForeName": "Satya",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9783-3364"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biosciences Division, SRI Internationalgrid.98913.3a, Menlo Park, California, USA."
+          }
+        ],
+        "LastName": "Bhatnagar",
+        "ForeName": "Parijat",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "DP2 EB024245",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R33 CA247739",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 CA236640",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Microbiol Spectr",
+    "NlmUniqueID": "101634614",
+    "ISSNLinking": "2165-0497"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Specimen Handling"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

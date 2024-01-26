@@ -1,0 +1,552 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "algorithms",
+      "genomics",
+      "population surveillance",
+      "precision medicine",
+      "public health"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35634961",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e634",
+      "10.1002/iid3.634"
+    ],
+    "Journal": {
+      "ISSN": "2050-4527",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Immunity, inflammation and disease",
+      "ISOAbbreviation": "Immun Inflamm Dis"
+    },
+    "ArticleTitle": "Precision health diagnostic and surveillance network uses S gene target failure (SGTF) combined with sequencing technologies to track emerging SARS-CoV-2 variants.",
+    "Pagination": {
+      "StartPage": "e634",
+      "MedlinePgn": "e634"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic revealed a worldwide lack of effective molecular surveillance networks at local, state, and national levels, which are essential to identify, monitor, and limit viral community spread. SARS-CoV-2 variants of concern (VOCs) such as Alpha and Omicron, which show increased transmissibility and immune evasion, rapidly became dominant VOCs worldwide. Our objective was to develop an evidenced-based genomic surveillance algorithm, combining reverse transcription polymerase chain reaction (RT-PCR) and sequencing technologies to quickly identify highly contagious VOCs, before cases accumulate exponentially.",
+        "Deidentified data were obtained from 508,969 patients tested for coronavirus disease 2019 (COVID-19) with the TaqPath COVID-19 RT-PCR Combo Kit (ThermoFisher) in four CLIA-certified clinical laboratories in Puerto Rico (n\u2009=\u200986,639) and in three CLIA-certified clinical laboratories in the United States (n\u2009=\u2009422,330).",
+        "TaqPath data revealed a frequency of S Gene Target Failure (SGTF)\u2009>\u200947% for the last week of March 2021 in both, Puerto Rico and US laboratories. The monthly frequency of SGTF in Puerto Rico steadily increased exponentially from 4% in November 2020 to 47% in March 2021. The weekly SGTF rate in US samples was high (>8%) from late December to early January and then also increased exponentially through April (48%). The exponential increase in SGFT prevalence in Puerto Rico was concurrent with a sharp increase in VOCs among all SARS-CoV-2 sequences from Puerto Rico uploaded to Global Influenza Surveillance and Response System (GISAID) (n\u2009=\u2009461). Alpha variant frequency increased from <1% in the last week of January 2021 to 51.5% of viral sequences from Puerto Rico collected in the last week of March 2021.",
+        "According to the proposed evidence-based algorithm, approximately 50% of all SGTF patients should be managed with VOCs self-quarantine and contact tracing protocols, while WGS confirms their lineage in genomic surveillance laboratories. Our results suggest this workflow is useful for tracking VOCs with SGTF."
+      ],
+      "CopyrightInformation": "\u00a9 2022 The Authors. Immunity, Inflammation and Disease published by John Wiley & Sons Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-3069-9583"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "LifeGene-Biomarks, Inc, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Guerrero-Preston",
+        "ForeName": "Rafael",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Research Resources, Ponce Health Sciences University-Ponce Research Institute, Ponce, Puerto Rico."
+          }
+        ],
+        "LastName": "Rivera-Amill",
+        "ForeName": "Vanessa",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "LifeGene-Biomarks, Inc, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Caraballo",
+        "ForeName": "Karem",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA."
+          }
+        ],
+        "LastName": "Rodr\u00edguez-Torres",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "LifeGene-Biomarks, Inc, San Juan, Puerto Rico."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biology Department, University of Puerto Rico, R\u00edo, Piedras, Puerto Rico."
+          }
+        ],
+        "LastName": "Purcell-Wiltz",
+        "ForeName": "Ana",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Research Resources, Ponce Health Sciences University-Ponce Research Institute, Ponce, Puerto Rico."
+          }
+        ],
+        "LastName": "Garc\u00eda",
+        "ForeName": "Andrea A",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Research Resources, Ponce Health Sciences University-Ponce Research Institute, Ponce, Puerto Rico."
+          }
+        ],
+        "LastName": "Torres",
+        "ForeName": "Raphael S",
+        "Initials": "RS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Zamuner",
+        "ForeName": "Fernando T",
+        "Initials": "FT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, Cornell University, New York, New York, USA."
+          }
+        ],
+        "LastName": "Zanettini",
+        "ForeName": "Claudio",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tempus Labs, Inc, Chicago, Illinois, USA."
+          }
+        ],
+        "LastName": "MacKay",
+        "ForeName": "Matthew J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tempus Labs, Inc, Chicago, Illinois, USA."
+          }
+        ],
+        "LastName": "Baits",
+        "ForeName": "Rachel",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tempus Labs, Inc, Chicago, Illinois, USA."
+          }
+        ],
+        "LastName": "Salgado",
+        "ForeName": "Daisy",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tempus Labs, Inc, Chicago, Illinois, USA."
+          }
+        ],
+        "LastName": "Khullar",
+        "ForeName": "Gaurav",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tempus Labs, Inc, Chicago, Illinois, USA."
+          }
+        ],
+        "LastName": "Metti",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tempus Labs, Inc, Chicago, Illinois, USA."
+          }
+        ],
+        "LastName": "Baker",
+        "ForeName": "Timothy",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tempus Labs, Inc, Chicago, Illinois, USA."
+          }
+        ],
+        "LastName": "Dudley",
+        "ForeName": "Joel",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "LifeGene-Biomarks, Inc, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Vale",
+        "ForeName": "Keilyn",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Neurology Medicine Department, Palmetto General Hospital, Miami, Florida, USA."
+          }
+        ],
+        "LastName": "P\u00e9rez",
+        "ForeName": "Gabriela",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "LifeGene-Biomarks, Inc, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "De Jes\u00fas",
+        "ForeName": "Lorena",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "LifeGene-Biomarks, Inc, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Miranda",
+        "ForeName": "Yaima",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "LifeGene-Biomarks, Inc, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Ortiz",
+        "ForeName": "Denise",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "LifeGene-Biomarks, Inc, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Garc\u00eda-Negr\u00f3n",
+        "ForeName": "Amanda",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, University of Puerto Rico School of Medicine, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Viera",
+        "ForeName": "Liliana",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Internal Medicine Department, University of Puerto Rico School of Medicine, San, Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Ortiz",
+        "ForeName": "Alberto",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Internal Medicine Department, University of Puerto Rico School of Medicine, San, Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Canabal",
+        "ForeName": "Jorge A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Obstetrics and Gynecology Department, University of Puerto Rico School of Medicine, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Romaguera",
+        "ForeName": "Josefina",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Internal Medicine Department, University of Puerto Rico School of Medicine, San, Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Jim\u00e9nez-Vel\u00e1zquez",
+        "ForeName": "Ivonne",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Marchionni",
+        "ForeName": "Luigi",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biochemistry Department, University of Puerto Rico School of Medicine, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Rodr\u00edguez-Orengo",
+        "ForeName": "Jos\u00e9 F",
+        "Initials": "JF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Otolaryngology Department, University of Puerto Rico School of Medicine, San Juan, Puerto Rico."
+          }
+        ],
+        "LastName": "Baez",
+        "ForeName": "Adriana",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tempus Labs, Inc, Chicago, Illinois, USA."
+          }
+        ],
+        "LastName": "Mason",
+        "ForeName": "Christopher E",
+        "Initials": "CE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Sidransky",
+        "ForeName": "David",
+        "Initials": "D"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R44 CA254690",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54 MD007579",
+        "Acronym": "MD",
+        "Agency": "NIMHD NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R44CA254690",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R44 MD014911",
+        "Acronym": "MD",
+        "Agency": "NIMHD NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R44MD014911",
+        "Acronym": "MD",
+        "Agency": "NIMHD NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01CA84986",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 CA084986",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Immun Inflamm Dis",
+    "NlmUniqueID": "101635460",
+    "ISSNLinking": "2050-4527"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Base Sequence"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Precision Medicine"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    }
+  ],
+  "CoiStatement": "Matthew J. MacKay, Rachel Baits, Daisy Salgado, Gaurav Khullar, Jessica Metti, Timothy Baker, Joel Dudley, and Christopher E. Mason, work for Tempus Labs. Rafael Guerrero\u2010Preston works for LifeGene\u2010Biomarks. The remaining authors declare no conflict of interest."
+}

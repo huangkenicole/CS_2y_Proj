@@ -1,0 +1,233 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "ferrets",
+      "viral dynamics",
+      "within-host modeling"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34452499",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1635",
+      "10.3390/v13081635"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug",
+          "Day": "18"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Modeling Within-Host Dynamics of SARS-CoV-2 Infection: A Case Study in Ferrets.",
+    "Abstract": {
+      "AbstractText": [
+        "The pre-clinical development of antiviral agents involves experimental trials in animals and ferrets as an animal model for the study of SARS-CoV-2. Here, we used mathematical models and experimental data to characterize the within-host infection dynamics of SARS-CoV-2 in ferrets. We also performed a global sensitivity analysis of model parameters impacting the characteristics of the viral infection. We provide estimates of the viral dynamic parameters in ferrets, such as the infection rate, the virus production rate, the infectious virus proportion, the infected cell death rate, the virus clearance rate, as well as other related characteristics, including the basic reproduction number, pre-peak infectious viral growth rate, post-peak infectious viral decay rate, pre-peak infectious viral doubling time, post-peak infectious virus half-life, and the target cell loss in the respiratory tract. These parameters and indices are not significantly different between animals infected with viral strains isolated from the environment and isolated from human hosts, indicating a potential for transmission from fomites. While the infection period in ferrets is relatively short, the similarity observed between our results and previous results in humans supports that ferrets can be an appropriate animal model for SARS-CoV-2 dynamics-related studies, and our estimates provide helpful information for such studies."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3502-2464"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, San Diego State University, San Diego, CA 92182, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Science Research Center, San Diego State University, San Diego, CA 92182, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Information Institute, San Diego State University, San Diego, CA 92182, USA."
+          }
+        ],
+        "LastName": "Vaidya",
+        "ForeName": "Naveen K",
+        "Initials": "NK"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3653-603X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, San Diego State University, San Diego, CA 92182, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Science Research Center, San Diego State University, San Diego, CA 92182, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Information Institute, San Diego State University, San Diego, CA 92182, USA."
+          }
+        ],
+        "LastName": "Bloomquist",
+        "ForeName": "Angelica",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2455-0002"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Los Alamos National Laboratory, Theoretical Biology and Biophysics Group, Los Alamos, NM 87545, USA."
+          }
+        ],
+        "LastName": "Perelson",
+        "ForeName": "Alan S",
+        "Initials": "AS"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 AI028433",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 OD011095",
+        "Acronym": "OD",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "DMS-1951793, DMS-1616299, DMS-1836647, and DEB-2030479 (NKV)",
+        "Agency": "National Science Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "R01-AI028433 and R01-OD011095 (ASP)",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Basic Reproduction Number"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "pathology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Death"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Models, Animal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Ferrets"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunity, Innate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "Respiratory System"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viral Load"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Shedding"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

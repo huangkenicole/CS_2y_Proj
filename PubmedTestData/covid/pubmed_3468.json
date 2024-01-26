@@ -1,0 +1,390 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33237325",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa1079"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "CATH: increased structural coverage of functional space.",
+    "Pagination": {
+      "StartPage": "D266",
+      "EndPage": "D273",
+      "MedlinePgn": "D266-D273"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "CATH (https://www.cathdb.info) identifies domains in protein structures from wwPDB and classifies these into evolutionary superfamilies, thereby providing structural and functional annotations. There are two levels: CATH-B, a daily snapshot of the latest domain structures and superfamily assignments, and CATH+, with additional derived data, such as predicted sequence domains, and functionally coherent sequence subsets (Functional Families or FunFams). The latest CATH+ release, version 4.3, significantly increases coverage of structural and sequence data, with an addition of 65,351 fully-classified domains structures (+15%), providing 500 238 structural domains, and 151 million predicted sequence domains (+59%) assigned to 5481 superfamilies. The FunFam generation pipeline has been re-engineered to cope with the increased influx of data. Three times more sequences are captured in FunFams, with a concomitant increase in functional purity, information content and structural coverage. FunFam expansion increases the structural annotations provided for experimental GO terms (+59%). We also present CATH-FunVar web-pages displaying variations in protein sequences and their proximity to known or predicted functional sites. We present two case studies (1) putative cancer drivers and (2) SARS-CoV-2 proteins. Finally, we have improved links to and from CATH including SCOP, InterPro, Aquaria and 2DProt."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Sillitoe",
+        "ForeName": "Ian",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Bordin",
+        "ForeName": "Nicola",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Dawson",
+        "ForeName": "Natalie",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Waman",
+        "ForeName": "Vaishali P",
+        "Initials": "VP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Ashford",
+        "ForeName": "Paul",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Scholes",
+        "ForeName": "Harry M",
+        "Initials": "HM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Pang",
+        "ForeName": "Camilla S M",
+        "Initials": "CSM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Woodridge",
+        "ForeName": "Laurel",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Rauer",
+        "ForeName": "Clemens",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Sen",
+        "ForeName": "Neeladri",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Abbasian",
+        "ForeName": "Mahnaz",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Le Cornu",
+        "ForeName": "Sean",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Physics, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, Bangi, Selangor\u00a043600, Malaysia."
+          }
+        ],
+        "LastName": "Lam",
+        "ForeName": "Su Datt",
+        "Initials": "SD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Regional Centre of Advanced Technologies and Materials, Department of Physical Chemistry, Faculty of Science, Palack\u00fd University Olomouc, Olomouc 771 46, Czech Republic."
+          }
+        ],
+        "LastName": "Berka",
+        "ForeName": "Karel",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Brno 602 00, Czech Republic."
+          }
+        ],
+        "LastName": "Varekova",
+        "ForeName": "Ivana Huta\u0159ov\u00e1",
+        "Initials": "IH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Central European Institute of Technology, Masaryk University, Brno 625 00, Czech Republic| National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Brno 602 00, Czech Republic."
+          }
+        ],
+        "LastName": "Svobodova",
+        "ForeName": "Radka",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological and Medical Sciences, Faculty of Health and Life Sciences, Oxford Brookes University, Oxford OX3 0BP, UK."
+          }
+        ],
+        "LastName": "Lees",
+        "ForeName": "Jon",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Structural and Molecular Biology, University College London, London WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Orengo",
+        "ForeName": "Christine A",
+        "Initials": "CA"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "104960/Z/14/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "203780/Z/16/A",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Amino Acid Sequence"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Databases, Protein"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Sequence Annotation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Domains"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Sequence Analysis, Protein"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Homology, Amino Acid"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Viral Proteins"
+    }
+  ]
+}

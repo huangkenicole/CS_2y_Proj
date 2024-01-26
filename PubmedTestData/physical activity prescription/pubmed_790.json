@@ -1,0 +1,168 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "drug utilization",
+      "joinpoint regression",
+      "opioids",
+      "segmented regression",
+      "trend analysis",
+      "tutorial"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36813735",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "03",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/pds.5606"
+    ],
+    "Journal": {
+      "ISSN": "1099-1557",
+      "JournalIssue": {
+        "Volume": "32",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May"
+        }
+      },
+      "Title": "Pharmacoepidemiology and drug safety",
+      "ISOAbbreviation": "Pharmacoepidemiol Drug Saf"
+    },
+    "ArticleTitle": "Using Joinpoint regression for drug utilization research: Tutorial and case study of prescription opioid use in the United States.",
+    "Pagination": {
+      "StartPage": "509",
+      "EndPage": "516",
+      "MedlinePgn": "509-516"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Drug utilization researchers are often interested in evaluating prescribing and medication use patterns and trends over a specified period of time. Joinpoint regression is a useful methodology to identify any deviations in secular trends without a preconceived notion of where these break points might occur. This article provides a tutorial on the use of joinpoint regression, within Joinpoint software, for the analysis of drug utilization data.",
+        "The statistical considerations for whether a joinpoint regression analytical technique is a suitable approach are discussed. Then, we offer a tutorial as an introduction on conducting joinpoint regression (within Joinpoint software) through a step-by-step application, which is a case study developed using opioid prescribing data from the United States. Data were obtained from public files available through the Centers for Disease Control and Prevention from 2006 to 2018. The tutorial provides parameters and sample data needed to replicate the case study and it concludes with general considerations for the reporting of results using joinpoint regression in drug utilization research.",
+        "The case study evaluated the trend of opioid prescribing in the United States from 2006 to 2018, where time points of significant variation (one in 2012 and another in 2016) are detected and interpreted.",
+        "Joinpoint regression is a helpful methodology for drug utilization for the purposes of conducting descriptive analyses. This tool also assists with corroborating assumptions and identifying parameters for fitting other models such as interrupted time series. The technique and accompanying software are user-friendly; however, researchers interested in using joinpoint regression should exercise caution and follow best practices for correct measurement of drug utilization."
+      ],
+      "CopyrightInformation": "\u00a9 2023 John Wiley & Sons Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6945-2713"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Injury Prevention Research Center, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA."
+          }
+        ],
+        "LastName": "Hincapie-Castillo",
+        "ForeName": "Juan M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0020-8720"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Outcomes & Policy, University of Florida, Gainesville, Florida, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Drug Evaluation and Safety, University of Florida, Gainesville, Florida, USA."
+          }
+        ],
+        "LastName": "Goodin",
+        "ForeName": "Amie",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Pharmacoepidemiol Drug Saf",
+    "NlmUniqueID": "9208369",
+    "ISSNLinking": "1053-8569"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Analgesics, Opioid"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "United States"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Analgesics, Opioid"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Practice Patterns, Physicians'"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "drug therapy"
+      ],
+      "DescriptorName": "Opioid-Related Disorders"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prescriptions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Utilization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Prescriptions"
+    }
+  ]
+}

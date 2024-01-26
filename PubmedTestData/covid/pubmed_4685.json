@@ -1,0 +1,526 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34127708",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "12425",
+      "10.1038/s41598-021-91835-7"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "14"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Sensitive detection and quantification of SARS-CoV-2 in saliva.",
+    "Pagination": {
+      "StartPage": "12425",
+      "MedlinePgn": "12425"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Saliva has significant advantages as a test medium for detection of SARS-CoV-2 infection in patients, such as ease of collection, minimal requirement of supplies and trained personnel, and safety. Comprehensive validation in a large cohort of prospectively collected specimens with unknown SARS-CoV-2 status should be performed to evaluate the potential and limitations of saliva-based testing. We developed a saliva-based testing pipeline for detection of SARS-CoV-2 nucleic acids using real-time reverse transcription PCR (RT-PCR) and droplet digital PCR (ddPCR) readouts, and measured samples from 137 outpatients tested at a curbside testing facility and 29 inpatients hospitalized for COVID-19. These measurements were compared to the nasal swab results for each patient performed by a certified microbiology laboratory. We found that our saliva testing positively detects 100% (RT-PCR) and 93.75% (ddPCR) of curbside patients that were identified as SARS-CoV-2 positive by the Emergency Use Authorization (EUA) certified nasal swab testing assay. Quantification of viral loads by ddPCR revealed an extremely wide range, with 1 million-fold difference between individual patients. Our results demonstrate for both community screening and hospital settings that saliva testing reliability is on par with that of the nasal swabs in detecting infected cases, and has potential for higher sensitivity when combined with ddPCR in detecting low-abundance viral loads that evade traditional testing methods."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pritzker School of Molecular Engineering, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Abasiyanik",
+        "ForeName": "Mustafa Fatih",
+        "Initials": "MF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Flood",
+        "ForeName": "Blake",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pritzker School of Molecular Engineering, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Jing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pritzker School of Molecular Engineering, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Ozcan",
+        "ForeName": "Sefika",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Hematology and Oncology, Pritzker School of Medicine, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Rouhani",
+        "ForeName": "Sherin J",
+        "Initials": "SJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Hematology and Oncology, Pritzker School of Medicine, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Pyzer",
+        "ForeName": "Athalia",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Hematology and Oncology, Pritzker School of Medicine, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Trujillo",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Zhen",
+        "ForeName": "Chaojie",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Hematology and Oncology, Pritzker School of Medicine, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Ping",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Hospital Medicine, Department of Medicine, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Jumic",
+        "ForeName": "Stephen",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pritzker School of Molecular Engineering, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Gajewski",
+        "ForeName": "Thomas F",
+        "Initials": "TF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Peng",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Hartley",
+        "ForeName": "Madeline",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Ameti",
+        "ForeName": "Bekim",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Hematology and Oncology, Pritzker School of Medicine, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Niemiec",
+        "ForeName": "Rachael",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Hematology and Oncology, Pritzker School of Medicine, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Fernando",
+        "ForeName": "Marian",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Hematology and Oncology, Pritzker School of Medicine, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Mishra",
+        "ForeName": "Vasudha",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Savage",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Radiation and Cellular Oncology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Aydogan",
+        "ForeName": "Bulent",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiology Laboratory, University of Chicago Medicine, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Bethel",
+        "ForeName": "Cindy",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiology Laboratory, University of Chicago Medicine, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Matushek",
+        "ForeName": "Scott",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Beavis",
+        "ForeName": "Kathleen G",
+        "Initials": "KG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Otolaryngology-Head and Neck Surgery, Department of Surgery, University of Chicago, Chicago, IL, USA."
+          }
+        ],
+        "LastName": "Agrawal",
+        "ForeName": "Nishant",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, University of Chicago, Chicago, IL, USA. jsegal5@bsd.uchicago.edu."
+          }
+        ],
+        "LastName": "Segal",
+        "ForeName": "Jeremy",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pritzker School of Molecular Engineering, University of Chicago, Chicago, IL, USA. tays@uchicago.edu."
+          }
+        ],
+        "LastName": "Tay",
+        "ForeName": "Sava\u015f",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Section of Hematology and Oncology, Pritzker School of Medicine, University of Chicago, Chicago, IL, USA. izumchen@medicine.bsd.uchicago.edu."
+          }
+        ],
+        "LastName": "Izumchenko",
+        "ForeName": "Evgeny",
+        "Initials": "E"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01DE027809",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 GM127527",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "K12 CA139160",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 DE027809",
+        "Acronym": "DE",
+        "Agency": "NIDCR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 CA009566",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 DE028674",
+        "Acronym": "DE",
+        "Agency": "NIDCR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01GM127527",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Reagent Kits, Diagnostic"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2020 Dec 07;:",
+      "PMID": "33330880"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "analysis",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reagent Kits, Diagnostic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Saliva"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viral Load"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

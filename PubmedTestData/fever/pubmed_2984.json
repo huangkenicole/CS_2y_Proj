@@ -1,0 +1,183 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32855349",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e20194096",
+      "10.1542/peds.2019-4096"
+    ],
+    "Journal": {
+      "ISSN": "1098-4275",
+      "JournalIssue": {
+        "Volume": "146",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Pediatrics",
+      "ISOAbbreviation": "Pediatrics"
+    },
+    "ArticleTitle": "Machine Learning To Predict Serious Bacterial Infections in Young Febrile Infants.",
+    "Abstract": {
+      "AbstractText": [
+        "Recent decision rules for the management of febrile infants support the identification of infants at higher risk of serious bacterial infections (SBIs) without the performance of routine lumbar puncture. We derive and validate a model to identify febrile infants \u226460 days of age at low risk for SBIs using supervised machine learning approaches.",
+        "We conducted a secondary analysis of a multicenter prospective study performed between December 2008 and May 2013 of febrile infants. Our outcome was SBI, (culture-positive urinary tract infection, bacteremia, and/or bacterial meningitis). We developed and validated 4 supervised learning models: logistic regression, random forest, support vector machine, and a single-hidden layer neural network.",
+        "A total of 1470 patients were included (1014 >28 days old). One hundred thirty-eight (9.3%) had SBIs (122 urinary tract infections, 20 bacteremia, and 8 meningitis; 11 with concurrent SBIs). Using 4 features (urinalysis, white blood cell count, absolute neutrophil count, and procalcitonin), we demonstrated with the random forest model the highest specificity (74.9, 95% confidence interval: 71.5%-78.2%) with a sensitivity of 98.6% (95% confidence interval: 92.2%-100.0%) in the validation cohort. One patient with bacteremia was misclassified. Among 1240 patients who received a lumbar puncture, this model could have prevented 849 (68.5%) such procedures.",
+        "We derived and internally validated a supervised learning model for the risk-stratification of febrile infants. Although computationally complex, lacking parameter cutoffs, and in need of external validation, this strategy may allow for reductions in unnecessary procedures, hospitalizations, and antibiotics while maintaining excellent sensitivity."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 by the American Academy of Pediatrics."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Emergency Medicine, Department of Pediatrics, Ann & Robert H. Lurie Children's Hospital of Chicago and Feinberg School of Medicine, Northwestern University, Chicago, Illinois; sramgopal@luriechildrens.org."
+          }
+        ],
+        "LastName": "Ramgopal",
+        "ForeName": "Sriram",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pediatric Critical Care Medicine, Department of Critical Care Medicine, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Health Informatics, Department of Pediatrics, UPMC Children's Hospital of Pittsburgh, Pittsburgh, Pennsylvania; and."
+          }
+        ],
+        "LastName": "Horvat",
+        "ForeName": "Christopher M",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Software Research, Carnegie Mellon University, Pittsburgh, Pennsylvania."
+          }
+        ],
+        "LastName": "Yanamala",
+        "ForeName": "Naveena",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Emergency Medicine, Department of Pediatrics, Ann & Robert H. Lurie Children's Hospital of Chicago and Feinberg School of Medicine, Northwestern University, Chicago, Illinois."
+          }
+        ],
+        "LastName": "Alpern",
+        "ForeName": "Elizabeth R",
+        "Initials": "ER"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "K23 HD099331",
+        "Acronym": "HD",
+        "Agency": "NICHD NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Multicenter Study",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Pediatrics",
+    "NlmUniqueID": "0376422",
+    "ISSNLinking": "0031-4005"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Pediatrics. 2020 Sep;146(3):",
+      "PMID": "32855348"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Bacterial Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant, Newborn"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Predictive Value of Tests"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prospective Studies"
+    }
+  ],
+  "CoiStatement": "POTENTIAL CONFLICT OF INTEREST: The authors have indicated they have no potential conflicts of interest to disclose."
+}

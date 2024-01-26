@@ -1,0 +1,363 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34413302",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "5033",
+      "10.1038/s41467-021-25337-5"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug",
+          "Day": "19"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "SCOPE enables type III CRISPR-Cas diagnostics using flexible targeting and stringent CARF ribonuclease activation.",
+    "Pagination": {
+      "StartPage": "5033",
+      "MedlinePgn": "5033"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Characteristic properties of type III CRISPR-Cas systems include recognition of target RNA and the subsequent induction of a multifaceted immune response. This involves sequence-specific cleavage of the target RNA and production of cyclic oligoadenylate (cOA) molecules. Here we report that an exposed seed region at the 3' end of the crRNA is essential for target RNA binding and cleavage, whereas cOA production requires base pairing at the 5' end of the crRNA. Moreover, we uncover that the variation in the size and composition of type III complexes within a single host results in variable seed regions. This may prevent escape by invading genetic elements, while controlling cOA production tightly to prevent unnecessary damage to the host. Lastly, we use these findings to develop a new diagnostic tool, SCOPE, for the specific detection of SARS-CoV-2 from human nasal swab samples, revealing sensitivities in the atto-molar range."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Microbiology, Wageningen University and Research, Wageningen, The Netherlands."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Scope Biosciences, Wageningen, The Netherlands."
+          }
+        ],
+        "LastName": "Steens",
+        "ForeName": "Jurre A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Microbiology, Wageningen University and Research, Wageningen, The Netherlands. zhuyi_fan@aliyun.com."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Yifan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6198-1194"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Cellular and Molecular Biology, University of Texas at Austin, Austin, TX, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Systems and Synthetic Biology, University of Texas at Austin, Austin, TX, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "LIVESTRONG Cancer Institutes, Dell Medical School, Austin, TX, USA."
+          }
+        ],
+        "LastName": "Taylor",
+        "ForeName": "David W",
+        "Initials": "DW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA."
+          }
+        ],
+        "LastName": "Bravo",
+        "ForeName": "Jack P K",
+        "Initials": "JPK"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6863-3160"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Scope Biosciences, Wageningen, The Netherlands."
+          }
+        ],
+        "LastName": "Prinsen",
+        "ForeName": "Stijn H P",
+        "Initials": "SHP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BioInteractions and Plant Health, Wageningen Plant Research, Wageningen, The Netherlands."
+          }
+        ],
+        "LastName": "Schoen",
+        "ForeName": "Cor D",
+        "Initials": "CD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "TNO, Zeist, The Netherlands."
+          }
+        ],
+        "LastName": "Keijser",
+        "ForeName": "Bart J F",
+        "Initials": "BJF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "TNO, Zeist, The Netherlands."
+          }
+        ],
+        "LastName": "Ossendrijver",
+        "ForeName": "Michel",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virology, Department of Medical Microbiology, University Medical Center Utrecht, Utrecht, The Netherlands."
+          }
+        ],
+        "LastName": "Hofstra",
+        "ForeName": "L Marije",
+        "Initials": "LM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9573-1724"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bionanoscience, Delft University of Technology, Delft, The Netherlands."
+          }
+        ],
+        "LastName": "Brouns",
+        "ForeName": "Stan J J",
+        "Initials": "SJJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9867-0832"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "RIKEN SPring-8 Center, Sayo, Hyogo, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "RIKEN Cluster for Pioneering Research, Wako, Saitama, Japan."
+          }
+        ],
+        "LastName": "Shinkai",
+        "ForeName": "Akeo",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5024-1871"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Microbiology, Wageningen University and Research, Wageningen, The Netherlands."
+          }
+        ],
+        "LastName": "van der Oost",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5741-9457"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Microbiology, Wageningen University and Research, Wageningen, The Netherlands. Raymond.Staals@wur.nl."
+          }
+        ],
+        "LastName": "Staals",
+        "ForeName": "Raymond H J",
+        "Initials": "RHJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R35 GM138348",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Adenine Nucleotides"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "CRISPR-Associated Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Oligoribonucleotides"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Bacterial"
+    },
+    {
+      "RegistryNumber": "61172-40-5",
+      "NameOfSubstance": "2',5'-oligoadenylate"
+    },
+    {
+      "RegistryNumber": "EC 3.1.-",
+      "NameOfSubstance": "Ribonucleases"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Adenine Nucleotides"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "CRISPR-Associated Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CRISPR-Cas Systems"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Diagnostic Tests, Routine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Oligoribonucleotides"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Bacterial"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Ribonucleases"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The Authors declare the following competing interests. J.A.S., S.H.P.P. are founders and shareholders of Scope Biosciences. J.v.d.O., R.H.J.S. are shareholders and members of the scientific board of Scope Biosciences. J.A.S., J.v.d.O., R.H.J.S., S.H.P.P. are inventors on type III CRISPR-Cas related patents. Authors Y.Z., D.W.T., J.P.K.B., C.D.S., B.J.F.K., M.O., L.M.H., S.J.J.B. and A.S. declare no competing interests."
+}

@@ -1,0 +1,168 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Coronavirus",
+      "Dimer",
+      "M(pro)",
+      "Main protease",
+      "Molecular dynamics",
+      "pH effect"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35635893",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "05",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.bpc.2022.106829",
+      "S0301-4622(22)00071-0"
+    ],
+    "Journal": {
+      "ISSN": "1873-4200",
+      "JournalIssue": {
+        "Volume": "287",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Biophysical chemistry",
+      "ISOAbbreviation": "Biophys Chem"
+    },
+    "ArticleTitle": "Effect of pH on stability of dimer structure of the main protease of coronavirus-2.",
+    "Pagination": {
+      "StartPage": "106829",
+      "MedlinePgn": "106829"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The viral main protease (M<sup>pro</sup>) from a novel severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is a key enzyme essential for viral replication and has become an attractive target for antiviral drug development. The M<sup>pro</sup> forms a functional dimer and exhibits a pH-dependent enzyme activity and dimerization. Here, we report a molecular dynamics (MD) investigation to gain insights into the structural stability of the enzyme dimer at neutral and acidic pH. Our data shows larger changes in structure of the protein with the acidic pH than that with the neutral pH. Structural analysis of MD trajectories reveals a substantial increase in intersubunit separation, the loss of domain contacts, binding free energy and interaction energy of the dimer which implies the protein instability and tendency of dimer dissociation at acidic pH. The loss in the interaction energy is mainly driven by electrostatic interactions. We have identified the intersubunit hydrogen-bonding residues involved in the decreased dimer stability. These findings may be helpful for rational drug design and target evaluation against COVID-19."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Center of Excellence in Computational Chemistry, Department of Chemistry, Faculty of Science, Chulalongkorn University, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Boonamnaj",
+        "ForeName": "Panisak",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematics and Natural Sciences, University of Southern Mississippi, Hattiesburg, MS 39406, USA."
+          }
+        ],
+        "LastName": "Pandey",
+        "ForeName": "R B",
+        "Initials": "RB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Center of Excellence in Computational Chemistry, Department of Chemistry, Faculty of Science, Chulalongkorn University, Bangkok 10330, Thailand. Electronic address: pornthep.s@chula.ac.th."
+          }
+        ],
+        "LastName": "Sompornpisut",
+        "ForeName": "Pornthep",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Biophys Chem",
+    "NlmUniqueID": "0403171",
+    "ISSNLinking": "0301-4622"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "EC 3.4.22.-",
+      "NameOfSubstance": "3C-like protease, SARS coronavirus"
+    },
+    {
+      "RegistryNumber": "EC 3.4.22.28",
+      "NameOfSubstance": "Coronavirus 3C Proteases"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Coronavirus 3C Proteases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hydrogen-Ion Concentration"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Docking Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "There are no conflicts of interest to declare."
+}

@@ -1,0 +1,289 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "integrative resource",
+      "multi-omics",
+      "oncogenic pathways",
+      "pan-cancer",
+      "regulator",
+      "survival relevance"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31155677",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/bib/bbz046"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "May",
+          "Day": "21"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "A comprehensive overview of oncogenic pathways in human cancer.",
+    "Pagination": {
+      "StartPage": "957",
+      "EndPage": "969",
+      "MedlinePgn": "957-969"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Alterations of biological pathways can lead to oncogenesis. An overview of these oncogenic pathways would be highly valuable for researchers to reveal the pathogenic mechanism and develop novel therapeutic approaches for cancers. Here, we reviewed approximately 8500 literatures and documented experimentally validated cancer-pathway associations as benchmarking data set. This data resource includes 4709 manually curated relationships between 1557 paths and 49 cancers with 2427 upstream regulators in 7 species. Based on this resource, we first summarized the cancer-pathway associations and revealed some commonly deregulated pathways across tumor types. Then, we systematically analyzed these oncogenic pathways by integrating TCGA pan-cancer data sets. Multi-omics analysis showed oncogenic pathways may play different roles across tumor types under different omics contexts. We also charted the survival relevance landscape of oncogenic pathways in 26 tumor types, identified dominant omics features and found survival relevance for oncogenic pathways varied in tumor types and omics levels. Moreover, we predicted upstream regulators and constructed a hierarchical network model to understand the pathogenic mechanism of human cancers underlying oncogenic pathway context. Finally, we developed `CPAD' (freely available at http://bio-bigdata.hrbmu.edu.cn/CPAD/), an online resource for exploring oncogenic pathways in human cancers, that integrated manually curated cancer-pathway associations, TCGA pan-cancer multi-omics data sets, drug-target data, drug sensitivity and multi-omics data for cancer cell lines. In summary, our study provides a comprehensive characterization of oncogenic pathways and also presents a valuable resource for investigating the pathogenesis of human cancer."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2019. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Feng",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Tan",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Yanjun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Dong",
+        "ForeName": "Qun",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Xiao",
+        "ForeName": "Jing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Yingqi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Qian",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Chunlong",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Jianxia",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Liqiu",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Xiaoxu",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Informational Biology, University of Electronic Science and Technology of China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Jian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Xia",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yunpeng",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oncogenes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

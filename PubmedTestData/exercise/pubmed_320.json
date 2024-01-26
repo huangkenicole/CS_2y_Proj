@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "cellular sensing",
+      "cellular signal",
+      "freehand exercise",
+      "mobile sensing",
+      "wireless sensing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34283143",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4581",
+      "10.3390/s21134581"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "13",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "04"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Recognizing and Counting Freehand Exercises Using Ubiquitous Cellular Signals.",
+    "Abstract": {
+      "AbstractText": [
+        "Freehand exercises help improve physical fitness without any requirements for devices or places. Existing fitness assistant systems are typically restricted to wearable devices or exercising at specific positions, compromising the ubiquitous availability of freehand exercises. In this paper, we develop MobiFit, a contactless freehand exercise assistant using just one cellular signal receiver placed on the ground. MobiFit passively monitors the ubiquitous cellular signals sent by the base station, which frees users from the space constraints and deployment overheads and provides accurate repetition counting, exercise type recognition and workout quality assessment without any attachments to the human body. The design of MobiFit faces new challenges of the uncertainties not only on cellular signal payloads but also on signal propagations because the sender (base station) is beyond the control of MobiFit and located far away. To tackle these challenges, we conducted experimental studies to observe the received cellular signal sequence during freehand exercises. Based on the observations, we constructed the analytic model of the received signals. Guided by the insights derived from the analytic model, MobiFit segments out every repetition and rest interval from one exercise session through spectrogram analysis and extracts low-frequency features from each repetition for type recognition. Extensive experiments were conducted in both indoor and outdoor environments, which collected 22,960 exercise repetitions performed by ten volunteers over six months. The results confirm that MobiFit achieves high counting accuracy of 98.6%, high recognition accuracy of 94.1% and low repetition duration estimation error within 0.3 s. Besides, the experiments show that MobiFit works both indoors and outdoors and supports multiple users exercising together."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Technology, Ocean University of China, Qingdao 266100, China."
+          }
+        ],
+        "LastName": "Teng",
+        "ForeName": "Guanlong",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Technology, Ocean University of China, Qingdao 266100, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Yue",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4167-6037"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Technology, Ocean University of China, Qingdao 266100, China."
+          }
+        ],
+        "LastName": "Hong",
+        "ForeName": "Feng",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Technology, Ocean University of China, Qingdao 266100, China."
+          }
+        ],
+        "LastName": "Qi",
+        "ForeName": "Jianbo",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Technology, Ocean University of China, Qingdao 266100, China."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Ruobing",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7363-1987"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Technology, Ocean University of China, Qingdao 266100, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Chao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Technology, Ocean University of China, Qingdao 266100, China."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Zhongwen",
+        "Initials": "Z"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "41976185",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "61902367",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Monitoring, Physiologic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rest"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

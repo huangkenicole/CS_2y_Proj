@@ -1,0 +1,203 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33772002",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1919",
+      "10.1038/s41467-021-22082-7"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "26"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Stochastic sampling effects favor manual over digital contact tracing.",
+    "Pagination": {
+      "StartPage": "1919",
+      "MedlinePgn": "1919"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Isolation of symptomatic individuals, tracing and testing of their nonsymptomatic contacts are fundamental strategies for mitigating the current COVID-19 pandemic. The breaking of contagion chains relies on two complementary strategies: manual reconstruction of contacts based on interviews and a digital (app-based) privacy-preserving contact tracing. We compare their effectiveness using model parameters tailored to describe SARS-CoV-2 diffusion within the activity-driven model, a general empirically validated framework for network dynamics. We show that, even for equal probability of tracing a contact, manual tracing robustly performs better than the digital protocol, also taking into account the intrinsic delay and limited scalability of the manual procedure. This result is explained in terms of the stochastic sampling occurring during the case-by-case manual reconstruction of contacts, contrasted with the intrinsically prearranged nature of digital tracing, determined by the decision to adopt the app or not by each individual. The better performance of manual tracing is enhanced by heterogeneity in agent behavior: superspreaders not adopting the app are completely invisible to digital contact tracing, while they can be easily traced manually, due to their multiple contacts. We show that this intrinsic difference makes the manual procedure dominant in realistic hybrid protocols."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7344-7992"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dipartimento di Scienze Matematiche, Fisiche e Informatiche, Universit\u00e0 degli Studi di Parma, Parco Area delle Scienze, Parma, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "INFN, Sezione di Milano Bicocca, Gruppo Collegato di Parma, Parco Area delle Scienze, Parma, Italy."
+          }
+        ],
+        "LastName": "Mancastroppa",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3773-3801"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto dei Sistemi Complessi (ISC-CNR), Via dei Taurini, Roma, Italy."
+          }
+        ],
+        "LastName": "Castellano",
+        "ForeName": "Claudio",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9779-6150"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dipartimento di Scienze Matematiche, Fisiche e Informatiche, Universit\u00e0 degli Studi di Parma, Parco Area delle Scienze, Parma, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto dei Materiali per l'Elettronica ed il Magnetismo (IMEM-CNR), Parco Area delle Scienze, Parma, Italy."
+          }
+        ],
+        "LastName": "Vezzani",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4648-6838"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dipartimento di Scienze Matematiche, Fisiche e Informatiche, Universit\u00e0 degli Studi di Parma, Parco Area delle Scienze, Parma, Italy. raffaella.burioni@unipr.it."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "INFN, Sezione di Milano Bicocca, Gruppo Collegato di Parma, Parco Area delle Scienze, Parma, Italy. raffaella.burioni@unipr.it."
+          }
+        ],
+        "LastName": "Burioni",
+        "ForeName": "Raffaella",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Diagnostic Tests, Routine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Specimen Handling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

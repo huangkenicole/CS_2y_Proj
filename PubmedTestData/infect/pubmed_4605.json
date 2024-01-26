@@ -1,0 +1,141 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "2577995",
+  "DateCompleted": {
+    "Year": "1994",
+    "Month": "09",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "10",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0265-0746",
+      "JournalIssue": {
+        "Volume": "6",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "1989"
+        }
+      },
+      "Title": "IMA journal of mathematics applied in medicine and biology",
+      "ISOAbbreviation": "IMA J Math Appl Med Biol"
+    },
+    "ArticleTitle": "A methodological study of a nonlinear stochastic model of an AIDS epidemic with recruitment.",
+    "Pagination": {
+      "StartPage": "179",
+      "EndPage": "203",
+      "MedlinePgn": "179-203"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A nonlinear stochastic model of an AIDS epidemic with recruitment of infectives, susceptibles, and AIDS cases into a randomly mixing population of male homosexuals was formulated and studied from a methodological point of view through intensive computer experimentation. Probability generating functions were used to formulate a model for the monthly probability that a susceptible individual becomes infected with HIV, under the assumption that the probability of infection per sexual contact varies as a function of the duration of infection. A method for taking into account the use of condoms to prevent infection with HIV was also introduced. Nonlinear difference equations, resembling deterministic epidemic models, were embedded in the stochastic population process by iterating an initial conditional expectation. Examples of Monte Carlo experiments are presented, illustrating that solutions of these nonlinear difference equations are not always good measures of central tendency for variations in the sample functions of the process. Two important substantive conclusions drawn from the Monte Carlo experiments were that efforts should be made to collect quantitative information on the probability of infection per sexual contact as a function of duration of infection and the frequency of condom use within and among risk categories in a population."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Computer Science, Drexel University, Philadelphia, Pennsylvania 19104."
+          }
+        ],
+        "LastName": "Mode",
+        "ForeName": "C J",
+        "Initials": "CJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gollwitzer",
+        "ForeName": "H E",
+        "Initials": "HE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Salsburg",
+        "ForeName": "M A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sleeman",
+        "ForeName": "C K",
+        "Initials": "CK"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "IMA J Math Appl Med Biol",
+    "NlmUniqueID": "8704892",
+    "ISSNLinking": "0265-0746"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "Acquired Immunodeficiency Syndrome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemiologic Methods"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Homosexuality"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Monte Carlo Method"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    }
+  ]
+}

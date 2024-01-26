@@ -1,0 +1,197 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "18164500",
+  "DateCompleted": {
+    "Year": "2008",
+    "Month": "05",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "11",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.prevetmed.2007.08.002"
+    ],
+    "Journal": {
+      "ISSN": "0167-5877",
+      "JournalIssue": {
+        "Volume": "83",
+        "Issue": "3-4",
+        "PubDate": {
+          "Year": "2008",
+          "Month": "Mar",
+          "Day": "17"
+        }
+      },
+      "Title": "Preventive veterinary medicine",
+      "ISOAbbreviation": "Prev Vet Med"
+    },
+    "ArticleTitle": "Parameter estimation and simulations of a mathematical model of Corynebacterium pseudotuberculosis transmission in sheep.",
+    "Pagination": {
+      "StartPage": "242",
+      "EndPage": "259",
+      "MedlinePgn": "242-59"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Caseous lymphadenitis (CLA) is an infectious disease of sheep caused by Corynebacterium pseudotuberculosis. It is prevalent in most sheep producing countries and was introduced into the UK sheep population in 1991. The pathogen invades the host through epithelium and forms an abscess in the local draining lymph node. Typically, disease presents as clinical, with overt (externally visible) swollen lymph nodes (the parotid, submandibular, prefemoral, prescapular, popliteal or mammary) or sub-clinical, with abscesses in the lungs and associated thoracic (bronchial and mediastinal) lymph nodes. We present a mathematical model in which disease is categorised as overt and/or respiratory (sub-clinical), using the above groupings. In both situations sheep may be infected and may or may not be infectious. In the model, overt abscesses may resolve and respiratory abscesses are considered to be present for life. Using the location of the abscesses, three routes of transmission are postulated: overt to overt, respiratory to overt and respiratory to respiratory. Data from four naturally infected flocks were used to describe populations of sheep with epidemic CLA and to estimate transmission coefficients for each of the postulated transmission routes. The infection process parameters were derived from literature where possible. Parameters were estimated using maximum likelihood methods and compared to the data using a multinomial distribution. The distribution of abscesses in the flocks was similar to endemic data reported in other studies. In the model most infected sheep developed abscesses, and approximately 36% of sheep with overt abscesses recovered from infection. The average time for respiratory abscesses to become infectious was 41 days. In these data, overt to overt transmission was the most frequent route of transmission since it had the highest coefficient in the model compared with respiratory to overt and respiratory to respiratory transmission. Transmission coefficients specific for each flock significantly (P<0.05) improved the model fit to the data. In simulations using values of best-fitting parameter combinations, the proportion of sheep infected was between 0.39 and 0.60 at equilibrium. This is the first mathematical model of C. pseudotuberculosis infection, the parameter estimates indicate that aspects of the infection process could be utilised to design control strategies."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ecology and Epidemiology Group, Department of Biology Sciences, University of Warwick, Coventry, West Midlands, England. k.oreilly@vet.gla.ac.uk"
+          }
+        ],
+        "LastName": "O'Reilly",
+        "ForeName": "K M",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Green",
+        "ForeName": "L E",
+        "Initials": "LE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Malone",
+        "ForeName": "F E",
+        "Initials": "FE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Medley",
+        "ForeName": "G F",
+        "Initials": "GF"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "Biotechnology and Biological Sciences Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Prev Vet Med",
+    "NlmUniqueID": "8217463",
+    "ISSNLinking": "0167-5877"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "microbiology",
+        "veterinary"
+      ],
+      "DescriptorName": "Abscess"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission",
+        "veterinary"
+      ],
+      "DescriptorName": "Corynebacterium Infections"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Corynebacterium pseudotuberculosis"
+    },
+    {
+      "QualifierName": [
+        "prevention & control",
+        "veterinary"
+      ],
+      "DescriptorName": "Disease Transmission, Infectious"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Likelihood Functions"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "microbiology",
+        "veterinary"
+      ],
+      "DescriptorName": "Lymphadenitis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Severity of Illness Index"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sheep"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "Sheep Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United Kingdom"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Genome sequencing",
+      "SARS-CoV-2",
+      "Viral surveillance"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33276717",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "863",
+      "10.1186/s12864-020-07283-6"
+    ],
+    "Journal": {
+      "ISSN": "1471-2164",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec",
+          "Day": "04"
+        }
+      },
+      "Title": "BMC genomics",
+      "ISOAbbreviation": "BMC Genomics"
+    },
+    "ArticleTitle": "A rapid, cost-effective tailed amplicon method for sequencing SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "863",
+      "MedlinePgn": "863"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The global COVID-19 pandemic has led to an urgent need for scalable methods for clinical diagnostics and viral tracking. Next generation sequencing technologies have enabled large-scale genomic surveillance of SARS-CoV-2 as thousands of isolates are being sequenced around the world and deposited in public data repositories. A number of methods using both short- and long-read technologies are currently being applied for SARS-CoV-2 sequencing, including amplicon approaches, metagenomic methods, and sequence capture or enrichment methods. Given the small genome size, the ability to sequence SARS-CoV-2 at scale is limited by the cost and labor associated with making sequencing libraries.",
+        "Here we describe a low-cost, streamlined, all amplicon-based method for sequencing SARS-CoV-2, which bypasses costly and time-consuming library preparation steps. We benchmark this tailed amplicon method against both the ARTIC amplicon protocol and sequence capture approaches and show that an optimized tailed amplicon approach achieves comparable amplicon balance, coverage metrics, and variant calls to the ARTIC v3 approach.",
+        "The tailed amplicon method we describe represents a cost-effective and highly scalable method for SARS-CoV-2 sequencing."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4434-2788"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Minnesota Genomics Center, Minneapolis, MN, 55455, USA. dmgohl@umn.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics, Cell Biology, and Development, University of Minnesota, Minneapolis, MN, 55455, USA. dmgohl@umn.edu."
+          }
+        ],
+        "LastName": "Gohl",
+        "ForeName": "Daryl M",
+        "Initials": "DM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Minnesota Genomics Center, Minneapolis, MN, 55455, USA."
+          }
+        ],
+        "LastName": "Garbe",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Minnesota Genomics Center, Minneapolis, MN, 55455, USA."
+          }
+        ],
+        "LastName": "Grady",
+        "ForeName": "Patrick",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Minnesota Genomics Center, Minneapolis, MN, 55455, USA."
+          }
+        ],
+        "LastName": "Daniel",
+        "ForeName": "Jerry",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Minnesota Genomics Center, Minneapolis, MN, 55455, USA."
+          }
+        ],
+        "LastName": "Watson",
+        "ForeName": "Ray H B",
+        "Initials": "RHB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Minnesota Genomics Center, Minneapolis, MN, 55455, USA."
+          }
+        ],
+        "LastName": "Auch",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Lab Medicine and Pathology, Division of Molecular Pathology and Genomics, University of Minnesota, Minneapolis, MN, 55455, USA."
+          }
+        ],
+        "LastName": "Nelson",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Lab Medicine and Pathology, Division of Molecular Pathology and Genomics, University of Minnesota, Minneapolis, MN, 55455, USA."
+          }
+        ],
+        "LastName": "Yohe",
+        "ForeName": "Sophia",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Minnesota Genomics Center, Minneapolis, MN, 55455, USA."
+          }
+        ],
+        "LastName": "Beckman",
+        "ForeName": "Kenneth B",
+        "Initials": "KB"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Genomics",
+    "NlmUniqueID": "100965258",
+    "ISSNLinking": "1471-2164"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Benchmarking"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "standards"
+      ],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Epidemiology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "standards"
+      ],
+      "DescriptorName": "Sequence Analysis"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

@@ -1,0 +1,160 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "10727742",
+  "DateCompleted": {
+    "Year": "2000",
+    "Month": "05",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "11",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0167-5877",
+      "JournalIssue": {
+        "Volume": "44",
+        "Issue": "1-2",
+        "PubDate": {
+          "Year": "2000",
+          "Month": "Mar",
+          "Day": "29"
+        }
+      },
+      "Title": "Preventive veterinary medicine",
+      "ISOAbbreviation": "Prev Vet Med"
+    },
+    "ArticleTitle": "Evaluating control strategies for outbreaks in BHV1-free areas using stochastic and spatial simulation.",
+    "Pagination": {
+      "StartPage": "21",
+      "EndPage": "42",
+      "MedlinePgn": "21-42"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Several countries within the EU have successfully eradicated bovine herpesvirus type I (BHV1), while others are still making efforts to eradicate the virus. Reintroduction of the virus into BHV1-free areas can lead to major outbreaks - thereby causing severe economic losses. To give decision-makers more insight into the risk and economic consequences of BHV1 reintroduction and into the effectiveness of various control strategies, we developed the simulation model InterIBR. InterIBR is a dynamic model that takes into account risk and uncertainty and the geographic location of individual farms. Simulation of a BHV1-outbreak in the Netherlands starts with introduction of the virus on a predefined farm type, after which both within-farm and between-farm transmission are simulated. Monitoring and control measures are implemented to simulate detection of the infection and subsequent control. Economic consequences included in this study are related to losses due to infection and costs of control. In the simulated basic control strategy, dairy farms are monitored by monthly bulk-milk tests and miscellaneous farms are monitored by half-yearly serological tests. After detection, movement-control measures apply, animal contacts are traced and neighbour farms are put on surveillance. Given current assumptions on transmission dynamics, we conclude that a strategy with either rapid removal or vaccination of infected cattle does not reduce the number of infected farms compared to this basic strategy - but will cost more to control. Farm type with first introduction of BHV1 has a considerable impact on the expected number of secondarily infected farms and total costs. To limit the number of infected farms and total costs due to outbreaks, we suggest intensifying the monitoring program on farms with a high frequency of cattle trade, and monthly bulk-milk testing on dairy farms."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Economics and Management, Wageningen University, Hollandseweg 1, 6706 KN, Wageningen, The Netherlands. antonie.vonknoordegraaf@alg.abe.wau.nl"
+          }
+        ],
+        "LastName": "Noordegraaf",
+        "ForeName": "A V",
+        "Initials": "AV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Jalvingh",
+        "ForeName": "A W",
+        "Initials": "AW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "de Jong",
+        "ForeName": "M C",
+        "Initials": "MC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Franken",
+        "ForeName": "P",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dijkhuizen",
+        "ForeName": "A A",
+        "Initials": "AA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Prev Vet Med",
+    "NlmUniqueID": "8217463",
+    "ISSNLinking": "0167-5877"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "economics"
+      ],
+      "DescriptorName": "Agriculture"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cattle"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "veterinary"
+      ],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Europe"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "prevention & control",
+        "veterinary"
+      ],
+      "DescriptorName": "Herpesviridae Infections"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Herpesvirus 1, Bovine"
+    },
+    {
+      "QualifierName": [
+        "economics"
+      ],
+      "DescriptorName": "Infection Control"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    }
+  ]
+}

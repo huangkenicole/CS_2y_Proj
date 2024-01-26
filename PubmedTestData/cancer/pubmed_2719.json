@@ -1,0 +1,112 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "22957611",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "11",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2017",
+    "Month": "02",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1118/1.4742849"
+    ],
+    "Journal": {
+      "ISSN": "0094-2405",
+      "JournalIssue": {
+        "Volume": "39",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2012",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Medical physics",
+      "ISOAbbreviation": "Med Phys"
+    },
+    "ArticleTitle": "Quantification of differences in the effective atomic numbers of healthy and cancerous tissues: a discussion in the context of diagnostics and dosimetry.",
+    "Pagination": {
+      "StartPage": "5437",
+      "EndPage": "5445",
+      "MedlinePgn": "5437-45"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "There are a range of genetic and nongenetic factors influencing the elemental composition of different human tissues. The elemental composition of cancerous tissues frequently differs from healthy tissue of the same organ, particularly in high-Z trace element concentrations. For this reason, one could suggest that this may be exploited in diagnostics and perhaps even influence dosimetry.",
+        "In this work, for the first time, effective atomic numbers are computed for common cancerous and healthy tissues using a robust, energy-dependent approach between 10 keV and 100 MeV. These are then quantitatively compared within the context of diagnostics and dosimetry.",
+        "Differences between effective atomic numbers of healthy and diseased tissues are found to be typically less than 10%. Fibrotic tissues and calcifications of the breast exhibit substantial (tens to hundreds of percent) differences to healthy tissue. Expectedly, differences are most pronounced in the photoelectric regime and consequently most relevant for kV imaging\u2215therapy and radionuclides with prominent low-energy peaks. Cancerous tissue of the testes and stomach have lower effective atomic numbers than corresponding healthy tissues, while diseased tissues of the other organ sites typically have higher values.",
+        "As dose calculation approaches improve in accuracy, there may be an argument for the explicit inclusion of pathologies. This is more the case for breast, penile, prostate, nasopharyngeal, and stomach cancer, less so for testicular and kidney cancer. The calculated data suggest dual-energy computed tomography could potentially improve lesion identification in the aforementioned organs (with the exception of testicular cancer), with most import in breast imaging. Ultimately, however, the differences are very small. It is likely that the assumption of a generic \"tissue ramp\" in planning will be sufficient for the foreseeable future, and that the Z differences do not notably aid lesion detection beyond that already facilitated by differences in mass density."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Applied Sciences and Health Innovation Research Institute, RMIT University, Melbourne, Australia. michael.taylor@rmit.edu.au"
+          }
+        ],
+        "LastName": "Taylor",
+        "ForeName": "M L",
+        "Initials": "ML"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Med Phys",
+    "NlmUniqueID": "0425746",
+    "ISSNLinking": "0094-2405"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry",
+        "cytology",
+        "pathology"
+      ],
+      "DescriptorName": "Breast"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Monte Carlo Method"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Radiometry"
+    }
+  ]
+}

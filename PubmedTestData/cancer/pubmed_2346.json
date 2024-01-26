@@ -1,0 +1,179 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "14594719",
+  "DateCompleted": {
+    "Year": "2004",
+    "Month": "04",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1367-4803",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "16",
+        "PubDate": {
+          "Year": "2003",
+          "Month": "Nov",
+          "Day": "01"
+        }
+      },
+      "Title": "Bioinformatics (Oxford, England)",
+      "ISOAbbreviation": "Bioinformatics"
+    },
+    "ArticleTitle": "An unsupervised hierarchical dynamic self-organizing approach to cancer class discovery and marker gene identification in microarray data.",
+    "Pagination": {
+      "StartPage": "2131",
+      "EndPage": "2140",
+      "MedlinePgn": "2131-40"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Current Self-Organizing Maps (SOMs) approaches to gene expression pattern clustering require the user to predefine the number of clusters likely to be expected. Hierarchical clustering methods used in this area do not provide unique partitioning of data. We describe an unsupervised dynamic hierarchical self-organizing approach, which suggests an appropriate number of clusters, to perform class discovery and marker gene identification in microarray data. In the process of class discovery, the proposed algorithm identifies corresponding sets of predictor genes that best distinguish one class from other classes. The approach integrates merits of hierarchical clustering with robustness against noise known from self-organizing approaches.",
+        "The proposed algorithm applied to DNA microarray data sets of two types of cancers has demonstrated its ability to produce the most suitable number of clusters. Further, the corresponding marker genes identified through the unsupervised algorithm also have a strong biological relationship to the specific cancer class. The algorithm tested on leukemia microarray data, which contains three leukemia types, was able to determine three major and one minor cluster. Prediction models built for the four clusters indicate that the prediction strength for the smaller cluster is generally low, therefore labelled as uncertain cluster. Further analysis shows that the uncertain cluster can be subdivided further, and the subdivisions are related to two of the original clusters. Another test performed using colon cancer microarray data has automatically derived two clusters, which is consistent with the number of classes in data (cancerous and normal).",
+        "JAVA software of dynamic SOM tree algorithm is available upon request for academic use.",
+        "A comparison of rectangular and hexagonal topologies for GSOM is available from http://www.mame.mu.oz.au/mechatronics/journalinfo/Hsu2003supp.pdf"
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mechatronics Research Group, Department of Mechanical and Manufacturing Engineering, University of Melbourne, Victoria, Australia 3010. alhs@mame.mu.oz.au"
+          }
+        ],
+        "LastName": "Hsu",
+        "ForeName": "Arthur L",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tang",
+        "ForeName": "Sen-Lin",
+        "Initials": "SL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Halgamuge",
+        "ForeName": "Saman K",
+        "Initials": "SK"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Evaluation Study",
+      "Journal Article",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Bioinformatics",
+    "NlmUniqueID": "9808944",
+    "ISSNLinking": "1367-4803"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Genetic Markers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "Colonic Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genetic Markers"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genetic Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "Leukemia"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Dynamics",
+      "Intra-host",
+      "SARS-CoV-2",
+      "Variation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33618765",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "30",
+      "10.1186/s13073-021-00847-5"
+    ],
+    "Journal": {
+      "ISSN": "1756-994X",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "22"
+        }
+      },
+      "Title": "Genome medicine",
+      "ISOAbbreviation": "Genome Med"
+    },
+    "ArticleTitle": "Intra-host variation and evolutionary dynamics of SARS-CoV-2 populations in COVID-19 patients.",
+    "Pagination": {
+      "StartPage": "30",
+      "MedlinePgn": "30"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Since early February 2021, the causative agent of COVID-19, SARS-CoV-2, has infected over 104 million people with more than 2 million deaths according to official reports. The key to understanding the biology and virus-host interactions of SARS-CoV-2 requires the knowledge of mutation and evolution of this virus at both inter- and intra-host levels. However, despite quite a few polymorphic sites identified among SARS-CoV-2 populations, intra-host variant spectra and their evolutionary dynamics remain mostly unknown.",
+        "Using high-throughput sequencing of metatranscriptomic and hybrid captured libraries, we characterized consensus genomes and intra-host single nucleotide variations (iSNVs) of serial samples collected from eight patients with COVID-19. The distribution of iSNVs along the SARS-CoV-2 genome was analyzed and co-occurring iSNVs among COVID-19 patients were identified. We also compared the evolutionary dynamics of SARS-CoV-2 population in the respiratory tract (RT) and gastrointestinal tract (GIT).",
+        "The 32 consensus genomes revealed the co-existence of different genotypes within the same patient. We further identified 40 intra-host single nucleotide variants (iSNVs). Most (30/40) iSNVs presented in a single patient, while ten iSNVs were found in at least two patients or identical to consensus variants. Comparing allele frequencies of the iSNVs revealed a clear genetic differentiation between intra-host populations from the respiratory tract (RT) and gastrointestinal tract (GIT), mostly driven by bottleneck events during intra-host migrations. Compared to RT populations, the GIT populations showed a better maintenance and rapid development of viral genetic diversity following the suspected intra-host bottlenecks.",
+        "Our findings here illustrate the intra-host bottlenecks and evolutionary dynamics of SARS-CoV-2 in different anatomic sites and may provide new insights to understand the virus-host interactions of coronaviruses and other RNA viruses."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Yanqun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Daxi",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Infectious Disease, Guangzhou Eighth People's Hospital of Guangzhou Medical University, Guangzhou, 510060, Guangdong, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Lu",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Wanying",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Zhaoyong",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "BGI PathoGenesis Pharmaceutical Technology Co., Ltd, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Weijun",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Airu",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Yongbo",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Guangdong Provincial Key Laboratory of Biomedical Imaging, Guangdong Provincial Engineering Research Center of Molecular Imaging, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, 519000, Guangdong, China."
+          }
+        ],
+        "LastName": "Xiao",
+        "ForeName": "Fei",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Yangjiang People's Hospital, Yangjiang, Guangdong, China."
+          }
+        ],
+        "LastName": "Yao",
+        "ForeName": "Jinxiu",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Gan",
+        "ForeName": "Mian",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Fang",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Luo",
+        "ForeName": "Ling",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Xiaofang",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yanjun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Wong",
+        "ForeName": "Sook-San",
+        "Initials": "SS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biology and Biological Engineering, South China University of Technology, Guangzhou, China."
+          }
+        ],
+        "LastName": "Cheng",
+        "ForeName": "Xinyi",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Future Technology, University of Chinese Academy of Sciences, Beijing, 101408, China."
+          }
+        ],
+        "LastName": "Ji",
+        "ForeName": "Jingkai",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Ou",
+        "ForeName": "Zhihua",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Xiao",
+        "ForeName": "Minfeng",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Min",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Jiandong",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Ren",
+        "ForeName": "Peidi",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Deng",
+        "ForeName": "Ziqing",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Zhong",
+        "ForeName": "Huanzi",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory of Genome Read and Write, BGI-Shenzhen, Shenzhen, 518120, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Xun",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Center for Disease Control and Prevention, Guangzhou, 511430, Guangdong, China."
+          }
+        ],
+        "LastName": "Song",
+        "ForeName": "Tie",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HKU-Pasteur Research Pole, School of Public Health, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong, SAR, 19406, China."
+          }
+        ],
+        "LastName": "Mok",
+        "ForeName": "Chris Ka Pun",
+        "Initials": "CKP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HKU-Pasteur Research Pole, School of Public Health, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong, SAR, 19406, China."
+          }
+        ],
+        "LastName": "Peiris",
+        "ForeName": "Malik",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China."
+          }
+        ],
+        "LastName": "Zhong",
+        "ForeName": "Nanshan",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China. zhaojingxian@gird.cn."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Jingxian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China. dryiminli@vip.163.com."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yimin",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BGI-Shenzhen, Shenzhen, 518083, China. lijunhua@genomics.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Key Laboratory of Unknown Pathogen Identification, BGI-Shenzhen, Shenzhen, 518083, China. lijunhua@genomics.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biology and Biological Engineering, South China University of Technology, Guangzhou, China. lijunhua@genomics.cn."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Junhua",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, Guangdong, China. zhaojincun@gird.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Infectious Disease, Guangzhou Eighth People's Hospital of Guangzhou Medical University, Guangzhou, 510060, Guangdong, China. zhaojincun@gird.cn."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Jincun",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2018YFC1200100, 2018ZX10301403, 2018YFC1311900",
+        "Agency": "The National Key Research and Development Program of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "2020YFC0841400",
+        "Agency": "the emergency grants for prevention and control of SARS-CoV-2 of Ministry of Science and Technology",
+        "Country": ""
+      },
+      {
+        "GrantID": "2020B1111320003, 2020B111108001, 2018B020207013, 2020B111112003",
+        "Agency": "the emergency grants for prevention and control of SARS-CoV-2 of Guangdong province",
+        "Country": ""
+      },
+      {
+        "GrantID": "2020A1515010911",
+        "Agency": "the Guangdong Province Basic and Applied Basic Research Fund",
+        "Country": ""
+      },
+      {
+        "GrantID": "2019B030316028",
+        "Agency": "Guangdong Science and Technology Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "2017B030301011",
+        "Agency": "Guangdong Provincial Key Laboratory of Genome Read and Write",
+        "Country": ""
+      },
+      {
+        "GrantID": "[2017] No.159",
+        "Agency": "Guangzhou Medical University High-level University Innovation Team Training Program",
+        "Country": ""
+      },
+      {
+        "GrantID": "81702047, 81772191, 91842106 and 8181101118",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "SKLRD-QN-201715, SKLRD-QN-201912 and SKLRD-Z-202007",
+        "Agency": "State Key Laboratory of Respiratory Disease",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Genome Med",
+    "NlmUniqueID": "101475844",
+    "ISSNLinking": "1756-994X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Frequency"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genotype"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Haplotypes"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymorphism, Single Nucleotide"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

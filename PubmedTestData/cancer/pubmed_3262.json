@@ -1,0 +1,162 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "artificial intelligence",
+      "colorectal cancer",
+      "deep learning",
+      "digital pathology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36853787",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.modpat.2022.100015",
+      "S0893-3952(22)00015-1"
+    ],
+    "Journal": {
+      "ISSN": "1530-0285",
+      "JournalIssue": {
+        "Volume": "36",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
+      "ISOAbbreviation": "Mod Pathol"
+    },
+    "ArticleTitle": "A Deep Neural Network-Based Decision Support Tool for the Detection of Lymph Node Metastases in Colorectal Cancer Specimens.",
+    "Pagination": {
+      "StartPage": "100015",
+      "MedlinePgn": "100015"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The identification of lymph node metastases in colorectal cancer (CRC) specimens is crucial for the planning of postoperative treatment and can be a time-consuming task for pathologists. In this study, we developed a deep neural network (DNN) algorithm for the detection of metastatic CRC in digitized histologic sections of lymph nodes and evaluated its performance as a diagnostic support tool. First, the DNN algorithm was trained using pixel-level annotations of cancerous areas on 758 whole slide images (360 with cancerous areas). The algorithm's performance was evaluated on 74 whole slide images (43 with cancerous areas). Second, the algorithm was evaluated as a decision support tool on 288 whole slide images covering 1517 lymph node sections, randomized in 16 batches. Two senior pathologists (C.K. and C.O.) assessed each batch with and without the help of the algorithm in a 2\u00a0\u00d7 2 crossover design, with a washout period of 1 month in between. The time needed for the evaluation of each node section was recorded. The DNN algorithm achieved a median pixel-level accuracy of 0.952 on slides with cancerous areas and 0.996 on slides with benign samples. N+ disease (metastases, micrometastases, or tumor deposits) was present in 103 of the 1517 sections. The algorithm highlighted cancerous areas in 102 of these sections, with a sensitivity of 0.990. Assisted by the algorithm, the median time needed for evaluation was significantly shortened for both pathologists (median time for pathologist 1, 26 vs 14 seconds; P < .001; 95% CI, 11.0-12.0; median time for pathologist 2, 25 vs 23 seconds; P < .001; 95% CI, 2.0-4.0). Our DNN showed high accuracy for detecting metastatic CRC in digitized histologic sections of lymph nodes. This decision support tool has the potential to improve the diagnostic workflow by shortening the time needed for the evaluation of lymph nodes in CRC specimens without impairing diagnostic accuracy."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 United States & Canadian Academy of Pathology. Published by Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Laboratory Medicine, V\u00e4stmanlands Hospital, V\u00e4ster\u00e5s, Sweden; Centre for Clinical Research, Uppsala University, V\u00e4ster\u00e5s, Sweden. Electronic address: csaba.miklos.kindler@regionvastmanland.se."
+          }
+        ],
+        "LastName": "Kindler",
+        "ForeName": "Csaba",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Inify Laboratories, Stockholm, Sweden."
+          }
+        ],
+        "LastName": "Elfwing",
+        "ForeName": "Stefan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Clinical Research, Uppsala University, V\u00e4ster\u00e5s, Sweden."
+          }
+        ],
+        "LastName": "\u00d6hrvik",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Clinical Research, Uppsala University, V\u00e4ster\u00e5s, Sweden; Department of Surgery, V\u00e4stmanlands Hospital, V\u00e4ster\u00e5s, Sweden."
+          }
+        ],
+        "LastName": "Nikberg",
+        "ForeName": "Maziar",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Mod Pathol",
+    "NlmUniqueID": "8806605",
+    "ISSNLinking": "0893-3952"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Colonic Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Lymphatic Metastasis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rectal Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cross-Over Studies"
+    }
+  ]
+}

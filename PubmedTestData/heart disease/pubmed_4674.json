@@ -1,0 +1,184 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cardiovascular disease",
+      "Heart disease prediction",
+      "Weighted associative rule mining",
+      "Weighted scores"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34154576",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "194",
+      "10.1186/s12911-021-01527-5"
+    ],
+    "Journal": {
+      "ISSN": "1472-6947",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "21"
+        }
+      },
+      "Title": "BMC medical informatics and decision making",
+      "ISOAbbreviation": "BMC Med Inform Decis Mak"
+    },
+    "ArticleTitle": "A novel approach for heart disease prediction using strength scores with significant predictors.",
+    "Pagination": {
+      "StartPage": "194",
+      "MedlinePgn": "194"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cardiovascular disease is the leading cause of death in many countries. Physicians often diagnose cardiovascular disease based on current clinical tests and previous experience of diagnosing patients with similar symptoms. Patients who suffer from heart disease require quick diagnosis, early treatment and constant observations. To address their needs, many data mining approaches have been used in the past in diagnosing and predicting heart diseases. Previous research was also focused on identifying the significant contributing features to heart disease prediction, however, less importance was given to identifying the strength of these features.",
+        "This paper is motivated by the gap in the literature, thus proposes an algorithm that measures the strength of the significant features that contribute to heart disease prediction. The study is aimed at predicting heart disease based on the scores of significant features using Weighted Associative Rule Mining.",
+        "A set of important feature scores and rules were identified in diagnosing heart disease and cardiologists were consulted to confirm the validity of these rules. The experiments performed on the UCI open dataset, widely used for heart disease research yielded the highest confidence score of 98% in predicting heart disease.",
+        "This study managed to provide a significant contribution in computing the strength scores with significant predictors in heart disease prediction. From the evaluation results, we obtained important rules and achieved highest confidence score by utilizing the computed strength scores of significant predictors on Weighted Associative Rule Mining in predicting heart disease."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Software Engineering, Faculty of Computer Science and Information Technology, Universiti Malaya, Kuala Lumpur, Malaysia."
+          }
+        ],
+        "LastName": "Yazdani",
+        "ForeName": "Armin",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3421-4501"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Systems, Faculty of Computer Science and Information Technology, Universiti Malaya, Kuala Lumpur, Malaysia. kasturi@um.edu.my."
+          }
+        ],
+        "LastName": "Varathan",
+        "ForeName": "Kasturi Dewi",
+        "Initials": "KD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Software Engineering, Faculty of Computer Science and Information Technology, Universiti Malaya, Kuala Lumpur, Malaysia."
+          }
+        ],
+        "LastName": "Chiam",
+        "ForeName": "Yin Kia",
+        "Initials": "YK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computing, National University of Sciences and Technology (NUST), Islamabad, Pakistan."
+          }
+        ],
+        "LastName": "Malik",
+        "ForeName": "Asad Waqar",
+        "Initials": "AW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Faculty of Medicine, Universiti Malaya, Kuala Lumpur, Malaysia."
+          }
+        ],
+        "LastName": "Wan Ahmad",
+        "ForeName": "Wan Azman",
+        "Initials": "WA"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "FRGS/1/2017/ICT01/UM/02/4",
+        "Agency": "Fundamental Research Grant Scheme",
+        "Country": ""
+      },
+      {
+        "GrantID": "FP057-2017A",
+        "Agency": "Fundamental Research Grant Scheme",
+        "Country": ""
+      },
+      {
+        "GrantID": "GF011D-2019",
+        "Agency": "Faculty of Computer Science and Information Technology, Universiti Malaya",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med Inform Decis Mak",
+    "NlmUniqueID": "101088682",
+    "ISSNLinking": "1472-6947"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Mining"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

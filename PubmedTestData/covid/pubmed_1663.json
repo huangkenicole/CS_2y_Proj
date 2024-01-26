@@ -1,0 +1,232 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "2019-nCoV",
+      "COVID-19",
+      "SARS-CoV-2",
+      "artificial intelligence",
+      "coronavirus",
+      "deep learning",
+      "machine learning",
+      "natural language processing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33284779",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e20756",
+      "10.2196/20756"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec",
+          "Day": "15"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Artificial Intelligence in the Fight Against COVID-19: Scoping Review.",
+    "Pagination": {
+      "StartPage": "e20756",
+      "MedlinePgn": "e20756"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In December 2019, COVID-19 broke out in Wuhan, China, leading to national and international disruptions in health care, business, education, transportation, and nearly every aspect of our daily lives. Artificial intelligence (AI) has been leveraged amid the COVID-19 pandemic; however, little is known about its use for supporting public health efforts.",
+        "This scoping review aims to explore how AI technology is being used during the COVID-19 pandemic, as reported in the literature. Thus, it is the first review that describes and summarizes features of the identified AI techniques and data sets used for their development and validation.",
+        "A scoping review was conducted following the guidelines of PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews). We searched the most commonly used electronic databases (eg, MEDLINE, EMBASE, and PsycInfo) between April 10 and 12, 2020. These terms were selected based on the target intervention (ie, AI) and the target disease (ie, COVID-19). Two reviewers independently conducted study selection and data extraction. A narrative approach was used to synthesize the extracted data.",
+        "We considered 82 studies out of the 435 retrieved studies. The most common use of AI was diagnosing COVID-19 cases based on various indicators. AI was also employed in drug and vaccine discovery or repurposing and for assessing their safety. Further, the included studies used AI for forecasting the epidemic development of COVID-19 and predicting its potential hosts and reservoirs. Researchers used AI for patient outcome-related tasks such as assessing the severity of COVID-19, predicting mortality risk, its associated factors, and the length of hospital stay. AI was used for infodemiology to raise awareness to use water, sanitation, and hygiene. The most prominent AI technique used was convolutional neural network, followed by support vector machine.",
+        "The included studies showed that AI has the potential to fight against COVID-19. However, many of the proposed methods are not yet clinically accepted. Thus, the most rewarding research will be on methods promising value beyond COVID-19. More efforts are needed for developing standardized reporting protocols or guidelines for studies on AI."
+      ],
+      "CopyrightInformation": "\u00a9Alaa Abd-Alrazaq, Mohannad Alajlani, Dari Alhuwail, Jens Schneider, Saif Al-Kuwari, Zubair Shah, Mounir Hamdi, Mowafa Househ. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 15.12.2020."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-7695-4626"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University, Qatar Foundation, Doha, Qatar."
+          }
+        ],
+        "LastName": "Abd-Alrazaq",
+        "ForeName": "Alaa",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5691-7120"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Digital Healthcare, University of Warwick, Coventry, United Kingdom."
+          }
+        ],
+        "LastName": "Alajlani",
+        "ForeName": "Mohannad",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5038-3044"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information Science Department, College of Life Sciences, Kuwait University, Kuwait, Kuwait."
+          }
+        ],
+        "LastName": "Alhuwail",
+        "ForeName": "Dari",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0546-2816"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University, Qatar Foundation, Doha, Qatar."
+          }
+        ],
+        "LastName": "Schneider",
+        "ForeName": "Jens",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4402-7710"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University, Qatar Foundation, Doha, Qatar."
+          }
+        ],
+        "LastName": "Al-Kuwari",
+        "ForeName": "Saif",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7389-3274"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University, Qatar Foundation, Doha, Qatar."
+          }
+        ],
+        "LastName": "Shah",
+        "ForeName": "Zubair",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9766-0085"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University, Qatar Foundation, Doha, Qatar."
+          }
+        ],
+        "LastName": "Hamdi",
+        "ForeName": "Mounir",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3648-6271"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University, Qatar Foundation, Doha, Qatar."
+          }
+        ],
+        "LastName": "Househ",
+        "ForeName": "Mowafa",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Multicenter Study",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "therapy",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

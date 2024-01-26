@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19 vaccination",
+      "Delta variant",
+      "mathematical modeling",
+      "multi-scale models",
+      "testing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34960814",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2546",
+      "10.3390/v13122546"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "19"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Modeling the Influence of Vaccine Administration on COVID-19 Testing Strategies.",
+    "Abstract": {
+      "AbstractText": [
+        "Vaccination is considered the best strategy for limiting and eliminating the COVID-19 pandemic. The success of this strategy relies on the rate of vaccine deployment and acceptance across the globe. As these efforts are being conducted, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is continuously mutating, which leads to the emergence of variants with increased transmissibility, virulence, and resistance to vaccines. One important question is whether surveillance testing is still needed in order to limit SARS-CoV-2 transmission in a vaccinated population. In this study, we developed a multi-scale mathematical model of SARS-CoV-2 transmission in a vaccinated population and used it to predict the role of testing in an outbreak with variants of increased transmissibility. We found that, for low transmissibility variants, testing was most effective when vaccination levels were low to moderate and its impact was diminished when vaccination levels were high. For high transmissibility variants, widespread vaccination was necessary in order for testing to have a significant impact on preventing outbreaks, with the impact of testing having maximum effects when focused on the non-vaccinated population."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9092-6461"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Computer Sciences, Hobart and William Smith Colleges, Geneva, NY 14456, USA."
+          }
+        ],
+        "LastName": "Forde",
+        "ForeName": "Jonathan E",
+        "Initials": "JE"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5386-6946"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Virginia Tech, Blacksburg, VA 24060, USA."
+          }
+        ],
+        "LastName": "Ciupe",
+        "ForeName": "Stanca M",
+        "Initials": "SM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "1813011",
+        "Agency": "National Science Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "2051820",
+        "Agency": "National Science Foundation",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnostic Tests, Routine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccination"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virulence"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

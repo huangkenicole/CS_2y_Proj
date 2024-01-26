@@ -1,0 +1,128 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28269318",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "07",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC.2016.7591773"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2016",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "The limb movement analysis of rehabilitation exercises using wearable inertial sensors.",
+    "Pagination": {
+      "StartPage": "4686",
+      "EndPage": "4689",
+      "MedlinePgn": "4686-4689"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Due to no supervision of a therapist in home based exercise programs, inertial sensor based feedback systems which can accurately assess movement repetitions are urgently required. The synchronicity and the degrees of freedom both show that one movement might resemble another movement signal which is mixed in with another not precisely defined movement. Therefore, the data and feature selections are important for movement analysis. This paper explores the data and feature selection for the limb movement analysis of rehabilitation exercises. The results highlight that the classification accuracy is very sensitive to the mount location of the sensors. The results show that the use of 2 or 3 sensor units, the combination of acceleration and gyroscope data, and the feature sets combined by the statistical feature set with another type of feature, can significantly improve the classification accuracy rates. The results illustrate that acceleration data is more effective than gyroscope data for most of the movement analysis."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bingquan Huang"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Giggins",
+        "ForeName": "Oonagh",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kechadi",
+        "ForeName": "Tahar",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Caulfield",
+        "ForeName": "Brian",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Acceleration"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Extremities"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feedback"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Movement"
+    }
+  ]
+}

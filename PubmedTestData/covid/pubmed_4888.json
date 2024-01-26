@@ -1,0 +1,195 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "AdaBoost",
+      "COVID-19",
+      "artificial intelligence",
+      "cultural dimensions",
+      "epidemiology",
+      "forecast",
+      "informatics",
+      "machine learning",
+      "nonpharmaceutical interventions",
+      "random forest"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33844636",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e26628",
+      "10.2196/26628"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr",
+          "Day": "23"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Machine Learning-Based Prediction of Growth in Confirmed COVID-19 Infection Cases in 114 Countries Using Metrics of Nonpharmaceutical Interventions and Cultural Dimensions: Model Development and Validation.",
+    "Pagination": {
+      "StartPage": "e26628",
+      "MedlinePgn": "e26628"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "National governments worldwide have implemented nonpharmaceutical interventions to control the COVID-19 pandemic and mitigate its effects.",
+        "The aim of this study was to investigate the prediction of future daily national confirmed COVID-19 infection growth-the percentage change in total cumulative cases-across 14 days for 114 countries using nonpharmaceutical intervention metrics and cultural dimension metrics, which are indicative of specific national sociocultural norms.",
+        "We combined the Oxford COVID-19 Government Response Tracker data set, Hofstede cultural dimensions, and daily reported COVID-19 infection case numbers to train and evaluate five non-time series machine learning models in predicting confirmed infection growth. We used three validation methods-in-distribution, out-of-distribution, and country-based cross-validation-for the evaluation, each of which was applicable to a different use case of the models.",
+        "Our results demonstrate high R<sup>2</sup> values between the labels and predictions for the in-distribution method (0.959) and moderate R<sup>2</sup> values for the out-of-distribution and country-based cross-validation methods (0.513 and 0.574, respectively) using random forest and adaptive boosting (AdaBoost) regression. Although these models may be used to predict confirmed infection growth, the differing accuracies obtained from the three tasks suggest a strong influence of the use case.",
+        "This work provides new considerations in using machine learning techniques with nonpharmaceutical interventions and cultural dimensions as metrics to predict the national growth of confirmed COVID-19 infections."
+      ],
+      "CopyrightInformation": "\u00a9Arnold YS Yeung, Francois Roewer-Despres, Laura Rosella, Frank Rudzicz. Originally published in the Journal of Medical Internet Research (https://www.jmir.org), 23.04.2021."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6604-9320"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Toronto, Toronto, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vector Institute for Artificial Intelligence, Toronto, ON, Canada."
+          }
+        ],
+        "LastName": "Yeung",
+        "ForeName": "Arnold Ys",
+        "Initials": "AY"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3761-9686"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Toronto, Toronto, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vector Institute for Artificial Intelligence, Toronto, ON, Canada."
+          }
+        ],
+        "LastName": "Roewer-Despres",
+        "ForeName": "Francois",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4867-869X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dalla Lana School of Public Health, University of Toronto, Toronto, ON, Canada."
+          }
+        ],
+        "LastName": "Rosella",
+        "ForeName": "Laura",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1139-3423"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Toronto, Toronto, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vector Institute for Artificial Intelligence, Toronto, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Unity Health Toronto, Toronto, ON, Canada."
+          }
+        ],
+        "LastName": "Rudzicz",
+        "ForeName": "Frank",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Multicenter Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Research Design"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

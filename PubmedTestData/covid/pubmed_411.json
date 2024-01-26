@@ -1,0 +1,510 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35637389",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "05",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41551-022-00889-z"
+    ],
+    "Journal": {
+      "ISSN": "2157-846X",
+      "JournalIssue": {
+        "Volume": "6",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Nature biomedical engineering",
+      "ISOAbbreviation": "Nat Biomed Eng"
+    },
+    "ArticleTitle": "Simplified Cas13-based assays for the fast identification of SARS-CoV-2 and its variants.",
+    "Pagination": {
+      "StartPage": "932",
+      "EndPage": "943",
+      "MedlinePgn": "932-943"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The widespread transmission and evolution of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) call for rapid nucleic acid diagnostics that are easy to use outside of centralized clinical laboratories. Here we report the development and performance benchmarking of Cas13-based nucleic acid assays leveraging lyophilised reagents and fast sample inactivation at ambient temperature. The assays, which we named SHINEv.2 (for 'streamlined highlighting of infections to navigate epidemics, version 2'), simplify the previously reported RNA-extraction-free SHINEv.1 technology by eliminating heating steps and the need for cold storage of the reagents. SHINEv.2 detected SARS-CoV-2 in nasopharyngeal samples with 90.5% sensitivity and 100% specificity (benchmarked against the reverse transcription quantitative polymerase chain reaction) in less than 90\u2009min, using lateral-flow technology and incubation in a heat block at 37\u2009\u00b0C. SHINEv.2 also allows for the visual discrimination of the Alpha, Beta, Gamma, Delta and Omicron SARS-CoV-2 variants, and can be run without performance losses by using body heat. Accurate, easy-to-use and equipment-free nucleic acid assays could facilitate wider testing for SARS-CoV-2 and other pathogens in point-of-care and at-home settings."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s), under exclusive licence to Springer Nature Limited."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4092-9952"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Harvard-MIT Program in Health Sciences and Technology, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Arizti-Sanz",
+        "ForeName": "Jon",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Bradley",
+        "ForeName": "A'Doriann",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2546-6790"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yibin B",
+        "Initials": "YB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biology, Princeton University, Princeton, NJ, USA."
+          }
+        ],
+        "LastName": "Boehm",
+        "ForeName": "Chloe K",
+        "Initials": "CK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Freije",
+        "ForeName": "Catherine A",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biology, Princeton University, Princeton, NJ, USA."
+          }
+        ],
+        "LastName": "Grunberg",
+        "ForeName": "Michelle E",
+        "Initials": "ME"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Kosoko-Thoroddsen",
+        "ForeName": "Tinna-Solveig F",
+        "Initials": "TF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Program in Virology, Harvard Medical School, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Welch",
+        "ForeName": "Nicole L",
+        "Initials": "NL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Pillai",
+        "ForeName": "Priya P",
+        "Initials": "PP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Mantena",
+        "ForeName": "Sreekar",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biology, Princeton University, Princeton, NJ, USA."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Gaeun",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "African Centre of Excellence for Genomics of Infectious Diseases (ACEGID), Redeemer's University, Ede, Osun State, Nigeria."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, College of Natural Sciences, Redeemer's University, Ede, Osun State, Nigeria."
+          }
+        ],
+        "LastName": "Uwanibe",
+        "ForeName": "Jessica N",
+        "Initials": "JN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, College of Natural Sciences, Redeemer's University, Ede, Osun State, Nigeria."
+          }
+        ],
+        "LastName": "John",
+        "ForeName": "Oluwagboadurami G",
+        "Initials": "OG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "African Centre of Excellence for Genomics of Infectious Diseases (ACEGID), Redeemer's University, Ede, Osun State, Nigeria."
+          }
+        ],
+        "LastName": "Eromon",
+        "ForeName": "Philomena E",
+        "Initials": "PE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Integrated Research Facility, Division of Clinical Research, National Institute of Allergy and Infectious Diseases, National Institute of Health, Frederick, MD, USA."
+          }
+        ],
+        "LastName": "Kocher",
+        "ForeName": "Gregory",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Integrated Research Facility, Division of Clinical Research, National Institute of Allergy and Infectious Diseases, National Institute of Health, Frederick, MD, USA."
+          }
+        ],
+        "LastName": "Gross",
+        "ForeName": "Robin",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biotechnology Cores Facility Branch, Division of Scientific Resources, National Center for Emerging and Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, GA, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Justin S",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Integrated Research Facility, Division of Clinical Research, National Institute of Allergy and Infectious Diseases, National Institute of Health, Frederick, MD, USA."
+          }
+        ],
+        "LastName": "Hensley",
+        "ForeName": "Lisa E",
+        "Initials": "LE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Harvard T.H. Chan School of Public Health, Boston, MA, USA."
+          }
+        ],
+        "LastName": "MacInnis",
+        "ForeName": "Bronwyn L",
+        "Initials": "BL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Johnson",
+        "ForeName": "Jeremy",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Systems Biology, Harvard Medical School, Boston, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Systems Pharmacology, Harvard Medical School, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Springer",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "African Centre of Excellence for Genomics of Infectious Diseases (ACEGID), Redeemer's University, Ede, Osun State, Nigeria."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, College of Natural Sciences, Redeemer's University, Ede, Osun State, Nigeria."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Harvard T.H. Chan School of Public Health, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Happi",
+        "ForeName": "Christian T",
+        "Initials": "CT"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9843-1890"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Harvard T.H. Chan School of Public Health, Boston, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, Chevy Chase, MD, USA."
+          }
+        ],
+        "LastName": "Sabeti",
+        "ForeName": "Pardis C",
+        "Initials": "PC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8971-184X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biology, Princeton University, Princeton, NJ, USA. cmyhrvol@princeton.edu."
+          }
+        ],
+        "LastName": "Myhrvold",
+        "ForeName": "Cameron",
+        "Initials": "C"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM120122",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 AI151812",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54 HG007480",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "Acronym": "HHMI",
+        "Agency": "Howard Hughes Medical Institute",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Biomed Eng",
+    "NlmUniqueID": "101696896",
+    "ISSNLinking": "2157-846X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "CRISPR-Associated Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Nucleic Acids"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2021 Nov 02;:",
+      "PMID": "34751276"
+    },
+    {
+      "RefSource": "Nat Biomed Eng. 2022 Aug;6(8):925-927",
+      "PMID": "35986182"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CRISPR-Associated Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acids"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

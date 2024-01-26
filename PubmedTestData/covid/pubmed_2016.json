@@ -1,0 +1,166 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "geographical location",
+      "k-mers",
+      "sequence classification"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36656554",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1089/cmb.2022.0391"
+    ],
+    "Journal": {
+      "ISSN": "1557-8666",
+      "JournalIssue": {
+        "Volume": "30",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Journal of computational biology : a journal of computational molecular cell biology",
+      "ISOAbbreviation": "J Comput Biol"
+    },
+    "ArticleTitle": "Characterizing SARS-CoV-2 Spike Sequences Based on Geographical Location.",
+    "Pagination": {
+      "StartPage": "432",
+      "EndPage": "445",
+      "MedlinePgn": "432-445"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "With the rapid spread of COVID-19 worldwide, viral genomic data are available in the order of millions of sequences on public databases such as GISAID. This <i>Big Data</i> creates a unique opportunity for analysis toward the research of effective vaccine development for current pandemics, and avoiding or mitigating future pandemics. One piece of information that comes with every such viral sequence is the geographical location where it was collected-the patterns found between viral variants and geographical location surely being an important part of this analysis. One major challenge that researchers face is processing such huge, highly dimensional data to obtain useful insights as quickly as possible. Most of the existing methods face scalability issues when dealing with the magnitude of such data. In this article, we propose an approach that first computes a numerical representation of the spike protein sequence of SARS-CoV-2 using <i>k</i>-mers (substrings) and then uses several machine learning models to classify the sequences based on geographical location. We show that our proposed model significantly outperforms the baselines. We also show the importance of different amino acids in the spike sequences by computing the information gain corresponding to the true class labels."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Georgia State University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Ali",
+        "ForeName": "Sarwan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Georgia State University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Bello",
+        "ForeName": "Babatunde",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Georgia State University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Tayebi",
+        "ForeName": "Zahra",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4329-0234"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Georgia State University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Patterson",
+        "ForeName": "Murray",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Comput Biol",
+    "NlmUniqueID": "9433358",
+    "ISSNLinking": "1066-5277"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Amino Acids"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Amino Acids"
+    }
+  ]
+}

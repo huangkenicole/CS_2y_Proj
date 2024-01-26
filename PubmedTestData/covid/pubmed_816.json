@@ -1,0 +1,159 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "circRNA",
+      "gene regulation",
+      "machine learning",
+      "miRNA"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33725751",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1515/jib-2020-0047"
+    ],
+    "Journal": {
+      "ISSN": "1613-4516",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "17"
+        }
+      },
+      "Title": "Journal of integrative bioinformatics",
+      "ISOAbbreviation": "J Integr Bioinform"
+    },
+    "ArticleTitle": "Circular RNA-MicroRNA-MRNA interaction predictions in SARS-CoV-2 infection.",
+    "Pagination": {
+      "StartPage": "45",
+      "EndPage": "50",
+      "MedlinePgn": "45-50"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Different types of noncoding RNAs like microRNAs (miRNAs) and circular RNAs (circRNAs) have been shown to take part in various cellular processes including post-transcriptional gene regulation during infection. MiRNAs are expressed by more than 200 organisms ranging from viruses to higher eukaryotes. Since miRNAs seem to be involved in host-pathogen interactions, many studies attempted to identify whether human miRNAs could target severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) mRNAs as an antiviral defence mechanism. In this work, a machine learning based miRNA analysis workflow was developed to predict differential expression patterns of human miRNAs during SARS-CoV-2 infection. In order to obtain the graphical representation of miRNA hairpins, 36 features were defined based on the secondary structures. Moreover, potential targeting interactions between human circRNAs and miRNAs as well as human miRNAs and viral mRNAs were investigated."
+      ],
+      "CopyrightInformation": "\u00a9 2021 Y\u0131lmaz Mehmet Demirci and M\u00fc\u015ferref Duygu Sa\u00e7ar Demirci published by De Gruyter, Berlin/Boston."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Engineering, Engineering Science Department, Abdullah G\u00fcl University, 38080Kayseri, Turkey."
+          }
+        ],
+        "LastName": "Demirci",
+        "ForeName": "Y\u0131lmaz Mehmet",
+        "Initials": "YM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Life and Natural Sciences, Bioinformatics Department, Abdullah G\u00fcl University, 38080Kayseri, Turkey."
+          }
+        ],
+        "LastName": "Sa\u00e7ar Demirci",
+        "ForeName": "M\u00fc\u015ferref Duygu",
+        "Initials": "MD"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "J Integr Bioinform",
+    "NlmUniqueID": "101503361",
+    "ISSNLinking": "1613-4516"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Circular"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Messenger"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Circular"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Messenger"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

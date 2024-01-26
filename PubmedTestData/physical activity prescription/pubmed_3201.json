@@ -1,0 +1,148 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "energy storage and return",
+      "finite element analysis",
+      "gait",
+      "product design",
+      "prosthetic foot",
+      "stress analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35119772",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "02",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/cnm.3579"
+    ],
+    "Journal": {
+      "ISSN": "2040-7947",
+      "JournalIssue": {
+        "Volume": "38",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Apr"
+        }
+      },
+      "Title": "International journal for numerical methods in biomedical engineering",
+      "ISOAbbreviation": "Int J Numer Method Biomed Eng"
+    },
+    "ArticleTitle": "Energy storage and stress-strain characteristics of a prosthetic foot: a priori design and analysis with experiments.",
+    "Pagination": {
+      "StartPage": "e3579",
+      "MedlinePgn": "e3579"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This work proposes an experimentally validated numerical approach for a systematic a priori evaluation of the energy storage and stress-strain characteristics of a prosthetic foot during the stance phase of walking. Boundary conditions replicating the rocker based inverted pendulum model were incorporated. The mechanically complex Ottobock Solid Ankle Cushioned Heel (SACH) foot was opted as the test device. A non-linear finite element (FE) model of the device was developed inclusive of its sources of non-linearity. A custom rig was fabricated to investigate the prosthetic foot's mechanics in a gait analysis facility and experimentally validate the finite element approach. The numerical and experimental outcomes showed fair agreement, with the centre of pressure at the foot-floor interface deviating by 1.56\u2009mm at the instance of highest strain. The magnitude and the distribution of the energy stored and a series of stress and strain parameters were analyzed for the test device using the proposed approach. The novel methodology proposed may act as an effective tool for the design, analysis, and prescription of energy storage and return prosthetic feet."
+      ],
+      "CopyrightInformation": "\u00a9 2022 John Wiley & Sons Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "TTK Center for Rehabilitation Research and Device Development (R2D2), Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai, India."
+          }
+        ],
+        "LastName": "Mannan Balaramakrishnan",
+        "ForeName": "Thirunindravur",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0409-0096"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "TTK Center for Rehabilitation Research and Device Development (R2D2), Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai, India."
+          }
+        ],
+        "LastName": "Natarajan",
+        "ForeName": "Sundararajan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3456-1220"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "TTK Center for Rehabilitation Research and Device Development (R2D2), Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai, India."
+          }
+        ],
+        "LastName": "Sujatha",
+        "ForeName": "Srinivasan",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Int J Numer Method Biomed Eng",
+    "NlmUniqueID": "101530293",
+    "ISSNLinking": "2040-7939"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Limbs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Foot"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gait"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prosthesis Design"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Walking"
+    }
+  ]
+}

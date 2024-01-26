@@ -1,0 +1,230 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Alzheimer\u2019s disease",
+      "amyloid-beta precursor protein",
+      "angiotensin-converting enzyme-2",
+      "coronavirus-2019",
+      "meta-analysis",
+      "severe acute respiratory syndrome-coronavirus-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35163117",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "01",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1182",
+      "10.3390/ijms23031182"
+    ],
+    "Journal": {
+      "ISSN": "1422-0067",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "21"
+        }
+      },
+      "Title": "International journal of molecular sciences",
+      "ISOAbbreviation": "Int J Mol Sci"
+    },
+    "ArticleTitle": "Meta-Analysis of APP Expression Modulated by SARS-CoV-2 Infection via the ACE2 Receptor.",
+    "Abstract": {
+      "AbstractText": [
+        "Alzheimer's disease (AD) is characterized by the deposition of amyloid-beta (A\u03b2) plaques from improper amyloid-beta precursor protein (APP) cleavage. Following studies of inflammation caused by coronavirus-2019 (COVID-19) infection, this study investigated the impact of COVID-19 on APP expression. A meta-analysis was conducted utilizing QIAGEN Ingenuity Pathway Analysis (IPA) to examine the link between severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) and the modulation of APP expression upon virus binding the Angiotensin-converting enzyme-2 (ACE2) receptor. A Core Analysis was run on the infection by severe acute respiratory syndrome (SARS) coronavirus node, which included molecules affected by SARS-CoV-2, revealing its upstream regulators. Intermediary molecules were found between the upstream regulators and ACE2 and between ACE2 and APP. Activation of the upstream regulators downregulated the expression of ACE2 with a Z-score of -1.719 (<i>p</i>-value = 0.086) and upregulated APP with a Z-score of 1.898 (<i>p</i>-value = 0.058), showing a less than 10% chance of the results occurring by chance and pointing to an inverse relationship between ACE2 and APP expression. The neuroinflammation signaling pathway was the fifth top canonical pathway involved in APP upregulation. The study results suggest that ACE2 could be downregulated by SARS-CoV-2, resulting in APP upregulation, and potentially exacerbating the onset and progression of AD."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, Seton Hall University, South Orange, NJ 07079, USA."
+          }
+        ],
+        "LastName": "Caradonna",
+        "ForeName": "Alyssa",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, Seton Hall University, South Orange, NJ 07079, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of NeuroImmune Pharmacology, Seton Hall University, South Orange, NJ 07079, USA."
+          }
+        ],
+        "LastName": "Patel",
+        "ForeName": "Tanvi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, Seton Hall University, South Orange, NJ 07079, USA."
+          }
+        ],
+        "LastName": "Toleska",
+        "ForeName": "Matea",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, Seton Hall University, South Orange, NJ 07079, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of NeuroImmune Pharmacology, Seton Hall University, South Orange, NJ 07079, USA."
+          }
+        ],
+        "LastName": "Alabed",
+        "ForeName": "Sedra",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3865-4280"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, Seton Hall University, South Orange, NJ 07079, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of NeuroImmune Pharmacology, Seton Hall University, South Orange, NJ 07079, USA."
+          }
+        ],
+        "LastName": "Chang",
+        "ForeName": "Sulie L",
+        "Initials": "SL"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "DA046258",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Meta-Analysis"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Int J Mol Sci",
+    "NlmUniqueID": "101092791",
+    "ISSNLinking": "1422-0067"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Amyloid beta-Protein Precursor"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "ACE2 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "Angiotensin-Converting Enzyme 2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Amyloid beta-Protein Precursor"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Angiotensin-Converting Enzyme 2"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Plaque, Amyloid"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Signal Transduction"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

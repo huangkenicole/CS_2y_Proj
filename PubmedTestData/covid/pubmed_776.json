@@ -1,0 +1,248 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33864052",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41591-021-01334-5"
+    ],
+    "Journal": {
+      "ISSN": "1546-170X",
+      "JournalIssue": {
+        "Volume": "27",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Nature medicine",
+      "ISOAbbreviation": "Nat Med"
+    },
+    "ArticleTitle": "Modeling vaccination rollouts, SARS-CoV-2 variants and the requirement for non-pharmaceutical interventions in Italy.",
+    "Pagination": {
+      "StartPage": "993",
+      "EndPage": "998",
+      "MedlinePgn": "993-998"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Despite progress in clinical care for patients with coronavirus disease 2019 (COVID-19)<sup>1</sup>, population-wide interventions are still crucial to manage the pandemic, which has been aggravated by the emergence of new, highly transmissible variants. In this study, we combined the SIDARTHE model<sup>2</sup>, which predicts the spread of SARS-CoV-2 infections, with a new data-based model that projects new cases onto casualties and healthcare system costs. Based on the Italian case study, we outline several scenarios: mass vaccination campaigns with different paces, different transmission rates due to new variants and different enforced countermeasures, including the alternation of opening and closure phases. Our results demonstrate that non-pharmaceutical interventions (NPIs) have a higher effect on the epidemic evolution than vaccination alone, advocating for the need to keep NPIs in place during the first phase of the vaccination campaign. Our model predicts that, from April 2021 to January 2022, in a scenario with no vaccine rollout and weak NPIs ([Formula: see text] = 1.27), as many as 298,000 deaths associated with COVID-19 could occur. However, fast vaccination rollouts could reduce mortality to as few as 51,000 deaths. Implementation of restrictive NPIs ([Formula: see text] = 0.9) could reduce COVID-19 deaths to 30,000 without vaccinating the population and to 18,000 with a fast rollout of vaccines. We also show that, if intermittent open-close strategies are adopted, implementing a closing phase first could reduce deaths (from 47,000 to 27,000 with slow vaccine rollout) and healthcare system costs, without substantive aggravation of socioeconomic losses."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-8600-1738"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Industrial Engineering, University of Trento, Trento, Italy. giulia.giordano@unitn.it."
+          }
+        ],
+        "LastName": "Giordano",
+        "ForeName": "Giulia",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases I, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy."
+          }
+        ],
+        "LastName": "Colaneri",
+        "ForeName": "Marta",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases I, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy."
+          }
+        ],
+        "LastName": "Di Filippo",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dipartimento di Scienze Matematiche, Informatiche e Fisiche, University of Udine, Udine, Italy."
+          }
+        ],
+        "LastName": "Blanchini",
+        "ForeName": "Franco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milan, Italy."
+          }
+        ],
+        "LastName": "Bolzern",
+        "ForeName": "Paolo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical, Computer and Biomedical Engineering, University of Pavia, Pavia, Italy."
+          }
+        ],
+        "LastName": "De Nicolao",
+        "ForeName": "Giuseppe",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases I, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy."
+          }
+        ],
+        "LastName": "Sacchi",
+        "ForeName": "Paolo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milan, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "IEIIT-CNR, Milan, Italy."
+          }
+        ],
+        "LastName": "Colaneri",
+        "ForeName": "Patrizio",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases I, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical, Surgical, Diagnostic, and Paediatric Sciences, University of Pavia, Pavia, Italy."
+          }
+        ],
+        "LastName": "Bruno",
+        "ForeName": "Raffaele",
+        "Initials": "R"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "101016233, H2020-SC1-PHE-CORONAVIRUS-2020-2-RTD",
+        "Agency": "EC | Horizon 2020 Framework Programme (EU Framework Programme for Research and Innovation H2020)",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Nat Med",
+    "NlmUniqueID": "9502015",
+    "ISSNLinking": "1078-8956"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "therapeutic use"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Italy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccination"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

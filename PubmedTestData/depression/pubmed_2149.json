@@ -1,0 +1,173 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37399151",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "11",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TBCAS.2023.3291554"
+    ],
+    "Journal": {
+      "ISSN": "1940-9990",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct"
+        }
+      },
+      "Title": "IEEE transactions on biomedical circuits and systems",
+      "ISOAbbreviation": "IEEE Trans Biomed Circuits Syst"
+    },
+    "ArticleTitle": "Analysis of Automated Clinical Depression Diagnosis in a Chinese Corpus.",
+    "Pagination": {
+      "StartPage": "1135",
+      "EndPage": "1152",
+      "MedlinePgn": "1135-1152"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Depression clinical interview corpora are essential for advancing automated depression diagnosis. While previous studies have used written speech material in controlled settings, these materials do not accurately represent spontaneous conversational speech. Additionally, self-reported measures of depression are subject to bias, making the data unreliable for training models for real-world scenarios. This study introduces a new corpus of depression clinical interviews collected directly from a psychiatric hospital, containing 113 recordings with 52 healthy and 61 depressive patients. The subjects were examined using the Montgomery-Asberg Depression Rating Scale (MADRS) in Chinese. Their final diagnosis was based on medical evaluations through a clinical interview conducted by a psychiatry specialist. All interviews were audio-recorded and transcribed verbatim, and annotated by experienced physicians. This dataset is a valuable resource for automated depression detection research and is expected to advance the field of psychology. Baseline models for detecting and predicting depression presence and level were built, and descriptive statistics of audio and text features were calculated. The decision-making process of the model was also investigated and illustrated. To the best of our knowledge, this is the first study to collect a depression clinical interview corpus in Chinese and train machine learning models to diagnose depression patients."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mao",
+        "ForeName": "Kaining",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Deborah Baofeng",
+        "Initials": "DB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zheng",
+        "ForeName": "Tiansheng",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Jiao",
+        "ForeName": "Rongqi",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhu",
+        "ForeName": "Yanhui",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wu",
+        "ForeName": "Bin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Qian",
+        "ForeName": "Lei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lyu",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chen",
+        "ForeName": "Jie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ye",
+        "ForeName": "Minjie",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Biomed Circuits Syst",
+    "NlmUniqueID": "101312520",
+    "ISSNLinking": "1932-4545"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "East Asian People"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Psychiatric Status Rating Scales"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Communication"
+    }
+  ]
+}

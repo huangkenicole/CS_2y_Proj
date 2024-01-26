@@ -1,0 +1,218 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Streptococcus pneumoniae",
+      "alveolar infection",
+      "biofilm",
+      "mathematical modeling",
+      "pneumonia"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29868515",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "05",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "05",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "05",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "159",
+      "10.3389/fcimb.2018.00159"
+    ],
+    "Journal": {
+      "ISSN": "2235-2988",
+      "JournalIssue": {
+        "Volume": "8",
+        "PubDate": {
+          "Year": "2018"
+        }
+      },
+      "Title": "Frontiers in cellular and infection microbiology",
+      "ISOAbbreviation": "Front Cell Infect Microbiol"
+    },
+    "ArticleTitle": "Bacterial Adherence and Dwelling Probability: Two Drivers of Early Alveolar Infection by <i>Streptococcus pneumoniae</i> Identified in Multi-Level Mathematical Modeling.",
+    "Pagination": {
+      "StartPage": "159",
+      "MedlinePgn": "159"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Pneumococcal infection is the most frequent cause of pneumonia, and one of the most prevalent diseases worldwide. The population groups at high risk of death from bacterial pneumonia are infants, elderly and immunosuppressed people. These groups are more vulnerable because they have immature or impaired immune systems, the efficacy of their response to vaccines is lower, and antibiotic treatment often does not take place until the inflammatory response triggered is already overwhelming. The immune response to bacterial lung infections involves dynamic interactions between several types of cells whose activation is driven by intracellular molecular networks. A feasible approach to the integration of knowledge and data linking tissue, cellular and intracellular events and the construction of hypotheses in this area is the use of mathematical modeling. For this paper, we used a multi-level computational model to analyse the role of cellular and molecular interactions during the first 10 h after alveolar invasion of <i>Streptococcus pneumoniae</i> bacteria. By \"multi-level\" we mean that we simulated the interplay between different temporal and spatial scales in a single computational model. In this instance, we included the intracellular scale of processes driving lung epithelial cell activation together with the scale of cell-to-cell interactions at the alveolar tissue. In our analysis, we combined systematic model simulations with logistic regression analysis and decision trees to find genotypic-phenotypic signatures that explain differences in bacteria strain infectivity. According to our simulations, pneumococci benefit from a high dwelling probability and a high proliferation rate during the first stages of infection. In addition to this, the model predicts that during the very early phases of infection the bacterial capsule could be an impediment to the establishment of the alveolar infection because it impairs bacterial colonization."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Systems Tumor Immunology, Department of Dermatology, Universit\u00e4tsklinikum Erlangen and Faculty of Medicine, Friedrich-Alexander University Erlangen-N\u00fcrnberg, Erlangen, Germany."
+          }
+        ],
+        "LastName": "Santos",
+        "ForeName": "Guido",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Systems Tumor Immunology, Department of Dermatology, Universit\u00e4tsklinikum Erlangen and Faculty of Medicine, Friedrich-Alexander University Erlangen-N\u00fcrnberg, Erlangen, Germany."
+          }
+        ],
+        "LastName": "Lai",
+        "ForeName": "Xin",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Systems Tumor Immunology, Department of Dermatology, Universit\u00e4tsklinikum Erlangen and Faculty of Medicine, Friedrich-Alexander University Erlangen-N\u00fcrnberg, Erlangen, Germany."
+          }
+        ],
+        "LastName": "Eberhardt",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Systems Tumor Immunology, Department of Dermatology, Universit\u00e4tsklinikum Erlangen and Faculty of Medicine, Friedrich-Alexander University Erlangen-N\u00fcrnberg, Erlangen, Germany."
+          }
+        ],
+        "LastName": "Vera",
+        "ForeName": "Julio",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Front Cell Infect Microbiol",
+    "NlmUniqueID": "101585359",
+    "ISSNLinking": "2235-2988"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Bacterial Adhesion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bacterial Capsules"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bacterial Load"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biofilms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Proliferation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "microbiology"
+      ],
+      "DescriptorName": "Epithelial Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genotype"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Logistic Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lung"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phenotype"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Pneumococcal Infections"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "microbiology"
+      ],
+      "DescriptorName": "Pneumonia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Regression Analysis"
+    },
+    {
+      "QualifierName": [
+        "growth & development",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Streptococcus pneumoniae"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    }
+  ]
+}

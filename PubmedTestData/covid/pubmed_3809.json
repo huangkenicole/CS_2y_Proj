@@ -1,0 +1,576 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33531709",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41591-021-01255-3"
+    ],
+    "Journal": {
+      "ISSN": "1546-170X",
+      "JournalIssue": {
+        "Volume": "27",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Nature medicine",
+      "ISOAbbreviation": "Nat Med"
+    },
+    "ArticleTitle": "Sixteen novel lineages of SARS-CoV-2 in South Africa.",
+    "Pagination": {
+      "StartPage": "440",
+      "EndPage": "446",
+      "MedlinePgn": "440-446"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The first severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in South Africa was identified on 5 March 2020, and by 26 March the country was in full lockdown (Oxford stringency index of 90)<sup>1</sup>. Despite the early response, by November 2020, over 785,000 people in South Africa were infected, which accounted for approximately 50% of all known African infections<sup>2</sup>. In this study, we analyzed 1,365 near whole genomes and report the identification of 16 new lineages of SARS-CoV-2 isolated between 6 March and 26 August 2020. Most of these lineages have unique mutations that have not been identified elsewhere. We also show that three lineages (B.1.1.54, B.1.1.56 and C.1) spread widely in South Africa during the first wave, comprising ~42% of all infections in the country at the time. The newly identified C lineage of SARS-CoV-2, C.1, which has 16 nucleotide mutations as compared with the original Wuhan sequence, including one amino acid change on the spike protein, D614G (ref. <sup>3</sup>), was the most geographically widespread lineage in South Africa by the end of August 2020. An early South African-specific lineage, B.1.106, which was identified in April 2020 (ref. <sup>4</sup>), became extinct after nosocomial outbreaks were controlled in KwaZulu-Natal Province. Our findings show that genomic surveillance can be implemented on a large scale in Africa to identify new lineages and inform measures to control the spread of SARS-CoV-2. Such genomic surveillance presented in this study has been shown to be crucial in the identification of the 501Y.V2 variant in South Africa in December 2020 (ref. <sup>5</sup>)."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7102-8540"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Tegally",
+        "ForeName": "Houriiyah",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Wilkinson",
+        "ForeName": "Eduan",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0926-710X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Lessells",
+        "ForeName": "Richard J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Giandhari",
+        "ForeName": "Jennifer",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Pillay",
+        "ForeName": "Sureshnee",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Discipline of Virology, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Msomi",
+        "ForeName": "Nokukhanya",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Health Laboratory Service, Springbok, South Africa."
+          }
+        ],
+        "LastName": "Mlisana",
+        "ForeName": "Koleka",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6354-4003"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute For Communicable Diseases (NICD) of the National Health Laboratory Service (NHLS), Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "Bhiman",
+        "ForeName": "Jinal N",
+        "Initials": "JN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute For Communicable Diseases (NICD) of the National Health Laboratory Service (NHLS), Johannesburg, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pathology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "von Gottberg",
+        "ForeName": "Anne",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute For Communicable Diseases (NICD) of the National Health Laboratory Service (NHLS), Johannesburg, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "Walaza",
+        "ForeName": "Sibongile",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5521-6448"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Fonseca",
+        "ForeName": "Vagner",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute For Communicable Diseases (NICD) of the National Health Laboratory Service (NHLS), Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "Allam",
+        "ForeName": "Mushal",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4672-5915"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute For Communicable Diseases (NICD) of the National Health Laboratory Service (NHLS), Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "Ismail",
+        "ForeName": "Arshad",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4275-3225"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pathology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Pathology, Lancet Laboratories, Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "Glass",
+        "ForeName": "Allison J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Virology at NHLS Tygerberg Hospital, Stellenbosch University, Stellenbosch, South Africa."
+          }
+        ],
+        "LastName": "Engelbrecht",
+        "ForeName": "Susan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Virology at NHLS Tygerberg Hospital, Stellenbosch University, Stellenbosch, South Africa."
+          }
+        ],
+        "LastName": "Van Zyl",
+        "ForeName": "Gert",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0254-7910"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Virology at NHLS Tygerberg Hospital, Stellenbosch University, Stellenbosch, South Africa."
+          }
+        ],
+        "LastName": "Preiser",
+        "ForeName": "Wolfgang",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Virology at NHLS Groote Schuur Hospital, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Williamson",
+        "ForeName": "Carolyn",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Quantum Technology, University of KwaZulu-Natal, Durban, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute for Theoretical Physics (NITheP), KwaZulu-Natal, South Africa."
+          }
+        ],
+        "LastName": "Petruccione",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Africa Health Research Institute, Durban, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Laboratory Medicine and Medical Sciences, University of KwaZulu-Natal, Durban, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Infection Biology, Berlin, Germany."
+          }
+        ],
+        "LastName": "Sigal",
+        "ForeName": "Alex",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Gazy",
+        "ForeName": "Inbal",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Virology at NHLS Groote Schuur Hospital, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Hardie",
+        "ForeName": "Diana",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Virology at NHLS Groote Schuur Hospital, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Hsiao",
+        "ForeName": "Nei-Yuan",
+        "Initials": "NY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Computational Biology, Department of Integrative Biomedical Sciences, Institute of Infectious Diseases and Molecular medicine, The University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Darren",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Diagnostics Services, Durban, South Africa."
+          }
+        ],
+        "LastName": "York",
+        "ForeName": "Denis",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Virology at NHLS Universitas Academic Laboratories, University of The Free State, Bloemfontein, South Africa."
+          }
+        ],
+        "LastName": "Goedhals",
+        "ForeName": "Dominique",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "San",
+        "ForeName": "Emmanuel James",
+        "Initials": "EJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5849-7326"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratorio de Flavivirus, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil."
+          }
+        ],
+        "LastName": "Giovanetti",
+        "ForeName": "Marta",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9318-2581"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Louren\u00e7o",
+        "ForeName": "Jos\u00e9",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6769-9931"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratorio de Flavivirus, Fundacao Oswaldo Cruz, Rio de Janeiro, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratorio de Genetica Celular e Molecular, ICB, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil."
+          }
+        ],
+        "LastName": "Alcantara",
+        "ForeName": "Luiz Carlos Junior",
+        "Initials": "LCJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3027-5254"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa. deoliveira@ukzn.ac.za."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Global Health, University of Washington, Seattle, WA, USA. deoliveira@ukzn.ac.za."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for the AIDS Programme of Research in South Africa (CAPRISA), Durban, South Africa. deoliveira@ukzn.ac.za."
+          }
+        ],
+        "LastName": "de Oliveira",
+        "ForeName": "Tulio",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Nat Med",
+    "NlmUniqueID": "9502015",
+    "ISSNLinking": "1078-8956"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Nat Med. 2021 Mar;27(3):372-373",
+      "PMID": "33723453"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Datasets as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Typing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis, RNA"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "South Africa"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Whole Genome Sequencing"
+    }
+  ]
+}

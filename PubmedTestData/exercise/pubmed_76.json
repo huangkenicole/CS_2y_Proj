@@ -1,0 +1,187 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Internet of Things (IoT)",
+      "LSTM",
+      "gym exercise recognition",
+      "human activity recognition",
+      "inertial sensor",
+      "smart sensor"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35408104",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "03",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2489",
+      "10.3390/s22072489"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Mar",
+          "Day": "24"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Sensor-Based Gym Physical Exercise Recognition: Data Acquisition and Experiments.",
+    "Abstract": {
+      "AbstractText": [
+        "Automatic tracking and quantification of exercises not only helps in motivating people but also contributes towards improving health conditions. Weight training, in addition to aerobic exercises, is an important component of a balanced exercise program. Excellent trackers are available for aerobic exercises but, in contrast, tracking free weight exercises is still performed manually. This study presents the details of our data acquisition effort using a single chest-mounted tri-axial accelerometer, followed by a novel method for the recognition of a wide range of gym-based free weight exercises. Exercises are recognized using LSTM neural networks and the reported results confirm the feasibility of the proposed approach. We train and test several LSTM-based gym exercise recognition models. More specifically, in one set of experiments, we experiment with separate models, one for each muscle group. In another experiment, we develop a universal model for all exercises. We believe that the promising results will potentially contribute to the vision of an automated system for comprehensive monitoring and analysis of gym-based exercises and create a new experience for exercising by freeing the exerciser from manual record-keeping."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-1450-1095"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, National University of Computer and Emerging Sciences, Islamabad 44000, Pakistan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Technology, Government College University, Faisalabad 38000, Pakistan."
+          }
+        ],
+        "LastName": "Hussain",
+        "ForeName": "Afzaal",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8139-2269"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, National University of Computer and Emerging Sciences, Islamabad 44000, Pakistan."
+          }
+        ],
+        "LastName": "Zafar",
+        "ForeName": "Kashif",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1986-0636"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Systems, College of Computer and Information Sciences, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh 11432, Saudi Arabia."
+          }
+        ],
+        "LastName": "Baig",
+        "ForeName": "Abdul Rauf",
+        "Initials": "AR"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2911-7387"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Systems, College of Computer and Information Sciences, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh 11432, Saudi Arabia."
+          }
+        ],
+        "LastName": "Almakki",
+        "ForeName": "Riyad",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1075-6365"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Management, College of Computer and Information Sciences, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh 11432, Saudi Arabia."
+          }
+        ],
+        "LastName": "AlSuwaidan",
+        "ForeName": "Lulwah",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7925-9191"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Management, College of Computer and Information Sciences, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh 11432, Saudi Arabia."
+          }
+        ],
+        "LastName": "Khan",
+        "ForeName": "Shakir",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

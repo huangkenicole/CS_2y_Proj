@@ -1,0 +1,928 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Delta",
+      "immunity",
+      "omicron",
+      "prior infection",
+      "sub-Saharan Africa",
+      "vaccination"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35411997",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "05",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1111/tmi.13752"
+    ],
+    "Journal": {
+      "ISSN": "1365-3156",
+      "JournalIssue": {
+        "Volume": "27",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Tropical medicine & international health : TM & IH",
+      "ISOAbbreviation": "Trop Med Int Health"
+    },
+    "ArticleTitle": "Outcomes of laboratory-confirmed SARS-CoV-2 infection in the Omicron-driven fourth wave compared with previous waves in the Western Cape Province, South Africa.",
+    "Pagination": {
+      "StartPage": "564",
+      "EndPage": "573",
+      "MedlinePgn": "564-573"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The objective was to compare COVID-19 outcomes in the Omicron-driven fourth wave with prior waves in the Western Cape, assess the contribution of undiagnosed prior infection to differences in outcomes in a context of high seroprevalence due to prior infection and determine whether protection against severe disease conferred by prior infection and/or vaccination was maintained.",
+        "In this cohort study, we included public sector patients aged \u226520\u2009years with a laboratory-confirmed COVID-19 diagnosis between 14 November and 11 December 2021 (wave four) and equivalent prior wave periods. We compared the risk between waves of the following outcomes using Cox regression: death, severe hospitalisation or death and any hospitalisation or death (all \u226414\u2009days after diagnosis) adjusted for age, sex, comorbidities, geography, vaccination and prior infection.",
+        "We included 5144 patients from wave four and 11,609 from prior waves. The risk of all outcomes was lower in wave four compared to the Delta-driven wave three (adjusted hazard ratio (aHR) [95% confidence interval (CI)] for death 0.27 [0.19; 0.38]. Risk reduction was lower when adjusting for vaccination and prior diagnosed infection (aHR: 0.41, 95% CI: 0.29; 0.59) and reduced further when accounting for unascertained prior infections (aHR: 0.72). Vaccine protection was maintained in wave four (aHR for outcome of death: 0.24; 95% CI: 0.10; 0.58).",
+        "In the Omicron-driven wave, severe COVID-19 outcomes were reduced mostly due to protection conferred by prior infection and/or vaccination, but intrinsically reduced virulence may account for a modest reduction in risk of severe hospitalisation or death compared to the Delta-driven wave."
+      ],
+      "CopyrightInformation": "\u00a9 2022 The Authors Tropical Medicine & International Health Published by John Wiley & Sons Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Disease Epidemiology and Research, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Public Health Medicine, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Davies",
+        "ForeName": "Mary-Ann",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Disease Epidemiology and Research, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Kassanjee",
+        "ForeName": "Reshma",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Department of Health, Pretoria, South Africa."
+          }
+        ],
+        "LastName": "Rousseau",
+        "ForeName": "Petro",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Public Health Medicine, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Morden",
+        "ForeName": "Erna",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Disease Epidemiology and Research, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Johnson",
+        "ForeName": "Leigh",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Department of Health, Pretoria, South Africa."
+          }
+        ],
+        "LastName": "Solomon",
+        "ForeName": "Wesley",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Virology, University of Cape Town, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "National Health Laboratory Service, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Hsiao",
+        "ForeName": "Nei-Yuan",
+        "Initials": "NY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Public Health Medicine, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Hussey",
+        "ForeName": "Hannah",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Groote Schuur Hospital, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Cape Town, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Infectious Disease Research in Africa, Institute of Infectious Disease and Molecular Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Meintjes",
+        "ForeName": "Graeme",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Health Systems and Public Health, Department of Global Health, Stellenbosch University, Tygerberg, South Africa."
+          }
+        ],
+        "LastName": "Paleker",
+        "ForeName": "Masudah",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Jacobs",
+        "ForeName": "Theuns",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Groote Schuur Hospital, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Raubenheimer",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Disease Epidemiology and Research, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Heekes",
+        "ForeName": "Alexa",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Disease Epidemiology and Research, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Dane",
+        "ForeName": "Pierre",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Bam",
+        "ForeName": "Jamy-Lee",
+        "Initials": "JL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Disease Epidemiology and Research, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Mariette",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Health Laboratory Service, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Virology, Stellenbosch University, Stellenbosch, South Africa."
+          }
+        ],
+        "LastName": "Preiser",
+        "ForeName": "Wolfgang",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rural Health Services, Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Pienaar",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Groote Schuur Hospital, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and HIV Medicine, Department of Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Mendelson",
+        "ForeName": "Marc",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mitchells Plain Hospital, Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Naude",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tygerberg Hospital, Western Cape Government: Health, Parow, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Stellenbosch University, Stellenbosch, South Africa."
+          }
+        ],
+        "LastName": "Schrueder",
+        "ForeName": "Neshaad",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Khayelitsha District Hospital, Western Cape Government: Health, Khayelitsha, South Africa."
+          }
+        ],
+        "LastName": "Mnguni",
+        "ForeName": "Ayanda",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Karl Bremer Hospital, Western Cape Government: Health, Bellville, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Le Roux",
+        "ForeName": "Sue",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Metro Health Services, Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Murie",
+        "ForeName": "Kathleen",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tygerberg Hospital, Western Cape Government: Health, Parow, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, Stellenbosch University, Tygerberg, South Africa."
+          }
+        ],
+        "LastName": "Prozesky",
+        "ForeName": "Hans",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Health Systems and Public Health, Department of Global Health, Stellenbosch University, Tygerberg, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Metro Health Services, Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Mahomed",
+        "ForeName": "Hassan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Rossouw",
+        "ForeName": "Liezel",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Groote Schuur Hospital, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Infectious Disease Research in Africa, Institute of Infectious Disease and Molecular Medicine, University of Cape Town, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and HIV Medicine, Department of Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Wasserman",
+        "ForeName": "Sean",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Groote Schuur Hospital, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Maughan",
+        "ForeName": "Deborah",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Groote Schuur Hospital, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and HIV Medicine, Department of Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Boloko",
+        "ForeName": "Linda",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Karl Bremer Hospital, Western Cape Government: Health, Bellville, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Barry",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tygerberg Hospital, Western Cape Government: Health, Parow, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, Stellenbosch University, Tygerberg, South Africa."
+          }
+        ],
+        "LastName": "Taljaard",
+        "ForeName": "Jantjie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Groote Schuur Hospital, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Symons",
+        "ForeName": "Greg",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Groote Schuur Hospital, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Ntusi",
+        "ForeName": "Ntobeko A B",
+        "Initials": "NAB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tygerberg Hospital, Western Cape Government: Health, Parow, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, Stellenbosch University, Tygerberg, South Africa."
+          }
+        ],
+        "LastName": "Parker",
+        "ForeName": "Arifa",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute for Communicable Diseases, National Health Laboratory Service, Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "Wolter",
+        "ForeName": "Nicole",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute for Communicable Diseases, National Health Laboratory Service, Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "Jassat",
+        "ForeName": "Waasila",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute for Communicable Diseases, National Health Laboratory Service, Johannesburg, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Health Sciences, School of Public Health, University of the Witwatersrand, Johannesburg, South Africa."
+          }
+        ],
+        "LastName": "Cohen",
+        "ForeName": "Cheryl",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research, Innovation & Sequencing Platform, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Lessells",
+        "ForeName": "Richard",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Infectious Disease Research in Africa, Institute of Infectious Disease and Molecular Medicine, University of Cape Town, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Francis Crick Institute, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Wilkinson",
+        "ForeName": "Robert J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Arendse",
+        "ForeName": "Juanita",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Kariem",
+        "ForeName": "Saadiq",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Moodley",
+        "ForeName": "Melvin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Department of Health, Pretoria, South Africa."
+          }
+        ],
+        "LastName": "Wolmarans",
+        "ForeName": "Milani",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Western Cape Government: Health, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Cloete",
+        "ForeName": "Keith",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Intelligence, Western Cape Government: Health, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Disease Epidemiology and Research, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Public Health Medicine, School of Public Health and Family Medicine, University of Cape Town, Cape Town, South Africa."
+          }
+        ],
+        "LastName": "Boulle",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "Western Cape and South African National Departments of Health in collaboration with the National Institute for Communicable Diseases in South Africa Affiliations"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "203135/Z/16/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "FC0010218",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "INV-017293",
+        "Acronym": "GATES",
+        "Agency": "Bill & Melinda Gates Foundation",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HD080465",
+        "Acronym": "HD",
+        "Agency": "NICHD NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "1191327",
+        "Acronym": "GATES",
+        "Agency": "Bill & Melinda Gates Foundation",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "1164272",
+        "Acronym": "GATES",
+        "Agency": "Bill & Melinda Gates Foundation",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "214321/Z/18/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "FC0010218",
+        "Acronym": "CRUK_",
+        "Agency": "Cancer Research UK",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "FC0010218",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "222574",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "U01 AI069924",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Trop Med Int Health",
+    "NlmUniqueID": "9610576",
+    "ISSNLinking": "1360-2276"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2022 Jan 12;:",
+      "PMID": "35043121"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "administration & dosage"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Clinical Laboratory Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cohort Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seroepidemiologic Studies"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "South Africa"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ]
+}

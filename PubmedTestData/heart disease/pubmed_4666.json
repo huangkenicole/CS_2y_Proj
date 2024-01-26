@@ -1,0 +1,143 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34804150",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "11",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "8628335",
+      "10.1155/2021/8628335"
+    ],
+    "Journal": {
+      "ISSN": "1687-5273",
+      "JournalIssue": {
+        "Volume": "2021",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "Computational intelligence and neuroscience",
+      "ISOAbbreviation": "Comput Intell Neurosci"
+    },
+    "ArticleTitle": "Computational Learning Model for Prediction of Heart Disease Using Machine Learning Based on a New Regularizer.",
+    "Pagination": {
+      "StartPage": "8628335",
+      "MedlinePgn": "8628335"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Heart diseases are characterized as heterogeneous diseases comprising multiple subtypes. Early diagnosis and prognosis of heart disease are essential to facilitate the clinical management of patients. In this research, a new computational model for predicting early heart disease is proposed. The predictive model is embedded in a new regularization based on decaying the weights according to the weight matrices' standard deviation and comparing the results against its parents (RSD-ANN). The performance of RSD-ANN is far better than that of the existing methods. Based on our experiments, the average validation accuracy computed was 96.30% using either the tenfold cross-validation or holdout method."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Abdulaziz Albahr et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3936-4349"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Applied Medical Sciences, King Saud Bin Abdulaziz University for Health Sciences, Al-Ahsa 31982, Saudi Arabia."
+          }
+        ],
+        "LastName": "Albahr",
+        "ForeName": "Abdulaziz",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3586-3423"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Science, Umm Al Qura University, P.O. Box 715, Mecca, Saudi Arabia."
+          }
+        ],
+        "LastName": "Albahar",
+        "ForeName": "Marwan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5780-9749"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Science, Umm Al Qura University, P.O. Box 715, Mecca, Saudi Arabia."
+          }
+        ],
+        "LastName": "Thanoon",
+        "ForeName": "Mohammed",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0915-7058"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "King Abdulaziz University, Computer Information System Department, Jeddah, Saudi Arabia."
+          }
+        ],
+        "LastName": "Binsawad",
+        "ForeName": "Muhammad",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Intell Neurosci",
+    "NlmUniqueID": "101279357"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflicts of interest."
+}

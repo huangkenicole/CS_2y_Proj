@@ -1,0 +1,179 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33731442",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1158/0008-5472.CAN-20-3348"
+    ],
+    "Journal": {
+      "ISSN": "1538-7445",
+      "JournalIssue": {
+        "Volume": "81",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "15"
+        }
+      },
+      "Title": "Cancer research",
+      "ISOAbbreviation": "Cancer Res"
+    },
+    "ArticleTitle": "The Landscape of the Heritable Cancer Genome.",
+    "Pagination": {
+      "StartPage": "2588",
+      "EndPage": "2599",
+      "MedlinePgn": "2588-2599"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Genome-wide association studies (GWAS) have found hundreds of single-nucleotide polymorphisms (SNP) associated with increased risk of cancer. However, the amount of heritable risk explained by SNPs is limited, leaving most of the cancer heritability unexplained. Tumor sequencing projects have shown that causal mutations are enriched in genic regions. We hypothesized that SNPs located in protein coding genes and nearby regulatory regions could explain a significant proportion of the heritable risk of cancer. To perform gene-level heritability analysis, we developed a new method, called Bayesian Gene Heritability Analysis (BAGHERA), to estimate the heritability explained by all genotyped SNPs and by those located in genic regions using GWAS summary statistics. BAGHERA was specifically designed for low heritability traits such as cancer and provides robust heritability estimates under different genetic architectures. BAGHERA-based analysis of 38 cancers reported in the UK Biobank showed that SNPs explain at least 10% of the heritable risk for 14 of them, including late onset malignancies. We then identified 1,146 genes, called cancer heritability genes (CHG), explaining a significant proportion of cancer heritability. CHGs were involved in hallmark processes controlling the transformation from normal to cancerous cells. Importantly, 60 of them also harbored somatic driver mutations, and 27 are tumor suppressors. Our results suggest that germline and somatic mutation information could be exploited to identify subgroups of individuals at higher risk of cancer in the broader population and could prove useful to establish strategies for early detection and cancer surveillance. SIGNIFICANCE: This study describes a new statistical method to identify genes associated with cancer heritability in the broader population, creating a map of the heritable cancer genome with gene-level resolution.<i>See related commentary by Bader, p. 2586</i>."
+      ],
+      "CopyrightInformation": "\u00a92021 American Association for Cancer Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3852-6908"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Quantitative Biology, Biochemistry, and Biotechnology, SynthSys, School of Biological Sciences, University of Edinburgh, Edinburgh, United Kingdom."
+          }
+        ],
+        "LastName": "Fanfani",
+        "ForeName": "Viola",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8702-5654"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Electronic Engineering, University of Essex, Colchester, United Kingdom."
+          }
+        ],
+        "LastName": "Citi",
+        "ForeName": "Luca",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1376-8409"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Oncology Laboratories, Department of Oncology, The Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Harris",
+        "ForeName": "Adrian L",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Laboratory Sciences, University of Oxford, John Radcliffe Hospital, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Pezzella",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Quantitative Biology, Biochemistry, and Biotechnology, SynthSys, School of Biological Sciences, University of Edinburgh, Edinburgh, United Kingdom. giovanni.stracquadanio@ed.ac.uk."
+          }
+        ],
+        "LastName": "Stracquadanio",
+        "ForeName": "Giovanni",
+        "Initials": "G"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "11359",
+        "Acronym": "CRUK_",
+        "Agency": "Cancer Research UK",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Comment"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Cancer Res",
+    "NlmUniqueID": "2984705R",
+    "ISSNLinking": "0008-5472"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Cancer Res. 2021 May 15;81(10):2586-2587",
+      "PMID": "33999839"
+    },
+    {
+      "RefSource": "Cancer Res. 2021 May 15;81(10):2586-2587",
+      "PMID": "33999839"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome-Wide Association Study"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

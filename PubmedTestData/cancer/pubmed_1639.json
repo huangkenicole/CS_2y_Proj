@@ -1,0 +1,165 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "17369656",
+  "DateCompleted": {
+    "Year": "2007",
+    "Month": "06",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1752-7791",
+      "JournalIssue": {
+        "PubDate": {
+          "Year": "2006"
+        }
+      },
+      "Title": "Computational systems bioinformatics. Computational Systems Bioinformatics Conference",
+      "ISOAbbreviation": "Comput Syst Bioinformatics Conf"
+    },
+    "ArticleTitle": "Expectation-maximization method for reconstructing tumor phylogenies from single-cell data.",
+    "Pagination": {
+      "StartPage": "371",
+      "EndPage": "380",
+      "MedlinePgn": "371-80"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Recent studies of gene expression in cancerous tumors have revealed that cancers presenting indistinguishable symptoms in the clinic can represent substantially different entities at the molecular level. The ability to distinguish between these different cancers makes possible more accurate prognoses and more finely targeted therapeutics. Making full use of this knowledge, however, requires characterizing commonly occurring cancer sub-types and the specific molecular abnormalities that produce them. Computational approaches to this problem to date have been hindered by the fact that tumors are highly heterogeneous masses typically containing cells at multiple stages of progression from healthy to aggressively malignant. We present a computational approach for taking advantage of tumor heterogeneity when characterizing tumor progression pathways by inferring those pathways from single-cell assays. Our approach uses phylogenetic algorithms to infer likely evolutionary sequences producing cell populations in single tumors, which are in turn used to create a profile of commonly used pathways across the patient population. This approach is combined with expectation maximization to infer unknown parameters used in the phylogeny construction. We demonstrate the approach on a set of fluorescent in situ hybridization (FISH) data measuring cell-by-cell gene and chromosome copy numbers in a large sample of breast cancers. The results validate the proposed computational methods by showing consistency with several previous findings on these cancers. They also provide novel insights into the mechanisms of tumor progression in these patients."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA 15213, USA."
+          }
+        ],
+        "LastName": "Pennington",
+        "ForeName": "G",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Smith",
+        "ForeName": "C A",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Shackney",
+        "ForeName": "S",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Schwartz",
+        "ForeName": "R",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Syst Bioinformatics Conf",
+    "NlmUniqueID": "101294517",
+    "ISSNLinking": "1752-7791"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "In Situ Hybridization, Fluorescence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "human positioning accuracy",
+      "machine learning",
+      "motion tracking systems",
+      "musculoskeletal rehabilitation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37836887",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "09",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "8058",
+      "10.3390/s23198058"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "19",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep",
+          "Day": "24"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Examination of the Accuracy of Movement Tracking Systems for Monitoring Exercise for Musculoskeletal Rehabilitation.",
+    "Abstract": {
+      "AbstractText": [
+        "When patients perform musculoskeletal rehabilitation exercises, it is of great importance to observe the correctness of their performance. The aim of this study is to increase the accuracy of recognizing human movements during exercise. The process of monitoring and evaluating musculoskeletal rehabilitation exercises was modeled using various tracking systems, and the necessary algorithms for processing information for each of the tracking systems were formalized. An approach to classifying exercises using machine learning methods is presented. Experimental studies were conducted to identify the most accurate tracking systems (virtual reality trackers, motion capture, and computer vision). A comparison of machine learning models is carried out to solve the problem of classifying musculoskeletal rehabilitation exercises, and 96% accuracy is obtained when using multilayer dense neural networks. With the use of computer vision technologies and the processing of a full set of body points, the accuracy of classification achieved is 100%. The hypotheses on the ranking of tracking systems based on the accuracy of positioning of human target points, the presence of restrictions on application in the field of musculoskeletal rehabilitation, and the potential to classify exercises are fully confirmed."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-3450-5213"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of VR Simulators, Tambov State Technical University, 392000 Tambov, Russia."
+          }
+        ],
+        "LastName": "Obukhov",
+        "ForeName": "Artem",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7109-9114"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of VR Simulators, Tambov State Technical University, 392000 Tambov, Russia."
+          }
+        ],
+        "LastName": "Volkov",
+        "ForeName": "Andrey",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4136-1227"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Higher Mathematics, Tambov State Technical University, 392000 Tambov, Russia."
+          }
+        ],
+        "LastName": "Pchelintsev",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of VR Simulators, Tambov State Technical University, 392000 Tambov, Russia."
+          }
+        ],
+        "LastName": "Nazarova",
+        "ForeName": "Alexandra",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of VR Simulators, Tambov State Technical University, 392000 Tambov, Russia."
+          }
+        ],
+        "LastName": "Teselkin",
+        "ForeName": "Daniil",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of VR Simulators, Tambov State Technical University, 392000 Tambov, Russia."
+          }
+        ],
+        "LastName": "Surkova",
+        "ForeName": "Ekaterina",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of VR Simulators, Tambov State Technical University, 392000 Tambov, Russia."
+          }
+        ],
+        "LastName": "Fedorchuk",
+        "ForeName": "Ivan",
+        "Initials": "I"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "122012100103-9",
+        "Agency": "Ministry of Science and Higher Education of the Russian Federation",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Movement"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

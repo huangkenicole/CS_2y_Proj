@@ -1,0 +1,140 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer-associated variant",
+      "Correlation filter",
+      "Feature selection",
+      "Multiobjective optimization",
+      "Somatic variant"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33121438",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "11",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "11",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "10",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "486",
+      "10.1186/s12859-020-03767-0"
+    ],
+    "Journal": {
+      "ISSN": "1471-2105",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Oct",
+          "Day": "30"
+        }
+      },
+      "Title": "BMC bioinformatics",
+      "ISOAbbreviation": "BMC Bioinformatics"
+    },
+    "ArticleTitle": "Feature selection algorithm based on dual correlation filters for cancer-associated somatic variants.",
+    "Pagination": {
+      "StartPage": "486",
+      "MedlinePgn": "486"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Since the development of sequencing technology, an enormous amount of genetic information has been generated, and human cancer analysis using this information is drawing attention. As the effects of variants on human cancer become known, it is important to find cancer-associated variants among countless variants.",
+        "We propose a new filter-based feature selection method applicable for extracting cancer-associated somatic variants considering correlations of data. Both variants associated with the activation and deactivation of cancer's characteristics are analyzed using dual correlation filters. The multiobjective optimization is utilized to consider two types of variants simultaneously without redundancy. To overcome high computational complexity problem, we calculate the correlation-based weight to select significant variants instead of directly searching for the optimal subset of variants. The proposed algorithm is applied to the identification of melanoma metastasis or breast cancer stage, and the classification results of the proposed method are compared with those of conventional single correlation filter-based method.",
+        "We verified that the proposed dual correlation filter-based method can extract cancer-associated variants related to the characteristics of human cancer."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro, Yuseong-gu, 34141, Daejeon, Republic of Korea."
+          }
+        ],
+        "LastName": "Seo",
+        "ForeName": "Hyein",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9849-4392"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro, Yuseong-gu, 34141, Daejeon, Republic of Korea. dhcho@kaist.ac.kr."
+          }
+        ],
+        "LastName": "Cho",
+        "ForeName": "Dong-Ho",
+        "Initials": "DH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Bioinformatics",
+    "NlmUniqueID": "100965194",
+    "ISSNLinking": "1471-2105"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

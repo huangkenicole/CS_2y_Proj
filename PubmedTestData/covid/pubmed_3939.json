@@ -1,0 +1,155 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Agent-based model",
+      "COVID-19",
+      "Household transmission",
+      "Pandemic",
+      "Social network",
+      "Stay-at-home policy",
+      "Working hours"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36540805",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "12",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e14353",
+      "10.7717/peerj.14353"
+    ],
+    "Journal": {
+      "ISSN": "2167-8359",
+      "JournalIssue": {
+        "Volume": "10",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "PeerJ",
+      "ISOAbbreviation": "PeerJ"
+    },
+    "ArticleTitle": "Using a real-world network to model the trade-off between stay-at-home restriction, vaccination, social distancing and working hours on COVID-19 dynamics.",
+    "Pagination": {
+      "StartPage": "e14353",
+      "MedlinePgn": "e14353"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Human behaviour, economic activity, vaccination, and social distancing are inseparably entangled in epidemic management. This study aims to investigate the effects of various parameters such as stay-at-home restrictions, work hours, vaccination, and social distance on the containment of pandemics such as COVID-19.",
+        "To achieve this, we have developed an agent based model based on a time-dynamic graph with stochastic transmission events. The graph is constructed from a real-world social network. The edges of graph have been categorized into three categories: home, workplaces, and social environment. The conditions needed to mitigate the spread of wild-type COVID-19 and the delta variant have been analyzed. Our purposeful agent based model has carefully executed tens of thousands of individual-based simulations. We propose simple relationships for the trade-offs between effective reproduction number (<i>R</i> <sub>e</sub>), transmission rate, working hours, vaccination, and stay-at-home restrictions.",
+        "We have found that the effect of a 13.6% increase in vaccination for wild-type (WT) COVID-19 is equivalent to reducing four hours of work or a one-day stay-at-home restriction. For the delta, 20.2% vaccination has the same effect. Also, since we can keep track of household and non-household infections, we observed that the change in household transmission rate does not significantly alter the <i>R</i> <sub>e</sub>. Household infections are not limited by transmission rate due to the high frequency of connections. For the specifications of COVID-19, the <i>R</i> <sub>e</sub> depends on the non-household transmissions rate.",
+        "Our findings highlight that decreasing working hours is the least effective among the non-pharmaceutical interventions. Our results suggest that policymakers decrease work-related activities as a last resort and should probably not do so when the effects are minimal, as shown. Furthermore, the enforcement of stay-at-home restrictions is moderately effective and can be used in conjunction with other measures if absolutely necessary."
+      ],
+      "CopyrightInformation": "\u00a92022 Nashebi et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Yildiz Technical University, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Nashebi",
+        "ForeName": "Ramin",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Yildiz Technical University, Istanbul, Turkey."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics Engineering, Faculty of Science and Letters, Istanbul Technical University, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Sari",
+        "ForeName": "Murat",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biophysics, School of Medicine, Bahcesehir University, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Kotil",
+        "ForeName": "Seyfullah",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PeerJ",
+    "NlmUniqueID": "101603425",
+    "ISSNLinking": "2167-8359"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Distancing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    }
+  ],
+  "CoiStatement": "The authors declare there are no competing interests."
+}

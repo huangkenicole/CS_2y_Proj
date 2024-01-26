@@ -1,0 +1,149 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "NASA Center JSC",
+      "NASA Discipline Data Analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [
+    [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NASA JSC"
+          }
+        ],
+        "LastName": "Webster",
+        "ForeName": "L",
+        "Initials": "L"
+      }
+    ]
+  ],
+  "PMID": "8334874",
+  "DateCompleted": {
+    "Year": "1993",
+    "Month": "08",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "09",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0169-2607",
+      "JournalIssue": {
+        "Volume": "39",
+        "Issue": "3-4",
+        "PubDate": {
+          "Year": "1993",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "Exercise countermeasure protocol management expert system.",
+    "Pagination": {
+      "StartPage": "217",
+      "EndPage": "223",
+      "MedlinePgn": "217-23"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Exercise will be used primarily to countermeasure against deconditioning on extended space flight. In this paper we describe the development and evaluation of an expert system for exercise countermeasure protocol management. Currently, the system includes two major subsystems: baseline prescription and prescription adjustment. The baseline prescription subsystem is designed to provide initial exercise prescriptions while prescription adjustment subsystem is designed to modify the initial prescription based on the exercised progress. The system runs under three different environments: PC, SUN workstation, and Symbolic machine. The inference engine, baseline prescription module, prescription adjustment module and explanation module are developed under the Symbolic environment by using the ART (Automated Reasoning Tool) software. The Sun environment handles database management features and interfaces with PC environment to obtain physical and physiological data from exercise units on-board during the flight. Eight subjects' data have been used to evaluate the system performance by comparing the prescription of nine experienced exercise physiologists and the one prescribed by the expert system. The results of the validation test indicated that the performance of the expert system was acceptable."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NASA/Johnson Space Center, Automation and Robotics Division, Houston, TX."
+          }
+        ],
+        "LastName": "Webster",
+        "ForeName": "L",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chen",
+        "ForeName": "J G",
+        "Initials": "JG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Flores",
+        "ForeName": "L",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tan",
+        "ForeName": "S",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Analysis of Variance"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Expert Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Physical Fitness"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prescriptions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Space Flight"
+    }
+  ]
+}

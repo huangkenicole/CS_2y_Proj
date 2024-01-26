@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "17699079",
+  "DateCompleted": {
+    "Year": "2007",
+    "Month": "10",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2010",
+    "Month": "11",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0090-3558",
+      "JournalIssue": {
+        "Volume": "43",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Journal of wildlife diseases",
+      "ISOAbbreviation": "J Wildl Dis"
+    },
+    "ArticleTitle": "Modeling plague persistence in host-vector communities in California.",
+    "Pagination": {
+      "StartPage": "408",
+      "EndPage": "424",
+      "MedlinePgn": "408-24"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Plague is an enzootic disease in the western United States, even though long-term persistent infections do not seem to occur. Enzootic persistence may occur as a function of dynamic interactions between flea vectors and transiently infected hosts, but the specific levels of vector competence, host competence, and transmission and recovery rates that would promote persistence and emergence among wild hosts and vectors are not known. We developed a mathematical model of enzootic plague in the western United States and implemented the model with the following objectives: 1) to use matrix manipulation within a classic susceptible-->infective-->resistant-->susceptible (SIRS) model framework to describe transmission of the plague bacterium Yersinia pestis among rodents and fleas in California, 2) to perform sensitivity analysis with model parameters and variables to indicate which values tended to dominate model output, and 3) to determine whether enzootic maintenance would be predicted with realistic parameter values obtained from the literature for Y. pestis in California rodents and fleas. The model PlagueSIRS was implemented in discrete time as a computer simulation incorporating environmental stochasticity and seasonality, by using matrix functions in the computer language R, allowing any number of rodent and flea species to interact through parasitism and disease transmission. Sensitivity analysis indicated that the model was sensitive to flea attack rate, host recovery rate, and rodent host carrying capacity but relatively insensitive to changes in the duration of latent infection in the flea, host and vector competence, flea recovery from infection, and host mortality attributable to plague. Realistic parameters and variable values did allow for the model to predict enzootic plague in some combinations, specifically when rodent species that were susceptible to infection but resistant to morbidity were parasitized by multiple poorly competent flea species, including some that were present year-round. This model could be extended to similar vectorborne disease systems and could be used iteratively with data collection in sylvatic plague studies to better understand plague persistence and emergence in nature."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine and Epidemiology, School of Veterinary Medicine, University of California, Davis, California 95616, USA. jefoley@ucdavis.edu"
+          }
+        ],
+        "LastName": "Foley",
+        "ForeName": "Janet E",
+        "Initials": "JE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zipser",
+        "ForeName": "Jennifer",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chomel",
+        "ForeName": "Bruno",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Girvetz",
+        "ForeName": "Evan",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Foley",
+        "ForeName": "Patrick",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Wildl Dis",
+    "NlmUniqueID": "0244160",
+    "ISSNLinking": "0090-3558"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "California"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "microbiology"
+      ],
+      "DescriptorName": "Insect Vectors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "veterinary"
+      ],
+      "DescriptorName": "Plague"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "Rodent Diseases"
+    },
+    {
+      "QualifierName": [
+        "parasitology"
+      ],
+      "DescriptorName": "Rodentia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seasons"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "microbiology"
+      ],
+      "DescriptorName": "Siphonaptera"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Yersinia pestis"
+    }
+  ]
+}

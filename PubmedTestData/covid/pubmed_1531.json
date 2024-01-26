@@ -1,0 +1,257 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33245774",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa1094"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "PAGER-CoV: a comprehensive collection of pathways, annotated gene-lists and gene signatures for coronavirus disease studies.",
+    "Pagination": {
+      "StartPage": "D589",
+      "EndPage": "D599",
+      "MedlinePgn": "D589-D599"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "PAGER-CoV (http://discovery.informatics.uab.edu/PAGER-CoV/) is a new web-based database that can help biomedical researchers interpret coronavirus-related functional genomic study results in the context of curated knowledge of host viral infection, inflammatory response, organ damage, and tissue repair. The new database consists of 11 835 PAGs (Pathways, Annotated gene-lists, or Gene signatures) from 33 public data sources. Through the web user interface, users can search by a query gene or a query term and retrieve significantly matched PAGs with all the curated information. Users can navigate from a PAG of interest to other related PAGs through either shared PAG-to-PAG co-membership relationships or PAG-to-PAG regulatory relationships, totaling 19 996 993. Users can also retrieve enriched PAGs from an input list of COVID-19 functional study result genes, customize the search data sources, and export all results for subsequent offline data analysis. In a case study, we performed a gene set enrichment analysis (GSEA) of a COVID-19 RNA-seq data set from the Gene Expression Omnibus database. Compared with the results using the standard PAGER database, PAGER-CoV allows for more sensitive matching of known immune-related gene signatures. We expect PAGER-CoV to be invaluable for biomedical researchers to find molecular biology mechanisms and tailored therapeutics to treat COVID-19 patients."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Informatics Institute, School of Medicine, The University of Alabama at Birmingham, Birmingham, AL 35223, USA."
+          }
+        ],
+        "LastName": "Yue",
+        "ForeName": "Zongliang",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Informatics Institute, School of Medicine, The University of Alabama at Birmingham, Birmingham, AL 35223, USA."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Wisconsin-Madison School of Medicine and Public Health, Institute of Clinical and Translational Research, Madison, WI 53705-2221, USA."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Clark",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Informatics Institute, School of Medicine, The University of Alabama at Birmingham, Birmingham, AL 35223, USA."
+          }
+        ],
+        "LastName": "Khurana",
+        "ForeName": "Sunny",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Informatics Institute, School of Medicine, The University of Alabama at Birmingham, Birmingham, AL 35223, USA."
+          }
+        ],
+        "LastName": "Batra",
+        "ForeName": "Nishant",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Informatics Institute, School of Medicine, The University of Alabama at Birmingham, Birmingham, AL 35223, USA."
+          }
+        ],
+        "LastName": "Dang",
+        "ForeName": "Son Do Hai",
+        "Initials": "SDH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Informatics Institute, School of Medicine, The University of Alabama at Birmingham, Birmingham, AL 35223, USA."
+          }
+        ],
+        "LastName": "Cimino",
+        "ForeName": "James J",
+        "Initials": "JJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Informatics Institute, School of Medicine, The University of Alabama at Birmingham, Birmingham, AL 35223, USA."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Jake Y",
+        "Initials": "JY"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "UL1TR003096-01",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 CA223976",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Coronavirus"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Data Curation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Information Storage and Retrieval"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Molecular Sequence Annotation"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "User-Computer Interface"
+    }
+  ]
+}

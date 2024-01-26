@@ -1,0 +1,406 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33510385",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41422-020-00465-7"
+    ],
+    "Journal": {
+      "ISSN": "1748-7838",
+      "JournalIssue": {
+        "Volume": "31",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Cell research",
+      "ISOAbbreviation": "Cell Res"
+    },
+    "ArticleTitle": "The m<sup>6</sup>A methylome of SARS-CoV-2 in host cells.",
+    "Pagination": {
+      "StartPage": "404",
+      "EndPage": "414",
+      "MedlinePgn": "404-414"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The newly identified Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has resulted in a global health emergency because of its rapid spread and high mortality. The molecular mechanism of interaction between host and viral genomic RNA is yet unclear. We demonstrate herein that SARS-CoV-2 genomic RNA, as well as the negative-sense RNA, is dynamically N<sup>6</sup>-methyladenosine (m<sup>6</sup>A)-modified in human and monkey cells. Combined RIP-seq and miCLIP analyses identified a total of 8 m<sup>6</sup>A sites at single-base resolution in the genome. Especially, epidemic strains with mutations at these identified m<sup>6</sup>A sites have emerged worldwide, and formed a unique cluster in the US as indicated by phylogenetic analysis. Further functional experiments showed that m<sup>6</sup>A methylation negatively regulates SARS-CoV-2 infection. SARS-CoV-2 infection also triggered a global increase in host m<sup>6</sup>A methylome, exhibiting altered localization and motifs of m<sup>6</sup>A methylation in mRNAs. Altogether, our results identify m<sup>6</sup>A as a dynamic epitranscriptomic mark mediating the virus-host interaction."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Protein and Plant Gene Research, School of Life Sciences, Peking University, Beijing, 100871, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing Advanced Innovation Center for Genomics (ICG), Peking University, Beijing, 100871, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Pioneering Innovation Center, Ministry of Education Key Laboratory of Cell Proliferation and Differentiation, Beijing, 100871, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Jun'e",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8764-4412"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, 100071, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Yan-Peng",
+        "Initials": "YP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Protein and Plant Gene Research, School of Life Sciences, Peking University, Beijing, 100871, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Academy for Advanced Interdisciplinary Studies, Peking University, Beijing, 100871, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Peking-Tsinghua Center for Life Sciences, Peking University, Beijing, 100871, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Kai",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, 100071, China."
+          }
+        ],
+        "LastName": "Ye",
+        "ForeName": "Qing",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Suzhou Institute of System Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, 215000, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Hang-Yu",
+        "Initials": "HY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Protein and Plant Gene Research, School of Life Sciences, Peking University, Beijing, 100871, China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Hanxiao",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Protein and Plant Gene Research, School of Life Sciences, Peking University, Beijing, 100871, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Xiaoyu",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, 100071, China."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Liu",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, 100071, China."
+          }
+        ],
+        "LastName": "Deng",
+        "ForeName": "Yong-Qiang",
+        "Initials": "YQ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, 100071, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Rui-Ting",
+        "Initials": "RT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, 100071, China."
+          }
+        ],
+        "LastName": "Cheng",
+        "ForeName": "Meng-Li",
+        "Initials": "ML"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Academy for Advanced Interdisciplinary Studies, Peking University, Beijing, 100871, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Peking-Tsinghua Center for Life Sciences, Peking University, Beijing, 100871, China."
+          }
+        ],
+        "LastName": "He",
+        "ForeName": "Bo",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9029-7642"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, 100071, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Jia",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, 100071, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Xiao-Feng",
+        "Initials": "XF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Suzhou Institute of System Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Suzhou, Jiangsu, 215000, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Aiping",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2540-9729"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Protein and Plant Gene Research, School of Life Sciences, Peking University, Beijing, 100871, China. chengqi.yi@pku.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Peking-Tsinghua Center for Life Sciences, Peking University, Beijing, 100871, China. chengqi.yi@pku.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Biology and Synthetic and Functional Biomolecules Center, College of Chemistry and Molecular Engineering, Peking University, Beijing, 100871, China. chengqi.yi@pku.edu.cn."
+          }
+        ],
+        "LastName": "Yi",
+        "ForeName": "Chengqi",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0632-2807"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Academy of Military Medical Sciences, Beijing, 100071, China. qincf@bmi.ac.cn."
+          }
+        ],
+        "LastName": "Qin",
+        "ForeName": "Cheng-Feng",
+        "Initials": "CF"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Cell Res",
+    "NlmUniqueID": "9425763",
+    "ISSNLinking": "1001-0602"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Messenger"
+    },
+    {
+      "RegistryNumber": "CLE6G00625",
+      "NameOfSubstance": "N-methyladenosine"
+    },
+    {
+      "RegistryNumber": "K72T3FS567",
+      "NameOfSubstance": "Adenosine"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "analogs & derivatives",
+        "metabolism"
+      ],
+      "DescriptorName": "Adenosine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chlorocebus aethiops"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutagenesis, Site-Directed"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Messenger"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vero Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Replication"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

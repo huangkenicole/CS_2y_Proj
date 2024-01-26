@@ -1,0 +1,154 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "15130820",
+  "DateCompleted": {
+    "Year": "2004",
+    "Month": "06",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1175-5636",
+      "JournalIssue": {
+        "Volume": "2",
+        "Issue": "3 Suppl",
+        "PubDate": {
+          "Year": "2003"
+        }
+      },
+      "Title": "Applied bioinformatics",
+      "ISOAbbreviation": "Appl Bioinformatics"
+    },
+    "ArticleTitle": "Ensemble machine learning on gene expression data for cancer classification.",
+    "Pagination": {
+      "StartPage": "S75",
+      "EndPage": "S83",
+      "MedlinePgn": "S75-83"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Whole genome RNA expression studies permit systematic approaches to understanding the correlation between gene expression profiles to disease states or different developmental stages of a cell. Microarray analysis provides quantitative information about the complete transcription profile of cells that facilitate drug and therapeutics development, disease diagnosis, and understanding in the basic cell biology. One of the challenges in microarray analysis, especially in cancerous gene expression profiles, is to identify genes or groups of genes that are highly expressed in tumour cells but not in normal cells and vice versa. Previously, we have shown that ensemble machine learning consistently performs well in classifying biological data. In this paper, we focus on three different supervised machine learning techniques in cancer classification, namely C4.5 decision tree, and bagged and boosted decision trees. We have performed classification tasks on seven publicly available cancerous microarray data and compared the classification/prediction performance of these methods. We have observed that ensemble learning (bagged and boosted decision trees) often performs better than single decision trees in this classification task."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Research Centre, Department of Computing Science, University of Glasgow, Glasgow, UK. actan@brc.dcs.gla.ac.uk"
+          }
+        ],
+        "LastName": "Tan",
+        "ForeName": "Aik Choon",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gilbert",
+        "ForeName": "David",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Evaluation Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "New Zealand",
+    "MedlineTA": "Appl Bioinformatics",
+    "NlmUniqueID": "101150311",
+    "ISSNLinking": "1175-5636"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genetic Predisposition to Disease"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pattern Recognition, Automated"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ]
+}

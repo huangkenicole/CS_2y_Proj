@@ -1,0 +1,247 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25991476",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "04",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "05",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s00330-015-3701-8"
+    ],
+    "Journal": {
+      "ISSN": "1432-1084",
+      "JournalIssue": {
+        "Volume": "25",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Oct"
+        }
+      },
+      "Title": "European radiology",
+      "ISOAbbreviation": "Eur Radiol"
+    },
+    "ArticleTitle": "Haralick texture analysis of prostate MRI: utility for differentiating non-cancerous prostate from prostate cancer and differentiating prostate cancers with different Gleason scores.",
+    "Pagination": {
+      "StartPage": "2840",
+      "EndPage": "2850",
+      "MedlinePgn": "2840-50"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To investigate Haralick texture analysis of prostate MRI for cancer detection and differentiating Gleason scores (GS).",
+        "One hundred and forty-seven patients underwent T2- weighted (T2WI) and diffusion-weighted prostate MRI. Cancers \u22650.5\u00a0ml and non-cancerous peripheral (PZ) and transition (TZ) zone tissue were identified on T2WI and apparent diffusion coefficient (ADC) maps, using whole-mount pathology as reference. Texture features (Energy, Entropy, Correlation, Homogeneity, Inertia) were extracted and analysed using generalized estimating equations.",
+        "PZ cancers (n\u2009=\u2009143) showed higher Entropy and Inertia and lower Energy, Correlation and Homogeneity compared to non-cancerous tissue on T2WI and ADC maps (p-values: <.0001-0.008). In TZ cancers (n\u2009=\u200943) we observed significant differences for all five texture features on the ADC map (all p-values: <.0001) and for Correlation (p\u2009=\u20090.041) and Inertia (p\u2009=\u20090.001) on T2WI. On ADC maps, GS was associated with higher Entropy (GS 6 vs. 7: p\u2009=\u20090.0225; 6 vs. >7: p\u2009=\u20090.0069) and lower Energy (GS 6 vs. 7: p\u2009=\u20090.0116, 6 vs. >7: p\u2009=\u20090.0039). ADC map Energy (p\u2009=\u20090.0102) and Entropy (p\u2009=\u20090.0019) were significantly different in GS \u22643\u2009+\u20094 versus \u22654\u2009+\u20093 cancers; ADC map Entropy remained significant after controlling for the median ADC (p\u2009=\u20090.0291).",
+        "Several Haralick-based texture features appear useful for prostate cancer detection and GS assessment.",
+        "\u2022 Several Haralick texture features may differentiate non-cancerous and cancerous prostate tissue. \u2022 Tumour Energy and Entropy on ADC maps correlate with Gleason score. \u2022 T2w-image-derived texture features are not associated with the Gleason score."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Memorial Sloan Kettering Cancer Center, 1275 York Avenue, 10065, New York City, NY, USA, a.wibmer@gmx.net."
+          }
+        ],
+        "LastName": "Wibmer",
+        "ForeName": "Andreas",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hricak",
+        "ForeName": "Hedvig",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gondo",
+        "ForeName": "Tatsuo",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Matsumoto",
+        "ForeName": "Kazuhiro",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Veeraraghavan",
+        "ForeName": "Harini",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fehr",
+        "ForeName": "Duc",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zheng",
+        "ForeName": "Junting",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Goldman",
+        "ForeName": "Debra",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Moskowitz",
+        "ForeName": "Chaya",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fine",
+        "ForeName": "Samson W",
+        "Initials": "SW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Reuter",
+        "ForeName": "Victor E",
+        "Initials": "VE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Eastham",
+        "ForeName": "James",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sala",
+        "ForeName": "Evis",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Vargas",
+        "ForeName": "Hebert Alberto",
+        "Initials": "HA"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 CA008748",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "Eur Radiol",
+    "NlmUniqueID": "9114774",
+    "ISSNLinking": "0938-7994"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diffusion Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Grading"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prostatectomy"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "surgery"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tumor Burden"
+    }
+  ],
+  "CoiStatement": "There were no sources of support or conflicts of interest which require disclosure."
+}

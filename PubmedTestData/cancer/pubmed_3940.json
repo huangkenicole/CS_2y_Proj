@@ -1,0 +1,167 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "Computerized decision support(CDS) system",
+      "Image processing",
+      "Region growing",
+      "Segmentation",
+      "Statistical region merging",
+      "Statistical region merging with region growing",
+      "Stomach cancer"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30874907",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "08",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "03",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10916-019-1203-y"
+    ],
+    "Journal": {
+      "ISSN": "1573-689X",
+      "JournalIssue": {
+        "Volume": "43",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Mar",
+          "Day": "14"
+        }
+      },
+      "Title": "Journal of medical systems",
+      "ISOAbbreviation": "J Med Syst"
+    },
+    "ArticleTitle": "Computer-Aided Diagnosis System for Detection of Stomach Cancer with Image Processing Techniques.",
+    "Pagination": {
+      "StartPage": "99",
+      "MedlinePgn": "99"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Stomach cancer is a type of cancer that is hard to detect at an early stage because it gives almost no symptoms at the beginning. Stomach cancer is an increasing incidence of cancer both in the World as well as in Turkey. The most common method used worldwide for gastric cancer diagnosis is endoscopy. However, definitive diagnosis is made with endoscopic biopsy results. Diagnosis with endoscopy is a very specific and sensitive method. With high-resolution endoscopy it is possible to detect mild discolorations, bulges and structural changes of the surface of the mucosa. However, because the procedures are performed with the eye of a doctor, it is possible that the cancerous areas may be missed and / or incompletely detected. Because of the fact that the cancerous area cannot be completely detected may cause the problem of cancer recurrence after a certain period of surgical intervention. In order to overcome this problem, a computerized decision support system (CDS) has been implemented with the help of specialist physicians and image processing techniques. The performed CDS system works as an assistant to doctors of gastroenterology, helping to identify the cancerous area in the endoscopic images of the scaffold, to take biopsies from these areas and to make a better diagnosis. We believe that gastric cancer will be helpful in determining the area and biopsy samples taken from the patient will be useful in determining the area. It is therefore considered a useful model."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computer Programming, Guneysinir Vocational School of Higher Education Selcuk University, Guneysinir, 42190, Konya, Turkey. aliyasar@selcuk.edu.tr."
+          }
+        ],
+        "LastName": "Yasar",
+        "ForeName": "Ali",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Technology, Electrical and Electronics Engineering Selcuk University, 42031, Konya, Turkey."
+          }
+        ],
+        "LastName": "Saritas",
+        "ForeName": "Ismail",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Faculty of Medicine, Selcuk University, 42031, Konya, Turkey."
+          }
+        ],
+        "LastName": "Korkmaz",
+        "ForeName": "Huseyin",
+        "Initials": "H"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "15101020",
+        "Agency": "Sel\u00e7uk \u00dcniversitesi",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Med Syst",
+    "NlmUniqueID": "7806056",
+    "ISSNLinking": "0148-5598"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Endoscopy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Stomach"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Turkey"
+    }
+  ]
+}

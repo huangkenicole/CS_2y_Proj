@@ -1,0 +1,356 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38065987",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "12",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "21705",
+      "10.1038/s41598-023-47488-9"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Dec",
+          "Day": "07"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Diversity of symptom phenotypes in SARS-CoV-2 community infections observed in multiple large datasets.",
+    "Pagination": {
+      "StartPage": "21705",
+      "MedlinePgn": "21705"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Variability in case severity and in the range of symptoms experienced has been apparent from the earliest months of the COVID-19 pandemic. From a clinical perspective, symptom variability might indicate various routes/mechanisms by which infection leads to disease, with different routes requiring potentially different treatment approaches. For public health and control of transmission, symptoms in community cases were the prompt upon which action such as PCR testing and isolation was taken. However, interpreting symptoms presents challenges, for instance, in balancing the sensitivity and specificity of individual symptoms with the need to maximise case finding, whilst managing demand for limited resources such as testing. For both clinical and transmission control reasons, we require an approach that allows for the possibility of distinct symptom phenotypes, rather than assuming variability along a single dimension. Here we address this problem by bringing together four large and diverse datasets deriving from routine testing, a population-representative household survey and participatory smartphone surveillance in the United Kingdom. Through the use of cutting-edge unsupervised classification techniques from statistics and machine learning, we characterise symptom phenotypes among symptomatic SARS-CoV-2 PCR-positive community cases. We first analyse each dataset in isolation and across age bands, before using methods that allow us to compare multiple datasets. While we observe separation due to the total number of symptoms experienced by cases, we also see a separation of symptoms into gastrointestinal, respiratory and other types, and different symptom co-occurrence patterns at the extremes of age. In this way, we are able to demonstrate the deep structure of symptoms of COVID-19 without usual biases due to study design. This is expected to have implications for the identification and management of community SARS-CoV-2 cases and could be further applied to symptom-based management of other diseases and syndromes."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of Manchester, Manchester, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute for Data Science and Artificial Intelligence, London, NW1 2DB, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "United Kingdom Health Security Agency (UKHSA), London, UK."
+          }
+        ],
+        "LastName": "Fyles",
+        "ForeName": "Martyn",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Engineering, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute for Health Research Health Protection Research Unit in Healthcare Associated Infections and Antimicrobial Resistance, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Vihta",
+        "ForeName": "Karina-Doris",
+        "Initials": "KD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering & Imaging Sciences, King's College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Unit for Lifelong Health and Ageing, University College London, London, UK."
+          }
+        ],
+        "LastName": "Sudre",
+        "ForeName": "Carole H",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "United Kingdom Health Security Agency (UKHSA), London, UK."
+          }
+        ],
+        "LastName": "Long",
+        "ForeName": "Harry",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of Manchester, Manchester, UK."
+          }
+        ],
+        "LastName": "Das",
+        "ForeName": "Rajenki",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute for Data Science and Artificial Intelligence, London, NW1 2DB, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Manchester, Oxford Road, Manchester, M13 9PL, UK."
+          }
+        ],
+        "LastName": "Jay",
+        "ForeName": "Caroline",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Sciences and International Public Health, Liverpool School of Tropical Medicine, Liverpool, L3 5QA, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Tropical and Infectious Disease Unit, Liverpool University Hospitals NHS Foundation Trust, Liverpool, L7 8XP, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "WHO Collaborating Centre on Tuberculosis and Social Medicine, Department of Global Public Health, Karolinska Institutet, 171 77, Stockholm, Sweden."
+          }
+        ],
+        "LastName": "Wingfield",
+        "ForeName": "Tom",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "United Kingdom Health Security Agency (UKHSA), London, UK."
+          }
+        ],
+        "LastName": "Cumming",
+        "ForeName": "Fergus",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "United Kingdom Health Security Agency (UKHSA), London, UK."
+          }
+        ],
+        "LastName": "Green",
+        "ForeName": "William",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "United Kingdom Health Security Agency (UKHSA), London, UK."
+          }
+        ],
+        "LastName": "Hadjipantelis",
+        "ForeName": "Pantelis",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "United Kingdom Health Security Agency (UKHSA), London, UK."
+          }
+        ],
+        "LastName": "Kirk",
+        "ForeName": "Joni",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Twin Research and Genetic Epidemiology King's College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ageing and Health Guy's and St Thomas' NHS Foundation Trust, London, UK."
+          }
+        ],
+        "LastName": "Steves",
+        "ForeName": "Claire J",
+        "Initials": "CJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering & Imaging Sciences, King's College London, London, UK."
+          }
+        ],
+        "LastName": "Ourselin",
+        "ForeName": "Sebastien",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for the Mathematical Modelling of Infectious Disease, London School of Hygiene and Tropical Medicine, London, WC1E 7HT, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Global Health and Development, London School of Hygiene and Tropical Medicine, London, WC1E 7HT, UK."
+          }
+        ],
+        "LastName": "Medley",
+        "ForeName": "Graham F",
+        "Initials": "GF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for the Mathematical Modelling of Infectious Disease, London School of Hygiene and Tropical Medicine, London, WC1E 7HT, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Global Health and Development, London School of Hygiene and Tropical Medicine, London, WC1E 7HT, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Global Health, University College London, London, UK."
+          }
+        ],
+        "LastName": "Fearon",
+        "ForeName": "Elizabeth",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of Manchester, Manchester, UK. thomas.house@manchester.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute for Data Science and Artificial Intelligence, London, NW1 2DB, UK. thomas.house@manchester.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "IBM Research, Hartree Centre, Daresbury, WA4 4AD, UK. thomas.house@manchester.ac.uk."
+          }
+        ],
+        "LastName": "House",
+        "ForeName": "Thomas",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

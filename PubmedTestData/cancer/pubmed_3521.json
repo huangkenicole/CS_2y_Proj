@@ -1,0 +1,137 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "11414933",
+  "DateCompleted": {
+    "Year": "2004",
+    "Month": "09",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2006",
+    "Month": "11",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2001",
+        "Month": "04",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1539-3755",
+      "JournalIssue": {
+        "Volume": "63",
+        "Issue": "5 Pt 1",
+        "PubDate": {
+          "Year": "2001",
+          "Month": "May"
+        }
+      },
+      "Title": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+      "ISOAbbreviation": "Phys Rev E Stat Nonlin Soft Matter Phys"
+    },
+    "ArticleTitle": "Cancerous tumor: the high frequency of a rare event.",
+    "Pagination": {
+      "StartPage": "051907",
+      "MedlinePgn": "051907"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A simple model for cancer growth is presented using cellular automata. Cells diffuse randomly on a two-dimensional square lattice. Individual cells can turn cancerous at a very low rate. During each diffusive step, local fights may occur between healthy and cancerous cells. Associated outcomes depend on some biased local rules, which are independent of the overall cancerous cell density. The models unique ingredients are the frequency of local fights and the bias amplitude. While each isolated cancerous cell is eventually destroyed, an initial two-cell tumor cluster is found to have a nonzero probabilty to spread over the whole system. The associated phase diagram for survival or death is obtained as a function of both the rate of fight and the bias distribution. Within the model, although the occurrence of a killing cluster is a very rare event, it turns out to happen almost systematically over long periods of time, e.g., on the order of an adults life span. Thus, after some age, survival from tumorous cancer becomes random."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire des Milieux D\u00e9sordonn\u00e9s et H\u00e9t\u00e9rog\u00e8nes, Universit\u00e9 Pierre et Marie Curie, Case 86, 4 Place Jussieu, F-75252 Paris 05, France. galam@ccr.jussieu.fr"
+          }
+        ],
+        "LastName": "Galam",
+        "ForeName": "S",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Radomski",
+        "ForeName": "J P",
+        "Initials": "JP"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+    "NlmUniqueID": "101136452",
+    "ISSNLinking": "1539-3755"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Death"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Division"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Survival"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diffusion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "etiology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    }
+  ]
+}

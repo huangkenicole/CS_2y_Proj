@@ -1,0 +1,148 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "2057912",
+  "DateCompleted": {
+    "Year": "1991",
+    "Month": "07",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0040-5809",
+      "JournalIssue": {
+        "Volume": "39",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "1991",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Theoretical population biology",
+      "ISOAbbreviation": "Theor Popul Biol"
+    },
+    "ArticleTitle": "Optimal growth schedule of pathogens within a host: switching between lytic and latent cycles.",
+    "Pagination": {
+      "StartPage": "201",
+      "EndPage": "239",
+      "MedlinePgn": "201-39"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We have studied the optimal growth schedule of a pathogen, which maximizes the total number of transmissions from an infected host to other individuals until host death or recovery. It is assumed that both transmission rate f(N) and host mortality increase with the number of pathogens, N. The model predicts that the optimal growth schedule of pathogens strongly depends on the curvature of f(N): If f(N) increases faster than linearly with N, the pathogens should always reproduce at the maximum speed. By contrast, if f(N) saturates with N, the optimal schedule is composed of (1) a brief initial stage of infection, in which the pathogens proliferate at the maximum speed (productive cycle), (2) followed by the long latent period with the \"stationary infection level,\" N* (latent cycle), (3) which may end when the pathogens start rapid proliferation triggered either by the host's senescence (\"programmed break\") or by the sudden rise in the host's mortality (\"incidental break\"). The latter may be caused by the double infection of another strain. We also examine the Nash equilibrium schedule of pathogen growth in the presence of multiple infections."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, Faculty of Science, Kyushu University, Fukuoka, Japan."
+          }
+        ],
+        "LastName": "Sasaki",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Iwasa",
+        "ForeName": "Y",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Theor Popul Biol",
+    "NlmUniqueID": "0256422",
+    "ISSNLinking": "0040-5809"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "growth & development",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Bacteria"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Game Theory"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genes, Switch"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Health Status"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunocompetence"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "microbiology",
+        "transmission"
+      ],
+      "DescriptorName": "Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mortality"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Periodicity"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "growth & development",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Viruses"
+    }
+  ]
+}

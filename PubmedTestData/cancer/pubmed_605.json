@@ -1,0 +1,172 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19874631",
+  "DateCompleted": {
+    "Year": "2010",
+    "Month": "01",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2009",
+        "Month": "10",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1186/1755-8794-2-64"
+    ],
+    "Journal": {
+      "ISSN": "1755-8794",
+      "JournalIssue": {
+        "Volume": "2",
+        "PubDate": {
+          "Year": "2009",
+          "Month": "Oct",
+          "Day": "30"
+        }
+      },
+      "Title": "BMC medical genomics",
+      "ISOAbbreviation": "BMC Med Genomics"
+    },
+    "ArticleTitle": "Accurate molecular classification of cancer using simple rules.",
+    "Pagination": {
+      "StartPage": "64",
+      "MedlinePgn": "64"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "One intractable problem with using microarray data analysis for cancer classification is how to reduce the extremely high-dimensionality gene feature data to remove the effects of noise. Feature selection is often used to address this problem by selecting informative genes from among thousands or tens of thousands of genes. However, most of the existing methods of microarray-based cancer classification utilize too many genes to achieve accurate classification, which often hampers the interpretability of the models. For a better understanding of the classification results, it is desirable to develop simpler rule-based models with as few marker genes as possible.",
+        "We screened a small number of informative single genes and gene pairs on the basis of their depended degrees proposed in rough sets. Applying the decision rules induced by the selected genes or gene pairs, we constructed cancer classifiers. We tested the efficacy of the classifiers by leave-one-out cross-validation (LOOCV) of training sets and classification of independent test sets.",
+        "We applied our methods to five cancerous gene expression datasets: leukemia (acute lymphoblastic leukemia [ALL] vs. acute myeloid leukemia [AML]), lung cancer, prostate cancer, breast cancer, and leukemia (ALL vs. mixed-lineage leukemia [MLL] vs. AML). Accurate classification outcomes were obtained by utilizing just one or two genes. Some genes that correlated closely with the pathogenesis of relevant cancers were identified. In terms of both classification performance and algorithm simplicity, our approach outperformed or at least matched existing methods.",
+        "In cancerous gene expression datasets, a small number of genes, even one or two if selected correctly, is capable of achieving an ideal cancer classification effect. This finding also means that very simple rules may perform well for cancerous class prediction."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Intelligence Science and Technology, Graduate School of Informatics, Kyoto University, Kyoto 606-8501, Japan. david@genome.ist.i.kyoto-u.ac.jp"
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Xiaosheng",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gotoh",
+        "ForeName": "Osamu",
+        "Initials": "O"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med Genomics",
+    "NlmUniqueID": "101319628",
+    "ISSNLinking": "1755-8794"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Acute Disease"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Leukemia, Myeloid"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    }
+  ]
+}

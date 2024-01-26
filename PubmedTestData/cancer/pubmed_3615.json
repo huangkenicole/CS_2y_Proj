@@ -1,0 +1,163 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34385492",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "16414",
+      "10.1038/s41598-021-94847-5"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug",
+          "Day": "12"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Topological analysis of interaction patterns in cancer-specific gene regulatory network: persistent homology approach.",
+    "Pagination": {
+      "StartPage": "16414",
+      "MedlinePgn": "16414"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this study, we investigated cancer cellular networks in the context of gene interactions and their associated patterns in order to recognize the structural features underlying this disease. We aim to propose that the quest of understanding cancer takes us beyond pairwise interactions between genes to a higher-order construction. We characterize the most prominent network deviations in the gene interaction patterns between cancer and normal samples that contribute to the complexity of this disease. What we hope is that through understanding these interaction patterns we will notice a deeper structure in the cancer network. This study uncovers the significant deviations that topological features in cancerous cells show from the healthy one, where the last stage of filtration confirms the importance of one-dimensional holes (topological loops) in cancerous cells and two-dimensional holes (topological voids) in healthy cells. In the small threshold region, the drop in the number of connected components of the cancer network, along with the rise in the number of loops and voids, all occurring at some smaller weight values compared to the normal case, reveals the cancerous network tendency to certain pathways."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Physics Department, Shahid Beheshti University, Tehran, Iran."
+          }
+        ],
+        "LastName": "Masoomy",
+        "ForeName": "Hosein",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Physics Department, Shahid Beheshti University, Tehran, Iran."
+          }
+        ],
+        "LastName": "Askari",
+        "ForeName": "Behrouz",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Physics Department, Brock University, St. Catharines, ON, L2S 3A1, Canada."
+          }
+        ],
+        "LastName": "Tajik",
+        "ForeName": "Samin",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, School of Science, Aalto University, 0007, Espoo, Finland."
+          }
+        ],
+        "LastName": "Rizi",
+        "ForeName": "Abbas K",
+        "Initials": "AK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Physics Department, Shahid Beheshti University, Tehran, Iran. g_jafari@sbu.ac.ir."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Network and Data Science, Central European University, Budapest, 1051, Hungary. g_jafari@sbu.ac.ir."
+          }
+        ],
+        "LastName": "Jafari",
+        "ForeName": "G Reza",
+        "Initials": "GR"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Signal Transduction"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

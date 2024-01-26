@@ -1,0 +1,196 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38071317",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "12",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "381",
+      "10.1038/s41398-023-02669-y"
+    ],
+    "Journal": {
+      "ISSN": "2158-3188",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Dec",
+          "Day": "09"
+        }
+      },
+      "Title": "Translational psychiatry",
+      "ISOAbbreviation": "Transl Psychiatry"
+    },
+    "ArticleTitle": "Using digital phenotyping to capture depression symptom variability: detecting naturalistic variability in depression symptoms across one year using passively collected wearable movement and sleep data.",
+    "Pagination": {
+      "StartPage": "381",
+      "MedlinePgn": "381"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Major Depressive Disorder (MDD) presents considerable challenges to diagnosis and management due to symptom variability across time. Only recent work has highlighted the clinical implications for interrogating depression symptom variability. Thus, the present work investigates how sociodemographic, comorbidity, movement, and sleep data is associated with long-term depression symptom variability. Participant information included (N\u2009=\u2009939) baseline sociodemographic and comorbidity data, longitudinal, passively collected wearable data, and Patient Health Questionnaire-9 (PHQ-9) scores collected over 12 months. An ensemble machine learning approach was used to detect long-term depression symptom variability via: (i) a domain-driven feature selection approach and (ii) an exhaustive feature-inclusion approach. SHapley Additive exPlanations (SHAP) were used to interrogate variable importance and directionality. The composite domain-driven and exhaustive inclusion models were both capable of moderately detecting long-term depression symptom variability (r\u2009=\u20090.33 and r\u2009=\u20090.39, respectively). Our results indicate the incremental predictive validity of sociodemographic, comorbidity, and passively collected wearable movement and sleep data in detecting long-term depression symptom variability."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9164-4973"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Geisel School of Medicine, Dartmouth College, Lebanon, NH, USA. George.Price.GR@dartmouth.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Quantitative Biomedical Sciences Program, Dartmouth College, Lebanon, NH, USA. George.Price.GR@dartmouth.edu."
+          }
+        ],
+        "LastName": "Price",
+        "ForeName": "George D",
+        "Initials": "GD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Geisel School of Medicine, Dartmouth College, Lebanon, NH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Geisel School of Medicine, Dartmouth College, Lebanon, NH, USA."
+          }
+        ],
+        "LastName": "Heinz",
+        "ForeName": "Michael V",
+        "Initials": "MV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Beth Israel Deaconess Medical Center, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Song",
+        "ForeName": "Seo Ho",
+        "Initials": "SH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Geisel School of Medicine, Dartmouth College, Lebanon, NH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Quantitative Biomedical Sciences Program, Dartmouth College, Lebanon, NH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Data Design Institute, Harvard Business School, Harvard University, Cambridge, MA, USA."
+          }
+        ],
+        "LastName": "Nemesure",
+        "ForeName": "Matthew D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8832-4741"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Technology and Behavioral Health, Geisel School of Medicine, Dartmouth College, Lebanon, NH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Quantitative Biomedical Sciences Program, Dartmouth College, Lebanon, NH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Geisel School of Medicine, Dartmouth College, Lebanon, NH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Data Science, Geisel School of Medicine, Dartmouth College, Lebanon, NH, USA."
+          }
+        ],
+        "LastName": "Jacobson",
+        "ForeName": "Nicholas C",
+        "Initials": "NC"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Transl Psychiatry",
+    "NlmUniqueID": "101562664",
+    "ISSNLinking": "2158-3188"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "complications"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Comorbidity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

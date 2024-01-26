@@ -1,0 +1,223 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bayesian integration",
+      "SARS-CoV-2",
+      "functional association network",
+      "gene regulatory network",
+      "protein network",
+      "tissue-specific network"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33539890",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jmb.2021.166835",
+      "S0022-2836(21)00029-2"
+    ],
+    "Journal": {
+      "ISSN": "1089-8638",
+      "JournalIssue": {
+        "Volume": "433",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "28"
+        }
+      },
+      "Title": "Journal of molecular biology",
+      "ISOAbbreviation": "J Mol Biol"
+    },
+    "ArticleTitle": "FunCoup 5: Functional Association Networks in All Domains of Life, Supporting Directed Links and Tissue-Specificity.",
+    "Pagination": {
+      "StartPage": "166835",
+      "MedlinePgn": "166835"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "FunCoup (https://funcoup.sbc.su.se) is one of the most comprehensive functional association networks of genes/proteins available. Functional associations are inferred by integrating different types of evidence using a redundancy-weighted na\u00efve Bayesian approach, combined with orthology transfer. FunCoup's high coverage comes from using eleven different types of evidence, and extensive transfer of information between species. Since the latest update of the database, the availability of source data has improved drastically, and user expectations on a tool for functional associations have grown. To meet these requirements, we have made a new release of FunCoup with updated source data and improved functionality. FunCoup 5 now includes 22 species from all domains of life, and the source data for evidences, gold standards, and genomes have been updated to the latest available versions. In this new release, directed regulatory links inferred from transcription factor binding can be visualized in the network viewer for the human interactome. Another new feature is the possibility to filter by genes expressed in a certain tissue in the network viewer. FunCoup 5 further includes the SARS-CoV-2 proteome, allowing users to visualize and analyze interactions between SARS-CoV-2 and human proteins in order to better understand COVID-19. This new release of FunCoup constitutes a major advance for the users, with updated sources, new species and improved functionality for analysis of the networks."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Author(s). Published by Elsevier Ltd.. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biophysics, Stockholm University, Science for Life Laboratory, Box 1031, 17121 Solna, Sweden."
+          }
+        ],
+        "LastName": "Persson",
+        "ForeName": "Emma",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biophysics, Stockholm University, Science for Life Laboratory, Box 1031, 17121 Solna, Sweden."
+          }
+        ],
+        "LastName": "Castresana-Aguirre",
+        "ForeName": "Miguel",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biophysics, Stockholm University, Science for Life Laboratory, Box 1031, 17121 Solna, Sweden."
+          }
+        ],
+        "LastName": "Buzzao",
+        "ForeName": "Davide",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biophysics, Stockholm University, Science for Life Laboratory, Box 1031, 17121 Solna, Sweden."
+          }
+        ],
+        "LastName": "Guala",
+        "ForeName": "Dimitri",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biophysics, Stockholm University, Science for Life Laboratory, Box 1031, 17121 Solna, Sweden. Electronic address: Erik.Sonnhammer@scilifelab.se."
+          }
+        ],
+        "LastName": "Sonnhammer",
+        "ForeName": "Erik L L",
+        "Initials": "ELL"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "J Mol Biol",
+    "NlmUniqueID": "2985088R",
+    "ISSNLinking": "0022-2836"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteome"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Transcription Factors"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host Microbial Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Organ Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Binding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Maps"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteome"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcription Factors"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

@@ -1,0 +1,145 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30440467",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "09",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC.2018.8512394"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2018",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "An Iterative Diffeomorphic Algorithm for Registration of Subdivision Surfaces: Application to Congenital Heart Disease.",
+    "Pagination": {
+      "StartPage": "596",
+      "EndPage": "599",
+      "MedlinePgn": "596-599"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this paper, we present a new diffeomorphic registration algorithm for the registration of 3D models to 3D points. A biventricular template is iteratively fitted to the data by a series of implicitly constrained diffeomorphic linear least squares fits with decreasing regularization weights before performing an explicitly constrained diffeomorphic fit. The algorithm has been tested on a set of manual contours from 20 patients with a variety of congenital heart disease. Registration accuracy was assessed by calculating the mean point-to-point distance and the Dice overlap metric. Results showed that the method was able to accurately fit the biventricular model to 3D points and that the deformable model was able to fit all the pathologies while being diffeomorphic. The algorithm took approximately 5 minutes to fit each case, with an average of 52,580 points per case."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mauger",
+        "ForeName": "C",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gilbert",
+        "ForeName": "K",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Suinesiaputra",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pontre",
+        "ForeName": "B",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Omens",
+        "ForeName": "J",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "McCulloch",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Young",
+        "ForeName": "A",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 HL121754",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "congenital",
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Cardiovascular"
+    }
+  ]
+}

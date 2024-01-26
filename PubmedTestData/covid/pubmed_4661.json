@@ -1,0 +1,401 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34702829",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "10",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "6196",
+      "10.1038/s41467-021-26452-z"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Oct",
+          "Day": "26"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Quantifying previous SARS-CoV-2 infection through mixture modelling of antibody levels.",
+    "Pagination": {
+      "StartPage": "6196",
+      "MedlinePgn": "6196"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "As countries decide on vaccination strategies and how to ease movement restrictions, estimating the proportion of the population previously infected with SARS-CoV-2 is important for predicting the future burden of COVID-19. This proportion is usually estimated from serosurvey data in two steps: first the proportion above a threshold antibody level is calculated, then the crude estimate is adjusted using external estimates of sensitivity and specificity. A drawback of this approach is that the PCR-confirmed cases used to estimate the sensitivity of the threshold may not be representative of cases in the wider population-e.g., they may be more recently infected and more severely symptomatic. Mixture modelling offers an alternative approach that does not require external data from PCR-confirmed cases. Here we illustrate the bias in the standard threshold-based approach by comparing both approaches using data from several Kenyan serosurveys. We show that the mixture model analysis produces estimates of previous infection that are often substantially higher than the standard threshold analysis."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-5241-8412"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "International Statistics and Epidemiology Group, London School of Hygiene & Tropical Medicine, London, UK. christian.bottomley@lshtm.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, UK. christian.bottomley@lshtm.ac.uk."
+          }
+        ],
+        "LastName": "Bottomley",
+        "ForeName": "C",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Otiende",
+        "ForeName": "M",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1746-7873"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Uyoga",
+        "ForeName": "S",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Gallagher",
+        "ForeName": "K",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4481-8889"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Kagucia",
+        "ForeName": "E W",
+        "Initials": "EW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Etyang",
+        "ForeName": "A O",
+        "Initials": "AO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Mugo",
+        "ForeName": "D",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Gitonga",
+        "ForeName": "J",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Karanja",
+        "ForeName": "H",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Nyagwange",
+        "ForeName": "J",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2556-9407"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          }
+        ],
+        "LastName": "Adetifa",
+        "ForeName": "I M O",
+        "Initials": "IMO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Nuffield Department of Medicine, Oxford University, Oxford, UK."
+          }
+        ],
+        "LastName": "Agweyu",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5426-1984"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences, University of Warwick, Coventry, UK."
+          }
+        ],
+        "LastName": "Nokes",
+        "ForeName": "D J",
+        "Initials": "DJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Nuffield Department of Medicine, Oxford University, Oxford, UK."
+          }
+        ],
+        "LastName": "Warimwe",
+        "ForeName": "G M",
+        "Initials": "GM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7533-5006"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Nuffield Department of Medicine, Oxford University, Oxford, UK."
+          }
+        ],
+        "LastName": "Scott",
+        "ForeName": "J A G",
+        "Initials": "JAG"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "EARF/ITT/039",
+        "Agency": "Foreign and Commonwealth Office (FCO)",
+        "Country": ""
+      },
+      {
+        "GrantID": "220991/Z/20/Z",
+        "Agency": "Wellcome Trust (Wellcome)",
+        "Country": ""
+      },
+      {
+        "GrantID": "INV-017547",
+        "Agency": "Bill and Melinda Gates Foundation (Bill &amp; Melinda Gates Foundation)",
+        "Country": ""
+      },
+      {
+        "GrantID": "MR/R010161/1",
+        "Agency": "RCUK | Medical Research Council (MRC)",
+        "Country": ""
+      },
+      {
+        "GrantID": "214320",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "203077/Z/16/Z",
+        "Agency": "Wellcome Trust (Wellcome)",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antibodies, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "blood"
+      ],
+      "DescriptorName": "Antibodies, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bias"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "epidemiology",
+        "immunology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Serological Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Kenya"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seroepidemiologic Studies"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

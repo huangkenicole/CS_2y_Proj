@@ -1,0 +1,207 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33891554",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TCBB.2021.3075299"
+    ],
+    "Journal": {
+      "ISSN": "1557-9964",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Season": "Jul-Aug"
+        }
+      },
+      "Title": "IEEE/ACM transactions on computational biology and bioinformatics",
+      "ISOAbbreviation": "IEEE/ACM Trans Comput Biol Bioinform"
+    },
+    "ArticleTitle": "Network-Based Analysis of Fatal Comorbidities of COVID-19 and Potential Therapeutics.",
+    "Pagination": {
+      "StartPage": "1271",
+      "EndPage": "1280",
+      "MedlinePgn": "1271-1280"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "COVID-19 is a highly contagious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The case-fatality rate is significantly higher in older patients and those with diabetes, cancer or cardiovascular disorders. The human proteins, angiotensin-converting enzyme 2 (ACE2), transmembrane protease serine 2 (TMPRSS2) and basigin (BSG), are involved in high-confidence host-pathogen interactions with SARS-CoV-2 proteins. We considered these three proteins as seed nodes and applied the random walk with restart method on the human interactome to construct a protein-protein interaction sub-network, which captures the effects of viral invasion. We found that 'Insulin resistance', 'AGE-RAGE signaling in diabetic complications' and 'adipocytokine signaling' were the common pathways associated with diabetes, cancer and cardiovascular disorders. The association of these critical pathways with aging and its related diseases explains the molecular basis of COVID-19 fatality. We further identified drugs that have effects on these proteins/pathways based on gene expression studies. We particularly focused on drugs that significantly downregulate ACE2 along with other critical proteins identified by the network-based approach. Among them, COL-3 had earlier shown activity against acute lung injury and acute respiratory distress, while entinostat and mocetinostat have been investigated for non-small-cell lung cancer. We propose that these drugs can be repurposed for COVID-19."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chakrabarty",
+        "ForeName": "Broto",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Das",
+        "ForeName": "Dibyajyoti",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bulusu",
+        "ForeName": "Gopalakrishnan",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Roy",
+        "ForeName": "Arijit",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE/ACM Trans Comput Biol Bioinform",
+    "NlmUniqueID": "101196755",
+    "ISSNLinking": "1545-5963"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "ACE2 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "Angiotensin-Converting Enzyme 2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "antagonists & inhibitors",
+        "genetics"
+      ],
+      "DescriptorName": "Angiotensin-Converting Enzyme 2"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "mortality",
+        "therapy"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Cardiovascular Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Comorbidity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Gastrointestinal Diseases"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "Host Microbial Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Protein Interaction Maps"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Respiratory Tract Diseases"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "20433712",
+  "DateCompleted": {
+    "Year": "2010",
+    "Month": "07",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2010",
+        "Month": "04",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1186/1471-2164-11-274"
+    ],
+    "Journal": {
+      "ISSN": "1471-2164",
+      "JournalIssue": {
+        "Volume": "11",
+        "PubDate": {
+          "Year": "2010",
+          "Month": "Apr",
+          "Day": "30"
+        }
+      },
+      "Title": "BMC genomics",
+      "ISOAbbreviation": "BMC Genomics"
+    },
+    "ArticleTitle": "Novel methods to identify biologically relevant genes for leukemia and prostate cancer from gene expression profiles.",
+    "Pagination": {
+      "StartPage": "274",
+      "MedlinePgn": "274"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "High-throughput microarray experiments now permit researchers to screen thousands of genes simultaneously and determine the different expression levels of genes in normal or cancerous tissues. In this paper, we address the challenge of selecting a relevant and manageable subset of genes from a large microarray dataset. Currently, most gene selection methods focus on identifying a set of genes that can further improve classification accuracy. Few or none of these small sets of genes, however, are biologically relevant (i.e. supported by medical evidence). To deal with this critical issue, we propose two novel methods that can identify biologically relevant genes concerning cancers.",
+        "In this paper, we propose two novel techniques, entitled random forest gene selection (RFGS) and support vector sampling technique (SVST). Compared with results from six other methods developed in this paper, we demonstrate experimentally that RFGS and SVST can identify more biologically relevant genes in patients with leukemia or prostate cancer. Among the top 25 genes selected using SVST method, 15 genes were biologically relevant genes in patients with leukemia and 13 genes were biologically relevant genes in patients with prostate cancer. Meanwhile, the RFGS method, while less effective than SVST, still identified an average of 9 biologically relevant genes in both leukemia and prostate cancers. In contrast to traditional statistical methods, which only identify less than 8 genes in patients with leukemia and less than 8 genes in patients with prostate cancer, our methods yield significantly better results.",
+        "Our proposed SVST and RFGS methods are novel approaches that can identify a greater number of biologically relevant genes. These methods have been successfully applied to both leukemia and prostate cancers. Research in the fields of biology and medicine should benefit from the identification of biologically relevant genes by confirming recent discoveries in cancer research or suggesting new avenues for exploration."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Informatics, Tzu Chi University, Hualien City, Hualien County, Taiwan. achen@mail.tcu.edu.tw"
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Austin H",
+        "Initials": "AH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tsau",
+        "ForeName": "Yin-Wu",
+        "Initials": "YW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lin",
+        "ForeName": "Ching-Heng",
+        "Initials": "CH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Genomics",
+    "NlmUniqueID": "100965258",
+    "ISSNLinking": "1471-2164"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Genetic Markers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Markers"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Leukemia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    }
+  ]
+}

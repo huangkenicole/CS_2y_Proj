@@ -1,0 +1,208 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26890485",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "06",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "02",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "02",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1004718",
+      "10.1371/journal.pcbi.1004718"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Feb"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Quantifying Transmission Investment in Malaria Parasites.",
+    "Pagination": {
+      "StartPage": "e1004718",
+      "MedlinePgn": "e1004718"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Many microparasites infect new hosts with specialized life stages, requiring a subset of the parasite population to forgo proliferation and develop into transmission forms. Transmission stage production influences infectivity, host exploitation, and the impact of medical interventions like drug treatment. Predicting how parasites will respond to public health efforts on both epidemiological and evolutionary timescales requires understanding transmission strategies. These strategies can rarely be observed directly and must typically be inferred from infection dynamics. Using malaria as a case study, we test previously described methods for inferring transmission stage investment against simulated data generated with a model of within-host infection dynamics, where the true transmission investment is known. We show that existing methods are inadequate and potentially very misleading. The key difficulty lies in separating transmission stages produced by different generations of parasites. We develop a new approach that performs much better on simulated data. Applying this approach to real data from mice infected with a single Plasmodium chabaudi strain, we estimate that transmission investment varies from zero to 20%, with evidence for variable investment over time in some hosts, but not others. These patterns suggest that, even in experimental infections where host genetics and other environmental factors are controlled, parasites may exhibit remarkably different patterns of transmission investment."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Entomology and the Center For Infectious Disease Dynamics, The Pennsylvania State University, University Park, Pennsylvania, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology & Evolutionary Biology, University of Toronto, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Greischar",
+        "ForeName": "Megan A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology & Evolutionary Biology, University of Toronto, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Mideo",
+        "ForeName": "Nicole",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Entomology and the Center For Infectious Disease Dynamics, The Pennsylvania State University, University Park, Pennsylvania, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, The Pennsylvania State University, University Park, Pennsylvania, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Fogarty International Center, National Institutes of Health, Bethesda, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Read",
+        "ForeName": "Andrew F",
+        "Initials": "AF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Entomology and the Center For Infectious Disease Dynamics, The Pennsylvania State University, University Park, Pennsylvania, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, The Pennsylvania State University, University Park, Pennsylvania, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Fogarty International Center, National Institutes of Health, Bethesda, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Bj\u00f8rnstad",
+        "ForeName": "Ottar N",
+        "Initials": "ON"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM089932",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01GM089932",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "parasitology"
+      ],
+      "DescriptorName": "Erythrocytes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Life Cycle Stages"
+    },
+    {
+      "QualifierName": [
+        "parasitology",
+        "transmission"
+      ],
+      "DescriptorName": "Malaria"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "Plasmodium chabaudi"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

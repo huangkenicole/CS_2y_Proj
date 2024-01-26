@@ -1,0 +1,173 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34750353",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "11",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "6440",
+      "10.1038/s41467-021-26742-6"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "08"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Spatiotemporal prediction of COVID-19 cases using inter- and intra-county proxies of human interactions.",
+    "Pagination": {
+      "StartPage": "6440",
+      "MedlinePgn": "6440"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Measurements of human interaction through proxies such as social connectedness or movement patterns have proved useful for predictive modeling of COVID-19, which is a challenging task, especially at high spatial resolutions. In this study, we develop a Spatiotemporal autoregressive model to predict county-level new cases of COVID-19 in the coterminous US using spatiotemporal lags of infection rates, human interactions, human mobility, and socioeconomic composition of counties as predictive features. We capture human interactions through 1) Facebook- and 2) cell phone-derived measures of connectivity and human mobility, and use them in two separate models for predicting county-level new cases of COVID-19. We evaluate the model on 14 forecast dates between 2020/10/25 and 2021/01/24 over one- to four-week prediction horizons. Comparing our predictions with a Baseline model developed by the COVID-19 Forecast Hub indicates an average 6.46% improvement in prediction Mean Absolute Errors (MAE) over the two-week prediction horizon up to 20.22% improvement in the four-week prediction horizon, pointing to the strong predictive power of our model in the longer prediction horizons."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-5782-3831"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Geography, University of Colorado Boulder, Boulder, USA. Behzad@colorado.edu."
+          }
+        ],
+        "LastName": "Vahedi",
+        "ForeName": "Behzad",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6498-1763"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Geography, University of Colorado Boulder, Boulder, USA."
+          }
+        ],
+        "LastName": "Karimzadeh",
+        "ForeName": "Morteza",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5918-368X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Social and Behavioral Science Research, Population Council, New York, USA."
+          }
+        ],
+        "LastName": "Zoraghein",
+        "ForeName": "Hamidreza",
+        "Initials": "H"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P2C HD066613",
+        "Acronym": "HD",
+        "Agency": "NICHD NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Cell Phone Use"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Forecasting"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Population Dynamics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spatio-Temporal Analysis"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

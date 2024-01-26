@@ -1,0 +1,119 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "coronavirus",
+      "diagnostic test",
+      "sensitivity and specificity",
+      "transmission model"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35110512",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "02",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.2302/kjm.2021-0009-IR"
+    ],
+    "Journal": {
+      "ISSN": "1880-1293",
+      "JournalIssue": {
+        "Volume": "71",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Mar",
+          "Day": "25"
+        }
+      },
+      "Title": "The Keio journal of medicine",
+      "ISOAbbreviation": "Keio J Med"
+    },
+    "ArticleTitle": "A Theory of Diagnostic Testing to Stop the Virus Spreading: Evidence-based Reasoning to Resolve the COVID-19 Crisis by Testing.",
+    "Pagination": {
+      "StartPage": "13",
+      "EndPage": "20",
+      "MedlinePgn": "13-20"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this study, the complicated reasoning and processes inherent in diagnostic testing were analyzed, and a mathematical theory was developed for effectively stopping the transmission of infection in the context of coronavirus disease 2019 (COVID-19). As a result of this work, a new formula was developed for the \"boundary condition for contagion containment,\" which, based on a horizontal transmission model, gives the lower limit of sensitivity for a diagnostic test to stop the virus spreading. Two parameters are considered in the model: the level of transmission and the effective reproduction number. In example computations, the formula indicated that a one-off polymerase chain reaction-based test with a sensitivity of 85% would not be sufficient to contain highly contagious infections such as the Delta variant of SARS-CoV-2, which would likely require a sensitivity close to 100% for its containment. Furthermore, a cascade judgment system for multiple tests was proposed and examined as a form of triplet test system. This approach can enhance the accuracy of COVID-19 testing up to the minimum level needed to stop the virus spreading. The theory developed in this study will not only contribute as an academic exercise, but also be useful for making evidence-based decisions on public policy for pandemic control."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Policy and Technology Assessment, Graduate School of Public Policy, The University of Tokyo, Japan."
+          }
+        ],
+        "LastName": "Kamae",
+        "ForeName": "Isao",
+        "Initials": "I"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Japan",
+    "MedlineTA": "Keio J Med",
+    "NlmUniqueID": "0376354",
+    "ISSNLinking": "0022-9717"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

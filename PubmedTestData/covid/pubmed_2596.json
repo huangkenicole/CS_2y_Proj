@@ -1,0 +1,201 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "XGBoost",
+      "diagnostic markers",
+      "machine learning",
+      "principal component analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35812523",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "926069",
+      "10.3389/fpubh.2022.926069"
+    ],
+    "Journal": {
+      "ISSN": "2296-2565",
+      "JournalIssue": {
+        "Volume": "10",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Frontiers in public health",
+      "ISOAbbreviation": "Front Public Health"
+    },
+    "ArticleTitle": "XGBoost-Based Feature Learning Method for Mining COVID-19 Novel Diagnostic Markers.",
+    "Pagination": {
+      "StartPage": "926069",
+      "MedlinePgn": "926069"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In December 2019, an outbreak of novel coronavirus pneumonia spread over Wuhan, Hubei Province, China, which then developed into a significant global health public event, giving rise to substantial economic losses. We downloaded throat swab expression profiling data of COVID-19 positive and negative patients from the Gene Expression Omnibus (GEO) database to mine novel diagnostic biomarkers. XGBoost was used to construct the model and select feature genes. Subsequently, we constructed COVID-19 classifiers such as MARS, KNN, SVM, MIL, and RF using machine learning methods. We selected the KNN classifier with the optimal MCC value from these classifiers using the IFS method to identify 24 feature genes. Finally, we used principal component analysis to classify the samples and found that the 24 feature genes could effectively be used to classify COVID-19-positive and negative patients. Additionally, we analyzed the possible biological functions and signaling pathways in which the 24 feature genes were involved by GO and KEGG enrichment analyses. The results demonstrated that these feature genes were primarily enriched in biological functions such as viral transcription and viral gene expression and pathways such as Coronavirus disease-COVID-19. In summary, the 24 feature genes we identified were highly effective in classifying COVID-19 positive and negative patients, which could serve as novel markers for COVID-19."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Song, Zhu, Tan, Yu, Wang, Shen and Chen."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, Affiliated Hospital of Jiaxing University, Jiaxing, China."
+          }
+        ],
+        "LastName": "Song",
+        "ForeName": "Xianbin",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, Affiliated Hospital of Jiaxing University, Jiaxing, China."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Jiangang",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, Affiliated Hospital of Jiaxing University, Jiaxing, China."
+          }
+        ],
+        "LastName": "Tan",
+        "ForeName": "Xiaoli",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, Affiliated Hospital of Jiaxing University, Jiaxing, China."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Wenlong",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, Affiliated Hospital of Jiaxing University, Jiaxing, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Qianqian",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, Affiliated Hospital of Jiaxing University, Jiaxing, China."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Dongfeng",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiration, Affiliated Hospital of Jiaxing University, Jiaxing, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Wenyu",
+        "Initials": "W"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Front Public Health",
+    "NlmUniqueID": "101616579",
+    "ISSNLinking": "2296-2565"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pneumonia"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

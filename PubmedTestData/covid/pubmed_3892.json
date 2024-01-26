@@ -1,0 +1,338 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33656857",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acs.analchem.0c04590"
+    ],
+    "Journal": {
+      "ISSN": "1520-6882",
+      "JournalIssue": {
+        "Volume": "93",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "23"
+        }
+      },
+      "Title": "Analytical chemistry",
+      "ISOAbbreviation": "Anal Chem"
+    },
+    "ArticleTitle": "Rapid Detection of COVID-19 Using MALDI-TOF-Based Serum Peptidome Profiling.",
+    "Pagination": {
+      "StartPage": "4782",
+      "EndPage": "4787",
+      "MedlinePgn": "4782-4787"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The outbreak of coronavirus disease 2019 (COVID-19) caused by SARS CoV-2 is ongoing and a serious threat to global public health. It is essential to detect the disease quickly and immediately to isolate the infected individuals. Nevertheless, the current widely used PCR and immunoassay-based methods suffer from false negative results and delays in diagnosis. Herein, a high-throughput serum peptidome profiling method based on matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) is developed for efficient detection of COVID-19. We analyzed the serum samples from 146 COVID-19 patients and 152 control cases (including 73 non-COVID-19 patients with similar clinical symptoms, 33 tuberculosis patients, and 46 healthy individuals). After MS data processing and feature selection, eight machine learning methods were used to build classification models. A logistic regression machine learning model with 25 feature peaks achieved the highest accuracy (99%), with sensitivity of 98% and specificity of 100%, for the detection of COVID-19. This result demonstrated a great potential of the method for screening, routine surveillance, and diagnosis of COVID-19 in large populations, which is an important part of the pandemic control."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Laboratory, Chongqing General Hospital, Chongqing 400014, China."
+          }
+        ],
+        "LastName": "Yan",
+        "ForeName": "Ling",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, Fudan University, Shanghai 200438, China."
+          }
+        ],
+        "LastName": "Yi",
+        "ForeName": "Jia",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Laboratory, Renji Hospital, University of Chinese Academy of Sciences, Chongqing, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Changwu",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Proteomics, Beijing Proteome Research Center, National Center for Protein Sciences (Beijing), Beijing Institute of Lifeomics, Beijing 102206, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Jian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioyong Technologics, Inc., Beijing 100176, China."
+          }
+        ],
+        "LastName": "Fu",
+        "ForeName": "Shuhui",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Laboratory, Chongqing General Hospital, Chongqing 400014, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Zhijie",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioyong Technologics, Inc., Beijing 100176, China."
+          }
+        ],
+        "LastName": "Lyu",
+        "ForeName": "Qian",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Laboratory, Chongqing General Hospital, Chongqing 400014, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Yuan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Laboratory, Chongqing General Hospital, Chongqing 400014, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Kun",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Laboratory, Chongqing General Hospital, Chongqing 400014, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Huan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioyong Technologics, Inc., Beijing 100176, China."
+          }
+        ],
+        "LastName": "Ma",
+        "ForeName": "Qingwei",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Laboratory, Sanxia Hospital Affiliated to Chongqing University, Chongqing 404000, China."
+          }
+        ],
+        "LastName": "Cui",
+        "ForeName": "Xiaoping",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6233-8459"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, Fudan University, Shanghai 200438, China."
+          }
+        ],
+        "LastName": "Qiao",
+        "ForeName": "Liang",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Proteomics, Beijing Proteome Research Center, National Center for Protein Sciences (Beijing), Beijing Institute of Lifeomics, Beijing 102206, China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Laboratory, Chongqing General Hospital, Chongqing 400014, China."
+          }
+        ],
+        "LastName": "Liao",
+        "ForeName": "Pu",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Anal Chem",
+    "NlmUniqueID": "0370536",
+    "ISSNLinking": "0003-2700"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Peptides"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Area Under Curve"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Discriminant Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "High-Throughput Screening Assays"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Least-Squares Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "blood"
+      ],
+      "DescriptorName": "Peptides"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Principal Component Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "ROC Curve"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Tuberculosis"
+    }
+  ]
+}

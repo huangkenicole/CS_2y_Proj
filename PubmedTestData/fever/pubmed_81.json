@@ -1,0 +1,214 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Continuous temperature monitoring",
+      "early fever detection",
+      "febrile neutropenia",
+      "machine learning",
+      "wearable devices"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34765323",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2700407",
+      "10.1109/JTEHM.2021.3098127"
+    ],
+    "Journal": {
+      "ISSN": "2168-2372",
+      "JournalIssue": {
+        "Volume": "9",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "IEEE journal of translational engineering in health and medicine",
+      "ISOAbbreviation": "IEEE J Transl Eng Health Med"
+    },
+    "ArticleTitle": "A Novel Wearable Device for Continuous Temperature Monitoring & Fever Detection.",
+    "Pagination": {
+      "StartPage": "2700407",
+      "MedlinePgn": "2700407"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "<i>Objective:</i> Continuous temperature monitoring in high-risk patients can enable healthcare providers to remotely track patients' temperatures, promptly detect fevers and timely intervene to improve clinical outcomes. We evaluated if a novel wearable, continuous temperature monitor (Verily Patch) can reliably estimate body temperature and early detect fevers in an outpatient setting in patients at a high risk of febrile neutropenia (FN) who recently underwent chemotherapy and autologous stem cell transplantation (ASCT). <i>Methods:</i> 86 patients at a high risk for FN were prospectively enrolled at Mayo Clinic, MN. Patients wore the device in their axilla region for 7 days post ASCT and recorded self-measured oral temperatures every 3 hours. Patients were also followed using clinical standard-of-care procedures with daily oral temperature assessment. The clinic- and patient-assessed oral temperatures were used to develop and evaluate Verily Patch's body temperature and early fever detection algorithms using a K-fold cross-validation approach. <i>Results:</i> The Verily Patch reliably measured body temperatures with an error of 0.35 \u00b1 0.88\u00b0F in comparison to clinic- and patient-assessed oral temperatures. The sensitivity and specificity of the patch in detecting clinic-assessed fever episodes was 90.2% and 87.8%. The patch detected 14.3 times the number of clinic-assessed fever episodes with a median lead time of 4.3 hours. <i>Conclusion:</i> Patient self-monitoring of temperature and fever incidents suffers from low accuracy and is impractical for extended periods of time. Continuous temperature monitoring by a wearable device (such as Verily Patch) has the potential to overcome these challenges resulting in better patient clinical outcomes and more cost-effective care."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Verily Life Sciences South San Francisco CA 94080 USA."
+          }
+        ],
+        "LastName": "Verma",
+        "ForeName": "Nishant",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Verily Life Sciences South San Francisco CA 94080 USA."
+          }
+        ],
+        "LastName": "Haji-Abolhassani",
+        "ForeName": "Iman",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Verily Life Sciences South San Francisco CA 94080 USA."
+          }
+        ],
+        "LastName": "Ganesh",
+        "ForeName": "Suhas",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of HematologyMayo Clinic Rochester MN 55905 USA."
+          }
+        ],
+        "LastName": "Vera-Aguilera",
+        "ForeName": "Jesus",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of HematologyMayo Clinic Rochester MN 55905 USA."
+          }
+        ],
+        "LastName": "Paludo",
+        "ForeName": "Jonas",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Verily Life Sciences South San Francisco CA 94080 USA."
+          }
+        ],
+        "LastName": "Heitz",
+        "ForeName": "Roxana",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical OncologyMayo Clinic Rochester MN 55905 USA."
+          }
+        ],
+        "LastName": "Markovic",
+        "ForeName": "Svetomir N",
+        "Initials": "SN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Verily Life Sciences South San Francisco CA 94080 USA."
+          }
+        ],
+        "LastName": "Kulig",
+        "ForeName": "Kimary",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Verily Life Sciences South San Francisco CA 94080 USA."
+          }
+        ],
+        "LastName": "Ghoreyshi",
+        "ForeName": "Atiyeh",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Transl Eng Health Med",
+    "NlmUniqueID": "101623153",
+    "ISSNLinking": "2168-2372"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hematopoietic Stem Cell Transplantation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Temperature"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transplantation, Autologous"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    }
+  ]
+}

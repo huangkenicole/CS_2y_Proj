@@ -1,0 +1,274 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Arterial blood gases",
+      "Borg scale",
+      "Cardiopulmonary function",
+      "Exercise testing",
+      "Lung transplantation",
+      "Muscle pain"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33059678",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "10",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "267",
+      "10.1186/s12931-020-01535-5"
+    ],
+    "Journal": {
+      "ISSN": "1465-993X",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Oct",
+          "Day": "15"
+        }
+      },
+      "Title": "Respiratory research",
+      "ISOAbbreviation": "Respir Res"
+    },
+    "ArticleTitle": "Dyspnea, effort and muscle pain during exercise in lung transplant recipients: an analysis of their association with cardiopulmonary function parameters using machine learning.",
+    "Pagination": {
+      "StartPage": "267",
+      "MedlinePgn": "267"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Despite improvement in lung function, most lung transplant (LTx) recipients show an unexpectedly reduced exercise capacity that could be explained by persisting peripheral muscle dysfunction of multifactorial origin. We analyzed the course of symptoms, including dyspnea, muscle effort and muscle pain and its relation with cardiac and pulmonary function parameters during an incremental exercise testing.",
+        "Twenty-four bilateral LTx recipients were evaluated in an observational cross-sectional study. Recruited patients underwent incremental cardio-pulmonary exercise testing (CPET). Arterial blood gases at rest and peak exercise were measured. Dyspnea, muscle effort and muscle pain were scored according to the Borg modified scale. Potential associations between the severity of symptoms and exercise testing parameters were analyzed using a Forest-Tree Machine Learning approach, which accomplishes for a ratio between number of observations and number of screened variables less than unit.",
+        "Dyspnea score was significantly associated with maximum power output (WR, watts), and minute ventilation (VE, L/min) at peak exercise. In a controlled subgroup analysis, dyspnea score was a limiting symptom only in LTx recipients who reached the higher levels of WR (\u2265\u2009101 watts) and V<sub>E</sub> (\u2265\u200953 L/min). Muscle effort score was significantly associated with breathing reserve as percent of maximal voluntary ventilation (BR%MVV). The lower the BR%MVV at peak exercise (<\u200932) the higher the muscle effort perception. Muscle pain score was significantly associated with VO<sub>2</sub> peak, arterial [HCO<sub>3</sub><sup>-</sup>] at rest, and V<sub>E</sub>/VCO<sub>2</sub> slope. In a subgroup analysis, muscle pain was the limiting symptom in LTx recipients with a lower VO<sub>2</sub> peak (<\u200915\u00a0mL/Kg/min) and a higher V<sub>E</sub>/VCO<sub>2</sub> slope (\u2265\u200932).",
+        "The majority of our LTx recipients reported peripheral limitation as the prevalent reason for exercise termination. Muscle pain at peak exercise was strictly associated with basal and exercise-induced metabolic altered pathways. The onset of dyspnea (breathing effort) was associated with the intensity of ventilatory response to meet metabolic demands for increasing WR. Our study suggests that only an accurate assessment of symptoms combined with cardio-pulmonary parameters allows a correct interpretation of exercise limitation and a tailored exercise prescription. The role and mechanisms of muscle pain during exercise in LTx recipients requires further investigations."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7197-9821"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Respiratory Pathophysiology, Department of Cardio-Thoracic, Vascular and Public Health Sciences, University Hospital of Padova, Padova, Italy. fausto.braccioni@gmail.com."
+          }
+        ],
+        "LastName": "Braccioni",
+        "ForeName": "Fausto",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biostatistics, Epidemiology and Public Health, Department of Cardio-Thoracic, Vascular and Public Health Sciences, University Hospital of Padova, Padova, Italy."
+          }
+        ],
+        "LastName": "Bottigliengo",
+        "ForeName": "Daniele",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Sport and Exercise Medicine, Department of Medicine, University Hospital of Padova, Padova, Italy."
+          }
+        ],
+        "LastName": "Ermolao",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Thoracic Surgery, Department of Cardio-Thoracic, Vascular and Public Health Sciences, University Hospital of Padova, Padova, Italy."
+          }
+        ],
+        "LastName": "Schiavon",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Thoracic Surgery, Department of Cardio-Thoracic, Vascular and Public Health Sciences, University Hospital of Padova, Padova, Italy."
+          }
+        ],
+        "LastName": "Loy",
+        "ForeName": "Monica",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Respiratory Pathophysiology, Department of Cardio-Thoracic, Vascular and Public Health Sciences, University Hospital of Padova, Padova, Italy."
+          }
+        ],
+        "LastName": "Marchi",
+        "ForeName": "Maria Rita",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biostatistics, Epidemiology and Public Health, Department of Cardio-Thoracic, Vascular and Public Health Sciences, University Hospital of Padova, Padova, Italy."
+          }
+        ],
+        "LastName": "Gregori",
+        "ForeName": "Dario",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Thoracic Surgery, Department of Cardio-Thoracic, Vascular and Public Health Sciences, University Hospital of Padova, Padova, Italy."
+          }
+        ],
+        "LastName": "Rea",
+        "ForeName": "Federico",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Respiratory Pathophysiology, Department of Cardio-Thoracic, Vascular and Public Health Sciences, University Hospital of Padova, Padova, Italy."
+          }
+        ],
+        "LastName": "Vianello",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Respir Res",
+    "NlmUniqueID": "101090633",
+    "ISSNLinking": "1465-9921"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cross-Sectional Studies"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology"
+      ],
+      "DescriptorName": "Dyspnea"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Test"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise Tolerance"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "adverse effects",
+        "trends"
+      ],
+      "DescriptorName": "Lung Transplantation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology"
+      ],
+      "DescriptorName": "Myalgia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transplant Recipients"
+    }
+  ],
+  "CoiStatement": "The Authors declare that they have no competing interests."
+}

@@ -1,0 +1,142 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer",
+      "Deep learning",
+      "Metastatic cancer",
+      "Neural network"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35698059",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "229",
+      "10.1186/s12859-022-04783-y"
+    ],
+    "Journal": {
+      "ISSN": "1471-2105",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jun",
+          "Day": "13"
+        }
+      },
+      "Title": "BMC bioinformatics",
+      "ISOAbbreviation": "BMC Bioinformatics"
+    },
+    "ArticleTitle": "CancerNet: a unified deep learning network for pan-cancer diagnostics.",
+    "Pagination": {
+      "StartPage": "229",
+      "MedlinePgn": "229"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Despite remarkable advances in cancer research, cancer remains one of the leading causes of death worldwide. Early detection of cancer and localization of the tissue of its origin are key to effective treatment. Here, we leverage technological advances in machine learning or artificial intelligence to design a novel framework for cancer diagnostics. Our proposed framework detects cancers and their tissues of origin using a unified model of cancers encompassing 33 cancers represented in The Cancer Genome Atlas (TCGA). Our model exploits the learned features of different cancers reflected in the respective dysregulated epigenomes, which arise early in carcinogenesis and differ remarkably between different cancer types or subtypes, thus holding a great promise in early cancer detection.",
+        "Our comprehensive assessment of the proposed model on the 33 different tissues of origin demonstrates its ability to detect and classify cancers to a high accuracy (>\u200999% overall F-measure). Furthermore, our model distinguishes cancers from pre-cancerous lesions to metastatic tumors and discriminates between hypomethylation changes due to age related epigenetic drift and true cancer.",
+        "Beyond detection of primary cancers, our proposed computational model also robustly detects tissues of origin of secondary cancers, including metastatic cancers, second primary cancers, and cancers of unknown primaries. Our assessment revealed the ability of this model to characterize pre-cancer samples, a significant step forward in early cancer detection. Deployed broadly this model can deliver accurate diagnosis for a greatly expanded target patient population."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences and BioDiscovery Institute, University of North Texas, Denton, TX, 76203, USA."
+          }
+        ],
+        "LastName": "Gore",
+        "ForeName": "Steven",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences and BioDiscovery Institute, University of North Texas, Denton, TX, 76203, USA. Rajeev.Azad@unt.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of North Texas, Denton, TX, 76203, USA. Rajeev.Azad@unt.edu."
+          }
+        ],
+        "LastName": "Azad",
+        "ForeName": "Rajeev K",
+        "Initials": "RK"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Bioinformatics",
+    "NlmUniqueID": "100965194",
+    "ISSNLinking": "1471-2105"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

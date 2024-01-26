@@ -1,0 +1,188 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34969959",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "24498",
+      "10.1038/s41598-021-04108-8"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "30"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Mathematical modelling of SARS-CoV-2 variant outbreaks reveals their probability of extinction.",
+    "Pagination": {
+      "StartPage": "24498",
+      "MedlinePgn": "24498"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "When a virus spreads, it may mutate into, e.g., vaccine resistant or fast spreading lineages, as was the case for the Danish Cluster-5 mink variant (belonging to the B.1.1.298 lineage), the British B.1.1.7 lineage, and the South African B.1.351 lineage of the SARS-CoV-2 virus. A way to handle such spreads is through a containment strategy, where the population in the affected area is isolated until the spread has been stopped. Under such circumstances, it is important to monitor whether the mutated virus is extinct via massive testing for the virus sub-type. If successful, the strategy will lead to lower and lower numbers of the sub-type, and it will eventually die out. An important question is, for how long time one should wait to be sure the sub-type is extinct? We use a hidden Markov model for infection spread and an approximation of a two stage sampling scheme to infer the probability of extinction. The potential of the method is illustrated via a simulation study. Finally, the model is used to assess the Danish containment strategy when SARS-CoV-2 spread from mink to man during the summer of 2020, including the Cluster-5 sub-type. In order to avoid further spread and mink being a large animal virus reservoir, this situation led to the isolation of seven municipalities in the Northern part of the country, the culling of the entire Danish 17 million large mink population, and a bill to interim ban Danish mink production until the end of 2021."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronic Systems, Aalborg University, Aalborg, Denmark."
+          }
+        ],
+        "LastName": "Schi\u00f8ler",
+        "ForeName": "Henrik",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronic Systems, Aalborg University, Aalborg, Denmark."
+          }
+        ],
+        "LastName": "Knudsen",
+        "ForeName": "Torben",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Medicine, Aalborg University, Aalborg, Denmark."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Haematology, Aalborg University Hospital, Aalborg, Denmark."
+          }
+        ],
+        "LastName": "Br\u00f8ndum",
+        "ForeName": "Rasmus Froberg",
+        "Initials": "RF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronic Systems, Aalborg University, Aalborg, Denmark."
+          }
+        ],
+        "LastName": "Stoustrup",
+        "ForeName": "Jakob",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Medicine, Aalborg University, Aalborg, Denmark. mboegsted@dcm.aau.dk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Haematology, Aalborg University Hospital, Aalborg, Denmark. mboegsted@dcm.aau.dk."
+          }
+        ],
+        "LastName": "B\u00f8gsted",
+        "ForeName": "Martin",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Sci Rep. 2022 Aug 30;12(1):14782",
+      "PMID": "36042342"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

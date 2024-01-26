@@ -1,0 +1,387 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "blood",
+      "mass spectrometry",
+      "plasma",
+      "proteomics",
+      "severe"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36834989",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "02",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "3570",
+      "10.3390/ijms24043570"
+    ],
+    "Journal": {
+      "ISSN": "1422-0067",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb",
+          "Day": "10"
+        }
+      },
+      "Title": "International journal of molecular sciences",
+      "ISOAbbreviation": "Int J Mol Sci"
+    },
+    "ArticleTitle": "Plasma Proteomic Variables Related to COVID-19 Severity: An Untargeted nLC-MS/MS Investigation.",
+    "Abstract": {
+      "AbstractText": [
+        "Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) infection leads to a wide range of clinical manifestations and determines the need for personalized and precision medicine. To better understand the biological determinants of this heterogeneity, we explored the plasma proteome of 43 COVID-19 patients with different outcomes by an untargeted liquid chromatography-mass spectrometry approach. The comparison between asymptomatic or pauci-symptomatic subjects (MILDs), and hospitalised patients in need of oxygen support therapy (SEVEREs) highlighted 29 proteins emerged as differentially expressed: 12 overexpressed in MILDs and 17 in SEVEREs. Moreover, a supervised analysis based on a decision-tree recognised three proteins (Fetuin-A, Ig lambda-2chain-C-region, Vitronectin) that are able to robustly discriminate between the two classes independently from the infection stage. In silico functional annotation of the 29 deregulated proteins pinpointed several functions possibly related to the severity; no pathway was associated exclusively to MILDs, while several only to SEVEREs, and some associated to both MILDs and SEVEREs; SARS-CoV-2 signalling pathway was significantly enriched by proteins up-expressed in SEVEREs (<i>SAA1/2</i>, <i>CRP</i>, <i>HP</i>, <i>LRG1</i>) and in MILDs (<i>GSN</i>, <i>HRG</i>). In conclusion, our analysis could provide key information for 'proteomically' defining possible upstream mechanisms and mediators triggering or limiting the domino effect of the immune-related response and characterizing severe exacerbations."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9870-932X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Proteomics and Metabolomics Unit, School of Medicine and Surgery, University of Milano-Bicocca, 20854 Vedano al Lambro, Italy."
+          }
+        ],
+        "LastName": "Pagani",
+        "ForeName": "Lisa",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7921-7768"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Proteomics and Metabolomics Unit, School of Medicine and Surgery, University of Milano-Bicocca, 20854 Vedano al Lambro, Italy."
+          }
+        ],
+        "LastName": "Chinello",
+        "ForeName": "Clizia",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6389-9434"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bicocca Bioinformatics Biostatistics and Bioimaging Centre-B4, School of Medicine and Surgery, University of Milano-Bicocca, 20854 Vedano al Lambro, Italy."
+          }
+        ],
+        "LastName": "Risca",
+        "ForeName": "Giulia",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8178-2440"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bicocca Bioinformatics Biostatistics and Bioimaging Centre-B4, School of Medicine and Surgery, University of Milano-Bicocca, 20854 Vedano al Lambro, Italy."
+          }
+        ],
+        "LastName": "Capitoli",
+        "ForeName": "Giulia",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6751-3888"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Proteomics and Metabolomics Unit, School of Medicine and Surgery, University of Milano-Bicocca, 20854 Vedano al Lambro, Italy."
+          }
+        ],
+        "LastName": "Criscuolo",
+        "ForeName": "Lucrezia",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0383-9579"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathophysiology and Transplantation, University of Milano, 20122 Milano, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Diseases Unit, IRCCS Ca' Granda Ospedale Maggiore Policlinico Foundation, 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Lombardi",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Diseases Unit, IRCCS Ca' Granda Ospedale Maggiore Policlinico Foundation, 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Ungaro",
+        "ForeName": "Riccardo",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7431-5019"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathophysiology and Transplantation, University of Milano, 20122 Milano, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Diseases Unit, IRCCS Ca' Granda Ospedale Maggiore Policlinico Foundation, 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Mangioni",
+        "ForeName": "Davide",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8221-2493"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Proteomics and Metabolomics Unit, School of Medicine and Surgery, University of Milano-Bicocca, 20854 Vedano al Lambro, Italy."
+          }
+        ],
+        "LastName": "Piga",
+        "ForeName": "Isabella",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Diseases Unit, IRCCS Ca' Granda Ospedale Maggiore Policlinico Foundation, 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Muscatello",
+        "ForeName": "Antonio",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2285-9970"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathophysiology and Transplantation, University of Milano, 20122 Milano, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Respiratory Unit and Cystic Fibrosis Adult Center, Internal Medicine Department, Foundation IRCCS Ca' Granda Ospedale Maggiore Policlinico, 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Blasi",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto Nazionale di Genetica Molecolare (INGM), 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Favalli",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto Nazionale di Genetica Molecolare (INGM), 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Martinovic",
+        "ForeName": "Martina",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6587-4794"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathophysiology and Transplantation, University of Milano, 20122 Milano, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Diseases Unit, IRCCS Ca' Granda Ospedale Maggiore Policlinico Foundation, 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Gori",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathophysiology and Transplantation, University of Milano, 20122 Milano, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Diseases Unit, IRCCS Ca' Granda Ospedale Maggiore Policlinico Foundation, 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Bandera",
+        "ForeName": "Alessandra",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0024-3355"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto Nazionale di Genetica Molecolare (INGM), 20122 Milano, Italy."
+          }
+        ],
+        "LastName": "Grifantini",
+        "ForeName": "Renata",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8663-0374"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Proteomics and Metabolomics Unit, School of Medicine and Surgery, University of Milano-Bicocca, 20854 Vedano al Lambro, Italy."
+          }
+        ],
+        "LastName": "Magni",
+        "ForeName": "Fulvio",
+        "Initials": "F"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "FAR 2017-2021",
+        "Agency": "FAR 2017-2021",
+        "Country": ""
+      },
+      {
+        "GrantID": "Pupa Ferrari Onlus",
+        "Agency": "Fondazione Gigi &amp; Pupa Ferrari Onlus",
+        "Country": ""
+      },
+      {
+        "GrantID": "regional law n\u00b0 9/2020, resolution n\u00b0 3776/2020\"",
+        "Agency": "Regione Lombardia, regional law n\u00b0 9/2020, resolution n\u00b0 3776/2020\": Programma degli interventi per la ripresa economica: sviluppo di nuovi accordi di collaborazione con le universit\u00e0 per la Ricerca, l'Innovazione e il Trasferimento tecnologico: NephropaT",
+        "Country": ""
+      },
+      {
+        "GrantID": "POR FESR 2014-2020",
+        "Agency": "Regione Lombardia POR FESR 2014-2020. Misura a sostegno dello sviluppo di collaborazioni per l'identificazione di terapie e sistemi di diagnostica, protezione e analisi per contrastare l'emergenza Coronavirus e altre emergenze virali del futuro: Caratteri",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Int J Mol Sci",
+    "NlmUniqueID": "101092791",
+    "ISSNLinking": "1422-0067"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chromatography, Liquid"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Proteomics"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tandem Mass Spectrometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Patient Acuity"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

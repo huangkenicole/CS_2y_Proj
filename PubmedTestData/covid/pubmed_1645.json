@@ -1,0 +1,206 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2 interacted host genes",
+      "cell types",
+      "network",
+      "risk genes",
+      "severe COVID-19"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34535795",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab372",
+      "10.1093/bib/bbab372"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "17"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Network-based analysis revealed significant interactions between risk genes of severe COVID-19 and host genes interacted with SARS-CoV-2 proteins.",
+    "Abstract": {
+      "AbstractText": [
+        "Whether risk genes of severe coronavirus disease 2019 (COVID-19) from genome-wide association study could play their regulatory roles by interacting with host genes that were interacted with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) proteins was worthy of exploration. In this study, we implemented a network-based approach by developing a user-friendly software Network Calculator (https://github.com/Haoxiang-Qi/Network-Calculator.git). By using Network Calculator, we identified a network composed of 13 risk genes and 28 SARS-CoV-2 interacted host genes that had the highest network proximity with each other, with a hub gene HNRNPK identified. Among these genes, 14 of them were identified to be differentially expressed in RNA-seq data from severe COVID-19 cases. Besides, by expression enrichment analysis in single-cell RNA-seq data, compared with mild COVID-19, these genes were significantly enriched in macrophage, T cell and epithelial cell for severe COVID-19. Meanwhile, 74 pathways were significantly enriched. Our analysis provided insights for the underlying genetic etiology of severe COVID-19 from the perspective of network biology."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, School of Life Sciences, Shandong First Medical University & Shandong Academy of Medical Sciences, Tai'an 271099, Shandong, China."
+          }
+        ],
+        "LastName": "Qi",
+        "ForeName": "Hao-Xiang",
+        "Initials": "HX"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, School of Life Sciences, Shandong First Medical University & Shandong Academy of Medical Sciences, Tai'an 271099, Shandong, China."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Qi-Dong",
+        "Initials": "QD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, School of Life Sciences, Shandong First Medical University & Shandong Academy of Medical Sciences, Tai'an 271099, Shandong, China."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Hong-Yi",
+        "Initials": "HY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, School of Life Sciences, Shandong First Medical University & Shandong Academy of Medical Sciences, Tai'an 271099, Shandong, China."
+          }
+        ],
+        "LastName": "Qi",
+        "ForeName": "Guo-Zhen",
+        "Initials": "GZ"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7505-3914"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, School of Life Sciences, Shandong First Medical University & Shandong Academy of Medical Sciences, Tai'an 271099, Shandong, China."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Lei",
+        "Initials": "L"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2019WS391",
+        "Agency": "Medical Health Science and Technology Project of Shandong Provincial Health Commission",
+        "Country": ""
+      },
+      {
+        "GrantID": "2019QL013",
+        "Agency": "Academic Promotion Programme of Shandong First Medical University",
+        "Country": ""
+      },
+      {
+        "GrantID": "32000477",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "ZR2020MC061",
+        "Agency": "Natural Science Foundation of Shandong Province",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome-Wide Association Study"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Patient Acuity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA-Seq"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Viral Proteins"
+    }
+  ]
+}

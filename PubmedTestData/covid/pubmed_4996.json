@@ -1,0 +1,1389 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33712587",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1660",
+      "10.1038/s41467-021-21361-7"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "12"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Shotgun transcriptome, spatial omics, and isothermal profiling of SARS-CoV-2 infection reveals unique host responses, viral diversification, and drug interactions.",
+    "Pagination": {
+      "StartPage": "1660",
+      "MedlinePgn": "1660"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In less than nine months, the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) killed over a million people, including >25,000 in New York City (NYC) alone. The COVID-19 pandemic caused by SARS-CoV-2 highlights clinical needs to detect infection, track strain evolution, and identify biomarkers of disease course. To address these challenges, we designed a fast (30-minute) colorimetric test (LAMP) for SARS-CoV-2 infection from naso/oropharyngeal swabs and a large-scale shotgun metatranscriptomics platform (total-RNA-seq) for host, viral, and microbial profiling. We applied these methods to clinical specimens gathered from 669 patients in New York City during the first two months of the outbreak, yielding a broad molecular portrait of the emerging COVID-19 disease. We find significant enrichment of a NYC-distinctive clade of the virus (20C), as well as host responses in interferon, ACE, hematological, and olfaction pathways. In addition, we use 50,821 patient records to find that renin-angiotensin-aldosterone system inhibitors have a protective effect for severe COVID-19 outcomes, unlike similar drugs. Finally, spatial transcriptomic data from COVID-19 patient autopsy tissues reveal distinct ACE2 expression loci, with macrophage and neutrophil infiltration in the lungs. These findings can inform public health and may help develop and drive SARS-CoV-2 diagnostic, prevention, and treatment strategies."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-3687-8419"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Butler",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Mozsary",
+        "ForeName": "Christopher",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0663-6216"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Meydan",
+        "ForeName": "Cem",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Foox",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York Genome Center, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Rosiene",
+        "ForeName": "Joel",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York Genome Center, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Englander Institute for Precision Medicine and the Meyer Cancer Center, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Shaiber",
+        "ForeName": "Alon",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Danko",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Afshinnekoo",
+        "ForeName": "Ebrahim",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "MacKay",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6040-2691"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA."
+          }
+        ],
+        "LastName": "Sedlazeck",
+        "ForeName": "Fritz J",
+        "Initials": "FJ"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4021-8875"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical & Translational Science Center, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Ivanov",
+        "ForeName": "Nikolay A",
+        "Initials": "NA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Sierra",
+        "ForeName": "Maria",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology and Epidemiology of Viral Diseases, University Hospital Tuebingen, Tuebingen, Germany."
+          }
+        ],
+        "LastName": "Pohle",
+        "ForeName": "Diana",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0539-630X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, Department of Systems Biology, Department of Medicine, Institute for Genomic Medicine, Columbia University, Columbia, NY, USA."
+          }
+        ],
+        "LastName": "Zietz",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5892-0852"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, Department of Systems Biology, Department of Medicine, Institute for Genomic Medicine, Columbia University, Columbia, NY, USA."
+          }
+        ],
+        "LastName": "Gisladottir",
+        "ForeName": "Undina",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, Department of Systems Biology, Department of Medicine, Institute for Genomic Medicine, Columbia University, Columbia, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cellular, Molecular Physiology & Biophysics, Columbia University, Columbia, NY, USA."
+          }
+        ],
+        "LastName": "Ramlall",
+        "ForeName": "Vijendra",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9518-4399"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information Technologies & Services Department, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Sholle",
+        "ForeName": "Evan T",
+        "Initials": "ET"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Schenck",
+        "ForeName": "Edward J",
+        "Initials": "EJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Westover",
+        "ForeName": "Craig D",
+        "Initials": "CD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Hassan",
+        "ForeName": "Ciaran",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Ryon",
+        "ForeName": "Krista",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Young",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Bhattacharya",
+        "ForeName": "Chandrima",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Ng",
+        "ForeName": "Dianna L",
+        "Initials": "DL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Granados",
+        "ForeName": "Andrea C",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Santos",
+        "ForeName": "Yale A",
+        "Initials": "YA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Servellita",
+        "ForeName": "Venice",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8712-3131"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Federman",
+        "ForeName": "Scot",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Ruggiero",
+        "ForeName": "Phyllis",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DNAnexus, Inc., Mountain View, CA, USA."
+          }
+        ],
+        "LastName": "Fungtammasan",
+        "ForeName": "Arkarachai",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DNAnexus, Inc., Mountain View, CA, USA."
+          }
+        ],
+        "LastName": "Chin",
+        "ForeName": "Chen-Shan",
+        "Initials": "CS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Root Deep Insight, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Pearson",
+        "ForeName": "Nathaniel M",
+        "Initials": "NM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7390-1094"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New England Biolabs, Ipswich, MA, USA."
+          }
+        ],
+        "LastName": "Langhorst",
+        "ForeName": "Bradley W",
+        "Initials": "BW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New England Biolabs, Ipswich, MA, USA."
+          }
+        ],
+        "LastName": "Tanner",
+        "ForeName": "Nathan A",
+        "Initials": "NA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NanoString Technologies, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Youngmi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NanoString Technologies, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Reeves",
+        "ForeName": "Jason W",
+        "Initials": "JW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NanoString Technologies, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Hether",
+        "ForeName": "Tyler D",
+        "Initials": "TD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NanoString Technologies, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Warren",
+        "ForeName": "Sarah E",
+        "Initials": "SE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NanoString Technologies, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Bailey",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Gawrys",
+        "ForeName": "Justyna",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Tri-Institutional Computational Biology & Medicine Program, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Meleshko",
+        "ForeName": "Dmitry",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Resources Core Facility, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Dong",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9799-0068"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biotia, Inc., New York, NY, USA."
+          }
+        ],
+        "LastName": "Couto-Rodriguez",
+        "ForeName": "Mara",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biotia, Inc., New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cell Biology, SUNY Downstate Health Sciences University, New York, NY, USA."
+          }
+        ],
+        "LastName": "Nagy-Szakal",
+        "ForeName": "Dorottya",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biotia, Inc., New York, NY, USA."
+          }
+        ],
+        "LastName": "Barrows",
+        "ForeName": "Joseph",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biotia, Inc., New York, NY, USA."
+          }
+        ],
+        "LastName": "Wells",
+        "ForeName": "Heather",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biotia, Inc., New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cell Biology, SUNY Downstate Health Sciences University, New York, NY, USA."
+          }
+        ],
+        "LastName": "O'Hara",
+        "ForeName": "Niamh B",
+        "Initials": "NB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rutgers Cancer Institute of New Jersey, New York, NJ, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Robert Wood Johnson Medical School, New York, NJ, USA."
+          }
+        ],
+        "LastName": "Rosenfeld",
+        "ForeName": "Jeffrey A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0072-1567"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rutgers Cancer Institute of New Jersey, New York, NJ, USA."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Ying",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Steel",
+        "ForeName": "Peter A D",
+        "Initials": "PAD"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1424-2196"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Shemesh",
+        "ForeName": "Amos J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Resources Core Facility, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Xiang",
+        "ForeName": "Jenny",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ],
+        "LastName": "Thierry-Mieg",
+        "ForeName": "Jean",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ],
+        "LastName": "Thierry-Mieg",
+        "ForeName": "Danielle",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology and Epidemiology of Viral Diseases, University Hospital Tuebingen, Tuebingen, Germany."
+          }
+        ],
+        "LastName": "Iftner",
+        "ForeName": "Angelika",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1203-8239"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology and Epidemiology of Viral Diseases, University Hospital Tuebingen, Tuebingen, Germany."
+          }
+        ],
+        "LastName": "Bezdan",
+        "ForeName": "Daniela",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Sanchez",
+        "ForeName": "Elizabeth",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7624-769X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information Technologies & Services Department, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Population Health Sciences, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Campion",
+        "ForeName": "Thomas R",
+        "Initials": "TR",
+        "Suffix": "Jr"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Sipley",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Cong",
+        "ForeName": "Lin",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Craney",
+        "ForeName": "Arryn",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Velu",
+        "ForeName": "Priya",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8074-2287"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Melnick",
+        "ForeName": "Ari M",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5425-3682"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, Department of Systems Biology, Department of Medicine, Institute for Genomic Medicine, Columbia University, Columbia, NY, USA."
+          }
+        ],
+        "LastName": "Shapira",
+        "ForeName": "Sagi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Englander Institute for Precision Medicine and the Meyer Cancer Center, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Hajirasouliha",
+        "ForeName": "Iman",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6807-8064"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Borczuk",
+        "ForeName": "Alain",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology and Epidemiology of Viral Diseases, University Hospital Tuebingen, Tuebingen, Germany."
+          }
+        ],
+        "LastName": "Iftner",
+        "ForeName": "Thomas",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8296-0376"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Population Health Sciences, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Salvatore",
+        "ForeName": "Mirella",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Loda",
+        "ForeName": "Massimo",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Westblade",
+        "ForeName": "Lars F",
+        "Initials": "LF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA."
+          }
+        ],
+        "LastName": "Cushing",
+        "ForeName": "Melissa",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hangzhou Cancer Institute, Hangzhou Cancer Hospital, Hangzhou, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Oncology, Hangzhou Cancer Hospital, Hangzhou, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Shixiu",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1369-5740"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "HudsonAlpha Discovery Institute, Huntsville, AL, USA."
+          }
+        ],
+        "LastName": "Levy",
+        "ForeName": "Shawn",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2915-2094"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of California, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "UCSF-Abbott Viral Diagnostics and Discovery Center, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Division of Infectious Diseases, University of California, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Chiu",
+        "ForeName": "Charles",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5417-5995"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Weill Cornell Medicine, New York, NY, USA. res2025@med.cornell.edu."
+          }
+        ],
+        "LastName": "Schwartz",
+        "ForeName": "Robert E",
+        "Initials": "RE"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2700-2597"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, Department of Systems Biology, Department of Medicine, Institute for Genomic Medicine, Columbia University, Columbia, NY, USA. npt2105@cumc.columbia.edu."
+          }
+        ],
+        "LastName": "Tatonetti",
+        "ForeName": "Nicholas",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1759-2562"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA. har2006@med.cornell.edu."
+          }
+        ],
+        "LastName": "Rennert",
+        "ForeName": "Hanna",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2211-4741"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York Genome Center, New York, NY, USA. mai9037@med.cornell.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, Weill Cornell Medicine, New York, NY, USA. mai9037@med.cornell.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Englander Institute for Precision Medicine and the Meyer Cancer Center, Weill Cornell Medicine, New York, NY, USA. mai9037@med.cornell.edu."
+          }
+        ],
+        "LastName": "Imielinski",
+        "ForeName": "Marcin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1850-1642"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA. chm2042@med.cornell.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Alsaud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA. chm2042@med.cornell.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, New York, NY, USA. chm2042@med.cornell.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Feil Family Brain and Mind Research Institute, Weill Cornell Medicine, New York, NY, USA. chm2042@med.cornell.edu."
+          }
+        ],
+        "LastName": "Mason",
+        "ForeName": "Christopher E",
+        "Initials": "CE"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U01 DA053941",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "TL1 TR002386",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R35 GM138152",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UL1 TR002384",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 DK121072",
+        "Acronym": "DK",
+        "Agency": "NIDDK NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R35 GM131905",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, N.I.H., Intramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Angiotensin Receptor Antagonists"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Angiotensin-Converting Enzyme Inhibitors"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "HLA Antigens"
+    }
+  ],
+  "SupplMeshList": [
+    "LAMP assay"
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2020 May 01;:",
+      "PMID": "32511352"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Angiotensin Receptor Antagonists"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Angiotensin-Converting Enzyme Inhibitors"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "HLA Antigens"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "Host Microbial Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Diagnostic Techniques"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "New York City"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acid Amplification Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA-Seq"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "N.T. and B.W.L. are employees at New England Biolabs. R.E.S. is on the scientific advisory board of Miromatrix Inc. Biotia employees and advisors include M.C.R., D.N.S., J.B., H.W., C.E.M., and N.O. D.B. is a co-founder of Poppy Inc; A.F and C.S.C are employees of DNAnexus. Authors not listed here do not have competing interests."
+}

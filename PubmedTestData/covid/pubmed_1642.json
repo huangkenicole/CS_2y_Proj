@@ -1,0 +1,206 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "SIR model",
+      "mathematical model",
+      "ordinary differential equations"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34067128",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "854",
+      "10.3390/v13050854"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "07"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Will SARS-CoV-2 Become Just Another Seasonal Coronavirus?",
+    "Abstract": {
+      "AbstractText": [
+        "The future prevalence and virulence of SARS-CoV-2 is uncertain. Some emerging pathogens become avirulent as populations approach herd immunity. Although not all viruses follow this path, the fact that the seasonal coronaviruses are benign gives some hope. We develop a general mathematical model to predict when the interplay among three factors, correlation of severity in consecutive infections, population heterogeneity in susceptibility due to age, and reduced severity due to partial immunity, will promote avirulence as SARS-CoV-2 becomes endemic. Each of these components has the potential to limit severe, high-shedding cases over time under the right circumstances, but in combination they can rapidly reduce the frequency of more severe and infectious manifestation of disease over a wide range of conditions. As more reinfections are captured in data over the next several years, these models will help to test if COVID-19 severity is beginning to attenuate in the ways our model predicts, and to predict the disease."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6656-0217"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of Utah, Salt Lake City, UT 84112, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Epidemiology, University of Utah, Salt Lake City, UT 84108, USA."
+          }
+        ],
+        "LastName": "Beams",
+        "ForeName": "Alexander B",
+        "Initials": "AB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Utah, Salt Lake City, UT 84112, USA."
+          }
+        ],
+        "LastName": "Bateman",
+        "ForeName": "Rebecca",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9022-3157"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Epidemiology, University of Utah, Salt Lake City, UT 84108, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, University of Utah, Salt Lake City, UT 84112, USA."
+          }
+        ],
+        "LastName": "Adler",
+        "ForeName": "Frederick R",
+        "Initials": "FR"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U01 CK000585",
+        "Acronym": "CK",
+        "Agency": "NCEZID CDC HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "Modeling Infectious Diseases in Healthcare Network (MInD - Healthcare)",
+        "Acronym": "CC",
+        "Agency": "CDC HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "COVID-19 Special Emphasis Award from the University of Utah VPR",
+        "Agency": "University of Utah",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "administration & dosage",
+        "immunology",
+        "supply & distribution"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Communicable Disease Control"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Disease Eradication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Immunity, Herd"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seasons"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

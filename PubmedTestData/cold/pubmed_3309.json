@@ -1,0 +1,138 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "11782060",
+  "DateCompleted": {
+    "Year": "2002",
+    "Month": "03",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "09",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0277-6715",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2002",
+          "Month": "Jan",
+          "Day": "30"
+        }
+      },
+      "Title": "Statistics in medicine",
+      "ISOAbbreviation": "Stat Med"
+    },
+    "ArticleTitle": "Complete imputation of missing repeated categorical data: one-sample applications.",
+    "Pagination": {
+      "StartPage": "203",
+      "EndPage": "217",
+      "MedlinePgn": "203-17"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Longitudinal studies with repeated measures are often subject to non-response. Methods currently employed to alleviate the difficulties caused by missing data are typically unsatisfactory, especially when the cause of the missingness is related to the outcomes. We present an approach for incomplete categorical data in the repeated measures setting that allows missing data to depend on other observed outcomes for a study subject. The proposed methodology also allows a broader examination of study findings through interpretation of results in the framework of the set of all possible test statistics that might have been observed had no data been missing. The proposed approach consists of the following general steps. First, we generate all possible sets of missing values and form a set of possible complete data sets. We then weight each data set according to clearly defined assumptions and apply an appropriate statistical test procedure to each data set, combining the results to give an overall indication of significance. We make use of the EM algorithm and a Bayesian prior in this approach. While not restricted to the one-sample case, the proposed methodology is illustrated for one-sample data and compared to the common complete-case and available-case analysis methods."
+      ],
+      "CopyrightInformation": "Copyright 2002 John Wiley & Sons, Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mayo Graduate School of Medicine, Rochester, MN 55905, USA. west.colin@mayo.edu"
+          }
+        ],
+        "LastName": "West",
+        "ForeName": "Colin P",
+        "Initials": "CP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dawson",
+        "ForeName": "Jeffrey D",
+        "Initials": "JD"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Stat Med",
+    "NlmUniqueID": "8215016",
+    "ISSNLinking": "0277-6715"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Steam"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "therapy"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Interpretation, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Longitudinal Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Patient Dropouts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Respiratory Therapy"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Statistics as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Steam"
+    }
+  ]
+}

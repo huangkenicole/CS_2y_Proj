@@ -1,0 +1,296 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bioinformatics",
+      "DNA methylation",
+      "Oral cancer",
+      "Pyrosequencing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30081853",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "01",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "08",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "786",
+      "10.1186/s12885-018-4706-x"
+    ],
+    "Journal": {
+      "ISSN": "1471-2407",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Aug",
+          "Day": "06"
+        }
+      },
+      "Title": "BMC cancer",
+      "ISOAbbreviation": "BMC Cancer"
+    },
+    "ArticleTitle": "TRH site-specific methylation in oral and oropharyngeal squamous cell carcinoma.",
+    "Pagination": {
+      "StartPage": "786",
+      "MedlinePgn": "786"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The incidence of oral squamous cell carcinoma (OSCC) continues to increase each year. Clinical examination and biopsy usually detect OSCC at an advanced stage that is difficult to treat, leading to poor prognosis. DNA methylation pattern is tissue specific and has emerged as a biomarker for the detection of cancers of tissue origin. Herein, we aimed to discover a novel site-specific methylation marker for OSCC.",
+        "We selected OSCC datasets analyzed using the IlluminaHumanMethylation27 BeadChip from the Gene Expression Omnibus repository of the National Center for Biotechnology Information using a bioinformatics approach. From 27,578 CG dinucleotide (CpG) sites, the CpG site with the highest difference in methylation level between healthy and cancerous cells was selected for further validation. A total of 18 mucosal tissue samples were collected from nine healthy controls and nine from OSCC subjects and subjected to microdissection for cell purification, followed by DNA extraction, bisulfite conversion, and pyrosequencing. Additionally, epithelial cells were collected from 2 cohorts including oral rinse from healthy controls, oral rinse and oral swab from OSCC subjects and oral rinse from oropharyngeal squamous cell carcinoma (SCC) were examined for their methylation status using real-time polymerase chain reaction (PCR).",
+        "Among the 27,578 differentially methylated CpG sites, cg01009664 of the thyrotropin-releasing hormone (TRH) gene showed the greatest difference in methylation level between healthy and cancerous cells. Validation of the TRH gene using pyrosequencing revealed a methylation percentage of 7%\u2009\u00b1\u20093.43% in healthy cells in contrast to 63%\u2009\u00b1\u200919.81% in cancerous cells. Screening of epithelial cells using real-time PCR showed that the DNA methylation level was significantly higher in oral swab and rinse samples collected from OSCC and oropharyngeal SCC subjects than those from healthy controls (p\u2009<\u20090.001). In addition, when using a cutoff at 3.31\u00a0ng/\u03bcL, the TRH methylation biomarker was able to distinguish OSCC and oropharyngeal SCC subjects from healthy controls with high level of area under the curve, sensitivity and specificity.",
+        "We demonstrated cg01009664 of TRH as a potential biomarker for OSCC and oropharyngeal SCC screening using oral rinse and swab techniques."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anatomy, Faculty of Medicine, Center of Excellence in Molecular Genetics of Cancer and Human Diseases, Chulalongkorn University, Bangkok, 10330, Thailand."
+          }
+        ],
+        "LastName": "Puttipanyalears",
+        "ForeName": "C",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anatomy, Faculty of Medicine, Center of Excellence in Molecular Genetics of Cancer and Human Diseases, Chulalongkorn University, Bangkok, 10330, Thailand."
+          }
+        ],
+        "LastName": "Arayataweegool",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anatomy, Faculty of Medicine, Center of Excellence in Molecular Genetics of Cancer and Human Diseases, Chulalongkorn University, Bangkok, 10330, Thailand."
+          }
+        ],
+        "LastName": "Chalertpet",
+        "ForeName": "K",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, Department of Medicine, Chulalongkorn University and The King Chulalongkorn Memorial Hospital, Bangkok, 10330, Thailand."
+          }
+        ],
+        "LastName": "Rattanachayoto",
+        "ForeName": "P",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology, Head and Neck Surgery, Faculty of Medicine, Chulalongkorn University, Pathumwa, Bangkok, 10330, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology, Head and Neck Surgery, King Chulalongkorn Memorial Hospital, Thai Red Cross Society, Pathumwan, Bangkok, 10330, Thailand."
+          }
+        ],
+        "LastName": "Mahattanasakul",
+        "ForeName": "P",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology, Head and Neck Surgery, Faculty of Medicine, Chulalongkorn University, Pathumwa, Bangkok, 10330, Thailand."
+          }
+        ],
+        "LastName": "Tangjaturonsasme",
+        "ForeName": "N",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology, Head and Neck Surgery, Faculty of Medicine, Chulalongkorn University, Pathumwa, Bangkok, 10330, Thailand."
+          }
+        ],
+        "LastName": "Kerekhanjanarong",
+        "ForeName": "V",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anatomy, Faculty of Medicine, Center of Excellence in Molecular Genetics of Cancer and Human Diseases, Chulalongkorn University, Bangkok, 10330, Thailand."
+          }
+        ],
+        "LastName": "Mutirangura",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oral Biology, Faculty of Dentistry, Mahidol University, 6 Yothi Road, Ratchathewi, Bangkok, 10400, Thailand. nakarinkit@gmail.com."
+          }
+        ],
+        "LastName": "Kitkumthorn",
+        "ForeName": "N",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Cancer",
+    "NlmUniqueID": "100967800",
+    "ISSNLinking": "1471-2407"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "5Y5F15120W",
+      "NameOfSubstance": "Thyrotropin-Releasing Hormone"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CpG Islands"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Early Detection of Cancer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epigenesis, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Predisposition to Disease"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Mouth Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Oropharyngeal Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Predictive Value of Tests"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Squamous Cell Carcinoma of Head and Neck"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Thyrotropin-Releasing Hormone"
+    }
+  ],
+  "CoiStatement": "ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The research methodology employed in this study was approved by The Institutional Review Board of the Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand (IRB No. 426/58 and 135/59). All study subjects provided written informed consent. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare that they have no competing interests. PUBLISHER\u2019S NOTE: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+}

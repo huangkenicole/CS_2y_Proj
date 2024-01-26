@@ -1,0 +1,255 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25774687",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "10",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "03",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0120361",
+      "10.1371/journal.pone.0120361"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2015"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "The identification of specific methylation patterns across different cancers.",
+    "Pagination": {
+      "StartPage": "e0120361",
+      "MedlinePgn": "e0120361"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Abnormal DNA methylation is known as playing an important role in the tumorgenesis. It is helpful for distinguishing the specificity of diagnosis and therapeutic targets for cancers based on characteristics of DNA methylation patterns across cancers. High throughput DNA methylation analysis provides the possibility to comprehensively filter the epigenetics diversity across various cancers. We integrated whole-genome methylation data detected in 798 samples from seven cancers. The hierarchical clustering revealed the existence of cancer-specific methylation pattern. Then we identified 331 differentially methylated genes across these cancers, most of which (266) were specifically differential methylation in unique cancer. A DNA methylation correlation network (DMCN) was built based on the methylation correlation between these genes. It was shown the hubs in the DMCN were inclined to cancer-specific genes in seven cancers. Further survival analysis using the part of genes in the DMCN revealed high-risk group and low-risk group were distinguished by seven biomarkers (PCDHB15, WBSCR17, IGF1, GYPC, CYGB, ACTG2, and PRRT1) in breast cancer and eight biomarkers (ZBTB32, OR51B4, CCL8, TMEFF2, SALL3, GPSM1, MAGEA8, and SALL1) in colon cancer, respectively. At last, a protein-protein interaction network was introduced to verify the biological function of differentially methylated genes. It was shown that MAP3K14, PTN, ACVR1 and HCK sharing different DNA methylation and gene expression across cancers were relatively high degree distribution in PPI network. The study suggested that not only the identified cancer-specific genes provided reference for individual treatment but also the relationship across cancers could be explained by differential DNA methylation."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Chunlong",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, The fourth Affiliated Hospital of Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Hongyan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Jie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Hongbo",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Fang",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Wei",
+        "ForeName": "Yanjun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Su",
+        "ForeName": "Jianzhong",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of General Surgery, The Second Affiliated Hospital of Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Dongwei",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, The fourth Affiliated Hospital of Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Tiefu",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Nucleic Acid"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epigenesis, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epigenomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "mortality"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Mapping"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Maps"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests: </b>Yan Zhang is currently an academic editor. This does not alter the authors' adherence to all the PLOS ONE policies on sharing data and materials."
+}

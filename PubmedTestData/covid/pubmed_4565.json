@@ -1,0 +1,300 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "DHFR",
+      "SARS-CoV-2",
+      "binding affinity prediction from distance",
+      "drug design platform",
+      "influential distance",
+      "main protease",
+      "methotrexate",
+      "pocket design",
+      "structural conservation",
+      "trimethoprim"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34614393",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "10",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.str.2021.09.004",
+      "S0969-2126(21)00332-4"
+    ],
+    "Journal": {
+      "ISSN": "1878-4186",
+      "JournalIssue": {
+        "Volume": "30",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "06"
+        }
+      },
+      "Title": "Structure (London, England : 1993)",
+      "ISOAbbreviation": "Structure"
+    },
+    "ArticleTitle": "MANORAA: A machine learning platform to guide protein-ligand design by anchors and influential distances.",
+    "Pagination": {
+      "StartPage": "181",
+      "EndPage": "189.e5",
+      "MedlinePgn": "181-189.e5"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The MANORAA platform uses structure-based approaches to provide information on drug design originally derived from mapping tens of thousands of amino acids on a grid. In-depth analyses of the pockets, frequently occurring atoms, influential distances, and active-site boundaries are used for the analysis of active sites. The algorithms derived provide model equations that can predict whether changes in distances, such as contraction or expansion, will result in improved binding affinity. The algorithm is confirmed using kinetic studies of dihydrofolate reductase (DHFR), together with two DHFR-TS crystal structures. Empirical analyses of 881 crystal structures involving 180 ligands are used to interpret protein-ligand binding affinities. MANORAA links to major biological databases for web-based analysis of drug design. The frequency of atoms inside the main protease structures, including those from SARS-CoV-2, shows how the rigid part of the ligand can be used as a probe for molecular design (http://manoraa.org)."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Molecular Biosciences, Mahidol University, Salaya, Nakhon Pathom 73170, Thailand; Integrative Computational BioScience (ICBS) Center, Mahidol University, Salaya, Nakhon Pathom 73170, Thailand. Electronic address: duangrudee.tan@mahidol.ac.th."
+          }
+        ],
+        "LastName": "Tanramluk",
+        "ForeName": "Duangrudee",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Center for Excellence in Protein and Enzyme Technology, Faculty of Science, Mahidol University, Ratchathewi, Bangkok 10400, Thailand."
+          }
+        ],
+        "LastName": "Pakotiprapha",
+        "ForeName": "Danaya",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Integrative Computational BioScience (ICBS) Center, Mahidol University, Salaya, Nakhon Pathom 73170, Thailand."
+          }
+        ],
+        "LastName": "Phoochaijaroen",
+        "ForeName": "Sakao",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Molecular Biosciences, Mahidol University, Salaya, Nakhon Pathom 73170, Thailand."
+          }
+        ],
+        "LastName": "Chantravisut",
+        "ForeName": "Pattra",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Center for Excellence in Protein and Enzyme Technology, Faculty of Science, Mahidol University, Ratchathewi, Bangkok 10400, Thailand."
+          }
+        ],
+        "LastName": "Thampradid",
+        "ForeName": "Sirikanya",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Genetic Engineering and Biotechnology (BIOTEC), 113 Thailand Science Park, Khlong Nueng, Khlong Luang, Pathum Thani 12120, Thailand."
+          }
+        ],
+        "LastName": "Vanichtanankul",
+        "ForeName": "Jarunee",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Integrative Computational BioScience (ICBS) Center, Mahidol University, Salaya, Nakhon Pathom 73170, Thailand; Department of Computer Engineering, Faculty of Engineering, Mahidol University, Salaya, Nakhon Pathom 73170, Thailand."
+          }
+        ],
+        "LastName": "Narupiyakul",
+        "ForeName": "Lalita",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Integrative Computational BioScience (ICBS) Center, Mahidol University, Salaya, Nakhon Pathom 73170, Thailand."
+          }
+        ],
+        "LastName": "Akavipat",
+        "ForeName": "Ruj",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Center for Excellence in Protein and Enzyme Technology, Faculty of Science, Mahidol University, Ratchathewi, Bangkok 10400, Thailand."
+          }
+        ],
+        "LastName": "Yuvaniyama",
+        "ForeName": "Jirundon",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Structure",
+    "NlmUniqueID": "101087697",
+    "ISSNLinking": "0969-2126"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Ligands"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteins"
+    },
+    {
+      "RegistryNumber": "AN164J8Y0X",
+      "NameOfSubstance": "Trimethoprim"
+    },
+    {
+      "RegistryNumber": "EC 1.5.1.3",
+      "NameOfSubstance": "Tetrahydrofolate Dehydrogenase"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Crystallography, X-Ray"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Protein"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Design"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Ligands"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Binding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Domains"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Proteins"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Tetrahydrofolate Dehydrogenase"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Trimethoprim"
+    }
+  ],
+  "CoiStatement": "Declaration of interests The authors declare no competing interests."
+}

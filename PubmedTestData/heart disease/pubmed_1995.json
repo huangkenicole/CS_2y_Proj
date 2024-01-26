@@ -1,0 +1,146 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27999611",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "03",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "11",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4083089",
+      "10.1155/2016/4083089"
+    ],
+    "Journal": {
+      "ISSN": "1748-6718",
+      "JournalIssue": {
+        "Volume": "2016",
+        "PubDate": {
+          "Year": "2016"
+        }
+      },
+      "Title": "Computational and mathematical methods in medicine",
+      "ISOAbbreviation": "Comput Math Methods Med"
+    },
+    "ArticleTitle": "Poisson Mixture Regression Models for Heart Disease Prediction.",
+    "Pagination": {
+      "StartPage": "4083089",
+      "MedlinePgn": "4083089"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Early heart disease control can be achieved by high disease prediction and diagnosis efficiency. This paper focuses on the use of model based clustering techniques to predict and diagnose heart disease via Poisson mixture regression models. Analysis and application of Poisson mixture regression models is here addressed under two different classes: standard and concomitant variable mixture regression models. Results show that a two-component concomitant variable Poisson mixture regression model predicts heart disease better than both the standard Poisson mixture regression model and the ordinary general linear Poisson regression model due to its low Bayesian Information Criteria value. Furthermore, a Zero Inflated Poisson Mixture Regression model turned out to be the best model for heart prediction over all models as it both clusters individuals into high or low risk category and predicts rate to heart disease componentwise given clusters available. It is deduced that heart disease prediction can be effectively done by identifying the major risks componentwise using Poisson mixture regression model."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-3423-2323"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Statistics Department, Cukurova University, 01330 Adana, Turkey."
+          }
+        ],
+        "LastName": "Mufudza",
+        "ForeName": "Chipo",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Statistics Department, Cukurova University, 01330 Adana, Turkey."
+          }
+        ],
+        "LastName": "Erol",
+        "ForeName": "Hamza",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Math Methods Med",
+    "NlmUniqueID": "101277751",
+    "ISSNLinking": "1748-670X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Linear Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Poisson Distribution"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sex Factors"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

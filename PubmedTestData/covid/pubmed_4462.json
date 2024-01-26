@@ -1,0 +1,147 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Dissipation",
+      "Free energy",
+      "Lattice",
+      "Transmission",
+      "Wave"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32975714",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "09",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10237-020-01387-4"
+    ],
+    "Journal": {
+      "ISSN": "1617-7940",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Biomechanics and modeling in mechanobiology",
+      "ISOAbbreviation": "Biomech Model Mechanobiol"
+    },
+    "ArticleTitle": "Contribution to COVID-19 spread modelling: a physical phenomenological dissipative formalism.",
+    "Pagination": {
+      "StartPage": "379",
+      "EndPage": "387",
+      "MedlinePgn": "379-387"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this study, we propose an evolution law of COVID-19 transmission. An infinite ordered lattice represents population. Epidemic evolution is represented by a wave-like free spread starting from a first case as an epicentre. Free energy of the virus on a given day is defined equal to the natural logarithm of active infected cases number. We postulate a form of free energy built using thermodynamics of irreversible processes in analogy to isotherm wave propagation in solids and non-local elastic damage behaviour of materials. The proposed expression of daily free energy rate leads to dissipation of propagation introducing a parameter quantifying measures taking by governments to restrict transmission. Entropy daily rate representing disorder produced in the initial system is also explicitly defined. In this context, a simple law of evolution of infected cases as function of time is given in an iterative form. The model predicts different effects on peak of infected cases I<sub>max</sub> and epidemic period, including effects of population size N, effects of measures taking to restrict spread, effects of population density and effect of a parameter T similar to absolute temperature in thermodynamics. Different effects are presented first. The model is then applied to epidemic spread in Tunisia and compared with data registered since the report of the first confirmed case on March 2, 2020. It is shown that the low epidemic size in Tunisia is essentially due to a low population density and relatively strict restriction measures including lockdown and quarantine."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4471-5505"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire de g\u00e9nie civil, Ecole Nationale d'ing\u00e9nieurs de Tunis, University of Tunis El Manar, Tunis, Tunisia. oualid.limam@enit.rnu.tn."
+          }
+        ],
+        "LastName": "Limam",
+        "ForeName": "Oualid",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Medical Biology, Regional Hospital of Sidi Bouzid, Sidi Bouzid, Tunisia."
+          }
+        ],
+        "LastName": "Limam",
+        "ForeName": "Mohamed",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "Biomech Model Mechanobiol",
+    "NlmUniqueID": "101135325",
+    "ISSNLinking": "1617-7940"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Population Density"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Tunisia"
+    }
+  ],
+  "CoiStatement": "The authors have no conflicts of interest to declare for this study."
+}

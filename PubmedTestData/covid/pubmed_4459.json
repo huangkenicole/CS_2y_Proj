@@ -1,0 +1,332 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34196568",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acs.jpclett.1c01460"
+    ],
+    "Journal": {
+      "ISSN": "1948-7185",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "26",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "08"
+        }
+      },
+      "Title": "The journal of physical chemistry letters",
+      "ISOAbbreviation": "J Phys Chem Lett"
+    },
+    "ArticleTitle": "Interfacial Water Many-Body Effects Drive Structural Dynamics and Allosteric Interactions in SARS-CoV-2 Main Protease Dimerization Interface.",
+    "Pagination": {
+      "StartPage": "6218",
+      "EndPage": "6226",
+      "MedlinePgn": "6218-6226"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Following our previous work ( <i>Chem. Sci.</i> 2021, 12, 4889-4907), we study the structural dynamics of the SARS-CoV-2 Main Protease dimerization interface (apo dimer) by means of microsecond adaptive sampling molecular dynamics simulations (50 \u03bcs) using the AMOEBA polarizable force field (PFF). This interface is structured by a complex H-bond network that is stable only at physiological pH. Structural correlations analysis between its residues and the catalytic site confirms the presence of a buried allosteric site. However, noticeable differences in allosteric connectivity are observed between PFFs and non-PFFs. Interfacial polarizable water molecules are shown to appear at the heart of this discrepancy because they are connected to the global interface H-bond network and able to adapt their dipole moment (and dynamics) to their diverse local physicochemical microenvironments. The water-interface many-body interactions appear to drive the interface volume fluctuations and to therefore mediate the allosteric interactions with the catalytic cavity."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, LCT, UMR 7616 CNRS, 75005 Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 Saint-Joseph de Beyrouth, UR EGP, Centre d'Analyses et de Recherche, Facult\u00e9 des Sciences, 1104 2020 Beirut, Lebanon."
+          }
+        ],
+        "LastName": "El Ahdab",
+        "ForeName": "Dina",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, LCT, UMR 7616 CNRS, 75005 Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, IP2CT, FR 2622 CNRS, 75005 Paris, France."
+          }
+        ],
+        "LastName": "Lagard\u00e8re",
+        "ForeName": "Louis",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, LCT, UMR 7616 CNRS, 75005 Paris, France."
+          }
+        ],
+        "LastName": "Inizan",
+        "ForeName": "Th\u00e9o Jaffrelot",
+        "Initials": "TJ"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8584-6547"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, LCT, UMR 7616 CNRS, 75005 Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, IPCM, UMR 8232 CNRS, 75005 Paris, France."
+          }
+        ],
+        "LastName": "C\u00e9lerse",
+        "ForeName": "Fr\u00e9deric",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3930-7793"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, University of Texas at Austin, Austin, Texas 78712, United States."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Chengwen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, LCT, UMR 7616 CNRS, 75005 Paris, France."
+          }
+        ],
+        "LastName": "Adjoua",
+        "ForeName": "Olivier",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, IP2CT, FR 2622 CNRS, 75005 Paris, France."
+          }
+        ],
+        "LastName": "Jolly",
+        "ForeName": "Luc-Henri",
+        "Initials": "LH"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7174-2907"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, LCT, UMR 7616 CNRS, 75005 Paris, France."
+          }
+        ],
+        "LastName": "Gresh",
+        "ForeName": "Nohad",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 Saint-Joseph de Beyrouth, UR EGP, Centre d'Analyses et de Recherche, Facult\u00e9 des Sciences, 1104 2020 Beirut, Lebanon."
+          }
+        ],
+        "LastName": "Hobaika",
+        "ForeName": "Zeina",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5613-1910"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, University of Texas at Austin, Austin, Texas 78712, United States."
+          }
+        ],
+        "LastName": "Ren",
+        "ForeName": "Pengyu",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 Saint-Joseph de Beyrouth, UR EGP, Centre d'Analyses et de Recherche, Facult\u00e9 des Sciences, 1104 2020 Beirut, Lebanon."
+          }
+        ],
+        "LastName": "Maroun",
+        "ForeName": "Richard G",
+        "Initials": "RG"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6615-9426"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, LCT, UMR 7616 CNRS, 75005 Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, University of Texas at Austin, Austin, Texas 78712, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institut Universitaire de France, 75005 Paris, France."
+          }
+        ],
+        "LastName": "Piquemal",
+        "ForeName": "Jean-Philip",
+        "Initials": "JP"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM106137",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 GM114237",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Phys Chem Lett",
+    "NlmUniqueID": "101526034",
+    "ISSNLinking": "1948-7185"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Matrix Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "membrane protein, SARS-CoV-2"
+    },
+    {
+      "RegistryNumber": "059QF0KO0R",
+      "NameOfSubstance": "Water"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Allosteric Site"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Catalytic Domain"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Dimerization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hydrogen Bonding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hydrogen-Ion Concentration"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Viral Matrix Proteins"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Water"
+    }
+  ]
+}

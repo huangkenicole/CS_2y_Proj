@@ -1,0 +1,142 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30763245",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "26"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "02",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TCBB.2019.2897931"
+    ],
+    "Journal": {
+      "ISSN": "1557-9964",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2020",
+          "Season": "May-Jun"
+        }
+      },
+      "Title": "IEEE/ACM transactions on computational biology and bioinformatics",
+      "ISOAbbreviation": "IEEE/ACM Trans Comput Biol Bioinform"
+    },
+    "ArticleTitle": "An Entropy-Based Method for Identifying Mutual Exclusive Driver Genes in Cancer.",
+    "Pagination": {
+      "StartPage": "758",
+      "EndPage": "768",
+      "MedlinePgn": "758-768"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer in essence is a complex genomic alteration disease which is caused by the somatic mutations during the lifetime. According to previous researches, the first step to overcome cancer is to identify driver genes which can promote carcinogenesis. However, it is still a big challenge to precisely and efficiently extract the cancer related driver genes because the nature of cancer is heterogeneous and there exists tremendously irrelevant passenger mutations which have no function impact on the cancer's development. In this work, we proposed a novel entropy-based method namely EntroRank to identify driver genes by integrating the subcellular localization information and mutual exclusive of variation frequency into the network. EntroRank can take into full consideration different properties of driver genes. Considering the modularity of driver genes, the mutated genes in the network were first clustered into different subgroups according to their located compartments. After that, the structural entropy of the gene in the subgroup was employed to measure its indispensability. Considering mutual exclusive property between driver genes in the modules, relative entropy was utilized to measure the degree of mutual exclusive between two mutated genes in terms of their variation frequency. We applied our method to three different cancers including lung, prostate, and breast cancer. The results show our method not only detect the well-known important drivers but also prioritiz the rare unknown driver genes. Besides, EntroRank can identify driver genes having mutual exclusive property. Compared with other existing methods, our method achieves a better performance for most of cancer types in terms of Precision, Recall, and Fscore."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Song",
+        "ForeName": "Junrong",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Peng",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Feng",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE/ACM Trans Comput Biol Bioinform",
+    "NlmUniqueID": "101196755",
+    "ISSNLinking": "1545-5963"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Carcinogenesis"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Entropy"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genes, Neoplasm"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Intracellular Space"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Signal Transduction"
+    }
+  ]
+}

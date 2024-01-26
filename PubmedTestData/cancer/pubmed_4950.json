@@ -1,0 +1,178 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24699716",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "02",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "04",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e93600",
+      "10.1371/journal.pone.0093600"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "9",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2014"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Incremental learning with SVM for multimodal classification of prostatic adenocarcinoma.",
+    "Pagination": {
+      "StartPage": "e93600",
+      "MedlinePgn": "e93600"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Robust detection of prostatic cancer is a challenge due to the multitude of variants and their representation in MR images. We propose a pattern recognition system with an incremental learning ensemble algorithm using support vector machines (SVM) tackling this problem employing multimodal MR images and a texture-based information strategy. The proposed system integrates anatomic, texture, and functional features. The data set was preprocessed using B-Spline interpolation, bias field correction and intensity standardization. First- and second-order angular independent statistical approaches and rotation invariant local phase quantization (RI-LPQ) were utilized to quantify texture information. An incremental learning ensemble SVM was implemented to suit working conditions in medical applications and to improve effectiveness and robustness of the system. The probability estimation of cancer structures was calculated using SVM and the corresponding optimization was carried out with a heuristic method together with a 3-fold cross-validation methodology. We achieved an average sensitivity of 0.844 \u00b1 0.068 and a specificity of 0.780 \u00b1 0.038, which yielded superior or similar performance to current state of the art using a total database of only 41 slices from twelve patients with histological confirmed information, including cancerous, unhealthy non-cancerous and healthy prostate tissue. Our results show the feasibility of an ensemble SVM being able to learn additional information from new data while preserving previously acquired knowledge and preventing unlearning. The use of texture descriptors provides more salient discriminative patterns than the functional information used. Furthermore, the system improves selection of information, efficiency and robustness of the classification. The generated probability map enables radiologists to have a lower variability in diagnosis, decrease false negative rates and reduce the time to recognize and delineate structures in the prostate."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Experimental Radiation Oncology, Department of Radiation Oncology, University Medical Center Mannheim, Heidelberg University, Mannheim, Germany."
+          }
+        ],
+        "LastName": "Garc\u00eda Molina",
+        "ForeName": "Jos\u00e9 Fernando",
+        "Initials": "JF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Experimental Radiation Oncology, Department of Radiation Oncology, University Medical Center Mannheim, Heidelberg University, Mannheim, Germany."
+          }
+        ],
+        "LastName": "Zheng",
+        "ForeName": "Lei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Clinical Radiology and Nuclear Medicine, University Medical Center Mannheim, Heidelberg University, Mannheim, Germany."
+          }
+        ],
+        "LastName": "Sertdemir",
+        "ForeName": "Metin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Clinical Radiology and Nuclear Medicine, University Medical Center Mannheim, Heidelberg University, Mannheim, Germany."
+          }
+        ],
+        "LastName": "Dinter",
+        "ForeName": "Dietmar J",
+        "Initials": "DJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Clinical Radiology and Nuclear Medicine, University Medical Center Mannheim, Heidelberg University, Mannheim, Germany."
+          }
+        ],
+        "LastName": "Sch\u00f6nberg",
+        "ForeName": "Stefan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Process Control and Innovative Energy Conversion (PI), Hochschule Mannheim, University of Applied Sciences, Mannheim, Germany."
+          }
+        ],
+        "LastName": "R\u00e4dle",
+        "ForeName": "Matthias",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "classification",
+        "pathology"
+      ],
+      "DescriptorName": "Adenocarcinoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "pathology"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests: </b>The authors have declared that no competing interests exist."
+}

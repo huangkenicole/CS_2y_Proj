@@ -1,0 +1,758 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Brazil",
+      "COVID-19",
+      "SARS-CoV-2",
+      "coronavirus",
+      "variant gamma",
+      "virus evolution"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35196783",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "02",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e02366-21",
+      "10.1128/spectrum.02366-21"
+    ],
+    "Journal": {
+      "ISSN": "2165-0497",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Feb",
+          "Day": "23"
+        }
+      },
+      "Title": "Microbiology spectrum",
+      "ISOAbbreviation": "Microbiol Spectr"
+    },
+    "ArticleTitle": "Spread of Gamma (P.1) Sub-Lineages Carrying Spike Mutations Close to the Furin Cleavage Site and Deletions in the N-Terminal Domain Drives Ongoing Transmission of SARS-CoV-2 in Amazonas, Brazil.",
+    "Pagination": {
+      "StartPage": "e0236621",
+      "MedlinePgn": "e0236621"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Amazonas was one of the most heavily affected Brazilian states by the COVID-19 epidemic. Despite a large number of infected people, particularly during the second wave associated with the spread of the Variant of Concern (VOC) Gamma (lineage P.1), SARS-CoV-2 continues to circulate in the Amazonas. To understand how SARS-CoV-2 persisted in a human population with a high immunity barrier, we generated 1,188 SARS-CoV-2 whole-genome sequences from individuals diagnosed in the Amazonas state from 1st January to 6th July 2021, of which 38 were vaccine breakthrough infections. Our study reveals a sharp increase in the relative prevalence of Gamma plus (P.1+) variants, designated Pango Lineages P.1.3 to P.1.6, harboring two types of additional Spike changes: deletions in the N-terminal (NTD) domain (particularly \u0394144 or \u0394141-144) associated with resistance to anti-NTD neutralizing antibodies or mutations at the S1/S2 junction (N679K or P681H) that probably enhance the binding affinity to the furin cleavage site, as suggested by our molecular dynamics simulations. As lineages P.1.4 (S:N679K) and P.1.6 (S:P681H) expanded (Re\u2009>\u20091) from March to July 2021, the lineage P.1 declined (Re\u2009<\u20091) and the median Ct value of SARS-CoV-2 positive cases in Amazonas significantly decreases. Still, we did not find an increased incidence of P.1+ variants among breakthrough cases of fully vaccinated patients (71%) in comparison to unvaccinated individuals (93%). This evidence supports that the ongoing endemic transmission of SARS-CoV-2 in the Amazonas is driven by the spread of new local Gamma/P.1 sublineages that are more transmissible, although not more efficient to evade vaccine-elicited immunity than the parental VOC. Finally, as SARS-CoV-2 continues to spread in human populations with a declining density of susceptible hosts, the risk of selecting more infectious variants or antibody evasion mutations is expected to increase. <b>IMPORTANCE</b> The continuous evolution of SARS-CoV-2 is an expected phenomenon that will continue to happen due to the high number of cases worldwide. The present study analyzed how a Variant of Concern (VOC) could still circulate in a population hardly affected by two COVID-19 waves and with vaccination in progress. Our results showed that the answer behind that was a new generation of Gamma-like viruses, which emerged locally carrying mutations that made it more transmissible and more capable of spreading, partially evading prior immunity triggered by natural infections or vaccines. With thousands of new cases daily, the current pandemics scenario suggests that SARS-CoV-2 will continue to evolve and efforts to reduce the number of infected subjects, including global equitable access to COVID-19 vaccines, are mandatory. Thus, until the end of pandemics, the SARS-CoV-2 genomic surveillance will be an essential tool to better understand the drivers of the viral evolutionary process."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-2888-1060"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Flaviv\u00edrus, Instituto Oswaldo Cruz, Fiocruz, Rio de Janeiro, Rio de Janeiro, Brazil."
+          }
+        ],
+        "LastName": "Naveca",
+        "ForeName": "Felipe Gomes",
+        "Initials": "FG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Nascimento",
+        "ForeName": "Valdinete",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Souza",
+        "ForeName": "Victor",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Corado",
+        "ForeName": "Andr\u00e9 de Lima",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Nascimento",
+        "ForeName": "Fernanda",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o Centro de Controle de Oncologia do Estado do Amazonas, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Silva",
+        "ForeName": "George",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Mej\u00eda",
+        "ForeName": "Matilde Contreras",
+        "Initials": "MC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Brand\u00e3o",
+        "ForeName": "Maria J\u00falia",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Costa",
+        "ForeName": "\u00c1gatha",
+        "Initials": "\u00c1"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Duarte",
+        "ForeName": "D\u00e9bora",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Pessoa",
+        "ForeName": "Karina",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Diversidade Microbiana da Amaz\u00f4nia com Import\u00e2ncia para a Sa\u00fade, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Jesus",
+        "ForeName": "Michele",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Ecologia de Doen\u00e7as Transmiss\u00edveis na Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o de Vigil\u00e2ncia em Sa\u00fade do Amazonas - Dra. Rosemary Costa Pinto, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Gon\u00e7alves",
+        "ForeName": "Luciana",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o de Vigil\u00e2ncia em Sa\u00fade do Amazonas - Dra. Rosemary Costa Pinto, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Fernandes",
+        "ForeName": "Cristiano",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio Central de Sa\u00fade P\u00fablica do Amazonas, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Mattos",
+        "ForeName": "Tirza",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidade do Estado do Amazonas, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Abdalla",
+        "ForeName": "Ligia",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hospital Adventista de Manaus, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Santos",
+        "ForeName": "Jo\u00e3o Hugo",
+        "Initials": "JH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidade do Estado do Amazonas, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Martins",
+        "ForeName": "Alex",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidade do Estado do Amazonas, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Chui",
+        "ForeName": "Fabiola Mendon\u00e7a",
+        "Initials": "FM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o de Medicina Tropical Doutor Heitor Vieira Dourado, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Val",
+        "ForeName": "Fernando Fonseca",
+        "Initials": "FF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidade do Estado do Amazonas, Manaus, Amazonas, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o de Medicina Tropical Doutor Heitor Vieira Dourado, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "de Melo",
+        "ForeName": "Gisely Cardoso",
+        "Initials": "GC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o de Medicina Tropical Doutor Heitor Vieira Dourado, Manaus, Amazonas, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Nacional de Infectologia Evandro Chagas, Fiocruz, Rio de Janeiro, Rio de Janeiro, Brazil."
+          }
+        ],
+        "LastName": "Xavier",
+        "ForeName": "Mariana Sim\u00e3o",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o de Vigil\u00e2ncia em Sa\u00fade do Amazonas - Dra. Rosemary Costa Pinto, Manaus, Amazonas, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o de Medicina Tropical Doutor Heitor Vieira Dourado, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Sampaio",
+        "ForeName": "Vanderson de Souza",
+        "Initials": "VS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universidade do Estado do Amazonas, Manaus, Amazonas, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o de Medicina Tropical Doutor Heitor Vieira Dourado, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Mour\u00e3o",
+        "ForeName": "Maria Paula",
+        "Initials": "MP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Funda\u00e7\u00e3o de Medicina Tropical Doutor Heitor Vieira Dourado, Manaus, Amazonas, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Diagn\u00f3stico e Controle e Doen\u00e7as Infecciosas da Amaz\u00f4nia, Instituto Le\u00f4nidas e Maria Deane, Fiocruz, Manaus, Amazonas, Brazil."
+          }
+        ],
+        "LastName": "Lacerda",
+        "ForeName": "Marcus Vin\u00edcius",
+        "Initials": "MV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Secretaria de Sa\u00fade de Aparecida de Goi\u00e2nia, Goi\u00e1s, Brazil."
+          }
+        ],
+        "LastName": "Batista",
+        "ForeName": "\u00c9rika Lopes Rocha",
+        "Initials": "\u00c9LR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Secretaria de Sa\u00fade de Aparecida de Goi\u00e2nia, Goi\u00e1s, Brazil."
+          }
+        ],
+        "LastName": "Magalh\u00e3es",
+        "ForeName": "Alessandro Leonardo \u00c1lvares",
+        "Initials": "AL\u00c1"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Virologia e Cultivo Celular, Instituto de Patologia Tropical e Sa\u00fade P\u00fablica, Universidade Federal de Goi\u00e1s, Goi\u00e2nia, Goi\u00e1s, Brazil."
+          }
+        ],
+        "LastName": "D\u00e1billa",
+        "ForeName": "Nath\u00e2nia",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "HLAGYN-Laborat\u00f3rio de Imunologia de Transplantes de Goi\u00e1s, Aparecida de Goi\u00e2nia, Goi\u00e1s, Brazil."
+          }
+        ],
+        "LastName": "Pereira",
+        "ForeName": "Lucas Carlos Gomes",
+        "Initials": "LCG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "HLAGYN-Laborat\u00f3rio de Imunologia de Transplantes de Goi\u00e1s, Aparecida de Goi\u00e2nia, Goi\u00e1s, Brazil."
+          }
+        ],
+        "LastName": "Vinhal",
+        "ForeName": "Fernando",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio Analitico de Compet\u00eancias Moleculares e Epidemiol\u00f3gicas, Funda\u00e7\u00e3o Oswaldo Cruz Cear\u00e1, Fiocruz, Eus\u00e9bio, Cear\u00e1, Brazil."
+          }
+        ],
+        "LastName": "Miyajima",
+        "ForeName": "Fabio",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio Analitico de Compet\u00eancias Moleculares e Epidemiol\u00f3gicas, Funda\u00e7\u00e3o Oswaldo Cruz Cear\u00e1, Fiocruz, Eus\u00e9bio, Cear\u00e1, Brazil."
+          }
+        ],
+        "LastName": "Dias",
+        "ForeName": "Fernando Braga Stehling",
+        "Initials": "FBS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Unidade de Apoio Diagn\u00f3stico \u00e0 COVID-19, Funda\u00e7\u00e3o Oswaldo Cruz Cear\u00e1, Fiocruz, Eus\u00e9bio, Cear\u00e1, Brazil."
+          }
+        ],
+        "LastName": "Dos Santos",
+        "ForeName": "Eduardo Ruback",
+        "Initials": "ER"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1111-0825"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Virologia, Instituto Aggeu Magalh\u00e3es, Fiocruz, Recife, Pernambuco, Brazil."
+          }
+        ],
+        "LastName": "Co\u00ealho",
+        "ForeName": "Danilo",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6958-3115"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Virologia, Instituto Aggeu Magalh\u00e3es, Fiocruz, Recife, Pernambuco, Brazil."
+          }
+        ],
+        "LastName": "Ferraz",
+        "ForeName": "Matheus",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3983-8025"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Virologia, Instituto Aggeu Magalh\u00e3es, Fiocruz, Recife, Pernambuco, Brazil."
+          }
+        ],
+        "LastName": "Lins",
+        "ForeName": "Roberto",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Entomologia e N\u00facleo de Bioinform\u00e1tica, Instituto Aggeu Magalh\u00e3es, Fiocruz, Recife, Pernambuco, Brazil."
+          }
+        ],
+        "LastName": "Wallau",
+        "ForeName": "Gabriel Luz",
+        "Initials": "GL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Biologia, Centro de Ci\u00eancias Exatas, Naturais e da Sa\u00fade, Universidade Federal do Esp\u00edrito Santo, Alegre, Esp\u00edrito Santo, Brazil."
+          }
+        ],
+        "LastName": "Delatorre",
+        "ForeName": "Edson",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Gon\u00e7alo Moniz, Fiocruz, Salvador, Bahia, Brazil."
+          }
+        ],
+        "LastName": "Gr\u00e4f",
+        "ForeName": "Tiago",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de V\u00edrus Respirat\u00f3rios e do Sarampo (LVRS), Instituto Oswaldo Cruz, Fiocruz, Rio de Janeiro, Rio de Janeiro, Brazil."
+          }
+        ],
+        "LastName": "Siqueira",
+        "ForeName": "Marilda Mendon\u00e7a",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2884-3662"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de V\u00edrus Respirat\u00f3rios e do Sarampo (LVRS), Instituto Oswaldo Cruz, Fiocruz, Rio de Janeiro, Rio de Janeiro, Brazil."
+          }
+        ],
+        "LastName": "Resende",
+        "ForeName": "Paola Cristina",
+        "Initials": "PC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2724-2793"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de AIDS e Imunologia Molecular, Instituto Oswaldo Cruz, Fiocruz, Rio de Janeiro, Rio de Janeiro, Brazil."
+          }
+        ],
+        "LastName": "Bello",
+        "ForeName": "Gonzalo",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "Fiocruz COVID-19 Genomic Surveillance Network"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "LNCC",
+        "Country": ""
+      },
+      {
+        "GrantID": "E-26/202.896/2018",
+        "Agency": "Funda\u00e7\u00e3o Carlos Chagas Filho de Amparo \u00e0 Pesquisa do Estado do Rio de Janeiro (FAPERJ)",
+        "Country": ""
+      },
+      {
+        "GrantID": "VPPCB-007-FIO-18-2-30",
+        "Agency": "Funda\u00e7\u00e3o Oswaldo Cruz (FIOCRUZ)",
+        "Country": ""
+      },
+      {
+        "GrantID": "PCTI-EmergeSaude",
+        "Agency": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado do Amazonas (FAPEAM)",
+        "Country": ""
+      },
+      {
+        "GrantID": "Rede Gen\u00f4",
+        "Agency": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado do Amazonas (FAPEAM)",
+        "Country": ""
+      },
+      {
+        "GrantID": "157/2021",
+        "Agency": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa e Inova\u00e7\u00e3o do Esp\u00edrito Santo (FAPES)",
+        "Country": ""
+      },
+      {
+        "GrantID": "403276/2020-9",
+        "Agency": "MCTI | Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico (CNPq)",
+        "Country": ""
+      },
+      {
+        "Agency": "WHO | Pan American Health Organization (PAHO)",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Microbiol Spectr",
+    "NlmUniqueID": "101634614",
+    "ISSNLinking": "2165-0497"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "EC 3.4.21.75",
+      "NameOfSubstance": "Furin"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Amino Acid Motifs"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Brazil"
+    },
+    {
+      "QualifierName": [
+        "enzymology",
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "administration & dosage"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Furin"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

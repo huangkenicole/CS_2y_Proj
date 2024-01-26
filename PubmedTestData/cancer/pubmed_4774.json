@@ -1,0 +1,154 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25949998",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "12",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "04",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "467514",
+      "10.1155/2015/467514"
+    ],
+    "Journal": {
+      "ISSN": "2314-6141",
+      "JournalIssue": {
+        "Volume": "2015",
+        "PubDate": {
+          "Year": "2015"
+        }
+      },
+      "Title": "BioMed research international",
+      "ISOAbbreviation": "Biomed Res Int"
+    },
+    "ArticleTitle": "A method for generating new datasets based on copy number for cancer analysis.",
+    "Pagination": {
+      "StartPage": "467514",
+      "MedlinePgn": "467514"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "New data sources for the analysis of cancer data are rapidly supplementing the large number of gene-expression markers used for current methods of analysis. Significant among these new sources are copy number variation (CNV) datasets, which typically enumerate several hundred thousand CNVs distributed throughout the genome. Several useful algorithms allow systems-level analyses of such datasets. However, these rich data sources have not yet been analyzed as deeply as gene-expression data. To address this issue, the extensive toolsets used for analyzing expression data in cancerous and noncancerous tissue (e.g., gene set enrichment analysis and phenotype prediction) could be redirected to extract a great deal of predictive information from CNV data, in particular those derived from cancers. Here we present a software package capable of preprocessing standard Agilent copy number datasets into a form to which essentially all expression analysis tools can be applied. We illustrate the use of this toolset in predicting the survival time of patients with ovarian cancer or glioblastoma multiforme and also provide an analysis of gene- and pathway-level deletions in these two types of cancer."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Liberal Arts, Sangmyung University, Cheonan, Chungnam 330-720, Republic of Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Shinuk",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, Boston University, Boston, MA 02215, USA."
+          }
+        ],
+        "LastName": "Kon",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Sport Science, Sungkyunkwan University, Suwon 440-746, Republic of Korea."
+          }
+        ],
+        "LastName": "Kang",
+        "ForeName": "Hyunsik",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Biomed Res Int",
+    "NlmUniqueID": "101600173"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "DNA Copy Number Variations"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Datasets as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Human"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Glioblastoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Ovarian Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ]
+}

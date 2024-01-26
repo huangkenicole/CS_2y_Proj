@@ -1,0 +1,176 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "anomaly detection",
+      "human activity recognition",
+      "inertial sensors",
+      "machine learning",
+      "open set classification",
+      "out of distribution",
+      "physiotherapy",
+      "rehabilitation",
+      "smart watch"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33804317",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1669",
+      "10.3390/s21051669"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "01"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Out-of-Distribution Detection of Human Activity Recognition with Smartwatch Inertial Sensors.",
+    "Abstract": {
+      "AbstractText": [
+        "Out-of-distribution (OOD) in the context of Human Activity Recognition (HAR) refers to data from activity classes that are not represented in the training data of a Machine Learning (ML) algorithm. OOD data are a challenge to classify accurately for most ML algorithms, especially deep learning models that are prone to overconfident predictions based on in-distribution (IIN) classes. To simulate the OOD problem in physiotherapy, our team collected a new dataset (SPARS9x) consisting of inertial data captured by smartwatches worn by 20 healthy subjects as they performed supervised physiotherapy exercises (IIN), followed by a minimum 3 h of data captured for each subject as they engaged in unrelated and unstructured activities (OOD). In this paper, we experiment with three traditional algorithms for OOD-detection using engineered statistical features, deep learning-generated features, and several popular deep learning approaches on SPARS9x and two other publicly-available human activity datasets (MHEALTH and SPARS). We demonstrate that, while deep learning algorithms perform better than simple traditional algorithms such as KNN with engineered features for in-distribution classification, traditional algorithms outperform deep learning approaches for OOD detection for these HAR time series datasets."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9768-8037"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Orthopaedic Biomechanics Lab, Holland Bone and Joint Program, Sunnybrook Research Institute, Toronto, ON M4N 3M5, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, Toronto, ON M5S 1A1, Canada."
+          }
+        ],
+        "LastName": "Boyer",
+        "ForeName": "Philip",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Orthopaedic Surgery, Department of Surgery, University of Toronto, Toronto, ON M5S 1A1, Canada."
+          }
+        ],
+        "LastName": "Burns",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Orthopaedic Biomechanics Lab, Holland Bone and Joint Program, Sunnybrook Research Institute, Toronto, ON M4N 3M5, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Engineering, University of Toronto, Toronto, ON M5S 1A1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Orthopaedic Surgery, Department of Surgery, University of Toronto, Toronto, ON M5S 1A1, Canada."
+          }
+        ],
+        "LastName": "Whyne",
+        "ForeName": "Cari",
+        "Initials": "C"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "RICH2018",
+        "Agency": "Workplace Safety and Insurance Board",
+        "Country": ""
+      },
+      {
+        "GrantID": "CHRP-538866",
+        "Agency": "Natural Sciences and Engineering Research Council of Canada",
+        "Country": ""
+      },
+      {
+        "GrantID": "CPG-163963",
+        "Acronym": "CAPMC",
+        "Agency": " CIHR",
+        "Country": "Canada"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Human Activities"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "David Burns is a cofounder and David Burns and Cari Whyne hold equity in Halterix Corporation, a digital physiotherapy company."
+}

@@ -1,0 +1,112 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34892808",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC46164.2021.9630663"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2021",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Classification of Single-Axis Spinal Motion Using a Wearable System of Stretch Sensors for At-home Physical Therapy.",
+    "Pagination": {
+      "StartPage": "7404",
+      "EndPage": "7407",
+      "MedlinePgn": "7404-7407"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Physical therapy (PT) has demonstrated therapeutic effectiveness for treating low back pain, a prevalent health condition. However, it is challenging to achieve such effectiveness through at-home PT without supervision of a therapist. Towards enabling realtime biofeedback for ensuring correct execution of PT exercises at home, we are building a wearable system that employs light-weight stretch sensors for estimating the spinal posture of a patient performing PT exercises. A basic task is to detect single-axis spinal motions from the sensor measurements. This work presents the design and evaluation of our approach for this task. Three subjects of different body shapes were recruited to wear the system and perform sequences of arbitrary single-axis spinal exercises. The collected data were used to train and test an SVM-based classification algorithm. Experimental results demonstrate that it is feasible to rely on only a small number of stretch sensors to estimate the spinal motion. The results also suggest the existence of strong inter-person variability and thus a practical system should include calibration for ensuring high accuracy."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chen",
+        "ForeName": "Jiuxu",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Caviedes",
+        "ForeName": "Jorge",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Baoxin",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Motion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    }
+  ]
+}

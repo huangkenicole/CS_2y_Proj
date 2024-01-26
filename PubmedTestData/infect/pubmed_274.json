@@ -1,0 +1,160 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "22253585",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "06",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2012",
+        "Month": "01",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1002345",
+      "10.1371/journal.pcbi.1002345"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "8",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2012",
+          "Month": "Jan"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Network model of immune responses reveals key effectors to single and co-infection dynamics by a respiratory bacterium and a gastrointestinal helminth.",
+    "Pagination": {
+      "StartPage": "e1002345",
+      "MedlinePgn": "e1002345"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Co-infections alter the host immune response but how the systemic and local processes at the site of infection interact is still unclear. The majority of studies on co-infections concentrate on one of the infecting species, an immune function or group of cells and often focus on the initial phase of the infection. Here, we used a combination of experiments and mathematical modelling to investigate the network of immune responses against single and co-infections with the respiratory bacterium Bordetella bronchiseptica and the gastrointestinal helminth Trichostrongylus retortaeformis. Our goal was to identify representative mediators and functions that could capture the essence of the host immune response as a whole, and to assess how their relative contribution dynamically changed over time and between single and co-infected individuals. Network-based discrete dynamic models of single infections were built using current knowledge of bacterial and helminth immunology; the two single infection models were combined into a co-infection model that was then verified by our empirical findings. Simulations showed that a T helper cell mediated antibody and neutrophil response led to phagocytosis and clearance of B. bronchiseptica from the lungs. This was consistent in single and co-infection with no significant delay induced by the helminth. In contrast, T. retortaeformis intensity decreased faster when co-infected with the bacterium. Simulations suggested that the robust recruitment of neutrophils in the co-infection, added to the activation of IgG and eosinophil driven reduction of larvae, which also played an important role in single infection, contributed to this fast clearance. Perturbation analysis of the models, through the knockout of individual nodes (immune cells), identified the cells critical to parasite persistence and clearance both in single and co-infections. Our integrated approach captured the within-host immuno-dynamics of bacteria-helminth infection and identified key components that can be crucial for explaining individual variability between single and co-infections in natural populations."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Infectious Disease Dynamics, The Pennsylvania State University, University Park, Pennsylvania, United States of America."
+          }
+        ],
+        "LastName": "Thakar",
+        "ForeName": "Juilee",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pathak",
+        "ForeName": "Ashutosh K",
+        "Initials": "AK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Murphy",
+        "ForeName": "Lisa",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Albert",
+        "ForeName": "R\u00e9ka",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Cattadori",
+        "ForeName": "Isabella M",
+        "Initials": "IM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "microbiology"
+      ],
+      "DescriptorName": "Bordetella Infections"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Bordetella bronchiseptica"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "parasitology"
+      ],
+      "DescriptorName": "Coinfection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Helminths"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "parasitology"
+      ],
+      "DescriptorName": "Respiratory System"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Trichostrongylus"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

@@ -1,0 +1,250 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      " Sample entropy ",
+      " Trace segmentation ",
+      " dengue ",
+      " diagnostic aids ",
+      " fever ",
+      " time series classification ",
+      " tuberculosis "
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31731349",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3934/mbe.2020013"
+    ],
+    "Journal": {
+      "ISSN": "1551-0018",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Sep",
+          "Day": "30"
+        }
+      },
+      "Title": "Mathematical biosciences and engineering : MBE",
+      "ISOAbbreviation": "Math Biosci Eng"
+    },
+    "ArticleTitle": "Classification of fever patterns using a single extracted entropy feature: A feasibility study based on Sample Entropy.",
+    "Pagination": {
+      "StartPage": "235",
+      "EndPage": "249",
+      "MedlinePgn": "235-249"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Fever is a common symptom of many diseases. Fever temporal patterns can be different depending on the specific pathology. Differentiation of diseases based on multiple mathematical features and visual observations has been recently studied in the scientific literature. However, the classification of diseases using a single mathematical feature has not been tried yet. The aim of the present study is to assess the feasibility of classifying diseases based on fever patterns using a single mathematical feature, specifically an entropy measure, Sample Entropy. This was an observational study. Analysis was carried out using 103 patients, 24 hour continuous tympanic temperature data. Sample Entropy feature was extracted from temperature data of patients. Grouping of diseases (infectious, tuberculosis, non-tuberculosis, and dengue fever) was made based on physicians diagnosis and laboratory findings. The quantitative results confirm the feasibility of the approach proposed, with an overall classification accuracy close to 70%, and the capability of finding significant differences for all the classes studied."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Technological Institute of Informatics(ITI), Universitat Polit\u00e8cnica de Val\u00e8ncia, Campus Alcoi, Plaza Ferr\u00e1ndiz y Carbonell, 2, 03801, Alcoi, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Innovatec Sensorizaci\u00f3n y Comunicaci\u00f3n S. L., Avda. Elx, 3, 03801, Alcoi, Spain."
+          }
+        ],
+        "LastName": "Cuesta-Frau",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistics, Universitat Polit\u00e8cnica de Val\u00e8ncia, Campus Alcoi, Plaza Ferr\u00e1ndiz y Carbonell, 2, 03801, Alcoi, Spain."
+          }
+        ],
+        "LastName": "Mir\u00f3-Mart\u00ednez",
+        "ForeName": "Pau",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Technological Institute of Informatics(ITI), Universitat Polit\u00e8cnica de Val\u00e8ncia, Campus Alcoi, Plaza Ferr\u00e1ndiz y Carbonell, 2, 03801, Alcoi, Spain."
+          }
+        ],
+        "LastName": "Oltra-Crespo",
+        "ForeName": "Sandra",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Technological Institute of Informatics(ITI), Universitat Polit\u00e8cnica de Val\u00e8ncia, Campus Alcoi, Plaza Ferr\u00e1ndiz y Carbonell, 2, 03801, Alcoi, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Innovatec Sensorizaci\u00f3n y Comunicaci\u00f3n S. L., Avda. Elx, 3, 03801, Alcoi, Spain."
+          }
+        ],
+        "LastName": "Molina-Pic\u00f3",
+        "ForeName": "Antonio",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmacology, MVJ Medical College and Research Hospital, Dandupalya, Hoskote, Karnataka, India."
+          }
+        ],
+        "LastName": "Dakappa",
+        "ForeName": "Pradeepa H",
+        "Initials": "PH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of General Medicine, Kasturba Medical College, Mangalore, Manipal Academy of Higher Education, Manipal, Karnataka, India."
+          }
+        ],
+        "LastName": "Mahabala",
+        "ForeName": "Chakrapani",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, M\u00f3stoles Teaching Hospital, M\u00f3stoles, 28935, Madrid, Spain."
+          }
+        ],
+        "LastName": "Vargas",
+        "ForeName": "Borja",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, M\u00f3stoles Teaching Hospital, M\u00f3stoles, 28935, Madrid, Spain."
+          }
+        ],
+        "LastName": "Gonz\u00e1lez",
+        "ForeName": "Paula",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci Eng",
+    "NlmUniqueID": "101197794",
+    "ISSNLinking": "1547-1063"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Body Temperature"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Dengue"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feasibility Studies"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pattern Recognition, Automated"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Thermometers"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Tuberculosis"
+    }
+  ]
+}

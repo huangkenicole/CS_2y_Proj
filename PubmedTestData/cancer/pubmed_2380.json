@@ -1,0 +1,191 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24253321",
+  "DateCompleted": {
+    "Year": "2014",
+    "Month": "07",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2013",
+        "Month": "11",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s00894-013-2042-2"
+    ],
+    "Journal": {
+      "ISSN": "0948-5023",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2013",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Journal of molecular modeling",
+      "ISOAbbreviation": "J Mol Model"
+    },
+    "ArticleTitle": "QM-MM simulations on p53-DNA complex: a study of hot spot and rescue mutants.",
+    "Pagination": {
+      "StartPage": "5545",
+      "EndPage": "5559",
+      "MedlinePgn": "5545-59"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "p53 is a transcription factor involved in the expression of a number of downstream genes in response to genotoxic stress. It is activated through post translation modifications in normal as well as cancerous cells. However, due to mutations occurring in p53 in cancer cells it is not able to perform its function of DNA binding which leads to cell proliferation. It is found to be mutated in 50% of the cancers. These mutations occur at a high frequency in the DNA binding region of the p53. Among the known seven hot spot cancer mutations G245S, R249S, and R273C have been studied here using quantum mechanics and molecular mechanics (QM-MM) simulations. These mutations along with their experimentally proven rescue mutations have also been included in the present work. A comparative study of these cancer mutations along with wild type and their rescue mutations has been performed. A computational measure based on the free energy changes occurring in the binding of the p53 to the DNA has been presented. A correlation between the DNA binding property and important interaction between p53 and DNA has been observed for all the mutants. The keys residues which contribute to the binding of p53 to DNA by forming crucial hydrogen bonds have also been discussed in detail. A 30 ns simulation study was analyzed to observe the local structural changes and DNA binding property of p53 in case of wild type, cancer and rescue mutants."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Group, Centre for Development of Advanced Computing (C-DAC), Pune University Campus, Pune, India, 411 007."
+          }
+        ],
+        "LastName": "Koulgi",
+        "ForeName": "Shruti",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Achalere",
+        "ForeName": "Archana",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sharma",
+        "ForeName": "Neeru",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sonavane",
+        "ForeName": "Uddhavesh",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Joshi",
+        "ForeName": "Rajendra",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "J Mol Model",
+    "NlmUniqueID": "9806569",
+    "ISSNLinking": "0948-5023"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "DNA-Binding Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "TP53 protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Tumor Suppressor Protein p53"
+    },
+    {
+      "RegistryNumber": "9007-49-2",
+      "NameOfSubstance": "DNA"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Binding Sites"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Proliferation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "DNA"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "DNA-Binding Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "etiology",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Binding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Structure, Tertiary"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quantum Theory"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Tumor Suppressor Protein p53"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34907160",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1156",
+      "10.1038/s41419-021-04397-x"
+    ],
+    "Journal": {
+      "ISSN": "2041-4889",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "14"
+        }
+      },
+      "Title": "Cell death & disease",
+      "ISOAbbreviation": "Cell Death Dis"
+    },
+    "ArticleTitle": "XDeathDB: a visualization platform for cell death molecular interactions.",
+    "Pagination": {
+      "StartPage": "1156",
+      "MedlinePgn": "1156"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Lots of cell death initiator and effector molecules, signalling pathways and subcellular sites have been identified as key mediators in both cell death processes in cancer. The XDeathDB visualization platform provides a comprehensive cell death and their crosstalk resource for deciphering the signaling network organization of interactions among different cell death modes associated with 1461 cancer types and COVID-19, with an aim to understand the molecular mechanisms of physiological cell death in disease and facilitate systems-oriented novel drug discovery in inducing cell deaths properly. Apoptosis, autosis, efferocytosis, ferroptosis, immunogenic cell death, intrinsic apoptosis, lysosomal cell death, mitotic cell death, mitochondrial permeability transition, necroptosis, parthanatos, and pyroptosis related to 12 cell deaths and their crosstalk can be observed systematically by the platform. Big data for cell death gene-disease associations, gene-cell death pathway associations, pathway-cell death mode associations, and cell death-cell death associations is collected by literature review articles and public database from iRefIndex, STRING, BioGRID, Reactom, Pathway's commons, DisGeNET, DrugBank, and Therapeutic Target Database (TTD). An interactive webtool, XDeathDB, is built by web applications with R-Shiny, JavaScript (JS) and Shiny Server Iso. With this platform, users can search specific interactions from vast interdependent networks that occur in the realm of cell death. A multilayer spectral graph clustering method that performs convex layer aggregation to identify crosstalk function among cell death modes for a specific cancer. 147 hallmark genes of cell death could be observed in detail in these networks. These potential druggable targets are displayed systematically and tailoring networks to visualize specified relations is available to fulfil user-specific needs. Users can access XDeathDB for free at https://pcm2019.shinyapps.io/XDeathDB/ ."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Information Technology, College of Medicine, Ohio State University, 1585 Neil Ave, Columbus, OH, 43210, USA."
+          }
+        ],
+        "LastName": "Gadepalli",
+        "ForeName": "Venkat Sundar",
+        "Initials": "VS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "1Department of Biomedical Informatics, The Ohio State University, Columbus, OH, 43210, USA."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Hangil",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Grainger College of Engineering, The University of Illinois-Urbana-Champaign, Urbana and Champaign, Champaign, IL, 61801, USA."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Yueze",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "1Department of Biomedical Informatics, The Ohio State University, Columbus, OH, 43210, USA."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Tao",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6336-5416"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "1Department of Biomedical Informatics, The Ohio State University, Columbus, OH, 43210, USA. lijun.cheng@osumc.edu."
+          }
+        ],
+        "LastName": "Cheng",
+        "ForeName": "Lijun",
+        "Initials": "L"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01GM135234",
+        "Agency": "U.S. Department of Health &amp; Human Services | NIH | National Institute of General Medical Sciences (NIGMS)",
+        "Country": ""
+      },
+      {
+        "GrantID": "R01ES032026",
+        "Agency": "U.S. Department of Health &amp; Human Services | NIH | National Institute of General Medical Sciences (NIGMS)",
+        "Country": ""
+      },
+      {
+        "GrantID": "U01CA248240-01A1",
+        "Agency": "U.S. Department of Health &amp; Human Services | NIH | Center for Information Technology (Center for Information Technology, National Institutes of Health)",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Dataset",
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Cell Death Dis",
+    "NlmUniqueID": "101524092"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "physiopathology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Cell Death"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Necroptosis"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "physiopathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phagocytosis"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Regulated Cell Death"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "physiology"
+      ],
+      "DescriptorName": "Signal Transduction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflict of interest."
+}

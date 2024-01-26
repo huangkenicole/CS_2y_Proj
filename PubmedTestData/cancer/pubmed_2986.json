@@ -1,0 +1,199 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "3D-genome",
+      "Hi-C",
+      "PCR",
+      "WGS",
+      "bioinformatics",
+      "cancers",
+      "translocations detection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35885953",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1170",
+      "10.3390/genes13071170"
+    ],
+    "Journal": {
+      "ISSN": "2073-4425",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jun",
+          "Day": "29"
+        }
+      },
+      "Title": "Genes",
+      "ISOAbbreviation": "Genes (Basel)"
+    },
+    "ArticleTitle": "Chromosomal Translocations Detection in Cancer Cells Using Chromosomal Conformation Capture Data.",
+    "Abstract": {
+      "AbstractText": [
+        "Complex chromosomal rearrangements such as translocations play a critical role in oncogenesis. Translocation detection is vital to decipher their biological role in activating cancer-associated mechanisms. High-throughput chromosomal conformations capture (Hi-C) data have shown promising progress in unveiling the genome variations in a disease condition. Until now, multiple structural data (Hi-C)-based methods are available that can detect translocations in cancer genomes. However, the consistency and specificity of Hi-C-based translocation results still need to be validated with conventional methods. This study used Hi-C data of cancerous cell lines, namely lung cancer (A549), Chronic Myelogenous Leukemia (K562), and Acute Monocytic Leukemia (THP-1), to detect the translocations. The results were cross-validated through whole-genome sequencing (WGS) and paired-read analysis. Moreover, PCR amplification validated the presence of translocated reads in different chromosomes. By integrating different data types, we showed that the results of Hi-C data are as reliable as WGS and can be utilized as an assistive method for detecting translocations in the diseased genome. Our findings support the utility of Hi-C technology to detect the translocations and study their effects on the three-dimensional architecture of the genome in cancer condition."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-8937-074X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan 430070, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Agricultural Bioinformatics Key Laboratory of Hubei Province, Hubei Engineering Technology Research Center of Agricultural Big Data, 3D Genomics Research Center, College of Informatics, Huazhong Agricultural University, Wuhan 430070, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Health Science, College of Public Health, University of Georgia, Athens, GA 30605, USA."
+          }
+        ],
+        "LastName": "Adeel",
+        "ForeName": "Muhammad Muzammal",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan 430070, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "College of Veterinary Medicine, Huazhong Agricultural University, Wuhan 430070, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bio-Medicine and Health, Huazhong Agricultural University, Wuhan 430070, China."
+          }
+        ],
+        "LastName": "Rehman",
+        "ForeName": "Khaista",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan 430070, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departments of Population Health & Environmental Medicine, New York University 180 Madison Ave., New York, NY 10016, USA."
+          }
+        ],
+        "LastName": "Arega",
+        "ForeName": "Yibeltal",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1601-6640"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan 430070, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Agricultural Bioinformatics Key Laboratory of Hubei Province, Hubei Engineering Technology Research Center of Agricultural Big Data, 3D Genomics Research Center, College of Informatics, Huazhong Agricultural University, Wuhan 430070, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Guoliang",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Genes (Basel)",
+    "NlmUniqueID": "101551097",
+    "ISSNLinking": "2073-4425"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chromosome Aberrations"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chromosomes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Conformation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Translocation, Genetic"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any."
+}

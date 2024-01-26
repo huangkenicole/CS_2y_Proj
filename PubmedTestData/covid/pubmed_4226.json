@@ -1,0 +1,220 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "convolutional neural network",
+      "deep learning",
+      "generative adversarial network",
+      "immunogenicity",
+      "neoantigen"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34009266",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab160",
+      "10.1093/bib/bbab160"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "DeepImmuno: deep learning-empowered prediction and generation of immunogenic peptides for T-cell immunity.",
+    "Abstract": {
+      "AbstractText": [
+        "Cytolytic T-cells play an essential role in the adaptive immune system by seeking out, binding and killing cells that present foreign antigens on their surface. An improved understanding of T-cell immunity will greatly aid in the development of new cancer immunotherapies and vaccines for life-threatening pathogens. Central to the design of such targeted therapies are computational methods to predict non-native peptides to elicit a T-cell response, however, we currently lack accurate immunogenicity inference methods. Another challenge is the ability to accurately simulate immunogenic peptides for specific human leukocyte antigen alleles, for both synthetic biological applications, and to augment real training datasets. Here, we propose a beta-binomial distribution approach to derive peptide immunogenic potential from sequence alone. We conducted systematic benchmarking of five traditional machine learning (ElasticNet, K-nearest neighbors, support vector machine, Random Forest and AdaBoost) and three deep learning models (convolutional neural network (CNN), Residual Net and graph neural network) using three independent prior validated immunogenic peptide collections (dengue virus, cancer neoantigen and SARS-CoV-2). We chose the CNN as the best prediction model, based on its adaptivity for small and large datasets and performance relative to existing methods. In addition to outperforming two highly used immunogenicity prediction algorithms, DeepImmuno-CNN correctly predicts which residues are most important for T-cell antigen recognition and predicts novel impacts of SARS-CoV-2 variants. Our independent generative adversarial network (GAN) approach, DeepImmuno-GAN, was further able to accurately simulate immunogenic peptides with physicochemical properties and immunogenicity predictions similar to that of real antigens. We provide DeepImmuno-CNN as source code and an easy-to-use web interface."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Cincinnati, 3333 Burnet Ave, MLC7024, Cincinnati, OH 45267, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Guangyuan",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Cincinnati, USA."
+          }
+        ],
+        "LastName": "Iyer",
+        "ForeName": "Balaji",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Informatics, Cincinnati Children's Hospital Medical Center, USA."
+          }
+        ],
+        "LastName": "Prasath",
+        "ForeName": "V B Surya",
+        "Initials": "VBS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cincinnati Children's Hospital Medical Center, USA."
+          }
+        ],
+        "LastName": "Ni",
+        "ForeName": "Yizhao",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cincinnati Children's Hospital Medical Center, USA."
+          }
+        ],
+        "LastName": "Salomonis",
+        "ForeName": "Nathan",
+        "Initials": "N"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 CA226802",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01CA226802",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "Agency": "Cincinnati Children's Hospital Research Foundation",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Peptides"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2020 Dec 24;:",
+      "PMID": "33398286"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "Peptides"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "T-Lymphocytes"
+    }
+  ]
+}

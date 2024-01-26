@@ -1,0 +1,184 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Adolescent",
+      "B.1.1.529 SARS-CoV-2 variant",
+      "Bayesian analysis",
+      "COVID-19",
+      "Child",
+      "Mathematical model",
+      "SARS-CoV-2",
+      "Susceptibility"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36419108",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "451",
+      "10.1186/s12916-022-02655-z"
+    ],
+    "Journal": {
+      "ISSN": "1741-7015",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov",
+          "Day": "23"
+        }
+      },
+      "Title": "BMC medicine",
+      "ISOAbbreviation": "BMC Med"
+    },
+    "ArticleTitle": "Identifying susceptibility of children and adolescents to the Omicron variant (B.1.1.529).",
+    "Pagination": {
+      "StartPage": "451",
+      "MedlinePgn": "451"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Omicron variant (B.1.1.529) is estimated to be more transmissible than previous strains of SARS-CoV-2 especially among children, potentially resulting in croup which is a characteristic disease in children. Current coronavirus disease 2019 (COVID-19) cases among children might be higher because (i) school-aged children have higher contact rates and (ii) the COVID-19 vaccination strategy prioritizes the elderly in most countries. However, there have been no reports confirming the age-varying susceptibility to the Omicron variant to date.",
+        "We developed an age-structured compartmental model, combining age-specific contact matrix in South Korea and observed distribution of periods between each stage of infection in the national epidemiological investigation. A Bayesian inference method was used to estimate the age-specific force of infection and, accordingly, age-specific susceptibility, given epidemic data during the third (pre-Delta), fourth (Delta driven), and fifth (Omicron driven) waves in South Korea. As vaccine uptake increased, individuals who were vaccinated were excluded from the susceptible population in accordance with vaccine effectiveness against the Delta and Omicron variants, respectively.",
+        "A significant difference between the age-specific susceptibility to the Omicron and that to the pre-Omicron variants was found in the younger age group. The rise in susceptibility to the Omicron/pre-Delta variant was highest in the 10-15 years age group (5.28 times [95% CI, 4.94-5.60]), and the rise in susceptibility to the Omicron/Delta variant was highest in the 15-19 years age group (3.21 times [95% CI, 3.12-3.31]), whereas in those aged 50 years or more, the susceptibility to the Omicron/pre-Omicron remained stable at approximately twofold.",
+        "Even after adjusting for contact pattern, vaccination status, and waning of vaccine effectiveness, the Omicron variant of SARS-CoV-2 tends to propagate more easily among children than the pre-Omicron strains."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9345-6645"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, National Cancer Center, Goyang, South Korea. june.y.chun@ncc.re.kr."
+          }
+        ],
+        "LastName": "Chun",
+        "ForeName": "June Young",
+        "Initials": "JY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistics, Seoul National University, 56-1 Mountain, Sillim-dong, Gwanak-gu, Seoul, 08826, South Korea."
+          }
+        ],
+        "LastName": "Jeong",
+        "ForeName": "Hwichang",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistics, Seoul National University, 56-1 Mountain, Sillim-dong, Gwanak-gu, Seoul, 08826, South Korea. ydkim0903@gmail.com."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Yongdai",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med",
+    "NlmUniqueID": "101190723",
+    "ISSNLinking": "1741-7015"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

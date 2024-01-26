@@ -1,0 +1,532 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "app",
+      "data",
+      "diagnosis",
+      "heart rate variability",
+      "identification",
+      "infectious disease",
+      "observational",
+      "physiological",
+      "prediction",
+      "symptom",
+      "wearable",
+      "wearable device"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33529156",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e26107",
+      "10.2196/26107"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "22"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Use of Physiological Data From a Wearable Device to Identify SARS-CoV-2 Infection and Symptoms and Predict COVID-19 Diagnosis: Observational Study.",
+    "Pagination": {
+      "StartPage": "e26107",
+      "MedlinePgn": "e26107"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Changes in autonomic nervous system function, characterized by heart rate variability (HRV), have been associated with infection and observed prior to its clinical identification.",
+        "We performed an evaluation of HRV collected by a wearable device to identify and predict COVID-19 and its related symptoms.",
+        "Health care workers in the Mount Sinai Health System were prospectively followed in an ongoing observational study using the custom Warrior Watch Study app, which was downloaded to their smartphones. Participants wore an Apple Watch for the duration of the study, measuring HRV throughout the follow-up period. Surveys assessing infection and symptom-related questions were obtained daily.",
+        "Using a mixed-effect cosinor model, the mean amplitude of the circadian pattern of the standard deviation of the interbeat interval of normal sinus beats (SDNN), an HRV metric, differed between subjects with and without COVID-19 (P=.006). The mean amplitude of this circadian pattern differed between individuals during the 7 days before and the 7 days after a COVID-19 diagnosis compared to this metric during uninfected time periods (P=.01). Significant changes in the mean and amplitude of the circadian pattern of the SDNN was observed between the first day of reporting a COVID-19-related symptom compared to all other symptom-free days (P=.01).",
+        "Longitudinally collected HRV metrics from a commonly worn commercial wearable device (Apple Watch) can predict the diagnosis of COVID-19 and identify COVID-19-related symptoms. Prior to the diagnosis of COVID-19 by nasal swab polymerase chain reaction testing, significant changes in HRV were observed, demonstrating the predictive ability of this metric to identify COVID-19 infection."
+      ],
+      "CopyrightInformation": "\u00a9Robert P Hirten, Matteo Danieletto, Lewis Tomalin, Katie Hyewon Choi, Micol Zweig, Eddye Golden, Sparshdeep Kaur, Drew Helmus, Anthony Biello, Renata Pyzik, Alexander Charney, Riccardo Miotto, Benjamin S Glicksberg, Matthew Levin, Ismail Nabeel, Judith Aberg, David Reich, Dennis Charney, Erwin P Bottinger, Laurie Keefer, Mayte Suarez-Farinas, Girish N Nadkarni, Zahi A Fayad. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 22.02.2021."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7980-9368"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Dr Henry D Janowitz Division of Gastroenterology, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Hirten",
+        "ForeName": "Robert P",
+        "Initials": "RP"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5178-9182"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Danieletto",
+        "ForeName": "Matteo",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4545-7138"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biostatistics, Department of Population Health Science and Policy, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Tomalin",
+        "ForeName": "Lewis",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7465-4558"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biostatistics, Department of Population Health Science and Policy, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Choi",
+        "ForeName": "Katie Hyewon",
+        "Initials": "KH"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8190-7197"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Zweig",
+        "ForeName": "Micol",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9818-5693"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Golden",
+        "ForeName": "Eddye",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5386-8506"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Kaur",
+        "ForeName": "Sparshdeep",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6799-3674"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Dr Henry D Janowitz Division of Gastroenterology, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Helmus",
+        "ForeName": "Drew",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6683-5738"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Dr Henry D Janowitz Division of Gastroenterology, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Biello",
+        "ForeName": "Anthony",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1099-1672"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The BioMedical Engineering and Imaging Institute, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Pyzik",
+        "ForeName": "Renata",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8135-6858"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pamela Sklar Division of Psychiatric Genomics, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Charney",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7815-6000"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Miotto",
+        "ForeName": "Riccardo",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4515-8090"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Glicksberg",
+        "ForeName": "Benjamin S",
+        "Initials": "BS"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6013-2684"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anesthesiology, Perioperative and Pain Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Levin",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6909-1970"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Medicine and Public Health, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Nabeel",
+        "ForeName": "Ismail",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8162-0284"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Aberg",
+        "ForeName": "Judith",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0095-515X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anesthesiology, Perioperative and Pain Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Reich",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0610-3433"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Office of the Dean, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Charney",
+        "ForeName": "Dennis",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6868-6676"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Bottinger",
+        "ForeName": "Erwin P",
+        "Initials": "EP"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4779-8593"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Dr Henry D Janowitz Division of Gastroenterology, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Keefer",
+        "ForeName": "Laurie",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8712-3553"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biostatistics, Department of Population Health Science and Policy, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Suarez-Farinas",
+        "ForeName": "Mayte",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6319-4314"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health at Mount Sinai, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Nadkarni",
+        "ForeName": "Girish N",
+        "Initials": "GN"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3439-7347"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The BioMedical Engineering and Imaging Institute, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Diagnostic, Molecular and Interventional Radiology, Icahn School of Medicine at Mount Sinai, New York, NY, United States."
+          }
+        ],
+        "LastName": "Fayad",
+        "ForeName": "Zahi A",
+        "Initials": "ZA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Circadian Rhythm"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Health Personnel"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Heart Rate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: RPH discloses consulting fees from HealthMode, Inc, Janssen Pharmaceuticals, and Takeda Pharmaceuticals and research support from Intralytix Inc and a Crohn\u2019s and Colitis Foundation Career Development Award (grant number 607934). BSG has received consulting fees from Data2Discovery, Sema4, and University of California San Francisco. DC is a coinventor on patents filed by the Icahn School of Medicine at Mount Sinai (ISMMS) relating to the treatment for treatment-resistant depression, suicidal ideation, and other disorders. ISMMS has entered into a licensing agreement with Janssen Pharmaceuticals, Inc, and it has received and will receive payments from Janssen under the license agreement related to these patents for the treatment of treatment-resistant depression and suicidal ideation. Consistent with the ISMMS Faculty Handbook (the medical school policy), AC is entitled to a portion of the payments received by the ISMMS. Because SPRAVATO has received regulatory approval for treatment-resistant depression, through the ISMMS, AC will be entitled to additional payments beyond those already received under the license agreement. AC is a named coinventor on several patents filed by ISMMS for a cognitive training intervention to treat depression and related psychiatric disorders. The ISMMS has entered into a licensing agreement with Click Therapeutics, Inc, and has received and will receive payments related to the use of this cognitive training intervention for the treatment of psychiatric disorders. In accordance with the ISMMS Faculty Handbook, AC has received a portion of these payments and is entitled to a portion of any additional payments that the medical school may receive from this license with Click Therapeutics. AC is a named coinventor on a patent application filed by the ISMMS for the use of intranasally administered Neuropeptide Y for the treatment of mood and anxiety disorders. This intellectual property has not been licensed. AC is a named coinventor on a patent application in the United States and several issued patents outside the United States filed by the ISMMS related to the use of ketamine for the treatment of posttraumatic stress disorder. This intellectual property has not been licensed. EPB reports consultancy agreements with Deloitte and Roland Berger; ownership interest in Digital Medicine E. B\u00f6ttinger GmbH, EBCW GmbH, and Ontomics, Inc; receiving honoraria from Bayer, Bosch Health Campus, Sanofi, and Siemens; and serving as a scientific advisor or member of Bosch Health Campus and Seer Biosciences Inc. LK declares research funding from Abbvie and Pfizer, consulting for Abbvie and Pfizer, and equity ownership/stock options in MetaMe Health and Trellus Health. MSF declares research support from Novartis and Allergenis. GNN reports employment with, consultancy agreements with, and ownership interest in Pensieve Health and Renalytix AI; receiving consulting fees from AstraZeneca, BioVie, GLG Consulting, and Reata; and serving as a scientific advisor or member of Pensieve Health and Renalytix AI. ZAF discloses consulting fees from Alexion, GlaxoSmithKline, and Trained Therapeutix Discovery and research funding from Daiichi Sankyo, Amgen, Bristol Myers Squibb, and Siemens Healthineers. ZAF receives financial compensation as a board member and advisor to Trained Therapeutix Discovery and owns equity in Trained Therapeutix Discovery as a cofounder."
+}

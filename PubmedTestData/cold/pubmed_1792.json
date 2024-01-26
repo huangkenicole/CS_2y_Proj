@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Data interpretation",
+      "Meta-analysis",
+      "Outcome assessment",
+      "Randomized controlled trial",
+      "Respiratory tract infections",
+      "Statistics",
+      "Zinc lozenges"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28494765",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "03",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "01",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "05",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "82",
+      "10.1186/s12874-017-0356-y"
+    ],
+    "Journal": {
+      "ISSN": "1471-2288",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "May",
+          "Day": "12"
+        }
+      },
+      "Title": "BMC medical research methodology",
+      "ISOAbbreviation": "BMC Med Res Methodol"
+    },
+    "ArticleTitle": "Duration of the common cold and similar continuous outcomes should be analyzed on the relative scale: a case study of two zinc lozenge trials.",
+    "Pagination": {
+      "StartPage": "82",
+      "MedlinePgn": "82"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The relative scale has been used for decades in analysing binary data in epidemiology. In contrast, there has been a long tradition of carrying out meta-analyses of continuous outcomes on the absolute, original measurement, scale. The biological rationale for using the relative scale in the analysis of binary outcomes is that it adjusts for baseline variations; however, similar baseline variations can occur in continuous outcomes and relative effect scale may therefore be often useful also for continuous outcomes. The aim of this study was to determine whether the relative scale is more consistent with empirical data on treating the common cold than the absolute scale.",
+        "Individual patient data was available for 2 randomized trials on zinc lozenges for the treatment of the common cold. Mossad (Ann Intern Med 125:81-8, 1996) found 4.0\u00a0days and 43% reduction, and Petrus (Curr Ther Res 59:595-607, 1998) found 1.77\u00a0days and 25% reduction, in the duration of colds. In both trials, variance in the placebo group was significantly greater than in the zinc lozenge group. The effect estimates were applied to the common cold distributions of the placebo groups, and the resulting distributions were compared with the actual zinc lozenge group distributions.",
+        "When the absolute effect estimates, 4.0 and 1.77\u00a0days, were applied to the placebo group common cold distributions, negative and zero (i.e., impossible) cold durations were predicted, and the high level variance remained. In contrast, when the relative effect estimates, 43 and 25%, were applied, impossible common cold durations were not predicted in the placebo groups, and the cold distributions became similar to those of the zinc lozenge groups.",
+        "For some continuous outcomes, such as the duration of illness and the duration of hospital stay, the relative scale leads to a more informative statistical analysis and more effective communication of the study findings. The transformation of continuous data to the relative scale is simple with a spreadsheet program, after which the relative scale data can be analysed using standard meta-analysis software. The option for the analysis of relative effects of continuous outcomes directly from the original data should be implemented in standard meta-analysis programs."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4710-307X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Public Health, POB 20 University of Helsinki, Tukholmankatu 8 B, FI-00014, Helsinki, Finland. harri.hemila@helsinki.fi."
+          }
+        ],
+        "LastName": "Hemil\u00e4",
+        "ForeName": "Harri",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med Res Methodol",
+    "NlmUniqueID": "100968545",
+    "ISSNLinking": "1471-2288"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Gluconates"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Placebos"
+    },
+    {
+      "RegistryNumber": "J41CSQ7QDS",
+      "NameOfSubstance": "Zinc"
+    },
+    {
+      "RegistryNumber": "R4R8J0Q44B",
+      "NameOfSubstance": "gluconic acid"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "drug therapy"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Gluconates"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Placebos"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Severity of Illness Index"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Treatment Outcome"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Zinc"
+    }
+  ]
+}

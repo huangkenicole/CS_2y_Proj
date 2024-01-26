@@ -1,0 +1,219 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33687847",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TCBB.2021.3064630"
+    ],
+    "Journal": {
+      "ISSN": "1557-9964",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Season": "Jul-Aug"
+        }
+      },
+      "Title": "IEEE/ACM transactions on computational biology and bioinformatics",
+      "ISOAbbreviation": "IEEE/ACM Trans Comput Biol Bioinform"
+    },
+    "ArticleTitle": "CoronaPep: An Anti-Coronavirus Peptide Generation Tool.",
+    "Pagination": {
+      "StartPage": "1299",
+      "EndPage": "1304",
+      "MedlinePgn": "1299-1304"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The novel coronavirus (COVID-19) infections have adopted the shape of a global pandemic now, demanding an urgent vaccine design. The current work reports contriving an anti-coronavirus peptide scanner tool to discern anti-coronavirus targets in the embodiment of peptides. The proffered CoronaPep tool features the fast fingerprinting of the anti-coronavirus target serving supreme prominence in the current bioinformatics research. The anti-coronavirus target protein sequences reported from the current outbreak are scanned against the anti-coronavirus target data-sets via CORONAPEP which provides precision-based anti-coronavirus peptides. This tool is specifically for the coronavirus data, which can predict peptides from the whole genome, or a gene or protein's list. Besides it is relatively fast, accurate, userfriendly and can generate maximum output from the limited information. The availability of tools like CORONAPEP will immeasurably perquisite researchers in the discipline of oncology and structure-based drug design."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kaushik",
+        "ForeName": "Aman Chandra",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mehmood",
+        "ForeName": "Aamir",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Selvaraj",
+        "ForeName": "Gurudeeban",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dai",
+        "ForeName": "Xiaofeng",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pan",
+        "ForeName": "Yi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wei",
+        "ForeName": "Dong-Qing",
+        "Initials": "DQ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE/ACM Trans Comput Biol Bioinform",
+    "NlmUniqueID": "101196755",
+    "ISSNLinking": "1545-5963"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Peptides"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Databases, Protein"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Design"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Host Microbial Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "Peptides"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "Viral Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

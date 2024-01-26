@@ -1,0 +1,191 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "bioinformatics",
+      "next-generation sequencing",
+      "pathogen discovery",
+      "phylogenetic analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33416890",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/bib/bbaa386"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Bioinformatics resources for SARS-CoV-2 discovery and surveillance.",
+    "Pagination": {
+      "StartPage": "631",
+      "EndPage": "641",
+      "MedlinePgn": "631-641"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In early January 2020, the novel coronavirus (SARS-CoV-2) responsible for a pneumonia outbreak in Wuhan, China, was identified using next-generation sequencing (NGS) and readily available bioinformatics pipelines. In addition to virus discovery, these NGS technologies and bioinformatics resources are currently being employed for ongoing genomic surveillance of SARS-CoV-2 worldwide, tracking its spread, evolution and patterns of variation on a global scale. In this review, we summarize the bioinformatics resources used for the discovery and surveillance of SARS-CoV-2. We also discuss the advantages and disadvantages of these bioinformatics resources and highlight areas where additional technical developments are urgently needed. Solutions to these problems will be beneficial not only to the prevention and control of the current COVID-19 pandemic but also to infectious disease outbreaks of the future."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shandong First Medical University, China."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Tao",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shandong First Medical University, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Juan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shandong First Medical University, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Hong",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shandong First Medical University, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Cixiu",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Sydney, Australia."
+          }
+        ],
+        "LastName": "Holmes",
+        "ForeName": "Edward C",
+        "Initials": "EC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shandong First Medical University, China."
+          }
+        ],
+        "LastName": "Shi",
+        "ForeName": "Weifeng",
+        "Initials": "W"
+      }
+    ],
+    "PublicationTypeList": [
+      "Editorial",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

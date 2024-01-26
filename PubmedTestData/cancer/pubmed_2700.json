@@ -1,0 +1,123 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28269646",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "06",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC.2016.7592122"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2016",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "A potential function-based scalpel navigation method that avoids blood vessel groups during excision of cancerous tissue.",
+    "Pagination": {
+      "StartPage": "6106",
+      "EndPage": "6112",
+      "MedlinePgn": "6106-6112"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This study developed support software for liver surgeons; the software can apply potential functions to blood vessels and cancerous tissue and can adjust repulsion and attraction accordingly. Thus, the scalpel can be directly provided with the power to operate on cancerous cells only from a fixed distance, and accidental cutting of blood vessels can be avoided. The direct support provided by this force navigation allows physicians to safely and reliably navigate past blood vessel groups in order to precisely perform excision surgery for liver cancer."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Noborio",
+        "ForeName": "Hiroshi",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Aoki",
+        "ForeName": "Kazuma",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kunii",
+        "ForeName": "Takahiro",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mizushino",
+        "ForeName": "Kiminori",
+        "Initials": "K"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Blood Vessels"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "blood supply",
+        "diagnostic imaging",
+        "surgery"
+      ],
+      "DescriptorName": "Liver Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Surgery, Computer-Assisted"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Twitter",
+      "anxiety",
+      "coronavirus",
+      "crisis",
+      "depression",
+      "emotions",
+      "language",
+      "mental health",
+      "psychosocial effects",
+      "social media",
+      "social support",
+      "stress",
+      "transfer learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33156805",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e22600",
+      "10.2196/22600"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov",
+          "Day": "24"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Psychosocial Effects of the COVID-19 Pandemic: Large-scale Quasi-Experimental Study on Social Media.",
+    "Pagination": {
+      "StartPage": "e22600",
+      "MedlinePgn": "e22600"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic has caused several disruptions in personal and collective lives worldwide. The uncertainties surrounding the pandemic have also led to multifaceted mental health concerns, which can be exacerbated with precautionary measures such as social distancing and self-quarantining, as well as societal impacts such as economic downturn and job loss. Despite noting this as a \"mental health tsunami\", the psychological effects of the COVID-19 crisis remain unexplored at scale. Consequently, public health stakeholders are currently limited in identifying ways to provide timely and tailored support during these circumstances.",
+        "Our study aims to provide insights regarding people's psychosocial concerns during the COVID-19 pandemic by leveraging social media data. We aim to study the temporal and linguistic changes in symptomatic mental health and support expressions in the pandemic context.",
+        "We obtained about 60 million Twitter streaming posts originating from the United States from March 24 to May 24, 2020, and compared these with about 40 million posts from a comparable period in 2019 to attribute the effect of COVID-19 on people's social media self-disclosure. Using these data sets, we studied people's self-disclosure on social media in terms of symptomatic mental health concerns and expressions of support. We employed transfer learning classifiers that identified the social media language indicative of mental health outcomes (anxiety, depression, stress, and suicidal ideation) and support (emotional and informational support). We then examined the changes in psychosocial expressions over time and language, comparing the 2020 and 2019 data sets.",
+        "We found that all of the examined psychosocial expressions have significantly increased during the COVID-19 crisis-mental health symptomatic expressions have increased by about 14%, and support expressions have increased by about 5%, both thematically related to COVID-19. We also observed a steady decline and eventual plateauing in these expressions during the COVID-19 pandemic, which may have been due to habituation or due to supportive policy measures enacted during this period. Our language analyses highlighted that people express concerns that are specific to and contextually related to the COVID-19 crisis.",
+        "We studied the psychosocial effects of the COVID-19 crisis by using social media data from 2020, finding that people's mental health symptomatic and support expressions significantly increased during the COVID-19 period as compared to similar data from 2019. However, this effect gradually lessened over time, suggesting that people adapted to the circumstances and their \"new normal.\" Our linguistic analyses revealed that people expressed mental health concerns regarding personal and professional challenges, health care and precautionary measures, and pandemic-related awareness. This study shows the potential to provide insights to mental health care and stakeholders and policy makers in planning and implementing measures to mitigate mental health risks amid the health crisis."
+      ],
+      "CopyrightInformation": "\u00a9Koustuv Saha, John Torous, Eric D Caine, Munmun De Choudhury. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 24.11.2020."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-8872-2934"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Interactive Computing, Georgia Institute of Technology, Atlanta, GA, United States."
+          }
+        ],
+        "LastName": "Saha",
+        "ForeName": "Koustuv",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5362-7937"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Digital Psychiatry, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, United States."
+          }
+        ],
+        "LastName": "Torous",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4859-9679"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University of Rochester, Rochester, NY, United States."
+          }
+        ],
+        "LastName": "Caine",
+        "ForeName": "Eric D",
+        "Initials": "ED"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8939-264X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Interactive Computing, Georgia Institute of Technology, Atlanta, GA, United States."
+          }
+        ],
+        "LastName": "De Choudhury",
+        "ForeName": "Munmun",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM112697",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 MH117172",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "psychology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Non-Randomized Controlled Trials as Topic"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Psychology"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Social Media"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: JT receives unrelated research support from Otsuka."
+}

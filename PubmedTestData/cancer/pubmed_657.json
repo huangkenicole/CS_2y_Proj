@@ -1,0 +1,184 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26375396",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "06",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "09",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0138213",
+      "10.1371/journal.pone.0138213"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2015"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Identification of Gene-Expression Signatures and Protein Markers for Breast Cancer Grading and Staging.",
+    "Pagination": {
+      "StartPage": "e0138213",
+      "MedlinePgn": "e0138213"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The grade of a cancer is a measure of the cancer's malignancy level, and the stage of a cancer refers to the size and the extent that the cancer has spread. Here we present a computational method for prediction of gene signatures and blood/urine protein markers for breast cancer grades and stages based on RNA-seq data, which are retrieved from the TCGA breast cancer dataset and cover 111 pairs of disease and matching adjacent noncancerous tissues with pathologists-assigned stages and grades. By applying a differential expression and an SVM-based classification approach, we found that 324 and 227 genes in cancer have their expression levels consistently up-regulated vs. their matching controls in a grade- and stage-dependent manner, respectively. By using these genes, we predicted a 9-gene panel as a gene signature for distinguishing poorly differentiated from moderately and well differentiated breast cancers, and a 19-gene panel as a gene signature for discriminating between the moderately and well differentiated breast cancers. Similarly, a 30-gene panel and a 21-gene panel are predicted as gene signatures for distinguishing advanced stage (stages III-IV) from early stage (stages I-II) cancer samples and for distinguishing stage II from stage I samples, respectively. We expect these gene panels can be used as gene-expression signatures for cancer grade and stage classification. In addition, of the 324 grade-dependent genes, 188 and 66 encode proteins that are predicted to be blood-secretory and urine-excretory, respectively; and of the 227 stage-dependent genes, 123 and 51 encode proteins predicted to be blood-secretory and urine-excretory, respectively. We anticipate that some combinations of these blood and urine proteins could serve as markers for monitoring breast cancer at specific grades and stages through blood and urine tests."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory for Symbolic Computation and Knowledge Engineering of the Ministry of Education, College of Computer Science and Technology, Jilin University, Changchun, China; Computational Systems Biology Laboratory, Department of Biochemistry and Molecular Biology, and Institute of Bioinformatics, University of Georgia, Athens, United States of America; Jilin Teachers' Institute of Engineering and Technology, Changchun, China."
+          }
+        ],
+        "LastName": "Yao",
+        "ForeName": "Fang",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Systems Biology Laboratory, Department of Biochemistry and Molecular Biology, and Institute of Bioinformatics, University of Georgia, Athens, United States of America."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Chi",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory for Symbolic Computation and Knowledge Engineering of the Ministry of Education, College of Computer Science and Technology, Jilin University, Changchun, China; Computational Systems Biology Laboratory, Department of Biochemistry and Molecular Biology, and Institute of Bioinformatics, University of Georgia, Athens, United States of America."
+          }
+        ],
+        "LastName": "Du",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Systems Biology Laboratory, Department of Biochemistry and Molecular Biology, and Institute of Bioinformatics, University of Georgia, Athens, United States of America; Department of Oral and Maxillofacial Surgery, Shandong Provincial Hospital Affiliated to Shandong University, Jinan, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Chao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory for Symbolic Computation and Knowledge Engineering of the Ministry of Education, College of Computer Science and Technology, Jilin University, Changchun, China; Computational Systems Biology Laboratory, Department of Biochemistry and Molecular Biology, and Institute of Bioinformatics, University of Georgia, Athens, United States of America."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Ying",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Grading"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Staging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests: </b>The authors have declared that no competing interests exist."
+}

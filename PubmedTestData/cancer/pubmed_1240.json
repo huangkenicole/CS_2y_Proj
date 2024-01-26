@@ -1,0 +1,120 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38082928",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC40787.2023.10340502"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2023",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Discrimination of early HCC using single cell nucleus image and visualization of feature distribution in whole slide images.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "4",
+      "MedlinePgn": "1-4"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Among hepatocellular carcinoma (HCC), early HCC such as well-differentiated hepatocellular carcinoma is more difficult to distinguish from non-cancer than other cancers. In particular, very well-differentiated hepatocellular carcinoma is even more difficult to distinguish, and it is difficult for pathologists to distinguish between cancer and non-cancer from a single nucleus image. If a function to distinguish cancer with a single cell nucleus image is realized, it may be possible to find new features related to nuclei that are useful for differentiating early HCC. The function will also be very helpful in needle biopsy where the area that can be observed is limited.In this study, we investigated the potential to discriminate cancer/non-cancer from an image of a single hepatocyte nucleus using CNN. The results indicated that discrimination was achievable with a correct rate of around 70%.The probability of cancer/non-cancer was visualized on WSI. The visualization results indicated a difference between cancerous and non-cancerous areas in 71% of the cases, which will help pathologists distinguish region of interest. Grouping sections with similar features also proved useful in improving accuracy and visualization results."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hatanaka",
+        "ForeName": "Suguru",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Takahashi",
+        "ForeName": "Masanobu",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Nakano",
+        "ForeName": "Masayuki",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Carcinoma, Hepatocellular"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Liver Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Hepatocytes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biopsy, Needle"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Cell Nucleus"
+    }
+  ]
+}

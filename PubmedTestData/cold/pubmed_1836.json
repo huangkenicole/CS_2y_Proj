@@ -1,0 +1,166 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Antiviral agents",
+      "Ascorbic acid",
+      "Double-blind method",
+      "Randomized controlled trials",
+      "Respiratory tract Infections",
+      "Severity of Illness index",
+      "Treatment outcome",
+      "Vitamins"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38082300",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "12",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2468",
+      "10.1186/s12889-023-17229-8"
+    ],
+    "Journal": {
+      "ISSN": "1471-2458",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Dec",
+          "Day": "11"
+        }
+      },
+      "Title": "BMC public health",
+      "ISOAbbreviation": "BMC Public Health"
+    },
+    "ArticleTitle": "Vitamin C reduces the severity of common colds: a meta-analysis.",
+    "Pagination": {
+      "StartPage": "2468",
+      "MedlinePgn": "2468"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Randomized trials have shown that vitamin C shortens the duration of common colds. Some trials reported greater effects on severe cold symptoms compared with mild symptoms. This review systematically compares the effects of vitamin C on severe and mild common cold symptoms.",
+        "We included all placebo-controlled trials of orally administered vitamin C in doses of at least 1\u00a0g/day for the common cold for people in good health at baseline. The analysis was restricted to trials which reported both the total duration of the common cold, and the severity of the common cold measured using severity scales, the duration of more severe stages of the cold, or proxies for severe colds such as days indoors. Findings were pooled using the inverse variance, fixed effect options of the metacont function of the R package meta to calculate the ratio of means estimate.",
+        "Fifteen comparisons from 10 trials which reported both mild and severe symptoms were identified. All trials were randomized and double-blind. Compared to placebo, vitamin C significantly decreased the severity of the common cold by 15% (95% CI 9-21%). The direct comparison of the effect of vitamin C on mild and severe symptoms was limited to five comparisons which found that vitamin C had a significant benefit on the duration of severe symptoms. In this subset, there was a significant difference in the size of the effect of vitamin C on the overall duration of colds versus the duration of severe colds (P\u2009=\u20090.002), and vitamin C had no significant effect on the duration of mild symptoms.",
+        "The common cold is the leading cause of acute morbidity and a major cause of absenteeism from work and school. However, absenteeism is dependent on the severity of symptoms. The finding that vitamin C may have a greater effect on more severe measures of the common cold is therefore important. Further research on the therapeutic effects of vitamin C on the common cold should measure outcomes of differing levels of severity."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4710-307X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Public Health, University of Helsinki, POB 20, Helsinki, FI, FI-00014, Finland. harri.hemila@helsinki.fi."
+          }
+        ],
+        "LastName": "Hemil\u00e4",
+        "ForeName": "Harri",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1593-3770"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biological Data Science Institute, Australian National University, Canberra, ACT, 2601, Australia."
+          }
+        ],
+        "LastName": "Chalker",
+        "ForeName": "Elizabeth",
+        "Initials": "E"
+      }
+    ],
+    "PublicationTypeList": [
+      "Meta-Analysis",
+      "Review",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Public Health",
+    "NlmUniqueID": "100968562",
+    "ISSNLinking": "1471-2458"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "PQ6CK8PD0R",
+      "NameOfSubstance": "Ascorbic Acid"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Vitamins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "drug therapy"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Ascorbic Acid"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Vitamins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Double-Blind Method"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Absenteeism"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Randomized Controlled Trials as Topic"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

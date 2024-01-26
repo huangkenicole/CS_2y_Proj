@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "16112804",
+  "DateCompleted": {
+    "Year": "2006",
+    "Month": "01",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2005",
+    "Month": "11",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2005",
+        "Month": "08",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0303-2647",
+      "JournalIssue": {
+        "Volume": "82",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2005",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Bio Systems",
+      "ISOAbbreviation": "Biosystems"
+    },
+    "ArticleTitle": "Gene selection for classification of cancers using probabilistic model building genetic algorithm.",
+    "Pagination": {
+      "StartPage": "208",
+      "EndPage": "225",
+      "MedlinePgn": "208-25"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Recently, DNA microarray-based gene expression profiles have been used to correlate the clinical behavior of cancers with the differential gene expression levels in cancerous and normal tissues. To this end, after selection of some predictive genes based on signal-to-noise (S2N) ratio, unsupervised learning like clustering and supervised learning like k-nearest neighbor (k NN) classifier are widely used. Instead of S2N ratio, adaptive searches like Probabilistic Model Building Genetic Algorithm (PMBGA) can be applied for selection of a smaller size gene subset that would classify patient samples more accurately. In this paper, we propose a new PMBGA-based method for identification of informative genes from microarray data. By applying our proposed method to classification of three microarray data sets of binary and multi-type tumors, we demonstrate that the gene subsets selected with our technique yield better classification accuracy."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Frontier Informatics, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-8561, Japan. topon@iba.k.u-tokyo.ac.jp"
+          }
+        ],
+        "LastName": "Paul",
+        "ForeName": "Topon Kumar",
+        "Initials": "TK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Iba",
+        "ForeName": "Hitoshi",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Biosystems",
+    "NlmUniqueID": "0430773",
+    "ISSNLinking": "0303-2647"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Brain Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ]
+}

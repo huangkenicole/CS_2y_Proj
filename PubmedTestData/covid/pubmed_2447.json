@@ -1,0 +1,228 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bronchoalveolar lavage fluid cells",
+      "COVID-19",
+      "COVID-19 treatments",
+      "Peripheral blood mononuclear cells",
+      "SARS-CoV-2 gene expression signature"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33602138",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "125",
+      "10.1186/s12864-021-07433-4"
+    ],
+    "Journal": {
+      "ISSN": "1471-2164",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "18"
+        }
+      },
+      "Title": "BMC genomics",
+      "ISOAbbreviation": "BMC Genomics"
+    },
+    "ArticleTitle": "SARS-CoV-2 early infection signature identified potential key infection mechanisms and drug targets.",
+    "Pagination": {
+      "StartPage": "125",
+      "MedlinePgn": "125"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The ongoing COVID-19 outbreak has caused devastating mortality and posed a significant threat to public health worldwide. Despite the severity of this illness and\u00a02.3 million worldwide deaths, the disease mechanism is mostly unknown. Previous studies that characterized differential gene expression due to SARS-CoV-2 infection lacked robust validation. Although vaccines are \u00a0now available, effective treatment options are still out of reach.",
+        "To characterize the transcriptional activity of SARS-CoV-2 infection, a gene signature consisting of 25 genes was generated using a publicly available RNA-Sequencing\u00a0(RNA-Seq) dataset of cultured cells infected with SARS-CoV-2. The signature estimated infection level accurately in bronchoalveolar lavage fluid (BALF) cells and peripheral blood mononuclear cells (PBMCs) from healthy and infected patients (mean 0.001 vs. 0.958; P\u2009<\u20090.0001). These signature genes were investigated in their ability to distinguish the severity of SARS-CoV-2 infection in a single-cell RNA-Sequencing dataset. TNFAIP3, PPP1R15A, NFKBIA, and IFIT2 had shown bimodal gene expression in various immune cells from severely infected patients compared to healthy or moderate infection cases. Finally, this signature was assessed using the publicly available ConnectivityMap database to identify potential disease mechanisms and drug repurposing candidates. Pharmacological classes of tricyclic antidepressants, SRC-inhibitors, HDAC inhibitors, MEK inhibitors, and drugs such as atorvastatin, ibuprofen, and ketoconazole showed strong negative associations (connectivity score\u2009<\u2009-\u200990), highlighting the need for further evaluation of these candidates for their efficacy in treating SARS-CoV-2 infection.",
+        "Thus, using the 25-gene SARS-CoV-2 infection signature, the SARS-CoV-2 infection status was captured\u00a0in BALF cells, PBMCs and postmortem lung biopsies. In addition, candidate SARS-CoV-2 therapies with known safety profiles were identified. The signature genes could potentially also be used to characterize the COVID-19 disease severity in patients' expression profiles of BALF cells."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy, Chapman University, Irvine, CA, 92618, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yue",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy, Chapman University, Irvine, CA, 92618, USA."
+          }
+        ],
+        "LastName": "Duche",
+        "ForeName": "Ashley",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy, Chapman University, Irvine, CA, 92618, USA."
+          }
+        ],
+        "LastName": "Sayer",
+        "ForeName": "Michael R",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Pharmacy, Western University of Health Sciences, Pomona, CA, 91766, USA."
+          }
+        ],
+        "LastName": "Roosan",
+        "ForeName": "Don",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Pharmacy, California Health Sciences University, Clovis, CA, 93612, USA."
+          }
+        ],
+        "LastName": "Khalafalla",
+        "ForeName": "Farid G",
+        "Initials": "FG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy, Chapman University, Irvine, CA, 92618, USA."
+          }
+        ],
+        "LastName": "Ostrom",
+        "ForeName": "Rennolds S",
+        "Initials": "RS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy, Chapman University, Irvine, CA, 92618, USA."
+          }
+        ],
+        "LastName": "Totonchy",
+        "ForeName": "Jennifer",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmacy, Chapman University, Irvine, CA, 92618, USA. roosan@chapman.edu."
+          }
+        ],
+        "LastName": "Roosan",
+        "ForeName": "Moom R",
+        "Initials": "MR"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Genomics",
+    "NlmUniqueID": "100965258",
+    "ISSNLinking": "1471-2164"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "A549 Cells"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Delivery Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Single-Cell Analysis"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

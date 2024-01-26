@@ -1,0 +1,341 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "AI",
+      "EGJ",
+      "adenocarcinoma",
+      "artificial intelligence",
+      "detection",
+      "esophageal"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32511793",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "06",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1111/jgh.15136"
+    ],
+    "Journal": {
+      "ISSN": "1440-1746",
+      "JournalIssue": {
+        "Volume": "36",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Journal of gastroenterology and hepatology",
+      "ISOAbbreviation": "J Gastroenterol Hepatol"
+    },
+    "ArticleTitle": "Artificial intelligence for the detection of esophageal and esophagogastric junctional adenocarcinoma.",
+    "Pagination": {
+      "StartPage": "131",
+      "EndPage": "136",
+      "MedlinePgn": "131-136"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Conventional endoscopy for the early detection of esophageal and esophagogastric junctional adenocarcinoma (E/J cancer) is limited because early lesions are asymptomatic, and the associated changes in the mucosa are subtle. There are no reports on artificial intelligence (AI) diagnosis for E/J cancer from Asian countries. Therefore, we aimed to develop a computerized image analysis system using deep learning for the detection of E/J cancers.",
+        "A total of 1172 images from 166 pathologically proven superficial E/J cancer cases and 2271 images of normal mucosa in esophagogastric junctional from 219 cases were used as the training image data. A total of 232 images from 36 cancer cases and 43 non-cancerous cases were used as the validation test data. The same validation test data were diagnosed by 15 board-certified specialists (experts).",
+        "The sensitivity, specificity, and accuracy of the AI system were 94%, 42%, and 66%, respectively, and that of the experts were 88%, 43%, and 63%, respectively. The sensitivity of the AI system was favorable, while its specificity for non-cancerous lesions was similar to that of the experts. Interobserver agreement among the experts for detecting superficial E/J was fair (Fleiss' kappa\u00a0=\u00a00.26, z\u00a0=\u00a020.4, P\u00a0<\u00a00.001).",
+        "Our AI system achieved high sensitivity and acceptable specificity for the detection of E/J cancers and may be a good supporting tool for the screening of E/J cancers."
+      ],
+      "CopyrightInformation": "\u00a9 2020 Journal of Gastroenterology and Hepatology Foundation and John Wiley & Sons Australia, Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6312-8541"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Iwagami",
+        "ForeName": "Hiroyoshi",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Ishihara",
+        "ForeName": "Ryu",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Engineering, AI Medical Service Inc., Tokyo, Japan."
+          }
+        ],
+        "LastName": "Aoyama",
+        "ForeName": "Kazuharu",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Fukuda",
+        "ForeName": "Hiromu",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Shimamoto",
+        "ForeName": "Yusaku",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Kono",
+        "ForeName": "Mitsuhiro",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Nakahira",
+        "ForeName": "Hiroko",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Matsuura",
+        "ForeName": "Noriko",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Shichijo",
+        "ForeName": "Satoki",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Kanesaka",
+        "ForeName": "Takashi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology and Hepatology, Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama, Japan."
+          }
+        ],
+        "LastName": "Kanzaki",
+        "ForeName": "Hiromitsu",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Gastroenterology, Teine Keijinkai Hospital, Sapporo, Japan."
+          }
+        ],
+        "LastName": "Ishii",
+        "ForeName": "Tatsuya",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology and Hepatology, Japanese Red Cross Society Wakayama Medical Center, Wakayama, Japan."
+          }
+        ],
+        "LastName": "Nakatani",
+        "ForeName": "Yasuki",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Engineering, AI Medical Service Inc., Tokyo, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Tada Tomohiro Institute of Gastroenterology and Proctology, Saitama, Japan."
+          }
+        ],
+        "LastName": "Tada",
+        "ForeName": "Tomohiro",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Australia",
+    "MedlineTA": "J Gastroenterol Hepatol",
+    "NlmUniqueID": "8607909",
+    "ISSNLinking": "0815-9319"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Adenocarcinoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Asia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Early Detection of Cancer"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Esophageal Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Esophagogastric Junction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    }
+  ]
+}

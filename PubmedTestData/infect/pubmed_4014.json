@@ -1,0 +1,167 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25122345",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "10",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2014",
+    "Month": "08",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "07",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1550-2376",
+      "JournalIssue": {
+        "Volume": "90",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+      "ISOAbbreviation": "Phys Rev E Stat Nonlin Soft Matter Phys"
+    },
+    "ArticleTitle": "Epidemic outbreaks in two-scale community networks.",
+    "Pagination": {
+      "StartPage": "012810",
+      "MedlinePgn": "012810"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We consider a model for the diffusion of epidemics in a population that is partitioned into local communities. In particular, assuming a mean-field approximation, we analyze a continuous-time susceptible-infected-susceptible (SIS) model that has appeared recently in the literature. The probability by which an individual infects individuals in its own community is different from the probability of infecting individuals in other communities. The aim of the model, compared to the standard, nonclustered one, is to provide a compact description for the presence of communities of local infection where the epidemic process is faster compared to the rate at which it spreads across communities. Ultimately, it provides a tool to express the probability of epidemic outbreaks in the form of a metastable infection probability. In the proposed model, the spatial structure of the network is encoded by the adjacency matrix of clusters, i.e., the connections between local communities, and by the vector of the sizes of local communities. Thus, the existence of a nontrivial metastable occupancy probability is determined by an epidemic threshold which depends on the clusters' size and on the intercommunity network structure."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematics Department, University of Trento, via Sommarive 14, 38123 Povo (Trento), Italy."
+          }
+        ],
+        "LastName": "Bonaccorsi",
+        "ForeName": "Stefano",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CREATE-NET, via alla Cascata 56/d, 38123 Trento, Italy."
+          }
+        ],
+        "LastName": "Ottaviano",
+        "ForeName": "Stefania",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CREATE-NET, via alla Cascata 56/d, 38123 Trento, Italy."
+          }
+        ],
+        "LastName": "De Pellegrini",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DIMES, University of Calabria, via Ponte P. Bucci, 87036 Rende (Cosenza), Italy."
+          }
+        ],
+        "LastName": "Socievole",
+        "ForeName": "Annalisa",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EEMCS, Delft University of Technology, Mekelweg 4 2628 CD Delft, The Netherlands."
+          }
+        ],
+        "LastName": "Van Mieghem",
+        "ForeName": "Piet",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+    "NlmUniqueID": "101136452",
+    "ISSNLinking": "1539-3755"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diffusion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Housing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Residence Characteristics"
+    }
+  ]
+}

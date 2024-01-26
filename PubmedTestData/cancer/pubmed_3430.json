@@ -1,0 +1,182 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer detection",
+      "Human cells",
+      "Pattern detection and classification",
+      "Run-time systems",
+      "Solid-state micropores/nanopores"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27480732",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "03",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2017",
+    "Month": "03",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "06",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cmpb.2016.06.001",
+      "S0169-2607(15)30412-0"
+    ],
+    "Journal": {
+      "ISSN": "1872-7565",
+      "JournalIssue": {
+        "Volume": "134",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "An accelerated framework for the classification of biological targets from solid-state micropore data.",
+    "Pagination": {
+      "StartPage": "53",
+      "EndPage": "67",
+      "MedlinePgn": "53-67"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Micro- and nanoscale systems have provided means to detect biological targets, such as DNA, proteins, and human cells, at ultrahigh sensitivity. However, these devices suffer from noise in the raw data, which continues to be significant as newer and devices that are more sensitive produce an increasing amount of data that needs to be analyzed. An important dimension that is often discounted in these systems is the ability to quickly process the measured data for an instant feedback. Realizing and developing algorithms for the accurate detection and classification of biological targets in realtime is vital. Toward this end, we describe a supervised machine-learning approach that records single cell events (pulses), computes useful pulse features, and classifies the future patterns into their respective types, such as cancerous/non-cancerous cells based on the training data. The approach detects cells with an accuracy of 70% from the raw data followed by an accurate classification when larger training sets are employed. The parallel implementation of the algorithm on graphics processing unit (GPU) demonstrates a speedup of three to four folds as compared to a serial implementation on an Intel Core i7 processor. This incredibly efficient GPU system is an effort to streamline the analysis of pulse data in an academic setting. This paper presents for the first time ever, a non-commercial technique using a GPU system for realtime analysis, paired with biological cluster targeting analysis."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2016 Elsevier Ireland Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Lab, University of Texas at Arlington, Arlington, TX 76019; Department of Bioengineering, University of Texas at Arlington, Arlington, TX 76019; Nanotechnology Research Center, University of Texas at Arlington, Arlington, TX 76019."
+          }
+        ],
+        "LastName": "Hanif",
+        "ForeName": "Madiha",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Virginia Polytechnic Institute and State University, Blacksburg, VA 24060."
+          }
+        ],
+        "LastName": "Hafeez",
+        "ForeName": "Abdul",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Lab, University of Texas at Arlington, Arlington, TX 76019; Department of Computer Science and Engineering, University of Texas at Arlington, Arlington, TX 76019."
+          }
+        ],
+        "LastName": "Suleman",
+        "ForeName": "Yusuf",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IBM Research, Ireland."
+          }
+        ],
+        "LastName": "Mustafa Rafique",
+        "ForeName": "M",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Virginia Polytechnic Institute and State University, Blacksburg, VA 24060."
+          }
+        ],
+        "LastName": "Butt",
+        "ForeName": "Ali R",
+        "Initials": "AR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Lab, University of Texas at Arlington, Arlington, TX 76019; Department of Bioengineering, University of Texas at Arlington, Arlington, TX 76019; Nanotechnology Research Center, University of Texas at Arlington, Arlington, TX 76019; Department of Electrical Engineering, University of Texas at Arlington, Arlington, TX 76019; Department of Urology, University of Texas Southwestern Medical Center at Dallas, Dallas, TX 75390, USA. Electronic address: smiqbal@uta.edu."
+          }
+        ],
+        "LastName": "Iqbal",
+        "ForeName": "Samir M",
+        "Initials": "SM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nanopores"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

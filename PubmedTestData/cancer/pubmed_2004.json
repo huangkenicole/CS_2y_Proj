@@ -1,0 +1,196 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Computational analysis",
+      "CpG",
+      "DNA sequence",
+      "Methylation in cancer",
+      "Motif",
+      "Pattern identification",
+      "Pattern searching algorithm"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26615449",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "10",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "12",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "10",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2015.09.023",
+      "S0010-4825(15)00333-9"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "68",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Jan",
+          "Day": "01"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Genome wide classification and characterisation of CpG sites in cancer and normal cells.",
+    "Pagination": {
+      "StartPage": "57",
+      "EndPage": "66",
+      "MedlinePgn": "57-66"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This study identifies common methylation patterns across different cancer types in an effort to identify common molecular events in diverse types of cancer cells and provides evidence for the sequence surrounding a CpG to influence its susceptibility to aberrant methylation. CpG sites throughout the genome were divided into four classes: sites that either become hypo or hyper-methylated in a variety cancers using all the freely available microarray data (HypoCancer and HyperCancer classes) and those found in a constant hypo (Never methylated class) or hyper-methylated (Always methylated class) state in both normal and cancer cells. Our data shows that most CpG sites included in the HumanMethylation450K microarray remain unmethylated in normal and cancerous cells; however, certain sites in all the cancers investigated become specifically modified. More detailed analysis of the sites revealed that majority of those in the never methylated class were in CpG islands whereas those in the HyperCancer class were mostly associated with miRNA coding regions. The sites in the Hypermethylated class are associated with genes involved in initiating or maintaining the cancerous state, being enriched for processes involved in apoptosis, and with transcription factors predicted to bind to these genes linked to apoptosis and tumourgenesis (notably including E2F). Further we show that more LINE elements are associated with the HypoCancer class and more Alu repeats are associated with the HyperCancer class. Motifs that classify the classes were identified to distinguish them based on the surrounding DNA sequence alone, and for the identification of DNA sequences that could render sites more prone to aberrant methylation in cancer cells. This provides evidence that the sequence surrounding a CpG site has an influence on whether a site is hypo or hyper methylated."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2015 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Brunel University, Uxbridge, Middlesex UB8 3PH, UK; Wellcome Trust - Medical Research Council Cambridge Stem Cell Institute."
+          }
+        ],
+        "LastName": "Ghorbani",
+        "ForeName": "Mohammadmersad",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosciences, Brunel University, Uxbridge, Middlesex UB8 3PH, UK."
+          }
+        ],
+        "LastName": "Themis",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Brunel University, Uxbridge, Middlesex UB8 3PH, UK. Electronic address: annette.payne@brunel.ac.uk."
+          }
+        ],
+        "LastName": "Payne",
+        "ForeName": "Annette",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "DNA, Neoplasm"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Neoplasm"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Alu Elements"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CpG Islands"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "DNA, Neoplasm"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genome-Wide Association Study"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Neoplasm"
+    }
+  ]
+}

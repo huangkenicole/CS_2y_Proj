@@ -1,0 +1,183 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "chronic infection",
+      "epidemiological model",
+      "malaria",
+      "within-host dynamics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25673299",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "09",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "01",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "20141379",
+      "10.1098/rsif.2014.1379"
+    ],
+    "Journal": {
+      "ISSN": "1742-5662",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "104",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Mar",
+          "Day": "06"
+        }
+      },
+      "Title": "Journal of the Royal Society, Interface",
+      "ISOAbbreviation": "J R Soc Interface"
+    },
+    "ArticleTitle": "Dissecting the determinants of malaria chronicity: why within-host models struggle to reproduce infection dynamics.",
+    "Pagination": {
+      "StartPage": "20141379",
+      "MedlinePgn": "20141379"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The duration of infection is fundamental to the epidemiological behaviour of any infectious disease, but remains one of the most poorly understood aspects of malaria. In endemic areas, the malaria parasite Plasmodium falciparum can cause both acute, severe infections and asymptomatic, chronic infections through its interaction with the host immune system. Frequent superinfection and massive parasite genetic diversity make it extremely difficult to accurately measure the distribution of infection lengths, complicating the estimation of basic epidemiological parameters and the prediction of the impact of interventions. Mathematical models have qualitatively reproduced parasite dynamics early during infection, but reproducing long-lived chronic infections remains much more challenging. Here, we construct a model of infection dynamics to examine the consequences of common biological assumptions for the generation of chronicity and the impact of co-infection. We find that although a combination of host and parasite heterogeneities are capable of generating chronic infections, they do so only under restricted parameter choices. Furthermore, under biologically plausible assumptions, co-infection of parasite genotypes can alter the course of infection of both the resident and co-infecting strain in complex non-intuitive ways. We outline the most important puzzles for within-host models of malaria arising from our analysis, and their implications for malaria epidemiology and control."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Communicable Disease Dynamics, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA Department of Epidemiology, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA."
+          }
+        ],
+        "LastName": "Childs",
+        "ForeName": "Lauren M",
+        "Initials": "LM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Communicable Disease Dynamics, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA Department of Epidemiology, Harvard T. H. Chan School of Public Health, Boston, MA 02115, USA cbuckee@hsph.harvard.edu."
+          }
+        ],
+        "LastName": "Buckee",
+        "ForeName": "Caroline O",
+        "Initials": "CO"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U54 GM088558",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54GM088558",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J R Soc Interface",
+    "NlmUniqueID": "101217269",
+    "ISSNLinking": "1742-5662"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antigens"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Antigens"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Coinfection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genotype"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immune System"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "epidemiology",
+        "parasitology",
+        "transmission"
+      ],
+      "DescriptorName": "Malaria, Falciparum"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Plasmodium falciparum"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    }
+  ]
+}

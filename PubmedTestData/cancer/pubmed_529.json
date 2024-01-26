@@ -1,0 +1,176 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "18366702",
+  "DateCompleted": {
+    "Year": "2008",
+    "Month": "06",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2008",
+        "Month": "03",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1186/1471-2164-9-134"
+    ],
+    "Journal": {
+      "ISSN": "1471-2164",
+      "JournalIssue": {
+        "Volume": "9",
+        "PubDate": {
+          "Year": "2008",
+          "Month": "Mar",
+          "Day": "20"
+        }
+      },
+      "Title": "BMC genomics",
+      "ISOAbbreviation": "BMC Genomics"
+    },
+    "ArticleTitle": "An indicator of cancer: downregulation of monoamine oxidase-A in multiple organs and species.",
+    "Pagination": {
+      "StartPage": "134",
+      "MedlinePgn": "134"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Identifying consistent changes in cellular function that occur in multiple types of cancer could revolutionize the way cancer is treated. Previous work has produced promising results such as the identification of p53. Recently drugs that affect serotonin reuptake were shown to reduce the risk of colon cancer in man. Here, we analyze an ensemble of cancer datasets focusing on genes involved in the serotonergic pathway. Genechip datasets consisting of cancerous tissue from human, mouse, rat, or zebrafish were extracted from the GEO database. We first compared gene expression between cancerous tissues and normal tissues for each type of cancer and then identified changes that were common to a variety of cancer types.",
+        "Our analysis found that significant downregulation of MAO-A, the enzyme that metabolizes serotonin, occurred in multiple tissues from humans, rodents, and fish. MAO-A expression was decreased in 95.4% of human cancer patients and 94.2% of animal cancer cases compared to the non-cancerous controls.",
+        "These are the first findings that identify a single reliable change in so many different cancers. Future studies should investigate links between MAO-A suppression and the development of cancer to determine the extent that MAO-A suppression contributes to increased cancer risk."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, The Ohio State University, Columbus, OH, USA. rybaczyk.1@osu.edu"
+          }
+        ],
+        "LastName": "Rybaczyk",
+        "ForeName": "Leszek A",
+        "Initials": "LA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bashaw",
+        "ForeName": "Meredith J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pathak",
+        "ForeName": "Dorothy R",
+        "Initials": "DR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Huang",
+        "ForeName": "Kun",
+        "Initials": "K"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Genomics",
+    "NlmUniqueID": "100965258",
+    "ISSNLinking": "1471-2164"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "333DO1RDJY",
+      "NameOfSubstance": "Serotonin"
+    },
+    {
+      "RegistryNumber": "EC 1.4.3.4",
+      "NameOfSubstance": "Monoamine Oxidase"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Down-Regulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Monoamine Oxidase"
+    },
+    {
+      "QualifierName": [
+        "enzymology",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Organ Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rats"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Serotonin"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Species Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Zebrafish"
+    }
+  ]
+}

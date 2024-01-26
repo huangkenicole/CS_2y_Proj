@@ -1,0 +1,159 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Chronic cancers",
+      "Feedback control",
+      "Stem cells",
+      "Tumor growth dynamics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26344137",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "12",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "12",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "09",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.mbs.2015.08.009",
+      "S0025-5564(15)00163-7"
+    ],
+    "Journal": {
+      "ISSN": "1879-3134",
+      "JournalIssue": {
+        "Volume": "270",
+        "Issue": "Pt A",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Mathematical biosciences",
+      "ISOAbbreviation": "Math Biosci"
+    },
+    "ArticleTitle": "Characterizing inhibited tumor growth in stem-cell-driven non-spatial cancers.",
+    "Pagination": {
+      "StartPage": "135",
+      "EndPage": "141",
+      "MedlinePgn": "135-41"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Healthy human tissue is highly regulated to maintain homeostasis. Secreted negative feedback factors that inhibit stem cell division and stem cell self-renewal play a fundamental role in establishing this control. The appearance of abnormal cancerous growth requires an escape from these regulatory mechanisms. In a previous study we found that for non-solid tumors if feedback inhibition on stem cell self-renewal is lost, but the feedback on the division rate is still intact, then the tumor dynamics are characterized by a relatively slow sub-exponential growth that we called inhibited growth. Here we characterize the cell dynamics of inhibited cancer growth by modeling feedback inhibition using Hill equations. We find asymptotic approximations for the growth rates of the stem cell and differentiated cell populations in terms of the strength of the inhibitory signal: stem cells grow as a power law t(1/k+1),and the differentiated cells grow as t(1/k), where k is the Hill coefficient in the feedback law regulating cell divisions. It follows that as the tumor grows, undifferentiated cells take up an increasingly large fraction of the population. Implications of these results for specific cancers including CML are discussed. Understanding how the regulatory mechanisms that continue to operate in cancer affect the rate of disease progression can provide important insights relevant to chronic or other slow progressing types of cancer."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2015 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of California, Irvine, CA 92651, USA; Department of Ecology and Evolution, University of California, Irvine, CA 92651, USA. Electronic address: iarodrig@uci.edu."
+          }
+        ],
+        "LastName": "Rodriguez-Brenes",
+        "ForeName": "Ignacio A",
+        "Initials": "IA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of California, Irvine, CA 92651, USA; Department of Ecology and Evolution, University of California, Irvine, CA 92651, USA."
+          }
+        ],
+        "LastName": "Wodarz",
+        "ForeName": "Dominik",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of California, Irvine, CA 92651, USA; Department of Ecology and Evolution, University of California, Irvine, CA 92651, USA."
+          }
+        ],
+        "LastName": "Komarova",
+        "ForeName": "Natalia L",
+        "Initials": "NL"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci",
+    "NlmUniqueID": "0103146",
+    "ISSNLinking": "0025-5564"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Differentiation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Proliferation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feedback, Physiological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematical Concepts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Neoplastic Stem Cells"
+    }
+  ]
+}

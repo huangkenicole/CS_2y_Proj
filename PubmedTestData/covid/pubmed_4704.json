@@ -1,0 +1,188 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cell Biology",
+      "Cell culture",
+      "Cell-based Assays",
+      "High Throughput Screening",
+      "Molecular Biology",
+      "Molecular/Chemical Probes"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34841271",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "11",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "101024",
+      "10.1016/j.xpro.2021.101024"
+    ],
+    "Journal": {
+      "ISSN": "2666-1667",
+      "JournalIssue": {
+        "Volume": "3",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Mar",
+          "Day": "18"
+        }
+      },
+      "Title": "STAR protocols",
+      "ISOAbbreviation": "STAR Protoc"
+    },
+    "ArticleTitle": "Detection of SARS-CoV-2 spike protein binding to ACE2 in living cells by TR-FRET.",
+    "Pagination": {
+      "StartPage": "101024",
+      "MedlinePgn": "101024"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The SARS-CoV-2 coronavirus infects human cells through the interaction of the viral envelope spike protein (IPR044366) with the human angiotensin-converting enzyme 2 (ACE2), expressed at the surface of target cells. Here, we describe a detailed protocol to measure the binding of the receptor binding domain (RBD) of spike to ACE2 by time-resolved fluorescence resonance energy transfer (TR-FRET). The assay detects the spike/ACE2 interaction in physiologically relevant cellular contexts and is suitable for high-throughput investigation of interfering small-molecule compounds and antibodies. For complete details on the use and execution of this protocol, please refer to Cecon et\u00a0al. (2021)."
+      ],
+      "CopyrightInformation": "\u00a9 2021 The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 de Paris, Institut Cochin, INSERM, CNRS, 75014 Paris, France."
+          }
+        ],
+        "LastName": "Cecon",
+        "ForeName": "Erika",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 de Paris, Institut Cochin, INSERM, CNRS, 75014 Paris, France."
+          }
+        ],
+        "LastName": "Dam",
+        "ForeName": "Julie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 de Paris, Institut Cochin, INSERM, CNRS, 75014 Paris, France."
+          }
+        ],
+        "LastName": "Jockers",
+        "ForeName": "Ralf",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "STAR Protoc",
+    "NlmUniqueID": "101769501",
+    "ISSNLinking": "2666-1667"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "ACE2 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "Angiotensin-Converting Enzyme 2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Angiotensin-Converting Enzyme 2"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Fluorescence Resonance Energy Transfer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "HEK293 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Protein Binding"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "metabolism"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

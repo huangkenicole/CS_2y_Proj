@@ -1,0 +1,195 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "EPISENS-M",
+      "Mathematical model",
+      "Quantification method",
+      "SARS-CoV-2",
+      "Wastewater-based epidemiology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36867995",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.envint.2023.107743",
+      "S0160-4120(23)00016-8"
+    ],
+    "Journal": {
+      "ISSN": "1873-6750",
+      "JournalIssue": {
+        "Volume": "173",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Environment international",
+      "ISOAbbreviation": "Environ Int"
+    },
+    "ArticleTitle": "Wastewater-based prediction of COVID-19 cases using a highly sensitive SARS-CoV-2 RNA detection method combined with mathematical modeling.",
+    "Pagination": {
+      "StartPage": "107743",
+      "MedlinePgn": "107743"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Wastewater-based epidemiology (WBE) has the potential to predict COVID-19 cases; however, reliable methods for tracking SARS-CoV-2 RNA concentrations (C<sub>RNA</sub>) in wastewater are lacking. In the present study, we developed a highly sensitive method (EPISENS-M) employing adsorption-extraction, followed by one-step RT-Preamp and qPCR. The EPISENS-M allowed SARS-CoV-2 RNA detection from wastewater at 50\u00a0% detection rate when newly reported COVID-19 cases exceed 0.69/100,000 inhabitants in a sewer catchment. Using the EPISENS-M, a longitudinal WBE study was conducted between 28 May 2020 and 16 June 2022 in Sapporo City, Japan, revealing a strong correlation (Pearson's r\u00a0=\u00a00.94) between C<sub>RNA</sub> and the newly COVID-19 cases reported by intensive clinical surveillance. Based on this dataset, a mathematical model was developed based on viral shedding dynamics to estimate the newly reported cases using C<sub>RNA</sub> data and recent clinical data prior to sampling day. This developed model succeeded in predicting the cumulative number of newly reported cases after 5\u00a0days of sampling day within a factor of \u221a2 and 2 with a precision of 36\u00a0% (16/44) and 64\u00a0% (28/44), respectively. By applying this model framework, another estimation mode was developed without the recent clinical data, which successfully predicted the number of COVID-19 cases for the succeeding 5\u00a0days within a factor of \u221a2 and 2 with a precision of 39\u00a0% (17/44) and 66\u00a0% (29/44), respectively. These results demonstrated that the EPISENS-M method combined with the mathematical model can be a powerful tool for predicting COVID-19 cases, especially in the absence of intensive clinical surveillance."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023. Published by Elsevier Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Environmental Engineering, Faculty of Engineering, Hokkaido University, North 13 West 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan."
+          }
+        ],
+        "LastName": "Ando",
+        "ForeName": "Hiroki",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Infectious Disease Education and Research, Osaka University, 2-8 Yamadaoka, Suita, Osaka 565-0871, Japan."
+          }
+        ],
+        "LastName": "Murakami",
+        "ForeName": "Michio",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CSIRO Environment, Ecosciences Precinct, 41 Boggo Road, QLD 4102, Australia."
+          }
+        ],
+        "LastName": "Ahmed",
+        "ForeName": "Warish",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shionogi & Co. Ltd, 1-8, Doshomachi 3-Chome, Chuo-ku, Osaka, Osaka 541-0045, Japan; AdvanSentinel Inc, 1-8 Doshomachi 3-Chome, Chuo-ku, Osaka, Osaka 541-0045, Japan."
+          }
+        ],
+        "LastName": "Iwamoto",
+        "ForeName": "Ryo",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Environmental Engineering, Faculty of Engineering, Hokkaido University, North 13 West 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan."
+          }
+        ],
+        "LastName": "Okabe",
+        "ForeName": "Satoshi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Environmental Engineering, Faculty of Engineering, Hokkaido University, North 13 West 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan. Electronic address: mkitajima@eng.hokudai.ac."
+          }
+        ],
+        "LastName": "Kitajima",
+        "ForeName": "Masaaki",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Environ Int",
+    "NlmUniqueID": "7807270",
+    "ISSNLinking": "0160-4120"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Wastewater"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wastewater"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

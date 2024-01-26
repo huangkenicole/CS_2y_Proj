@@ -1,0 +1,184 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36282866",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "10",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0275621",
+      "10.1371/journal.pone.0275621"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "FunHoP analysis reveals upregulation of mitochondrial genes in prostate cancer.",
+    "Pagination": {
+      "StartPage": "e0275621",
+      "MedlinePgn": "e0275621"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Mitochondrial activity in cancer cells has been central to cancer research since Otto Warburg first published his thesis on the topic in 1956. Although Warburg proposed that oxidative phosphorylation in the tricarboxylic acid (TCA) cycle was perturbed in cancer, later research has shown that oxidative phosphorylation is activated in most cancers, including prostate cancer (PCa). However, more detailed knowledge on mitochondrial metabolism and metabolic pathways in cancers is still lacking. In this study we expand our previously developed method for analyzing functional homologous proteins (FunHoP), which can provide a more detailed view of metabolic pathways. FunHoP uses results from differential expression analysis of RNA-Seq data to improve pathway analysis. By adding information on subcellular localization based on experimental data and computational predictions we can use FunHoP to differentiate between mitochondrial and non-mitochondrial processes in cancerous and normal prostate cell lines. Our results show that mitochondrial pathways are upregulated in PCa and that splitting metabolic pathways into mitochondrial and non-mitochondrial counterparts using FunHoP adds to the interpretation of the metabolic properties of PCa cells."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical and Molecular Medicine, NTNU-Norwegian University of Science and Technology, Trondheim, Norway."
+          }
+        ],
+        "LastName": "Rise",
+        "ForeName": "Kjersti",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Circulation and Medical Imaging, NTNU-Norwegian University of Science and Technology, Trondheim, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinic of Surgery, St. Olavs Hospital, Trondheim University Hospital, Trondheim, Norway."
+          }
+        ],
+        "LastName": "Tessem",
+        "ForeName": "May-Britt",
+        "Initials": "MB"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5794-828X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical and Molecular Medicine, NTNU-Norwegian University of Science and Technology, Trondheim, Norway."
+          }
+        ],
+        "LastName": "Drabl\u00f8s",
+        "ForeName": "Finn",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4405-1008"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical and Molecular Medicine, NTNU-Norwegian University of Science and Technology, Trondheim, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinic of Surgery, St. Olavs Hospital, Trondheim University Hospital, Trondheim, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinic of Laboratory Medicine, St. Olavs Hospital, Trondheim University Hospital, Trondheim, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "BioCore-Bioinformatics Core Facility, NTNU-Norwegian University of Science and Technology, Trondheim, Norway."
+          }
+        ],
+        "LastName": "Rye",
+        "ForeName": "Morten Beck",
+        "Initials": "MB"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Tricarboxylic Acids"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Up-Regulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genes, Mitochondrial"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oxidative Phosphorylation"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tricarboxylic Acids"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

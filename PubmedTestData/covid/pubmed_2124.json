@@ -1,0 +1,376 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Centers for Disease Control",
+      "Cycle threshold",
+      "Lineage",
+      "Next generation sequencing",
+      "Reverse transcription polymerase chain reaction",
+      "SARS-CoV-2",
+      "Variant"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35468749",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "04",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "404",
+      "10.1186/s12879-022-07374-7"
+    ],
+    "Journal": {
+      "ISSN": "1471-2334",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Apr",
+          "Day": "25"
+        }
+      },
+      "Title": "BMC infectious diseases",
+      "ISOAbbreviation": "BMC Infect Dis"
+    },
+    "ArticleTitle": "Identification of SARS-CoV-2 variants using viral sequencing for the Centers for Disease Control and Prevention genomic surveillance program.",
+    "Pagination": {
+      "StartPage": "404",
+      "MedlinePgn": "404"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Centers for Disease Control and Prevention contracted with laboratories to sequence the SARS-CoV-2 genome from positive samples across the United States to enable public health officials to investigate the impact of variants on disease severity as well as the effectiveness of vaccines and treatment. Herein we present the initial results correlating RT-PCR quality control metrics with sample collection and sequencing methods from full SARS-CoV-2 viral genomic sequencing of 24,441 positive patient samples between April and June 2021.",
+        "RT-PCR confirmed (N Gene Ct value\u2009<\u200930) positive patient samples, with nucleic acid extracted from saliva, nasopharyngeal and oropharyngeal swabs were selected for viral whole genome SARS-CoV-2 sequencing. Sequencing was performed using Illumina COVIDSeq\u2122 protocol on either the NextSeq550 or NovaSeq6000 systems. Informatic variant calling, and lineage analysis were performed using DRAGEN COVID Lineage applications on Illumina's Basespace cloud analytical system. All sequence data and variant calls were uploaded to NCBI and GISAID.",
+        "An association was observed between higher sequencing coverage, quality, and samples with a lower Ct value, with\u2009<\u200927 being optimal, across both sequencing platforms and sample collection methods. Both nasopharyngeal swabs and saliva samples were found to be optimal samples of choice for SARS-CoV-2 surveillance sequencing studies, both in terms of strain identification and sequencing depth of coverage, with NovaSeq 6000 providing higher coverage than the NextSeq 550. The most frequent variants identified were the B.1.617.2 Delta (India) and P.1 Gamma (Brazil) variants in the samples sequenced between April 2021 and June 2021. At the time of submission, the most common variant\u2009>\u200999% of positives sequenced was Omicron.",
+        "These initial analyses highlight the importance of sequencing platform, sample collection methods, and RT-PCR Ct values in guiding surveillance efforts. These surveillance studies evaluating genetic changes of SARS-CoV-2 have been identified as critical by the CDC that can affect many aspects of public health including transmission, disease severity, diagnostics, therapeutics, and vaccines."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Goswami",
+        "ForeName": "Chirayu",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Sheldon",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Bixby",
+        "ForeName": "Christian",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Illumina, 5200 Illumina Way, San Diego, CA, 92122, USA."
+          }
+        ],
+        "LastName": "Keddache",
+        "ForeName": "Mehdi",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Bogdanowicz",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Yihe",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Schultz",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "McDevitt",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "LaPorta",
+        "ForeName": "James",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Kwon",
+        "ForeName": "Elaine",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rutgers University, 559 Hill Center, 110 Frelinghuysen Rd, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Buyske",
+        "ForeName": "Steven",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Garbolino",
+        "ForeName": "Dana",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Biloholowski",
+        "ForeName": "Glenys",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vault Health, 115 Broadway Suite 1800, 18th Floor, Dobbs Ferry, NY, 10522, USA."
+          }
+        ],
+        "LastName": "Pastuszak",
+        "ForeName": "Alex",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Storella",
+        "ForeName": "Mary",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Bhalla",
+        "ForeName": "Amit",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Charlier-Rodriguez",
+        "ForeName": "Florence",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Hager",
+        "ForeName": "Russ",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA."
+          }
+        ],
+        "LastName": "Grimwood",
+        "ForeName": "Robin",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4494-0320"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infinity-Biologix LLC, 30 Knightsbridge Road, Piscataway, NJ, 08854, USA. shareef.nahas@infinity-biologix.com."
+          }
+        ],
+        "LastName": "Nahas",
+        "ForeName": "Shareef A",
+        "Initials": "SA"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "75D30121C10587",
+        "Acronym": "DP",
+        "Agency": "NCCDPHP CDC HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Infect Dis",
+    "NlmUniqueID": "100968551",
+    "ISSNLinking": "1471-2334"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Centers for Disease Control and Prevention, U.S."
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    }
+  ],
+  "CoiStatement": "Not applicable."
+}

@@ -1,0 +1,177 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "artificial intelligence",
+      "endurance",
+      "exercise intensity",
+      "precision training",
+      "prediction",
+      "wearable"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32380738",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "05",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2637",
+      "10.3390/s20092637"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "May",
+          "Day": "05"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Smartwatch-Derived Data and Machine Learning Algorithms Estimate Classes of Ratings of Perceived Exertion in Runners: A Pilot Study.",
+    "Abstract": {
+      "AbstractText": [
+        "The rating of perceived exertion (RPE) is a subjective load marker and may assist in individualizing training prescription, particularly by adjusting running intensity. Unfortunately, RPE has shortcomings (e.g., underreporting) and cannot be monitored continuously and automatically throughout a training sessions. In this pilot study, we aimed to predict two classes of RPE ( \u2264 15 \"Somewhat hard to hard\" on Borg's 6-20 scale vs. RPE > 15 in runners by analyzing data recorded by a commercially-available smartwatch with machine learning algorithms. Twelve trained and untrained runners performed long-continuous runs at a constant self-selected pace to volitional exhaustion. Untrained runners reported their RPE each kilometer, whereas trained runners reported every five kilometers. The kinetics of heart rate, step cadence, and running velocity were recorded continuously ( 1 Hz ) with a commercially-available smartwatch (Polar V800). We trained different machine learning algorithms to estimate the two classes of RPE based on the time series sensor data derived from the smartwatch. Predictions were analyzed in different settings: accuracy overall and per runner type; i.e., accuracy for trained and untrained runners independently. We achieved top accuracies of 84 . 8 for the whole dataset, 81 . 82 for the trained runners, and 86 . 08 for the untrained runners. We predict two classes of RPE with high accuracy using machine learning and smartwatch data. This approach might aid in individualizing training prescriptions."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chair of Data Science, Institute for Computer Sciences, University of W\u00fcrzburg, 97074 W\u00fcrzburg, Germany."
+          }
+        ],
+        "LastName": "Davidson",
+        "ForeName": "Padraig",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0277-9858"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Integrative and Experimental Exercise Science & Training, Institute for Sport Sciences, University of W\u00fcrzburg, 97082 W\u00fcrzburg, Germany."
+          }
+        ],
+        "LastName": "D\u00fcking",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5365-4847"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Sport, University of Applied Sciences for Police and Administration of Hesse, 65199 Wiesbaden, Germany."
+          }
+        ],
+        "LastName": "Zinner",
+        "ForeName": "Christoph",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Integrative and Experimental Exercise Science & Training, Institute for Sport Sciences, University of W\u00fcrzburg, 97082 W\u00fcrzburg, Germany."
+          }
+        ],
+        "LastName": "Sperlich",
+        "ForeName": "Billy",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chair of Data Science, Institute for Computer Sciences, University of W\u00fcrzburg, 97074 W\u00fcrzburg, Germany."
+          }
+        ],
+        "LastName": "Hotho",
+        "ForeName": "Andreas",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heart Rate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Perception"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Exertion"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pilot Projects"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Running"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

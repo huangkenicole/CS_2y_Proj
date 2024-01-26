@@ -1,0 +1,210 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37410916",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "baad044",
+      "10.1093/database/baad044"
+    ],
+    "Journal": {
+      "ISSN": "1758-0463",
+      "JournalIssue": {
+        "Volume": "2023",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul",
+          "Day": "06"
+        }
+      },
+      "Title": "Database : the journal of biological databases and curation",
+      "ISOAbbreviation": "Database (Oxford)"
+    },
+    "ArticleTitle": "VariantHunter: a method and\u00a0tool for\u00a0fast detection of\u00a0emerging SARS-CoV-2 variants.",
+    "Abstract": {
+      "AbstractText": [
+        "With the progression of the COVID-19 pandemic, large datasets of SARS-CoV-2 genome sequences were collected to closely monitor the evolution of the virus and identify the novel variants/strains. By analyzing genome sequencing data, health authorities can 'hunt' novel emerging variants of SARS-CoV-2 as early as possible, and then monitor their evolution and spread. We designed VariantHunter, a highly flexible and user-friendly tool for systematically monitoring the evolution of SARS-CoV-2 at global and regional levels. In VariantHunter, amino acid changes are analyzed over an interval of 4\u2009weeks in an arbitrary geographical area (continent, country, or region); for every week in the interval, the prevalence is computed and changes are ranked based on their increase or decrease in prevalence. VariantHunter supports two main types of analysis: lineage-independent and lineage-specific. The former considers all the available data and aims to discover new viral variants. The latter evaluates specific lineages/viral variants to identify novel candidate designations (sub-lineages and sub-variants). Both analyses use simple statistics and visual representations (diffusion charts and heatmaps) to track viral evolution. A dataset explorer allows users to visualize available data and refine their selection. VariantHunter is a web application free to all users. The two types of supported analysis (lineage-independent and lineage-specific) allow user-friendly monitoring of the viral evolution, empowering genomic surveillance without requiring any computational background. Database URL http://gmql.eu/variant_hunter/."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2023. Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9786-2851"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Information, and Bioengineering, Politecnico di Milano, Via Ponzio 34/5, Milan 20133, Italy."
+          }
+        ],
+        "LastName": "Pinoli",
+        "ForeName": "Pietro",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4528-6586"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anesthesia, Critical Care and Emergency, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Via Francesco Sforza 28, Milan 20122, Italy."
+          }
+        ],
+        "LastName": "Canakoglu",
+        "ForeName": "Arif",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0671-2415"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Information, and Bioengineering, Politecnico di Milano, Via Ponzio 34/5, Milan 20133, Italy."
+          }
+        ],
+        "LastName": "Ceri",
+        "ForeName": "Stefano",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3983-4961"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosciences, University of Milan, Via Celoria 26, Milan 20133, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomembranes, Bioenergetics and Molecular Biotechnology, Consiglio Nazionale delle Ricerche, via Amendola 122/O, Bari 70126, Italy."
+          }
+        ],
+        "LastName": "Chiara",
+        "ForeName": "Matteo",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2968-8350"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosciences, University of Milan, Via Celoria 26, Milan 20133, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomembranes, Bioenergetics and Molecular Biotechnology, Consiglio Nazionale delle Ricerche, via Amendola 122/O, Bari 70126, Italy."
+          }
+        ],
+        "LastName": "Ferrandi",
+        "ForeName": "Erika",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Information, and Bioengineering, Politecnico di Milano, Via Ponzio 34/5, Milan 20133, Italy."
+          }
+        ],
+        "LastName": "Minotti",
+        "ForeName": "Luca",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8016-5750"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Information, and Bioengineering, Politecnico di Milano, Via Ponzio 34/5, Milan 20133, Italy."
+          }
+        ],
+        "LastName": "Bernasconi",
+        "ForeName": "Anna",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "PNRR-PE-AI FAIR",
+        "Agency": "Next Generation EU Program",
+        "Country": ""
+      },
+      {
+        "GrantID": "PNRR-PE-AI FAIR",
+        "Agency": "Next Generation EU Program",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Database (Oxford)",
+    "NlmUniqueID": "101517697",
+    "ISSNLinking": "1758-0463"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chromosome Mapping"
+    }
+  ],
+  "CoiStatement": "None declared."
+}

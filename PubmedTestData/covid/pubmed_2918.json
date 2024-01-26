@@ -1,0 +1,154 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Primer Design",
+      "SARS-CoV-2",
+      "Variants"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34773624",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/978-1-0716-1799-1_14"
+    ],
+    "Journal": {
+      "ISSN": "1940-6029",
+      "JournalIssue": {
+        "Volume": "2392",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Methods in molecular biology (Clifton, N.J.)",
+      "ISOAbbreviation": "Methods Mol Biol"
+    },
+    "ArticleTitle": "PCR Primer Design for the Rapidly Evolving SARS-CoV-2 Genome.",
+    "Pagination": {
+      "StartPage": "185",
+      "EndPage": "197",
+      "MedlinePgn": "185-197"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Real-time quantitative PCR is currently the most widely used method for the human pathogen severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) identification. Due to the rapid evolution of the SARS-CoV-2 genome, novel mutations on the primer binding sites will cause the failure of PCR. Therefore, in addition to a well-designed primer set, these primers need to be updated and evaluated regularly to ensure that the rapidly evolving genome primers can be amplified. In this protocol, (1) we firstly use assembled genome sequences in the SARS-CoV-2 database to identify and characterize indels and point mutations; (2) design primers skipping the sites of mutations; (3) check the coverage of the primers with the daily update SARS-CoV-2 database; (4) redesign them if novel mutations found in the primer binding sites. Although this protocol takes SARS-CoV-2 as an example, it is suitable for other species that have genomes accumulating mutations over time."
+      ],
+      "CopyrightInformation": "\u00a9 2022. Springer Science+Business Media, LLC, part of Springer Nature."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "iGeneTech Bioscience Co., Ltd, Beijing, China. quwubin@gmail.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Growth, Metabolism and Aging, Key Laboratory of Bio-Resources and Eco-Environment, College of Life Sciences, Sichuan University, Chengdu, China. quwubin@gmail.com."
+          }
+        ],
+        "LastName": "Qu",
+        "ForeName": "Wubin",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information Center, Academy of Military Medical Science, Beijing, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Jiangyu",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Growth, Metabolism and Aging, Key Laboratory of Bio-Resources and Eco-Environment, College of Life Sciences, Sichuan University, Chengdu, China."
+          }
+        ],
+        "LastName": "Cai",
+        "ForeName": "Haoyang",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information Center, Academy of Military Medical Science, Beijing, China. dszhao@bmi.ac.cn."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Dongsheng",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Methods Mol Biol",
+    "NlmUniqueID": "9214969",
+    "ISSNLinking": "1064-3745"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

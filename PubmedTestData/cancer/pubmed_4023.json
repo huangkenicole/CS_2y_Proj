@@ -1,0 +1,145 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "Carcinoma",
+      "Clinical Decision-Making",
+      "Lymph Nodes",
+      "Squamous Cell"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29295173",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "06",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1879-8365",
+      "JournalIssue": {
+        "Volume": "245",
+        "PubDate": {
+          "Year": "2017"
+        }
+      },
+      "Title": "Studies in health technology and informatics",
+      "ISOAbbreviation": "Stud Health Technol Inform"
+    },
+    "ArticleTitle": "A Bayesian Network Model of Head and Neck Squamous Cell Carcinoma Incorporating Gene Expression Profiles.",
+    "Pagination": {
+      "StartPage": "634",
+      "EndPage": "638",
+      "MedlinePgn": "634-638"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Radiation therapy allows precision targeting of certain groups of lymph nodes and is a treatment for metastatic head and neck squamous cell carcinoma. In current practice, there is approximately 15% probability that physicians inadvertently treat healthy tissue or leave the cancerous lymph nodes untreated. The aim of this work is to improve the accuracy of medical decision-making by extending existing predictive models to capture the probabilities of finding cancerous lymph nodes at each of the six image-based surgical neck level using a patient's genetic profile, primary tumor site and tumor size. Our model was trained with publicly available data extracted from the Cancer Genome Atlas (TCGA) and validated against the TCGA dataset both with and without genetic information. Results show that genetic profile data improves model accuracy. These findings suggest that our predictive model may improve the accuracy of clinical decision-making, especially for patients with more advanced metastasis. However, more data is needed to ensure significance of the proposed effects, as well as to improve accuracy of the overall model."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics and Medical Education, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Shuyang",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology - Head and Neck Surgery, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Law",
+        "ForeName": "Anthony",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics and Medical Education, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Whipple",
+        "ForeName": "Mark E",
+        "Initials": "ME"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Stud Health Technol Inform",
+    "NlmUniqueID": "9214582",
+    "ISSNLinking": "0926-9630"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "therapy"
+      ],
+      "DescriptorName": "Carcinoma, Squamous Cell"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "therapy"
+      ],
+      "DescriptorName": "Head and Neck Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lymph Nodes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lymphatic Metastasis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neck"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

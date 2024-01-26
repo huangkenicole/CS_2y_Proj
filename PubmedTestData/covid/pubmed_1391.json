@@ -1,0 +1,279 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33045727",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa808"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "GESS: a database of global evaluation of SARS-CoV-2/hCoV-19 sequences.",
+    "Pagination": {
+      "StartPage": "D706",
+      "EndPage": "D714",
+      "MedlinePgn": "D706-D714"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 outbreak has become a global emergency since December 2019. Analysis of SARS-CoV-2 sequences can uncover single nucleotide variants (SNVs) and corresponding evolution patterns. The Global Evaluation of SARS-CoV-2/hCoV-19 Sequences (GESS, https://wan-bioinfo.shinyapps.io/GESS/) is a resource to provide comprehensive analysis results based on tens of thousands of high-coverage and high-quality SARS-CoV-2 complete genomes. The database allows user to browse, search and download SNVs at any individual or multiple SARS-CoV-2 genomic positions, or within a chosen genomic region or protein, or in certain country/area of interest. GESS reveals geographical distributions of SNVs around the world and across the states of USA, while exhibiting time-dependent patterns for SNV occurrences which reflect development of SARS-CoV-2 genomes. For each month, the top 100 SNVs that were firstly identified world-widely can be retrieved. GESS also explores SNVs occurring simultaneously with specific SNVs of user's interests. Furthermore, the database can be of great help to calibrate mutation rates and identify conserved genome regions. Taken together, GESS is a powerful resource and tool to monitor SARS-CoV-2 migration and evolution according to featured genomic variations. It provides potential directive information for prevalence prediction, related public health policy making, and vaccine designs."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of BioHealth Informatics, School of Informatics and Computing, Indiana University-Purdue University Indianapolis, Indianapolis, IN, USA."
+          }
+        ],
+        "LastName": "Fang",
+        "ForeName": "Shuyi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of BioHealth Informatics, School of Informatics and Computing, Indiana University-Purdue University Indianapolis, Indianapolis, IN, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Kailing",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Jikui",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Collaborative Core for Cancer Bioinformatics (C3B) shared by Indiana University Simon Comprehensive Cancer Center and Purdue University Center for Cancer Research, Indianapolis, IN, USA."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Sheng",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Indiana University School of Medicine, Indianapolis, IN, USA."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Juli",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, Indiana University School of Medicine, Indianapolis, IN, USA."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Lei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicinal Chemistry and Molecular Pharmacology, Purdue University, West Lafayette, IN, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Purdue University Center for Cancer Research, Purdue University, West Lafayette, IN, USA."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Chang-Deng",
+        "Initials": "CD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of BioHealth Informatics, School of Informatics and Computing, Indiana University-Purdue University Indianapolis, Indianapolis, IN, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical and Molecular Genetics, Indiana University School of Medicine, Indianapolis, IN, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Collaborative Core for Cancer Bioinformatics (C3B) shared by Indiana University Simon Comprehensive Cancer Center and Purdue University Center for Cancer Research, Indianapolis, IN, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, IN 46202, USA."
+          }
+        ],
+        "LastName": "Wan",
+        "ForeName": "Jun",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 CA082709",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Global Health"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation Rate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymorphism, Single Nucleotide"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Population Dynamics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Viral Proteins"
+    }
+  ]
+}

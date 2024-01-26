@@ -1,0 +1,162 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Conditional robustness analysis",
+      "Italy",
+      "ODE model"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35488251",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "04",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "415",
+      "10.1186/s12879-022-07395-2"
+    ],
+    "Journal": {
+      "ISSN": "1471-2334",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Apr",
+          "Day": "29"
+        }
+      },
+      "Title": "BMC infectious diseases",
+      "ISOAbbreviation": "BMC Infect Dis"
+    },
+    "ArticleTitle": "Robustness analysis for quantitative assessment of vaccination effects and SARS-CoV-2 lineages in Italy.",
+    "Pagination": {
+      "StartPage": "415",
+      "MedlinePgn": "415"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In Italy, the beginning of 2021 was characterized by the emergence of new variants of SARS-CoV-2 and by the availability of effective vaccines that contributed to the mitigation of non-pharmaceutical interventions and to the avoidance of hospital collapse.",
+        "We analyzed the COVID-19 propagation in Italy starting from September 2021 with a Susceptible-Exposed-Infected-Recovered (SEIR) model that takes into account SARS-CoV-2 lineages, intervention measures and efficacious vaccines. The model was calibrated with the Bayesian method Conditional Robust Calibration (CRC) using COVID-19 data from September 2020 to May 2021. Here, we apply the Conditional Robustness Analysis (CRA) algorithm to the calibrated model in order to identify model parameters that most affect the epidemic diffusion in the long-term scenario. We focus our attention on vaccination and intervention parameters, which are the key parameters for long-term solutions for epidemic control.",
+        "Our model successfully describes the presence of new variants and the impact of vaccinations and non-pharmaceutical interventions in the Italian scenario. The CRA analysis reveals that vaccine efficacy and waning immunity play a crucial role for pandemic control, together with asymptomatic transmission. Moreover, even though the presence of variants may impair vaccine effectiveness, virus transmission can be kept low with a constant vaccination rate and low restriction levels.",
+        "In the long term, a policy of booster vaccinations together with contact tracing and testing will be key strategies for the containment of SARS-CoV-2 spread."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ICT4Life srl, Perugia, Italy. chiara.antonini@i4l.company."
+          }
+        ],
+        "LastName": "Antonini",
+        "ForeName": "Chiara",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ICT4Life srl, Perugia, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Engineering, University of Perugia, Perugia, Italy."
+          }
+        ],
+        "LastName": "Calandrini",
+        "ForeName": "Sara",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "COVID-19 Epidemiological Unit, Regional Government of Umbria, Perugia, Italy."
+          }
+        ],
+        "LastName": "Bianconi",
+        "ForeName": "Fortunato",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Infect Dis",
+    "NlmUniqueID": "100968551",
+    "ISSNLinking": "1471-2334"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccination"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viral Vaccines"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

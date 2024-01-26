@@ -1,0 +1,147 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33795722",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "7380",
+      "10.1038/s41598-021-86265-4"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr",
+          "Day": "01"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Analysis of SARS-CoV-2 genomic epidemiology reveals disease transmission coupled to variant emergence and allelic variation.",
+    "Pagination": {
+      "StartPage": "7380",
+      "MedlinePgn": "7380"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The spread of SARS-CoV-2 created a pandemic crisis with\u2009>\u2009150,000 cumulative cases in\u2009>\u200965 countries within a few months. The reproductive number (R) is a metric to estimate the transmission of a pathogen during an outbreak. Preliminary published estimates were based on the initial outbreak in China. Whole genome sequences (WGS) analysis found mutational variations in the viral genome; however, previous comparisons failed to show a direct relationship between viral genome diversity, transmission, and the epidemic severity. COVID-19 incidences from different countries were modeled over the epidemic curve. Estimates of the instantaneous R (Wallinga and Teunis method) with a short and standard serial interval were done. WGS were used to determine the populations genomic variation and that\u00a0underpinned creation of the pathogen genome identity (GENI) score, which was merged with the outbreak curve in four distinct phases. Inference of transmission time was based on a mutation rate of 2 mutations/month. R estimates revealed differences in the transmission and\u00a0variable infection dynamics between and within outbreak progression for each country examined. Outside China, our R estimates observed propagating dynamics indicating that other countries were poised to move to the takeoff and exponential stages. Population density and local temperatures had no clear relationship to the outbreak progression. Integration of incidence data with the GENI score directly predicted increases in cases as the genome variation increased\u00a0that led to new variants. Integrating the outbreak curve, dynamic R, and SNP variation found a direct association between increasing cases and\u00a0transmission genome evolution. By defining the epidemic curve into four stages and integrating the instantaneous country-specific R with the GENI score, we directly connected changes in individual outbreaks based on changes in the virus genome via SNPs. This resulted in the ability to forecast potential increases in cases as well as mutations that may defeat PCR screening and the infection process. By using instantaneous R estimations and WGS, outbreak dynamics were defined to be linked to viral mutations, indicating that WGS, as a surveillance tool, is required to predict shifts in each outbreak that will provide actionable decision making information. Integrating epidemiology with genome sequencing and modeling allows for evidence-based disease outbreak tracking with predictive therapeutically valuable insights in near real time."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Veterinary Medicine, Population Health and Reproduction, 100K Pathogen Genome Project, University of California Davis, Davis, CA, 95616, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Veterinary Paraclinical Sciences, College of Veterinary Medicine, University of the Philippines Los Ba\u00f1os, 4031, Los Ba\u00f1os, Laguna, Philippines."
+          }
+        ],
+        "LastName": "Bandoy",
+        "ForeName": "D J Darwin R",
+        "Initials": "DJDR"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7471-1978"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Veterinary Medicine, Population Health and Reproduction, 100K Pathogen Genome Project, University of California Davis, Davis, CA, 95616, USA. bcweimer@ucdavis.edu."
+          }
+        ],
+        "LastName": "Weimer",
+        "ForeName": "Bart C",
+        "Initials": "BC"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Alleles"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "pathology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Whole Genome Sequencing"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

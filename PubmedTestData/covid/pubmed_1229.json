@@ -1,0 +1,467 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Clade",
+      "D614G",
+      "SARS-CoV-2",
+      "Severity",
+      "Transmission"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33840632",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "103319",
+      "10.1016/j.ebiom.2021.103319",
+      "S2352-3964(21)00112-2"
+    ],
+    "Journal": {
+      "ISSN": "2352-3964",
+      "JournalIssue": {
+        "Volume": "66",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "EBioMedicine",
+      "ISOAbbreviation": "EBioMedicine"
+    },
+    "ArticleTitle": "Association of SARS-CoV-2 clades with clinical, inflammatory and virologic outcomes: An observational study.",
+    "Pagination": {
+      "StartPage": "103319",
+      "MedlinePgn": "103319"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Host determinants of severe coronavirus disease 2019 include advanced age, comorbidities and male sex. Virologic factors may also be important in determining clinical outcome and transmission rates, but limited patient-level data is available.",
+        "We conducted an observational cohort study at seven public hospitals in Singapore. Clinical and laboratory data were collected and compared between individuals infected with different SARS-CoV-2 clades. Firth's logistic regression was used to examine the association between SARS-CoV-2 clade and development of hypoxia, and quasi-Poisson regression to compare transmission rates. Plasma samples were tested for immune mediator levels and the kinetics of viral replication in cell culture were compared.",
+        "319 patients with PCR-confirmed SARS-CoV-2 infection had clinical and virologic data available for analysis. 29 (9%) were infected with clade S, 90 (28%) with clade L/V, 96 (30%) with clade G (containing D614G variant), and 104 (33%) with other clades 'O' were assigned to lineage B.6. After adjusting for age and other covariates, infections with clade S (adjusted odds ratio (aOR) 0\u00b7030 (95% confidence intervals (CI): 0\u00b70002-0\u00b729)) or clade O (B\u00b76) (aOR 0\u00b726 (95% CI 0\u00b7064-0\u00b793)) were associated with lower odds of developing hypoxia requiring supplemental oxygen compared with clade L/V. Patients infected with clade L/V had more pronounced systemic inflammation with higher concentrations of pro-inflammatory cytokines, chemokines and growth factors. No significant difference in the severity of clade G infections was observed (aOR 0\u00b795 (95% CI: 0\u00b735-2\u00b752). Though viral loads were significantly higher, there was no evidence of increased transmissibility of clade G, and replicative fitness in cell culture was similar for all clades.",
+        "Infection with clades L/V was associated with increased severity and more systemic release of pro-inflammatory cytokines. Infection with clade G was not associated with changes in severity, and despite higher viral loads there was no evidence of increased transmissibility."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Authors. Published by Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Centre for Infectious Diseases, Singapore; Deaprtment of Infectious Diseases, Tan Tock Seng Hospital, Singapore; Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore."
+          }
+        ],
+        "LastName": "Young",
+        "ForeName": "Barnaby E",
+        "Initials": "BE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Public Health and Epidemiology Unit, National Centre for Infectious Diseases, Singapore; Singapore Ministry of Health, Singapore."
+          }
+        ],
+        "LastName": "Wei",
+        "ForeName": "Wycliffe E",
+        "Initials": "WE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "A*STAR ID Labs, Agency for Science, Technology and Research (A*STAR), Singapore; Singapore Immunology Network, A*STAR, Singapore; Department of Biological Science, National University of Singapore, Singapore."
+          }
+        ],
+        "LastName": "Fong",
+        "ForeName": "Siew-Wai",
+        "Initials": "SW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Centre for Infectious Diseases, Singapore."
+          }
+        ],
+        "LastName": "Mak",
+        "ForeName": "Tze-Minn",
+        "Initials": "TM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke NUS Medical School, Singapore."
+          }
+        ],
+        "LastName": "Anderson",
+        "ForeName": "Danielle E",
+        "Initials": "DE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Singapore Immunology Network, A*STAR, Singapore; Singapore Immunology Network, A*STAR, Singapore."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Yi-Hao",
+        "Initials": "YH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Singapore Ministry of Health, Singapore; London School of Hygiene and Tropical Medicine, London, UK."
+          }
+        ],
+        "LastName": "Pung",
+        "ForeName": "Rachael",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Singapore Ministry of Health, Singapore."
+          }
+        ],
+        "LastName": "Heng",
+        "ForeName": "Cheryl Sy",
+        "Initials": "CS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Public Health and Epidemiology Unit, National Centre for Infectious Diseases, Singapore."
+          }
+        ],
+        "LastName": "Ang",
+        "ForeName": "Li Wei",
+        "Initials": "LW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke NUS Medical School, Singapore."
+          }
+        ],
+        "LastName": "Zheng",
+        "ForeName": "Adrian Kang Eng",
+        "Initials": "AKE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Singapore Immunology Network, A*STAR, Singapore."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Bernett",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke NUS Medical School, Singapore; Singapore General Hospital of Singapore, Singapore."
+          }
+        ],
+        "LastName": "Kalimuddin",
+        "ForeName": "Shirin",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ng Teng Fong General Hospital, Singapore."
+          }
+        ],
+        "LastName": "Pada",
+        "ForeName": "Surinder",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National University Health System, Singapore; Yong Loo Lin School of Medicine, National University of Singapore, Singapore."
+          }
+        ],
+        "LastName": "Tambyah",
+        "ForeName": "Paul A",
+        "Initials": "PA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Khoo Teck Puat Hospital, Singapore."
+          }
+        ],
+        "LastName": "Parthasarathy",
+        "ForeName": "Purnima",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Changi General Hospital, Singapore."
+          }
+        ],
+        "LastName": "Tan",
+        "ForeName": "Seow Yen",
+        "Initials": "SY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Alexandra Hospital, Singapore."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Louisa",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke NUS Medical School, Singapore."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Gavin Jd",
+        "Initials": "GJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Centre for Infectious Diseases, Singapore."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Raymond Tzer Pin",
+        "Initials": "RTP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Centre for Infectious Diseases, Singapore; Deaprtment of Infectious Diseases, Tan Tock Seng Hospital, Singapore; Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore; Yong Loo Lin School of Medicine, National University of Singapore, Singapore; Saw Swee Hock School of Public Health, National University of Singapore, Singapore."
+          }
+        ],
+        "LastName": "Leo",
+        "ForeName": "Yee-Sin",
+        "Initials": "YS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Singapore Immunology Network, A*STAR, Singapore; Singapore Immunology Network, A*STAR, Singapore."
+          }
+        ],
+        "LastName": "Renia",
+        "ForeName": "Laurent",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke NUS Medical School, Singapore."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Lin-Fa",
+        "Initials": "LF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Singapore Immunology Network, A*STAR, Singapore; Singapore Immunology Network, A*STAR, Singapore."
+          }
+        ],
+        "LastName": "Ng",
+        "ForeName": "Lisa Fp",
+        "Initials": "LF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Institute, Agency for Science, Technology and Research, Singapore. Electronic address: sebastianms@bii.a-star.edu.sg."
+          }
+        ],
+        "LastName": "Maurer-Stroh",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Centre for Infectious Diseases, Singapore; Deaprtment of Infectious Diseases, Tan Tock Seng Hospital, Singapore; Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore; Yong Loo Lin School of Medicine, National University of Singapore, Singapore."
+          }
+        ],
+        "LastName": "Lye",
+        "ForeName": "David Chien",
+        "Initials": "DC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Singapore Ministry of Health, Singapore; Saw Swee Hock School of Public Health, National University of Singapore, Singapore. Electronic address: Vernon_LEE@moh.gov.sg."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Vernon J",
+        "Initials": "VJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "EBioMedicine",
+    "NlmUniqueID": "101647039",
+    "ISSNLinking": "2352-3964"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology",
+        "immunology",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Comorbidity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "therapy",
+        "virology"
+      ],
+      "DescriptorName": "Hypoxia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Singapore"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viral Load"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest BY has received honoraria from Sanofi and Roche, outside the submitted work. All other authors no conflicts of interest declared."
+}

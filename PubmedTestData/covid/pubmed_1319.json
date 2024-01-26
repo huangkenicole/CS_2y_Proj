@@ -1,0 +1,307 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "CRISPR-Cas system",
+      "SARS-CoV-2",
+      "emerging SARS-CoV-2 variant",
+      "variant screening"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34787487",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "11",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e01017-21",
+      "10.1128/Spectrum.01017-21"
+    ],
+    "Journal": {
+      "ISSN": "2165-0497",
+      "JournalIssue": {
+        "Volume": "9",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "22"
+        }
+      },
+      "Title": "Microbiology spectrum",
+      "ISOAbbreviation": "Microbiol Spectr"
+    },
+    "ArticleTitle": "CRISPR-Cas12a-Based Detection for the Major SARS-CoV-2 Variants of Concern.",
+    "Pagination": {
+      "StartPage": "e0101721",
+      "MedlinePgn": "e0101721"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A big challenge for the control of COVID-19 pandemic is the emergence of variants of concern (VOCs) or variants of interest (VOIs) of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which may be more transmissible and/or more virulent and could escape immunity obtained through infection or vaccination. A simple and rapid test for SARS-CoV-2 variants is an unmet need and is of great public health importance. In this study, we designed and analytically validated a CRISPR-Cas12a system for direct detection of SARS-CoV-2 VOCs. We further evaluated the combination of ordinary reverse transcription-PCR (RT-PCR) and CRISPR-Cas12a to improve the detection sensitivity and developed a universal system by introducing a protospacer adjacent motif (PAM) near the target mutation sites through PCR primer design to detect mutations without PAM. Our results indicated that the CRISPR-Cas12a assay could readily detect the signature spike protein mutations (K417N/T, L452R/Q, T478K, E484K/Q, N501Y, and D614G) to distinguish alpha, beta, gamma, delta, kappa, lambda, and epsilon variants of SARS-CoV-2. In addition, the open reading frame 8 (ORF8) mutations (T/C substitution at nt28144 and the corresponding change of amino acid L/S) could differentiate L and S lineages of SARS-CoV-2. The low limit of detection could reach 10 copies/reaction. Our assay successfully distinguished 4 SARS-CoV-2 strains of wild type and alpha (B.1.1.7), beta (B.1.351), and delta (B.1.617.2) variants. By testing 32 SARS-CoV-2-positive clinical samples infected with the wild type (<i>n</i>\u2009=\u20095) and alpha (<i>n</i>\u2009=\u200911), beta (<i>n</i>\u2009=\u20098), and delta variants (<i>n</i>\u2009=\u20098), the concordance between our assay and sequencing was 100%. The CRISPR-based approach is rapid and robust and can be adapted for screening the emerging mutations and immediately implemented in laboratories already performing nucleic acid amplification tests or in resource-limited settings. <b>IMPORTANCE</b> We described CRISPR-Cas12-based multiplex allele-specific assay for rapid SARS-CoV-2 variant genotyping. The new system has the potential to be quickly developed, continuously updated, and easily implemented for screening of SARS-CoV-2 variants in resource-limited settings. This approach can be adapted for emerging mutations and implemented in laboratories already conducting SARS-CoV-2 nucleic acid amplification tests using existing resources and extracted nucleic acid."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, School of Public Health, Southern Medical Universitygrid.284723.8, Guangzhou, China."
+          }
+        ],
+        "LastName": "Liang",
+        "ForeName": "Yuanhao",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, School of Public Health, Southern Medical Universitygrid.284723.8, Guangzhou, China."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Hongqing",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Institute of Public Health, Guangdong Center for Diseases Control and Prevention, Guangzhou, China."
+          }
+        ],
+        "LastName": "Zou",
+        "ForeName": "Lirong",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, School of Public Health, Southern Medical Universitygrid.284723.8, Guangzhou, China."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Jianhui",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1842-316X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Institute of Public Health, Guangdong Center for Diseases Control and Prevention, Guangzhou, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Baisheng",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, School of Public Health, Southern Medical Universitygrid.284723.8, Guangzhou, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Haiying",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Institute of Public Health, Guangdong Center for Diseases Control and Prevention, Guangzhou, China."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Jing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Institute of Public Health, Guangdong Center for Diseases Control and Prevention, Guangzhou, China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Jiufeng",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, School of Public Health, Southern Medical Universitygrid.284723.8, Guangzhou, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Xingfen",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Institute of Public Health, Guangdong Center for Diseases Control and Prevention, Guangzhou, China."
+          }
+        ],
+        "LastName": "Deng",
+        "ForeName": "Xiaoling",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9637-1874"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, School of Public Health, Southern Medical Universitygrid.284723.8, Guangzhou, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Nanfang Hospital, Southern Medical Universitygrid.284723.8, Guangzhou, China."
+          }
+        ],
+        "LastName": "Tang",
+        "ForeName": "Shixing",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2018ZX10732-401-003-003",
+        "Agency": "MOST | National Major Science and Technology Projects of China (National Major Science and Technology Project of China)",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Microbiol Spectr",
+    "NlmUniqueID": "101634614",
+    "ISSNLinking": "2165-0497"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Alleles"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CRISPR-Cas Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Nucleic Acid"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mass Screening"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Public Health"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ],
+  "CoiStatement": "We declare no conflicts of interests."
+}

@@ -1,0 +1,126 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33399100",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1049/iet-syb.2020.0055"
+    ],
+    "Journal": {
+      "ISSN": "1751-8857",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "IET systems biology",
+      "ISOAbbreviation": "IET Syst Biol"
+    },
+    "ArticleTitle": "Optimal minimum variance-entropy control of tumour growth processes based on the Fokker-Planck equation.",
+    "Pagination": {
+      "StartPage": "368",
+      "EndPage": "379",
+      "MedlinePgn": "368-379"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The authors demonstrated an optimal stochastic control algorithm to obtain desirable cancer treatment based on the Gompertz model. Two external forces as two time-dependent functions are presented to manipulate the growth and death rates in the drift term of the Gompertz model. These input signals represent the effect of external treatment agents to decrease tumour growth rate and increase tumour death rate, respectively. Entropy and variance of cancerous cells are simultaneously controlled based on the Gompertz model. They have introduced a constrained optimisation problem whose cost function is the variance of a cancerous cells population. The defined entropy is based on the probability density function of affected cells was used as a constraint for the cost function. Analysing growth and death rates of cancerous cells, it is found that the logarithmic control signal reduces the growth rate, while the hyperbolic tangent-like control function increases the death rate of tumour growth. The two optimal control signals were calculated by converting the constrained optimisation problem into an unconstrained optimisation problem and by using the real-coded genetic algorithm. Mathematical justifications are implemented to elucidate the existence and uniqueness of the solution for the optimal control problem."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Electrical Engineering, Shahid Beheshti University, Tehran, Iran. Malihesargolzaei@gmail.com."
+          }
+        ],
+        "LastName": "Sargolzaei",
+        "ForeName": "Maliheh",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Electrical Engineering, Shahid Beheshti University, Tehran, Iran."
+          }
+        ],
+        "LastName": "Latif-Shabgahi",
+        "ForeName": "Gholamreza",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, Materials Simulation Laboratory, Iran University of Science and Technology, Narmak, 16345 Tehran, Iran."
+          }
+        ],
+        "LastName": "Afshar",
+        "ForeName": "Mahdi",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "IET Syst Biol",
+    "NlmUniqueID": "101301198",
+    "ISSNLinking": "1751-8849"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Analysis of Variance"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Proliferation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Entropy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

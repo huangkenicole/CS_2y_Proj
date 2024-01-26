@@ -1,0 +1,399 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33298935",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "6272",
+      "10.1038/s41467-020-20075-6"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec",
+          "Day": "09"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Analytical validity of nanopore sequencing for rapid SARS-CoV-2 genome analysis.",
+    "Pagination": {
+      "StartPage": "6272",
+      "MedlinePgn": "6272"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Viral whole-genome sequencing (WGS) provides critical insight into the transmission and evolution of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). Long-read sequencing devices from Oxford Nanopore Technologies (ONT) promise significant improvements in turnaround time, portability and cost, compared to established short-read sequencing platforms for viral WGS (e.g., Illumina). However, adoption of ONT sequencing for SARS-CoV-2 surveillance has been limited due to common concerns around sequencing accuracy. To address this, here we perform viral WGS with ONT and Illumina platforms on 157 matched SARS-CoV-2-positive patient specimens and synthetic RNA controls, enabling rigorous evaluation of analytical performance. We report that, despite the elevated error rates observed in ONT sequencing reads, highly accurate consensus-level sequence determination was achieved, with single nucleotide variants (SNVs) detected at >99% sensitivity and >99% precision above a minimum ~60-fold coverage depth, thereby ensuring suitability for SARS-CoV-2 genome analysis. ONT sequencing also identified a surprising diversity of structural variation within SARS-CoV-2 specimens that were supported by evidence from short-read sequencing on matched samples. However, ONT sequencing failed to accurately detect short indels and variants at low read-count frequencies. This systematic evaluation of analytical performance for SARS-CoV-2 WGS will facilitate widespread adoption of ONT sequencing within local, national and international COVID-19 public health initiatives."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Kirby Institute for Infection and Immunity, University of New South Wales, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medical Sciences, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Bull",
+        "ForeName": "Rowena A",
+        "Initials": "RA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Kirby Institute for Infection and Immunity, University of New South Wales, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medical Sciences, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Adikari",
+        "ForeName": "Thiruni N",
+        "Initials": "TN"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6192-6937"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kinghorn Centre for Clinical Genomics, Garvan Institute of Medical Research, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Ferguson",
+        "ForeName": "James M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4045-4571"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kinghorn Centre for Clinical Genomics, Garvan Institute of Medical Research, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Hammond",
+        "ForeName": "Jillian M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7713-1979"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kinghorn Centre for Clinical Genomics, Garvan Institute of Medical Research, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Stevanovski",
+        "ForeName": "Igor",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NSW Health Pathology, Department of Infectious Diseases and Microbiology, Royal Prince Alfred Hospital, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Beukers",
+        "ForeName": "Alicia G",
+        "Initials": "AG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medical Sciences, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Virology Research Laboratory, Serology and Virology Division (SAViD), NSW Health Pathology, Prince of Wales Hospital, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Naing",
+        "ForeName": "Zin",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medical Sciences, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Virology Research Laboratory, Serology and Virology Division (SAViD), NSW Health Pathology, Prince of Wales Hospital, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Yeang",
+        "ForeName": "Malinna",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Kirby Institute for Infection and Immunity, University of New South Wales, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Verich",
+        "ForeName": "Andrey",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9034-9905"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kinghorn Centre for Clinical Genomics, Garvan Institute of Medical Research, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Engineering, University of New South Wales, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Gamaarachchi",
+        "ForeName": "Hasindu",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virology Research Laboratory, Serology and Virology Division (SAViD), NSW Health Pathology, Prince of Wales Hospital, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Women's and Children's Health, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Ki Wook",
+        "Initials": "KW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Kirby Institute for Infection and Immunity, University of New South Wales, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medical Sciences, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Luciani",
+        "ForeName": "Fabio",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medical Sciences, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Virology Research Laboratory, Serology and Virology Division (SAViD), NSW Health Pathology, Prince of Wales Hospital, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Stelzer-Braid",
+        "ForeName": "Sacha",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1374-3551"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Marie Bashir Institute for Infectious Diseases and Biosecurity & Sydney Medical School, The University of Sydney, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Virus Research, Westmead Institute for Medical Research, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Eden",
+        "ForeName": "John-Sebastian",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medical Sciences, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Virology Research Laboratory, Serology and Virology Division (SAViD), NSW Health Pathology, Prince of Wales Hospital, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Women's and Children's Health, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biotechnology and Biomolecular Sciences, Faculty of Science, University of New South Wales, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Rawlinson",
+        "ForeName": "William D",
+        "Initials": "WD"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5852-4155"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NSW Health Pathology, Department of Infectious Diseases and Microbiology, Royal Prince Alfred Hospital, Sydney, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Central Clinical School, University of Sydney, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "van Hal",
+        "ForeName": "Sebastiaan J",
+        "Initials": "SJ"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3861-0472"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kinghorn Centre for Clinical Genomics, Garvan Institute of Medical Research, Sydney, NSW, Australia. i.deveson@garvan.org.au."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "St Vincent's Clinical School, Faculty of Medicine, University of New South Wales, Sydney, NSW, Australia. i.deveson@garvan.org.au."
+          }
+        ],
+        "LastName": "Deveson",
+        "ForeName": "Ira W",
+        "Initials": "IW"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Nanopore Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Whole Genome Sequencing"
+    }
+  ],
+  "CoiStatement": "H.G. and J.M.F. have previously received travel and accommodation expenses to attend ONT conferences. The authors declare no other competing interests."
+}

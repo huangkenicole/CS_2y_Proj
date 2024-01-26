@@ -1,0 +1,250 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Classification",
+      "Psychiatric control",
+      "Statistical learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33647705",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.psychres.2021.113805",
+      "S0165-1781(21)00102-5"
+    ],
+    "Journal": {
+      "ISSN": "1872-7123",
+      "JournalIssue": {
+        "Volume": "298",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Psychiatry research",
+      "ISOAbbreviation": "Psychiatry Res"
+    },
+    "ArticleTitle": "Multifactorial prediction of depression diagnosis and symptom dimensions.",
+    "Pagination": {
+      "StartPage": "113805",
+      "MedlinePgn": "113805"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "While depression is a leading cause of disability, prior investigations of depression have been limited by studying correlates in isolation. A data-driven approach was applied to identify out-of-sample predictors of current depression from adults (N\u00a0=\u00a0217) sampled on a continuum of no depression to clinical levels. The current study used elastic net regularized regression and predictors from sociodemographic, self-report, polygenic scores, resting electroencephalography, pupillometry, actigraphy, and cognitive tasks to classify individuals into currently depressed (MDE), psychiatric control (PC), and no current psychopathology (NP) groups, as well as predicting symptom severity and lifetime MDE. Cross-validated models explained 20.6% of the out-of-fold deviance for the classification of MDEs versus PC, 33.2% of the deviance for MDE versus NP, but -0.6% of the deviance between PC and NP. Additionally, predictors accounted for 25.7% of the out-of-fold variance in anhedonia severity, 65.7% of the variance in depression severity, and 12.9% of the deviance in lifetime depression (yes/no). Self-referent processing, anhedonia, and psychosocial functioning emerged as important differentiators of MDE and PC groups. Findings highlight the advantages of using psychiatric control groups to isolate factors specific to depression."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021. Published by Elsevier B.V."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology and Institute for Mental Health Research, University of Texas at Austin, Austin, Texas, USA. Electronic address: molly.mcnamara@utexas.edu."
+          }
+        ],
+        "LastName": "McNamara",
+        "ForeName": "Mary E",
+        "Initials": "ME"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology and Institute for Mental Health Research, University of Texas at Austin, Austin, Texas, USA."
+          }
+        ],
+        "LastName": "Shumake",
+        "ForeName": "Jason",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology and Institute for Mental Health Research, University of Texas at Austin, Austin, Texas, USA."
+          }
+        ],
+        "LastName": "Stewart",
+        "ForeName": "Rochelle A",
+        "Initials": "RA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology and Institute for Mental Health Research, University of Texas at Austin, Austin, Texas, USA."
+          }
+        ],
+        "LastName": "Labrada",
+        "ForeName": "Jocelyn",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology and Institute for Mental Health Research, University of Texas at Austin, Austin, Texas, USA."
+          }
+        ],
+        "LastName": "Alario",
+        "ForeName": "Alexandra",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Arizona, Tucson, Arizona, USA."
+          }
+        ],
+        "LastName": "Allen",
+        "ForeName": "John J B",
+        "Initials": "JJB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, Emory University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Palmer",
+        "ForeName": "Rohan",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology and Institute for Mental Health Research, University of Texas at Austin, Austin, Texas, USA."
+          }
+        ],
+        "LastName": "Schnyer",
+        "ForeName": "David M",
+        "Initials": "DM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Veterans Affairs, Providence RI and Department of Psychiatry and Human Behavior, Brown University School of Medicine, Providence, Rhode Island, USA."
+          }
+        ],
+        "LastName": "McGeary",
+        "ForeName": "John E",
+        "Initials": "JE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology and Institute for Mental Health Research, University of Texas at Austin, Austin, Texas, USA."
+          }
+        ],
+        "LastName": "Beevers",
+        "ForeName": "Christopher G",
+        "Initials": "CG"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 DA042742",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 MH110758",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R33 MH109600",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R56 MH108650",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Psychiatry Res",
+    "NlmUniqueID": "7911385",
+    "ISSNLinking": "0165-1781"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Anhedonia"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None of the authors declare any conflicts of interest."
+}

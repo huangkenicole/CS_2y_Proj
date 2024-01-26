@@ -1,0 +1,160 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33110097",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "26"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "10",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "18352",
+      "10.1038/s41598-020-75012-w"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Oct",
+          "Day": "27"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Comprehensive analysis of the expression of SLC30A family genes and prognosis in human gastric cancer.",
+    "Pagination": {
+      "StartPage": "18352",
+      "MedlinePgn": "18352"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The solute carrier 30 (SLC30) family genes play a fundamental role in various cancers. However, the diverse expression patterns, prognostic value, and potential mechanism of SLC30A family genes in gastric cancer (GC) remain unknown. Herein, we analyzed the expression and survival data of SLC30A family genes in GC patients using multiple bioinformatic approaches. Expression data of SLC30A family genes for GC patients were extracted from the Cancer Genome Atlas (TCGA) and genetic alteration frequency assessed by using cBioportal database. And validated the expression of SLC30A family genes in GC tissues and corresponding normal tissues. The prognostic value of SLC30A family genes in gastric cancer patients were explored using Kaplan-Meier plotter database. Functional enrichment analysis performed using DAVID database and clusterProfiler package. And ssGSEA algorithm was performed to explore the relationship between the SLC30A family genes and the infiltration of immune cells. We found that the median expression levels of SLC30A1-3, 5-7, and 9 were significantly upregulated in gastric cancer tissues compared to non-cancerous tissues, while SLC30A4 was downregulated. Meanwhile, SLC30A1-7, and 9 were significantly correlated with advanced tumor stage and nodal metastasis status, SLC30A5-7, and 9-10 were significantly related to the Helicobacter pylori infection status of GC patients. High expression of five genes (SLC30A1, 5-7, and 9) was significantly correlated with better overall survival (OS), first progression survival (FPS), and post progression survival (PPS). Conversely, upregulated SLC30A2-4, 8, and 10 expression was markedly associated with poor OS, FP and PPS. And SLC30A family genes were closely associated with the infiltration of immune cells. The present study implied that SLC30A5 and 7 may be potential biomarkers for predicting prognosis in GC patients, SLC30A2 and 3 play an oncogenic role in GC patients and could provide a new strategy for GC patients treatment."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Institute, Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, China."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Yongdong",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Institute, Fourth Hospital of Hebei Medical University, Shijiazhuang, 050011, China. 15733291685@163.com."
+          }
+        ],
+        "LastName": "He",
+        "ForeName": "Yutong",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cation Transport Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Cation Transport Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Kaplan-Meier Estimate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "metabolism",
+        "mortality"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

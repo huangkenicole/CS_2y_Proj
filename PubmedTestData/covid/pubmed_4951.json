@@ -1,0 +1,163 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34267238",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "14521",
+      "10.1038/s41598-021-93533-w"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "15"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Bayesian analysis of home advantage in North American professional sports before and during COVID-19.",
+    "Pagination": {
+      "StartPage": "14521",
+      "MedlinePgn": "14521"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Home advantage in professional sports is a widely accepted phenomenon despite the lack of any controlled experiments at the professional level. The return to play of professional sports during the COVID-19 pandemic presents a unique opportunity to analyze the hypothesized effect of home advantage in neutral settings. While recent work has examined the effect of COVID-19 restrictions on home advantage in European football, comparatively few studies have examined the effect of restrictions in the North American professional sports leagues. In this work, we infer the effect of and changes in home advantage prior to and during COVID-19 in the professional North American leagues for hockey, basketball, baseball, and American football. We propose a Bayesian multi-level regression model that infers the effect of home advantage while accounting for relative team strengths. We also demonstrate that the Negative Binomial distribution is the most appropriate likelihood to use in modelling North American sports leagues as they are prone to overdispersion in their points scored. Our model gives strong evidence that home advantage was negatively impacted in the NHL and NBA during their strongly restricted COVID-19 playoffs, while the MLB and NFL showed little to no change during their weakly restricted COVID-19 seasons."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computer Science, University of Saskatchewan, Saskatoon, S7N 5A2, Canada."
+          }
+        ],
+        "LastName": "Higgs",
+        "ForeName": "Nico",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computer Science, University of Saskatchewan, Saskatoon, S7N 5A2, Canada. ian.stavness@usask.ca."
+          }
+        ],
+        "LastName": "Stavness",
+        "ForeName": "Ian",
+        "Initials": "I"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "RGPIN-2019-07017",
+        "Agency": "Natural Sciences and Engineering Research Council of Canada",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "psychology"
+      ],
+      "DescriptorName": "Athletes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "North America"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "psychology"
+      ],
+      "DescriptorName": "Prejudice"
+    },
+    {
+      "QualifierName": [
+        "psychology",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Return to Sport"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "psychology"
+      ],
+      "DescriptorName": "Sports"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Team Sports"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

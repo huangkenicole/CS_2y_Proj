@@ -1,0 +1,140 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "21356137",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "03",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2011",
+        "Month": "02",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1186/1471-2458-11-S1-S8"
+    ],
+    "Journal": {
+      "ISSN": "1471-2458",
+      "JournalIssue": {
+        "Volume": "11 Suppl 1",
+        "Issue": "Suppl 1",
+        "PubDate": {
+          "Year": "2011",
+          "Month": "Feb",
+          "Day": "25"
+        }
+      },
+      "Title": "BMC public health",
+      "ISOAbbreviation": "BMC Public Health"
+    },
+    "ArticleTitle": "Effects of vaccination and population structure on influenza epidemic spread in the presence of two circulating strains.",
+    "Pagination": {
+      "StartPage": "S8",
+      "MedlinePgn": "S8"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Human influenza is characterized by seasonal epidemics, caused by rapid viral adaptation to population immunity. Vaccination against influenza must be updated annually, following surveillance of newly appearing viral strains. During an influenza season, several strains may be co-circulating, which will influence their individual evolution; furthermore, selective forces acting on the strains will be mediated by the transmission dynamics in the population. Clearly, viral evolution and public health policy are strongly interconnected. Understanding population-level dynamics of coexisting viral influenza infections, would be of great benefit in designing vaccination strategies.",
+        "We use a Markov network to extend a previous homogeneous model of two co-circulating influenza viral strains by including vaccination (either prior to or during an outbreak), age structure, and heterogeneity of the contact network. We explore the effects of changes in vaccination rate, cross-immunity, and delay in appearance of the second strain, on the size and timing of infection peaks, attack rates, and disease-induced mortality rate; and compare the outcomes of the network and corresponding homogeneous models.",
+        "Pre-vaccination is more effective than vaccination during an outbreak, resulting in lower attack rates for the first strain but higher attack rates for the second strain, until a \"threshold\" vaccination level of ~30-40% is reached, after which attack rates due to both strains sharply dropped. A small increase in mortality was found for increasing pre-vaccination coverage below about 40%, due to increasing numbers of strain 2 infections. The amount of cross-immunity present determines whether a second wave of infection will occur. Some significant differences were found between the homogeneous and network models, including timing and height of peak infection(s).",
+        "Contact and age structure significantly influence the propagation of disease in the population. The present model explores only qualitative behaviour, based on parameters derived for homogeneous influenza models, but may be used for realistic populations through statistical estimates of inter-age contact patterns. This could have significant implications for vaccination strategies in realistic models of populations in which more than one strain is circulating."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Research Council Canada, Institute for Biodiagnostics; 435 Ellice Avenue, Winnipeg, MB, R3B 1Y6, Canada. Murray.Alexander@nrc-cnrc.gc.ca"
+          }
+        ],
+        "LastName": "Alexander",
+        "ForeName": "Murray E",
+        "Initials": "ME"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kobes",
+        "ForeName": "Randy",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Public Health",
+    "NlmUniqueID": "100968562",
+    "ISSNLinking": "1471-2458"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Influenza Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "administration & dosage",
+        "immunology"
+      ],
+      "DescriptorName": "Influenza Vaccines"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "Influenza, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Markov Chains"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Orthomyxoviridae"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Population Dynamics"
+    }
+  ]
+}

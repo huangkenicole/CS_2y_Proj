@@ -1,0 +1,197 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Artificial Intelligence",
+      "Cancer diagnostics",
+      "Deep learning",
+      "Machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33513392",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.bbcan.2021.188515",
+      "S0304-419X(21)00014-7"
+    ],
+    "Journal": {
+      "ISSN": "1879-2561",
+      "JournalIssue": {
+        "Volume": "1875",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Biochimica et biophysica acta. Reviews on cancer",
+      "ISOAbbreviation": "Biochim Biophys Acta Rev Cancer"
+    },
+    "ArticleTitle": "How to evaluate deep learning for cancer diagnostics - factors and recommendations.",
+    "Pagination": {
+      "StartPage": "188515",
+      "MedlinePgn": "188515"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The large volume of data used in cancer diagnosis presents a unique opportunity for deep learning algorithms, which improve in predictive performance with increasing data. When applying deep learning to cancer diagnosis, the goal is often to learn how to classify an input sample (such as images or biomarkers) into predefined categories (such as benign or cancerous). In this article, we examine examples of how deep learning algorithms have been implemented to make predictions related to cancer diagnosis using clinical, radiological, and pathological image data. We present a systematic approach for evaluating the development and application of clinical deep learning algorithms. Based on these examples and the current state of deep learning in medicine, we discuss the future possibilities in this space and outline a roadmap for implementations of deep learning in cancer diagnosis."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Dermatology, Stanford University School of Medicine, Redwood City, CA, USA; Department of Biomedical Data Science, Stanford University, Stanford, CA, USA. Electronic address: roxanad@stanford.edu."
+          }
+        ],
+        "LastName": "Daneshjou",
+        "ForeName": "Roxana",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Stanford University, Stanford, CA, USA."
+          }
+        ],
+        "LastName": "He",
+        "ForeName": "Bryan",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA."
+          }
+        ],
+        "LastName": "Ouyang",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Stanford University, Stanford, CA, USA; Department of Cardiology, Smidt Heart Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA. Electronic address: jamesz@stanford.edu."
+          }
+        ],
+        "LastName": "Zou",
+        "ForeName": "James Y",
+        "Initials": "JY"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 AG059307",
+        "Acronym": "AG",
+        "Agency": "NIA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AR045192",
+        "Acronym": "AR",
+        "Agency": "NIAMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 MD012867",
+        "Acronym": "MD",
+        "Agency": "NIMHD NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 AR007422",
+        "Acronym": "AR",
+        "Agency": "NIAMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Biochim Biophys Acta Rev Cancer",
+    "NlmUniqueID": "9806362",
+    "ISSNLinking": "0304-419X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Big Data"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Early Detection of Cancer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

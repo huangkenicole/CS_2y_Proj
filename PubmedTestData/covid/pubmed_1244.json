@@ -1,0 +1,477 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "aryl hydrocarbon hydroxylase",
+      "heat shock chaperone",
+      "rhapontigenin",
+      "tanespimycin"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33590968",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e10188",
+      "10.15252/msb.202010188"
+    ],
+    "Journal": {
+      "ISSN": "1744-4292",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Molecular systems biology",
+      "ISOAbbreviation": "Mol Syst Biol"
+    },
+    "ArticleTitle": "SARS-CoV-2 infection remodels the host protein thermal stability landscape.",
+    "Pagination": {
+      "StartPage": "e10188",
+      "MedlinePgn": "e10188"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a global threat to human health and has compromised economic stability. In addition to the development of an effective vaccine, it is imperative to understand how SARS-CoV-2 hijacks host cellular machineries on a system-wide scale so that potential host-directed therapies can be developed. In situ proteome-wide abundance and thermal stability measurements using thermal proteome profiling (TPP) can inform on global changes in protein activity. Here we adapted TPP to high biosafety conditions amenable to SARS-CoV-2 handling. We discovered pronounced temporal alterations in host protein thermostability during infection, which converged on cellular processes including cell cycle, microtubule and RNA splicing regulation. Pharmacological inhibition of host proteins displaying altered thermal stability or abundance during infection suppressed SARS-CoV-2 replication. Overall, this work serves as a framework for expanding TPP workflows to globally important human pathogens that require high biosafety containment and provides deeper resolution into the molecular changes induced by SARS-CoV-2 infection."
+      ],
+      "CopyrightInformation": "\u00a9 2021 The Authors. Published under the terms of the CC BY 4.0 license."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2977-4408"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Selkrig",
+        "ForeName": "Joel",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5606-1297"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Molecular Virology, Heidelberg University Hospital, Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Stanifer",
+        "ForeName": "Megan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6870-0677"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Mateus",
+        "ForeName": "Andr\u00e9",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Mitosch",
+        "ForeName": "Karin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Bioinformatics Institute (EMBL-EBI), Hinxton, UK."
+          }
+        ],
+        "LastName": "Barrio-Hernandez",
+        "ForeName": "Inigo",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Proteomics Core Facility, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Rettel",
+        "ForeName": "Mandy",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Molecular Virology, Heidelberg University Hospital, Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Heeyoung",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Voogdt",
+        "ForeName": "Carlos G P",
+        "Initials": "CGP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Biosciences, EMBL and Heidelberg University, Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Walch",
+        "ForeName": "Philipp",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5847-5509"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Molecular Virology, Heidelberg University Hospital, Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Kee",
+        "ForeName": "Carmon",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7846-2817"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Biosciences, EMBL and Heidelberg University, Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Kurzawa",
+        "ForeName": "Nils",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9695-1692"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Proteomics Core Facility, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Stein",
+        "ForeName": "Frank",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Potel",
+        "ForeName": "Cl\u00e9ment",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Proteomics and Bioanalytics, Technical University of Munich, Freising, Germany."
+          }
+        ],
+        "LastName": "Jarzab",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9094-1677"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Proteomics and Bioanalytics, Technical University of Munich, Freising, Germany."
+          }
+        ],
+        "LastName": "Kuster",
+        "ForeName": "Bernhard",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5601-9307"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Molecular Virology, Heidelberg University Hospital, Heidelberg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division \"Virus-associated Carcinogenesis\", German Cancer Research Center (DKFZ), Heidelberg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Center for Infection Research, Heidelberg Partner site, Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Bartenschlager",
+        "ForeName": "Ralf",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8614-4993"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Virology, Heidelberg University Hospital, Heidelberg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Research Group \"Cellular Polarity and Viral Infection\", German Cancer Research Center (DKFZ), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Boulant",
+        "ForeName": "Steeve",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2724-7703"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Bioinformatics Institute (EMBL-EBI), Hinxton, UK."
+          }
+        ],
+        "LastName": "Beltrao",
+        "ForeName": "Pedro",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0797-9018"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Typas",
+        "ForeName": "Athanasios",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2011-9247"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genome Biology Unit, European Molecular Biology Laboratory (EMBL), Heidelberg, Germany."
+          }
+        ],
+        "LastName": "Savitski",
+        "ForeName": "Mikhail M",
+        "Initials": "MM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "819454",
+        "Agency": "EC | H2020 | H2020 Priority Excellent Science | H2020 European Research Council (ERC)",
+        "Country": ""
+      },
+      {
+        "GrantID": "240245660",
+        "Agency": "Deutsche Forschungsgemeinschaft (DFG)",
+        "Country": ""
+      },
+      {
+        "GrantID": "278001972",
+        "Agency": "Deutsche Forschungsgemeinschaft (DFG)",
+        "Country": ""
+      },
+      {
+        "GrantID": "415089553",
+        "Agency": "Deutsche Forschungsgemeinschaft (DFG)",
+        "Country": ""
+      },
+      {
+        "GrantID": "272983813",
+        "Agency": "Deutsche Forschungsgemeinschaft (DFG)",
+        "Country": ""
+      },
+      {
+        "GrantID": "416072091",
+        "Agency": "Deutsche Forschungsgemeinschaft (DFG)",
+        "Country": ""
+      },
+      {
+        "GrantID": "01KI20198A",
+        "Agency": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+        "Country": ""
+      },
+      {
+        "GrantID": "8029801806",
+        "Agency": "German Center for Infection Research (DZIF)",
+        "Country": ""
+      },
+      {
+        "GrantID": "8029705705",
+        "Agency": "German Center for Infection Research (DZIF)",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Mol Syst Biol",
+    "NlmUniqueID": "101235389",
+    "ISSNLinking": "1744-4292"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteome"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Stability"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteome"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "metabolism",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Temperature"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Viral Proteins"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Virus Replication"
+    }
+  ],
+  "CoiStatement": "BK is a founder and shareholder of OmicScouts and MSAID. He has no operational role in either of the two companies. All other co\u2010authors declare no competing financial interests."
+}

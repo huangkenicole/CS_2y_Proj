@@ -1,0 +1,243 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Breast cancer tissue",
+      "Cancer cell pathology",
+      "Hyperspectral imaging system",
+      "Light propagation",
+      "Tissue optical properties",
+      "VIS-NIR spectroscopy"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36940788",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "03",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.pdpdt.2023.103507",
+      "S1572-1000(23)00235-1"
+    ],
+    "Journal": {
+      "ISSN": "1873-1597",
+      "JournalIssue": {
+        "Volume": "42",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Photodiagnosis and photodynamic therapy",
+      "ISOAbbreviation": "Photodiagnosis Photodyn Ther"
+    },
+    "ArticleTitle": "Emerging technology for intraoperative margin assessment and post-operative tissue diagnosis for breast-conserving surgery.",
+    "Pagination": {
+      "StartPage": "103507",
+      "MedlinePgn": "103507"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Tissue-preserving surgery is utilized progressively in cancer therapy, where a clear surgical margin is critical to avoid cancer recurrence, specifically in breast cancer (BC) surgery. The Intraoperative pathologic approaches that rely on tissue segmenting and staining have been recognized as the ground truth for BC diagnosis. Nevertheless, these methods are constrained by its complication and timewasting for tissue preparation.",
+        "We present a non-invasive optical imaging system incorporating a hyperspectral (HS) camera to discriminate between cancerous and non-cancerous tissues in ex-vivo breast specimens, which could be an intraoperative diagnostic technique to aid surgeons during surgery and later a valuable tool to assist pathologists.",
+        "We have established a hyperspectral Imaging (HSI) system comprising a push-broom HS camera at wavelength 380\u223c1050\u00a0nm with source light 390\u223c980\u00a0nm. We have measured the investigated samples' diffuse reflectance (R<sub>d</sub>), fixed on slides from 30 distinct patients incorporating mutually normal and ductal carcinoma tissue. The samples were divided into two groups, stained tissues during the surgery (control group) and unstained samples (test group), both captured with the HSI system in the visible and near-infrared (VIS-NIR) range. Then, to address the problem of the spectral nonuniformity of the illumination device and the influence of the dark current, the radiance data were normalized to yield the radiance of the specimen and neutralize the intensity effect to focus on the spectral reflectance shift for each tissue. The selection of the threshold window from the measured R<sub>d</sub> is carried out by exploiting the statistical analysis by calculating each region's mean and standard deviation. Afterward, we selected the optimum spectral images from the HS data cube to apply a custom K-means algorithm and contour delineation to identify the regular districts from the BC regions.",
+        "We noticed that the measured spectral R<sub>d</sub> for the malignant tissues of the investigated case studies versus the reference source light varies regarding the cancer stage, as sometimes the R<sub>d</sub> is higher for the tumor or vice versa for the normal tissue. Later, from the analysis of the whole samples, we found that the most appropriate wavelength for the BC tissues was 447\u00a0nm, which was highly reflected versus the normal tissue. However, the most convenient one for the normal tissue was at 545\u00a0nm with high reflection versus the BC tissue. Finally, we implement a moving average filter for noise reduction and a custom K-means clustering algorithm on the selected two spectral images (447, 551\u00a0nm) to identify the various regions and effectively-identified spectral tissue variations with a sensitivity of 98.95%, and specificity of 98.44%. A pathologist later confirmed these outcomes as the ground truth for the tissue sample investigations.",
+        "The proposed system could help the surgeon and the pathologist identify the cancerous tissue margins from the non-cancerous tissue with a non-invasive, rapid, and minimum time method achieving high sensitivity up to 98.95%."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering Researcher, Egyptian Armed Forces, Cairo, Egypt. Electronic address: Mh-aref@ieee.org."
+          }
+        ],
+        "LastName": "Aref",
+        "ForeName": "Mohamed Hisham",
+        "Initials": "MH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Demonstrator, Communications Department, Faculty of Engineering, Mansoura University, Mansoura, Egypt."
+          }
+        ],
+        "LastName": "El-Gohary",
+        "ForeName": "Mohamed",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Avionics Department, Electrical Engineering Branch, Military Technical College, Cairo, Egypt."
+          }
+        ],
+        "LastName": "Elrewainy",
+        "ForeName": "Ahmed",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Optoelectronics and Advanced Control Systems Department, Military Technical College, Cairo, Egypt."
+          }
+        ],
+        "LastName": "Mahmoud",
+        "ForeName": "Alaaeldin",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering Researcher, Egyptian Armed Forces, Cairo, Egypt."
+          }
+        ],
+        "LastName": "Aboughaleb",
+        "ForeName": "Ibrahim H",
+        "Initials": "IH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Histopathology Department, Egyptian Armed Forces, \"Kobri El- Koba\" Complex Hospital, Cairo, Egypt."
+          }
+        ],
+        "LastName": "Hussein",
+        "ForeName": "Abdallah Abdelkader",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Radiology Department, Maadi Armed Forces Medical Compound, Cairo, Egypt."
+          }
+        ],
+        "LastName": "El-Ghaffar",
+        "ForeName": "Sara Abd",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Avionics Department, Military Technical College, Cairo, Egypt."
+          }
+        ],
+        "LastName": "Mahran",
+        "ForeName": "Ashraf",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Optoelectronics Department, Military Technical College, Cairo, Egypt."
+          }
+        ],
+        "LastName": "El-Sharkawy",
+        "ForeName": "Yasser H",
+        "Initials": "YH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Photodiagnosis Photodyn Ther",
+    "NlmUniqueID": "101226123",
+    "ISSNLinking": "1572-1000"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Photosensitizing Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mastectomy, Segmental"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Photochemotherapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Photosensitizing Agents"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Recurrence, Local"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "surgery"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Optical Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Margins of Excision"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors stated and declare that they have no financial and non-financial competing interests."
+}

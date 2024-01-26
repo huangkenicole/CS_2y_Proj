@@ -1,0 +1,265 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34138906",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0252217",
+      "10.1371/journal.pone.0252217"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Duration of SARS-CoV-2 shedding: A population-based, Canadian study.",
+    "Pagination": {
+      "StartPage": "e0252217",
+      "MedlinePgn": "e0252217"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "There is an evidence gap regarding the duration of SARS-CoV-2 shedding and of its variability across different care settings and by age, sex, income, and co-morbidities. Such evidence is part of understanding of infectivity and reinfection. We examine direct measures of viral shedding using a linked population-based health administrative dataset.",
+        "Laboratory and sociodemographic databases for Ontario, Canada were linked to identify those testing positive (RT-PCR) between Jan. 15 and April 30, 2020 who underwent subsequent testing by May 31, 2020. To maximise use of available data, we computed two shedding duration estimates defined as the time between initial positive and most recent positive (documented shedding) or second of two negative tests (documented resolution). We also report multivariable results using quantile regression to examine subgroup differences.",
+        "In Ontario, of the 16,595 who tested positive before April 30, 2020, 6604 had sufficient subsequent testing to allow shedding duration calculation. Documented shedding median duration calculated in 4,889 (29% of 16,595) patients was 19 days (IQR 12-28). Documented resolution median duration calculated in 3,219 (19% of the 16,595) patients was 25 days (IQR 18-34). Long-term care residents had 3-5 day longer shedding durations using both definitions. Shorter documented shedding durations of 2-4 days were observed in those living in higher income neighbourhoods. Shorter documented resolution durations of 2-3 days were observed at the 25th% of the distribution in those aged 20-49. Only 11.5% of those with definitive negative test results reverted to negative status by day 14.",
+        "Viral shedding continued well beyond 14 days among this large subset of a population-based group with COVID-19, and longer still for long-term care residents and those living in less affluent neighborhoods. Our findings do not speak to duration of infectivity but are useful for understanding the expected duration of RT-PCR positivity and for identifying reinfection."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-4798-1742"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Family Medicine, Queen's University, Kingston, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Sciences, Queen's University, Kingston, Ontario, Canada."
+          }
+        ],
+        "LastName": "Phillips",
+        "ForeName": "Susan P",
+        "Initials": "SP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ICES Queen's, Queen's University, Kingston, ON, Canada."
+          }
+        ],
+        "LastName": "Wei",
+        "ForeName": "Xuejiao",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ICES, Toronto, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Dalla Lana School of Public Health, University of Toronto, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Kwong",
+        "ForeName": "Jeffrey C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics University of Toronto, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Gubbay",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ICES, Toronto, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Dalla Lana School of Public Health, University of Toronto, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Schwartz",
+        "ForeName": "Kevin L",
+        "Initials": "KL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Health Sciences, Queen's University, Kingston, Ontario, Canada."
+          }
+        ],
+        "LastName": "Majury",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Sciences, Queen's University, Kingston, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "ICES Queen's, Queen's University, Kingston, ON, Canada."
+          }
+        ],
+        "LastName": "Groome",
+        "ForeName": "Patti A",
+        "Initials": "PA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Ontario"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Virus Shedding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "The authors have read the journal\u2019s policy and have the following competing interests: IQVIA Solutions Canada Inc. provided the Drug Information File. This does not alter our adherence to PLOS ONE policies on sharing data and materials. There are no patents, products in development or marketed products associated with this research to declare."
+}

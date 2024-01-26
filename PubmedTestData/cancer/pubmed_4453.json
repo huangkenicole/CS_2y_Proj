@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34982670",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TBME.2021.3139992"
+    ],
+    "Journal": {
+      "ISSN": "1558-2531",
+      "JournalIssue": {
+        "Volume": "69",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jul"
+        }
+      },
+      "Title": "IEEE transactions on bio-medical engineering",
+      "ISOAbbreviation": "IEEE Trans Biomed Eng"
+    },
+    "ArticleTitle": "Application of Intraoperative Mass Spectrometry and Data Analytics for Oncological Margin Detection, A Review.",
+    "Pagination": {
+      "StartPage": "2220",
+      "EndPage": "2232",
+      "MedlinePgn": "2220-2232"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A common phase of early-stage oncological treatment is the surgical resection of cancerous tissue. The presence of cancer cells on the resection margin, referred to as positive margin, is correlated with the recurrence of cancer and may require re-operation, negatively impacting many facets of patient outcomes. There exists a significant gap in the surgeon's ability to intraoperatively delineate between tissues. Mass spectrometry methods have shown considerable promise as intraoperative tissue profiling tools that can assist with the complete resection of cancer. To do so, the vastness of the information collected through these modalities must be digested, relying on robust and efficient extraction of insights through data analysis pipelines.",
+        "We review clinical mass spectrometry literature and prioritize intraoperatively applied modalities. We also survey the data analysis methods employed in these studies.",
+        "Our review outlines the advantages and shortcomings of mass spectrometry imaging and point-based tissue probing methods. For each modality, we identify statistical, linear transformation and machine learning techniques that demonstrate high performance in classifying cancerous tissues across several organ systems. A limited number of studies presented results captured intraoperatively.",
+        "Through continued research of data centric techniques, like mass spectrometry, and the development of robust analysis approaches, intraoperative margin assessment is becoming feasible.",
+        "By establishing the relatively short history of mass spectrometry techniques applied to surgical studies, we hope to inform future applications and aid in the selection of suitable data analysis frameworks for the development of intraoperative margin detection technologies."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Santilli",
+        "ForeName": "Alice Maria Leondina",
+        "Initials": "AML"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ren",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Oleschuk",
+        "ForeName": "Richard",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kaufmann",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rudan",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fichtinger",
+        "ForeName": "Gabor",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mousavi",
+        "ForeName": "Parvin",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "CIHR",
+        "Country": "Canada"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Biomed Eng",
+    "NlmUniqueID": "0012737",
+    "ISSNLinking": "0018-9294"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Science"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Margins of Excision"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mass Spectrometry"
+    },
+    {
+      "QualifierName": [
+        "surgery"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

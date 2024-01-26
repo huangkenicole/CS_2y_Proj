@@ -1,0 +1,294 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Agent-based modelling",
+      "COVID-19",
+      "Undetected cases"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33441091",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "70",
+      "10.1186/s12879-020-05737-6"
+    ],
+    "Journal": {
+      "ISSN": "1471-2334",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "13"
+        }
+      },
+      "Title": "BMC infectious diseases",
+      "ISOAbbreviation": "BMC Infect Dis"
+    },
+    "ArticleTitle": "Evaluation of undetected cases during the COVID-19 epidemic in Austria.",
+    "Pagination": {
+      "StartPage": "70",
+      "MedlinePgn": "70"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Knowing the number of undetected cases of COVID-19 is important for a better understanding of the spread of the disease. This study analyses the temporal dynamic of detected vs. undetected cases to provide guidance for the interpretation of prevalence studies performed with PCR or antibody tests to estimate the detection rate.",
+        "We used an agent-based model to evaluate assumptions on the detection probability ranging from 0.1 to 0.9. For each general detection probability, we derived age-dependent detection probabilities and calibrated the model to reproduce the epidemic wave of COVID-19 in Austria from March 2020 to June 2020. We categorized infected individuals into presymptomatic, symptomatic unconfirmed, confirmed and never detected to observe the simulated dynamic of the detected and undetected cases.",
+        "The calculation of the age-dependent detection probability ruled values lower than 0.4 as most likely. Furthermore, the proportion of undetected cases depends strongly on the dynamic of the epidemic wave: during the initial upswing, the undetected cases account for a major part of all infected individuals, whereas their share decreases around the peak of the confirmed cases.",
+        "The results of prevalence studies performed to determine the detection rate of COVID-19 patients should always be interpreted with regard to the current dynamic of the epidemic wave. Applying the method proposed in our analysis, the prevalence study performed in Austria in April 2020 could indicate a detection rate of 0.13, instead of the prevalent ratio of 0.29 between detected and estimated undetected cases at that time."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DWH Simulation Services, DEXHELPP, Neustiftgasse 57-59, 1070, Vienna, Austria. claire.rippinger@dwh.at."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "TU Wien, Institute of Information Systems Engineering, Favoritenstra\u00dfe 11, 1040, Vienna, Austria. claire.rippinger@dwh.at."
+          }
+        ],
+        "LastName": "Rippinger",
+        "ForeName": "C",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DWH Simulation Services, DEXHELPP, Neustiftgasse 57-59, 1070, Vienna, Austria."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "TU Wien, Institute of Information Systems Engineering, Favoritenstra\u00dfe 11, 1040, Vienna, Austria."
+          }
+        ],
+        "LastName": "Bicher",
+        "ForeName": "M",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DWH Simulation Services, DEXHELPP, Neustiftgasse 57-59, 1070, Vienna, Austria."
+          }
+        ],
+        "LastName": "Urach",
+        "ForeName": "C",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DWH Simulation Services, DEXHELPP, Neustiftgasse 57-59, 1070, Vienna, Austria."
+          }
+        ],
+        "LastName": "Brunmeir",
+        "ForeName": "D",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DWH Simulation Services, DEXHELPP, Neustiftgasse 57-59, 1070, Vienna, Austria."
+          }
+        ],
+        "LastName": "Weibrecht",
+        "ForeName": "N",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DWH Simulation Services, DEXHELPP, Neustiftgasse 57-59, 1070, Vienna, Austria."
+          }
+        ],
+        "LastName": "Zauner",
+        "ForeName": "G",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Public Health, Medical Decision Making and Health Technology Assessment, Department of Public Health, Health Services Research and Health Technology Assessment, UMIT - University for Health Sciences, Medical Informatics and Technology, Eduard-Wallnoefer-Zentrum 1, 6060, Hall i.T, Austria."
+          }
+        ],
+        "LastName": "Sroczynski",
+        "ForeName": "G",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Public Health, Medical Decision Making and Health Technology Assessment, Department of Public Health, Health Services Research and Health Technology Assessment, UMIT - University for Health Sciences, Medical Informatics and Technology, Eduard-Wallnoefer-Zentrum 1, 6060, Hall i.T, Austria."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Health Technology Assessment, ONCOTYROL - Center for Personalized Cancer Medicine, Karl-Kapferer-Stra\u00dfe 5, 6020, Innsbruck, Austria."
+          }
+        ],
+        "LastName": "Jahn",
+        "ForeName": "B",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Public Health, Medical Decision Making and Health Technology Assessment, Department of Public Health, Health Services Research and Health Technology Assessment, UMIT - University for Health Sciences, Medical Informatics and Technology, Eduard-Wallnoefer-Zentrum 1, 6060, Hall i.T, Austria."
+          }
+        ],
+        "LastName": "M\u00fchlberger",
+        "ForeName": "N",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Public Health, Medical Decision Making and Health Technology Assessment, Department of Public Health, Health Services Research and Health Technology Assessment, UMIT - University for Health Sciences, Medical Informatics and Technology, Eduard-Wallnoefer-Zentrum 1, 6060, Hall i.T, Austria."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Health Technology Assessment, ONCOTYROL - Center for Personalized Cancer Medicine, Karl-Kapferer-Stra\u00dfe 5, 6020, Innsbruck, Austria."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Technology Assessment and Department of Radiology, Massachusetts General Hospital, Harvard Medical School, 101 Merrimac St, Boston, MA, 02114, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Health Decision Science, Departments of Epidemiology and Health Policy & Management, Harvard T.H. Chan School of Public Health, 718 Huntington Avenue, Boston, MA, 02115, USA."
+          }
+        ],
+        "LastName": "Siebert",
+        "ForeName": "U",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DWH Simulation Services, DEXHELPP, Neustiftgasse 57-59, 1070, Vienna, Austria."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "TU Wien, Institute of Information Systems Engineering, Favoritenstra\u00dfe 11, 1040, Vienna, Austria."
+          }
+        ],
+        "LastName": "Popper",
+        "ForeName": "N",
+        "Initials": "N"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "881665/35755806",
+        "Agency": "\u00d6sterreichische Forschungsf\u00f6rderungsgesellschaft",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Infect Dis",
+    "NlmUniqueID": "100968551",
+    "ISSNLinking": "1471-2334"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Austria"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

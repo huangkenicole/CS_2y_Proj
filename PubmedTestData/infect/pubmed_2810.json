@@ -1,0 +1,193 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32168349",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "06",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "06",
+    "Day": "26"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "03",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1007377",
+      "10.1371/journal.pcbi.1007377"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Mar"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Modelling the epidemiology of residual Plasmodium vivax malaria in a heterogeneous host population: A case study in the Amazon Basin.",
+    "Pagination": {
+      "StartPage": "e1007377",
+      "MedlinePgn": "e1007377"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The overall malaria burden in the Americas has decreased dramatically over the past two decades, but residual transmission pockets persist across the Amazon Basin, where Plasmodium vivax is the predominant infecting species. Current elimination efforts require a better quantitative understanding of malaria transmission dynamics for planning, monitoring, and evaluating interventions at the community level. This can be achieved with mathematical models that properly account for risk heterogeneity in communities approaching elimination, where few individuals disproportionately contribute to overall malaria prevalence, morbidity, and onwards transmission. Here we analyse demographic information combined with routinely collected malaria morbidity data from the town of M\u00e2ncio Lima, the main urban transmission hotspot of Brazil. We estimate the proportion of high-risk subjects in the host population by fitting compartmental susceptible-infected-susceptible (SIS) transmission models simultaneously to age-stratified vivax malaria incidence densities and the frequency distribution of P. vivax malaria attacks experienced by each individual over 12 months. Simulations with the best-fitting SIS model indicate that 20% of the hosts contribute 86% of the overall vivax malaria burden. Despite the low overall force of infection typically found in the Amazon, about one order of magnitude lower than that in rural Africa, high-risk individuals gradually develop clinical immunity following repeated infections and eventually constitute a substantial infectious reservoir comprised of asymptomatic parasite carriers that is overlooked by routine surveillance but likely fuels onwards malaria transmission. High-risk individuals therefore represent a priority target for more intensive and effective interventions that may not be readily delivered to the entire community."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-8929-2200"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Parasitology, Institute of Biomedical Sciences, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+          }
+        ],
+        "LastName": "Corder",
+        "ForeName": "Rodrigo M",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5293-9090"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Parasitology, Institute of Biomedical Sciences, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+          }
+        ],
+        "LastName": "Ferreira",
+        "ForeName": "Marcelo U",
+        "Initials": "MU"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Liverpool School of Tropical Medicine, Liverpool, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CIBIO-InBIO, Centro de Investiga\u00e7\u00e3o em Biodiversidade e Recursos Gen\u00e9ticos, and CMUP, Centro de Matem\u00e1tica da Universidade do Porto, Porto, Portugal."
+          }
+        ],
+        "LastName": "Gomes",
+        "ForeName": "M Gabriela M",
+        "Initials": "MGM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U19 AI089681",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Brazil"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Malaria"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Malaria, Falciparum"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "parasitology",
+        "transmission"
+      ],
+      "DescriptorName": "Malaria, Vivax"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Plasmodium falciparum"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Plasmodium vivax"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

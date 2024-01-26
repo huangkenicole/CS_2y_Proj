@@ -1,0 +1,254 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "FBDD",
+      "Molecular Dynamics",
+      "Posing",
+      "SARS-CoV-2",
+      "SBDD"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33797868",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/cmdc.202100156"
+    ],
+    "Journal": {
+      "ISSN": "1860-7187",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "13",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "06"
+        }
+      },
+      "Title": "ChemMedChem",
+      "ISOAbbreviation": "ChemMedChem"
+    },
+    "ArticleTitle": "Inspecting the Mechanism of Fragment Hits Binding on SARS-CoV-2 M<sup>pro</sup> by Using Supervised Molecular Dynamics (SuMD) Simulations.",
+    "Pagination": {
+      "StartPage": "2075",
+      "EndPage": "2081",
+      "MedlinePgn": "2075-2081"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Computational approaches supporting the early characterization of fragment molecular recognition mechanism represent a valuable complement to more expansive and low-throughput experimental techniques. In this retrospective study, we have investigated the geometric accuracy with which high-throughput supervised molecular dynamics simulations (HT-SuMD) can anticipate the experimental bound state for a set of 23 fragments targeting the SARS-CoV-2 main protease. Despite the encouraging results herein reported, in line with those previously described for other MD-based posing approaches, a high number of incorrect binding modes still complicate HT-SuMD routine application. To overcome this limitation, fragment pose stability has been investigated and integrated as part of our in-silico pipeline, allowing us to prioritize only the more reliable predictions."
+      ],
+      "CopyrightInformation": "\u00a9 2021 The Authors. ChemMedChem published by Wiley-VCH GmbH."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, via Marzolo 5, 35131, Padova, Italy."
+          }
+        ],
+        "LastName": "Bissaro",
+        "ForeName": "Maicol",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, via Marzolo 5, 35131, Padova, Italy."
+          }
+        ],
+        "LastName": "Bolcato",
+        "ForeName": "Giovanni",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, via Marzolo 5, 35131, Padova, Italy."
+          }
+        ],
+        "LastName": "Pavan",
+        "ForeName": "Matteo",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, via Marzolo 5, 35131, Padova, Italy."
+          }
+        ],
+        "LastName": "Bassani",
+        "ForeName": "Davide",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, via Marzolo 5, 35131, Padova, Italy."
+          }
+        ],
+        "LastName": "Sturlese",
+        "ForeName": "Mattia",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7514-3802"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, via Marzolo 5, 35131, Padova, Italy."
+          }
+        ],
+        "LastName": "Moro",
+        "ForeName": "Stefano",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "Chemical Computing Group",
+        "Country": ""
+      },
+      {
+        "Agency": "OpenEye",
+        "Country": ""
+      },
+      {
+        "Agency": "Acellera",
+        "Country": ""
+      },
+      {
+        "GrantID": "2017MT3993",
+        "Agency": "MIUR",
+        "Country": ""
+      },
+      {
+        "GrantID": "55812",
+        "Agency": "Fondazione Cariparo",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "ChemMedChem",
+    "NlmUniqueID": "101259013",
+    "ISSNLinking": "1860-7179"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Ligands"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Protease Inhibitors"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Matrix Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "membrane protein, SARS-CoV-2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Binding Sites"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Protein"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Ligands"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Protease Inhibitors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Viral Matrix Proteins"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

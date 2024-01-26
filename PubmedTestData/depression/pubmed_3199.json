@@ -1,0 +1,179 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Generalized anxiety disorder",
+      "Machine learning",
+      "Major depression",
+      "Natural language processing",
+      "Rumination (cognitive process)",
+      "Worry"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37121016",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "03",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.brat.2023.104307",
+      "S0005-7967(23)00056-6"
+    ],
+    "Journal": {
+      "ISSN": "1873-622X",
+      "JournalIssue": {
+        "Volume": "165",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Behaviour research and therapy",
+      "ISOAbbreviation": "Behav Res Ther"
+    },
+    "ArticleTitle": "Perseverative thinking is associated with features of spoken language.",
+    "Pagination": {
+      "StartPage": "104307",
+      "MedlinePgn": "104307"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Perseverative thinking (PT), such as rumination or worry, is a transdiagnostic process implicated in the onset and maintenance of emotional disorders. Existing measures of PT are limited by demand and expectancy effects, cognitive biases, and reflexivity, leading to calls for unobtrusive, behavioral measures. In response, we developed a behavioral measure of PT based on language. A mixed sample of 188 participants with major depressive disorder, generalized anxiety disorder, or no psychopathology completed self-report PT measures. Participants were also interviewed, providing a natural language sample. We examined language features associated with PT, then built a language-based PT model and examined its predictive power. PT was associated with multiple language features, most notably I-usage (e.g., \"I\", \"me\"; \u03b2\u00a0=\u00a00.25) and negative emotion language (e.g., \"anxiety\", \"difficult\"; \u03b2\u00a0=\u00a00.19). In machine learning analyses, language features accounted for 14% of the variance in self-reported PT. Language-based PT predicted the presence and severity of depression and anxiety, psychiatric comorbidity, and treatment seeking, with effects in the r\u00a0=\u00a00.15-0.41 range. PT has face-valid linguistic correlates and our language-based measure holds promise for assessing PT unobtrusively. With further development, this measure could be used to passively detect PT for deployment of \"just-in-time\" interventions."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Pennsylvania, 425 South University Avenue, Philadelphia, PA, 19104-6018, USA. Electronic address: elizwade@sas.upenn.edu."
+          }
+        ],
+        "LastName": "Stade",
+        "ForeName": "Elizabeth C",
+        "Initials": "EC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer and Information Science, University of Pennsylvania, 504 Levine Hall, 3330 Walnut Street, Philadelphia, PA, 19104-6018, USA. Electronic address: ungar@cis.upenn.edu."
+          }
+        ],
+        "LastName": "Ungar",
+        "ForeName": "Lyle",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer and Information Science, University of Pennsylvania, 504 Levine Hall, 3330 Walnut Street, Philadelphia, PA, 19104-6018, USA. Electronic address: shreya@cis.upenn.edu."
+          }
+        ],
+        "LastName": "Havaldar",
+        "ForeName": "Shreya",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Pennsylvania, 425 South University Avenue, Philadelphia, PA, 19104-6018, USA. Electronic address: ruscio@psych.upenn.edu."
+          }
+        ],
+        "LastName": "Ruscio",
+        "ForeName": "Ayelet Meron",
+        "Initials": "AM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 MH094425",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Behav Res Ther",
+    "NlmUniqueID": "0372477",
+    "ISSNLinking": "0005-7967"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "therapy",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cognition"
+    },
+    {
+      "QualifierName": [
+        "psychology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [
+        "psychology"
+      ],
+      "DescriptorName": "Anxiety Disorders"
+    },
+    {
+      "QualifierName": [
+        "psychology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Language"
+    }
+  ],
+  "CoiStatement": "Declaration of competing interest The authors declare no conflict of interest."
+}

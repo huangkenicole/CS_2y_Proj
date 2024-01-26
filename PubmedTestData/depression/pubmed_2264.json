@@ -1,0 +1,137 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37028339",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "08",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TCBB.2023.3257175"
+    ],
+    "Journal": {
+      "ISSN": "1557-9964",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2023",
+          "Season": "Jul-Aug"
+        }
+      },
+      "Title": "IEEE/ACM transactions on computational biology and bioinformatics",
+      "ISOAbbreviation": "IEEE/ACM Trans Comput Biol Bioinform"
+    },
+    "ArticleTitle": "High-Density Electroencephalography and Speech Signal Based Deep Framework for Clinical Depression Diagnosis.",
+    "Pagination": {
+      "StartPage": "2587",
+      "EndPage": "2597",
+      "MedlinePgn": "2587-2597"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Depression is a mental disorder characterized by persistent depressed mood or loss of interest in performing activities, causing significant impairment in daily routine. Possible causes include psychological, biological, and social sources of distress. Clinical depression is the more-severe form of depression, also known as major depression or major depressive disorder. Recently, electroencephalography and speech signals have been used for early diagnosis of depression; however, they focus on moderate or severe depression. We have combined audio spectrogram and multiple frequencies of EEG signals to improve diagnostic performance. To do so, we have fused different levels of speech and EEG features to generate descriptive features and applied vision transformers and various pre-trained networks on the speech and EEG spectrum. We have conducted extensive experiments on Multimodal Open Dataset for Mental-disorder Analysis (MODMA) dataset, which showed significant improvement in performance in depression diagnosis (0.972, 0.973 and 0.973 precision, recall and F1 score respectively) for patients at the mild stage. Besides, we provided a web-based framework using Flask and provided the source code publicly.<sup>1</sup>."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Qayyum",
+        "ForeName": "Abdul",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Razzak",
+        "ForeName": "Imran",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tanveer",
+        "ForeName": "M",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mazher",
+        "ForeName": "Moona",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Alhaqbani",
+        "ForeName": "Bandar",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE/ACM Trans Comput Biol Bioinform",
+    "NlmUniqueID": "101196755",
+    "ISSNLinking": "1545-5963"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Speech"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electroencephalography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cad",
+      "Cluster",
+      "Computed tomography",
+      "Lung cancer",
+      "Morphology",
+      "Nodules"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27299354",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "06",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "06",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10916-016-0539-9"
+    ],
+    "Journal": {
+      "ISSN": "1573-689X",
+      "JournalIssue": {
+        "Volume": "40",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Journal of medical systems",
+      "ISOAbbreviation": "J Med Syst"
+    },
+    "ArticleTitle": "Lung Cancer Detection Using Fuzzy Auto-Seed Cluster Means Morphological Segmentation and SVM Classifier.",
+    "Pagination": {
+      "StartPage": "181",
+      "MedlinePgn": "181"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "An effective fuzzy auto-seed cluster means morphological algorithm developed in this work to segment the lung nodules from the consecutive slices of Computer Tomography (CT) images to detect the lung cancer. The initial cluster values were chosen automatically by averaging the minimum and maximum pixel values in each row of an image. The area and eccentricity features were used to eliminate the line like structure and very tiny clusters less than 3\u00a0mm in size. The change in centroid analysis was carried out to eliminate the blood vessels. The tissue clusters whose centroid varies much in consecutive slices must be blood vessels. After eliminating the blood vessels, the co-occurrence matrix based texture features contrast, homogeneity and auto correlation were computed on the remaining nodules from the consecutive CT slices to discriminate the calcifications. The extracted centroid shift and texture features were used as the inputs to the Support Vector Machine (SVM) kernel classifier in order to classify the real malignant nodules. This work was carried out on 56 malignant (cancerous) cases and 50 normal cases (with lung infections), which had a total of 56 malignant nodules and 745 benign nodules. Out of these, 60\u00a0% of subjects (34 cancerous & 30 non-cancerous) were used for training. The remaining 40\u00a0% subjects (22 cancerous & 20 non-cancerous) were used for testing. This work produced a good sensitivity, specificity and accuracy of 100\u00a0%, 93\u00a0% and 94\u00a0%, respectively. The False Positive (FP) per patient was calculated as 0.38."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of ECE, Rajalakshmi Engineering College, Chennai, India. mani_stuff@yahoo.co.in."
+          }
+        ],
+        "LastName": "Manikandan",
+        "ForeName": "T",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of EEE, Velammal Engineering College, Chennai, India."
+          }
+        ],
+        "LastName": "Bharathi",
+        "ForeName": "N",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Med Syst",
+    "NlmUniqueID": "7806056",
+    "ISSNLinking": "0148-5598"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fuzzy Logic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Tomography, X-Ray Computed"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37879362",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "10",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41586-023-06761-7"
+    ],
+    "Journal": {
+      "ISSN": "1476-4687",
+      "JournalIssue": {
+        "Volume": "624",
+        "Issue": "7990",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Nature",
+      "ISOAbbreviation": "Nature"
+    },
+    "ArticleTitle": "TMPRSS2 is a functional receptor for human coronavirus HKU1.",
+    "Pagination": {
+      "StartPage": "207",
+      "EndPage": "214",
+      "MedlinePgn": "207-214"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Four endemic seasonal human coronaviruses causing common colds circulate worldwide: HKU1, 229E, NL63 and OC43 (ref. <sup>1</sup>). After binding to cellular receptors, coronavirus spike proteins are primed for fusion by transmembrane serine protease 2 (TMPRSS2) or endosomal cathepsins<sup>2-9</sup>. NL63 uses angiotensin-converting enzyme 2 as a receptor<sup>10</sup>, whereas 229E uses human aminopeptidase-N<sup>11</sup>. HKU1 and OC43 spikes bind cells through 9-O-acetylated sialic acid, but their protein receptors remain unknown<sup>12</sup>. Here we show that TMPRSS2 is a functional receptor for HKU1. TMPRSS2 triggers HKU1 spike-mediated cell-cell fusion and pseudovirus infection. Catalytically inactive TMPRSS2 mutants do not cleave HKU1 spike but allow pseudovirus infection. Furthermore, TMPRSS2 binds with high affinity to the HKU1 receptor binding domain (Kd 334 and 137 nM for HKU1A and HKU1B genotypes) but not to SARS-CoV-2. Conserved amino acids in the HKU1 receptor binding domain are essential for binding to TMPRSS2 and pseudovirus infection. Newly designed anti-TMPRSS2 nanobodies potently inhibit HKU1 spike attachment to TMPRSS2, fusion and pseudovirus infection. The nanobodies also reduce infection of primary human bronchial cells by an authentic HKU1 virus. Our findings illustrate the various evolution strategies of coronaviruses, which use TMPRSS2 to either directly bind to target cells or prime their spike for membrane fusion and entry."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s), under exclusive licence to Springer Nature Limited."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-0872-1529"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Saunders",
+        "ForeName": "Nell",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Structural Virology Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Fernandez",
+        "ForeName": "Ignacio",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5142-7253"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Humoral Immunology Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, INSERM U1222, Paris, France."
+          }
+        ],
+        "LastName": "Planchais",
+        "ForeName": "Cyril",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7025-4343"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pathogenesis of Vascular Infections Unit, Institut Pasteur, INSERM, Paris, France."
+          }
+        ],
+        "LastName": "Michel",
+        "ForeName": "Vincent",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Rajah",
+        "ForeName": "Maaran Michael",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nanoimaging core, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, INSERM U1222, Paris, France."
+          }
+        ],
+        "LastName": "Baquero Salazar",
+        "ForeName": "Eduard",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Postal",
+        "ForeName": "Jeanne",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8995-3614"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Porrot",
+        "ForeName": "Francoise",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Guivel-Benhassine",
+        "ForeName": "Florence",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4214-1381"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pasteur-TheraVectys Joint Lab, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, Paris, France."
+          }
+        ],
+        "LastName": "Blanc",
+        "ForeName": "Catherine",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Antibody Engineering Platform, C2RT, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3528, Paris, France."
+          }
+        ],
+        "LastName": "Chauveau-Le Friec",
+        "ForeName": "Ga\u00eblle",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Augustin",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Grzelak",
+        "ForeName": "Ludivine",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Structural Virology Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Oktavia",
+        "ForeName": "Rischa Maya",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Structural Virology Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Meola",
+        "ForeName": "Annalisa",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Structural Virology Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Ahouzi",
+        "ForeName": "Olivia",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Hoover-Watson",
+        "ForeName": "Hunter",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "G5 Evolutionary Genomics of RNA Viruses, Institut Pasteur, Paris, France."
+          }
+        ],
+        "LastName": "Prot",
+        "ForeName": "Matthieu",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4970-9566"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "G5 Evolutionary Genomics of RNA Viruses, Institut Pasteur, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institut de Recherche Biom\u00e9dicale des Arm\u00e9es, Br\u00e9tigny-sur-Orge, France."
+          }
+        ],
+        "LastName": "Delaune",
+        "ForeName": "Deborah",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Microbiology and Infection Prevention, Amsterdam UMC, Molecular Diagnostic Unit, University of Amsterdam, Amsterdam, The Netherlands."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Amsterdam Institute for Infection and Immunity, Amsterdam, The Netherlands."
+          }
+        ],
+        "LastName": "Cornelissen",
+        "ForeName": "Marion",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Amsterdam Institute for Infection and Immunity, Amsterdam, The Netherlands."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Microbiology and Infection Prevention, Amsterdam UMC, Laboratory of Experimental Virology, University of Amsterdam, Amsterdam, The Netherlands."
+          }
+        ],
+        "LastName": "Deijs",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Antibody Engineering Platform, C2RT, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3528, Paris, France."
+          }
+        ],
+        "LastName": "Meriaux",
+        "ForeName": "V\u00e9ronique",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Humoral Immunology Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, INSERM U1222, Paris, France."
+          }
+        ],
+        "LastName": "Mouquet",
+        "ForeName": "Hugo",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8420-7743"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "G5 Evolutionary Genomics of RNA Viruses, Institut Pasteur, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "National Reference Center for viruses of respiratory infections, Institut Pasteur, Paris, France."
+          }
+        ],
+        "LastName": "Simon-Lori\u00e8re",
+        "ForeName": "Etienne",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2803-642X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Amsterdam Institute for Infection and Immunity, Amsterdam, The Netherlands."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Microbiology and Infection Prevention, Amsterdam UMC, Laboratory of Experimental Virology, University of Amsterdam, Amsterdam, The Netherlands."
+          }
+        ],
+        "LastName": "van der Hoek",
+        "ForeName": "Lia",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5761-1342"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Antibody Engineering Platform, C2RT, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3528, Paris, France."
+          }
+        ],
+        "LastName": "Lafaye",
+        "ForeName": "Pierre",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9953-7988"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Structural Virology Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France."
+          }
+        ],
+        "LastName": "Rey",
+        "ForeName": "Felix",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4790-7577"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France. julian.buchrieser@pasteur.fr."
+          }
+        ],
+        "LastName": "Buchrieser",
+        "ForeName": "Julian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0729-1475"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virus & Immunity Unit, Institut Pasteur, Universit\u00e9 de Paris Cit\u00e9, CNRS UMR 3569, Paris, France. olivier.schwartz@pasteur.fr."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine Research Institute, Creteil, France. olivier.schwartz@pasteur.fr."
+          }
+        ],
+        "LastName": "Schwartz",
+        "ForeName": "Olivier",
+        "Initials": "O"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nature",
+    "NlmUniqueID": "0410462",
+    "ISSNLinking": "0028-0836"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Receptors, Virus"
+    },
+    {
+      "RegistryNumber": "EC 3.4.21.-",
+      "NameOfSubstance": "Serine Endopeptidases"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Single-Domain Antibodies"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "EC 3.4.21.-",
+      "NameOfSubstance": "TMPRSS2 protein, human"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Betacoronavirus"
+    },
+    {
+      "QualifierName": [
+        "cytology",
+        "virology"
+      ],
+      "DescriptorName": "Bronchi"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "virology"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Membrane Fusion"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Receptors, Virus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Serine Endopeptidases"
+    },
+    {
+      "QualifierName": [
+        "pharmacology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Single-Domain Antibodies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Species Specificity"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Internalization"
+    }
+  ]
+}

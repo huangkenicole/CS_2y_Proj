@@ -1,0 +1,148 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29127043",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "11",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.ymeth.2017.10.011",
+      "S1046-2023(17)30314-6"
+    ],
+    "Journal": {
+      "ISSN": "1095-9130",
+      "JournalIssue": {
+        "Volume": "136",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Mar",
+          "Day": "01"
+        }
+      },
+      "Title": "Methods (San Diego, Calif.)",
+      "ISOAbbreviation": "Methods"
+    },
+    "ArticleTitle": "Fourier phase based depth-resolved nanoscale nuclear architecture mapping for cancer detection.",
+    "Pagination": {
+      "StartPage": "134",
+      "EndPage": "151",
+      "MedlinePgn": "134-151"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Quantitative phase imaging (QPI) modality has been widely adopted in a variety of applications ranging from identifying photomask defects in lithography to characterizing cell structure and tissue morphology in cancer. Traditional QPI utilizes the electromagnetic phase of transmitted light to measure, with nanometer scale sensitivity, alterations in the optical thickness of a sample of interest. In our work, the QPI paradigm is generalized to study depth-resolved properties of phase objects with slowly varying refractive index without a strong interface by utilizing the Fourier phase associated with Fourier-domain optical coherence tomography (FD-OCT). Specifically, based on computing the Fourier phase of light back-scattered by cell nuclei, we have developed nanoscale nuclear architecture mapping (nanoNAM) method that quantifies, with nanoscale sensitivity, (a) the depth-resolved alterations in mean nuclear optical density, and (b) depth-resolved localized heterogeneity in optical density of the cell nuclei. We have used nanoNAM to detect malignant transformation in colon carcinogenesis, even in tissue that appears histologically normal according to pathologists, thereby showing its potential as a pathology aid in cases where pathology examination remains inconclusive, and for screening patient populations at risk of developing cancer. In this paper, we integrate all aspects of nanoNAM, from principle through instrumentation and analysis, to show that nanoNAM is a promising, low-cost, and label-free method for identifying pathologically indeterminate pre-cancerous and cancerous cells. Importantly, it can seamlessly integrate into the clinical pipeline by utilizing clinically prepared formalin-fixed, paraffin-embedded tissue sections."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2017 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational and Systems Biology, University of Pittsburgh, Pittsburgh, PA, United States. Electronic address: shf28@pitt.edu."
+          }
+        ],
+        "LastName": "Uttam",
+        "ForeName": "Shikhar",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Optical Imaging Laboratory, Departments of Medicine and Bioengineering, University of Pittsburgh, Pittsburgh, PA, United States; University of Pittsburgh Cancer Institute, Pittsburgh, PA, United States. Electronic address: liuy@pitt.edu."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Yang",
+        "Initials": "Y"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 CA185363",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 EB016657",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Methods",
+    "NlmUniqueID": "9426302",
+    "ISSNLinking": "1046-2023"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "ultrastructure"
+      ],
+      "DescriptorName": "Cell Nucleus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fourier Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Interpretation, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Tomography, Optical Coherence"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Delta",
+      "Omicron",
+      "RT-PCR",
+      "SARS-CoV-2",
+      "genotyping",
+      "in vitro diagnostics",
+      "mutations",
+      "next-generation sequencing",
+      "variants"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35766514",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e00342-22",
+      "10.1128/jcm.00342-22"
+    ],
+    "Journal": {
+      "ISSN": "1098-660X",
+      "JournalIssue": {
+        "Volume": "60",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jul",
+          "Day": "20"
+        }
+      },
+      "Title": "Journal of clinical microbiology",
+      "ISOAbbreviation": "J Clin Microbiol"
+    },
+    "ArticleTitle": "A Method for Variant Agnostic Detection of SARS-CoV-2, Rapid Monitoring of Circulating Variants, and Early Detection of Emergent Variants Such as Omicron.",
+    "Pagination": {
+      "StartPage": "e0034222",
+      "MedlinePgn": "e0034222"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The rapid emergence of SARS-CoV-2 variants raised public health questions concerning the capability of diagnostic tests to detect new strains, the efficacy of vaccines, and how to map the geographical distribution of variants to understand transmission patterns and loads on healthcare resources. Next-generation sequencing (NGS) is the primary method for detecting and tracing new variants, but it is expensive, and it can take weeks before sequence data are available in public repositories. This article describes a customizable reverse transcription PCR (RT-PCR)-based genotyping approach which is significantly less expensive, accelerates reporting, and can be implemented in any lab that performs RT-PCR. Specific single-nucleotide polymorphisms (SNPs) and indels were identified which had high positive-percent agreement (PPA) and negative-percent agreement (NPA) compared to NGS for the major genotypes that circulated through September 11, 2021. Using a 48-marker panel, testing on 1,031 retrospective SARS-CoV-2 positive samples yielded a PPA and NPA ranging from 96.3 to 100% and 99.2 to 100%, respectively, for the top 10 most prevalent World Health Organization (WHO) lineages during that time. The effect of reducing the quantity of panel markers was explored, and a 16-marker panel was determined to be nearly as effective as the 48-marker panel at lineage assignment. Responding to the emergence of Omicron, a genotyping panel was developed which distinguishes Delta and Omicron using four highly specific SNPs. The results demonstrate the utility of the condensed panel to rapidly track the growing prevalence of Omicron across the US in December 2021 and January 2022."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Personalized Science, Burlington, Vermont, USA."
+          }
+        ],
+        "LastName": "Lai",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "OOMVELT, Lakewood, Ohio, USA."
+          }
+        ],
+        "LastName": "Kennedy",
+        "ForeName": "Emily B",
+        "Initials": "EB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ROSALIND, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Lozach",
+        "ForeName": "Jean",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Thermo Fisher Scientific, South San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Hayashibara",
+        "ForeName": "Kathleen",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ROSALIND, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Davis-Turak",
+        "ForeName": "Jeremy",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix OpCo, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Becker",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Thermo Fisher Scientific, South San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Brzoska",
+        "ForeName": "Pius",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix OpCo, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Cassens",
+        "ForeName": "Tyler",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Thermo Fisher Scientific, South San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Diamond",
+        "ForeName": "Evan",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Thermo Fisher Scientific, South San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Gandhi",
+        "ForeName": "Manoj",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7443-0527"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington Medical Center, Seattle, Washington, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Greninger",
+        "ForeName": "Alexander L",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington Medical Center, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Hajian",
+        "ForeName": "Pooneh",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix OpCo, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Leonetti",
+        "ForeName": "Nicole A",
+        "Initials": "NA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix OpCo, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Jason M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomx, Dana Point, California, USA."
+          }
+        ],
+        "LastName": "O'Donovan",
+        "ForeName": "K M Clair",
+        "Initials": "KMC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix OpCo, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Peck",
+        "ForeName": "Troy",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix OpCo, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Ramirez",
+        "ForeName": "Jimmy M",
+        "Initials": "JM",
+        "Suffix": "3rd"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4567-8232"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington Medical Center, Seattle, Washington, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, Washington, USA."
+          }
+        ],
+        "LastName": "Roychoudhury",
+        "ForeName": "Pavitra",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix OpCo, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Sandoval",
+        "ForeName": "Efren",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ROSALIND, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Wesselman",
+        "ForeName": "Cassandra",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ROSALIND, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Wesselman",
+        "ForeName": "Timothy",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix OpCo, San Diego, California, USA."
+          }
+        ],
+        "LastName": "White",
+        "ForeName": "Simon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Thermo Fisher Scientific, South San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Williams",
+        "ForeName": "Stephen",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helix OpCo, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Wong",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biocomx, Dana Point, California, USA."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Yufei",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5488-4444"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Seegene Technologies, Walnut Creek, California, USA."
+          }
+        ],
+        "LastName": "Creager",
+        "ForeName": "Richard S",
+        "Initials": "RS"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U54 EB015408",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54 EB027690",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "75N92022P00030",
+        "Agency": "HHS | NIH | National Institute of Biomedical Imaging and Bioengineering (NIBIB)",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Clin Microbiol",
+    "NlmUniqueID": "7505564",
+    "ISSNLinking": "0095-1137"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acid Amplification Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

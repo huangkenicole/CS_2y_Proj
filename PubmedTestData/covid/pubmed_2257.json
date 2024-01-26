@@ -1,0 +1,623 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35027731",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "01",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41556-021-00821-8"
+    ],
+    "Journal": {
+      "ISSN": "1476-4679",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Nature cell biology",
+      "ISOAbbreviation": "Nat Cell Biol"
+    },
+    "ArticleTitle": "BRD2 inhibition blocks SARS-CoV-2 infection by reducing transcription of the host cell receptor ACE2.",
+    "Pagination": {
+      "StartPage": "24",
+      "EndPage": "34",
+      "MedlinePgn": "24-34"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "SARS-CoV-2 infection of human cells is initiated by the binding of the viral Spike protein to its cell-surface receptor ACE2. We conducted a targeted CRISPRi screen to uncover druggable pathways controlling Spike protein binding to human cells. Here we show that the protein BRD2 is required for ACE2 transcription in human lung epithelial cells and cardiomyocytes, and BRD2 inhibitors currently evaluated in clinical trials potently block endogenous ACE2 expression and SARS-CoV-2 infection of human cells, including those of human nasal epithelia. Moreover, pharmacological BRD2 inhibition with the drug ABBV-744 inhibited SARS-CoV-2 replication in Syrian hamsters. We also found that BRD2 controls transcription of several other genes induced upon SARS-CoV-2 infection, including the interferon response, which in turn regulates the antiviral response. Together, our results pinpoint BRD2 as a potent and essential regulator of the host response to SARS-CoV-2 infection and highlight the potential of BRD2 as a therapeutic target for COVID-19."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s), under exclusive licence to Springer Nature Limited."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Neurodegenerative Diseases, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Chan-Zuckerberg Biohub, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Samelson",
+        "ForeName": "Avi J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9263-0733"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Populations and Pathogenesis Unit, Institut Pasteur, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "\u00c9cole Doctorale BioSPC, Universit\u00e9 de Paris, Sorbonne Paris Cit\u00e9, Paris, France."
+          }
+        ],
+        "LastName": "Tran",
+        "ForeName": "Quang Dinh",
+        "Initials": "QD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institut Pasteur, CIVIC Group, Virus and Immunity Unit, Universit\u00e9 de Paris, Paris, France."
+          }
+        ],
+        "LastName": "Robinot",
+        "ForeName": "R\u00e9my",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiology Department, NYU-Langone, New York, NY, USA."
+          }
+        ],
+        "LastName": "Carrau",
+        "ForeName": "Lucia",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Populations and Pathogenesis Unit, Institut Pasteur, Paris, France."
+          }
+        ],
+        "LastName": "Rezelj",
+        "ForeName": "Veronica V",
+        "Initials": "VV"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5218-6690"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Populations and Pathogenesis Unit, Institut Pasteur, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "\u00c9cole Doctorale BioSPC, Universit\u00e9 de Paris, Sorbonne Paris Cit\u00e9, Paris, France."
+          }
+        ],
+        "LastName": "Kain",
+        "ForeName": "Alice Mac",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Neurodegenerative Diseases, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Chan-Zuckerberg Biohub, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Merissa",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7506-2711"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institutes, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Sciences PhD Program, University of California San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Ramadoss",
+        "ForeName": "Gokul N",
+        "Initials": "GN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Neurodegenerative Diseases, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Chan-Zuckerberg Biohub, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Xiaoyan",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2136-2732"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Antibody Engineering, Genentech Inc., San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Lim",
+        "ForeName": "Shion A",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6171-5443"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Lui",
+        "ForeName": "Irene",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cellular and Molecular Pharmacology, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, University of California San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Nu\u00f1ez",
+        "ForeName": "James K",
+        "Initials": "JK"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2869-0221"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institutes, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Rockwood",
+        "ForeName": "Sarah J",
+        "Initials": "SJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine, Southern University of Science and Technology, Shenzhen, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Jianhui",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine, Southern University of Science and Technology, Shenzhen, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Na",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Synthego Corporation, Redwood City, CA, USA."
+          }
+        ],
+        "LastName": "Carlson-Stevermer",
+        "ForeName": "Jared",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Synthego Corporation, Redwood City, CA, USA."
+          }
+        ],
+        "LastName": "Oki",
+        "ForeName": "Jennifer",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Synthego Corporation, Redwood City, CA, USA."
+          }
+        ],
+        "LastName": "Maures",
+        "ForeName": "Travis",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3091-4124"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Synthego Corporation, Redwood City, CA, USA."
+          }
+        ],
+        "LastName": "Holden",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2445-670X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cellular and Molecular Pharmacology, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Whitehead Institute for Biomedical Research, Cambridge, MA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, Massachusetts Institute of Technology, Cambridge, USA."
+          }
+        ],
+        "LastName": "Weissman",
+        "ForeName": "Jonathan S",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8267-5519"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chan-Zuckerberg Biohub, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Chemistry, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cellular and Molecular Pharmacology, University of California San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Wells",
+        "ForeName": "James A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institutes, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cellular and Molecular Pharmacology, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ophthalmology, University of California San Francisco, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of California San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Conklin",
+        "ForeName": "Bruce R",
+        "Initials": "BR"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0324-3078"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiology Department, NYU-Langone, New York, NY, USA."
+          }
+        ],
+        "LastName": "TenOever",
+        "ForeName": "Benjamin R",
+        "Initials": "BR"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1895-3630"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institut Pasteur, CIVIC Group, Virus and Immunity Unit, Universit\u00e9 de Paris, Paris, France."
+          }
+        ],
+        "LastName": "Chakrabarti",
+        "ForeName": "Lisa A",
+        "Initials": "LA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4400-771X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Viral Populations and Pathogenesis Unit, Institut Pasteur, Paris, France."
+          }
+        ],
+        "LastName": "Vignuzzi",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7680-6682"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Neurodegenerative Diseases, University of California San Francisco, San Francisco, CA, USA. tianrl@sustech.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Chan-Zuckerberg Biohub, San Francisco, CA, USA. tianrl@sustech.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine, Southern University of Science and Technology, Shenzhen, China. tianrl@sustech.edu.cn."
+          }
+        ],
+        "LastName": "Tian",
+        "ForeName": "Ruilin",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3819-7019"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Neurodegenerative Diseases, University of California San Francisco, San Francisco, CA, USA. martin.kampmann@ucsf.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Chan-Zuckerberg Biohub, San Francisco, CA, USA. martin.kampmann@ucsf.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, CA, USA. martin.kampmann@ucsf.edu."
+          }
+        ],
+        "LastName": "Kampmann",
+        "ForeName": "Martin",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "F32 AG063487",
+        "Acronym": "AG",
+        "Agency": "NIA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P01 HL089707",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 ES032673",
+        "Acronym": "ES",
+        "Agency": "NIEHS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Cell Biol",
+    "NlmUniqueID": "100890575",
+    "ISSNLinking": "1465-7392"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "BRD2 protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Membrane Glycoproteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Transcription Factors"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "ACE2 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "Angiotensin-Converting Enzyme 2"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2021 Sep 20;:",
+      "PMID": "33501440"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "drug effects",
+        "metabolism"
+      ],
+      "DescriptorName": "Angiotensin-Converting Enzyme 2"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "Epithelial Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Membrane Glycoproteins"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "metabolism"
+      ],
+      "DescriptorName": "Transcription Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests:</b> JCS, JO, TM and KH are employees and shareholders of Synthego Corporation. All other authors declare no competing interests."
+}

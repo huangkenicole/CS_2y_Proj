@@ -1,0 +1,234 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33351828",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0244241",
+      "10.1371/journal.pone.0244241"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2020"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Multi-resolution visualization and analysis of biomolecular networks through hierarchical community detection and web-based graphical tools.",
+    "Pagination": {
+      "StartPage": "e0244241",
+      "MedlinePgn": "e0244241"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The visual exploration and analysis of biomolecular networks is of paramount importance for identifying hidden and complex interaction patterns among proteins. Although many tools have been proposed for this task, they are mainly focused on the query and visualization of a single protein with its neighborhood. The global exploration of the entire network and the interpretation of its underlying structure still remains difficult, mainly due to the excessively large size of the biomolecular networks. In this paper we propose a novel multi-resolution representation and exploration approach that exploits hierarchical community detection algorithms for the identification of communities occurring in biomolecular networks. The proposed graphical rendering combines two types of nodes (protein and communities) and three types of edges (protein-protein, community-community, protein-community), and displays communities at different resolutions, allowing the user to interactively zoom in and out from different levels of the hierarchy. Links among communities are shown in terms of relationships and functional correlations among the biomolecules they contain. This form of navigation can be also combined by the user with a vertex centric visualization for identifying the communities holding a target biomolecule. Since communities gather limited-size groups of correlated proteins, the visualization and exploration of complex and large networks becomes feasible on off-the-shelf computer machines. The proposed graphical exploration strategies have been implemented and integrated in UNIPred-Web, a web application that we recently introduced for combining the UNIPred algorithm, able to address both integration and protein function prediction in an imbalance-aware fashion, with an easy to use vertex-centric exploration of the integrated network. The tool has been deeply amended from different standpoints, including the prediction core algorithm. Several tests on networks of different size and connectivity have been conducted to show off the vast potential of our methodology; moreover, enrichment analyses have been performed to assess the biological meaningfulness of detected communities. Finally, a CoV-human network has been embedded in the system, and a corresponding case study presented, including the visualization and the prediction of human host proteins that potentially interact with SARS-CoV2 proteins."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6674-2822"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AnacletoLab, Department of Computer Science, University of Milan, Milan, Italy."
+          }
+        ],
+        "LastName": "Perlasca",
+        "ForeName": "Paolo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AnacletoLab, Department of Computer Science, University of Milan, Milan, Italy."
+          }
+        ],
+        "LastName": "Frasca",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4035-7464"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AnacletoLab, Department of Computer Science, University of Milan, Milan, Italy."
+          }
+        ],
+        "LastName": "Ba",
+        "ForeName": "Cheick Tidiane",
+        "Initials": "CT"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7629-8112"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Neuroradiology Unit, IRCCS San Raffaele Hospital, Milan, Italy."
+          }
+        ],
+        "LastName": "Gliozzo",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4309-2200"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AnacletoLab, Department of Computer Science, University of Milan, Milan, Italy."
+          }
+        ],
+        "LastName": "Notaro",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AnacletoLab, Department of Computer Science, University of Milan, Milan, Italy."
+          }
+        ],
+        "LastName": "Pennacchioni",
+        "ForeName": "Mario",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5694-3919"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AnacletoLab, Department of Computer Science, University of Milan, Milan, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CINI National Laboratory in Artificial Intelligence and Intelligent Systems-AIIS, Rome, Italy."
+          }
+        ],
+        "LastName": "Valentini",
+        "ForeName": "Giorgio",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5701-0080"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AnacletoLab, Department of Computer Science, University of Milan, Milan, Italy."
+          }
+        ],
+        "LastName": "Mesiti",
+        "ForeName": "Marco",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Metabolic Networks and Pathways"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

@@ -1,0 +1,208 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35576211",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "05",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1010054",
+      "10.1371/journal.pcbi.1010054"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "May"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Appropriate relaxation of non-pharmaceutical interventions minimizes the risk of a resurgence in SARS-CoV-2 infections in spite of the Delta variant.",
+    "Pagination": {
+      "StartPage": "e1010054",
+      "MedlinePgn": "e1010054"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We analyze the relaxation of non-pharmaceutical interventions (NPIs) under an increasing number of vaccinations in Germany. For the spread of SARS-CoV-2 we employ a SIR-type model that accounts for age-dependence and includes realistic contact patterns between age groups. The implementation of NPIs occurs on changed contact patterns, improved isolation, or reduced infectiousness when, e.g., wearing masks. We account for spatial heterogeneity and commuting activities in between regions in Germany, and the testing of commuters is considered as a further NPI. We include the ongoing vaccination process and analyze the effect of the B.1.617.2 (Delta) variant, which is considered to be 40%-60% more infectious then the currently dominant B.1.1.7 (Alpha) variant. We explore different opening scenarios under the ongoing vaccination process by assuming that local restrictions are either lifted in early July or August with or without continued wearing of masks and testing. Our results indicate that we can counteract the resurgence of SARS-CoV-2 despite the Delta variant with appropriate timing for the relaxation of NPIs. In all cases, however, school children are hit the hardest."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3912-6615"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Software Technology, Department of High-Performance Computing, German Aerospace Center, Cologne, Germany."
+          }
+        ],
+        "LastName": "Koslow",
+        "ForeName": "Wadim",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0906-6984"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Software Technology, Department of High-Performance Computing, German Aerospace Center, Cologne, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Systems Immunology and Braunschweig Integrated Centre of Systems Biology (BRICS), Helmholtz Centre for Infection Research, Braunschweig, Germany."
+          }
+        ],
+        "LastName": "K\u00fchn",
+        "ForeName": "Martin J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1169-1786"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Systems Immunology and Braunschweig Integrated Centre of Systems Biology (BRICS), Helmholtz Centre for Infection Research, Braunschweig, Germany."
+          }
+        ],
+        "LastName": "Binder",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3657-4180"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Software Technology, Department of High-Performance Computing, German Aerospace Center, Cologne, Germany."
+          }
+        ],
+        "LastName": "Klitz",
+        "ForeName": "Margrit",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7021-1573"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Software Technology, Department of High-Performance Computing, German Aerospace Center, Cologne, Germany."
+          }
+        ],
+        "LastName": "Abele",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3637-3231"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Software Technology, Department of High-Performance Computing, German Aerospace Center, Cologne, Germany."
+          }
+        ],
+        "LastName": "Basermann",
+        "ForeName": "Achim",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Systems Immunology and Braunschweig Integrated Centre of Systems Biology (BRICS), Helmholtz Centre for Infection Research, Braunschweig, Germany."
+          }
+        ],
+        "LastName": "Meyer-Hermann",
+        "ForeName": "Michael",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Masks"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccination"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

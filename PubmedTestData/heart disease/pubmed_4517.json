@@ -1,0 +1,132 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Deep learning",
+      "ECG",
+      "Heart disease",
+      "Imbalanced data",
+      "Literature review",
+      "Machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35534143",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "03",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.artmed.2022.102289",
+      "S0933-3657(22)00054-9"
+    ],
+    "Journal": {
+      "ISSN": "1873-2860",
+      "JournalIssue": {
+        "Volume": "128",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Artificial intelligence in medicine",
+      "ISOAbbreviation": "Artif Intell Med"
+    },
+    "ArticleTitle": "Machine learning-based heart disease diagnosis: A systematic literature review.",
+    "Pagination": {
+      "StartPage": "102289",
+      "MedlinePgn": "102289"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Heart disease is one of the significant challenges in today's world and one of the leading causes of many deaths worldwide. Recent advancement of machine learning (ML) application demonstrates that using electrocardiogram (ECG) and patients' data, detecting heart disease during the early stage is feasible. However, both ECG and patients' data are often imbalanced, which ultimately raises a challenge for the traditional ML to perform unbiasedly. Over the years, several data level and algorithm level solutions have been exposed by many researchers and practitioners. To provide a broader view of the existing literature, this study takes a systematic literature review (SLR) approach to uncover the challenges associated with imbalanced data in heart diseases predictions. Before that, we conducted a meta-analysis using 451 reference literature acquired from the reputed journals between 2012 and November 15, 2021. For in-depth analysis, 49 referenced literature has been considered and studied, taking into account the following factors: heart disease type, algorithms, applications, and solutions. Our SLR study revealed that the current approaches encounter various open problems/issues when dealing with imbalanced data, eventually hindering their practical applicability and functionality. In the diagnosis of heart disease, machine learning approaches help to improve data-driven decision-making. A metadata analysis of 451 articles and content analysis of 49 selected articles of heart disease diagnosis. Researchers primarily concentrated on enhancing the performance of the models while disregarding other issues such as the interpretability and explainability of Machine learning algorithms."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dept. of Industrial and Systems Engineering, University of Oklahoma, Norman, OK 73071, USA. Electronic address: ahsan@ou.edu."
+          }
+        ],
+        "LastName": "Ahsan",
+        "ForeName": "Md Manjurul",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dept. of Aerospace and Mechanical Engineering, University of Oklahoma, Norman, OK 73071, USA. Electronic address: zsiddique@ou.edu."
+          }
+        ],
+        "LastName": "Siddique",
+        "ForeName": "Zahed",
+        "Initials": "Z"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Review",
+      "Systematic Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Artif Intell Med",
+    "NlmUniqueID": "8915031",
+    "ISSNLinking": "0933-3657"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electrocardiography"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "Benford",
+      "First digit",
+      "Mass spectrometry",
+      "Newcomb",
+      "Peak area",
+      "Transfusion medicine"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33246837",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.transci.2020.103019",
+      "S1473-0502(20)30342-6"
+    ],
+    "Journal": {
+      "ISSN": "1473-0502",
+      "JournalIssue": {
+        "Volume": "59",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Transfusion and apheresis science : official journal of the World Apheresis Association : official journal of the European Society for Haemapheresis",
+      "ISOAbbreviation": "Transfus Apher Sci"
+    },
+    "ArticleTitle": "Benford's law and metabolomics: A tale of numbers and blood.",
+    "Pagination": {
+      "StartPage": "103019",
+      "MedlinePgn": "103019"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Newcomb-Benford law - also known as the \"law of anomalous numbers\" or, more commonly, Benford's law - predicts that the distribution of the first significant digit of random numbers obtained from mixed probability distributions follows a predictable pattern and reveals some universal behavior. Specifically, given a dataset of empirical measures, the likelihood of the first digit of any number being 1 is \u223c30 %, \u223c18 % for 2, 12.5 % for 3 and so on, with a decreasing probability all the way to number 9. If the digits were distributed uniformly, all the numbers 1 through 9 would have the same probability to appear as the first digit in any given empirical random measurement. However, this is not the case, as this law defies common sense and seems to apply seamlessly to large data. The use of omics technologies and, in particular, metabolomics has generated a wealth of big data in the field of transfusion medicine. In the present meta-analysis, we focused on previous big data from metabolomics studies of relevance to transfusion medicine: one on the quality of stored red blood cells, one on the phenotypes of transfusion recipients, i.e. trauma patients suffering from trauma and hemorrhage, and one of relevance to the 2020 SARS-COV-2 global pandemic. We show that metabolomics data follow a Benford's law distribution, an observation that could be relevant for future application of the \"law of anomalous numbers\" in the field of quality control processes in transfusion medicine."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Molecular Genetics, University of Colorado Denver - Anschutz Medical Campus, Aurora, CO, 80045 USA. Electronic address: angelo.dalessandro@ucdenver.edu."
+          }
+        ],
+        "LastName": "D'Alessandro",
+        "ForeName": "Angelo",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 HL146442",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "RM1 GM131968",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HL148151",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 HL150032",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HL149714",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Transfus Apher Sci",
+    "NlmUniqueID": "101095653",
+    "ISSNLinking": "1473-0502"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "blood",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Metabolomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "<b>Conflict of interest</b>. Though unrelated to the contents of the manuscript, AD discloses that he is a founder of Omix Technologies inc and Altis Biosciences LLC. AD is a scientific advisory board member for Hemanext inc and Forma inc and a consultant for Rubius Therapeutics."
+}

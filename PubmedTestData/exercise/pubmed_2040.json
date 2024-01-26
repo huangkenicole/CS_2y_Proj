@@ -1,0 +1,183 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24860037",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "07",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "05",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNSRE.2014.2326254"
+    ],
+    "Journal": {
+      "ISSN": "1558-0210",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Nov"
+        }
+      },
+      "Title": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+      "ISOAbbreviation": "IEEE Trans Neural Syst Rehabil Eng"
+    },
+    "ArticleTitle": "A computerized recognition system for the home-based physiotherapy exercises using an RGBD camera.",
+    "Pagination": {
+      "StartPage": "1160",
+      "EndPage": "1171",
+      "MedlinePgn": "1160-71"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Computerized recognition of the home based physiotherapy exercises has many benefits and it has attracted considerable interest among the computer vision community. However, most methods in the literature view this task as a special case of motion recognition. In contrast, we propose to employ the three main components of a physiotherapy exercise (the motion patterns, the stance knowledge, and the exercise object) as different recognition tasks and embed them separately into the recognition system. The low level information about each component is gathered using machine learning methods. Then, we use a generative Bayesian network to recognize the exercise types by combining the information from these sources at an abstract level, which takes the advantage of domain knowledge for a more robust system. Finally, a novel postprocessing step is employed to estimate the exercise repetitions counts. The performance evaluation of the system is conducted with a new dataset which contains RGB (red, green, and blue) and depth videos of home-based exercise sessions for commonly applied shoulder and knee exercises. The proposed system works without any body-part segmentation, bodypart tracking, joint detection, and temporal segmentation methods. In the end, favorable exercise recognition rates and encouraging results on the estimation of repetition counts are obtained."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ar",
+        "ForeName": "Ilktan",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Akgul",
+        "ForeName": "Yusuf Sinan",
+        "Initials": "YS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Neural Syst Rehabil Eng",
+    "NlmUniqueID": "101097023",
+    "ISSNLinking": "1534-4320"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Biofeedback, Psychology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Color"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Equipment Design"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Equipment Failure Analysis"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Imaging, Three-Dimensional"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Monitoring, Ambulatory"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Pattern Recognition, Automated"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Self Care"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "instrumentation"
+      ],
+      "DescriptorName": "Signal Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Telemedicine"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Whole Body Imaging"
+    }
+  ]
+}

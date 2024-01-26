@@ -1,0 +1,195 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Adhesiveness",
+      "Cancerization gradation",
+      "Cellular classification",
+      "Cellular elastic modulus (CEM)",
+      "Cellular mechanical phenotype (CMP)",
+      "Cellular membrane tension (CMT)",
+      "Work of adhesion (WoA)"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36581006",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "12",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.actbio.2022.12.035",
+      "S1742-7061(22)00838-8"
+    ],
+    "Journal": {
+      "ISSN": "1878-7568",
+      "JournalIssue": {
+        "Volume": "158",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Mar",
+          "Day": "01"
+        }
+      },
+      "Title": "Acta biomaterialia",
+      "ISOAbbreviation": "Acta Biomater"
+    },
+    "ArticleTitle": "Atomic force microscopy-based assessment of multimechanical cellular properties for classification of graded bladder cancer cells and cancer early diagnosis using machine learning analysis.",
+    "Pagination": {
+      "StartPage": "358",
+      "EndPage": "373",
+      "MedlinePgn": "358-373"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cellular mechanical properties (CMPs) have been frequently reported as biomarkers for cell cancerization to assist objective cytology, compared to the current subjective method dependent on cytomorphology. However, single or dual CMPs cannot always successfully distinguish every kind of malignant cell from its benign counterpart. In this work, we extract 4 CMPs of four different graded bladder cancer (BC) cell lines by AFM (atomic force microscopy)-based nanoindentation to generate a CMP database, which is used to train a cancerization-grade classifier by machine learning. The classifier is tested on 4 categories of BC cells at different cancer grades. The classification shows split-independent robustness and an accuracy of 91.25% with an AUC-ROC (ROC stands for receiver operating characteristic, and ROC curve is a graphical plot which illustrates the performance of a binary classifier system as its discrimination threshold is varied) value of 97.98%. Finally, we also compare our proposed method with traditional invasive diagnosis and noninvasive cancer diagnosis relying on cytomorphology, in terms of accuracy, sensitivity and specificity. Unlike former studies focusing on the discrimination between normal and cancerous cells, our study fulfills the classification of 4 graded cell lines at different cancerization stages, and thus provides a potential method for early detection of cancerization. STATEMENT OF SIGNIFICANCE: We measured four cellular mechanical properties (CMPs) of 4 graded bladder cancer (BC) cell lines using AFM (atomic force microscopy). We found that single or dual CMPs cannot fulfill the task of BC cell classification. Instead, we employ MLA (Machine Learning Algorithm)-based analysis whose inputs are BC CMPs. Compared with traditional cytomorphology-based prognoses, the non-invasive method proposed in this study has higher accuracy but with many fewer cellular properties as inputs. The proposed non-invasive prognosis is characterized with high sensitivity and specificity, and thus provides a potential tumor-grading means to identify cancer cells with different metastatic potential. Moreover, our study proposes an objective grading method based on quantitative characteristics desirable for avoiding misdiagnosis induced by ambiguous subjectivity."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022. Published by Elsevier Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Mechanism Theory and Equipment Design of Ministry of Education, Tianjin University, Tianjin 300350, China. Electronic address: xjtuzhuxinyaoedu@sina.com."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Xinyao",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Mechanism Theory and Equipment Design of Ministry of Education, Tianjin University, Tianjin 300350, China."
+          }
+        ],
+        "LastName": "Qin",
+        "ForeName": "Rui",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "International Research Centre for Nano Handling and Manufacturing of China, Changchun University of Science and Technology, Changchun 130022, China; JR3CN & IRAC, University of Bedfordshire, Luton LU1 3JU, UK."
+          }
+        ],
+        "LastName": "Qu",
+        "ForeName": "Kaige",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "International Research Centre for Nano Handling and Manufacturing of China, Changchun University of Science and Technology, Changchun 130022, China; JR3CN & IRAC, University of Bedfordshire, Luton LU1 3JU, UK."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Zuobin",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Mechanical and Vehicle Engineering, Taiyuan University of Technology, Taiyuan 030000, China."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Xuexia",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Engineering and Physical Sciences, University of Surrey, Guilford GU2 7XH, UK."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Wei",
+        "Initials": "W"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Acta Biomater",
+    "NlmUniqueID": "101233144",
+    "ISSNLinking": "1742-7061"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Acta Biomater. 2023 May;162:324",
+      "PMID": "36966068"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Microscopy, Atomic Force"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Early Detection of Cancer"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Urinary Bladder Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest We declare that we have no financial and personal relationships with other people or organizations that can inappropriately influence our work, there is no professional or other personal interest of any nature or kind in any product, service and/or company that could be construed as influencing the position presented in, or the review of, the manuscript entitled, \u201cAtomic Force Microscopy\u2013based assessment of multimechanical cellular properties for classification of graded bladder cancer cells and cancer early diagnosis using machine learning analysis.\u201d"
+}

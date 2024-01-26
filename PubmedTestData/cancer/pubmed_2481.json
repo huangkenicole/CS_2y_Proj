@@ -1,0 +1,100 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "20180273",
+  "DateCompleted": {
+    "Year": "2010",
+    "Month": "06",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2010",
+    "Month": "02",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0919-9454",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2009",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Genome informatics. International Conference on Genome Informatics",
+      "ISOAbbreviation": "Genome Inform"
+    },
+    "ArticleTitle": "Cancer classification using single genes.",
+    "Pagination": {
+      "StartPage": "179",
+      "EndPage": "188",
+      "MedlinePgn": "179-88"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We present a method for She classification of cancer based on gene expression profiles using single genes. We select the genes with high class-discrimination capability according to their depended degree by the classes. We then build classifiers based on the decision rules induced by single genes selected. We test our single-gene classification method on three publicly available cancerous gene expression datasets. In a majority of cases, we gain relatively accurate classification outcomes by just utilizing one gene. Some genes highly correlated with the pathogenesis of cancer are identified. Our feature selection and classification approaches are both based on rough sets, a machine learning method. In comparison with other methods, our method is simple, effective and robust. We conclude that, if gene selection is implemented reasonably, accurate molecular classification of cancer can be achieved with very simple predictive models based on gene expression profiles."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Intelligence Science and Technology, Graduate School of Informatics, Kyoto University, Kyoto 606-8501, Japan. david@genome.ist.i.kyoto-u.ac.jp"
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Xiaosheng",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gotoh",
+        "ForeName": "Osamu",
+        "Initials": "O"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Japan",
+    "MedlineTA": "Genome Inform",
+    "NlmUniqueID": "101280573",
+    "ISSNLinking": "0919-9454"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

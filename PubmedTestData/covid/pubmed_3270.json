@@ -1,0 +1,132 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Capacity constraint",
+      "Genomic surveillance",
+      "International cooperation",
+      "Optimal allocation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37285794",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "05",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.epidem.2023.100690",
+      "S1755-4365(23)00026-9"
+    ],
+    "Journal": {
+      "ISSN": "1878-0067",
+      "JournalIssue": {
+        "Volume": "43",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Epidemics",
+      "ISOAbbreviation": "Epidemics"
+    },
+    "ArticleTitle": "Optimal capacity sharing for global genomic surveillance.",
+    "Pagination": {
+      "StartPage": "100690",
+      "MedlinePgn": "100690"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Recent technological advances and substantial cost reductions have made the genomic surveillance of pathogens during pandemics feasible. Our paper focuses on full genome sequencing as a tool that can serve two goals: the estimation of variant prevalences, and the identification of new variants. Assuming that capacity constraints limit the number of samples that can be sequenced, we solve for the optimal distribution of these capacities among countries. Our results show that if the principal goal of sequencing is prevalence estimation, then the optimal capacity distribution is less than proportional to the weights (e.g., sizes) of countries. If, however, the main aim of sequencing is the detection of new variants, capacities should be allocated to countries or regions that have the most infections. Applying our results to the sequencing of SARS-CoV-2 in 2021, we provide a comparison between the observed and a suggested optimal capacity distribution worldwide and in the EU. We believe that following such quantifiable guidance will increase the efficiency of genomic surveillance for pandemics."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 The Author(s). Published by Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Psychology, Leiden University, P.O. Box 9555, 2300 RB Leiden, Netherlands. Electronic address: z.z.meder@fsw.leidenuniv.nl."
+          }
+        ],
+        "LastName": "M\u00e9der",
+        "ForeName": "Zsombor Z",
+        "Initials": "ZZ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Economic and Social Sciences, Budapest University of Technology and Economic. Muegyetem rkp. 3., H-1111 Budapest, Hungary; Institute of Economics, Centre for Economic and Regional Studies, Toth Kalman utca 4, H-1097 Budapest, Hungary. Electronic address: somogyi.robert@gtk.bme.hu."
+          }
+        ],
+        "LastName": "Somogyi",
+        "ForeName": "Robert",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Epidemics",
+    "NlmUniqueID": "101484711",
+    "ISSNLinking": "1878-0067"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare no conflict of interest"
+}

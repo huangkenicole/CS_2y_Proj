@@ -1,0 +1,473 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33221922",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa1070"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "The UCSC Genome Browser database: 2021 update.",
+    "Pagination": {
+      "StartPage": "D1046",
+      "EndPage": "D1057",
+      "MedlinePgn": "D1046-D1057"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "For more than two decades, the UCSC Genome Browser database (https://genome.ucsc.edu) has provided high-quality genomics data visualization and genome annotations to the research community. As the field of genomics grows and more data become available, new modes of display are required to accommodate new technologies. New features released this past year include a Hi-C heatmap display, a phased family trio display for VCF files, and various track visualization improvements. Striving to keep data up-to-date, new updates to gene annotations include GENCODE Genes, NCBI RefSeq Genes, and Ensembl Genes. New data tracks added for human and mouse genomes include the ENCODE registry of candidate cis-regulatory elements, promoters from the Eukaryotic Promoter Database, and NCBI RefSeq Select and Matched Annotation from NCBI and EMBL-EBI (MANE). Within weeks of learning about the outbreak of coronavirus, UCSC released a genome browser, with detailed annotation tracks, for the SARS-CoV-2 RNA reference assembly."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Navarro Gonzalez",
+        "ForeName": "Jairo",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Zweig",
+        "ForeName": "Ann S",
+        "Initials": "AS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Speir",
+        "ForeName": "Matthew L",
+        "Initials": "ML"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Schmelter",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Rosenbloom",
+        "ForeName": "Kate R",
+        "Initials": "KR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Raney",
+        "ForeName": "Brian J",
+        "Initials": "BJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Powell",
+        "ForeName": "Conner C",
+        "Initials": "CC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Nassar",
+        "ForeName": "Luis R",
+        "Initials": "LR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Maulding",
+        "ForeName": "Nathan D",
+        "Initials": "ND"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Christopher M",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Brian T",
+        "Initials": "BT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Hinrichs",
+        "ForeName": "Angie S",
+        "Initials": "AS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Fyfe",
+        "ForeName": "Alastair C",
+        "Initials": "AC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Fernandes",
+        "ForeName": "Jason D",
+        "Initials": "JD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Diekhans",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Clawson",
+        "ForeName": "Hiram",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Casper",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Genetics Center (MGZ), Munich, Germany."
+          }
+        ],
+        "LastName": "Benet-Pag\u00e8s",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Barber",
+        "ForeName": "Galt P",
+        "Initials": "GP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Haussler",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Kuhn",
+        "ForeName": "Robert M",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Haeussler",
+        "ForeName": "Maximilian",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California Santa Cruz, Santa Cruz, CA\u00a095064, USA."
+          }
+        ],
+        "LastName": "Kent",
+        "ForeName": "W James",
+        "Initials": "WJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U41 HG007234",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HG008742",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U41 HG002371",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 MH114825",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U41 HG010972",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 HG010971",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HG010329",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Data Curation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Molecular Sequence Annotation"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ]
+}

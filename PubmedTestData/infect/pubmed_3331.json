@@ -1,0 +1,190 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33626106",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0247200",
+      "10.1371/journal.pone.0247200"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Competitive exclusion during co-infection as a strategy to prevent the spread of a virus: A computational perspective.",
+    "Pagination": {
+      "StartPage": "e0247200",
+      "MedlinePgn": "e0247200"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Inspired by the competition exclusion principle, this work aims at providing a computational framework to explore the theoretical feasibility of viral co-infection as a possible strategy to reduce the spread of a fatal strain in a population. We propose a stochastic-based model-called Co-Wish-to understand how competition between two viruses over a shared niche can affect the spread of each virus in infected tissue. To demonstrate the co-infection of two viruses, we first simulate the characteristics of two virus growth processes separately. Then, we examine their interactions until one can dominate the other. We use Co-Wish to explore how the model varies as the parameters of each virus growth process change when two viruses infect the host simultaneously. We will also investigate the effect of the delayed initiation of each infection. Moreover, Co-Wish not only examines the co-infection at the cell level but also includes the innate immune response during viral infection. The results highlight that the waiting times in the five stages of the viral infection of a cell in the model-namely attachment, penetration, eclipse, replication, and release-play an essential role in the competition between the two viruses. While it could prove challenging to fully understand the therapeutic potentials of viral co-infection, we discuss that our theoretical framework hints at an intriguing research direction in applying co-infection dynamics in controlling any viral outbreak's speed."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Biological Complex Systems and Bioinformatics (CBB), Institute of Biochemistry and Biophysics, University of Tehran, Tehran, Iran."
+          }
+        ],
+        "LastName": "Vafadar",
+        "ForeName": "Safar",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Science, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran."
+          }
+        ],
+        "LastName": "Shahdoust",
+        "ForeName": "Maryam",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Science, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran."
+          }
+        ],
+        "LastName": "Kalirad",
+        "ForeName": "Ata",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Brain and Disease Research, Flanders Institute for Biotechnology (VIB), Leuven, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences and Leuven Brain Institute, KU Leuven, Leuven, Belgium."
+          }
+        ],
+        "LastName": "Zakeri",
+        "ForeName": "Pooya",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5900-8697"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Science, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute of Genetic Engineering and Biotechnology (NIGEB), Tehran, Iran."
+          }
+        ],
+        "LastName": "Sadeghi",
+        "ForeName": "Mehdi",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "Coinfection"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Communicable Disease Control"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    },
+    {
+      "QualifierName": [
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "Virus Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Physiological Phenomena"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Viruses"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

@@ -1,0 +1,190 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Omomyc",
+      "bacterial cancer therapy",
+      "intracellular delivering Salmonella",
+      "nuclear protein delivery",
+      "synthetic biology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36710503",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "02",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/bit.28340"
+    ],
+    "Journal": {
+      "ISSN": "1097-0290",
+      "JournalIssue": {
+        "Volume": "120",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May"
+        }
+      },
+      "Title": "Biotechnology and bioengineering",
+      "ISOAbbreviation": "Biotechnol Bioeng"
+    },
+    "ArticleTitle": "Bacterial delivery of therapeutic proteins to the nuclei of cancer cells.",
+    "Pagination": {
+      "StartPage": "1437",
+      "EndPage": "1448",
+      "MedlinePgn": "1437-1448"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Targeting nucleic targets with therapeutic proteins would enhance the treatment of hard-to-treat cancers. However, exogenous proteins are excluded from the nucleus by both the cellular and nuclear membranes. We have recently developed Salmonella that deliver active proteins into the cytoplasm of cancer cells. Here, we hypothesized that bacterially delivered proteins accumulate within nuclei, nuclear localization sequences (NLSs) increase delivery, and bacterially delivered proteins kill cancer cells. To test this hypothesis, we developed intranuclear delivering (IND) Salmonella and quantified the delivery of three model proteins. IND Salmonella delivered both ovalbumin and green fluorescent protein to nuclei of MCF7 cancer cells. The amount of protein in nuclei was linearly dependent on the amount delivered to the cytoplasm. The addition of a NLSs increased both the amount of protein in each nucleus and the number of nuclei that received protein. Delivery of Omomyc, a protein inhibitor of the nuclear transcript factor, Myc, altered cell physiology, and significantly induced cell death. These results show that IND Salmonella deliver functional proteins to the nucleus of cancerous cells. Extending this method to other transcription factors will increase the number of accessible targets for cancer therapy."
+      ],
+      "CopyrightInformation": "\u00a9 2023 Wiley Periodicals LLC."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-0252-4513"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering, University of Massachusetts, Amherst, USA."
+          }
+        ],
+        "LastName": "Bloom",
+        "ForeName": "Shoshana M K",
+        "Initials": "SMK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering, University of Massachusetts, Amherst, USA."
+          }
+        ],
+        "LastName": "O'Hare",
+        "ForeName": "Nicholas",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4745-753X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering, University of Massachusetts, Amherst, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular and Cellular Biology Graduate Program, University of Massachusetts, Amherst, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Applied Life Sciences, University of Massachusetts, Amherst, USA."
+          }
+        ],
+        "LastName": "Forbes",
+        "ForeName": "Neil S",
+        "Initials": "NS"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 CA188382",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R43 CA250941",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Biotechnol Bioeng",
+    "NlmUniqueID": "7502021",
+    "ISSNLinking": "0006-3592"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "147336-22-9",
+      "NameOfSubstance": "Green Fluorescent Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Transcription Factors"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Cell Nucleus"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Green Fluorescent Proteins"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Cytoplasm"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Transcription Factors"
+    },
+    {
+      "QualifierName": [
+        "therapy",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ],
+  "CoiStatement": "Conflict of interest disclosure. Shoshana Bloom and Nicholas O\u2019Hare have no competing interests. Neil Forbes is a co-founder of Ernest Pharmaceuticals, Inc."
+}

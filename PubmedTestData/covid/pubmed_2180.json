@@ -1,0 +1,195 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33465066",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1008603",
+      "10.1371/journal.pcbi.1008603"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Modeling the structure of the frameshift-stimulatory pseudoknot in SARS-CoV-2 reveals multiple possible conformers.",
+    "Pagination": {
+      "StartPage": "e1008603",
+      "MedlinePgn": "e1008603"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus causing the COVID-19 pandemic, SARS-CoV-2, uses -1 programmed ribosomal frameshifting (-1 PRF) to control the relative expression of viral proteins. As modulating -1 PRF can inhibit viral replication, the RNA pseudoknot stimulating -1 PRF may be a fruitful target for therapeutics treating COVID-19. We modeled the unusual 3-stem structure of the stimulatory pseudoknot of SARS-CoV-2 computationally, using multiple blind structural prediction tools followed by \u03bcs-long molecular dynamics simulations. The results were compared for consistency with nuclease-protection assays and single-molecule force spectroscopy measurements of the SARS-CoV-1 pseudoknot, to determine the most likely conformations. We found several possible conformations for the SARS-CoV-2 pseudoknot, all having an extended stem 3 but with different packing of stems 1 and 2. Several conformations featured rarely-seen threading of a single strand through junctions formed between two helices. These structural models may help interpret future experiments and support efforts to discover ligands inhibiting -1 PRF in SARS-CoV-2."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-0133-3531"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Alberta, Edmonton, Alberta, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, University of Alberta, Edmonton, Alberta, Canada."
+          }
+        ],
+        "LastName": "Omar",
+        "ForeName": "Sara Ibrahim",
+        "Initials": "SI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Alberta, Edmonton, Alberta, Canada."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Meng",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3581-8016"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Alberta, Edmonton, Alberta, Canada."
+          }
+        ],
+        "LastName": "Sekar",
+        "ForeName": "Rohith Vedhthaanth",
+        "Initials": "RV"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4781-6184"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Alberta, Edmonton, Alberta, Canada."
+          }
+        ],
+        "LastName": "Moghadam",
+        "ForeName": "Sahar Arbabi",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9976-0429"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Alberta, Edmonton, Alberta, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, University of Alberta, Edmonton, Alberta, Canada."
+          }
+        ],
+        "LastName": "Tuszynski",
+        "ForeName": "Jack A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4695-0397"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Alberta, Edmonton, Alberta, Canada."
+          }
+        ],
+        "LastName": "Woodside",
+        "ForeName": "Michael T",
+        "Initials": "MT"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Frameshifting, Ribosomal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acid Conformation"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

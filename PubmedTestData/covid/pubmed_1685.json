@@ -1,0 +1,201 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "deep learning",
+      "drug repurposing",
+      "virtual screening"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34081143",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab211",
+      "10.1093/bib/bbab211"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "A transferable deep learning approach to fast screen potential antiviral drugs against SARS-CoV-2.",
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic calls for rapid development of effective treatments. Although various drug repurpose approaches have been used to screen the FDA-approved drugs and drug candidates in clinical phases against SARS-CoV-2, the coronavirus that causes this disease, no magic bullets have been found until now. In this study, we used directed message passing neural network to first build a broad-spectrum anti-beta-coronavirus compound prediction model, which gave satisfactory predictions on newly reported active compounds against SARS-CoV-2. Then, we applied transfer learning to fine-tune the model with the recently reported anti-SARS-CoV-2 compounds and derived a SARS-CoV-2 specific prediction model COVIDVS-3. We used COVIDVS-3 to screen a large compound library with 4.9 million drug-like molecules from ZINC15 database and recommended a list of potential anti-SARS-CoV-2 compounds for further experimental testing. As a proof-of-concept, we experimentally tested seven high-scored compounds that also demonstrated good binding strength in docking studies against the 3C-like protease of SARS-CoV-2 and found one novel compound that can inhibit the enzyme. Our model is highly efficient and can be used to screen large compound databases with millions or more compounds to accelerate the drug discovery process for the treatment of COVID-19."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Academy for Advanced Interdisciplinary Studies, Peking University, Beijing 100871, PR China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Shiwei",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, PR China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Qi",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, PR China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Youjun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Academy for Advanced Interdisciplinary Studies, Peking University, Beijing 100871, PR China."
+          }
+        ],
+        "LastName": "Pei",
+        "ForeName": "Jianfeng",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Chemistry and Molecular Engineering, Peking University, Beijing 100871, PR China."
+          }
+        ],
+        "LastName": "Lai",
+        "ForeName": "Luhua",
+        "Initials": "L"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2016YFA0502303",
+        "Agency": "Ministry of Science and Technology of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "22033001",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "Agency": "Fundamental Research Funds for the Central Universities of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Docking Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "drug effects"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

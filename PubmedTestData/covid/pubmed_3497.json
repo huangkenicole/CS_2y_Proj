@@ -1,0 +1,262 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Twitter",
+      "coronavirus",
+      "infodemic",
+      "infodemiology",
+      "infoveillance",
+      "latent Dirichlet allocation",
+      "risk communication",
+      "topic modeling",
+      "topic phase detection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33684054",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e23272",
+      "10.2196/23272"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "16"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "COVID-19 Discourse on Twitter in Four Asian Countries: Case Study of Risk Communication.",
+    "Pagination": {
+      "StartPage": "e23272",
+      "MedlinePgn": "e23272"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "COVID-19, caused by SARS-CoV-2, has led to a global pandemic. The World Health Organization has also declared an infodemic (ie, a plethora of information regarding COVID-19 containing both false and accurate information circulated on the internet). Hence, it has become critical to test the veracity of information shared online and analyze the evolution of discussed topics among citizens related to the pandemic.",
+        "This research analyzes the public discourse on COVID-19. It characterizes risk communication patterns in four Asian countries with outbreaks at varying degrees of severity: South Korea, Iran, Vietnam, and India.",
+        "We collected tweets on COVID-19 from four Asian countries in the early phase of the disease outbreak from January to March 2020. The data set was collected by relevant keywords in each language, as suggested by locals. We present a method to automatically extract a time-topic cohesive relationship in an unsupervised fashion based on natural language processing. The extracted topics were evaluated qualitatively based on their semantic meanings.",
+        "This research found that each government's official phases of the epidemic were not well aligned with the degree of public attention represented by the daily tweet counts. Inspired by the issue-attention cycle theory, the presented natural language processing model can identify meaningful transition phases in the discussed topics among citizens. The analysis revealed an inverse relationship between the tweet count and topic diversity.",
+        "This paper compares similarities and differences of pandemic-related social media discourse in Asian countries. We observed multiple prominent peaks in the daily tweet counts across all countries, indicating multiple issue-attention cycles. Our analysis identified which topics the public concentrated on; some of these topics were related to misinformation and hate speech. These findings and the ability to quickly identify key topics can empower global efforts to fight against an infodemic during a pandemic."
+      ],
+      "CopyrightInformation": "\u00a9Sungkyu Park, Sungwon Han, Jeongwook Kim, Mir Majid Molaie, Hoang Dieu Vu, Karandeep Singh, Jiyoung Han, Wonjae Lee, Meeyoung Cha. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 16.03.2021."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-2607-2120"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science Group, Institute for Basic Science, Daejeon, Republic of Korea."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Sungkyu",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1129-760X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Sungwon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8300-5055"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Jeongwook",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8063-7383"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+          }
+        ],
+        "LastName": "Molaie",
+        "ForeName": "Mir Majid",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8732-8302"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Electrical and Electronic Engineering, Phenikaa University, Hanoi, Vietnam."
+          }
+        ],
+        "LastName": "Vu",
+        "ForeName": "Hoang Dieu",
+        "Initials": "HD"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6030-1663"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science Group, Institute for Basic Science, Daejeon, Republic of Korea."
+          }
+        ],
+        "LastName": "Singh",
+        "ForeName": "Karandeep",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4177-2889"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Jiyoung",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9584-2101"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Wonjae",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4085-9648"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science Group, Institute for Basic Science, Daejeon, Republic of Korea."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea."
+          }
+        ],
+        "LastName": "Cha",
+        "ForeName": "Meeyoung",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Multicenter Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "J Med Internet Res. 2021 Mar 29;23(3):e28926",
+      "PMID": "33780345"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Communication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Social Media"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

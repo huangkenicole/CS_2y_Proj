@@ -1,0 +1,323 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "genomic surveillance",
+      "outbreak detection",
+      "pathogen genomics",
+      "public health"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36276383",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "10",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1004201",
+      "10.3389/fpubh.2022.1004201"
+    ],
+    "Journal": {
+      "ISSN": "2296-2565",
+      "JournalIssue": {
+        "Volume": "10",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Frontiers in public health",
+      "ISOAbbreviation": "Front Public Health"
+    },
+    "ArticleTitle": "Guiding the design of SARS-CoV-2 genomic surveillance by estimating the resolution of outbreak detection.",
+    "Pagination": {
+      "StartPage": "1004201",
+      "MedlinePgn": "1004201"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Genomic surveillance of SARS-CoV-2 has been essential to inform public health response to outbreaks. The high incidence of infection has resulted in a smaller proportion of cases undergoing whole genome sequencing due to finite resources. We present a framework for estimating the impact of reduced depths of genomic surveillance on the resolution of outbreaks, based on a clustering approach using pairwise genetic and temporal distances. We apply the framework to simulated outbreak data to show that outbreaks are detected less frequently when fewer cases are subjected to whole genome sequencing. The impact of sequencing fewer cases depends on the size of the outbreaks, and on the genetic and temporal similarity of the index cases of the outbreaks. We also apply the framework to an outbreak of the SARS-CoV-2 Delta variant in New South Wales, Australia. We find that the detection of clusters in the outbreak would have been delayed if fewer cases had been sequenced. Existing recommendations for genomic surveillance estimate the minimum number of cases to sequence in order to detect and monitor new virus variants, assuming representative sampling of cases. Our method instead measures the resolution of clustering, which is important for genomic epidemiology, and accommodates sampling biases."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Suster, Arnott, Blackwell, Gall, Draper, Martinez, Drew, Rockett, Chen, Kok, Dwyer and Sintchenko."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Public Health, Westmead Hospital, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Suster",
+        "ForeName": "Carl J E",
+        "Initials": "CJE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Public Health, Westmead Hospital, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Arnott",
+        "ForeName": "Alicia",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Blackwell",
+        "ForeName": "Grace",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Gall",
+        "ForeName": "Mailie",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Draper",
+        "ForeName": "Jenny",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Martinez",
+        "ForeName": "Elena",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Drew",
+        "ForeName": "Alexander P",
+        "Initials": "AP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Public Health, Westmead Hospital, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Rockett",
+        "ForeName": "Rebecca J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Public Health, Westmead Hospital, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Sharon C-A",
+        "Initials": "SC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Public Health, Westmead Hospital, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Kok",
+        "ForeName": "Jen",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Public Health, Westmead Hospital, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Dwyer",
+        "ForeName": "Dominic E",
+        "Initials": "DE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Public Health, Westmead Hospital, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Sydney Institute for Infectious Diseases, The University of Sydney, Westmead, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Laboratory Services, Institute of Clinical Pathology and Medical Research, NSW Health Pathology, Westmead, NSW, Australia."
+          }
+        ],
+        "LastName": "Sintchenko",
+        "ForeName": "Vitali",
+        "Initials": "V"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Front Public Health",
+    "NlmUniqueID": "101616579",
+    "ISSNLinking": "2296-2565"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

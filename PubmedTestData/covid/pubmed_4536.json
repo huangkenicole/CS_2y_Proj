@@ -1,0 +1,729 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "ACE2",
+      "B.1.351",
+      "SARS-CoV-2",
+      "South Africa",
+      "antibody",
+      "escape",
+      "neutralization",
+      "receptor-binding domain",
+      "vaccine",
+      "variant"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33730597",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cell.2021.02.037",
+      "S0092-8674(21)00226-9"
+    ],
+    "Journal": {
+      "ISSN": "1097-4172",
+      "JournalIssue": {
+        "Volume": "184",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr",
+          "Day": "29"
+        }
+      },
+      "Title": "Cell",
+      "ISOAbbreviation": "Cell"
+    },
+    "ArticleTitle": "Evidence of escape of SARS-CoV-2 variant B.1.351 from natural and vaccine-induced sera.",
+    "Pagination": {
+      "StartPage": "2348",
+      "EndPage": "2361.e6",
+      "MedlinePgn": "2348-2361.e6"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The race to produce vaccines against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) began when the first sequence was published, and this forms the basis for vaccines currently deployed globally. Independent lineages of SARS-CoV-2 have recently been reported: UK, B.1.1.7; South Africa, B.1.351; and Brazil, P.1. These variants have multiple changes in the immunodominant spike protein that facilitates viral cell entry via the angiotensin-converting enzyme-2 (ACE2) receptor. Mutations in the receptor recognition site on the spike are of great concern for their potential for immune escape. Here, we describe a structure-function analysis of B.1.351 using a large cohort of convalescent and vaccinee serum samples. The receptor-binding domain mutations provide tighter ACE2 binding and widespread escape from monoclonal antibody neutralization largely driven by E484K, although K417N and N501Y act together against some important antibody classes. In a number of cases, it would appear that convalescent and some vaccine serum offers limited protection against this variant."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Author(s). Published by Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Structural Biology, Nuffield Department of Medicine, University of Oxford, The Wellcome Centre for Human Genetics, Oxford, UK."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Daming",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Dejnirattisai",
+        "ForeName": "Wanwisa",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Supasa",
+        "ForeName": "Piyada",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK; Chinese Academy of Medical Science (CAMS), Oxford Institute (COI), University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Chang",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK; Oxford University Hospitals NHS Foundation Trust, Oxford, UK."
+          }
+        ],
+        "LastName": "Mentzer",
+        "ForeName": "Alexander J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instruct-ERIC, Oxford House, Parkway Court, John Smith Drive, Oxford, UK."
+          }
+        ],
+        "LastName": "Ginn",
+        "ForeName": "Helen M",
+        "Initials": "HM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Structural Biology, Nuffield Department of Medicine, University of Oxford, The Wellcome Centre for Human Genetics, Oxford, UK."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Yuguang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Structural Biology, Nuffield Department of Medicine, University of Oxford, The Wellcome Centre for Human Genetics, Oxford, UK."
+          }
+        ],
+        "LastName": "Duyvesteyn",
+        "ForeName": "Helen M E",
+        "Initials": "HME"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Tuekprakhon",
+        "ForeName": "Aekkachai",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Nutalai",
+        "ForeName": "Rungtiwa",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Beibei",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Structural Biology, Nuffield Department of Medicine, University of Oxford, The Wellcome Centre for Human Genetics, Oxford, UK."
+          }
+        ],
+        "LastName": "Paesen",
+        "ForeName": "Guido C",
+        "Initials": "GC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Lopez-Camacho",
+        "ForeName": "Cesar",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Slon-Campos",
+        "ForeName": "Jose",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Infection Service, Public Health England (PHE), Porton Down, Salisbury, UK."
+          }
+        ],
+        "LastName": "Hallis",
+        "ForeName": "Bassam",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Infection Service, Public Health England (PHE), Porton Down, Salisbury, UK."
+          }
+        ],
+        "LastName": "Coombes",
+        "ForeName": "Naomi",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Infection Service, Public Health England (PHE), Porton Down, Salisbury, UK."
+          }
+        ],
+        "LastName": "Bewley",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Infection Service, Public Health England (PHE), Porton Down, Salisbury, UK."
+          }
+        ],
+        "LastName": "Charlton",
+        "ForeName": "Sue",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Walter",
+        "ForeName": "Thomas S",
+        "Initials": "TS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford University Hospitals NHS Foundation Trust, Oxford, UK; Peter Medawar Building for Pathogen Research, Oxford, UK; Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Skelly",
+        "ForeName": "Donal",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford University Hospitals NHS Foundation Trust, Oxford, UK; Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Lumley",
+        "ForeName": "Sheila F",
+        "Initials": "SF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NIHR Oxford Biomedical Research Centre, Oxford, UK; Oxford Vaccine Group, Department of Paediatrics, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Dold",
+        "ForeName": "Christina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Worthing Hospital, Worthing, UK."
+          }
+        ],
+        "LastName": "Levin",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chinese Academy of Medical Science (CAMS), Oxford Institute (COI), University of Oxford, Oxford, UK; Nuffield Department of Medicine, University of Oxford, Oxford, UK; MRC Human Immunology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Dong",
+        "ForeName": "Tao",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NIHR Oxford Biomedical Research Centre, Oxford, UK; Oxford Vaccine Group, Department of Paediatrics, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Pollard",
+        "ForeName": "Andrew J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK; Chinese Academy of Medical Science (CAMS), Oxford Institute (COI), University of Oxford, Oxford, UK; Oxford University Hospitals NHS Foundation Trust, Oxford, UK; NIHR Oxford Biomedical Research Centre, Oxford, UK."
+          }
+        ],
+        "LastName": "Knight",
+        "ForeName": "Julian C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Crook",
+        "ForeName": "Derrick",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Jenner Institute, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Lambe",
+        "ForeName": "Teresa",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NIHR Oxford Biomedical Research Centre, Oxford, UK; Oxford Vaccine Group, Department of Paediatrics, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Clutterbuck",
+        "ForeName": "Elizabeth",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NIHR Oxford Biomedical Research Centre, Oxford, UK; Oxford Vaccine Group, Department of Paediatrics, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Bibi",
+        "ForeName": "Sagida",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Jenner Institute, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Flaxman",
+        "ForeName": "Amy",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Jenner Institute, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Bittaye",
+        "ForeName": "Mustapha",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Jenner Institute, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Belij-Rammerstorfer",
+        "ForeName": "Sandra",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Jenner Institute, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Gilbert",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sir William Dunn School of Pathology University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "James",
+        "ForeName": "William",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK; National Infection Service, Public Health England (PHE), Porton Down, Salisbury, UK."
+          }
+        ],
+        "LastName": "Carroll",
+        "ForeName": "Miles W",
+        "Initials": "MW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford University Hospitals NHS Foundation Trust, Oxford, UK; Peter Medawar Building for Pathogen Research, Oxford, UK; NIHR Oxford Biomedical Research Centre, Oxford, UK; Translational Gastroenterology Unit, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Klenerman",
+        "ForeName": "Paul",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford University Hospitals NHS Foundation Trust, Oxford, UK; Peter Medawar Building for Pathogen Research, Oxford, UK; NIHR Oxford Biomedical Research Centre, Oxford, UK; Translational Gastroenterology Unit, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Barnes",
+        "ForeName": "Eleanor",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oxford University Hospitals NHS Foundation Trust, Oxford, UK; Peter Medawar Building for Pathogen Research, Oxford, UK; Nuffield Department of Medicine, University of Oxford, Oxford, UK; Centre For Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, UK; Mahidol-Oxford Tropical Medicine Research Unit, Bangkok, Thailand."
+          }
+        ],
+        "LastName": "Dunachie",
+        "ForeName": "Susanna J",
+        "Initials": "SJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Structural Biology, Nuffield Department of Medicine, University of Oxford, The Wellcome Centre for Human Genetics, Oxford, UK."
+          }
+        ],
+        "LastName": "Fry",
+        "ForeName": "Elizabeth E",
+        "Initials": "EE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK; Chinese Academy of Medical Science (CAMS), Oxford Institute (COI), University of Oxford, Oxford, UK; Siriraj Center of Research Excellence in Dengue & Emerging Pathogens, Dean Office for Research, Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand. Electronic address: jmongkol@well.ox.ac.uk."
+          }
+        ],
+        "LastName": "Mongkolsapaya",
+        "ForeName": "Juthathip",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Structural Biology, Nuffield Department of Medicine, University of Oxford, The Wellcome Centre for Human Genetics, Oxford, UK. Electronic address: ren@strubi.ox.ac.uk."
+          }
+        ],
+        "LastName": "Ren",
+        "ForeName": "Jingshan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Structural Biology, Nuffield Department of Medicine, University of Oxford, The Wellcome Centre for Human Genetics, Oxford, UK; Chinese Academy of Medical Science (CAMS), Oxford Institute (COI), University of Oxford, Oxford, UK; Diamond Light Source Ltd, Harwell Science & Innovation Campus, Didcot, UK; Instruct-ERIC, Oxford House, Parkway Court, John Smith Drive, Oxford, UK. Electronic address: dave.stuart@diamond.ac.uk."
+          }
+        ],
+        "LastName": "Stuart",
+        "ForeName": "David I",
+        "Initials": "DI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, UK; Chinese Academy of Medical Science (CAMS), Oxford Institute (COI), University of Oxford, Oxford, UK. Electronic address: gavin.screaton@medsci.ox.ac.uk."
+          }
+        ],
+        "LastName": "Screaton",
+        "ForeName": "Gavin R",
+        "Initials": "GR"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "109965/Z/15/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "204969/Z/16/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MR/L018942/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Cell",
+    "NlmUniqueID": "0413066",
+    "ISSNLinking": "0092-8674"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antibodies, Monoclonal"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Antibodies, Monoclonal"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "therapy",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "immunology"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chlorocebus aethiops"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Clinical Trials as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "HEK293 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunization, Passive"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Molecular"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neutralization Tests"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Binding"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vero Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Serotherapy"
+    }
+  ],
+  "CoiStatement": "Declaration of interests G.R.S. sits on the GSK Vaccines Scientific Advisory Board. Oxford University holds intellectual property related to the Oxford-AstraZeneca vaccine. A.J.P. is Chair of UK Department Health and Social Care\u2019s (DHSC) Joint Committee on Vaccination & Immunisation (JCVI), but does not participate in the JCVI COVID-19 committee, and is a member of the WHO\u2019s SAGE. The views expressed in this article do not necessarily represent the views of DHSC, JCVI, or WHO. The University of Oxford has entered into a partnership with AstraZeneca on coronavirus vaccine development. The University of Oxford has protected intellectual property disclosed in this publication."
+}

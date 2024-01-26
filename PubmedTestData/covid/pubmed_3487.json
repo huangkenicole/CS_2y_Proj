@@ -1,0 +1,375 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "deep learning",
+      "epidemiology",
+      "machine learning",
+      "microbiology",
+      "paediatrics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35062267",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "63",
+      "10.3390/v14010063"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "30"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Symptom-Based Predictive Model of COVID-19 Disease in Children.",
+    "Abstract": {
+      "AbstractText": [
+        "Testing for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection is neither always accessible nor easy to perform in children. We aimed to propose a machine learning model to assess the need for a SARS-CoV-2 test in children (<16 years old), depending on their clinical symptoms.",
+        "Epidemiological and clinical data were obtained from the REDCap<sup>\u00ae</sup> registry. Overall, 4434 SARS-CoV-2 tests were performed in symptomatic children between 1 November 2020 and 31 March 2021, 784 were positive (17.68%). We pre-processed the data to be suitable for a machine learning (ML) algorithm, balancing the positive-negative rate and preparing subsets of data by age. We trained several models and chose those with the best performance for each subset.",
+        "The use of ML demonstrated an AUROC of 0.65 to predict a COVID-19 diagnosis in children. The absence of high-grade fever was the major predictor of COVID-19 in younger children, whereas loss of taste or smell was the most determinant symptom in older children.",
+        "Although the accuracy of the models was lower than expected, they can be used to provide a diagnosis when epidemiological data on the risk of exposure to COVID-19 is unknown."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-8781-4338"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Barcelona School of Informatics, Universitat Polit\u00e8cnica de Catalunya (UPC\u22c5BarcelonaTech), 08034 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Anto\u00f1anzas",
+        "ForeName": "Jes\u00fas M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, Universitat Polit\u00e8cnica de Catalunya (UPC\u22c5BarcelonaTech), 08028 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Perramon",
+        "ForeName": "Aida",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Barcelona School of Informatics, Universitat Polit\u00e8cnica de Catalunya (UPC\u22c5BarcelonaTech), 08034 Barcelona, Spain."
+          }
+        ],
+        "LastName": "L\u00f3pez",
+        "ForeName": "Cayetana",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Barcelona School of Informatics, Universitat Polit\u00e8cnica de Catalunya (UPC\u22c5BarcelonaTech), 08034 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Boneta",
+        "ForeName": "Mireia",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Barcelona School of Informatics, Universitat Polit\u00e8cnica de Catalunya (UPC\u22c5BarcelonaTech), 08034 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Aguilera",
+        "ForeName": "Cristina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ABS Borges Blanques, Institut Catal\u00e0 de Salut (ICS), 25400 Lleida, Spain."
+          }
+        ],
+        "LastName": "Capdevila",
+        "ForeName": "Ramon",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Equip Pediatria Territorial Alt Pened\u00e8s-Garraf, Institut Catal\u00e0 de Salut (ICS), 28036 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Gatell",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4957-9191"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Equip Pediatria Territorial Alt Pened\u00e8s-Garraf, Institut Catal\u00e0 de Salut (ICS), 28036 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Serrano",
+        "ForeName": "Pepe",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Equip Territorial Pedi\u00e0tric Sabadell Nord, Institut Catal\u00e0 de Salut (ICS), 08206 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Poblet",
+        "ForeName": "Miriam",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAP Barber\u00e0 del Vall\u00e9s, 08210 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Canadell",
+        "ForeName": "Dolors",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EAP Horta, 08024 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Vil\u00e0",
+        "ForeName": "M\u00f2nica",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3409-2268"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAP Drassanes, 08001 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Catas\u00fas",
+        "ForeName": "Georgina",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Equip Pediatria Territorial Alt Pened\u00e8s-Garraf, Institut Catal\u00e0 de Salut (ICS), 28036 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Valldep\u00e9rez",
+        "ForeName": "Cinta",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3308-9905"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, Universitat Polit\u00e8cnica de Catalunya (UPC\u22c5BarcelonaTech), 08028 Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Comparative Medicine and Bioimage Centre of Catalonia (CMCiB), Fundaci\u00f3 Institut d'Investigaci\u00f3 en Ci\u00e8ncies de la Salut Germans Trias i Pujol (IGTP), 58525 Badalona, Spain."
+          }
+        ],
+        "LastName": "Catal\u00e0",
+        "ForeName": "Mart\u00ed",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0346-5570"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paediatric Infectious Diseases and Immunodeficiencies Unit, Hospital Universitari Vall d'Hebron, 08035 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Soler-Palac\u00edn",
+        "ForeName": "Pere",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1398-7559"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, Universitat Polit\u00e8cnica de Catalunya (UPC\u22c5BarcelonaTech), 08028 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Prats",
+        "ForeName": "Clara",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9613-7228"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paediatric Infectious Diseases and Immunodeficiencies Unit, Hospital Universitari Vall d'Hebron, 08035 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Soriano-Arandes",
+        "ForeName": "Antoni",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "The Copedi-Cat Research Group"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infant, Newborn"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Predictive Value of Tests"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

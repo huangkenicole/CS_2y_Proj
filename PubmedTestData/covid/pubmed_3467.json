@@ -1,0 +1,217 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "RNA viruses",
+      "SARS-CoV-2",
+      "coronavirus",
+      "substitutions",
+      "transitions",
+      "transversions"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34518866",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab382",
+      "10.1093/bib/bbab382"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "17"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "The substitution spectra of coronavirus genomes.",
+    "Abstract": {
+      "AbstractText": [
+        "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has triggered an unprecedented international effort to sequence complete viral genomes. We leveraged this wealth of information to characterize the substitution spectrum of SARS-CoV-2 and to compare it with those of other human and animal coronaviruses. We show that, once nucleotide composition is taken into account, human and most animal coronaviruses display a mutation spectrum dominated by C to U and G to U substitutions, a feature that is not shared by other positive-sense RNA viruses. However, the proportions of C to U and G to U substitutions tend to decrease as divergence increases, suggesting that, whatever their origin, a proportion of these changes is subsequently eliminated by purifying selection. Analysis of the sequence context of C to U substitutions showed little evidence of apolipoprotein B mRNA editing catalytic polypeptide-like (APOBEC)-mediated editing and such contexts were similar for SARS-CoV-2 and Middle East respiratory syndrome coronavirus sampled from different hosts, despite different repertoires of APOBEC3 proteins in distinct species. Conversely, we found evidence that C to U and G to U changes affect CpG dinucleotides at a frequency higher than expected. Whereas this suggests ongoing selective reduction of CpGs, this effect alone cannot account for the substitution spectra. Finally, we show that, during the first months of SARS-CoV-2 pandemic spread, the frequency of both G to U and C to U substitutions increased. Our data suggest that the substitution spectrum of SARS-CoV-2 is determined by an interplay of factors, including intrinsic biases of the replication process, avoidance of CpG dinucleotides and other constraints exerted by the new host."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021 Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9291-5352"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Scientific Institute IRCCS E. MEDEA, Bioinformatics, Bosisio Parini, Italy."
+          }
+        ],
+        "LastName": "Forni",
+        "ForeName": "Diego",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Scientific Institute IRCCS E. MEDEA, Bioinformatics, Bosisio Parini, Italy."
+          }
+        ],
+        "LastName": "Cagliani",
+        "ForeName": "Rachele",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Scientific Institute IRCCS E. MEDEA, Bioinformatics, Bosisio Parini, Italy."
+          }
+        ],
+        "LastName": "Pontremoli",
+        "ForeName": "Chiara",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiopathology and Transplantation, University of Milan, Milan, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Don C. Gnocchi Foundation ONLUS, IRCCS, Milan, Italy."
+          }
+        ],
+        "LastName": "Clerici",
+        "ForeName": "Mario",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Scientific Institute IRCCS E. MEDEA, Bioinformatics, Bosisio Parini, Italy."
+          }
+        ],
+        "LastName": "Sironi",
+        "ForeName": "Manuela",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2020-1353",
+        "Agency": "Fondazione Cariplo",
+        "Country": ""
+      },
+      {
+        "GrantID": "CUP H44I20000470002",
+        "Agency": "Bando Progetti Ricerca Covid 19",
+        "Country": ""
+      },
+      {
+        "Agency": "Italian Ministry of Health",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "EC 3.5.4.5",
+      "NameOfSubstance": "APOBEC Deaminases"
+    },
+    {
+      "RegistryNumber": "EC 3.5.4.5",
+      "NameOfSubstance": "APOBEC3 proteins, human"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "APOBEC Deaminases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Evolution, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "convolution neural network",
+      "fitness",
+      "health",
+      "one-repetition maximum",
+      "prediction",
+      "resistance band",
+      "weight training"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36679801",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1003",
+      "10.3390/s23021003"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jan",
+          "Day": "15"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Estimation of One-Repetition Maximum, Type, and Repetition of Resistance Band Exercise Using RGB Camera and Inertial Measurement Unit Sensors.",
+    "Abstract": {
+      "AbstractText": [
+        "Resistance bands are widely used nowadays to enhance muscle strength due to their high portability, but the relationship between resistance band workouts and conventional dumbbell weight training is still unclear. Thus, this study suggests a convolutional neural network model that identifies the type of band workout and counts the number of repetitions and a regression model that deduces the band force that corresponds to the one-repetition maximum. Thirty subjects performed five different exercises using resistance bands and dumbbells. Joint movements during each exercise were collected using a camera and an inertial measurement unit. By using different types of input data, several models were created and compared. As a result, the accuracy of the convolutional neural network model using inertial measurement units and joint position is 98.83%. The mean absolute error of the repetition counting algorithm ranges from 0.88 (seated row) to 3.21 (overhead triceps extension). Lastly, the values of adjusted r-square for the 5 exercises are 0.8415 (chest press), 0.9202 (shoulder press), 0.8429 (seated row), 0.8778 (biceps curl), and 0.9232 (overhead triceps extension). In conclusion, the model using 10-channel inertial measurement unit data and joint position data has the best accuracy. However, the model needs to improve the inaccuracies resulting from non-linear movements and one-time performance."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Advanced Convergence, BK21 FOUR, Handong Global University, Pohang 37554, Republic of Korea."
+          }
+        ],
+        "LastName": "Hwang",
+        "ForeName": "Byunggon",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0187-1540"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Advanced Convergence, BK21 FOUR, Handong Global University, Pohang 37554, Republic of Korea."
+          }
+        ],
+        "LastName": "Shim",
+        "ForeName": "Gyuseok",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of ICT Construction & Welfare Convergence, Kangnam University, 40, Yongin 16979, Republic of Korea."
+          }
+        ],
+        "LastName": "Choi",
+        "ForeName": "Woong",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0523-8304"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mechanical and Control Engineering, Handong Global University, Pohang 37554, Republic of Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Jaehyo",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "#TRSRE-MD02",
+        "Agency": "Ministry of Health and Welfare",
+        "Country": ""
+      },
+      {
+        "GrantID": "2020R1I1A3A04038203",
+        "Agency": "National Research Foundation of Korea",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Muscle, Skeletal"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Muscle Strength"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Weight Lifting"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

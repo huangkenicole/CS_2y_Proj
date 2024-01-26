@@ -1,0 +1,166 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Attractor landscape evaluation",
+      "Cancer reversion",
+      "Colorectal cancer",
+      "Functional network motif",
+      "Logical model",
+      "Reversion target",
+      "Systemic approach",
+      "Systems biology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28381275",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "10",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "04",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "45",
+      "10.1186/s12918-017-0424-2"
+    ],
+    "Journal": {
+      "ISSN": "1752-0509",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Apr",
+          "Day": "05"
+        }
+      },
+      "Title": "BMC systems biology",
+      "ISOAbbreviation": "BMC Syst Biol"
+    },
+    "ArticleTitle": "Quantitative evaluation and reversion analysis of the attractor landscapes of an intracellular regulatory network for colorectal cancer.",
+    "Pagination": {
+      "StartPage": "45",
+      "MedlinePgn": "45"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer reversion, converting the phenotypes of a cancer cell into those of a normal cell, has been sporadically observed throughout history. However, no systematic analysis has been attempted so far.",
+        "To investigate this from a systems biological perspective, we have constructed a logical network model of colorectal tumorigenesis by integrating key regulatory molecules and their interactions from previous experimental data. We identified molecular targets that can reverse cancerous cellular states to a normal state by systematically perturbing each molecular activity in the network and evaluating the resulting changes of the attractor landscape with respect to uncontrolled proliferation, EMT, and stemness. Intriguingly, many of the identified targets were well in accord with previous studies. We further revealed that the identified targets constitute stable network motifs that contribute to enhancing the robustness of attractors in cancerous cellular states against diverse regulatory signals.",
+        "The proposed framework for systems analysis is applicable to the study of tumorigenesis and reversion of other types of cancer."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, 34141, Republic of Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Yunseong",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, 34141, Republic of Korea."
+          }
+        ],
+        "LastName": "Choi",
+        "ForeName": "Sea",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, 34141, Republic of Korea."
+          }
+        ],
+        "LastName": "Shin",
+        "ForeName": "Dongkwan",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, 34141, Republic of Korea. ckh@kaist.ac.kr."
+          }
+        ],
+        "LastName": "Cho",
+        "ForeName": "Kwang-Hyun",
+        "Initials": "KH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Syst Biol",
+    "NlmUniqueID": "101301827",
+    "ISSNLinking": "1752-0509"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Carcinogenesis"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Colorectal Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Intracellular Space"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Systems Biology"
+    }
+  ]
+}

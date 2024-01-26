@@ -1,0 +1,370 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Epidemics",
+      "Epidemiologic measurements",
+      "Health policy",
+      "Infectious diseases",
+      "Nonlinear dynamics",
+      "Vaccine preventable disease"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34477236",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "10",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.5694/mja2.51263"
+    ],
+    "Journal": {
+      "ISSN": "1326-5377",
+      "JournalIssue": {
+        "Volume": "215",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "01"
+        }
+      },
+      "Title": "The Medical journal of Australia",
+      "ISOAbbreviation": "Med J Aust"
+    },
+    "ArticleTitle": "Modelling direct and herd protection effects of vaccination against the SARS-CoV-2 Delta variant in Australia.",
+    "Pagination": {
+      "StartPage": "427",
+      "EndPage": "432",
+      "MedlinePgn": "427-432"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To analyse the outcomes of COVID-19 vaccination by vaccine type, age group eligibility, vaccination strategy, and population coverage.",
+        "Epidemiologic modelling to assess the final size of a COVID-19 epidemic in Australia, with vaccination program (Pfizer, AstraZeneca, mixed), vaccination strategy (vulnerable first, transmitters first, untargeted), age group eligibility threshold (5 or 15 years), population coverage, and pre-vaccination effective reproduction number ( <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mtext>eff</mtext><mfenced><mover><mi>v</mi><mo>\u00af</mo></mover></mfenced></mrow></msub></math> ) for the SARS-CoV-2 Delta variant as factors.",
+        "Numbers of SARS-CoV-2 infections; cumulative hospitalisations, deaths, and years of life lost.",
+        "Assuming <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mtext>eff</mtext><mfenced><mover><mi>v</mi><mo>\u00af</mo></mover></mfenced></mrow></msub></math> = 5, the current mixed vaccination program (vaccinating people aged 60 or more with the AstraZeneca vaccine and people under 60 with the Pfizer vaccine) will not achieve herd protection unless population vaccination coverage reaches 85% by lowering the vaccination eligibility age to 5 years. At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mtext>eff</mtext><mfenced><mover><mi>v</mi><mo>\u00af</mo></mover></mfenced></mrow></msub></math> = 3, the mixed program could achieve herd protection at 60-70% population coverage and without vaccinating 5-15-year-old children. At <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mtext>eff</mtext><mfenced><mover><mi>v</mi><mo>\u00af</mo></mover></mfenced></mrow></msub></math> = 7, herd protection is unlikely to be achieved with currently available vaccines, but they would still reduce the number of COVID-19-related deaths by 85%.",
+        "Vaccinating vulnerable people first is the optimal policy when population vaccination coverage is low, but vaccinating more socially active people becomes more important as the <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mtext>eff</mtext><mfenced><mover><mi>v</mi><mo>\u00af</mo></mover></mfenced></mrow></msub></math> declines and vaccination coverage increases. Assuming the most plausible <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>R</mi><mrow><mtext>eff</mtext><mfenced><mover><mi>v</mi><mo>\u00af</mo></mover></mfenced></mrow></msub></math> of 5, vaccinating more than 85% of the population, including children, would be needed to achieve herd protection. Even without herd protection, vaccines are highly effective in reducing the number of deaths."
+      ],
+      "CopyrightInformation": "\u00a9 2021 AMPCo Pty Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9570-9172"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Australian Institute of Tropical Health and Medicine, James Cook University, Townsville, QLD."
+          }
+        ],
+        "LastName": "McBryde",
+        "ForeName": "Emma S",
+        "Initials": "ES"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Australian Institute of Tropical Health and Medicine, James Cook University, Townsville, QLD."
+          }
+        ],
+        "LastName": "Meehan",
+        "ForeName": "Michael T",
+        "Initials": "MT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Australian Institute of Tropical Health and Medicine, James Cook University, Townsville, QLD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Hawai'i at M\u0101noa, Honolulu, HI, United States of America."
+          }
+        ],
+        "LastName": "Caldwell",
+        "ForeName": "Jamie M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1811-1310"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Australian Institute of Tropical Health and Medicine, James Cook University, Townsville, QLD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Australian Department of Defence, Melbourne, VIC."
+          }
+        ],
+        "LastName": "Adekunle",
+        "ForeName": "Adeshina I",
+        "Initials": "AI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Australian Institute of Tropical Health and Medicine, James Cook University, Townsville, QLD."
+          }
+        ],
+        "LastName": "Ogunlade",
+        "ForeName": "Samson T",
+        "Initials": "ST"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Australian Institute of Tropical Health and Medicine, James Cook University, Townsville, QLD."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Rajshahi, Rajshahi, Bangladesh."
+          }
+        ],
+        "LastName": "Kuddus",
+        "ForeName": "Md Abdul",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Monash University, Melbourne, VIC."
+          }
+        ],
+        "LastName": "Ragonnet",
+        "ForeName": "Romain",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0303-2345"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Monash University, Melbourne, VIC."
+          }
+        ],
+        "LastName": "Jayasundara",
+        "ForeName": "Pavithra",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Monash University, Melbourne, VIC."
+          }
+        ],
+        "LastName": "Trauer",
+        "ForeName": "James M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biological Data Sciences Institute, Australian National University, Canberra, ACT."
+          }
+        ],
+        "LastName": "Cope",
+        "ForeName": "Robert C",
+        "Initials": "RC"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "1195102",
+        "Agency": "NHMRC",
+        "Country": ""
+      },
+      {
+        "GrantID": "1142638",
+        "Agency": "NHMRC",
+        "Country": ""
+      },
+      {
+        "GrantID": "210101344",
+        "Agency": "Australian Research Council",
+        "Country": ""
+      },
+      {
+        "GrantID": "RRDHI000027",
+        "Agency": "Medical Research Future Fund",
+        "Country": ""
+      },
+      {
+        "GrantID": "NNX17AI21G",
+        "Acronym": "NASA",
+        "Agency": "NASA",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "NNX17AI21G",
+        "Acronym": "NASA",
+        "Agency": "NASA",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Australia",
+    "MedlineTA": "Med J Aust",
+    "NlmUniqueID": "0400714",
+    "ISSNLinking": "0025-729X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    },
+    {
+      "RegistryNumber": "N38TVC63NU",
+      "NameOfSubstance": "BNT162 Vaccine"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Australia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "BNT162 Vaccine"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "administration & dosage",
+        "immunology"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunity, Herd"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunogenicity, Vaccine"
+    },
+    {
+      "QualifierName": [
+        "organization & administration",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Mass Vaccination"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Immunological"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "organization & administration",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Vaccination Coverage"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ]
+}

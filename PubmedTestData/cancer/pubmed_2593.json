@@ -1,0 +1,291 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26209438",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "05",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "07",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "548",
+      "10.1186/s12885-015-1569-2"
+    ],
+    "Journal": {
+      "ISSN": "1471-2407",
+      "JournalIssue": {
+        "Volume": "15",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Jul",
+          "Day": "25"
+        }
+      },
+      "Title": "BMC cancer",
+      "ISOAbbreviation": "BMC Cancer"
+    },
+    "ArticleTitle": "Elevated C1orf63 expression is correlated with CDK10 and predicts better outcome for advanced breast cancers: a retrospective study.",
+    "Pagination": {
+      "StartPage": "548",
+      "MedlinePgn": "548"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Chromosome 1 open reading frame 63 (C1orf63) is located on the distal short arm of chromosome 1, whose allelic loss has been observed in several human cancers. C1orf63 has been reported to be up-regulated in IL-2-starved T lymphocytes, which suggests it might be involved in cell cycle control, a common mechanism for carcinogenesis. Here we investigated the expression and clinical implication of C1orf63 in breast cancer.",
+        "Paraffin-embedded specimens, clinicopathological features and follow-up data of the breast cancer patients were collected. Publicly available microarray and RNA-seq datasets used in this study were downloaded from ArrayExpress of EBI and GEO of NCBI. KM plotter tool was also adopted. The expression of C1orf63 and CDK10, one known cell cycle-dependent tumor suppressor in breast cancer, was assessed by immunohistochemistry. Western blotting was performed to detect C1orf63 protein in human breast cancer cell lines, purchased from the Culture Collection of the Chinese Academy of Sciences, Shanghai.",
+        "In a group of 12 human breast tumors and their matched adjacent non-cancerous tissues, C1orf63 expression was observed in 7 of the 12 breast tumors, but not in the 12 adjacent non-cancerous tissues (P < 0.001). Similar results were observed of C1orf63 mRNA expression both in breast cancer and several other cancers, including lung cancer, prostate cancer and hepatocellular carcinoma. In another group of 182 breast cancer patients, C1orf63 expression in tumors was not correlated with any clinicopathological features collected in this study. Survival analyses showed that there was no significant difference of overall survival (OS) rates between the C1orf63 (+) group and the C1orf63 (-) group (P = 0.145). However, the analyses of KM plotter displayed a valid relationship between C1orf63 and RFS (relapse free survival)/OS (P < 0.001; P = 0.007). Notablely, in breast cancers with advanced TNM stages (III ~ IV) among these 182 patients, C1orf63 expression was an independent prognostic factor predicting better clinical outcome (HR: 0.41; 95 % CI: 0.17 ~ 0.97; P = 0.042). Additionally, we found that CDK10 mRNA expression was positively correlated with C1orf63, which was consistent with the relationship of protein expression between C1orf63 and CDK10 (r s = 0.391; P < 0.001).",
+        "Compared to adjacent non-cancerous tissues, C1orf63 expression was elevated in tumor tissues. However, C1orf63 predicts better prognosis for breast cancers with advanced TNM stage, and the underlying mechanism is unknown. In addition, C1orf63 is correlated with the cell cycle related gene, CDK10."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory for Breast Cancer Diagnosis and Treatment, Cancer Hospital of Shantou University Medical College, Shantou, 515041, China. chaoqunhong@gmail.com."
+          }
+        ],
+        "LastName": "Hong",
+        "ForeName": "Chao-Qun",
+        "Initials": "CQ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory for Breast Cancer Diagnosis and Treatment, Cancer Hospital of Shantou University Medical College, Shantou, 515041, China. lemon_fan@163.com."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Fan",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of pharmacy, Luohe Medical College, 148 Daxue-Road, Luohe, 462002, China. youyanjie@163.com."
+          }
+        ],
+        "LastName": "You",
+        "ForeName": "Yan-Jie",
+        "Initials": "YJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory for Breast Cancer Diagnosis and Treatment, Cancer Hospital of Shantou University Medical College, Shantou, 515041, China. wlqiu@stu.edu.cn."
+          }
+        ],
+        "LastName": "Qiu",
+        "ForeName": "Wei-Li",
+        "Initials": "WL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, Los Angeles, CA, 90048, USA. armando.giuliano@cshs.org."
+          }
+        ],
+        "LastName": "Giuliano",
+        "ForeName": "Armando E",
+        "Initials": "AE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, Los Angeles, CA, 90048, USA. xiaojiang.cui@cshs.org."
+          }
+        ],
+        "LastName": "Cui",
+        "ForeName": "Xiao-Jiang",
+        "Initials": "XJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory for Breast Cancer Diagnosis and Treatment, Cancer Hospital of Shantou University Medical College, Shantou, 515041, China. guoj_zhang@yahoo.com."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Guo-Jun",
+        "Initials": "GJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory for Breast Cancer Diagnosis and Treatment, Cancer Hospital of Shantou University Medical College, Shantou, 515041, China. yukuncui@yahoo.com."
+          }
+        ],
+        "LastName": "Cui",
+        "ForeName": "Yu-Kun",
+        "Initials": "YK"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 CA151610",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Cancer",
+    "NlmUniqueID": "100967800",
+    "ISSNLinking": "1471-2407"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RSRP1 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 2.7.11.22",
+      "NameOfSubstance": "CDK10 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 2.7.11.22",
+      "NameOfSubstance": "Cyclin-Dependent Kinases"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line, Tumor"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Cyclin-Dependent Kinases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "MCF-7 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Up-Regulation"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31241739",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "05",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/carcin/bgz112"
+    ],
+    "Journal": {
+      "ISSN": "1460-2180",
+      "JournalIssue": {
+        "Volume": "40",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Nov",
+          "Day": "25"
+        }
+      },
+      "Title": "Carcinogenesis",
+      "ISOAbbreviation": "Carcinogenesis"
+    },
+    "ArticleTitle": "Establishment of permutation for cancer risk estimation in the urothelium based on genome-wide DNA methylation analysis.",
+    "Pagination": {
+      "StartPage": "1308",
+      "EndPage": "1319",
+      "MedlinePgn": "1308-1319"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The aim of this study was to establish permutation for cancer risk estimation in the urothelium. Twenty-six samples of normal control urothelium obtained from patients without urothelial carcinomas (C), 47 samples of non-cancerous urothelium without noticeable morphological changes obtained from patients with urothelial carcinomas (N), and 46 samples of the corresponding cancerous tissue (T) in the learning cohort and 64 N samples in the validation cohort, i.e. 183 tissue samples in total, were analyzed. Genome-wide DNA methylation analysis was performed using the Infinium HumanMethylation 450K BeadChip, and DNA methylation levels were verified using pyrosequencing and MassARRAY. Amplicon sequencing was performed using the GeneRead DNAseq Targeted Panels V2. Although N samples rarely showed genetic mutations or copy number alterations, they showed DNA methylation alterations at 2502 CpG sites compared to C samples, and such alterations were inherited by or strengthened in T samples, indicating that DNA methylation alterations may participate in field cancerization in the urothelium. Receiver operating characteristic curve analysis confirmed the feasibility of cancer risk estimation to identify urothelium at the precancerous stage by DNA methylation quantification. Cancer risk estimation permutation was established using a combination of two marker CpG loci on the HOXC4, TENM3 and TLR1 genes (sensitivity and specificity 96-100%). Among them, the diagnostic impact of 10 patterns of permutation was successfully validated in the validation cohort (sensitivity and specificity 94-98%). These data suggest that cancer risk estimation using procedures such as urine tests during health checkups might become applicable for clinical use."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2019. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Urology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Tsumura",
+        "ForeName": "Koji",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Keio University School of Medicine, Shinanomachi, Shinjuku-ku, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Arai",
+        "ForeName": "Eri",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Keio University School of Medicine, Shinanomachi, Shinjuku-ku, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Tian",
+        "ForeName": "Ying",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Keio University School of Medicine, Shinanomachi, Shinjuku-ku, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Shibuya",
+        "ForeName": "Ayako",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Unit, Keio Cancer Center, Keio University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Nishihara",
+        "ForeName": "Hiroshi",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tsukuba Research Institute, Research and Development Division, Sekisui Medical Co., Ltd, Ryugasaki, Japan."
+          }
+        ],
+        "LastName": "Yotani",
+        "ForeName": "Takuya",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tsukuba Research Institute, Research and Development Division, Sekisui Medical Co., Ltd, Ryugasaki, Japan."
+          }
+        ],
+        "LastName": "Yamada",
+        "ForeName": "Yuriko",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Department, Cloud Service Division, IT Infrastructure Services Unit, Mitsui Knowledge Industry Co., Ltd., Tokyo, Japan."
+          }
+        ],
+        "LastName": "Takahashi",
+        "ForeName": "Yoriko",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Clinical Laboratories, National Cancer Center Hospital, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Maeshima",
+        "ForeName": "Akiko Miyagi",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Urology, National Cancer Center Hospital, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Fujimoto",
+        "ForeName": "Hiroyuki",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Urology, Teikyo University School of Medicine, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Nakagawa",
+        "ForeName": "Tohru",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Urology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Kume",
+        "ForeName": "Haruki",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Urology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Homma",
+        "ForeName": "Yukio",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fundamental Innovative Oncology Core Center, National Cancer Center Research Institute, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Yoshida",
+        "ForeName": "Teruhiko",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Keio University School of Medicine, Shinanomachi, Shinjuku-ku, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Kanai",
+        "ForeName": "Yae",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Carcinogenesis",
+    "NlmUniqueID": "8008055",
+    "ISSNLinking": "0143-3334"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "HOXC4 protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Homeodomain Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Membrane Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Nerve Tissue Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "TENM3 protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "TLR1 protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Toll-Like Receptor 1"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Asian People"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CpG Islands"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epigenome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epigenomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Predisposition to Disease"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Homeodomain Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Japan"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology",
+        "genetics"
+      ],
+      "DescriptorName": "Kidney Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Membrane Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Nerve Tissue Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis, DNA"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Toll-Like Receptor 1"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology",
+        "genetics"
+      ],
+      "DescriptorName": "Urinary Bladder Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology",
+        "genetics"
+      ],
+      "DescriptorName": "Urologic Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Urothelium"
+    }
+  ]
+}

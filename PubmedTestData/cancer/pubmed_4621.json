@@ -1,0 +1,191 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Biochemical reaction networks",
+      "Cancer genomics",
+      "Data integration",
+      "Tumour heterogeneity"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31754644",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "05",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "11",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "414",
+      "10.1038/s42003-019-0666-1"
+    ],
+    "Journal": {
+      "ISSN": "2399-3642",
+      "JournalIssue": {
+        "Volume": "2",
+        "PubDate": {
+          "Year": "2019"
+        }
+      },
+      "Title": "Communications biology",
+      "ISOAbbreviation": "Commun Biol"
+    },
+    "ArticleTitle": "Metabolic gene alterations impact the clinical aggressiveness and drug responses of 32 human cancers.",
+    "Pagination": {
+      "StartPage": "414",
+      "MedlinePgn": "414"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Malignant cells reconfigure their metabolism to support oncogenic processes such as accelerated growth and proliferation. The mechanisms by which this occurs likely involve alterations to genes that encode metabolic enzymes. Here, using genomics data for 10,528 tumours of 32 different cancer types, we characterise the alterations of genes involved in various metabolic pathways. We find that mutations and copy number variations of metabolic genes are pervasive across all human cancers. Based on the frequencies of metabolic gene alterations, we further find that there are two distinct cancer supertypes that tend to be associated with different clinical outcomes. By utilising the known dose-response profiles of 825 cancer cell lines, we infer that cancers belonging to these supertypes are likely to respond differently to various anticancer drugs. Collectively our analyses define the foundational metabolic features of different cancer supertypes and subtypes upon which discriminatory strategies for treating particular tumours could be constructed."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2019."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4193-8404"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Biology Division, Department of Integrative Biomedical Sciences, University of Cape Town School of Health Sciences, Anzio Rd, Observatory, Cape Town, 7925 South Africa."
+          }
+        ],
+        "LastName": "Sinkala",
+        "ForeName": "Musalula",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Biology Division, Department of Integrative Biomedical Sciences, University of Cape Town School of Health Sciences, Anzio Rd, Observatory, Cape Town, 7925 South Africa."
+          }
+        ],
+        "LastName": "Mulder",
+        "ForeName": "Nicola",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Biology Division, Department of Integrative Biomedical Sciences, University of Cape Town School of Health Sciences, Anzio Rd, Observatory, Cape Town, 7925 South Africa."
+          }
+        ],
+        "LastName": "Patrick Martin",
+        "ForeName": "Darren",
+        "Initials": "D"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U24 HG006941",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Commun Biol",
+    "NlmUniqueID": "101719179",
+    "ISSNLinking": "2399-3642"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line, Tumor"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Drug Resistance, Neoplasm"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Energy Metabolism"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Variation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Metabolic Networks and Pathways"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ],
+  "CoiStatement": "Competing interestsThe authors declare no competing interests."
+}

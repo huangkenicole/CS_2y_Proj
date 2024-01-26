@@ -1,0 +1,218 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "And machine learning",
+      "Gene expression",
+      "Gradient boosted trees",
+      "RNA-seq",
+      "Tumor purity",
+      "XGBoost"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31881847",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "04",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "04",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "12",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1021",
+      "10.1186/s12864-019-6412-8"
+    ],
+    "Journal": {
+      "ISSN": "1471-2164",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Dec",
+          "Day": "27"
+        }
+      },
+      "Title": "BMC genomics",
+      "ISOAbbreviation": "BMC Genomics"
+    },
+    "ArticleTitle": "Putative biomarkers for predicting tumor sample purity based on gene expression data.",
+    "Pagination": {
+      "StartPage": "1021",
+      "MedlinePgn": "1021"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Tumor purity is the percent of cancer cells present in a sample of tumor tissue. The non-cancerous cells (immune cells, fibroblasts, etc.) have an important role in tumor biology. The ability to determine tumor purity is important to understand the roles of cancerous and non-cancerous cells in a tumor.",
+        "We applied a supervised machine learning method, XGBoost, to data from 33 TCGA tumor types to predict tumor purity using RNA-seq gene expression data.",
+        "Across the 33 tumor types, the median correlation between observed and predicted tumor-purity ranged from 0.75 to 0.87 with small root mean square errors, suggesting that tumor purity can be accurately predicted \u03c5\u03c3\u03b9\u03bd\u03b3 expression data. We further confirmed that expression levels of a ten-gene set (CSF2RB, RHOH, C1S, CCDC69, CCL22, CYTIP, POU2AF1, FGR, CCL21, and IL7R) were predictive of tumor purity regardless of tumor type. We tested whether our set of ten genes could accurately predict tumor purity of a TCGA-independent data set. We showed that expression levels from our set of ten genes were highly correlated (\u03c1\u2009=\u20090.88) with the actual observed tumor purity.",
+        "Our analyses suggested that the ten-gene set may serve as a biomarker for tumor purity prediction using gene expression data."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics and Computational Biology Branch, National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina 27709, USA MD A3-03, Durham, NC, 27709, USA. yuanyuan.li@nih.gov."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yuanyuan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics and Computational Biology Branch, National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina 27709, USA MD A3-03, Durham, NC, 27709, USA."
+          }
+        ],
+        "LastName": "Umbach",
+        "ForeName": "David M",
+        "Initials": "DM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics and Computational Biology Branch, National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina 27709, USA MD A3-03, Durham, NC, 27709, USA."
+          }
+        ],
+        "LastName": "Bingham",
+        "ForeName": "Adrienna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology, Duke University, Durham, North, Carolina, 27710, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Qi-Jing",
+        "Initials": "QJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology, Duke University, Durham, North, Carolina, 27710, USA."
+          }
+        ],
+        "LastName": "Zhuang",
+        "ForeName": "Yuan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics and Computational Biology Branch, National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina 27709, USA MD A3-03, Durham, NC, 27709, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Leping",
+        "Initials": "L"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "ES101765",
+        "Agency": "Intramural Research Program of the National Institutes of Health, National Institute of Environmental Health Sciences",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Genomics",
+    "NlmUniqueID": "100965258",
+    "ISSNLinking": "1471-2164"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis, RNA"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Supervised Machine Learning"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

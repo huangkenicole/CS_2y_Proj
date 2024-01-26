@@ -1,0 +1,156 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Dynamic time warping",
+      "Inertial sensors",
+      "Motion capture",
+      "Motion sensors",
+      "Pattern recognition",
+      "Physical therapy"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25168775",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "06",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "07",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cmpb.2014.07.003",
+      "S0169-2607(14)00291-0"
+    ],
+    "Journal": {
+      "ISSN": "1872-7565",
+      "JournalIssue": {
+        "Volume": "117",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "Automated evaluation of physical therapy exercises using multi-template dynamic time warping on wearable sensor signals.",
+    "Pagination": {
+      "StartPage": "189",
+      "EndPage": "207",
+      "MedlinePgn": "189-207"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We develop an autonomous system to detect and evaluate physical therapy exercises using wearable motion sensors. We propose the multi-template multi-match dynamic time warping (MTMM-DTW) algorithm as a natural extension of DTW to detect multiple occurrences of more than one exercise type in the recording of a physical therapy session. While allowing some distortion (warping) in time, the algorithm provides a quantitative measure of similarity between an exercise execution and previously recorded templates, based on DTW distance. It can detect and classify the exercise types, and count and evaluate the exercises as correctly/incorrectly performed, identifying the error type, if any. To evaluate the algorithm's performance, we record a data set consisting of one reference template and 10 test executions of three execution types of eight exercises performed by five subjects. We thus record a total of 120 and 1200 exercise executions in the reference and test sets, respectively. The test sequences also contain idle time intervals. The accuracy of the proposed algorithm is 93.46% for exercise classification only and 88.65% for simultaneous exercise and execution type classification. The algorithm misses 8.58% of the exercise executions and demonstrates a false alarm rate of 4.91%, caused by some idle time intervals being incorrectly recognized as exercise executions. To test the robustness of the system to unknown exercises, we employ leave-one-exercise-out cross validation. This results in a false alarm rate lower than 1%, demonstrating the robustness of the system to unknown movements. The proposed system can be used for assessing the effectiveness of a physical therapy session and for providing feedback to the patient."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2014 Elsevier Ireland Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Electronics Engineering, Bilkent University, Bilkent, TR-06800 Ankara, Turkey. Electronic address: yurtman@ee.bilkent.edu.tr."
+          }
+        ],
+        "LastName": "Yurtman",
+        "ForeName": "Aras",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Electronics Engineering, Bilkent University, Bilkent, TR-06800 Ankara, Turkey. Electronic address: billur@ee.bilkent.edu.tr."
+          }
+        ],
+        "LastName": "Barshan",
+        "ForeName": "Billur",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Actigraphy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Pattern Recognition, Automated"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Task Performance and Analysis"
+    }
+  ]
+}

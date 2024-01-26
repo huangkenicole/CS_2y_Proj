@@ -1,0 +1,156 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "GenBank",
+      "MERS-CoV",
+      "SARS-CoV",
+      "genomic signal processing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32793981",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbaa170",
+      "10.1093/bib/bbaa170"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "A diagnostic genomic signal processing (GSP)-based system for automatic feature analysis and detection of COVID-19.",
+    "Pagination": {
+      "StartPage": "1197",
+      "EndPage": "1205",
+      "MedlinePgn": "1197-1205"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Coronavirus Disease 2019 (COVID-19) is a sudden viral contagion that appeared at the end of last year in Wuhan city, the Chinese province of Hubei, China. The fast spread of COVID-19 has led to a dangerous threat to worldwide health. Also in the last two decades, several viral epidemics have been listed like the severe acute respiratory syndrome coronavirus (SARS-CoV) in 2002/2003, the influenza H1N1 in 2009 and recently the Middle East respiratory syndrome coronavirus (MERS-CoV) which appeared in Saudi Arabia in 2012. In this research, an automated system is created to differentiate between the COVID-19, SARS-CoV and MERS-CoV epidemics by using their genomic sequences recorded in the NCBI GenBank in order to facilitate the diagnosis process and increase the accuracy of disease detection in less time. The selected database contains 76 genes for each epidemic. Then, some features are extracted like a discrete Fourier transform (DFT), discrete cosine transform (DCT) and the seven moment invariants to two different classifiers. These classifiers are the k-nearest neighbor (KNN) algorithm and the trainable cascade-forward back propagation neural network where they give satisfying results to compare. To evaluate the performance of classifiers, there are some effective parameters calculated. They are accuracy (ACC), F1 score, error rate and Matthews correlation coefficient (MCC) that are 100%, 100%, 0 and 1, respectively, for the KNN algorithm and 98.89%, 98.34%, 0.0111 and 0.9754, respectively, for the cascade-forward network."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering Department, Faculty of Engineering, Helwan University, Egypt."
+          }
+        ],
+        "LastName": "Naeem",
+        "ForeName": "Safaa M",
+        "Initials": "SM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Misr University for Science and Technology."
+          }
+        ],
+        "LastName": "Mabrouk",
+        "ForeName": "Mai S",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AASTMT, Egypt."
+          }
+        ],
+        "LastName": "Marzouk",
+        "ForeName": "Samir Y",
+        "Initials": "SY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Helwan University, Egypt."
+          }
+        ],
+        "LastName": "Eldosoky",
+        "ForeName": "Mohamed A",
+        "Initials": "MA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fourier Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

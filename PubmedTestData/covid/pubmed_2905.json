@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2 virus",
+      "antiviral compounds",
+      "chemoinformatics",
+      "cichoriin",
+      "coumarin",
+      "natural products"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33557097",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "216",
+      "10.3390/biom11020216"
+    ],
+    "Journal": {
+      "ISSN": "2218-273X",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "04"
+        }
+      },
+      "Title": "Biomolecules",
+      "ISOAbbreviation": "Biomolecules"
+    },
+    "ArticleTitle": "In Silico Screening of Natural Products Isolated from Mexican Herbal Medicines against COVID-19.",
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic has already taken the lives of more than 2 million people worldwide, causing several political and socio-economic disturbances in our daily life. At the time of publication, there are non-effective pharmacological treatments, and vaccine distribution represents an important challenge for all countries. In this sense, research for novel molecules becomes essential to develop treatments against the SARS-CoV-2 virus. In this context, Mexican natural products have proven to be quite useful for drug development; therefore, in the present study, we perform an in silico screening of 100 compounds isolated from the most commonly used Mexican plants, against the SARS-CoV-2 virus. As results, we identify ten compounds that meet leadlikeness criteria (emodin anthrone, kaempferol, quercetin, aesculin, cichoriin, luteolin, matricin, riolozatrione, monocaffeoyl tartaric acid, aucubin). According to the docking analysis, only three compounds target the key proteins of SARS-CoV-2 (quercetin, riolozatrione and cichoriin), but only one appears to be safe (cichoriin). ADME (absorption, distribution, metabolism and excretion) properties and the physiologically based pharmacokinetic (PBPK) model show that cichoriin reaches higher lung levels (100 mg/Kg, IV); therefore, it may be considered in developing therapeutic tools."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-2659-6864"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Direcci\u00f3n de Investigaci\u00f3n, Instituto Nacional de Geriatr\u00eda, Ciudad de Mexico 10200, Mexico."
+          }
+        ],
+        "LastName": "Rivero-Segura",
+        "ForeName": "Nadia A",
+        "Initials": "NA"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7186-8067"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Direcci\u00f3n de Investigaci\u00f3n, Instituto Nacional de Geriatr\u00eda, Ciudad de Mexico 10200, Mexico."
+          }
+        ],
+        "LastName": "Gomez-Verjan",
+        "ForeName": "Juan C",
+        "Initials": "JC"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Biomolecules",
+    "NlmUniqueID": "101596414",
+    "ISSNLinking": "2218-273X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biological Products"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "analysis",
+        "chemistry",
+        "pharmacology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Biological Products"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cheminformatics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Evaluation, Preclinical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Herbal Medicine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Medicine, Traditional"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Docking Simulation"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

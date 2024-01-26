@@ -1,0 +1,129 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "S protein",
+      "SARS-CoV-2",
+      "bioinformatics",
+      "dynamic RBD and RBM",
+      "origin-independent analysis",
+      "uneven local genomic similarities"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32924062",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbaa208",
+      "10.1093/bib/bbaa208"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Origin-independent analysis links SARS-CoV-2 local genomes with COVID-19 incidence and mortality.",
+    "Pagination": {
+      "StartPage": "905",
+      "EndPage": "913",
+      "MedlinePgn": "905-913"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "There is an urgent public health need to better understand Severe Acute Respiratory Syndrome (SARS)-CoV-2/COVID-19, particularly how sequences of the viruses could lead to diverse incidence and mortality of COVID-19 in different countries. However, because of its unknown ancestors and hosts, elucidating the genetic variations of the novel coronavirus, SARS-CoV-2, has been difficult. Without needing to know ancestors, we identified an uneven distribution of local genome similarities among the viruses categorized by geographic regions, and it was strongly correlated with incidence and mortality. To ensure unbiased and origin-independent analyses, we used a pairwise comparison of local genome sequences of virus genomes by Basic Local Alignment Search Tool (BLAST). We found a strong statistical correlation between dominance of the SARS-CoV-2 in distributions of uneven similarities and the incidence and mortality of illness. Genomic annotation of the BLAST hits also showed that viruses from geographic regions with severe infections tended to have more dynamic genomic regions in the SARS-CoV-2 receptor-binding domain (RBD) and receptor-binding motif (RBM) of the spike protein (S protein). Dynamic domains in the S protein were also confirmed by a canyon region of mismatches coincident with RBM and RBD, without hits of alignments of 100% matching. Thus, our origin-independent analysis suggests that the dynamic and unstable SARS-CoV-2-RBD could be the main reason for diverse incidence and mortality of COVID-19 infection."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yang",
+        "ForeName": "Wenzhong",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Jin",
+        "ForeName": "Guangxu",
+        "Initials": "G"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 CA012197",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "mortality",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2 sequences",
+      "phylogenetic tree inference",
+      "recurrent mutations"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34698524",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "10",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1089/cmb.2021.0306"
+    ],
+    "Journal": {
+      "ISSN": "1557-8666",
+      "JournalIssue": {
+        "Volume": "28",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Journal of computational biology : a journal of computational molecular cell biology",
+      "ISOAbbreviation": "J Comput Biol"
+    },
+    "ArticleTitle": "Scalable Reconstruction of SARS-CoV-2 Phylogeny with Recurrent Mutations.",
+    "Pagination": {
+      "StartPage": "1130",
+      "EndPage": "1141",
+      "MedlinePgn": "1130-1141"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This article presents a novel scalable character-based phylogeny algorithm for dense viral sequencing data called SPHERE (Scalable PHylogEny with REcurrent mutations). The algorithm is based on an evolutionary model where recurrent mutations are allowed, but backward mutations are prohibited. The algorithm creates rooted character-based phylogeny trees, wherein all leaves and internal nodes are labeled by observed taxa. We show that SPHERE phylogeny is more stable than Nextstrain's, and that it accurately infers known transmission links from the early pandemic. SPHERE is a fast algorithm that can process >200,000 sequences in <2 hours, which offers a compact phylogenetic visualization of Global Initiative on Sharing All Influenza Data (GISAID)."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Georgia State University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Novikov",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Georgia State University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Knyazev",
+        "ForeName": "Sergey",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2636-4585"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, Georgia State University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Grinshpon",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Georgia State University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Icer",
+        "ForeName": "Pelin",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Georgia State University, Atlanta, Georgia, USA."
+          }
+        ],
+        "LastName": "Skums",
+        "ForeName": "Pavel",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4424-4691"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Georgia State University, Atlanta, Georgia, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "World-Class Research Center, \"Digital Biodesign and Personalized Healthcare,\" I.M. Sechenov, First Moscow State Medical University, Moscow, Russia."
+          }
+        ],
+        "LastName": "Zelikovsky",
+        "ForeName": "Alex",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 EB025022",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Comput Biol",
+    "NlmUniqueID": "9433358",
+    "ISSNLinking": "1066-5277"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare they have no competing financial interests."
+}

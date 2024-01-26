@@ -1,0 +1,212 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29359037",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "07",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "07",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "11",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "5707162",
+      "10.1155/2017/5707162"
+    ],
+    "Journal": {
+      "ISSN": "2040-2295",
+      "JournalIssue": {
+        "Volume": "2017",
+        "PubDate": {
+          "Year": "2017"
+        }
+      },
+      "Title": "Journal of healthcare engineering",
+      "ISOAbbreviation": "J Healthc Eng"
+    },
+    "ArticleTitle": "A Predictive Model to Classify Undifferentiated Fever Cases Based on Twenty-Four-Hour Continuous Tympanic Temperature Recording.",
+    "Pagination": {
+      "StartPage": "5707162",
+      "MedlinePgn": "5707162"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Diagnosis of undifferentiated fever is a major challenging task to the physician which often remains undiagnosed and delays the treatment. The aim of the study was to record and analyze a 24-hour continuous tympanic temperature and evaluate its utility in the diagnosis of undifferentiated fevers. This was an observational study conducted in the Kasturba Medical College and Hospitals, Mangaluru, India. A total of ninety-six (<i>n</i> = 96) patients were presented with undifferentiated fever. Their tympanic temperature was recorded continuously for 24 hours. Temperature data were preprocessed and various signal characteristic features were extracted and trained in classification machine learning algorithms using MATLAB software. The quadratic support vector machine algorithm yielded an overall accuracy of 71.9% in differentiating the fevers into four major categories, namely, tuberculosis, intracellular bacterial infections, dengue fever, and noninfectious diseases. The area under ROC curve for tuberculosis, intracellular bacterial infections, dengue fever, and noninfectious diseases was found to be 0.961, 0.801, 0.815, and 0.818, respectively. Good agreement was observed [kappa\u2009=\u20090.618 (<i>p</i> < 0.001, 95% CI (0.498-0.737))] between the actual diagnosis of cases and the quadratic support vector machine learning algorithm. The 24-hour continuous tympanic temperature recording with supervised machine learning algorithm appears to be a promising noninvasive and reliable diagnostic tool."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-5741-1885"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Kasturba Medical College, Manipal University, Mangaluru, Karnataka, India."
+          }
+        ],
+        "LastName": "Dakappa",
+        "ForeName": "Pradeepa H",
+        "Initials": "PH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Sciences, Manipal Institute of Technology, Manipal University, Manipal, Karnataka, India."
+          }
+        ],
+        "LastName": "Prasad",
+        "ForeName": "Keerthana",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Kasturba Medical College, Manipal University, Mangaluru, Karnataka, India."
+          }
+        ],
+        "LastName": "Rao",
+        "ForeName": "Sathish B",
+        "Initials": "SB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology, Kasturba Medical College, Manipal University, Mangaluru, Karnataka, India."
+          }
+        ],
+        "LastName": "Bolumbu",
+        "ForeName": "Ganaraja",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Kasturba Medical College, Manipal University, Mangaluru, Karnataka, India."
+          }
+        ],
+        "LastName": "Bhat",
+        "ForeName": "Gopalkrishna K",
+        "Initials": "GK"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0460-7913"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, Kasturba Medical College, Manipal University, Mangaluru, Karnataka, India."
+          }
+        ],
+        "LastName": "Mahabala",
+        "ForeName": "Chakrapani",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Healthc Eng",
+    "NlmUniqueID": "101528166",
+    "ISSNLinking": "2040-2295"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Dengue"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Ear, Middle"
+    },
+    {
+      "QualifierName": [
+        "classification"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "India"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Noncommunicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Predictive Value of Tests"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "ROC Curve"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Artificial intelligence",
+      "Computational biology",
+      "Covid-19",
+      "Evolutionary peptides",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32980462",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "09",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.bbadis.2020.165978",
+      "S0925-4439(20)30326-4"
+    ],
+    "Journal": {
+      "ISSN": "1879-260X",
+      "JournalIssue": {
+        "Volume": "1867",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "01"
+        }
+      },
+      "Title": "Biochimica et biophysica acta. Molecular basis of disease",
+      "ISOAbbreviation": "Biochim Biophys Acta Mol Basis Dis"
+    },
+    "ArticleTitle": "Evolutionary artificial intelligence based peptide discoveries for effective Covid-19 therapeutics.",
+    "Pagination": {
+      "StartPage": "165978",
+      "MedlinePgn": "165978"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "An epidemic caused by COVID-19 in China turned into pandemic within a short duration affecting countries worldwide. Researchers and companies around the world are working on all the possible strategies to develop a curative or preventive strategy for the same, which includes vaccine development, drug repurposing, plasma therapy, and drug discovery based on Artificial intelligence. Therapeutic approaches based on Computational biology and Machine-learning algorithms are specially considered, with a view that these could provide a fast and accurate outcome in the present scenario. As an effort towards developing possible therapeutics for COVID-19, we have used machine-learning algorithms for the generation of alignment kernels from diverse viral sequences of Covid-19 reported from India, China, Italy and USA. Using these diverse sequences we have identified the conserved motifs and subsequently a peptide library was designed against them. Of these, 4 peptides have shown strong binding affinity against the main protease of SARS-CoV-2 (M<sup>pro</sup>) and also maintained their stability and specificity under physiological conditions as observed through MD Simulations. Our data suggest that these evolutionary peptides against COVID-19 if found effective may provide cross-protection against diverse Covid-19 variants."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Centre for Cell Science, NCCS Complex, Ganeshkhind, SP Pune University Campus, Pune 411007, India."
+          }
+        ],
+        "LastName": "Kabra",
+        "ForeName": "Ritika",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Centre for Cell Science, NCCS Complex, Ganeshkhind, SP Pune University Campus, Pune 411007, India. Electronic address: singhs@nccs.res.in."
+          }
+        ],
+        "LastName": "Singh",
+        "ForeName": "Shailza",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Biochim Biophys Acta Mol Basis Dis",
+    "NlmUniqueID": "101731730",
+    "ISSNLinking": "0925-4439"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antibodies, Viral"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Peptide Library"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Peptides"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "immunology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antibodies, Viral"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Peptide Library"
+    },
+    {
+      "QualifierName": [
+        "pharmacology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Peptides"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Viral Vaccines"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Virus Replication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

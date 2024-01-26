@@ -1,0 +1,353 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35013485",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "01",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "481",
+      "10.1038/s41598-021-04395-1"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "10"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Non-invasive scoring of cellular atypia in keratinocyte cancers in 3D LC-OCT images using Deep Learning.",
+    "Pagination": {
+      "StartPage": "481",
+      "MedlinePgn": "481"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Diagnosis based on histopathology for skin cancer detection is today's gold standard and relies on the presence or absence of biomarkers and cellular atypia. However it suffers drawbacks: it requires a strong expertise and is time-consuming. Moreover the notion of atypia or dysplasia of the visible cells used for diagnosis is very subjective, with poor inter-rater agreement reported in the literature. Lastly, histology requires a biopsy which is an invasive procedure and only captures a small sample of the lesion, which is insufficient in the context of large fields of cancerization. Here we demonstrate that the notion of cellular atypia can be objectively defined and quantified with a non-invasive in-vivo approach in three dimensions (3D). A Deep Learning (DL) algorithm is trained to segment keratinocyte (KC) nuclei from Line-field Confocal Optical Coherence Tomography (LC-OCT) 3D images. Based on these segmentations, a series of quantitative, reproducible and biologically relevant metrics is derived to describe KC nuclei individually. We show that, using those metrics, simple and more complex definitions of atypia can be derived to discriminate between healthy and pathological skins, achieving Area Under the ROC Curve (AUC) scores superior than 0.965, largely outperforming medical experts on the same task with an AUC of 0.766. All together, our approach and findings open the door to a precise quantitative monitoring of skin lesions and treatments, offering a promising non-invasive tool for clinical studies to demonstrate the effects of a treatment and for clinicians to assess the severity of a lesion and follow the evolution of pre-cancerous lesions over time."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DAMAE Medical, Paris, France. sebastien@damae-medical.com."
+          }
+        ],
+        "LastName": "Fischman",
+        "ForeName": "S\u00e9bastien",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Melanoma Unit, Hospital Clinic Barcelona, University of Barcelona, Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CIBER de enfermedades raras, Instituto de Salud Carlos III, Barcelona, Spain."
+          }
+        ],
+        "LastName": "P\u00e9rez-Anker",
+        "ForeName": "Javiera",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dermatology Unit - Department of Medical, Surgical and Neurological Sciences, University of Siena, Siena, Italy."
+          }
+        ],
+        "LastName": "Tognetti",
+        "ForeName": "Linda",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dermatology Unit - Department of Medical, Surgical and Neurological Sciences, University of Siena, Siena, Italy."
+          }
+        ],
+        "LastName": "Di Naro",
+        "ForeName": "Angelo",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Dermatology, Universit\u00e9 Libre de Bruxelles, H\u00f4pital Erasme, Brussels, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Groupe d'Imagerie Cutan\u00e9e Non Invasive (GICNI) of the Soci\u00e9t\u00e9 Fran\u00e7aise de Dermatologie (SFD), Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institut Jules Bordet, Universit\u00e9 Libre de Bruxelles, Brussels, Belgium."
+          }
+        ],
+        "LastName": "Suppa",
+        "ForeName": "Mariano",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dermatology Unit - Department of Medical, Surgical and Neurological Sciences, University of Siena, Siena, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Groupe d'Imagerie Cutan\u00e9e Non Invasive (GICNI) of the Soci\u00e9t\u00e9 Fran\u00e7aise de Dermatologie (SFD), Paris, France."
+          }
+        ],
+        "LastName": "Cinotti",
+        "ForeName": "Elisa",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "DAMAE Medical, Paris, France."
+          }
+        ],
+        "LastName": "Viel",
+        "ForeName": "Th\u00e9o",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Groupe d'Imagerie Cutan\u00e9e Non Invasive (GICNI) of the Soci\u00e9t\u00e9 Fran\u00e7aise de Dermatologie (SFD), Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Dermatology and skin cancer, la Timone hospital, Assistance Publique-H\u00f4pitaux de Marseille, Aix-Marseille University, Marseille, France."
+          }
+        ],
+        "LastName": "Monnier",
+        "ForeName": "Jilliana",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dermatology Unit - Department of Medical, Surgical and Neurological Sciences, University of Siena, Siena, Italy."
+          }
+        ],
+        "LastName": "Rubegni",
+        "ForeName": "Pietro",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Dermatology, Universit\u00e9 Libre de Bruxelles, H\u00f4pital Erasme, Brussels, Belgium."
+          }
+        ],
+        "LastName": "Del Marmol",
+        "ForeName": "V\u00e9ronique",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Melanoma Unit, Hospital Clinic Barcelona, University of Barcelona, Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CIBER de enfermedades raras, Instituto de Salud Carlos III, Barcelona, Spain."
+          }
+        ],
+        "LastName": "Malvehy",
+        "ForeName": "Josep",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Melanoma Unit, Hospital Clinic Barcelona, University of Barcelona, Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CIBER de enfermedades raras, Instituto de Salud Carlos III, Barcelona, Spain."
+          }
+        ],
+        "LastName": "Puig",
+        "ForeName": "Susana",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 Paris-Saclay, Institut d'Optique Graduate School, Laboratoire Charles Fabry, Palaiseau, France."
+          }
+        ],
+        "LastName": "Dubois",
+        "ForeName": "Arnaud",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Dermatology, University Hospital of Saint-Etienne, Saint-Etienne, France."
+          }
+        ],
+        "LastName": "Perrot",
+        "ForeName": "Jean-Luc",
+        "Initials": "JL"
+      }
+    ],
+    "PublicationTypeList": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Histological Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Imaging, Three-Dimensional"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "pathology"
+      ],
+      "DescriptorName": "Keratinocytes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Pathology"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Skin"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Skin Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Tomography, Optical Coherence"
+    }
+  ],
+  "CoiStatement": "A.D is co-founder of DAMAE Medical. S.F. and T.V are employed by DAMAE Medical. V.M received a grant from DAMAE Medical in April 2019 not related to this work. All other authors declare no competing interests."
+}

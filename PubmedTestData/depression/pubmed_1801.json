@@ -1,0 +1,251 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Twitter messaging",
+      "data annotation",
+      "machine learning",
+      "major depressive disorder",
+      "natural language processing",
+      "social media"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28246066",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "09",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "02",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e48",
+      "10.2196/jmir.6895"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Feb",
+          "Day": "28"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Understanding Depressive Symptoms and Psychosocial Stressors on Twitter: A Corpus-Based Study.",
+    "Pagination": {
+      "StartPage": "e48",
+      "MedlinePgn": "e48"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "With a lifetime prevalence of 16.2%, major depressive disorder is the fifth biggest contributor to the disease burden in the United States.",
+        "The aim of this study, building on previous work qualitatively analyzing depression-related Twitter data, was to describe the development of a comprehensive annotation scheme (ie, coding scheme) for manually annotating Twitter data with Diagnostic and Statistical Manual of Mental Disorders, Edition 5 (DSM 5) major depressive symptoms (eg, depressed mood, weight change, psychomotor agitation, or retardation) and Diagnostic and Statistical Manual of Mental Disorders, Edition IV (DSM-IV) psychosocial stressors (eg, educational problems, problems with primary support group, housing problems).",
+        "Using this annotation scheme, we developed an annotated corpus, Depressive Symptom and Psychosocial Stressors Acquired Depression, the SAD corpus, consisting of 9300 tweets randomly sampled from the Twitter application programming interface (API) using depression-related keywords (eg, depressed, gloomy, grief). An analysis of our annotated corpus yielded several key results.",
+        "First, 72.09% (6829/9473) of tweets containing relevant keywords were nonindicative of depressive symptoms (eg, \"we're in for a new economic depression\"). Second, the most prevalent symptoms in our dataset were depressed mood and fatigue or loss of energy. Third, less than 2% of tweets contained more than one depression related category (eg, diminished ability to think or concentrate, depressed mood). Finally, we found very high positive correlations between some depression-related symptoms in our annotated dataset (eg, fatigue or loss of energy and educational problems; educational problems and diminished ability to think).",
+        "We successfully developed an annotation scheme and an annotated corpus, the SAD corpus, consisting of 9300 tweets randomly-selected from the Twitter application programming interface using depression-related keywords. Our analyses suggest that keyword queries alone might not be suitable for public health monitoring because context can change the meaning of keyword in a statement. However, postprocessing approaches could be useful for reducing the noise and improving the signal needed to detect depression symptoms using social media."
+      ],
+      "CopyrightInformation": "\u00a9Danielle Mowery, Hilary Smith, Tyler Cheney, Greg Stoddard, Glen Coppersmith, Craig Bryan, Mike Conway. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 28.02.2017."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3802-4457"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, University of Utah, Salt Lake City, UT, United States."
+          }
+        ],
+        "LastName": "Mowery",
+        "ForeName": "Danielle",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1963-6266"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Utah, Salt Lake City, UT, United States."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Hilary",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1846-0887"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Utah, Salt Lake City, UT, United States."
+          }
+        ],
+        "LastName": "Cheney",
+        "ForeName": "Tyler",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6292-276X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Family And Preventive Medicine, University of Utah, Salt Lake City, UT, United States."
+          }
+        ],
+        "LastName": "Stoddard",
+        "ForeName": "Greg",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3494-7388"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Qntfy, Crownsville, MD, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Human Language Technology Center of Excellence, John Hopkins University, Baltimore, MD, United States."
+          }
+        ],
+        "LastName": "Coppersmith",
+        "ForeName": "Glen",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9714-0733"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Utah, Salt Lake City, UT, United States."
+          }
+        ],
+        "LastName": "Bryan",
+        "ForeName": "Craig",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3209-8108"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, University of Utah, Salt Lake City, UT, United States."
+          }
+        ],
+        "LastName": "Conway",
+        "ForeName": "Mike",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "K99 LM011393",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R00 LM011393",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Psychology"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Social Media"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Stress, Psychological"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: GC is the founder and chief executive officer of the company, Qntfy. Qntfy provided support in the form of salary for the author GC, but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. Research reported in this publication was supported by the National Library of Medicine of the National Institutes of Health. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Library of Medicine or the National Institutes of Health. There are no patents, products in development or marketed."
+}

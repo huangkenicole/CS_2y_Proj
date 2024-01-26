@@ -1,0 +1,253 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "apps",
+      "combination antipyretics",
+      "comparative analysis",
+      "fever",
+      "fever management",
+      "mHealth",
+      "patient-generated health data"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34037528",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e21668",
+      "10.2196/21668"
+    ],
+    "Journal": {
+      "ISSN": "2291-5222",
+      "JournalIssue": {
+        "Volume": "9",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "26"
+        }
+      },
+      "Title": "JMIR mHealth and uHealth",
+      "ISOAbbreviation": "JMIR Mhealth Uhealth"
+    },
+    "ArticleTitle": "Comparative Analysis of Single and Combined Antipyretics Using Patient-Generated Health Data: Retrospective Observational Study.",
+    "Pagination": {
+      "StartPage": "e21668",
+      "MedlinePgn": "e21668"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Fever is one of the most common symptoms in children and is the physiological response of the human immune system to external pathogens. However, effectiveness studies of single and combined antipyretic therapy are relatively few due to lack of data. In this study, we used large-scale patient-generated health data from mobile apps to compare antipyretic affects between single and combination antipyretics.",
+        "We aimed to establish combination patterns of antipyretics and compare antipyretic affects between single and combination antipyretics using large-scale patient-generated health data from mobile apps.",
+        "This study was conducted using medical records of feverish children from July 2015 to June 2017 using the Fever Coach mobile app. In total, 3,584,748 temperature records and 1,076,002 antipyretic records of 104,337 children were analyzed. Antipyretic efficacy was measured by the mean difference in the area under the temperature change curve from baseline for 6 hours, 8 hours, 10 hours, and 12 hours after antipyretic administration in children with a body temperature of \u226538.0 \u2103 between single and combination groups.",
+        "The single antipyretic and combination groups comprised 152,017 and 54,842 cases, respectively. Acetaminophen was the most commonly used single agent (60,929/152,017, 40.08%), and acetaminophen plus dexibuprofen was the most common combination (28,065/54,842, 51.17%). We observed inappropriate use, including triple combination (1205/206,859, 0.58%) and use under 38 \u2103 (11,361/206,859, 5.50%). Combination antipyretic use increased with temperature; 23.82% (33,379/140,160) of cases were given a combination treatment when 38 \u2103 \u2264 temperature < 39 \u2103, while 41.40% (1517/3664) were given a combination treatment when 40 \u2103 \u2264 temperature. The absolute value of the area under the curve at each hour was significantly higher in the single group than in the combination group; this trend was consistently observed, regardless of the type of antipyretics. In particular, the delta fever during the first 6 hours between the two groups showed the highest difference. The combination showed the lowest delta fever among all cases.",
+        "Antipyretics combination patterns were analyzed using large-scale data. Approximately 75% of febrile cases used single antipyretics, mostly acetaminophen, but combination usage became more frequent as temperature increased. However, combination antipyretics did not show definite advantages over single antipyretics in defervescence, regardless of the combination. Single antipyretics are effective in reducing fever and relieving discomfort in febrile children."
+      ],
+      "CopyrightInformation": "\u00a9Yu Rang Park, Hyery Kim, Ji Ae Park, Sang Hyun Ahn, Seyun Chang, Jae Won Shin, Myeongchan Kim, Jae-Ho Lee. Originally published in JMIR mHealth and uHealth (https://mhealth.jmir.org), 26.05.2021."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4210-2094"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Systems Informatics, Yonsei University College of Medicine, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Yu Rang",
+        "Initials": "YR"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2852-6832"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of Ulsan College of Medicine, Asan Medical Center Children's Hospital, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Hyery",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8717-1587"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Systems Informatics, Yonsei University College of Medicine, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Ji Ae",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3593-2855"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Human Resource Development Institute for Health & Welfare, Cheongju, Republic of Korea."
+          }
+        ],
+        "LastName": "Ahn",
+        "ForeName": "Sang Hyun",
+        "Initials": "SH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0397-587X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mobile Doctor Co, Ltd, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Chang",
+        "ForeName": "Seyun",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5272-3081"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mobile Doctor Co, Ltd, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Shin",
+        "ForeName": "Jae Won",
+        "Initials": "JW"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3940-9850"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mobile Doctor Co, Ltd, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Myeongchan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2619-1231"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Medicine, Asan Medical Center, College of Medicine, University of Ulsan, Seoul, Republic of Korea."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Asan Medical Center, College of Medicine, University of Ulsan, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Jae-Ho",
+        "Initials": "JH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "JMIR Mhealth Uhealth",
+    "NlmUniqueID": "101624439",
+    "ISSNLinking": "2291-5222"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antipyretics"
+    },
+    {
+      "RegistryNumber": "362O9ITL9D",
+      "NameOfSubstance": "Acetaminophen"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Acetaminophen"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antipyretics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "epidemiology"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mobile Applications"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: SC, JS, and MK are employees of Mobile Doctor Co, Ltd. All other authors declare no conflicts of interest."
+}

@@ -1,0 +1,146 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36636556",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "12",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "6880760",
+      "10.1155/2022/6880760"
+    ],
+    "Journal": {
+      "ISSN": "1469-5073",
+      "JournalIssue": {
+        "Volume": "2022",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Genetics research",
+      "ISOAbbreviation": "Genet Res (Camb)"
+    },
+    "ArticleTitle": "Identification of the Immune Cell Infiltration Landscape in Head and Neck Squamous Cell Carcinoma (HNSC) for the Exploration of Immunotherapy and Prognosis.",
+    "Pagination": {
+      "StartPage": "6880760",
+      "MedlinePgn": "6880760"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "It is generally believed that the majority of head and neck cancers develop in the mucosal epithelial cells of the mouth, pharynx, and larynx, which is collectively known as head and neck squamous cell carcinoma (HNSC). As a complex pathological process, HNSC develops through a variety of cellular and molecular events. Cancerous cells and immune cells infiltrating tumors are the main components of the tumor microenvironment. However, infiltration of HNSCs by the immune system has not been determined to date. In this work, we proposed computational algorithms to identify different immune subtypes. An analysis of the Cancer Genome Atlas (TCGA) database revealed gene expression profiles and corresponding clinical information. In HNSC patients, two immune-related genes (ZAP70 and IGKV2D-40) may be targets for immunotherapy, and these genes appear to be closely related to the prognosis. Several immunological subtypes were associated with immune function, immune checkpoints, and prognostic factors in HNSCs. Furthermore, ZAP70 is closely related to the overall survival (OS), progress-free interval (PFI), and disease-specific survival (DSS) of HNSC patients. The potential pathways that are associated with ZAP70 were found to have included adaptive immune response, response to oxidative stress, DNA replication, and lipid binding. This study provides a theoretical foundation for developing immunotherapy drugs for HNSC patients. By evaluating larger cohorts, we can gain a deeper understanding of immunotherapy and provide direction for current research on immunotherapy strategies in HNSCs."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Chunli Huang and Jifeng Liu."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Operating Room, West China Hospital, West China School of Nursing, Sichuan University, Chengdu, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Chunli",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9603-013X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology Head and Neck Surgery, West China Hospital, Sichuan University, Chengdu, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Jifeng",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Genet Res (Camb)",
+    "NlmUniqueID": "101550220",
+    "ISSNLinking": "0016-6723"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "therapy"
+      ],
+      "DescriptorName": "Squamous Cell Carcinoma of Head and Neck"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epithelial Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "therapy"
+      ],
+      "DescriptorName": "Head and Neck Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Tumor Microenvironment"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers, Tumor"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflicts of interest."
+}

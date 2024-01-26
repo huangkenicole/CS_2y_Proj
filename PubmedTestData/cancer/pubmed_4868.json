@@ -1,0 +1,165 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19704919",
+  "DateCompleted": {
+    "Year": "2009",
+    "Month": "10",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2009",
+        "Month": "05",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "707580",
+      "10.1155/2009/707580"
+    ],
+    "Journal": {
+      "ISSN": "1110-7251",
+      "JournalIssue": {
+        "Volume": "2009",
+        "PubDate": {
+          "Year": "2009"
+        }
+      },
+      "Title": "Journal of biomedicine & biotechnology",
+      "ISOAbbreviation": "J Biomed Biotechnol"
+    },
+    "ArticleTitle": "Integrating multiple microarray data for cancer pathway analysis using bootstrapping K-S test.",
+    "Pagination": {
+      "StartPage": "707580",
+      "MedlinePgn": "707580"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Previous applications of microarray technology for cancer research have mostly focused on identifying genes that are differentially expressed between a particular cancer and normal cells. In a biological system, genes perform different molecular functions and regulate various biological processes via interactions with other genes thus forming a variety of complex networks. Therefore, it is critical to understand the relationship (e.g., interactions) between genes across different types of cancer in order to gain insights into the molecular mechanisms of cancer. Here we propose an integrative method based on the bootstrapping Kolmogorov-Smirnov test and a large set of microarray data produced with various types of cancer to discover common molecular changes in cells from normal state to cancerous state. We evaluate our method using three key pathways related to cancer and demonstrate that it is capable of finding meaningful alterations in gene relations."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering and Computer Science, University of Kansas, Lawrence, KS 66045, USA."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Bing",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chen",
+        "ForeName": "Xue-Wen",
+        "Initials": "XW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Xinkun",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Michaelis",
+        "ForeName": "Elias K",
+        "Initials": "EK"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Biomed Biotechnol",
+    "NlmUniqueID": "101135740",
+    "ISSNLinking": "1110-7243"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Smad Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Cell Growth Processes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Transduction"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Smad Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Statistics, Nonparametric"
+    }
+  ]
+}

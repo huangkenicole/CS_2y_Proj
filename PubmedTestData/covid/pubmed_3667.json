@@ -1,0 +1,197 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34963680",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "24467",
+      "10.1038/s41598-021-03721-x"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "28"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "A single-agent extension of the SIR model describes the impact of mobility restrictions on the COVID-19 epidemic.",
+    "Pagination": {
+      "StartPage": "24467",
+      "MedlinePgn": "24467"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Mobility restrictions are successfully used to contain the diffusion of epidemics. In this work we explore their effect on the epidemic growth by investigating an extension of the Susceptible-Infected-Removed (SIR) model in which individual mobility is taken into account. In the model individual agents move on a chessboard with a L\u00e9vy walk and, within each square, epidemic spreading follows the standard SIR model. These simple rules allow to reproduce the sub-exponential growth of the epidemic evolution observed during the Covid-19 epidemic waves in several countries and which cannot be captured by the standard SIR model. We show that we can tune the slowing-down of the epidemic spreading by changing the dynamics of the agents from L\u00e9vy to Brownian and we investigate how the interplay among different containment strategies mitigate the epidemic spreading. Finally we demonstrate that we can reproduce the epidemic evolution of the first and second COVID-19 waves in Italy using only 3 parameters, i.e , the infection rate, the removing rate, and the mobility in the country. We provide an estimate of the peak reduction due to imposed mobility restrictions, i. e., the so-called flattening the curve effect. Although based on few ingredients, the model captures the kinetic of the epidemic waves, returning mobility values that are consistent with a lock-down intervention during the first wave and milder limitations, associated to a weaker peak reduction, during the second wave."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departament de F\u00edsica de la Mat\u00e8ria Condensada, Universitat de Barcelona, C. Mart\u00ed Franqu\u00e8s 1, 08028, Barcelona, Spain. matteopaoluzzi@ub.edu."
+          }
+        ],
+        "LastName": "Paoluzzi",
+        "ForeName": "Matteo",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CNR-ISC, Institute for Complex Systems UOS \"Sapienza\", Piazzale A. Moro 2, 00185, Rome, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, Sapienza University of Rome, Rome, Italy."
+          }
+        ],
+        "LastName": "Gnan",
+        "ForeName": "Nicoletta",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physiology and Pharmacology, Sapienza University of Rome, Rome, Italy."
+          }
+        ],
+        "LastName": "Grassi",
+        "ForeName": "Francesca",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, Mental Health and Sensory Organs, Sapienza University of Rome, Rome, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "IRCCS Istituto Neurologico Mediterraneo Neuromed, Pozzilli, Italy."
+          }
+        ],
+        "LastName": "Salvetti",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Disease Prevention and Health Promotion, Istituto Superiore di Sanit\u00e0, Rome, Italy."
+          }
+        ],
+        "LastName": "Vanacore",
+        "ForeName": "Nicola",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CNR-ISC, Institute for Complex Systems UOS \"Sapienza\", Piazzale A. Moro 2, 00185, Rome, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, Sapienza University of Rome, Rome, Italy."
+          }
+        ],
+        "LastName": "Crisanti",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Italy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Movement"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

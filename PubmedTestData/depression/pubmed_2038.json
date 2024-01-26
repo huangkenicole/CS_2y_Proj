@@ -1,0 +1,175 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36781900",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "02",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2488",
+      "10.1038/s41598-023-29101-1"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb",
+          "Day": "13"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Identification of novel targets and pathways to distinguish suicide dependent or independent on depression diagnosis.",
+    "Pagination": {
+      "StartPage": "2488",
+      "MedlinePgn": "2488"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In recent years, postmortem brain studies have revealed that some molecular, cellular, and circuit changes associated with suicide, have an independent or additive effect on depression. The aim of the present study is to identify potential phenotypic, tissue, and sex-specific novel targets and pathways to distinguish depression or suicide from major depressive disorder (MDD) comorbid with suicide. The mRNA expression profiling datasets from two previous independent postmortem brain studies of suicide and depression (GSE102556 and GSE101521) were retrieved from the GEO database. Machine learning analysis was used to differentiate three regrouped gene expression profiles, i.e., MDD with suicide, MDD without suicide, and suicide without depression. Weighted correlation network analysis (WGCNA) was further conducted to identify the key modules and hub genes significantly associated with each of these three sub-phenotypes. TissueEnrich approaches were used to find the essential brain tissues and the difference of tissue enriched genes between depression with or without suicide. Dysregulated gene expression cross two variables, including phenotypes and tissues, were determined by global analysis with Vegan. RRHO analysis was applied to examine the difference in global expression pattern between male and female groups. Using the optimized machine learning model, several ncRNAs and mRNAs with higher AUC and MeanDecreaseGini, including GCNT1P1 and AC092745.1, etc., were identified as potential molecular targets to distinguish suicide with, or without MDD and depression without suicide. WGCNA analysis identified some key modules significantly associated with these three phenotypes, and the gene biological functions of the key modules mainly relate to ncRNA and miRNA processing, as well as oxidoreductase and dehydrogenase activity. Hub genes such as RP11-349A22.5, C20orf196, MAPK8IP3 and RP11-697N18.2 were found in these key modules. TissueEnrich analysis showed that nucleus accumbens and subiculum were significantly changed among the 6 brain regions studied. Global analysis with Vegan and RRHO identified PRS26, ARNT and SYN3 as the most significantly differentially expressed genes across phenotype and tissues, and there was little overlap between the male and female groups. In this study, we have identified novel gene targets, as well as annotated functions of co-expression patterns and hub genes that are significantly distinctive between depression with suicide, depression without suicide, and suicide without depression. Moreover, global analysis across three phenotypes and tissues confirmed the evidence of sex difference in mood disorders."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Chinese Materia Medica, Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China."
+          }
+        ],
+        "LastName": "Peng",
+        "ForeName": "Siqi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Chinese Materia Medica, Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Yalan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Montreal Neurological Institute and Hospital, McGill University, Montreal, QC, Canada. lan.xiong@mcgill.ca."
+          }
+        ],
+        "LastName": "Xiong",
+        "ForeName": "Lan",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Chinese Materia Medica, Shanghai University of Traditional Chinese Medicine, Shanghai, 201203, China. wangqingzhong3@gmail.com."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Qingzhong",
+        "Initials": "Q"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Brain"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Suicide"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

@@ -1,0 +1,232 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Biomarkers",
+      "COVID-19",
+      "Data mining",
+      "Disease",
+      "Genetic grammar",
+      "Genetic targets",
+      "Population analysis",
+      "Semantics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37525033",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/978-3-031-31978-5_6"
+    ],
+    "Journal": {
+      "ISSN": "0065-2598",
+      "JournalIssue": {
+        "Volume": "1423",
+        "PubDate": {
+          "Year": "2023"
+        }
+      },
+      "Title": "Advances in experimental medicine and biology",
+      "ISOAbbreviation": "Adv Exp Med Biol"
+    },
+    "ArticleTitle": "Semantic and Population Analysis of the Genetic Targets Related to COVID-19 and Its Association with Genes and Diseases.",
+    "Pagination": {
+      "StartPage": "59",
+      "EndPage": "78",
+      "MedlinePgn": "59-78"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "SARS-CoV-2 is a coronavirus responsible for one of the most serious, modern worldwide pandemics, with lasting and multifaceted effects. By late 2021, SARS-CoV-2 has infected more than 180 million people and has killed more than 3 million. The virus gains entrance to human cells through binding to ACE2 via its surface spike protein and causes a complex disease of the respiratory system, termed COVID-19. Vaccination efforts are being made to hinder the viral spread, and therapeutics are currently under development. Toward this goal, scientific attention is shifting toward variants and SNPs that affect factors of the disease such as susceptibility and severity. This genomic grammar, tightly related to the dark part of our genome, can be explored through the use of modern methods such as natural language processing. We present a semantic analysis of SARS-CoV-2-related publications, which yielded a repertoire of SNPs, genes, and disease ontologies. Population data from the 1000 Genomes Project were subsequently integrated into the pipeline. Data mining approaches of this scale have the potential to elucidate the complex interaction between COVID-19 pathogenesis and host genetic variation; the resulting knowledge can facilitate the management of high-risk groups and aid the efforts toward precision medicine."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s), under exclusive license to Springer Nature Switzerland AG."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Genetics, Department of Biotechnology, School of Applied Biology and Biotechnology, Agricultural University of Athens, Athens, Greece."
+          }
+        ],
+        "LastName": "Papageorgiou",
+        "ForeName": "Louis",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Genetics, Department of Biotechnology, School of Applied Biology and Biotechnology, Agricultural University of Athens, Athens, Greece."
+          }
+        ],
+        "LastName": "Papakonstantinou",
+        "ForeName": "Eleni",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Genetics, Department of Biotechnology, School of Applied Biology and Biotechnology, Agricultural University of Athens, Athens, Greece."
+          }
+        ],
+        "LastName": "Diakou",
+        "ForeName": "Io",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Genetics, Department of Biotechnology, School of Applied Biology and Biotechnology, Agricultural University of Athens, Athens, Greece."
+          }
+        ],
+        "LastName": "Pierouli",
+        "ForeName": "Katerina",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Genetics, Department of Biotechnology, School of Applied Biology and Biotechnology, Agricultural University of Athens, Athens, Greece."
+          }
+        ],
+        "LastName": "Dragoumani",
+        "ForeName": "Konstantina",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University Research Institute of Maternal and Child Health & Precision Medicine, National and Kapodistrian University of Athens, \"Aghia Sophia\" Children's Hospital, Athens, Greece."
+          }
+        ],
+        "LastName": "Bacopoulou",
+        "ForeName": "Flora",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University Research Institute of Maternal and Child Health & Precision Medicine, National and Kapodistrian University of Athens, \"Aghia Sophia\" Children's Hospital, Athens, Greece."
+          }
+        ],
+        "LastName": "Chrousos",
+        "ForeName": "George P",
+        "Initials": "GP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Genetics, Department of Biotechnology, School of Applied Biology and Biotechnology, Agricultural University of Athens, Athens, Greece."
+          }
+        ],
+        "LastName": "Eliopoulos",
+        "ForeName": "Elias",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Genetics, Department of Biotechnology, School of Applied Biology and Biotechnology, Agricultural University of Athens, Athens, Greece. dimvl@aua.gr."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University Research Institute of Maternal and Child Health & Precision Medicine, National and Kapodistrian University of Athens, \"Aghia Sophia\" Children's Hospital, Athens, Greece. dimvl@aua.gr."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Endocrinology and Metabolism, Center of Clinical, Experimental Surgery and Translational Research, Biomedical Research Foundation of the Academy of Athens, Athens, Greece. dimvl@aua.gr."
+          }
+        ],
+        "LastName": "Vlachakis",
+        "ForeName": "Dimitrios",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Adv Exp Med Biol",
+    "NlmUniqueID": "0121103",
+    "ISSNLinking": "0065-2598"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "EC 3.4.15.1",
+      "NameOfSubstance": "Peptidyl-Dipeptidase A"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Semantics"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Peptidyl-Dipeptidase A"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymorphism, Single Nucleotide"
+    }
+  ]
+}

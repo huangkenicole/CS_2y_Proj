@@ -1,0 +1,172 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25164759",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "12",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "08",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1088/0031-9155/59/18/5423"
+    ],
+    "Journal": {
+      "ISSN": "1361-6560",
+      "JournalIssue": {
+        "Volume": "59",
+        "Issue": "18",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Sep",
+          "Day": "21"
+        }
+      },
+      "Title": "Physics in medicine and biology",
+      "ISOAbbreviation": "Phys Med Biol"
+    },
+    "ArticleTitle": "Terahertz spectroscopic investigation of human gastric normal and tumor tissues.",
+    "Pagination": {
+      "StartPage": "5423",
+      "EndPage": "5440",
+      "MedlinePgn": "5423-40"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Human dehydrated normal and cancerous gastric tissues were measured using transmission time-domain terahertz spectroscopy. Based on the obtained terahertz absorption spectra, the contrasts between the two kinds of tissue were investigated and techniques for automatic identification of cancerous tissue were studied. Distinctive differences were demonstrated in both the shape and amplitude of the absorption spectra between normal and tumor tissue. Additionally, some spectral features in the range of 0.2~0.5\u2009THz and 1~1.5\u2009THz were revealed for all cancerous gastric tissues. To systematically achieve the identification of gastric cancer, principal component analysis combined with t-test was used to extract valuable information indicating the best distinction between the two types. Two clustering approaches, K-means and support vector machine (SVM), were then performed to classify the processed terahertz data into normal and cancerous groups. SVM presented a satisfactory result with less false classification cases. The results of this study implicate the potential of the terahertz technique to detect gastric cancer. The applied data analysis methodology provides a suggestion for automatic discrimination of terahertz spectra in other applications."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Control Science and Engineering, Zhejiang University, Hangzhou, People's Republic of China."
+          }
+        ],
+        "LastName": "Hou",
+        "ForeName": "Dibo",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Xian",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Cai",
+        "ForeName": "Jinhui",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ma",
+        "ForeName": "Yehao",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kang",
+        "ForeName": "Xusheng",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Huang",
+        "ForeName": "Pingjie",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhang",
+        "ForeName": "Guangxin",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Phys Med Biol",
+    "NlmUniqueID": "0401220",
+    "ISSNLinking": "0031-9155"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Adenocarcinoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Principal Component Analysis"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Terahertz Spectroscopy"
+    }
+  ]
+}

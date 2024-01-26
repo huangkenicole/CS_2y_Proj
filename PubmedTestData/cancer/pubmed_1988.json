@@ -1,0 +1,288 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "GO and KEGG analysis",
+      "Pan-cancer",
+      "cluster analysis",
+      "copy number variants"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37967237",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "11",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2280708",
+      "10.1080/07853890.2023.2280708"
+    ],
+    "Journal": {
+      "ISSN": "1365-2060",
+      "JournalIssue": {
+        "Volume": "55",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2023"
+        }
+      },
+      "Title": "Annals of medicine",
+      "ISOAbbreviation": "Ann Med"
+    },
+    "ArticleTitle": "Copy number variants landscape of multiple cancers and clinical applications based on NGS gene panel.",
+    "Pagination": {
+      "StartPage": "2280708",
+      "MedlinePgn": "2280708"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The rapid adoption of next-generation sequencing in clinical oncology has enabled detection of molecular biomarkers which are shared between multiple tumour types. Intra-tumour heterogeneity is a mechanism of therapeutic resistance and therefore an important clinical challenge. However, the tumour-related copy number variants (CNVs), as key regulators of cancer origination, development, and progression, across various types of cancers are poorly understood.",
+        "We performed pan-cancer CNV analysis of cancer-related genes in 15 types of cancers including 1438 cancerous patients by next-generation sequencing using a commercially available pan-cancer panel (Onco PanScan\u2122). Downstream bioinformatics analysis was performed in order to detect CNVs, cluster analysis of the found CNVs, and comparison of the frequency of gained CNVs between different types of cancers. LASSO analysis was used for identification of the most important CNVs.",
+        "We also identified 523 CNVs among which 16 CNVs were common while 22 CNVs were caner-specific CNVs. Meanwhile, FAM58A was most commonly found in all studied cancers in this study and significant differences were found in FAM58A between female and male patients (<i>p</i>\u2009=\u2009.001). Common CNVs, such as FOXA1, NFKBIA, HEY1, MECOM, CHD7, AGO2, were mutated in 6.79%, 8.45%, 7.51%, 6.43%, 7.59%, 8.16% of tumours, while most of these mutations have proven roles in positive regulation of transcription from RNA polymerase II promoter. 11 features including sex, DIS3, EPHB1, ERBB2, FLT1, HCK, KEAP1, MYD88, PARP3, TBX3, and TOP2A were found as the key features for classification of cancers using CNVs.",
+        "The 16 common CNVs between cancers can be used to identify the target of pan-cancer drug design and targeted therapies. Additionally, 22 caner-specific CNVs can be used as unique diagnostic markers for each cancer type."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Abdominal Oncology Surgery, Jiangxi Cancer Hospital, Nanchang, China."
+          }
+        ],
+        "LastName": "Yan",
+        "ForeName": "Kangpeng",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CheerLand Clinical Laboratory Co., Ltd., Peking University Medical Industrial Park, Zhongguancun Life Science Park, Beijing, China."
+          }
+        ],
+        "LastName": "Niu",
+        "ForeName": "Li",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of General Surgery, Shangrao Municipal Hospital, Shangrao, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Boyu",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Breast Surgery, Jiangxi Cancer Hospital, Nanchang, China."
+          }
+        ],
+        "LastName": "He",
+        "ForeName": "Chongwu",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Oncology, Jiangxi Cancer Hospital, Nanchang, China."
+          }
+        ],
+        "LastName": "Deng",
+        "ForeName": "Lei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shenzhen Cheerland Biotechnology Co., Ltd., Shenzhen, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Chuan",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine, Southern University of Science and Technology, Shenzhen, China."
+          }
+        ],
+        "LastName": "Lan",
+        "ForeName": "Zhangzhang",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Abdominal Oncology Surgery, Jiangxi Cancer Hospital, Nanchang, China."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Chao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Abdominal Oncology Surgery, Jiangxi Cancer Hospital, Nanchang, China."
+          }
+        ],
+        "LastName": "Kuang",
+        "ForeName": "Weihua",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Operating Room, Jiangxi Cancer Hospital, Nanchang, China."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Huihong",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Abdominal Oncology Surgery, Jiangxi Cancer Hospital, Nanchang, China."
+          }
+        ],
+        "LastName": "Zou",
+        "ForeName": "Jun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine, Southern University of Science and Technology, Shenzhen, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Wenyong",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chest Radiotherapy Department 1, Jiangxi Cancer Hospital, Nanchang, China."
+          }
+        ],
+        "LastName": "Luo",
+        "ForeName": "Zhiqiang",
+        "Initials": "Z"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Ann Med",
+    "NlmUniqueID": "8906388",
+    "ISSNLinking": "0785-3890"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Kelch-Like ECH-Associated Protein 1"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "NF-E2-Related Factor 2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Kelch-Like ECH-Associated Protein 1"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Copy Number Variations"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "NF-E2-Related Factor 2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    }
+  ],
+  "CoiStatement": "The authors report no conflict of interest."
+}

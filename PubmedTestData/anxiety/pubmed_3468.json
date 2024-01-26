@@ -1,0 +1,331 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Anxiety",
+      "Comorbidity",
+      "Depression",
+      "Item level analysis",
+      "Network modelling"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33952286",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "109",
+      "10.1186/s12916-021-01971-0"
+    ],
+    "Journal": {
+      "ISSN": "1741-7015",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "06"
+        }
+      },
+      "Title": "BMC medicine",
+      "ISOAbbreviation": "BMC Med"
+    },
+    "ArticleTitle": "The importance of transdiagnostic symptom level assessment to understanding prognosis for depressed adults: analysis of data from six randomised control trials.",
+    "Pagination": {
+      "StartPage": "109",
+      "MedlinePgn": "109"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Depression is commonly perceived as a single underlying disease with a number of potential treatment options. However, patients with major depression differ dramatically in their symptom presentation and comorbidities, e.g. with anxiety disorders. There are also large variations in treatment outcomes and associations of some anxiety comorbidities with poorer prognoses, but limited understanding as to why, and little information to inform the clinical management of depression. There is a need to improve our understanding of depression, incorporating anxiety comorbidity, and consider the association of a wide range of symptoms with treatment outcomes.",
+        "Individual patient data from six RCTs of depressed patients (total n\u2009=\u20092858) were used to estimate the differential impact symptoms have on outcomes at three post intervention time points using individual items and sum scores. Symptom networks (graphical Gaussian model) were estimated to explore the functional relations among symptoms of depression and anxiety and compare networks for treatment remitters and those with persistent symptoms to identify potential prognostic indicators.",
+        "Item-level prediction performed similarly to sum scores when predicting outcomes at 3 to 4\u2009months and 6 to 8\u2009months, but outperformed sum scores for 9 to 12\u2009months. Pessimism emerged as the most important predictive symptom (relative to all other symptoms), across these time points. In the network structure at study entry, symptoms clustered into physical symptoms, cognitive symptoms, and anxiety symptoms. Sadness, pessimism, and indecision acted as bridges between communities, with sadness and failure/worthlessness being the most central (i.e. interconnected) symptoms. Connectivity of networks at study entry did not differ for future remitters vs. those with persistent symptoms.",
+        "The relative importance of specific symptoms in association with outcomes and the interactions within the network highlight the value of transdiagnostic assessment and formulation of symptoms to both treatment and prognosis. We discuss the potential for complementary statistical approaches to improve our understanding of psychopathology."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Outcomes Research and Effectiveness (CORE), Research Department of Clinical, Educational & Health Psychology, University College London, 1-19 Torrington Place, London, WC1E 7HB, UK. ciaran.o'driscoll.11@ucl.ac.uk."
+          }
+        ],
+        "LastName": "O'Driscoll",
+        "ForeName": "C",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Outcomes Research and Effectiveness (CORE), Research Department of Clinical, Educational & Health Psychology, University College London, 1-19 Torrington Place, London, WC1E 7HB, UK. Joshua.buckman@ucl.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "iCope - Camden & Islington Psychological Therapies Services, Camden & Islington NHS Foundation Trust, St Pancras Hospital, London, NW1 0PE, UK. Joshua.buckman@ucl.ac.uk."
+          }
+        ],
+        "LastName": "Buckman",
+        "ForeName": "J E J",
+        "Initials": "JEJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Psychology, Leiden University, Leiden, The Netherlands."
+          }
+        ],
+        "LastName": "Fried",
+        "ForeName": "E I",
+        "Initials": "EI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Outcomes Research and Effectiveness (CORE), Research Department of Clinical, Educational & Health Psychology, University College London, 1-19 Torrington Place, London, WC1E 7HB, UK."
+          }
+        ],
+        "LastName": "Saunders",
+        "ForeName": "R",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University of California, Los Angeles, Los Angeles, CA, USA."
+          }
+        ],
+        "LastName": "Cohen",
+        "ForeName": "Z D",
+        "Initials": "ZD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Statistical Science, University College London, 1-19 Torrington Place, London, WC1E 7HB, UK."
+          }
+        ],
+        "LastName": "Ambler",
+        "ForeName": "G",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Arts and Sciences, Department of Psychology, 425 S. University Avenue, Philadelphia, PA, 19104-60185, USA."
+          }
+        ],
+        "LastName": "DeRubeis",
+        "ForeName": "R J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Health Sciences, University of York, Seebohm Rowntree Building, Heslington, York, YO10 5DD, UK."
+          }
+        ],
+        "LastName": "Gilbody",
+        "ForeName": "S",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, Vanderbilt University, Nashville, TN, USA."
+          }
+        ],
+        "LastName": "Hollon",
+        "ForeName": "S D",
+        "Initials": "SD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Primary Care, Population Sciences and Medical Education, Faculty of Medicine, University of Southampton, Aldermoor Health Centre, Southampton, SO16 5ST, UK."
+          }
+        ],
+        "LastName": "Kendrick",
+        "ForeName": "T",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Academic Primary Care, Population Health Sciences, Bristol Medical School, University of Bristol, Canynge Hall, Bristol, UK."
+          }
+        ],
+        "LastName": "Kessler",
+        "ForeName": "D",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Psychiatry, University College London, Maple House, London, W1T 7NF, UK."
+          }
+        ],
+        "LastName": "Lewis",
+        "ForeName": "G",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Exeter, Sir Henry Wellcome Building for Mood Disorders Research, Perry Road, Exeter, EX4 4QG, UK."
+          }
+        ],
+        "LastName": "Watkins",
+        "ForeName": "E",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Academic Mental Health, Population Health Sciences, Bristol Medical School, University of Bristol, Oakfield House, Bristol, UK."
+          }
+        ],
+        "LastName": "Wiles",
+        "ForeName": "N",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Outcomes Research and Effectiveness (CORE), Research Department of Clinical, Educational & Health Psychology, University College London, 1-19 Torrington Place, London, WC1E 7HB, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Camden & Islington NHS Foundation Trust, St Pancras Hospital, 4 St Pancras Way, London, NW1 0PE, UK."
+          }
+        ],
+        "LastName": "Pilling",
+        "ForeName": "S",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "G0200243",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MQDS16/72",
+        "Acronym": "MQ_",
+        "Agency": "MQ: Transforming Mental Health",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "201292/Z/16/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med",
+    "NlmUniqueID": "101190723",
+    "ISSNLinking": "1741-7015"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Anxiety Disorders"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    }
+  ],
+  "CoiStatement": "Not applicable"
+}

@@ -1,0 +1,293 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "biomarker",
+      "cancer",
+      "cancer survival",
+      "cancer transition",
+      "immune therapy",
+      "inflammation",
+      "microenvironment",
+      "network analysis",
+      "secreted factor"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30759403",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "03",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "03",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.celrep.2019.01.080",
+      "S2211-1247(19)30109-3"
+    ],
+    "Journal": {
+      "ISSN": "2211-1247",
+      "JournalIssue": {
+        "Volume": "26",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Feb",
+          "Day": "12"
+        }
+      },
+      "Title": "Cell reports",
+      "ISOAbbreviation": "Cell Rep"
+    },
+    "ArticleTitle": "Immune Cell Types and Secreted Factors Contributing to Inflammation-to-Cancer Transition and Immune Therapy Response.",
+    "Pagination": {
+      "StartPage": "1965",
+      "EndPage": "1977.e4",
+      "MedlinePgn": "1965-1977.e4"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Although chronic inflammation increases many cancers' risk, how inflammation facilitates cancer development is still not well studied. Recognizing whether and when inflamed tissues transition to cancerous tissues is of utmost importance. To unbiasedly infer molecular events, immune cell types, and secreted factors contributing to the inflammation-to-cancer (I2C) transition, we develop a computational package called \"SwitchDetector\" based on liver, gastric, and colon cancer I2C data. Using it, we identify angiogenesis associated with a common critical transition stage for multiple I2C events. Furthermore, we infer infiltrated immune cell type composition and their secreted or suppressed extracellular proteins to predict expression of important transition stage genes. This identifies extracellular proteins that may serve as early-detection biomarkers for pre-cancer and early-cancer stages. They alone or together with I2C hallmark angiogenesis genes are significantly related to cancer prognosis and can predict immune therapy response. The SwitchDetector and I2C database are publicly available at www.inflammation2cancer.org."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2019 The Authors. Published by Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Computational Biology, CAS Center for Excellence in Molecular Cell Science, Collaborative Innovation Center for Genetics and Developmental Biology, Chinese Academy of Sciences-Max Planck Partner Institute for Computational Biology, Shanghai Institute of Nutrition and Health, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 320 Yue Yang Road, Shanghai 200031, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Xingwei",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Computational Biology, CAS Center for Excellence in Molecular Cell Science, Collaborative Innovation Center for Genetics and Developmental Biology, Chinese Academy of Sciences-Max Planck Partner Institute for Computational Biology, Shanghai Institute of Nutrition and Health, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 320 Yue Yang Road, Shanghai 200031, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Chi",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Computational Biology, CAS Center for Excellence in Molecular Cell Science, Collaborative Innovation Center for Genetics and Developmental Biology, Chinese Academy of Sciences-Max Planck Partner Institute for Computational Biology, Shanghai Institute of Nutrition and Health, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 320 Yue Yang Road, Shanghai 200031, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+          }
+        ],
+        "LastName": "Hong",
+        "ForeName": "Shengjun",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Computational Biology, CAS Center for Excellence in Molecular Cell Science, Collaborative Innovation Center for Genetics and Developmental Biology, Chinese Academy of Sciences-Max Planck Partner Institute for Computational Biology, Shanghai Institute of Nutrition and Health, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 320 Yue Yang Road, Shanghai 200031, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+          }
+        ],
+        "LastName": "Xia",
+        "ForeName": "Xian",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Computational Biology, CAS Center for Excellence in Molecular Cell Science, Collaborative Innovation Center for Genetics and Developmental Biology, Chinese Academy of Sciences-Max Planck Partner Institute for Computational Biology, Shanghai Institute of Nutrition and Health, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 320 Yue Yang Road, Shanghai 200031, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+          }
+        ],
+        "LastName": "Cao",
+        "ForeName": "Yaqiang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Computational Biology, CAS Center for Excellence in Molecular Cell Science, Collaborative Innovation Center for Genetics and Developmental Biology, Chinese Academy of Sciences-Max Planck Partner Institute for Computational Biology, Shanghai Institute of Nutrition and Health, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 320 Yue Yang Road, Shanghai 200031, China."
+          }
+        ],
+        "LastName": "McDermott",
+        "ForeName": "Joseph",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Computational Biology, CAS Center for Excellence in Molecular Cell Science, Collaborative Innovation Center for Genetics and Developmental Biology, Chinese Academy of Sciences-Max Planck Partner Institute for Computational Biology, Shanghai Institute of Nutrition and Health, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 320 Yue Yang Road, Shanghai 200031, China; University of Chinese Academy of Sciences, Beijing 100049, China."
+          }
+        ],
+        "LastName": "Mu",
+        "ForeName": "Yonglin",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Computational Biology, CAS Center for Excellence in Molecular Cell Science, Collaborative Innovation Center for Genetics and Developmental Biology, Chinese Academy of Sciences-Max Planck Partner Institute for Computational Biology, Shanghai Institute of Nutrition and Health, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 320 Yue Yang Road, Shanghai 200031, China; University of Chinese Academy of Sciences, Beijing 100049, China. Electronic address: jdhan@picb.ac.cn."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Jing-Dong J",
+        "Initials": "JJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Cell Rep",
+    "NlmUniqueID": "101573691"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Autoantigens"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Collagen Type IV"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cytokines"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "type IV collagen alpha3 chain"
+    },
+    {
+      "RegistryNumber": "EC 2.7.10.1",
+      "NameOfSubstance": "FLT1 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 2.7.10.1",
+      "NameOfSubstance": "Vascular Endothelial Growth Factor Receptor-1"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Autoantigens"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Collagen Type IV"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Cytokines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunotherapy"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Inflammation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Linear Models"
+    },
+    {
+      "QualifierName": [
+        "cytology",
+        "metabolism"
+      ],
+      "DescriptorName": "Lymphocytes"
+    },
+    {
+      "QualifierName": [
+        "etiology",
+        "metabolism",
+        "mortality",
+        "therapy"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neovascularization, Pathologic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Analysis"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Vascular Endothelial Growth Factor Receptor-1"
+    }
+  ]
+}

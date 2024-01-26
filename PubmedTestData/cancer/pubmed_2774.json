@@ -1,0 +1,235 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "DNA topoisomerase II alpha (TOP2A)",
+      "HCC",
+      "miR-302b-5p"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31103408",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "01",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "01",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "04",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.prp.2019.04.016",
+      "S0344-0338(19)30225-0"
+    ],
+    "Journal": {
+      "ISSN": "1618-0631",
+      "JournalIssue": {
+        "Volume": "215",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Pathology, research and practice",
+      "ISOAbbreviation": "Pathol Res Pract"
+    },
+    "ArticleTitle": "Evaluation of miR-302b-5p expression and molecular mechanism in hepatocellular carcinoma: Findings based on RT-qPCR and in silico analysis.",
+    "Pagination": {
+      "StartPage": "152424",
+      "MedlinePgn": "152424"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Extensive research has revealed that microRNAs (miRNAs) play a principle role in cancer, and miRNAs associated with specific cancers have also been identified. The role of microRNA (miR)-302b-5p, which is one of the miRNAs reported in association with cancer, in hepatocellular carcinoma (HCC) is still unclear. Thus, the present study aimed to reveal the expression and potential molecule mechanism of miR-302b-5p in HCC.",
+        "An extensive meta-analysis of data from real-time reverse transcription quantitative polymerase chain reaction (RT-qPCR), Gene Expression Omnibus and ArrayExpress microarrays was used to determine the expression of miR-302b-5p in HCC tissue samples and non-cancerous liver tissue samples. The sensitivity and specificity of miR-302b-5p as an indicator of HCC was estimated by plotting the receiver operating characteristic (ROC) and summarized ROC (sROC). Gene Ontology and Kyoto Encyclopedia of Genes and Genomes pathway analyses were employed to unravel the molecular mechanisms and biological functions of miR-302b-5p in HCC. Further, the putative target genes of miR-302b-5p were harvested based on the predicted genes and differentially expressed genes in HCC. Finally, the protein-protein interaction (PPI) network was built to determine the hub genes.",
+        "According to the RT-qPCR results, the expression of miR-302b-5p was pronouncedly decreased in 39 HCC tissue samples as compared to 39 non-cancerous liver tissue samples. The standard mean difference (SMD) values of all the samples used in the meta-analysis also indicated lower miR-302b-5p expression in the 558 HCC tissue samples than in the 286 non-cancerous liver tissue samples. ROC and sROC analyses showed that miR-302b-5p had good specificity and sensitivity for distinguishing HCC tissue from non-cancerous liver tissue. Bioinformatics analyses identified 227 putative genes, and these genes were evidently enriched in the processes of organelle fission, chromosome and chromatin binding and were centralized in a \"lysosome\" pathway. The PPI network indicated that DNA topoisomerase II alpha (TOP2\u2009A) was the most prominent hub gene of miR-302b-5p in HCC. Interestingly, according to the TCGA and Genotype-Tissue Expression databases, the mRNA and protein expression of TOP2\u2009A were both elevated in HCC tissue samples as compared to non-cancerous liver tissue samples, and the overall survival and disease-free survival revealed that a high level of TOP2\u2009A might reflect poor HCC outcome.",
+        "Our findings indicate that miR-302b-5p might suppress HCC progression, and TOP2\u2009A might be a potential target of miR-302b-5p in HCC. However, in-depth in vivo and in vitro experiments are required to verify these findings and explore the mechanisms involved."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2019 Elsevier GmbH. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathophysiology, School of Pre-clinical Medicine, Guangxi Medical University, Nanning, 530021, Guangxi Zhuang Autonomous Region, PR China; Department of Cell Biology and Genetics, School of Pre-clinical Medicine, Guangxi Medical University, Nanning, 530021, Guangxi Zhuang Autonomous Region, PR China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Hua-Yu",
+        "Initials": "HY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathophysiology, School of Pre-clinical Medicine, Guangxi Medical University, Nanning, 530021, Guangxi Zhuang Autonomous Region, PR China."
+          }
+        ],
+        "LastName": "Cai",
+        "ForeName": "Kai-Teng",
+        "Initials": "KT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Oncology, First Affiliated Hospital of Guangxi Medical University, Nanning, 530021, Guangxi Zhuang Autonomous Region, PR China."
+          }
+        ],
+        "LastName": "Ma",
+        "ForeName": "Jie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, Nanning, 530021, Guangxi Zhuang Autonomous Region, PR China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Gang",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, Nanning, 530021, Guangxi Zhuang Autonomous Region, PR China."
+          }
+        ],
+        "LastName": "Dang",
+        "ForeName": "Yi-Wu",
+        "Initials": "YW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, First Affiliated Hospital of Guangxi Medical University, Nanning, 530021, Guangxi Zhuang Autonomous Region, PR China. Electronic address: luhuiping@gxmu.edu.cn."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Hui-Ping",
+        "Initials": "HP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathophysiology, School of Pre-clinical Medicine, Guangxi Medical University, Nanning, 530021, Guangxi Zhuang Autonomous Region, PR China. Electronic address: slpan@gxmu.edu.cn."
+          }
+        ],
+        "LastName": "Pan",
+        "ForeName": "Shang-Ling",
+        "Initials": "SL"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "Pathol Res Pract",
+    "NlmUniqueID": "7806109",
+    "ISSNLinking": "0344-0338"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MIRN302A microRNA, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    },
+    {
+      "RegistryNumber": "EC 5.99.1.3",
+      "NameOfSubstance": "DNA Topoisomerases, Type II"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Carcinoma, Hepatocellular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "DNA Topoisomerases, Type II"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Liver"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Liver Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "MicroRNAs"
+    }
+  ]
+}

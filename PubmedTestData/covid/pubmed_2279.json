@@ -1,0 +1,205 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34492046",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0256630",
+      "10.1371/journal.pone.0256630"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Pneumonia detection in chest X-ray images using an ensemble of deep learning models.",
+    "Pagination": {
+      "StartPage": "e0256630",
+      "MedlinePgn": "e0256630"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Pneumonia is a respiratory infection caused by bacteria or viruses; it affects many individuals, especially in developing and underdeveloped nations, where high levels of pollution, unhygienic living conditions, and overcrowding are relatively common, together with inadequate medical infrastructure. Pneumonia causes pleural effusion, a condition in which fluids fill the lung, causing respiratory difficulty. Early diagnosis of pneumonia is crucial to ensure curative treatment and increase survival rates. Chest X-ray imaging is the most frequently used method for diagnosing pneumonia. However, the examination of chest X-rays is a challenging task and is prone to subjective variability. In this study, we developed a computer-aided diagnosis system for automatic pneumonia detection using chest X-ray images. We employed deep transfer learning to handle the scarcity of available data and designed an ensemble of three convolutional neural network models: GoogLeNet, ResNet-18, and DenseNet-121. A weighted average ensemble technique was adopted, wherein the weights assigned to the base learners were determined using a novel approach. The scores of four standard evaluation metrics, precision, recall, f1-score, and the area under the curve, are fused to form the weight vector, which in studies in the literature was frequently set experimentally, a method that is prone to error. The proposed approach was evaluated on two publicly available pneumonia X-ray datasets, provided by Kermany et al. and the Radiological Society of North America (RSNA), respectively, using a five-fold cross-validation scheme. The proposed method achieved accuracy rates of 98.81% and 86.85% and sensitivity rates of 98.80% and 87.02% on the Kermany and RSNA datasets, respectively. The results were superior to those of state-of-the-art methods and our method performed better than the widely used ensemble techniques. Statistical analyses on the datasets using McNemar's and ANOVA tests showed the robustness of the approach. The codes for the proposed work are available at https://github.com/Rohit-Kundu/Ensemble-Pneumonia-Detection."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-8665-8898"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering, Jadavpur University, Kolkata, India."
+          }
+        ],
+        "LastName": "Kundu",
+        "ForeName": "Rohit",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6930-7981"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science & Engineering, Jadavpur University, Kolkata, India."
+          }
+        ],
+        "LastName": "Das",
+        "ForeName": "Ritacheta",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0370-5562"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of IT Convergence, Gachon University, Seongnam, South Korea."
+          }
+        ],
+        "LastName": "Geem",
+        "ForeName": "Zong Woo",
+        "Initials": "ZW"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5905-9424"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of IT Convergence, Gachon University, Seongnam, South Korea."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Gi-Tae",
+        "Initials": "GT"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8813-4086"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science & Engineering, Jadavpur University, Kolkata, India."
+          }
+        ],
+        "LastName": "Sarkar",
+        "ForeName": "Ram",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "diagnostic imaging",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Early Diagnosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Lung"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "North America"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Pneumonia"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Thorax"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "X-Rays"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

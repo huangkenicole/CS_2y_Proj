@@ -1,0 +1,209 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "22348066",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "07",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2012",
+        "Month": "02",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e31283",
+      "10.1371/journal.pone.0031283"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2012"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Blood-based gene expression profiles models for classification of subsyndromal symptomatic depression and major depressive disorder.",
+    "Pagination": {
+      "StartPage": "e31283",
+      "MedlinePgn": "e31283"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Subsyndromal symptomatic depression (SSD) is a subtype of subthreshold depressive and also lead to significant psychosocial functional impairment as same as major depressive disorder (MDD). Several studies have suggested that SSD is a transitory phenomena in the depression spectrum and is thus considered a subtype of depression. However, the pathophysioloy of depression remain largely obscure and studies on SSD are limited. The present study compared the expression profile and made the classification with the leukocytes by using whole-genome cRNA microarrays among drug-free first-episode subjects with SSD, MDD, and matched controls (8 subjects in each group). Support vector machines (SVMs) were utilized for training and testing on candidate signature expression profiles from signature selection step. Firstly, we identified 63 differentially expressed SSD signatures in contrast to control (P< = 5.0E-4) and 30 differentially expressed MDD signatures in contrast to control, respectively. Then, 123 gene signatures were identified with significantly differential expression level between SSD and MDD. Secondly, in order to conduct priority selection for biomarkers for SSD and MDD together, we selected top gene signatures from each group of pair-wise comparison results, and merged the signatures together to generate better profiles used for clearly classify SSD and MDD sets in the same time. In details, we tried different combination of signatures from the three pair-wise compartmental results and finally determined 48 gene expression signatures with 100% accuracy. Our finding suggested that SSD and MDD did not exhibit the same expressed genome signature with peripheral blood leukocyte, and blood cell-derived RNA of these 48 gene models may have significant value for performing diagnostic functions and classifying SSD, MDD, and healthy controls."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Mood Disorders, Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ],
+        "LastName": "Yi",
+        "ForeName": "Zhenghui",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Zezhi",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yu",
+        "ForeName": "Shunying",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yuan",
+        "ForeName": "Chengmei",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hong",
+        "ForeName": "Wu",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Zuowei",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Cui",
+        "ForeName": "Jian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Shi",
+        "ForeName": "Tieliu",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fang",
+        "ForeName": "Yiru",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Complementary"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "blood"
+      ],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Leukocytes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Microarray Analysis"
+    },
+    {
+      "QualifierName": [
+        "blood"
+      ],
+      "DescriptorName": "RNA, Complementary"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests: </b>The authors have declared that no competing interests exist."
+}

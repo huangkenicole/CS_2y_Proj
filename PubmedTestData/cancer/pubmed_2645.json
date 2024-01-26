@@ -1,0 +1,144 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "20703744",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "04",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2010",
+        "Month": "03",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10916-010-9450-y"
+    ],
+    "Journal": {
+      "ISSN": "0148-5598",
+      "JournalIssue": {
+        "Volume": "36",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2012",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Journal of medical systems",
+      "ISOAbbreviation": "J Med Syst"
+    },
+    "ArticleTitle": "Automated detection of breast cancer in thermal infrared images, based on independent component analysis.",
+    "Pagination": {
+      "StartPage": "103",
+      "EndPage": "111",
+      "MedlinePgn": "103-11"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Breast cancer, among women, is the second-most common cancer and the leading cause of cancer death. It has become a major health issue in the world over the past decades and its incidence has increased in recent years mostly due to increased awareness of the importance of screening and population ageing. Early detection is crucial in the effective treatment of breast cancer. Current mammogram screening may turn up many tiny abnormalities that are either not cancerous or are slow-growing cancers that would never progress to the point of killing a woman and might never even become known to her. Ideally a better screening method should find a way of distinguishing the dangerous, aggressive tumors that need to be excised from the more languorous ones that do not. This paper therefore proposes a new method of thermographic image analysis for automated detection of high tumor risk areas, based on independent component analysis (ICA) and on post-processing of the images resulting from this algorithm. Tests carried out on a database enable tumor areas of 4\u2009\u00d7\u20094 pixels on an original thermographic image to be detected. The proposed method has shown that the appearance of a heat anomaly indicating a potentially cancerous zone is reflected as an independent source by ICA analysis of the YCrCb components; the set of available images in our small series is giving us a sensitivity of 100% and a specificity of 94.7%."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Electronics Department, University of Alcal\u00e1, Alcal\u00e1 de Henares, Madrid, Spain. luciano@depeca.uah.es"
+          }
+        ],
+        "LastName": "Boquete",
+        "ForeName": "Luciano",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ortega",
+        "ForeName": "Sergio",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Miguel-Jim\u00e9nez",
+        "ForeName": "Juan Manuel",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rodr\u00edguez-Ascariz",
+        "ForeName": "Jos\u00e9 Manuel",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Blanco",
+        "ForeName": "Rom\u00e1n",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Med Syst",
+    "NlmUniqueID": "7806056",
+    "ISSNLinking": "0148-5598"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infrared Rays"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Principal Component Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Thermography"
+    }
+  ]
+}

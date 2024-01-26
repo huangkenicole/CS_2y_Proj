@@ -1,0 +1,459 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35851854",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "07",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41564-022-01185-x"
+    ],
+    "Journal": {
+      "ISSN": "2058-5276",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Nature microbiology",
+      "ISOAbbreviation": "Nat Microbiol"
+    },
+    "ArticleTitle": "Early detection and surveillance of SARS-CoV-2 genomic variants in wastewater using COJAC.",
+    "Pagination": {
+      "StartPage": "1151",
+      "EndPage": "1160",
+      "MedlinePgn": "1151-1160"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The continuing emergence of SARS-CoV-2 variants of concern and variants of interest emphasizes the need for early detection and epidemiological surveillance of novel variants. We used genomic sequencing of 122 wastewater samples from three locations in Switzerland to monitor the local spread of B.1.1.7 (Alpha), B.1.351 (Beta) and P.1 (Gamma) variants of SARS-CoV-2 at a population level. We devised a bioinformatics method named COJAC (Co-Occurrence adJusted Analysis and Calling) that uses read pairs carrying multiple variant-specific signature mutations as a robust indicator of low-frequency variants. Application of COJAC revealed that a local outbreak of the Alpha variant in two Swiss cities was observable in wastewater up to 13\u2009d before being first reported in clinical samples. We further confirmed the ability of COJAC to detect emerging variants early for the Delta variant by analysing an additional 1,339 wastewater samples. While sequencing data of single wastewater samples provide limited precision for the quantification of relative prevalence of a variant, we show that replicate and close-meshed longitudinal sequencing allow for robust estimation not only of the local prevalence but also of the transmission fitness advantage of any variant. We conclude that genomic sequencing and our computational analysis can provide population-level estimates of prevalence and fitness of emerging variants from wastewater samples earlier and on the basis of substantially fewer samples than from clinical samples. Our framework is being routinely used in large national projects in Switzerland and the UK."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Jahn",
+        "ForeName": "Katharina",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5827-5387"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Dreifuss",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Topolsky",
+        "ForeName": "Ivan",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\u00fcbendorf, Switzerland."
+          }
+        ],
+        "LastName": "Kull",
+        "ForeName": "Anina",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\u00fcbendorf, Switzerland."
+          }
+        ],
+        "LastName": "Ganesanandamoorthy",
+        "ForeName": "Pravin",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Environmental Chemistry, School of Architecture, Civil and Environmental Engineering, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Fernandez-Cassi",
+        "ForeName": "Xavier",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\u00fcbendorf, Switzerland."
+          }
+        ],
+        "LastName": "B\u00e4nziger",
+        "ForeName": "Carola",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\u00fcbendorf, Switzerland."
+          }
+        ],
+        "LastName": "Devaux",
+        "ForeName": "Alexander J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\u00fcbendorf, Switzerland."
+          }
+        ],
+        "LastName": "Stachler",
+        "ForeName": "Elyse",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\u00fcbendorf, Switzerland."
+          }
+        ],
+        "LastName": "Caduff",
+        "ForeName": "Lea",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Environmental Chemistry, School of Architecture, Civil and Environmental Engineering, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Cariti",
+        "ForeName": "Federica",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Environmental Chemistry, School of Architecture, Civil and Environmental Engineering, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Corz\u00f3n",
+        "ForeName": "Alex Tu\u00f1as",
+        "Initials": "AT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Fuhrmann",
+        "ForeName": "Lara",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8763-2937"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Chaoran",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Jablonski",
+        "ForeName": "Kim Philipp",
+        "Initials": "KP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Nadeau",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Feldkamp",
+        "ForeName": "Mirjam",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5360-2193"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Beisel",
+        "ForeName": "Christian",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Functional Genomics Center Zurich, ETH Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Aquino",
+        "ForeName": "Catharine",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6431-535X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Stadler",
+        "ForeName": "Tanja",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9950-2286"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\u00fcbendorf, Switzerland."
+          }
+        ],
+        "LastName": "Ort",
+        "ForeName": "Christoph",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0395-6561"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Environmental Chemistry, School of Architecture, Civil and Environmental Engineering, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Kohn",
+        "ForeName": "Tamar",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1000-0306"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Eawag, Swiss Federal Institute of Aquatic Science and Technology, D\u00fcbendorf, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Swiss Tropical and Public Health Institute, Basel, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Julian",
+        "ForeName": "Timothy R",
+        "Initials": "TR"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0573-6119"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biosystems Science and Engineering, ETH Zurich, Basel, Switzerland. niko.beerenwinkel@bsse.ethz.ch."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland. niko.beerenwinkel@bsse.ethz.ch."
+          }
+        ],
+        "LastName": "Beerenwinkel",
+        "ForeName": "Niko",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Microbiol",
+    "NlmUniqueID": "101674869",
+    "ISSNLinking": "2058-5276"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Waste Water"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wastewater"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

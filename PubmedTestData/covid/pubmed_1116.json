@@ -1,0 +1,268 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2 3CL inhibitors",
+      "deep learning",
+      "drug discovery",
+      "model interpretation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34368837",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab301",
+      "10.1093/bib/bbab301"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "A novel framework integrating AI model and enzymological experiments promotes identification of SARS-CoV-2 3CL protease inhibitors and activity-based probe.",
+    "Abstract": {
+      "AbstractText": [
+        "The identification of protein-ligand interaction plays a key role in biochemical research and drug discovery. Although deep learning has recently shown great promise in discovering new drugs, there remains a gap between deep learning-based and experimental approaches. Here, we propose a novel framework, named AIMEE, integrating AI model and enzymological experiments, to identify inhibitors against 3CL protease of SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2), which has taken a significant toll on people across the globe. From a bioactive chemical library, we have conducted two rounds of experiments and identified six novel inhibitors with a hit rate of 29.41%, and four of them showed an IC50 value <3\u00a0\u03bcM. Moreover, we explored the interpretability of the central model in AIMEE, mapping the deep learning extracted features to the domain knowledge of chemical properties. Based on this knowledge, a commercially available compound was selected and was proven to be an activity-based probe of 3CLpro. This work highlights the great potential of combining deep learning models and biochemical experiments for intelligent iteration and for expanding the boundaries of drug discovery. The code and data are available at https://github.com/SIAT-code/AIMEE."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-0191-1300"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong-Hong Kong-Macao Joint Laboratory of Human-Machine Intelligence-Synergy Systems, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Fan",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Quantitative Engineering Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Lei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong-Hong Kong-Macao Joint Laboratory of Human-Machine Intelligence-Synergy Systems, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Yishen",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong-Hong Kong-Macao Joint Laboratory of Human-Machine Intelligence-Synergy Systems, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Dongqi",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Quantitative Engineering Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Weijie",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Pharmaceutical Sciences, Shenzhen University Health Science Center, Shenzhen, 518055, China."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Jianbing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS Key Laboratory of Quantitative Engineering Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Nan",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong-Hong Kong-Macao Joint Laboratory of Human-Machine Intelligence-Synergy Systems, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055, China."
+          }
+        ],
+        "LastName": "Yin",
+        "ForeName": "Peng",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2018YFA0902703",
+        "Agency": "National Key Research and Development Program of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "XDB 38040200",
+        "Agency": "Strategic Priority Research Program of Chinese Academy of Sciences",
+        "Country": ""
+      },
+      {
+        "GrantID": "11801542",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "JCYJ20170818164014753",
+        "Agency": "Shenzhen Science and Technology Innovation Committee",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Ligands"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Protease Inhibitors"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Small Molecule Libraries"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Discovery"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Ligands"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Protease Inhibitors"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "drug effects",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Small Molecule Libraries"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

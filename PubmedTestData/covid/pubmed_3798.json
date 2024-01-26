@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34561514",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "19009",
+      "10.1038/s41598-021-98396-9"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep",
+          "Day": "24"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Evaluation of Twitter data for an emerging crisis: an application to the first wave of COVID-19 in the UK.",
+    "Pagination": {
+      "StartPage": "19009",
+      "MedlinePgn": "19009"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In the absence of nationwide mass testing for an emerging health crisis, alternative approaches could provide necessary information efficiently to aid policy makers and health bodies when dealing with a pandemic. The following work presents a methodology by which Twitter data surrounding the first wave of the COVID-19 pandemic in the UK is harvested and analysed using two main approaches. The first is an investigation into localized outbreak predictions by developing a prototype early-warning system using the distribution of total tweet volume. The temporal lag between the rises in the number of COVID-19 related tweets and officially reported deaths by Public Health England (PHE) is observed to be 6-27 days for various UK cities which matches the temporal lag values found in the literature. To better understand the topics of discussion and attitudes of people surrounding the pandemic, the second approach is an in-depth behavioural analysis assessing the public opinion and response to government policies such as the introduction of face-coverings. Using topic modelling, nine distinct topics are identified within the corpus of COVID-19 tweets, of which the themes ranged from retail to government bodies. Sentiment analysis on a subset of mask related tweets revealed sentiment spikes corresponding to major news and announcements. A Named Entity Recognition (NER) algorithm is trained and applied in a semi-supervised manner to recognise tweets containing location keywords within the unlabelled corpus and achieved a precision of 81.6%. Overall, these approaches allowed extraction of temporal trends relating to PHE case numbers, popular locations in relation to the use of face-coverings, and attitudes towards face-coverings, vaccines and the national 'Test and Trace' scheme."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics and Astronomy, University College London, Gower Street, London, WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Cheng",
+        "ForeName": "I Kit",
+        "Initials": "IK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics and Astronomy, University College London, Gower Street, London, WC1E 6BT, UK. johannes.heyl.19@ucl.ac.uk."
+          }
+        ],
+        "LastName": "Heyl",
+        "ForeName": "Johannes",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics and Astronomy, University College London, Gower Street, London, WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Lad",
+        "ForeName": "Nisha",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Warwick, Coventry, CV4 7AL, UK."
+          }
+        ],
+        "LastName": "Facini",
+        "ForeName": "Gabriel",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics and Astronomy, University College London, Gower Street, London, WC1E 6BT, UK."
+          }
+        ],
+        "LastName": "Grout",
+        "ForeName": "Zara",
+        "Initials": "Z"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "ST/P006736/1",
+        "Agency": "Science and Technology Facilities Council",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Social Media"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "United Kingdom"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

@@ -1,0 +1,409 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34586364",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2128534",
+      "10.1001/jamanetworkopen.2021.28534"
+    ],
+    "Journal": {
+      "ISSN": "2574-3805",
+      "JournalIssue": {
+        "Volume": "4",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep",
+          "Day": "01"
+        }
+      },
+      "Title": "JAMA network open",
+      "ISOAbbreviation": "JAMA Netw Open"
+    },
+    "ArticleTitle": "Assessment of the Feasibility of Using Noninvasive Wearable Biometric Monitoring Sensors to Detect Influenza and the Common Cold Before Symptom Onset.",
+    "Pagination": {
+      "StartPage": "e2128534",
+      "MedlinePgn": "e2128534"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Currently, there are no presymptomatic screening methods to identify individuals infected with a respiratory virus to prevent disease spread and to predict their trajectory for resource allocation.",
+        "To evaluate the feasibility of using noninvasive, wrist-worn wearable biometric monitoring sensors to detect presymptomatic viral infection after exposure and predict infection severity in patients exposed to H1N1 influenza or human rhinovirus.",
+        "The cohort H1N1 viral challenge study was conducted during 2018; data were collected from September 11, 2017, to May 4, 2018. The cohort rhinovirus challenge study was conducted during 2015; data were collected from September 14 to 21, 2015. A total of 39 adult participants were recruited for the H1N1 challenge study, and 24 adult participants were recruited for the rhinovirus challenge study. Exclusion criteria for both challenges included chronic respiratory illness and high levels of serum antibodies. Participants in the H1N1 challenge study were isolated in a clinic for a minimum of 8 days after inoculation. The rhinovirus challenge took place on a college campus, and participants were not isolated.",
+        "Participants in the H1N1 challenge study were inoculated via intranasal drops of diluted influenza A/California/03/09 (H1N1) virus with a mean count of 106 using the median tissue culture infectious dose (TCID50) assay. Participants in the rhinovirus challenge study were inoculated via intranasal drops of diluted human rhinovirus strain type 16 with a count of 100 using the TCID50 assay.",
+        "The primary outcome measures included cross-validated performance metrics of random forest models to screen for presymptomatic infection and predict infection severity, including accuracy, precision, sensitivity, specificity, F1 score, and area under the receiver operating characteristic curve (AUC).",
+        "A total of 31 participants with H1N1 (24 men [77.4%]; mean [SD] age, 34.7 [12.3] years) and 18 participants with rhinovirus (11 men [61.1%]; mean [SD] age, 21.7 [3.1] years) were included in the analysis after data preprocessing. Separate H1N1 and rhinovirus detection models, using only data on wearble devices as input, were able to distinguish between infection and noninfection with accuracies of up to 92% for H1N1 (90% precision, 90% sensitivity, 93% specificity, and 90% F1 score, 0.85 [95% CI, 0.70-1.00] AUC) and 88% for rhinovirus (100% precision, 78% sensitivity, 100% specificity, 88% F1 score, and 0.96 [95% CI, 0.85-1.00] AUC). The infection severity prediction model was able to distinguish between mild and moderate infection 24 hours prior to symptom onset with an accuracy of 90% for H1N1 (88% precision, 88% sensitivity, 92% specificity, 88% F1 score, and 0.88 [95% CI, 0.72-1.00] AUC) and 89% for rhinovirus (100% precision, 75% sensitivity, 100% specificity, 86% F1 score, and 0.95 [95% CI, 0.79-1.00] AUC).",
+        "This cohort study suggests that the use of a noninvasive, wrist-worn wearable device to predict an individual's response to viral exposure prior to symptoms is feasible. Harnessing this technology would support early interventions to limit presymptomatic spread of viral respiratory infections, which is timely in the era of COVID-19."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering Department, Duke University, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Grzesiak",
+        "ForeName": "Emilia",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering Department, Duke University, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Bent",
+        "ForeName": "Brinnae",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, North Carolina."
+          }
+        ],
+        "LastName": "McClain",
+        "ForeName": "Micah T",
+        "Initials": "MT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, North Carolina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Durham Veterans Affairs Medical Center, Durham, North Carolina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Duke Global Health Institute, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Woods",
+        "ForeName": "Christopher W",
+        "Initials": "CW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, North Carolina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Durham Veterans Affairs Medical Center, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Tsalik",
+        "ForeName": "Ephraim L",
+        "Initials": "EL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Durham Veterans Affairs Medical Center, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Nicholson",
+        "ForeName": "Bradly P",
+        "Initials": "BP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Duke Global Health Institute, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Veldman",
+        "ForeName": "Timothy",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Burke",
+        "ForeName": "Thomas W",
+        "Initials": "TW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Gardener",
+        "ForeName": "Zoe",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Bergstrom",
+        "ForeName": "Emma",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of Virginia School of Medicine, Charlottesville."
+          }
+        ],
+        "LastName": "Turner",
+        "ForeName": "Ronald B",
+        "Initials": "RB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Chiu",
+        "ForeName": "Christopher",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Duke University School of Medicine, Durham, North Carolina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Duke University School of Medicine, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Doraiswamy",
+        "ForeName": "P Murali",
+        "Initials": "PM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor."
+          }
+        ],
+        "LastName": "Hero",
+        "ForeName": "Alfred",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Henao",
+        "ForeName": "Ricardo",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Duke Center for Applied Genomics and Precision Medicine, Duke University Medical Center, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Ginsburg",
+        "ForeName": "Geoffrey S",
+        "Initials": "GS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering Department, Duke University, Durham, North Carolina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Duke University School of Medicine, Durham, North Carolina."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics and Bioinformatics, Duke University Medical Center, Durham, North Carolina."
+          }
+        ],
+        "LastName": "Dunn",
+        "ForeName": "Jessilyn",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Evaluation Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "JAMA Netw Open",
+    "NlmUniqueID": "101729235",
+    "ISSNLinking": "2574-3805"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Area Under Curve"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biological Assay"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Biometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cohort Studies"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Early Diagnosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feasibility Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "growth & development"
+      ],
+      "DescriptorName": "Influenza A Virus, H1N1 Subtype"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "Influenza, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mass Screening"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "growth & development"
+      ],
+      "DescriptorName": "Rhinovirus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Severity of Illness Index"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Shedding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "<b>Conflict of Interest Disclosures:</b> Dr McClain reported receiving grants from Defense Advanced Research Projects Agency (DARPA) during the conduct of the study; in addition, Dr McClain had a patent for molecular signatures of acute respiratory infections pending. Dr Tsalik reported receiving personal fees from and being the cofounder of Predigen Inc outside the submitted work. Dr Burke reported receiving grants from DARPA during the conduct of the study and serving as a consultant for Predigen Inc outside the submitted work. Dr Turner reported receiving grants from Duke University during the conduct of the study. Dr Chiu reported receiving grants from DARPA during the conduct of the study and grants from Wellcome Trust, Medical Research Council, and the European Commission outside the submitted work. Dr Doraiswamy reported receiving grants from DARPA and nonfinancial support from Lumos Labs during the conduct of the study and receiving grants from Salix, Avanir, Avid, the National Institutes of Health, Cure Alzheimer\u2019s Fund, Karen L. Wrenn Trust, Steve Aoki Foundation, the Office of Naval Research, and the Department of Defense and personal fees from Clearview, Verily, Vitakey, Transposon, Neuroglee, Brain Forum, and Apollo outside the submitted work; in addition, Dr Doraiswamy had a patent for infection detection using wearables pending, a patent for diagnosis of Alzheimer disease pending, a patent for treatment of Alzheimer disease pending, and a patent for infection detection through cognitive variability pending. Dr Ginsburg reported being the founder of Predigen Inc outside the submitted work. No other disclosures were reported."
+}

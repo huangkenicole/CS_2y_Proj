@@ -1,0 +1,159 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Covid-19",
+      "Infectious Disease",
+      "Mathematical Modelling"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35545847",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "05",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e100",
+      "10.1017/S0950268821002776"
+    ],
+    "Journal": {
+      "ISSN": "1469-4409",
+      "JournalIssue": {
+        "Volume": "150",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "May",
+          "Day": "12"
+        }
+      },
+      "Title": "Epidemiology and infection",
+      "ISOAbbreviation": "Epidemiol Infect"
+    },
+    "ArticleTitle": "Assessing the role of imported cases on the establishment of SARS-CoV-2 Delta variant of concern in Bolton, UK.",
+    "Pagination": {
+      "StartPage": "e100",
+      "MedlinePgn": "e100"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This paper presents a method used to rapidly assess the incursion and the establishment of community transmission of suspected SARS-CoV-2 variant of concern Delta (lineage B.1.617.2) into the UK in April and May 2021. The method described is independent of any genetically sequenced data, and so avoids the inherent lag times involved in sequencing of cases. We show that, between 1 April and 12 May 2021, there was a strong correlation between local authorities with high numbers of imported positive cases from India and high COVID-19 case rates, and that this relationship holds as we look at finer geographic detail. Further, we also show that Bolton was an outlier in the relationship, having the highest COVID-19 case rates despite relatively few importations. We use an artificial neural network trained on demographic data, to show that observed importations in Bolton were consistent with similar areas. Finally, using an SEIR transmission model, we show that imported positive cases were a contributing factor to persistent transmission in a number of local authorities, however they could not account for increased case rates observed in Bolton. As such, the outbreak of Delta variant in Bolton was likely not a result of direct importation from overseas, but rather secondary transmission from other regions within the UK."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1628-3231"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Guidance and Expertise Joint Modelling Cell, Public Health England, Salisbury, UK."
+          }
+        ],
+        "LastName": "Shingleton",
+        "ForeName": "Joseph",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Guidance and Expertise Joint Modelling Cell, Public Health England, Salisbury, UK."
+          }
+        ],
+        "LastName": "Finnie",
+        "ForeName": "Thomas",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Guidance and Expertise Joint Modelling Cell, Public Health England, Salisbury, UK."
+          }
+        ],
+        "LastName": "Gent",
+        "ForeName": "Nick",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Guidance and Expertise Joint Modelling Cell, Public Health England, Salisbury, UK."
+          }
+        ],
+        "LastName": "Bennett",
+        "ForeName": "Emma",
+        "Initials": "E"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Epidemiol Infect",
+    "NlmUniqueID": "8703737",
+    "ISSNLinking": "0950-2688"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United Kingdom"
+    }
+  ]
+}

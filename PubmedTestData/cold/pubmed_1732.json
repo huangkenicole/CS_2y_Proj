@@ -1,0 +1,234 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bayesian inference",
+      "asthma",
+      "common cold",
+      "mathematical model",
+      "transmission"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26858436",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "07",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "02",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1073/pnas.1518677113"
+    ],
+    "Journal": {
+      "ISSN": "1091-6490",
+      "JournalIssue": {
+        "Volume": "113",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Feb",
+          "Day": "23"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "Respiratory virus transmission dynamics determine timing of asthma exacerbation peaks: Evidence from a population-level model.",
+    "Pagination": {
+      "StartPage": "2194",
+      "EndPage": "2199",
+      "MedlinePgn": "2194-9"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Asthma exacerbations exhibit a consistent annual pattern, closely mirroring the school calendar. Although respiratory viruses--the \"common cold\" viruses--are implicated as a principal cause, there is little evidence to link viral prevalence to seasonal differences in risk. We jointly fit a common cold transmission model and a model of biological and environmental exacerbation triggers to estimate effects on hospitalization risk. Asthma hospitalization rate, influenza prevalence, and air quality measures are available, but common cold circulation is not; therefore, we generate estimates of viral prevalence using a transmission model. Our deterministic multivirus transmission model includes transmission rates that vary when school is closed. We jointly fit the two models to 7 y of daily asthma hospitalizations in adults and children (66,000 events) in eight metropolitan areas. For children, we find that daily viral prevalence is the strongest predictor of asthma hospitalizations, with transmission reduced by 45% (95% credible interval =41-49%) during school closures. We detect a transient period of nonspecific immunity between infections lasting 19 (17-21) d. For adults, hospitalizations are more variable, with influenza driving wintertime peaks. Neither particulate matter nor ozone was an important predictor, perhaps because of the large geographic area of the populations. The school calendar clearly and predictably drives seasonal variation in common cold prevalence, which results in the \"back-to-school\" asthma exacerbation pattern seen in children and indirectly contributes to exacerbation risk in adults. This study provides a framework for anticipating the seasonal dynamics of common colds and the associated risks for asthmatics."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-0362-6717"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Biology, The University of Texas at Austin, Austin, TX 78712; Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, London WC1E 7HT, United Kingdom; r.eggo@lshtm.ac.uk."
+          }
+        ],
+        "LastName": "Eggo",
+        "ForeName": "Rosalind M",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistics and Data Sciences, The University of Texas at Austin, Austin, TX 78712; McCombs School of Business, The University of Texas at Austin, Austin, TX 78712;"
+          }
+        ],
+        "LastName": "Scott",
+        "ForeName": "James G",
+        "Initials": "JG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Infectious Disease Modeling, Yale School of Public Health, New Haven, CT 06520;"
+          }
+        ],
+        "LastName": "Galvani",
+        "ForeName": "Alison P",
+        "Initials": "AP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Biology, The University of Texas at Austin, Austin, TX 78712; Santa Fe Institute, Santa Fe, NM 87501."
+          }
+        ],
+        "LastName": "Meyers",
+        "ForeName": "Lauren Ancel",
+        "Initials": "LA"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U01 GM087719",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01GM087719",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology"
+      ],
+      "DescriptorName": "Asthma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Hospitalization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "Respiratory Tract Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seasons"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Texas"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

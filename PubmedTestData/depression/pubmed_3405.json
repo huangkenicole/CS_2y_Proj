@@ -1,0 +1,531 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "depression",
+      "mental health",
+      "mobile health (mHealth)",
+      "monitoring",
+      "sleep",
+      "wearable device"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33843591",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e24604",
+      "10.2196/24604"
+    ],
+    "Journal": {
+      "ISSN": "2291-5222",
+      "JournalIssue": {
+        "Volume": "9",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr",
+          "Day": "12"
+        }
+      },
+      "Title": "JMIR mHealth and uHealth",
+      "ISOAbbreviation": "JMIR Mhealth Uhealth"
+    },
+    "ArticleTitle": "Relationship Between Major Depression Symptom Severity and Sleep Collected Using a Wristband Wearable Device: Multicenter Longitudinal Observational Study.",
+    "Pagination": {
+      "StartPage": "e24604",
+      "MedlinePgn": "e24604"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Sleep problems tend to vary according to the course of the disorder in individuals with mental health problems. Research in mental health has associated sleep pathologies with depression. However, the gold standard for sleep assessment, polysomnography (PSG), is not suitable for long-term, continuous monitoring of daily sleep, and methods such as sleep diaries rely on subjective recall, which is qualitative and inaccurate. Wearable devices, on the other hand, provide a low-cost and convenient means to monitor sleep in home settings.",
+        "The main aim of this study was to devise and extract sleep features from data collected using a wearable device and analyze their associations with depressive symptom severity and sleep quality as measured by the self-assessed Patient Health Questionnaire 8-item (PHQ-8).",
+        "Daily sleep data were collected passively by Fitbit wristband devices, and depressive symptom severity was self-reported every 2 weeks by the PHQ-8. The data used in this paper included 2812 PHQ-8 records from 368 participants recruited from 3 study sites in the Netherlands, Spain, and the United Kingdom. We extracted 18 sleep features from Fitbit data that describe participant sleep in the following 5 aspects: sleep architecture, sleep stability, sleep quality, insomnia, and hypersomnia. Linear mixed regression models were used to explore associations between sleep features and depressive symptom severity. The z score was used to evaluate the significance of the coefficient of each feature.",
+        "We tested our models on the entire dataset and separately on the data of 3 different study sites. We identified 14 sleep features that were significantly (P<.05) associated with the PHQ-8 score on the entire dataset, among them awake time percentage (z=5.45, P<.001), awakening times (z=5.53, P<.001), insomnia (z=4.55, P<.001), mean sleep offset time (z=6.19, P<.001), and hypersomnia (z=5.30, P<.001) were the top 5 features ranked by z score statistics. Associations between sleep features and PHQ-8 scores varied across different sites, possibly due to differences in the populations. We observed that many of our findings were consistent with previous studies, which used other measurements to assess sleep, such as PSG and sleep questionnaires.",
+        "We demonstrated that several derived sleep features extracted from consumer wearable devices show potential for the remote measurement of sleep as biomarkers of depression in real-world settings. These findings may provide the basis for the development of clinical tools to passively monitor disease state and trajectory, with minimal burden on the participant."
+      ],
+      "CopyrightInformation": "\u00a9Yuezhou Zhang, Amos A Folarin, Shaoxiong Sun, Nicholas Cummins, Rebecca Bendayan, Yatharth Ranjan, Zulqarnain Rashid, Pauline Conde, Callum Stewart, Petroula Laiou, Faith Matcham, Katie M White, Femke Lamers, Sara Siddi, Sara Simblett, Inez Myin-Germeys, Aki Rintala, Til Wykes, Josep Maria Haro, Brenda WJH Penninx, Vaibhav A Narayan, Matthew Hotopf, Richard JB Dobson, RADAR-CNS Consortium. Originally published in JMIR mHealth and uHealth (http://mhealth.jmir.org), 12.04.2021."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-4817-3835"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yuezhou",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0333-1927"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Health Informatics, University College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "South London and Maudsley National Health Services Foundation Trust, London, United Kingdom."
+          }
+        ],
+        "LastName": "Folarin",
+        "ForeName": "Amos A",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3652-5266"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Shaoxiong",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1178-917X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Cummins",
+        "ForeName": "Nicholas",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1461-556X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "South London and Maudsley National Health Services Foundation Trust, London, United Kingdom."
+          }
+        ],
+        "LastName": "Bendayan",
+        "ForeName": "Rebecca",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3079-3120"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Ranjan",
+        "ForeName": "Yatharth",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6843-9920"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Rashid",
+        "ForeName": "Zulqarnain",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0513-0915"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Conde",
+        "ForeName": "Pauline",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9947-8677"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Stewart",
+        "ForeName": "Callum",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5798-6961"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Laiou",
+        "ForeName": "Petroula",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4055-904X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychological Medicine, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Matcham",
+        "ForeName": "Faith",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0925-0175"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychological Medicine, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "White",
+        "ForeName": "Katie M",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4344-5766"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Amsterdam Public Health Research Institute and Amsterdam Neuroscience, Amsterdam University Medical Centre, Vrije Universiteit and GGZ inGeest, Amsterdam, Netherlands."
+          }
+        ],
+        "LastName": "Lamers",
+        "ForeName": "Femke",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1494-9028"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Teaching Research and Innovation Unit, Parc Sanitari Sant Joan de D\u00e9u, Fundaci\u00f3 Sant Joan de D\u00e9u, Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Salud Mental, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Medicine and Health Sciences, Universitat de Barcelona, Barcelona, Spain."
+          }
+        ],
+        "LastName": "Siddi",
+        "ForeName": "Sara",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8075-8238"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Simblett",
+        "ForeName": "Sara",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3731-4930"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Contextual Psychiatry, Department of Neurosciences, Katholieke Universiteit Leuven, Leuven, Belgium."
+          }
+        ],
+        "LastName": "Myin-Germeys",
+        "ForeName": "Inez",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0066-4697"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Contextual Psychiatry, Department of Neurosciences, Katholieke Universiteit Leuven, Leuven, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Social Services and Health Care, LAB University of Applied Sciences, Lahti, Finland."
+          }
+        ],
+        "LastName": "Rintala",
+        "ForeName": "Aki",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5881-8003"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "South London and Maudsley National Health Services Foundation Trust, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Wykes",
+        "ForeName": "Til",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3984-277X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Teaching Research and Innovation Unit, Parc Sanitari Sant Joan de D\u00e9u, Fundaci\u00f3 Sant Joan de D\u00e9u, Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Salud Mental, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Medicine and Health Sciences, Universitat de Barcelona, Barcelona, Spain."
+          }
+        ],
+        "LastName": "Haro",
+        "ForeName": "Josep Maria",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7779-9672"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Amsterdam Public Health Research Institute and Amsterdam Neuroscience, Amsterdam University Medical Centre, Vrije Universiteit and GGZ inGeest, Amsterdam, Netherlands."
+          }
+        ],
+        "LastName": "Penninx",
+        "ForeName": "Brenda Wjh",
+        "Initials": "BW"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6092-5150"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Janssen Research and Development LLC, Titusville, NJ, United States."
+          }
+        ],
+        "LastName": "Narayan",
+        "ForeName": "Vaibhav A",
+        "Initials": "VA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3980-4466"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "South London and Maudsley National Health Services Foundation Trust, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychological Medicine, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Hotopf",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4224-9245"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics & Health Informatics, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Health Informatics, University College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "South London and Maudsley National Health Services Foundation Trust, London, United Kingdom."
+          }
+        ],
+        "LastName": "Dobson",
+        "ForeName": "Richard Jb",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "see Acknowledgments, ."
+          }
+        ],
+        "CollectiveName": "RADAR-CNS Consortium"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "171",
+        "Acronym": "ALZS_",
+        "Agency": "Alzheimer's Society",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MC_PC_17214",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MR/R016372/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "JMIR Mhealth Uhealth",
+    "NlmUniqueID": "101624439",
+    "ISSNLinking": "2291-5222"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Netherlands"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sleep"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spain"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "United Kingdom"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: VAN is an employee of Janssen Research and Development LLC and may own equity in the company."
+}

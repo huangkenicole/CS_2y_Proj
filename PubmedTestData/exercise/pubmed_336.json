@@ -1,0 +1,123 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35139022",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "02",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNSRE.2022.3150392"
+    ],
+    "Journal": {
+      "ISSN": "1558-0210",
+      "JournalIssue": {
+        "Volume": "30",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+      "ISOAbbreviation": "IEEE Trans Neural Syst Rehabil Eng"
+    },
+    "ArticleTitle": "Graph Convolutional Networks for Assessment of Physical Rehabilitation Exercises.",
+    "Pagination": {
+      "StartPage": "410",
+      "EndPage": "419",
+      "MedlinePgn": "410-419"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Health professionals often prescribe patients to perform specific exercises for rehabilitation of several diseases (e.g., stroke, Parkinson, backpain). When patients perform those exercises in the absence of an expert (e.g., physicians/therapists), they cannot assess the correctness of the performance. Automatic assessment of physical rehabilitation exercises aims to assign a quality score given an RGBD video of the body movement as input. Recent deep learning approaches address this problem by extracting CNN features from co-ordinate grids of skeleton data (body-joints) obtained from videos. However, they could not extract rich spatio-temporal features from variable-length inputs. To address this issue, we investigate Graph Convolutional Networks (GCNs) for this task. We adapt spatio-temporal GCN to predict continuous scores(assessment) instead of discrete class labels. Our model can process variable-length inputs so that users can perform any number of repetitions of the prescribed exercise. Moreover, our novel design also provides self-attention of body-joints, indicating their role in predicting assessment scores. It guides the user to achieve a better score in future trials by matching the same attention weights of expert users. Our model successfully outperforms existing exercise assessment methods on KIMORE and UI-PRMD datasets."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Deb",
+        "ForeName": "Swakshar",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Islam",
+        "ForeName": "Md Fokhrul",
+        "Initials": "MF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rahman",
+        "ForeName": "Shafin",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rahman",
+        "ForeName": "Sejuti",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Neural Syst Rehabil Eng",
+    "NlmUniqueID": "101097023",
+    "ISSNLinking": "1534-4320"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Movement"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ]
+}

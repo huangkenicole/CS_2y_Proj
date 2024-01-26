@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Kinect",
+      "fatigue estimation",
+      "machine learning",
+      "physical exercise",
+      "physical rehabilitation",
+      "sit-to-stand"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34372241",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "5006",
+      "10.3390/s21155006"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "15",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "23"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Machine Learning Approach for Fatigue Estimation in Sit-to-Stand Exercise.",
+    "Abstract": {
+      "AbstractText": [
+        "Physical exercise (PE) has become an essential tool for different rehabilitation programs. High-intensity exercises (HIEs) have been demonstrated to provide better results in general health conditions, compared with low and moderate-intensity exercises. In this context, monitoring of a patients' condition is essential to avoid extreme fatigue conditions, which may cause physical and physiological complications. Different methods have been proposed for fatigue estimation, such as: monitoring the subject's physiological parameters and subjective scales. However, there is still a need for practical procedures that provide an objective estimation, especially for HIEs. In this work, considering that the sit-to-stand (STS) exercise is one of the most implemented in physical rehabilitation, a computational model for estimating fatigue during this exercise is proposed. A study with 60 healthy volunteers was carried out to obtain a data set to develop and evaluate the proposed model. According to the literature, this model estimates three fatigue conditions (low, moderate, and high) by monitoring 32 STS kinematic features and the heart rate from a set of ambulatory sensors (Kinect and Zephyr sensors). Results show that a random forest model composed of 60 sub-classifiers presented an accuracy of 82.5% in the classification task. Moreover, results suggest that the movement of the upper body part is the most relevant feature for fatigue estimation. Movements of the lower body and the heart rate also contribute to essential information for identifying the fatigue condition. This work presents a promising tool for physical rehabilitation."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Colombian School of Engineering Julio Garavito, Bogot\u00e1 111166, Colombia."
+          }
+        ],
+        "LastName": "Aguirre",
+        "ForeName": "Andr\u00e9s",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Colombian School of Engineering Julio Garavito, Bogot\u00e1 111166, Colombia."
+          }
+        ],
+        "LastName": "Pinto",
+        "ForeName": "Maria J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6942-865X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Colombian School of Engineering Julio Garavito, Bogot\u00e1 111166, Colombia."
+          }
+        ],
+        "LastName": "Cifuentes",
+        "ForeName": "Carlos A",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9493-2324"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine and Health Sciences, Universidad del Rosario, Bogot\u00e1 111711, Colombia."
+          }
+        ],
+        "LastName": "Perdomo",
+        "ForeName": "Oscar",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9657-5076"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Electrical Engineering Department, Federal University of Espirito Santo, Vitoria 29075-910, Brazil."
+          }
+        ],
+        "LastName": "D\u00edaz",
+        "ForeName": "Camilo A R",
+        "Initials": "CAR"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6595-5383"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Colombian School of Engineering Julio Garavito, Bogot\u00e1 111166, Colombia."
+          }
+        ],
+        "LastName": "M\u00fanera",
+        "ForeName": "Marcela",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "813-2017",
+        "Agency": "MinCiencias",
+        "Country": ""
+      },
+      {
+        "GrantID": "84336650",
+        "Agency": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa e Inova\u00e7\u00e3o do Esp\u00edrito Santo",
+        "Country": ""
+      },
+      {
+        "GrantID": "408480/2018-1",
+        "Agency": "Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Fatigue"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Movement"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest. The funding sponsors had no role in the design of the study, in the collection, analyses, or interpretation of data, in the writing of the manuscript, and in the decision to publish the results."
+}

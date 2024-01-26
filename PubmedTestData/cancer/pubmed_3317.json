@@ -1,0 +1,251 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Early diagnosis",
+      "Endoscopy",
+      "Head and neck neoplasms",
+      "Hyperspectral imaging",
+      "Oropharyngeal cancer"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26676521",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "10",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "ger"
+    ],
+    "ELocationID": [
+      "10.1007/s00106-015-0109-3"
+    ],
+    "Journal": {
+      "ISSN": "1433-0458",
+      "JournalIssue": {
+        "Volume": "64",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Jan"
+        }
+      },
+      "Title": "HNO",
+      "ISOAbbreviation": "HNO"
+    },
+    "ArticleTitle": "[Early recognition of cancerous lesions in the mouth and oropharynx: Automated evaluation of hyperspectral image stacks].",
+    "Pagination": {
+      "StartPage": "27",
+      "EndPage": "33",
+      "MedlinePgn": "27-33"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Early detection of cancerous lesions is still crucial for a patient's prognosis. Although diagnostic access to the oral cavity and oropharynx is comparably easy, the incidence of resulting disease remains high. This is due to the fact that in many cases, malignity is recognized too late on a purely visual basis. Previously, we discussed the application of hyperspectral imaging for early detection of precancerous and cancerous lesions of the larynx. This time, we evaluate the method in the oral cavity and oropharynx.",
+        "In 85 patients scheduled for endoscopy, hyperspectral imaging was performed. We used a rigid 0-degree endoscope, a light-adjustable monochromator, and a hyperspectral camera. For evaluation of the method, 3 patients were chosen exemplarily. Training sites from physiological and cancerous tissues were marked. Hyperspectral data from 1 patient were used to train a classifier, which was then used for automatic detection of precancerous and cancerous lesions in another 2 patients.",
+        "Intraoperative hyperspectral imaging was performed without any problems. Classification showed sensitivities of 61 and 43%, and a specificity of 100%.",
+        "This proof-of-concept study underscores the high potential of hyperspectral imaging for early recognition of cancer in the mouth and oropharynx. Besides a better prognosis for cancer patients, this approach could lead to higher cost efficiency in the health system."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Klinik f\u00fcr Hals-Nasen-Ohrenheilkunde/Chirurgie, Universit\u00e4tsklinikum Bonn, Sigmund-Freud-Str.\u00a025, 53105, Bonn, Deutschland. Wiebke.Laffers@gmx.de."
+          }
+        ],
+        "LastName": "Laffers",
+        "ForeName": "W",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Klinik f\u00fcr Hals-Nasen-Ohrenheilkunde/Chirurgie, Universit\u00e4tsklinikum Bonn, Sigmund-Freud-Str.\u00a025, 53105, Bonn, Deutschland."
+          }
+        ],
+        "LastName": "Westermann",
+        "ForeName": "S",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Climatology and Remote Sensing, Fachbereich Geographie, Universit\u00e4t Marburg, Marburg, Deutschland."
+          }
+        ],
+        "LastName": "Regeling",
+        "ForeName": "B",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Klinik f\u00fcr Hals-Nasen-Ohrenheilkunde/Chirurgie, Universit\u00e4tsklinikum Bonn, Sigmund-Freud-Str.\u00a025, 53105, Bonn, Deutschland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Climatology and Remote Sensing, Fachbereich Geographie, Universit\u00e4t Marburg, Marburg, Deutschland."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "R",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Climatology and Remote Sensing, Fachbereich Geographie, Universit\u00e4t Marburg, Marburg, Deutschland."
+          }
+        ],
+        "LastName": "Thies",
+        "ForeName": "B",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hals-, Nasen-, Ohrenklinik, Klinikum Braunschweig, Braunschweig, Deutschland."
+          }
+        ],
+        "LastName": "Gerstner",
+        "ForeName": "A O H",
+        "Initials": "AO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Klinik f\u00fcr Hals-Nasen-Ohrenheilkunde/Chirurgie, Universit\u00e4tsklinikum Bonn, Sigmund-Freud-Str.\u00a025, 53105, Bonn, Deutschland."
+          }
+        ],
+        "LastName": "Bootz",
+        "ForeName": "F",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Klinik f\u00fcr Hals-Nasen-Ohrenheilkunde/Chirurgie, Universit\u00e4tsklinikum Bonn, Sigmund-Freud-Str.\u00a025, 53105, Bonn, Deutschland."
+          }
+        ],
+        "LastName": "M\u00fcller",
+        "ForeName": "N A",
+        "Initials": "NA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Historical Article",
+      "Journal Article"
+    ],
+    "VernacularTitle": "Fr\u00fcherkennung kanzer\u00f6ser L\u00e4sionen in Oropharynx und Mundh\u00f6hle: Automatisierte Evaluation hyperspektraler Bildstapel."
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "HNO",
+    "NlmUniqueID": "2985099R",
+    "ISSNLinking": "0017-6192"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Early Detection of Cancer"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Endoscopy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "History, Ancient"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Mouth Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Oropharyngeal Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Precancerous Conditions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Spectrum Analysis"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Tomography, Optical"
+    }
+  ]
+}

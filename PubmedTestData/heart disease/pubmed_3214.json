@@ -1,0 +1,195 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Biomechanics",
+      "Cardiac atlases",
+      "Computational modelling"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27349830",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "04",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "06",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.media.2016.06.027",
+      "S1361-8415(16)30105-0"
+    ],
+    "Journal": {
+      "ISSN": "1361-8423",
+      "JournalIssue": {
+        "Volume": "33",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Medical image analysis",
+      "ISOAbbreviation": "Med Image Anal"
+    },
+    "ArticleTitle": "Cardiac image modelling: Breadth and depth in heart disease.",
+    "Pagination": {
+      "StartPage": "38",
+      "EndPage": "43",
+      "MedlinePgn": "38-43"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "With the advent of large-scale imaging studies and big health data, and the corresponding growth in analytics, machine learning and computational image analysis methods, there are now exciting opportunities for deepening our understanding of the mechanisms and characteristics of heart disease. Two emerging fields are computational analysis of cardiac remodelling (shape and motion changes due to disease) and computational analysis of physiology and mechanics to estimate biophysical properties from non-invasive imaging. Many large cohort studies now underway around the world have been specifically designed based on non-invasive imaging technologies in order to gain new information about the development of heart disease from asymptomatic to clinical manifestations. These give an unprecedented breadth to the quantification of population variation and disease development. Also, for the individual patient, it is now possible to determine biophysical properties of myocardial tissue in health and disease by interpreting detailed imaging data using computational modelling. For these population and patient-specific computational modelling methods to develop further, we need open benchmarks for algorithm comparison and validation, open sharing of data and algorithms, and demonstration of clinical efficacy in patient management and care. The combination of population and patient-specific modelling will give new insights into the mechanisms of cardiac disease, in particular the development of heart failure, congenital heart disease, myocardial infarction, contractile dysfunction and diastolic dysfunction."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2016. Published by Elsevier B.V."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anatomy and Medical Imaging, University of Auckland, Auckland, New Zealand."
+          }
+        ],
+        "LastName": "Suinesiaputra",
+        "ForeName": "Avan",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, University of California San Diego, USA."
+          }
+        ],
+        "LastName": "McCulloch",
+        "ForeName": "Andrew D",
+        "Initials": "AD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Auckland Bioengineering Institute, University of Auckland, Auckland, New Zealand; Department of Engineering Science, University of Auckland, Auckland, New Zealand."
+          }
+        ],
+        "LastName": "Nash",
+        "ForeName": "Martyn P",
+        "Initials": "MP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anatomy and Medical Imaging, University of Auckland, Auckland, New Zealand."
+          }
+        ],
+        "LastName": "Pontre",
+        "ForeName": "Beau",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anatomy and Medical Imaging, University of Auckland, Auckland, New Zealand; Auckland Bioengineering Institute, University of Auckland, Auckland, New Zealand. Electronic address: a.young@auckland.ac.nz."
+          }
+        ],
+        "LastName": "Young",
+        "ForeName": "Alistair A",
+        "Initials": "AA"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P41 GM103426",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HL121754",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Editorial",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Med Image Anal",
+    "NlmUniqueID": "9713490",
+    "ISSNLinking": "1361-8415"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Benchmarking"
+    },
+    {
+      "QualifierName": [
+        "standards"
+      ],
+      "DescriptorName": "Cardiac Imaging Techniques"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Heart"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Cardiovascular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    }
+  ]
+}

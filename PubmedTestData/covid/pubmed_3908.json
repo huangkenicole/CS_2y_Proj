@@ -1,0 +1,143 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      " SARS-CoV-2 ",
+      " branching process ",
+      " contact tracing ",
+      " dispersion parameter ",
+      " final size distribution ",
+      " offspring distribution ",
+      " vaccine effectiveness "
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36654039",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3934/mbe.2022614"
+    ],
+    "Journal": {
+      "ISSN": "1551-0018",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Sep",
+          "Day": "08"
+        }
+      },
+      "Title": "Mathematical biosciences and engineering : MBE",
+      "ISOAbbreviation": "Math Biosci Eng"
+    },
+    "ArticleTitle": "Basic reproduction number of the COVID-19 Delta variant: Estimation from multiple transmission datasets.",
+    "Pagination": {
+      "StartPage": "13137",
+      "EndPage": "13151",
+      "MedlinePgn": "13137-13151"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The basic reproduction number, $ R_0 $, plays a central role in measuring the transmissibility of an infectious disease, and it thus acts as the fundamental index for planning control strategies. In the present study, we apply a branching process model to meticulously observed contact tracing data from Wakayama Prefecture, Japan, obtained in early 2020 and mid-2021. This allows us to efficiently estimate $ R_0 $ and the dispersion parameter $ k $ of the wild-type COVID-19, as well as the relative transmissibility of the Delta variant and relative transmissibility among fully vaccinated individuals, from a very limited data. $ R_0 $ for the wild type of COVID-19 is estimated to be 3.78 (95% confidence interval [CI]: 3.72-3.83), with $ k = 0.236 $ (95% CI: 0.233-0.240). For the Delta variant, the relative transmissibility to the wild type is estimated to be 1.42 (95% CI: 0.94-1.90), which gives $ R_0 = 5.37 $ (95% CI: 3.55-7.21). Vaccine effectiveness, determined by the reduction in the number of secondary transmissions among fully vaccinated individuals, is estimated to be 91% (95% CI: 85%-97%). The present study highlights that basic reproduction numbers can be accurately estimated from the distribution of minor outbreak data, and these data can provide further insightful epidemiological estimates including the dispersion parameter and vaccine effectiveness regarding the prevention of transmission."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate School of Medicine, Kyoto University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan."
+          }
+        ],
+        "LastName": "Ueda",
+        "ForeName": "Minami",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate School of Medicine, Kyoto University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan."
+          }
+        ],
+        "LastName": "Kobayashi",
+        "ForeName": "Tetsuro",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate School of Medicine, Kyoto University, Yoshida-Konoe-cho, Sakyo-ku, Kyoto 606-8501, Japan."
+          }
+        ],
+        "LastName": "Nishiura",
+        "ForeName": "Hiroshi",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci Eng",
+    "NlmUniqueID": "101197794",
+    "ISSNLinking": "1547-1063"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Basic Reproduction Number"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    }
+  ]
+}

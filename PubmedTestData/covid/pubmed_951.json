@@ -1,0 +1,184 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2 variants",
+      "breakthrough cases",
+      "mathematical model",
+      "sensitivity analysis: control reproduction number",
+      "vaccines dynamics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35062363",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "01",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "158",
+      "10.3390/v14010158"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "16"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Modeling the Transmission of the SARS-CoV-2 Delta Variant in a Partially Vaccinated Population.",
+    "Abstract": {
+      "AbstractText": [
+        "In a population with ongoing vaccination, the trajectory of a pandemic is determined by how the virus spreads in unvaccinated and vaccinated individuals that exhibit distinct transmission dynamics based on different levels of natural and vaccine-induced immunity. We developed a mathematical model that considers both subpopulations and immunity parameters, including vaccination rates, vaccine effectiveness, and a gradual loss of protection. The model forecasted the spread of the SARS-CoV-2 delta variant in the US under varied transmission and vaccination rates. We further obtained the control reproduction number and conducted sensitivity analyses to determine how each parameter may affect virus transmission. Although our model has several limitations, the number of infected individuals was shown to be a magnitude greater (~10\u00d7) in the unvaccinated subpopulation compared to the vaccinated subpopulation. Our results show that a combination of strengthening vaccine-induced immunity and preventative behavioral measures like face mask-wearing and contact tracing will likely be required to deaccelerate the spread of infectious SARS-CoV-2 variants."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Programa de Doctorado en Ciencias Biol\u00f3gicas, Universidad Nacional Aut\u00f3noma de M\u00e9xico, Mexico City 04510, Mexico."
+          }
+        ],
+        "LastName": "Avila-Ponce de Le\u00f3n",
+        "ForeName": "Ugo",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9522-6712"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Facultad de Matem\u00e1ticas, Universidad Aut\u00f3noma de Yucat\u00e1n, Anillo Perif\u00e9rico Norte, Tablaje Catastral 13615, M\u00e9rida 97119, Mexico."
+          }
+        ],
+        "LastName": "Avila-Vales",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5537-5817"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Transformative Disease Modeling, Department of Genetics and Genomic Sciences, Tisch Cancer Institute, Icahn Institute for Data Science and Genomic Technology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Kuanlin",
+        "Initials": "K"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R35 GM138113",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemiological Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Vaccination"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccine Efficacy"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

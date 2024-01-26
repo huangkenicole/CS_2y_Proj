@@ -1,0 +1,113 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24893364",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "01",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2015",
+    "Month": "11",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNB.2014.2312132"
+    ],
+    "Journal": {
+      "ISSN": "1558-2639",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Jun"
+        }
+      },
+      "Title": "IEEE transactions on nanobioscience",
+      "ISOAbbreviation": "IEEE Trans Nanobioscience"
+    },
+    "ArticleTitle": "Fuzzy preference based feature selection and semisupervised SVM for cancer classification.",
+    "Pagination": {
+      "StartPage": "152",
+      "EndPage": "160",
+      "MedlinePgn": "152-60"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "DNA microarray data now permit scientists to screen thousand of genes simultaneously and determine whether those genes are active or silent in normal and cancerous tissues. With the advancement of microarray technology, new analytical methods must be developed to find out whether microarray data have discriminative signatures of gene expression over normal or cancerous tissues. In this paper, we attempt a prediction scheme that combines fuzzy preference based rough set (FPRS) method for feature (gene) selection with semisupervised SVMs. To show the effectiveness of the proposed approach, we compare the performance of this technique with the signal-to-noise ratio (SNR) and consistency based feature selection (CBFS) methods. Using six benchmark gene microarray datasets (including both binary and multi-class classification problems), we demonstrate experimentally that our proposed scheme can achieve significant empirical success and is biologically relevant for cancer diagnosis and drug discovery."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Maulik",
+        "ForeName": "Ujjwal",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chakraborty",
+        "ForeName": "Debasis",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Nanobioscience",
+    "NlmUniqueID": "101152869",
+    "ISSNLinking": "1536-1241"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fuzzy Logic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ]
+}

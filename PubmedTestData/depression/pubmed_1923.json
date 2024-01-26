@@ -1,0 +1,272 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "depression",
+      "heterogeneity",
+      "linked independent component analysis",
+      "machine learning",
+      "multimodal MRI"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31571370",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "10",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/hbm.24802"
+    ],
+    "Journal": {
+      "ISSN": "1097-0193",
+      "JournalIssue": {
+        "Volume": "41",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Human brain mapping",
+      "ISOAbbreviation": "Hum Brain Mapp"
+    },
+    "ArticleTitle": "Multimodal fusion of structural and functional brain imaging in depression using linked independent component analysis.",
+    "Pagination": {
+      "StartPage": "241",
+      "EndPage": "255",
+      "MedlinePgn": "241-255"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Previous structural and functional neuroimaging studies have implicated distributed brain regions and networks in depression. However, there are no robust imaging biomarkers that are specific to depression, which may be due to clinical heterogeneity and neurobiological complexity. A dimensional approach and fusion of imaging modalities may yield a more coherent view of the neuronal correlates of depression. We used linked independent component analysis to fuse cortical macrostructure (thickness, area, gray matter density), white matter diffusion properties and resting-state functional magnetic resonance imaging default mode network amplitude in patients with a history of depression (n = 170) and controls (n = 71). We used univariate and machine learning approaches to assess the relationship between age, sex, case-control status, and symptom loads for depression and anxiety with the resulting brain components. Univariate analyses revealed strong associations between age and sex with mainly global but also regional specific brain components, with varying degrees of multimodal involvement. In contrast, there were no significant associations with case-control status, nor symptom loads for depression and anxiety with the brain components, nor any interaction effects with age and sex. Machine learning revealed low model performance for classifying patients from controls and predicting symptom loads for depression and anxiety, but high age prediction accuracy. Multimodal fusion of brain imaging data alone may not be sufficient for dissecting the clinical and neurobiological heterogeneity of depression. Precise clinical stratification and methods for brain phenotyping at the individual level based on large training samples may be needed to parse the neuroanatomy of depression."
+      ],
+      "CopyrightInformation": "\u00a9 2019 The Authors. Human Brain Mapping published by Wiley Periodicals, Inc."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2556-0779"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Neuroscience Research Group, Department of Psychology, University of Oslo, Oslo, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "NORMENT, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
+          }
+        ],
+        "LastName": "Maglanoc",
+        "ForeName": "Luigi A",
+        "Initials": "LA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NORMENT, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
+          }
+        ],
+        "LastName": "Kaufmann",
+        "ForeName": "Tobias",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Health Sciences, Oslo Metropolitan University, Oslo, Norway."
+          }
+        ],
+        "LastName": "Jonassen",
+        "ForeName": "Rune",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Neuroscience Research Group, Department of Psychology, University of Oslo, Oslo, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Psychiatry, Diakonhjemmet Hospital, Oslo, Norway."
+          }
+        ],
+        "LastName": "Hilland",
+        "ForeName": "Eva",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NORMENT, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Oslo, Oslo, Norway."
+          }
+        ],
+        "LastName": "Beck",
+        "ForeName": "Dani",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Neuroscience Research Group, Department of Psychology, University of Oslo, Oslo, Norway."
+          }
+        ],
+        "LastName": "Landr\u00f8",
+        "ForeName": "Nils Inge",
+        "Initials": "NI"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8644-956X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NORMENT, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Oslo, Oslo, Norway."
+          }
+        ],
+        "LastName": "Westlye",
+        "ForeName": "Lars T",
+        "Initials": "LT"
+      }
+    ],
+    "PublicationTypeList": [
+      "Clinical Trial",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Hum Brain Mapp",
+    "NlmUniqueID": "9419065",
+    "ISSNLinking": "1065-9471"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Depressive Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Functional Neuroimaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Multimodal Imaging"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Neuroimaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sex Factors"
+    }
+  ],
+  "CoiStatement": "N.I.L. has previously received consultancy fees and travel expenses from Lundbeck. All the other authors have nothing to declare."
+}

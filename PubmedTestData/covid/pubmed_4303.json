@@ -1,0 +1,567 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37438530",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "07",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41586-023-06322-y"
+    ],
+    "Journal": {
+      "ISSN": "1476-4687",
+      "JournalIssue": {
+        "Volume": "619",
+        "Issue": "7971",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Nature",
+      "ISOAbbreviation": "Nature"
+    },
+    "ArticleTitle": "PLSCR1 is a cell-autonomous defence factor against SARS-CoV-2 infection.",
+    "Pagination": {
+      "StartPage": "819",
+      "EndPage": "827",
+      "MedlinePgn": "819-827"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Understanding protective immunity to COVID-19 facilitates preparedness for future pandemics and combats new SARS-CoV-2 variants emerging in the human population. Neutralizing antibodies have been widely studied; however, on the basis of large-scale exome sequencing of protected versus severely ill patients with COVID-19, local cell-autonomous defence is also crucial<sup>1-4</sup>. Here we identify phospholipid scramblase\u20091 (PLSCR1) as a potent cell-autonomous restriction factor against live SARS-CoV-2 infection in parallel genome-wide CRISPR-Cas9 screens of human lung epithelia and hepatocytes before and after stimulation with interferon-\u03b3 (IFN\u03b3). IFN\u03b3-induced PLSCR1 not only restricted SARS-CoV-2 USA-WA1/2020, but was also effective against the Delta B.1.617.2 and Omicron BA.1 lineages. Its robust activity extended to other highly pathogenic coronaviruses, was functionally conserved in bats and mice, and interfered with the uptake of SARS-CoV-2 in both the endocytic and the TMPRSS2-dependent fusion routes. Whole-cell 4Pi single-molecule switching nanoscopy together with bipartite nano-reporter assays found that PLSCR1 directly targeted SARS-CoV-2-containing vesicles to prevent spike-mediated fusion and viral escape. A PLSCR1 C-terminal \u03b2-barrel domain-but not lipid scramblase activity-was essential for this fusogenic blockade. Our mechanistic studies, together with reports that COVID-associated PLSCR1 mutations are found in some susceptible people<sup>3,4</sup>, identify an anti-coronavirus protein that interferes at a late entry step before viral RNA is released into the host-cell cytosol."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-7955-4855"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Yale Systems Biology Institute, West Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbial Pathogenesis, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Dijin",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Yale Systems Biology Institute, West Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Weiqian",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Lizhen",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Yale Systems Biology Institute, West Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbial Pathogenesis, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Gaudet",
+        "ForeName": "Ryan G",
+        "Initials": "RG"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1375-8027"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Yale Systems Biology Institute, West Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbial Pathogenesis, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Eui-Soon",
+        "Initials": "ES"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5523-9607"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cell Biology, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Su",
+        "ForeName": "Maohan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2282-4882"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Yale Nanobiology Institute, West Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cellular and Molecular Physiology, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Cheppali",
+        "ForeName": "Sudheer Kumar",
+        "Initials": "SK"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8860-2457"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Cheemarla",
+        "ForeName": "Nagarjuna R",
+        "Initials": "NR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Yale Systems Biology Institute, West Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbial Pathogenesis, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Kumar",
+        "ForeName": "Pradeep",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7236-858X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbial Pathogenesis, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Uchil",
+        "ForeName": "Pradeep D",
+        "Initials": "PD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbial Pathogenesis, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Grover",
+        "ForeName": "Jonathan R",
+        "Initials": "JR"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9767-9942"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Foxman",
+        "ForeName": "Ellen F",
+        "Initials": "EF"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2006-5015"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Department of Chemistry, University of Warwick, Coventry, UK."
+          }
+        ],
+        "LastName": "Brown",
+        "ForeName": "Chelsea M",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8800-7669"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Department of Chemistry, University of Warwick, Coventry, UK."
+          }
+        ],
+        "LastName": "Stansfeld",
+        "ForeName": "Phillip J",
+        "Initials": "PJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4085-7020"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cell Biology, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Bewersdorf",
+        "ForeName": "Joerg",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3367-7240"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbial Pathogenesis, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Mothes",
+        "ForeName": "Walther",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5934-8728"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Yale Nanobiology Institute, West Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cellular and Molecular Physiology, Yale University School of Medicine, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Saints-P\u00e8res Paris Institute for the Neurosciences, Universit\u00e9 de Paris, Centre National de la Recherche Scientifique UMR 8003, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Wu Tsai Institute, Yale University, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Karatekin",
+        "ForeName": "Erdem",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2495-9403"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Wilen",
+        "ForeName": "Craig B",
+        "Initials": "CB"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1734-135X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, New Haven, CT, USA. john.macmicking@yale.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Yale Systems Biology Institute, West Haven, CT, USA. john.macmicking@yale.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunobiology, Yale University School of Medicine, New Haven, CT, USA. john.macmicking@yale.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbial Pathogenesis, Yale University School of Medicine, New Haven, CT, USA. john.macmicking@yale.edu."
+          }
+        ],
+        "LastName": "MacMicking",
+        "ForeName": "John D",
+        "Initials": "JD"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "R01 AI163395",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 NS113236",
+        "Acronym": "NS",
+        "Agency": "NINDS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nature",
+    "NlmUniqueID": "0410462",
+    "ISSNLinking": "0028-0836"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antibodies, Neutralizing"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antibodies, Viral"
+    },
+    {
+      "RegistryNumber": "82115-62-6",
+      "NameOfSubstance": "Interferon-gamma"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Phospholipid Transfer Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "PLSCR1 protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Plscr1 protein, mouse"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Antibodies, Neutralizing"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Antibodies, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chiroptera"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "metabolism",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exome Sequencing"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "metabolism"
+      ],
+      "DescriptorName": "Hepatocytes"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Interferon-gamma"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "metabolism"
+      ],
+      "DescriptorName": "Lung"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Membrane Fusion"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "immunology",
+        "metabolism"
+      ],
+      "DescriptorName": "Phospholipid Transfer Proteins"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "immunology",
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Internalization"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

@@ -1,0 +1,382 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33627767",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4495",
+      "10.1038/s41598-021-84044-9"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "24"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Identification of candidate repurposable drugs to combat COVID-19 using a signature-based approach.",
+    "Pagination": {
+      "StartPage": "4495",
+      "MedlinePgn": "4495"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic caused by the novel SARS-CoV-2 is more contagious than other coronaviruses and has higher rates of mortality than influenza. Identification of effective therapeutics is a crucial tool to treat those infected with SARS-CoV-2 and limit the spread of this novel disease globally. We deployed a bioinformatics workflow to identify candidate drugs for the treatment of COVID-19. Using an \"omics\" repository, the Library of Integrated Network-Based Cellular Signatures (LINCS), we simultaneously probed transcriptomic signatures of putative COVID-19 drugs and publicly available SARS-CoV-2 infected cell lines to identify novel therapeutics. We identified a shortlist of 20 candidate drugs: 8 are already under trial for the treatment of COVID-19, the remaining 12 have antiviral properties and 6 have antiviral efficacy against coronaviruses specifically, in vitro. All candidate drugs are either FDA approved or are under investigation. Our candidate drug findings are discordant with (i.e., reverse) SARS-CoV-2 transcriptome signatures generated in vitro, and a subset are also identified in transcriptome signatures generated from COVID-19 patient samples, like the MEK inhibitor selumetinib. Overall, our findings provide additional support for drugs that are already being explored as therapeutic agents for the treatment of COVID-19 and identify promising novel targets that are worthy of further investigation."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA."
+          }
+        ],
+        "LastName": "O'Donovan",
+        "ForeName": "Sinead M",
+        "Initials": "SM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA."
+          }
+        ],
+        "LastName": "Imami",
+        "ForeName": "Ali",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA."
+          }
+        ],
+        "LastName": "Eby",
+        "ForeName": "Hunter",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA."
+          }
+        ],
+        "LastName": "Henkel",
+        "ForeName": "Nicholas D",
+        "Initials": "ND"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA."
+          }
+        ],
+        "LastName": "Creeden",
+        "ForeName": "Justin Fortune",
+        "Initials": "JF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA."
+          }
+        ],
+        "LastName": "Asah",
+        "ForeName": "Sophie",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Xiaolu",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Xiaojun",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA."
+          }
+        ],
+        "LastName": "Alnafisah",
+        "ForeName": "Rawan",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Microbiology and Immunology, University of Toledo, Toledo, OH, USA."
+          }
+        ],
+        "LastName": "Taylor",
+        "ForeName": "R Travis",
+        "Initials": "RT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biomedical Informatics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+          }
+        ],
+        "LastName": "Reigle",
+        "ForeName": "James",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Health, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+          }
+        ],
+        "LastName": "Thorman",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+          }
+        ],
+        "LastName": "Shamsaei",
+        "ForeName": "Behrouz",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cancer Biology, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Health, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering and Computing Systems, University of Cincinnati College of Medicine, Cincinnati, OH, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Informatics, Nicolaus Copernicus University, Torun, Poland."
+          }
+        ],
+        "LastName": "Meller",
+        "ForeName": "Jarek",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences, University of Toledo College of Medicine and Life Sciences, Health Science Campus, Mail Stop #1007, 3000 Arlington Avenue, Toledo, OH, 43614-2598, USA. Robert.mccullumsmith@utoledo.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Neurosciences Institute, Promedica, Toledo, OH, USA. Robert.mccullumsmith@utoledo.edu."
+          }
+        ],
+        "LastName": "McCullumsmith",
+        "ForeName": "Robert E",
+        "Initials": "RE"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 AI153496",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AG057598",
+        "Acronym": "AG",
+        "Agency": "NIA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 MH121102",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 MH107487",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Pharmaceutical Preparations"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Discovery"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pharmaceutical Preparations"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

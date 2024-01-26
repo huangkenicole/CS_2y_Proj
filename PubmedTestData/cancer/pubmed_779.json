@@ -1,0 +1,356 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31026023",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "04",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e192597",
+      "10.1001/jamanetworkopen.2019.2597"
+    ],
+    "Journal": {
+      "ISSN": "2574-3805",
+      "JournalIssue": {
+        "Volume": "2",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Apr",
+          "Day": "05"
+        }
+      },
+      "Title": "JAMA network open",
+      "ISOAbbreviation": "JAMA Netw Open"
+    },
+    "ArticleTitle": "Application of a Neural Network Whole Transcriptome-Based Pan-Cancer Method for Diagnosis of Primary and Metastatic Cancers.",
+    "Pagination": {
+      "StartPage": "e192597",
+      "MedlinePgn": "e192597"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A molecular diagnostic method that incorporates information about the transcriptional status of all genes across multiple tissue types can strengthen confidence in cancer diagnosis.",
+        "To determine the practical use of a whole transcriptome-based pan-cancer method in diagnosing primary and metastatic cancers and resolving complex diagnoses.",
+        "This cross-sectional diagnostic study assessed Supervised Cancer Origin Prediction Using Expression (SCOPE), a machine learning method using whole-transcriptome RNA sequencing data. Training was performed on publicly available primary cancer data sets, including The Cancer Genome Atlas. Testing was performed retrospectively on untreated primary cancers and treated metastases from volunteer adult patients at BC Cancer in Vancouver, British Columbia, from January 1, 2013, to March 31, 2016, and testing spanned 10\u202f822 samples and 66 output classes representing untreated primary cancers (n\u2009=\u200940) and adjacent normal tissues (n\u2009=\u200926). SCOPE's performance was demonstrated on 211 untreated primary mesothelioma cancers and 201 treatment-resistant metastatic cancers. Finally, SCOPE was used to identify the putative site of origin in 15 cases with initial presentation as cancers with unknown primary of origin.",
+        "A total of 10\u202f688 adult patient samples representing 40 untreated primary tumor types and 26 adjacent-normal tissues were used for training. Demographic data were not available for all data sets. Among the training data set, 5157 of 10 244 (50.3%) were male and the mean (SD) age was 58.9 (14.5) years. Testing was performed on 211 patients with untreated primary mesothelioma (173 [82.0%] male; mean [SD] age, 64.5 [11.3] years); 201 patients with treatment-resistant cancers (141 [70.1%] female; mean [SD] age, 55.6 [12.9] years); and 15 patients with cancers of unknown primary of origin; among the treatment-resistant cancers, 168 were metastatic, and 33 were the primary presentation. An accuracy rate of 99% was obtained for primary epithelioid mesotheliomas tested (125 of 126). The remaining 85 mesotheliomas had a mixed etiology (sarcomatoid mesotheliomas) and were correctly identified as a mixture of their primary components, with potential implications in resolving subtypes and incidences of mixed histology. SCOPE achieved an overall mean (SD) accuracy rate of 86% (11%) and F1 score of 0.79 (0.12) on the 201 treatment-resistant cancers and matched 12 of 15 of the putative diagnoses for cancers with indeterminate diagnosis from conventional pathology.",
+        "These results suggest that machine learning approaches incorporating multiple tumor profiles can more accurately identify the cancerous state and discriminate it from normal cells. SCOPE uses the whole transcriptomes from normal and tumor tissues, and results of this study suggest that it performs well for rare cancer types, primary cancers, treatment-resistant metastatic cancers, and cancers of unknown primary of origin. Genes most relevant in SCOPE's decision making were examined, and several are known biological markers of respective cancers. SCOPE may be applied as an orthogonal diagnostic method in cases where the site of origin of a cancer is unknown, or when standard pathology assessment is inconclusive."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Grewal",
+        "ForeName": "Jasleen K",
+        "Initials": "JK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Tessier-Cloutier",
+        "ForeName": "Basile",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Jones",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Gakkhar",
+        "ForeName": "Sitanshu",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Ma",
+        "ForeName": "Yussanne",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Moore",
+        "ForeName": "Richard",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Mungall",
+        "ForeName": "Andrew J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Yongjun",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Neurosurgery, Hospital for Sick Children, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Taylor",
+        "ForeName": "Michael D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, BC Cancer, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Gelmon",
+        "ForeName": "Karen",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, BC Cancer, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Lim",
+        "ForeName": "Howard",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, BC Cancer, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Renouf",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, BC Cancer, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Laskin",
+        "ForeName": "Janessa",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre, Vancouver, British Columbia, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Genetics, University of British Columbia, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Marra",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Yip",
+        "ForeName": "Stephen",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Canada's Michael Smith Genome Sciences Centre, Vancouver, British Columbia, Canada."
+          }
+        ],
+        "LastName": "Jones",
+        "ForeName": "Steven J M",
+        "Initials": "SJM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "JAMA Netw Open",
+    "NlmUniqueID": "101729235",
+    "ISSNLinking": "2574-3805"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cross-Sectional Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Mesothelioma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mesothelioma, Malignant"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exome Sequencing"
+    }
+  ],
+  "CoiStatement": "<b>Conflict of Interest Disclosures:</b> Dr Moore reported receiving grants from BC Cancer Foundation during the conduct of the study. Dr Lim reported receiving other financial support from Amgen, Eisai, Taiho, Roche, and BMS outside the submitted work. Dr Renouf reported receiving personal fees from Celgene, Shire, Servier, Ipsen, Bayer, and Taiho outside the submitted work. Dr Laskin reported receiving personal fees from Roche Canada, AstraZeneca, and Pfizer and grants from Roche, AstraZeneca, and BI Canada outside the submitted work. Dr Yip reports personal fees from Bayer, Roche, and Pfizer outside the submitted work. No other disclosures were reported."
+}

@@ -1,0 +1,315 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Antiviral drugs",
+      "SARS-CoV-2",
+      "molecular docking",
+      "molecular dynamics",
+      "principal component analysis",
+      "quantitative structure-activity relationship"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32720571",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "07",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1080/07391102.2020.1796804"
+    ],
+    "Journal": {
+      "ISSN": "1538-0254",
+      "JournalIssue": {
+        "Volume": "39",
+        "Issue": "16",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Journal of biomolecular structure & dynamics",
+      "ISOAbbreviation": "J Biomol Struct Dyn"
+    },
+    "ArticleTitle": "Investigating the binding affinity, interaction, and structure-activity-relationship of 76 prescription antiviral drugs targeting RdRp and Mpro of SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "6290",
+      "EndPage": "6305",
+      "MedlinePgn": "6290-6305"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "SARS-CoV-2 virus outbreak poses a major threat to humans worldwide due to its highly contagious nature. In this study, molecular docking, molecular dynamics, and structure-activity relationship are employed to assess the binding affinity and interaction of 76 prescription drugs against RNA dependent RNA polymerase (RdRp) and Main Protease (Mpro) of SARS-CoV-2. The RNA-dependent RNA polymerase is a vital enzyme of coronavirus replication/transcription complex whereas the main protease acts on the proteolysis of replicase polyproteins. Among 76 prescription antiviral drugs, four drugs (Raltegravir, Simeprevir, Cobicistat, and Daclatasvir) that are previously used for human immunodeficiency virus (HIV), hepatitis C virus (HCV), Ebola, and Marburg virus show higher binding energy and strong interaction with active sites of the receptor proteins. To explore the dynamic nature of the interaction, 100\u2009ns molecular dynamics (MD) simulation is performed on the selected protein-drug complexes and apo-protein. Binding free energy of the selected drugs is performed by MM/PBSA. Besides docking and dynamics, partial least square (PLS) regression method is applied for the quantitative structure activity relationship to generate and predict the binding energy for drugs. PLS regression satisfactorily predicts the binding energy of the effective antiviral drugs compared to binding energy achieved from molecular docking with a precision of 85%. This study highly recommends researchers to screen these potential drugs in\u00a0vitro and in\u00a0vivo against SARS-CoV-2 for further validation of utility."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Ahmed",
+        "ForeName": "Sinthyia",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Mahtarin",
+        "ForeName": "Rumana",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Ahmed",
+        "ForeName": "Sayeda Samina",
+        "Initials": "SS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Akter",
+        "ForeName": "Shaila",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Islam",
+        "ForeName": "Md Shamiul",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Soft Chemistry and Functional Materials of MOE, School of Chemical Engineering, Nanjing University of Science and Technology, Nanjing, China."
+          }
+        ],
+        "LastName": "Mamun",
+        "ForeName": "Abdulla Al",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Islam",
+        "ForeName": "Rajib",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Hossain",
+        "ForeName": "Md Nayeem",
+        "Initials": "MN"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8235-3517"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Ali",
+        "ForeName": "Md Ackas",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Sultana",
+        "ForeName": "Mossammad U C",
+        "Initials": "MUC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Parves",
+        "ForeName": "Md Rimon",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1175-3636"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          }
+        ],
+        "LastName": "Ullah",
+        "ForeName": "M Obayed",
+        "Initials": "MO"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1698-7044"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Division of Computer Aided Drug Design, The Red-Green Research Centre, BICCB, Tejgaon, Dhaka, Bangladesh."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physical Sciences, University of Arkansas - Fort Smith, Fort Smith, Arkansas, USA."
+          }
+        ],
+        "LastName": "Halim",
+        "ForeName": "Mohammad A",
+        "Initials": "MA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Biomol Struct Dyn",
+    "NlmUniqueID": "8404176",
+    "ISSNLinking": "0739-1102"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Prescription Drugs"
+    },
+    {
+      "RegistryNumber": "EC 2.7.7.48",
+      "NameOfSubstance": "RNA-Dependent RNA Polymerase"
+    },
+    {
+      "RegistryNumber": "EC 3.4.-",
+      "NameOfSubstance": "Peptide Hydrolases"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Docking Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Peptide Hydrolases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prescription Drugs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prescriptions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA-Dependent RNA Polymerase"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Structure-Activity Relationship"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing financial interest."
+}

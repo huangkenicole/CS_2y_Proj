@@ -1,0 +1,200 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "genetic loci",
+      "horizontal epistasis",
+      "hypergraph",
+      "person-to-person transmission"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35011641",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "80",
+      "10.3390/cells11010080"
+    ],
+    "Journal": {
+      "ISSN": "2073-4409",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "28"
+        }
+      },
+      "Title": "Cells",
+      "ISOAbbreviation": "Cells"
+    },
+    "ArticleTitle": "The Genomic Physics of COVID-19 Pathogenesis and Spread.",
+    "Abstract": {
+      "AbstractText": [
+        "Coronavirus disease (COVID-19) spreads mainly through close contact of infected persons, but the molecular mechanisms underlying its pathogenesis and transmission remain unknown. Here, we propose a statistical physics model to coalesce all molecular entities into a cohesive network in which the roadmap of how each entity mediates the disease can be characterized. We argue that the process of how a transmitter transforms the virus into a recipient constitutes a triad unit that propagates COVID-19 along reticulate paths. Intrinsically, person-to-person transmissibility may be mediated by how genes interact transversely across transmitter, recipient, and viral genomes. We integrate quantitative genetic theory into hypergraph theory to code the main effects of the three genomes as nodes, pairwise cross-genome epistasis as edges, and high-order cross-genome epistasis as hyperedges in a series of mobile hypergraphs. Charting a genome-wide atlas of horizontally epistatic hypergraphs can facilitate the systematic characterization of the community genetic mechanisms underlying COVID-19 spread. This atlas can typically help design effective containment and mitigation strategies and screen and triage those more susceptible persons and those asymptomatic carriers who are incubation virus transmitters."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Biology, Beijing Forestry University, Beijing 100083, China."
+          }
+        ],
+        "LastName": "Dong",
+        "ForeName": "Ang",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Biology, Beijing Forestry University, Beijing 100083, China."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Jinshuai",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9962-9540"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Applied Research Laboratory, The Pennsylvania State University, University Park, PA 16802, USA."
+          }
+        ],
+        "LastName": "Griffin",
+        "ForeName": "Christopher",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2334-6421"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Biology, Beijing Forestry University, Beijing 100083, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Statistical Genetics, Departments of Public Health Sciences and Statistics, The Pennsylvania State University, Hershey, PA 17022, USA."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Rongling",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Cells",
+    "NlmUniqueID": "101600052",
+    "ISSNLinking": "2073-4409"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epistasis, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genome-Wide Association Study"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Virulence"
+    }
+  ],
+  "CoiStatement": "We declare no competing interest."
+}

@@ -1,0 +1,268 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "anxiety",
+      "depression",
+      "digital biomarkers",
+      "digital phenotyping",
+      "ecological momentary assessment",
+      "internet technology",
+      "mHealth",
+      "mental health assessment",
+      "mobile device",
+      "mobile phone",
+      "passive sensing",
+      "personal sensing",
+      "psychiatric disorders"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34477562",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e22844",
+      "10.2196/22844"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep",
+          "Day": "03"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Evaluation of Changes in Depression, Anxiety, and Social Anxiety Using Smartphone Sensor Features: Longitudinal Cohort Study.",
+    "Pagination": {
+      "StartPage": "e22844",
+      "MedlinePgn": "e22844"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The assessment of behaviors related to mental health typically relies on self-report data. Networked sensors embedded in smartphones can measure some behaviors objectively and continuously, with no ongoing effort.",
+        "This study aims to evaluate whether changes in phone sensor-derived behavioral features were associated with subsequent changes in mental health symptoms.",
+        "This longitudinal cohort study examined continuously collected phone sensor data and symptom severity data, collected every 3 weeks, over 16 weeks. The participants were recruited through national research registries. Primary outcomes included depression (8-item Patient Health Questionnaire), generalized anxiety (Generalized Anxiety Disorder 7-item scale), and social anxiety (Social Phobia Inventory) severity. Participants were adults who owned Android smartphones. Participants clustered into 4 groups: multiple comorbidities, depression and generalized anxiety, depression and social anxiety, and minimal symptoms.",
+        "A total of 282 participants were aged 19-69 years (mean 38.9, SD 11.9 years), and the majority were female (223/282, 79.1%) and White participants (226/282, 80.1%). Among the multiple comorbidities group, depression changes were preceded by changes in GPS features (Time: r=-0.23, P=.02; Locations: r=-0.36, P<.001), exercise duration (r=0.39; P=.03) and use of active apps (r=-0.31; P<.001). Among the depression and anxiety groups, changes in depression were preceded by changes in GPS features for Locations (r=-0.20; P=.03) and Transitions (r=-0.21; P=.03). Depression changes were not related to subsequent sensor-derived features. The minimal symptoms group showed no significant relationships. There were no associations between sensor-based features and anxiety and minimal associations between sensor-based features and social anxiety.",
+        "Changes in sensor-derived behavioral features are associated with subsequent depression changes, but not vice versa, suggesting a directional relationship in which changes in sensed behaviors are associated with subsequent changes in symptoms."
+      ],
+      "CopyrightInformation": "\u00a9Jonah Meyerhoff, Tony Liu, Konrad P Kording, Lyle H Ungar, Susan M Kaiser, Chris J Karr, David C Mohr. Originally published in the Journal of Medical Internet Research (https://www.jmir.org), 03.09.2021."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-5149-7959"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Behavioral Intervention Technologies, Department of Preventive Medicine, Northwestern University, Chicago, IL, United States."
+          }
+        ],
+        "LastName": "Meyerhoff",
+        "ForeName": "Jonah",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3707-3989"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer and Information Science, University of Pennsylvania, Philadelphia, PA, United States."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Tony",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8408-4499"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, University of Pennsylvania, Philadelphia, PA, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neuroscience, University of Pennsylvania, Philadelphia, PA, United States."
+          }
+        ],
+        "LastName": "Kording",
+        "ForeName": "Konrad P",
+        "Initials": "KP"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2047-1443"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer and Information Science, University of Pennsylvania, Philadelphia, PA, United States."
+          }
+        ],
+        "LastName": "Ungar",
+        "ForeName": "Lyle H",
+        "Initials": "LH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5749-2072"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Behavioral Intervention Technologies, Department of Preventive Medicine, Northwestern University, Chicago, IL, United States."
+          }
+        ],
+        "LastName": "Kaiser",
+        "ForeName": "Susan M",
+        "Initials": "SM"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1828-4497"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Audacious Software, Chicago, IL, United States."
+          }
+        ],
+        "LastName": "Karr",
+        "ForeName": "Chris J",
+        "Initials": "CJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5443-7596"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Behavioral Intervention Technologies, Department of Preventive Medicine, Northwestern University, Chicago, IL, United States."
+          }
+        ],
+        "LastName": "Mohr",
+        "ForeName": "David C",
+        "Initials": "DC"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P50 MH119029",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 MH111610",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 MH115882",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UL1 TR001422",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Anxiety Disorders"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Longitudinal Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Smartphone"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: DCM has accepted consulting fees from Apple Inc, Pear Therapeutics, Otsuka Pharmaceuticals, and the One Mind Foundation. He also accepted royalties from Oxford Press and has an ownership interest in Adaptive Health, Inc. SMK accepted the consulting fees from Adaptive Health, Inc. CJK is the founder and sole developer at Audacious Software, LLC, which provides academic and research software development to a variety of academic, nonprofit, and commercial entities that are similar to the contributions to this work. None of the other authors have any competing interests to declare."
+}

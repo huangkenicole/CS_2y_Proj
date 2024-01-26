@@ -1,0 +1,152 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "15922003",
+  "DateCompleted": {
+    "Year": "2005",
+    "Month": "09",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2009",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2005",
+        "Month": "04",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0025-5564",
+      "JournalIssue": {
+        "Volume": "195",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2005",
+          "Month": "May"
+        }
+      },
+      "Title": "Mathematical biosciences",
+      "ISOAbbreviation": "Math Biosci"
+    },
+    "ArticleTitle": "Strain replacement in an epidemic model with super-infection and perfect vaccination.",
+    "Pagination": {
+      "StartPage": "23",
+      "EndPage": "46",
+      "MedlinePgn": "23-46"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Several articles in the recent literature discuss the complexities of the impact of vaccination on competing subtypes of one micro-organism. Both with competing virus strains and competing serotypes of bacteria, it has been established that vaccination has the potential to switch the competitive advantage from one of the pathogen subtypes to the other resulting in pathogen replacement. The main mechanism behind this process of substitution is thought to be the differential effectiveness of the vaccine with respect to the two competing micro-organisms. In this article, we show that, if the disease dynamics is regulated by super-infection, strain substitution may indeed occur even with perfect vaccination. In fact we discuss a two-strain epidemic model in which the first strain can infect individuals already infected by the second and, as far as vaccination is concerned, we consider a best-case scenario in which the vaccine provides perfect protection against both strains. We find out that if the reproduction number of the first strain is smaller than the reproduction number of the second strain and the first strain dominates in the absence of vaccination then increasing vaccination levels promotes coexistence which allows the first strain to persist in the population even if its vaccine-dependent reproduction number is below one. Further increase of vaccination levels induces the domination of the second strain in the population. Thus the second strain replaces the first strain. Large enough vaccination levels lead to the eradication of the disease."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dipartimento di Matematica, Universit\u00e1 di Trento, 38050 Povo Trento, Italy. iannelli@science.unitn.it"
+          }
+        ],
+        "LastName": "Iannelli",
+        "ForeName": "Mimmo",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Martcheva",
+        "ForeName": "Maia",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Xue-Zhi",
+        "Initials": "XZ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci",
+    "NlmUniqueID": "0103146",
+    "ISSNLinking": "0025-5564"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Bacteria"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "transmission"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "transmission"
+      ],
+      "DescriptorName": "Superinfection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccination"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Viruses"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "cancer drivers",
+      "sSNV",
+      "somatic variants",
+      "synonymous variants",
+      "variant functional impact"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35627162",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "04",
+        "Day": "27"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "778",
+      "10.3390/genes13050778"
+    ],
+    "Journal": {
+      "ISSN": "2073-4425",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Apr",
+          "Day": "27"
+        }
+      },
+      "Title": "Genes",
+      "ISOAbbreviation": "Genes (Basel)"
+    },
+    "ArticleTitle": "Inferring Potential Cancer Driving Synonymous Variants.",
+    "Abstract": {
+      "AbstractText": [
+        "Synonymous single nucleotide variants (sSNVs) are often considered functionally silent, but a few cases of cancer-causing sSNVs have been reported. From available databases, we collected four categories of sSNVs: germline, somatic in normal tissues, somatic in cancerous tissues, and putative cancer drivers. We found that screening sSNVs for recurrence among patients, conservation of the affected genomic position, and synVep prediction (synVep is a machine learning-based sSNV effect predictor) recovers cancer driver variants (termed <i>proposed drivers</i>) and previously unknown putative cancer genes. Of the 2.9 million somatic sSNVs found in the COSMIC database, we identified 2111 proposed cancer driver sSNVs. Of these, 326 sSNVs could be further tagged for possible RNA splicing effects, RNA structural changes, and affected RBP motifs. This list of proposed cancer driver sSNVs provides computational guidance in prioritizing the experimental evaluation of synonymous mutations found in cancers. Furthermore, our list of novel potential cancer genes, galvanized by synonymous mutations, may highlight yet unexplored cancer mechanisms."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-5801-6476"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Microbiology, Rutgers University, New Brunswick, NJ 08873, USA."
+          }
+        ],
+        "LastName": "Zeng",
+        "ForeName": "Zishuo",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8351-0844"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Microbiology, Rutgers University, New Brunswick, NJ 08873, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics, Rutgers University, Piscataway, NJ 08854, USA."
+          }
+        ],
+        "LastName": "Bromberg",
+        "ForeName": "Yana",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Genes (Basel)",
+    "NlmUniqueID": "101551097",
+    "ISSNLinking": "2073-4425"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oncogenes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA Splicing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Silent Mutation"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest. "
+}

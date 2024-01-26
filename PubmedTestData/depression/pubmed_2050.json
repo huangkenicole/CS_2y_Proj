@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "deep learning",
+      "depression detection",
+      "facial expression"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38067773",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "11",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "9402",
+      "10.3390/s23239402"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "23",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Nov",
+          "Day": "25"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Explainable Depression Detection Based on Facial Expression Using LSTM on Attentional Intermediate Feature Fusion with Label Smoothing.",
+    "Abstract": {
+      "AbstractText": [
+        "Machine learning is used for a fast pre-diagnosis approach to prevent the effects of Major Depressive Disorder (MDD). The objective of this research is to detect depression using a set of important facial features extracted from interview video, e.g., radians, gaze at angles, action unit intensity, etc. The model is based on LSTM with an attention mechanism. It aims to combine those features using the intermediate fusion approach. The label smoothing was presented to further improve the model's performance. Unlike other black-box models, the integrated gradient was presented as the model explanation to show important features of each patient. The experiment was conducted on 474 video samples collected at Chulalongkorn University. The data set was divided into 134 depressed and 340 non-depressed categories. The results showed that our model is the winner, with a 88.89% F1-score, 87.03% recall, 91.67% accuracy, and 91.40% precision. Moreover, the model can capture important features of depression, including head turning, no specific gaze, slow eye movement, no smiles, frowning, grumbling, and scowling, which express a lack of concentration, social disinterest, and negative feelings that are consistent with the assumptions in the depressive theories."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Engineering, Faculty of Engineering, Chulalongkorn University, Phayathai Rd, Pathumwan, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Mahayossanunt",
+        "ForeName": "Yanisa",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Engineering, Faculty of Engineering, Chulalongkorn University, Phayathai Rd, Pathumwan, Bangkok 10330, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Digital and AI Innovation for Mental Health (AIMET), Chulalongkorn Unversity, Phayathai Rd, Pathumwan, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Nupairoj",
+        "ForeName": "Natawut",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Digital and AI Innovation for Mental Health (AIMET), Chulalongkorn Unversity, Phayathai Rd, Pathumwan, Bangkok 10330, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Faculty of Medicine, Chulalongkorn University, Phayathai Rd, Pathumwan, Bangkok 10330, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cognitive Fitness and Biopsychiatry Technology Research Unit, Faculty of Medicine, Chulalongkorn University, Phayathai Rd, Pathumwan, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Hemrungrojn",
+        "ForeName": "Solaphat",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Engineering, Faculty of Engineering, Chulalongkorn University, Phayathai Rd, Pathumwan, Bangkok 10330, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Digital and AI Innovation for Mental Health (AIMET), Chulalongkorn Unversity, Phayathai Rd, Pathumwan, Bangkok 10330, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cognitive Fitness and Biopsychiatry Technology Research Unit, Faculty of Medicine, Chulalongkorn University, Phayathai Rd, Pathumwan, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Vateekul",
+        "ForeName": "Peerapon",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Facial Expression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Emotions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Eye Movements"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

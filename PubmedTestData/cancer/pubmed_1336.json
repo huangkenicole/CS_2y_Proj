@@ -1,0 +1,502 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30573518",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "11",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "12",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1158/0008-5472.CAN-18-1062"
+    ],
+    "Journal": {
+      "ISSN": "1538-7445",
+      "JournalIssue": {
+        "Volume": "79",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Feb",
+          "Day": "01"
+        }
+      },
+      "Title": "Cancer research",
+      "ISOAbbreviation": "Cancer Res"
+    },
+    "ArticleTitle": "Acid-Induced Downregulation of ASS1 Contributes to the Maintenance of Intracellular pH in Cancer.",
+    "Pagination": {
+      "StartPage": "518",
+      "EndPage": "533",
+      "MedlinePgn": "518-533"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Downregulation of the urea cycle enzyme argininosuccinate synthase (ASS1) by either promoter methylation or by HIF1\u03b1 is associated with increased metastasis and poor prognosis in multiple cancers. We have previously shown that in normoxic conditions, ASS1 downregulation facilitates cancer cell proliferation by increasing aspartate availability for pyrimidine synthesis by the enzyme complex CAD. Here we report that in hypoxia, ASS1 expression in cancerous cells is downregulated further by HIF1\u03b1-mediated induction of miR-224-5p, making the cells more invasive and dependent on upstream substrates of ASS1 for survival. ASS1 was downregulated under acidic conditions, and ASS1-depleted cancer cells maintained a higher intracellular pH (pHi), depended less on extracellular glutamine, and displayed higher glutathione levels. Depletion of substrates of urea cycle enzymes in ASS1-deficient cancers decreased cancer cell survival. Thus, ASS1 levels in cancer are differentially regulated in various environmental conditions to metabolically benefit cancer progression. Understanding these alterations may help uncover specific context-dependent cancer vulnerabilities that may be targeted for therapeutic purposes. SIGNIFICANCE: Cancer cells in an acidic or hypoxic environment downregulate the expression of the urea cycle enzyme ASS1, which provides them with a redox and pH advantage, resulting in better survival.<b>Graphical Abstract:</b> http://cancerres.aacrjournals.org/content/canres/79/3/518/F1.large.jpg."
+      ],
+      "CopyrightInformation": "\u00a92018 American Association for Cancer Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Silberman",
+        "ForeName": "Alon",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Goldman",
+        "ForeName": "Omer",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Boukobza Assayag",
+        "ForeName": "Odeya",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Jacob",
+        "ForeName": "Adi",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Rabinovich",
+        "ForeName": "Shiran",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Adler",
+        "ForeName": "Lital",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Bioinformatics and Computational Biology and Dept. of Computer Science, University of Maryland, College Park, Maryland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Data Science Lab, National Cancer Institute, NIH, Bethesda, Maryland."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Joo Sang",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Keshet",
+        "ForeName": "Rom",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Sarver",
+        "ForeName": "Alona",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Frug",
+        "ForeName": "Julia",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Veterinary Resources, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Stettner",
+        "ForeName": "Noa",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Galai",
+        "ForeName": "Sivan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Biology and Bioinformatics Branch (CBB), National Library of Medicine, National Center for Biotechnology Information (NCBI), NIH, Bethesda, Maryland."
+          }
+        ],
+        "LastName": "Persi",
+        "ForeName": "Erez",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Halpern",
+        "ForeName": "Keren Bahar",
+        "Initials": "KB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Zaltsman-Amir",
+        "ForeName": "Yehudit",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Metabolic Disease Unit, Edmond and Lily Safra Children's Hospital, Sheba Medical Center, Tel-Hashomer, Israel."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel."
+          }
+        ],
+        "LastName": "Pode-Shakked",
+        "ForeName": "Ben",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Veterinary Resources, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Eilam",
+        "ForeName": "Raya",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Metabolic Disease Unit, Edmond and Lily Safra Children's Hospital, Sheba Medical Center, Tel-Hashomer, Israel."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel."
+          }
+        ],
+        "LastName": "Anikster",
+        "ForeName": "Yair",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6818-7367"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas."
+          }
+        ],
+        "LastName": "Nagamani",
+        "ForeName": "Sandesh C S",
+        "Initials": "SCS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Ulitsky",
+        "ForeName": "Igor",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Bioinformatics and Computational Biology and Dept. of Computer Science, University of Maryland, College Park, Maryland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Data Science Lab, National Cancer Institute, NIH, Bethesda, Maryland."
+          }
+        ],
+        "LastName": "Ruppin",
+        "ForeName": "Eytan",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Regulation, Weizmann Institute of Science, Rehovot, Israel. ayelet.erez@weizmann.ac.il."
+          }
+        ],
+        "LastName": "Erez",
+        "ForeName": "Ayelet",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R33 CA225291",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "Z99 CA999999",
+        "Acronym": "ImNIH",
+        "Agency": "Intramural NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Cancer Res",
+    "NlmUniqueID": "2984705R",
+    "ISSNLinking": "0008-5472"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0RH81L854J",
+      "NameOfSubstance": "Glutamine"
+    },
+    {
+      "RegistryNumber": "EC 6.3.4.5",
+      "NameOfSubstance": "Argininosuccinate Synthase"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Argininosuccinate Synthase"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Bone Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Cell Hypoxia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line, Tumor"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Cell Movement"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Down-Regulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Glutamine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hydrogen-Ion Concentration"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Melanoma, Experimental"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice, Inbred C57BL"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice, SCID"
+    },
+    {
+      "QualifierName": [
+        "enzymology",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Osteosarcoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oxidation-Reduction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "The authors declare no potential conflicts of interest"
+}

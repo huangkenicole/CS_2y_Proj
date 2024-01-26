@@ -1,0 +1,185 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24187327",
+  "DateCompleted": {
+    "Year": "2014",
+    "Month": "09",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2013",
+    "Month": "11",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/ICORR.2013.6650512"
+    ],
+    "Journal": {
+      "ISSN": "1945-7901",
+      "JournalIssue": {
+        "Volume": "2013",
+        "PubDate": {
+          "Year": "2013",
+          "Month": "Jun"
+        }
+      },
+      "Title": "IEEE ... International Conference on Rehabilitation Robotics : [proceedings]",
+      "ISOAbbreviation": "IEEE Int Conf Rehabil Robot"
+    },
+    "ArticleTitle": "Multidirectional transparent support for overground gait training.",
+    "Pagination": {
+      "StartPage": "6650512",
+      "MedlinePgn": "6650512"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Gait and balance training is an essential ingredient for locomotor rehabilitation of patients with neurological impairments. Robotic overhead support systems may help these patients train, for example by relieving them of part of their body weight. However, there are only very few systems that provide support during overground gait, and these suffer from limited degrees of freedom and/or undesired interaction forces due to uncompensated robot dynamics, namely inertia. Here, we suggest a novel mechanical concept that is based on cable robot technology and that allows three-dimensional gait training while reducing apparent robot dynamics to a minimum. The solution does not suffer from the conventional drawback of cable robots, which is a limited workspace. Instead, displaceable deflection units follow the human subject above a large walking area. These deflection units are not actuated, instead they are implicitly displaced by means of the forces in the cables they deflect. This leads to an underactuated design, because the deflection units cannot be moved arbitrarily. However, the design still allows accurate control of a three-dimensional force vector acting on a human subject during gait. We describe the mechanical concept, the control concept, and we show first experimental results obtained with the device, including the force control performance during robot-supported overground gait of five human subjects without motor impairments."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Vallery",
+        "ForeName": "H",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lutz",
+        "ForeName": "P",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "von Zitzewitz",
+        "ForeName": "J",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rauter",
+        "ForeName": "G",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fritschi",
+        "ForeName": "M",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Everarts",
+        "ForeName": "C",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ronsse",
+        "ForeName": "R",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Curt",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bolliger",
+        "ForeName": "M",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Int Conf Rehabil Robot",
+    "NlmUniqueID": "101260913",
+    "ISSNLinking": "1945-7898"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Biomechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Body Weight"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Equipment Design"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Gait"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "instrumentation"
+      ],
+      "DescriptorName": "Robotics"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Walking"
+    }
+  ]
+}

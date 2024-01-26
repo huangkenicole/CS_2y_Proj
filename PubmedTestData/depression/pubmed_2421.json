@@ -1,0 +1,511 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32187319",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "03",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1590/1516-4446-2019-0741",
+      "S1516-44462020005006202"
+    ],
+    "Journal": {
+      "ISSN": "1809-452X",
+      "JournalIssue": {
+        "Volume": "42",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Revista brasileira de psiquiatria (Sao Paulo, Brazil : 1999)",
+      "ISOAbbreviation": "Braz J Psychiatry"
+    },
+    "ArticleTitle": "Precision non-implantable neuromodulation therapies: a perspective for the depressed brain.",
+    "Pagination": {
+      "StartPage": "403",
+      "EndPage": "419",
+      "MedlinePgn": "403-419"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Current first-line treatments for major depressive disorder (MDD) include pharmacotherapy and cognitive-behavioral therapy. However, one-third of depressed patients do not achieve remission after multiple medication trials, and psychotherapy can be costly and time-consuming. Although non-implantable neuromodulation (NIN) techniques such as transcranial magnetic stimulation, transcranial direct current stimulation, electroconvulsive therapy, and magnetic seizure therapy are gaining momentum for treating MDD, the efficacy of non-convulsive techniques is still modest, whereas use of convulsive modalities is limited by their cognitive side effects. In this context, we propose that NIN techniques could benefit from a precision-oriented approach. In this review, we discuss the challenges and opportunities in implementing such a framework, focusing on enhancing NIN effects via a combination of individualized cognitive interventions, using closed-loop approaches, identifying multimodal biomarkers, using computer electric field modeling to guide targeting and quantify dosage, and using machine learning algorithms to integrate data collected at multiple biological levels and identify clinical responders. Though promising, this framework is currently limited, as previous studies have employed small samples and did not sufficiently explore pathophysiological mechanisms associated with NIN response and side effects. Moreover, cost-effectiveness analyses have not been performed. Nevertheless, further advancements in clinical trials of NIN could shift the field toward a more \"precision-oriented\" practice."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Servi\u00e7o Interdisciplinar de Neuromodula\u00e7\u00e3o, Laborat\u00f3rio de Neuroci\u00eancias (LIM-27), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas, Faculdade de Medicina, Universidade de S\u00e3o Paulo (USP), S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Borrione",
+        "ForeName": "Lucas",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Servi\u00e7o Interdisciplinar de Neuromodula\u00e7\u00e3o, Laborat\u00f3rio de Neuroci\u00eancias (LIM-27), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas, Faculdade de Medicina, Universidade de S\u00e3o Paulo (USP), S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Bellini",
+        "ForeName": "Helena",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Servi\u00e7o Interdisciplinar de Neuromodula\u00e7\u00e3o, Laborat\u00f3rio de Neuroci\u00eancias (LIM-27), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas, Faculdade de Medicina, Universidade de S\u00e3o Paulo (USP), S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Razza",
+        "ForeName": "Lais Boralli",
+        "Initials": "LB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centro de Neuropsicologia e Interven\u00e7\u00e3o Cognitivo-Comportamental, Faculdade de Psicologia e Ci\u00eancias da Educa\u00e7\u00e3o, Universidade de Coimbra, Coimbra, Portugal."
+          }
+        ],
+        "LastName": "Avila",
+        "ForeName": "Ana G",
+        "Initials": "AG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Head and Skin, Faculty of Medicine and Health Sciences, Ghent University, Ghent, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University Hospital (UZ Brussel), Brussels, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Ghent Experimental Psychiatry (GHEP) Lab, Ghent University, Ghent, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands."
+          }
+        ],
+        "LastName": "Baeken",
+        "ForeName": "Chris",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute of Psychiatry, Munich, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Interventional Cognitive Neurology, Department of Neurology, Berenson-Allen Center for Noninvasive Brain Stimulation, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Brem",
+        "ForeName": "Anna-Katharine",
+        "Initials": "AK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Neuroimagem em Psiquiatria (LIM-21), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas, Faculdade de Medicina, USP, S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Busatto",
+        "ForeName": "Geraldo",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University of Toronto, Toronto, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Addiction and Mental Health (CAMH), Toronto, ON, Canada."
+          }
+        ],
+        "LastName": "Carvalho",
+        "ForeName": "Andre F",
+        "Initials": "AF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Spring Health, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Yale University, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Chekroud",
+        "ForeName": "Adam",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University of Toronto, Toronto, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Addiction and Mental Health (CAMH), Toronto, ON, Canada."
+          }
+        ],
+        "LastName": "Daskalakis",
+        "ForeName": "Zafiris J",
+        "Initials": "ZJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Noninvasive Neuromodulation Unit, Experimental Therapeutic & Pathophysiology Branch, National Institute of Mental Health, National Institutes of Health, Bethesda, MD, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Behavioral Sciences, School of Medicine, Duke University, Durham, NC, USA."
+          }
+        ],
+        "LastName": "Deng",
+        "ForeName": "Zhi-De",
+        "Initials": "ZD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Institute of Medical Science, Faculty of Medicine, University of Toronto, Toronto, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Mental Health and Krembil Research Institute, University Health Network, Toronto, ON, Canada."
+          }
+        ],
+        "LastName": "Downar",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Neuroci\u00eancias (LIM-27), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas,\nFaculdade de Medicina, USP, S\u00e3o Paulo, SP, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Nacional de Biomarcadores em Neuropsiquiatria (INBioN), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas, Faculdade de Medicina, USP, S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Gattaz",
+        "ForeName": "Wagner",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Psychiatry and Black Dog Institute, University of New South Wales, Sydney, Australia."
+          }
+        ],
+        "LastName": "Loo",
+        "ForeName": "Colleen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Estudo Longitudinal de Sa\u00fade do Adulto (ELSA), Centro de Pesquisa Cl\u00ednica e Epidemiol\u00f3gica, Hospital Universit\u00e1rio, USP, S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Lotufo",
+        "ForeName": "Paulo A",
+        "Initials": "PA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Resson\u00e2ncia Magn\u00e9tica em Neurorradiologia (LIM-44) and Instituto de Radiologia, Hospital das Cl\u00ednicas, Faculdade de Medicina, USP, S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Maria da Gra\u00e7a M",
+        "Initials": "MDGM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Neurocognitive Research Laboratory, Department of Psychiatry, UT Southwestern Medical Center, Dallas, TX, USA."
+          }
+        ],
+        "LastName": "McClintock",
+        "ForeName": "Shawn M",
+        "Initials": "SM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wellcome Centre for Integrative Neuroimaging, Oxford Centre for Human Brain Activity, Department of Psychiatry, Warneford Hospital, University of Oxford, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "O'Shea",
+        "ForeName": "Jacinta",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, University Hospital, LMU Munich, Munich, Germany."
+          }
+        ],
+        "LastName": "Padberg",
+        "ForeName": "Frank",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Psiquiatria Molecular e Programa de\nTranstorno Bipolar, Hospital de Cl\u00ednicas de Porto Alegre (HCPA), Programa de P\u00f3s-Gradua\u00e7\u00e3o em Psiquiatria e Ci\u00eancias do Comportamento, Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS, Brazil."
+          }
+        ],
+        "LastName": "Passos",
+        "ForeName": "Ives C",
+        "Initials": "IC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Psiquiatria, Se\u00e7\u00e3o de Afeto Negativo e Processos Sociais (SANPS), HCPA, UFRGS, Porto Alegre, RS, Brazil."
+          }
+        ],
+        "LastName": "Salum",
+        "ForeName": "Giovanni A",
+        "Initials": "GA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Head and Skin, Faculty of Medicine and Health Sciences, Ghent University, Ghent, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Ghent Experimental Psychiatry (GHEP) Lab, Ghent University, Ghent, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Experimental Clinical and Health Psychology, Psychopathology and Affective Neuroscience Lab, Ghent University, Ghent, Belgium."
+          }
+        ],
+        "LastName": "Vanderhasselt",
+        "ForeName": "Marie-Anne",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Neuroimagem em Psiquiatria (LIM-21), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas, Faculdade de Medicina, USP, S\u00e3o Paulo, SP, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Hospital Universit\u00e1rio, USP, S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Fraguas",
+        "ForeName": "Renerio",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Estudo Longitudinal de Sa\u00fade do Adulto (ELSA), Centro de Pesquisa Cl\u00ednica e Epidemiol\u00f3gica, Hospital Universit\u00e1rio, USP, S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Bense\u00f1or",
+        "ForeName": "Isabela",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Servi\u00e7o Interdisciplinar de Neuromodula\u00e7\u00e3o, Laborat\u00f3rio de Neuroci\u00eancias (LIM-27), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas, Faculdade de Medicina, Universidade de S\u00e3o Paulo (USP), S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Valiengo",
+        "ForeName": "Leandro",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Servi\u00e7o Interdisciplinar de Neuromodula\u00e7\u00e3o, Laborat\u00f3rio de Neuroci\u00eancias (LIM-27), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas, Faculdade de Medicina, Universidade de S\u00e3o Paulo (USP), S\u00e3o Paulo, SP, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio de Neuroci\u00eancias (LIM-27), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas,\nFaculdade de Medicina, USP, S\u00e3o Paulo, SP, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Nacional de Biomarcadores em Neuropsiquiatria (INBioN), Departamento e Instituto de Psiquiatria, Hospital das Cl\u00ednicas, Faculdade de Medicina, USP, S\u00e3o Paulo, SP, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Hospital Universit\u00e1rio, USP, S\u00e3o Paulo, SP, Brazil."
+          }
+        ],
+        "LastName": "Brunoni",
+        "ForeName": "Andre R",
+        "Initials": "AR"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "ZIA MH002955",
+        "Acronym": "ImNIH",
+        "Agency": "Intramural NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Brazil",
+    "MedlineTA": "Braz J Psychiatry",
+    "NlmUniqueID": "100895975",
+    "ISSNLinking": "1516-4446"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Brain"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Deep Brain Stimulation"
+    },
+    {
+      "QualifierName": [
+        "prevention & control",
+        "rehabilitation"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "physiopathology",
+        "therapy"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electroconvulsive Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcranial Direct Current Stimulation"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Transcranial Magnetic Stimulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Treatment Outcome"
+    }
+  ],
+  "CoiStatement": "Z-DD is listed as inventor on patents/patent applications related to brain stimulation technology, assigned to Columbia University and NEVA Electromagnetics, not licensed, and with no remuneration. Although he is an employee of the U.S. government, the views expressed are his own and do not necessarily represent the views of the National Institutes of Health, the Department of Health and Human Services, or the U.S. government. The other authors report no conflicts of interest."
+}

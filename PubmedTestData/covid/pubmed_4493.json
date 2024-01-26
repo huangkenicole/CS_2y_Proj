@@ -1,0 +1,265 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "intracellular replication",
+      "mathematical model",
+      "sensitivity analysis",
+      "targets for drugs"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34578317",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1735",
+      "10.3390/v13091735"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug",
+          "Day": "31"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Intracellular Life Cycle Kinetics of SARS-CoV-2 Predicted Using Mathematical Modelling.",
+    "Abstract": {
+      "AbstractText": [
+        "SARS-CoV-2 infection represents a global threat to human health. Various approaches were employed to reveal the pathogenetic mechanisms of COVID-19. Mathematical and computational modelling is a powerful tool to describe and analyze the infection dynamics in relation to a plethora of processes contributing to the observed disease phenotypes. In our study here, we formulate and calibrate a deterministic model of the SARS-CoV-2 life cycle. It provides a kinetic description of the major replication stages of SARS-CoV-2. Sensitivity analysis of the net viral progeny with respect to model parameters enables the identification of the life cycle stages that have the strongest impact on viral replication. These three most influential parameters are (i) degradation rate of positive sense vRNAs in cytoplasm (negative effect), (ii) threshold number of non-structural proteins enhancing vRNA transcription (negative effect), and (iii) translation rate of non-structural proteins (positive effect). The results of our analysis could be used for guiding the search for antiviral drug targets to combat SARS-CoV-2 infection."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7315-193X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Marchuk Institute of Numerical Mathematics, Russian Academy of Sciences (INM RAS), 119333 Moscow, Russia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Moscow Center for Fundamental and Applied Mathematics at INM RAS, 119333 Moscow, Russia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "World-Class Research Center \"Digital Biodesign and Personalized Healthcare\", Sechenov First Moscow State Medical University, 119991 Moscow, Russia."
+          }
+        ],
+        "LastName": "Grebennikov",
+        "ForeName": "Dmitry",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Marchuk Institute of Numerical Mathematics, Russian Academy of Sciences (INM RAS), 119333 Moscow, Russia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Moscow Institute of Physics and Technology (National Research University), Dolgoprudny, 141701 Moscow Oblast, Russia."
+          }
+        ],
+        "LastName": "Kholodareva",
+        "ForeName": "Ekaterina",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6685-2351"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Engineering, Swansea University, Bay Campus, Fabian Way, Swansea SA1 8EN, UK."
+          }
+        ],
+        "LastName": "Sazonov",
+        "ForeName": "Igor",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8697-9816"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Immunology and Allergology, Sechenov First Moscow State Medical University, 119991 Moscow, Russia."
+          }
+        ],
+        "LastName": "Karsonova",
+        "ForeName": "Antonina",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0620-5317"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infection Biology Laboratory, Universitat Pompeu Fabra, 08003 Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "ICREA, Pg. Lluis Companys 23, 08010 Barcelona, Spain."
+          }
+        ],
+        "LastName": "Meyerhans",
+        "ForeName": "Andreas",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5049-0656"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Marchuk Institute of Numerical Mathematics, Russian Academy of Sciences (INM RAS), 119333 Moscow, Russia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Moscow Center for Fundamental and Applied Mathematics at INM RAS, 119333 Moscow, Russia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Computer Science and Mathematical Modelling, Sechenov First Moscow State Medical University, 119991 Moscow, Russia."
+          }
+        ],
+        "LastName": "Bocharov",
+        "ForeName": "Gennady",
+        "Initials": "G"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "20-04-60157",
+        "Agency": "Russian Foundation for Basic Research",
+        "Country": ""
+      },
+      {
+        "GrantID": "20-01-00352",
+        "Agency": "Russian Foundation for Basic Research",
+        "Country": ""
+      },
+      {
+        "GrantID": "075-15-2019-1624",
+        "Agency": "Ministry of Education and Science of the Russian Federation",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Life Cycle Stages"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Replication"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results."
+}

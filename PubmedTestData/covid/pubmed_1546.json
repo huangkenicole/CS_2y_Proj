@@ -1,0 +1,452 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33658502",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1405",
+      "10.1038/s41467-021-21653-y"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "03"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "A multiplexed, next generation sequencing platform for high-throughput detection of SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "1405",
+      "MedlinePgn": "1405"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Population scale sweeps of viral pathogens, such as SARS-CoV-2, require high intensity testing for effective management. Here, we describe \"Systematic Parallel Analysis of RNA coupled to Sequencing for Covid-19 screening\" (C19-SPAR-Seq), a multiplexed, scalable, readily automated platform for SARS-CoV-2 detection that is capable of analyzing tens of thousands of patient samples in a single run. To address strict requirements for control of assay parameters and output demanded by clinical diagnostics, we employ a control-based Precision-Recall and Receiver Operator Characteristics (coPR) analysis to assign run-specific quality control metrics. C19-SPAR-Seq coupled to coPR on a trial cohort of several hundred patients performs with a specificity of 100% and sensitivity of 91% on samples with low viral loads, and a sensitivity of >95% on high viral loads associated with disease onset and peak transmissibility. This study establishes the feasibility of employing C19-SPAR-Seq for the large-scale monitoring of SARS-CoV-2 and other pathogens."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-1788-3180"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Aynaud",
+        "ForeName": "Marie-Ming",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, M5S 3E1, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Genetics, University of Toronto, Toronto, M5S 1A8, ON, Canada."
+          }
+        ],
+        "LastName": "Hernandez",
+        "ForeName": "J Javier",
+        "Initials": "JJ"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2739-4153"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Barutcu",
+        "ForeName": "Seda",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6653-0926"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, M5S 3E1, ON, Canada."
+          }
+        ],
+        "LastName": "Braunschweig",
+        "ForeName": "Ulrich",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Kin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Pearson",
+        "ForeName": "Joel D",
+        "Initials": "JD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Trcka",
+        "ForeName": "Daniel",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6373-9716"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Prosser",
+        "ForeName": "Suzanna L",
+        "Initials": "SL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Jaeyoun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Barrios-Rodiles",
+        "ForeName": "Miriam",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Jen",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, M5S 3E1, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Toronto, Toronto, M5S 1A8, ON, Canada."
+          }
+        ],
+        "LastName": "Song",
+        "ForeName": "Siyuan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Jess",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Mount Sinai Hospital/University Health Network, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Bruce",
+        "ForeName": "Christine",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Mount Sinai Hospital/University Health Network, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Hazlett",
+        "ForeName": "Bryn",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Mount Sinai Hospital/University Health Network, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Poutanen",
+        "ForeName": "Susan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4824-2642"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, M5S 3E1, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Toronto, Toronto, M5S 1A8, ON, Canada."
+          }
+        ],
+        "LastName": "Attisano",
+        "ForeName": "Liliana",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9184-7212"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Bremner",
+        "ForeName": "Rod",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4461-0340"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, M5S 3E1, ON, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Genetics, University of Toronto, Toronto, M5S 1A8, ON, Canada."
+          }
+        ],
+        "LastName": "Blencowe",
+        "ForeName": "Benjamin J",
+        "Initials": "BJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Mount Sinai Hospital/University Health Network, Toronto, M5G 1X5, ON, Canada."
+          }
+        ],
+        "LastName": "Mazzulli",
+        "ForeName": "Tony",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Donnelly Centre for Cellular and Biomolecular Research, University of Toronto, Toronto, M5S 3E1, ON, Canada."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Hong",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1171-4618"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada. pelletier@lunenfeld.ca."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Genetics, University of Toronto, Toronto, M5S 1A8, ON, Canada. pelletier@lunenfeld.ca."
+          }
+        ],
+        "LastName": "Pelletier",
+        "ForeName": "Laurence",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0932-0644"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, M5G 1X5, ON, Canada. wrana@lunenfeld.ca."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Genetics, University of Toronto, Toronto, M5S 1A8, ON, Canada. wrana@lunenfeld.ca."
+          }
+        ],
+        "LastName": "Wrana",
+        "ForeName": "Jeffrey L",
+        "Initials": "JL"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Diagnostic Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acid Amplification Techniques"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "growth & development",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viral Load"
+    }
+  ],
+  "CoiStatement": "J.L.W. is founder and CEO of iTP Biomedica Inc, which employs whole transcriptome NGS tests in cancer, and he is founder and consultant for Fibrocor LP, which is developing therapeutics for fibrotic disease. The other authors declare no competing interests."
+}

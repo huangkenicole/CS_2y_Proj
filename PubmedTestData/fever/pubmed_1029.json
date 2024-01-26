@@ -1,0 +1,291 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "digital health care",
+      "mobile app",
+      "patient-generated health data",
+      "postvaccination fever",
+      "vaccination"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31008712",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "05",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "04",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e12223",
+      "10.2196/12223"
+    ],
+    "Journal": {
+      "ISSN": "2291-5222",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Apr",
+          "Day": "22"
+        }
+      },
+      "Title": "JMIR mHealth and uHealth",
+      "ISOAbbreviation": "JMIR Mhealth Uhealth"
+    },
+    "ArticleTitle": "Postvaccination Fever Response Rates in Children Derived Using the Fever Coach Mobile App: A Retrospective Observational Study.",
+    "Pagination": {
+      "StartPage": "e12223",
+      "MedlinePgn": "e12223"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Postvaccination fever is a mild adverse event that naturally improves without complications, but is highly prevalent and can be accompanied by febrile convulsions in some cases. These adverse effects may cause parents to delay or avoid vaccinating their children.",
+        "This study aimed to identify postvaccination fever patterns and the ability of antipyretics to affect changes in these patterns from data collected from a mobile app named Fever Coach.",
+        "Data provided by parents of feverish children derived from a mobile app, Fever Coach, were used to identify postvaccination fever patterns according to vaccinations and the use of antipyretic drugs. We selected single vaccination records that contained five or more body temperature readings performed within 48 hours of vaccination, and we analyzed postvaccination fever onset, offset, duration, and maximum body temperature. Through observing the postvaccination fever response to vaccination, we identified the effects of antipyretic drugs on postvaccination fever onset, offset, and duration times; the extent of fever; and the rate of decline. We also performed logistic regression analysis to determine demographic variables (age, weight, and sex) involved in relatively high fevers (body temperature \u226539\u00b0C).",
+        "The total number of Fever Coach users was 25,037, with 3834 users having entered single vaccination records, including 4448 vaccinations and 55,783 body temperature records. Most records were obtained from children receiving the following vaccinations: pneumococcus (n=2069); Japanese encephalitis (n=911); influenza (n=669); diphtheria, tetanus, and pertussis (n=403); and hepatitis A (n=252). According to the 4448 vaccination records, 3427 (77.05%) children had taken antipyretic drugs, and 3238 (89.15%) children took antibiotics at body temperatures above 38\u00b0C. The number of children taking antipyretics at a body temperature of 38\u00b0C was more than four times that of those taking antipyretics at 37.9\u00b0C (307 vs 67 cases). The number of instances in which this temperature threshold was reached was more than four times greater than the number when the temperature was 37.9\u00b0C. A comparative analysis of antipyretic and nonantipyretic cases showed there was no difference in onset time; however, offset and duration times were significantly shorter in nonantipyretic cases than in antipyretic cases (P<.001). In nonantipyretic cases, offset times and duration times were 9.9 and 10.1 hours shorter, respectively, than in antipyretic cases. Body temperatures also decreased faster in nonantipyretic cases. Influenza vaccine-associated fevers lasted relatively longer, whereas pneumococcus vaccine-associated fevers were relatively short-lived.",
+        "These findings suggest that postvaccination fever has its own fever pattern, which is dependent on vaccine type and the presence of antipyretic drugs, and that postvaccination temperature monitoring may ease fever phobia and reduce the unnecessary use of antipyretics in medical care."
+      ],
+      "CopyrightInformation": "\u00a9Sang Hyun Ahn, Jooho Zhiang, Hyery Kim, Seyun Chang, Jaewon Shin, Myeongchan Kim, Yura Lee, Jae-Ho Lee, Yu Rang Park. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 22.04.2019."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3593-2855"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Korea Human Resource Development Institute for Health and Welfare, Cheongju, Republic of Korea."
+          }
+        ],
+        "LastName": "Ahn",
+        "ForeName": "Sang Hyun",
+        "Initials": "SH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5612-8404"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Yonsei University College of Medicine, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Zhiang",
+        "ForeName": "Jooho",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2852-6832"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of Ulsan College of Medicine, Asan Medical Center Children's Hospital, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Hyery",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0397-587X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mobile Doctor Co, Ltd, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Chang",
+        "ForeName": "Seyun",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5272-3081"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mobile Doctor Co, Ltd, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Shin",
+        "ForeName": "Jaewon",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3940-9850"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mobile Doctor Co, Ltd, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Myeongchan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2048-3727"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, Asan Medical Center, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Yura",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2619-1231"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, Asan Medical Center, Seoul, Republic of Korea."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Jae-Ho",
+        "Initials": "JH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4210-2094"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Systems Informatics, Yonsei University College of Medicine, Seoul, Republic of Korea."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Yu Rang",
+        "Initials": "YR"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "JMIR Mhealth Uhealth",
+    "NlmUniqueID": "101624439",
+    "ISSNLinking": "2291-5222"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antipyretics"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "JMIR Mhealth Uhealth. 2020 May 7;8(5):e18921",
+      "PMID": "32379698"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Analysis of Variance"
+    },
+    {
+      "QualifierName": [
+        "standards",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antipyretics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mobile Applications"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    },
+    {
+      "QualifierName": [
+        "adverse effects",
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Vaccination"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: Seyun Chang, Jaewon Shin, and Myeongchan Kim are employees of Mobile Doctor Co, Ltd. All other authors declare no conflicts of interest."
+}

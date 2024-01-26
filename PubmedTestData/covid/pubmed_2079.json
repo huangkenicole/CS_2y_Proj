@@ -1,0 +1,241 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "deep neural network",
+      "gene regulatory network",
+      "single-cell RNA sequencing",
+      "transitive interactions"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34424948",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab325",
+      "10.1093/bib/bbab325"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "DeepDRIM: a deep neural network to reconstruct cell-type-specific gene regulatory network using single-cell RNA-seq data.",
+    "Abstract": {
+      "AbstractText": [
+        "Single-cell RNA sequencing has enabled to capture the gene activities at single-cell resolution, thus allowing reconstruction of cell-type-specific gene regulatory networks (GRNs). The available algorithms for reconstructing GRNs are commonly designed for bulk RNA-seq data, and few of them are applicable to analyze scRNA-seq data by dealing with the dropout events and cellular heterogeneity. In this paper, we represent the joint gene expression distribution of a gene pair as an image and propose a novel supervised deep neural network called DeepDRIM which utilizes the image of the target TF-gene pair and the ones of the potential neighbors to reconstruct GRN from scRNA-seq data. Due to the consideration of TF-gene pair's neighborhood context, DeepDRIM can effectively eliminate the false positives caused by transitive gene-gene interactions. We compared DeepDRIM with nine GRN reconstruction algorithms designed for either bulk or single-cell RNA-seq data. It achieves evidently better performance for the scRNA-seq data collected from eight cell lines. The simulated data show that DeepDRIM is robust to the dropout rate, the cell number and the size of the training data. We further applied DeepDRIM to the scRNA-seq gene expression of B cells from the bronchoalveolar lavage fluid of the patients with mild and severe coronavirus disease 2019. We focused on the cell-type-specific GRN alteration and observed targets of TFs that were differentially expressed between the two statuses to be enriched in lysosome, apoptosis, response to decreased oxygen level and microtubule, which had been proved to be associated with coronavirus infection."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Hong Kong Baptist University, Waterloo Road, Kowloon Tong, Hong Kong."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Jiaxing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Hong Kong Baptist University, Waterloo Road, Kowloon Tong, Hong Kong."
+          }
+        ],
+        "LastName": "Cheong",
+        "ForeName": "ChinWang",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Hong Kong Baptist University, Waterloo Road, Kowloon Tong, Hong Kong."
+          }
+        ],
+        "LastName": "Lan",
+        "ForeName": "Liang",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Vanderbilt University, Vanderbilt Place Nashville, 37235, TN, USA."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Xin",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Hong Kong Baptist University, Waterloo Road, Kowloon Tong, Hong Kong."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Jiming",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Chinese Medicine, Hong Kong Baptist University, Waterloo Road, Kowloon Tong, Hong Kong."
+          }
+        ],
+        "LastName": "Lyu",
+        "ForeName": "Aiping",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Hong Kong Baptist University, Waterloo Road, Kowloon Tong, Hong Kong."
+          }
+        ],
+        "LastName": "Cheung",
+        "ForeName": "William K",
+        "Initials": "WK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Hong Kong Baptist University, Waterloo Road, Kowloon Tong, Hong Kong."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Lu",
+        "Initials": "L"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "HKBU 22201419",
+        "Agency": "Hong Kong Research Grant Council Early Career Scheme",
+        "Country": ""
+      },
+      {
+        "GrantID": "IRCRC/IRCs/17-18/04",
+        "Agency": "HKBU's Interdisciplinary Research Clusters Matching Scheme",
+        "Country": ""
+      },
+      {
+        "GrantID": "2019A1515011046",
+        "Agency": "Guangdong Basic and Applied Basic Research Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "FF_300033",
+        "Agency": "Vanderbilt university development funds",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA-Seq"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Single-Cell Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ]
+}

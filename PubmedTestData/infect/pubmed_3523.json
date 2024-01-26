@@ -1,0 +1,176 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Backward bifurcation",
+      "Coinfection",
+      "ESS",
+      "Host heterogeneity",
+      "SIS model"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28741105",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "07",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "07",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "07",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s11538-017-0320-3"
+    ],
+    "Journal": {
+      "ISSN": "1522-9602",
+      "JournalIssue": {
+        "Volume": "79",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Bulletin of mathematical biology",
+      "ISOAbbreviation": "Bull Math Biol"
+    },
+    "ArticleTitle": "Transmission Fitness in Co-colonization and the Persistence of Bacterial Pathogens.",
+    "Pagination": {
+      "StartPage": "2068",
+      "EndPage": "2087",
+      "MedlinePgn": "2068-2087"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Humans are often colonized by polymorphic bacteria such as Streptococcus pneumoniae, Bordetella pertussis, Staphylococcus Aureus, and Haemophilus influenzae. Two co-colonizing pathogen clones may interact with each other upon host entry and during within-host dynamics, ranging from competition to facilitation. Here we examine the significance of these exploitation strategies for bacterial spread and persistence in host populations. We model SIS epidemiological dynamics to capture the global behavior of such multi-strain systems, focusing on different parameters of single and dual colonization. We analyze the impact of heterogeneity in clearance and transmission rates of single and dual colonization and find the criteria under which these asymmetries enhance endemic persistence. We obtain a backward bifurcation near [Formula: see text] if the reproductive value of the parasite in dually infected hosts is sufficiently higher than that in singly infected ones. In such cases, the parasite is able to persist even in sub-threshold conditions, and reducing the basic reproduction number below 1 would be insufficient for elimination. The fitness superiority in co-colonized hosts can be attained by lowering net parasite clearance rate ([Formula: see text]), by increasing transmission rate ([Formula: see text]), or both, and coupling between these traits critically constrains opportunities of pathogen survival in the [Formula: see text] regime. Finally, using an adaptive dynamics approach, we verify that despite their importance for sub-threshold endemicity, traits expressed exclusively in coinfection should generally evolve independently of single infection traits. In particular, for [Formula: see text] a saturating parabolic or hyperbolic function of [Formula: see text], co-colonization traits evolve to an intermediate optimum (evolutionarily stable strategy, ESS), determined only by host lifespan and the trade-off parameters linking [Formula: see text] and [Formula: see text]. Our study invites more empirical attention to the dynamics and evolution of parasite life-history traits expressed exclusively in coinfection."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Gulbenkian de Ci\u00eancia, Rua da Quinta Grande 6, 2780-156, Oeiras, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Inform\u00e1tica, Faculdade de Ci\u00eancias da Universidade de Lisboa, Campo Grande, 1749-016, Lisbon, Portugal."
+          }
+        ],
+        "LastName": "Gaiv\u00e3o",
+        "ForeName": "Maria",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Gulbenkian de Ci\u00eancia, Rua da Quinta Grande 6, 2780-156, Oeiras, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CE3C - Centre for Ecology, Evolution and Environmental Changes, Faculdade de Ci\u00eancias, Universidade de Lisboa, Campo Grande, 1749-016, Lisbon, Portugal."
+          }
+        ],
+        "LastName": "Dionisio",
+        "ForeName": "Francisco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto Gulbenkian de Ci\u00eancia, Rua da Quinta Grande 6, 2780-156, Oeiras, Portugal. egjini@igc.gulbenkian.pt."
+          }
+        ],
+        "LastName": "Gjini",
+        "ForeName": "Erida",
+        "Initials": "E"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Bull Math Biol",
+    "NlmUniqueID": "0401404",
+    "ISSNLinking": "0092-8240"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Bacteria"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "microbiology",
+        "transmission"
+      ],
+      "DescriptorName": "Bacterial Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Basic Reproduction Number"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biological Evolution"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "microbiology",
+        "transmission"
+      ],
+      "DescriptorName": "Coinfection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematical Concepts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    }
+  ]
+}

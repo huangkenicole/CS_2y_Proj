@@ -1,0 +1,383 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34972825",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41564-021-01029-0"
+    ],
+    "Journal": {
+      "ISSN": "2058-5276",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Nature microbiology",
+      "ISOAbbreviation": "Nat Microbiol"
+    },
+    "ArticleTitle": "Improving local prevalence estimates of SARS-CoV-2 infections using a causal debiasing framework.",
+    "Pagination": {
+      "StartPage": "97",
+      "EndPage": "107",
+      "MedlinePgn": "97-107"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Global and national surveillance of SARS-CoV-2 epidemiology is mostly based on targeted schemes focused on testing individuals with symptoms. These tested groups are often unrepresentative of the wider population and exhibit test positivity rates that are biased upwards compared with the true population prevalence. Such data are routinely used to infer infection prevalence and the effective reproduction number, R<sub>t</sub>, which affects public health policy. Here, we describe a causal framework that provides debiased fine-scale spatiotemporal estimates by combining targeted test counts with data from a randomized surveillance study in the United Kingdom called REACT. Our probabilistic model includes a bias parameter that captures the increased probability of an infected individual being tested, relative to a non-infected individual, and transforms observed test counts to debiased estimates of the true underlying local prevalence and R<sub>t</sub>. We validated our approach on held-out REACT data over a 7-month period. Furthermore, our local estimates of R<sub>t</sub> are indicative of 1-week- and 2-week-ahead changes in SARS-CoV-2-positive case numbers. We also observed increases in estimated local prevalence and R<sub>t</sub> that reflect the spread of the Alpha and Delta variants. Our results illustrate how randomized surveys can augment targeted testing to improve statistical accuracy in monitoring the spread of emerging and ongoing infectious disease."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9588-6075"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Oxford, Oxford, UK. george.nicholson@stats.ox.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK. george.nicholson@stats.ox.ac.uk."
+          }
+        ],
+        "LastName": "Nicholson",
+        "ForeName": "George",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7302-4391"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Oxford, Oxford, UK. b.lehmann@ucl.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK. b.lehmann@ucl.ac.uk."
+          }
+        ],
+        "LastName": "Lehmann",
+        "ForeName": "Brieuc",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre for Environment and Health, Department of Epidemiology and Biostatistics, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Padellini",
+        "ForeName": "Tullia",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7097-8950"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Health Economics Research Centre, Nuffield Department of Population Health, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The National Institute for Health Research Health Protection Research Unit in Healthcare Associated Infections and Antimicrobial Resistance at the University of Oxford, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Pouwels",
+        "ForeName": "Koen B",
+        "Initials": "KB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute, London, UK."
+          }
+        ],
+        "LastName": "Jersakova",
+        "ForeName": "Radka",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute, London, UK."
+          }
+        ],
+        "LastName": "Lomax",
+        "ForeName": "James",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6733-8805"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Harwell Institute, Harwell, UK."
+          }
+        ],
+        "LastName": "King",
+        "ForeName": "Ruairidh E",
+        "Initials": "RE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Harwell Institute, Harwell, UK."
+          }
+        ],
+        "LastName": "Mallon",
+        "ForeName": "Ann-Marie",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CHICAS, Lancaster Medical School, Lancaster University, Lancaster, UK."
+          }
+        ],
+        "LastName": "Diggle",
+        "ForeName": "Peter J",
+        "Initials": "PJ"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1998-492X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Biostatistics Unit, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Richardson",
+        "ForeName": "Sylvia",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre for Environment and Health, Department of Epidemiology and Biostatistics, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Blangiardo",
+        "ForeName": "Marta",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Oxford, Oxford, UK. chris.holmes@stats.ox.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute and Royal Statistical Society Statistical Modelling and Machine Learning Laboratory, London, UK. chris.holmes@stats.ox.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Alan Turing Institute, London, UK. chris.holmes@stats.ox.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Harwell Institute, Harwell, UK. chris.holmes@stats.ox.ac.uk."
+          }
+        ],
+        "LastName": "Holmes",
+        "ForeName": "Chris",
+        "Initials": "C"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "MC_UP_A390_1107",
+        "Agency": "RCUK | Medical Research Council (MRC)",
+        "Country": ""
+      },
+      {
+        "GrantID": "MC_UU_00002/10",
+        "Agency": "RCUK | Medical Research Council (MRC)",
+        "Country": ""
+      },
+      {
+        "GrantID": "MR/S019669/1",
+        "Agency": "RCUK | Medical Research Council (MRC)",
+        "Country": ""
+      },
+      {
+        "GrantID": "EP/R018561/1",
+        "Agency": "RCUK | Engineering and Physical Sciences Research Council (EPSRC)",
+        "Country": ""
+      },
+      {
+        "GrantID": "203141/Z/16/Z",
+        "Agency": "Wellcome Trust (Wellcome)",
+        "Country": ""
+      },
+      {
+        "GrantID": "NIHR200915",
+        "Agency": "Public Health England (PHE)",
+        "Country": ""
+      },
+      {
+        "GrantID": "TU/B/000092",
+        "Agency": "Alan Turing Institute",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Microbiol",
+    "NlmUniqueID": "101674869",
+    "ISSNLinking": "2058-5276"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Basic Reproduction Number"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bias"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Forecasting"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spatio-Temporal Analysis"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United Kingdom"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

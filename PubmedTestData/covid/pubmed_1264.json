@@ -1,0 +1,205 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "computational biology",
+      "epidemiology",
+      "generation interval",
+      "global health",
+      "human",
+      "mitigation",
+      "systems biology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35913120",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "08",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e79134",
+      "10.7554/eLife.79134"
+    ],
+    "Journal": {
+      "ISSN": "2050-084X",
+      "JournalIssue": {
+        "Volume": "11",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug",
+          "Day": "01"
+        }
+      },
+      "Title": "eLife",
+      "ISOAbbreviation": "Elife"
+    },
+    "ArticleTitle": "The unmitigated profile of COVID-19 infectiousness.",
+    "Abstract": {
+      "AbstractText": [
+        "Quantifying the temporal dynamics of infectiousness of individuals infected with SARS-CoV-2 is crucial for understanding the spread of COVID-19 and for evaluating the effectiveness of mitigation strategies. Many studies have estimated the infectiousness profile using observed serial intervals. However, statistical and epidemiological biases could lead to underestimation of the duration of infectiousness. We correct for these biases by curating data from the initial outbreak of the pandemic in China (when mitigation was minimal), and find that the infectiousness profile of the original strain is longer than previously thought. Sensitivity analysis shows our results are robust to model structure, assumed growth rate and potential observational biases. Although unmitigated transmission data is lacking for variants of concern (VOCs), previous analyses suggest that the alpha and delta variants have faster within-host kinetics, which we extrapolate to crude estimates of variant-specific unmitigated generation intervals. Knowing the unmitigated infectiousness profile of infected individuals can inform estimates of the effectiveness of isolation and quarantine measures. The framework presented here can help design better quarantine policies in early stages of future epidemics."
+      ],
+      "CopyrightInformation": "\u00a9 2022, Sender, Bar-On et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1165-9818"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Sender",
+        "ForeName": "Ron",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Bar-On",
+        "ForeName": "Yinon",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolutionary, Princeton University, Princeton, United States."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Sang Woo",
+        "Initials": "SW"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8776-4799"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Noor",
+        "ForeName": "Elad",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0506-4794"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, McMaster University, Hamilton, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, McMaster University, Hamilton, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "M. G. DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton, Canada."
+          }
+        ],
+        "LastName": "Dushoff",
+        "ForeName": "Jonathan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1641-2299"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Milo",
+        "ForeName": "Ron",
+        "Initials": "R"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "CIHR",
+        "Country": "Canada"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Elife",
+    "NlmUniqueID": "101579614",
+    "ISSNLinking": "2050-084X"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "RS, YB, SP, EN, JD, RM No competing interests declared"
+}

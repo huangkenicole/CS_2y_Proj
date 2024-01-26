@@ -1,0 +1,151 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "CART.",
+      "MIRA",
+      "Machine learning",
+      "Rehabilitation",
+      "SOM"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34629147",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.artmed.2021.102151",
+      "S0933-3657(21)00144-5"
+    ],
+    "Journal": {
+      "ISSN": "1873-2860",
+      "JournalIssue": {
+        "Volume": "120",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Artificial intelligence in medicine",
+      "ISOAbbreviation": "Artif Intell Med"
+    },
+    "ArticleTitle": "Optimizing the setting of medical interactive rehabilitation assistant platform to improve the performance of the patients: A case study.",
+    "Pagination": {
+      "StartPage": "102151",
+      "MedlinePgn": "102151"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Tele-rehabilitation is an alternative to the conventional rehabilitation service that helps patients in remote areas to access a service that is practical in terms of logistics and cost, in a controlled environment. It includes the usage of mobile phones or other wireless devices that are applied to rehabilitation exercises. Such applications or software include exercises in the form of virtual games, treatment monitoring based on the rehabilitation progress and data analysis. However, nowadays, physiotherapists use a default profiling setting for patients carrying out rehabilitation, due to lack of information. Medical Interactive Rehabilitation Assistant (MIRA) is a computer-based (virtual reality) rehabilitation platform. The profile setting includes: a level of difficulty, percentage of tolerance and maximum range. To the best of our knowledge, there is a lack of optimization in the parameter values setting of MIRA exergames that could enhance patients' performance. Generally, non-optimal profile setting leads to reduced effectiveness. Therefore, this study aims to develop a method that optimizes the profile setting of each patient according to the estimated (desired) optimal results. The proposed method is developed using unsupervised and supervised machine learning techniques. We use Self-Organizing Map (SOM) to cluster patient records into several distinct clusters. K-fold cross validation is applied to construct the prediction models. Classification And Regression Tree (CART) is utilized to predict the patient's optimal input setting for playing the MIRA games. The combination of these techniques seems to improve the efficiency of the standard (default) way in predicting the optimal settings for exergames. To evaluate the proposed method, we conduct an experiment with data collected from a rehabilitation center. We use three metrics to quantify the quality of the results: R-squared (R<sup>2</sup>), Mean Absolute Error (MAE) and Root Mean Square Error (RMSE). The results of experimental analysis demonstrate that the proposed method is effective in predicting the adequate parameter setting in MIRA platform. The method has potential to be implemented as an intelligent system for MIRA prediction in healthcare. Moreover, the method could be extended to similar platforms for which data is available to train our method on."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021. Published by Elsevier B.V."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Science and Technology, Universiti Sains Islam Malaysia, Nilai, Negeri Sembilan, Malaysia. Electronic address: niya.gharaei@gmail.com."
+          }
+        ],
+        "LastName": "Gharaei",
+        "ForeName": "Niayesh",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Science and Technology, Universiti Sains Islam Malaysia, Nilai, Negeri Sembilan, Malaysia; Information System Study Program, Faculty Science and Technology, Universitas Airlangga, Indonesia Kampus C, Surabaya, Indonesia. Electronic address: waidah@usim.edu.my."
+          }
+        ],
+        "LastName": "Ismail",
+        "ForeName": "Waidah",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Brunel University London, United Kingdom. Electronic address: crina.grosan@brunel.ac.uk."
+          }
+        ],
+        "LastName": "Grosan",
+        "ForeName": "Crina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Information System Study Program, Faculty Science and Technology, Universitas Airlangga, Indonesia Kampus C, Surabaya, Indonesia. Electronic address: rimuljohendradi@fst.unair.ac.id."
+          }
+        ],
+        "LastName": "Hendradi",
+        "ForeName": "Rimuljo",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Artif Intell Med",
+    "NlmUniqueID": "8915031",
+    "ISSNLinking": "0933-3657"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer region detection",
+      "Cancer subtyping",
+      "Computational pathology",
+      "Min-point annotation",
+      "Multi-task learning",
+      "Semi-supervised learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36327654",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "10",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.media.2022.102652",
+      "S1361-8415(22)00280-8"
+    ],
+    "Journal": {
+      "ISSN": "1361-8423",
+      "JournalIssue": {
+        "Volume": "83",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Medical image analysis",
+      "ISOAbbreviation": "Med Image Anal"
+    },
+    "ArticleTitle": "A semi-supervised multi-task learning framework for cancer classification with weak annotation in whole-slide images.",
+    "Pagination": {
+      "StartPage": "102652",
+      "MedlinePgn": "102652"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer region detection (CRD) and subtyping are two fundamental tasks in digital pathology image analysis. The development of data-driven models for CRD and subtyping on whole-slide images\u00a0(WSIs) would mitigate the burden of pathologists and improve their accuracy in diagnosis. However, the existing models are facing two major limitations. Firstly, they typically require large-scale datasets with precise annotations, which contradicts with the original intention of reducing labor effort. Secondly, for the subtyping task, the non-cancerous regions are treated as the same as cancerous regions within a WSI, which confuses a subtyping model in its training process. To tackle the latter limitation, the previous research proposed to perform CRD first for ruling out the non-cancerous region, then train a subtyping model based on the remaining cancerous patches. However, separately training ignores the interaction of these two tasks, also leads to propagating the error of the CRD task to the subtyping task. To address these issues and concurrently improve the performance on both CRD and subtyping tasks, we propose a semi-supervised multi-task learning\u00a0(MTL) framework for cancer classification. Our framework consists of a backbone feature extractor, two task-specific classifiers, and a weight control mechanism. The backbone feature extractor is shared by two task-specific classifiers, such that the interaction of CRD and subtyping tasks can be captured. The weight control mechanism preserves the sequential relationship of these two tasks and guarantees the error back-propagation from the subtyping task to the CRD task under the MTL framework. We train the overall framework in a semi-supervised setting, where datasets only involve small quantities of annotations produced by our minimal point-based\u00a0(min-point) annotation strategy. Extensive experiments on four large datasets with different cancer types demonstrate the effectiveness of the proposed framework in both accuracy and generalization."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China; Shaanxi Provincial Key Laboratory of Big Data Knowledge Engineering, Xi'an Jiaotong University, Xi'an 710049, China."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Zeyu",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China; Shaanxi Provincial Key Laboratory of Big Data Knowledge Engineering, Xi'an Jiaotong University, Xi'an 710049, China."
+          }
+        ],
+        "LastName": "Hong",
+        "ForeName": "Bangyang",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China; Shaanxi Provincial Key Laboratory of Big Data Knowledge Engineering, Xi'an Jiaotong University, Xi'an 710049, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China; Shaanxi Provincial Key Laboratory of Big Data Knowledge Engineering, Xi'an Jiaotong University, Xi'an 710049, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Xianli",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China; Shaanxi Provincial Key Laboratory of Big Data Knowledge Engineering, Xi'an Jiaotong University, Xi'an 710049, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Jialun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China; Department of Pathology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an 710061, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Chunbao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Artificial Intelligence, Xidian University, Xi'an 710071, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Xiangrong",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China; Shaanxi Provincial Key Laboratory of Big Data Knowledge Engineering, Xi'an Jiaotong University, Xi'an 710049, China."
+          }
+        ],
+        "LastName": "Gong",
+        "ForeName": "Tieliang",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tencent Jarvis Lab, Shenzhen, Guangdong 518075, China."
+          }
+        ],
+        "LastName": "Zheng",
+        "ForeName": "Yefeng",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematics and Statistics, Xi'an Jiaotong University, Xi'an 710049, China."
+          }
+        ],
+        "LastName": "Meng",
+        "ForeName": "Deyu",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China; Shaanxi Provincial Key Laboratory of Big Data Knowledge Engineering, Xi'an Jiaotong University, Xi'an 710049, China. Electronic address: cli@xjtu.edu.cn."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Chen",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Med Image Anal",
+    "NlmUniqueID": "9713490",
+    "ISSNLinking": "1361-8415"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Head"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Supervised Machine Learning"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

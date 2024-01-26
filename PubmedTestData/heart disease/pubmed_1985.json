@@ -1,0 +1,201 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35211190",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "02",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "9797844",
+      "10.1155/2022/9797844"
+    ],
+    "Journal": {
+      "ISSN": "1748-6718",
+      "JournalIssue": {
+        "Volume": "2022",
+        "PubDate": {
+          "Year": "2022"
+        }
+      },
+      "Title": "Computational and mathematical methods in medicine",
+      "ISOAbbreviation": "Comput Math Methods Med"
+    },
+    "ArticleTitle": "Automated Cardioailment Identification and Prevention by Hybrid Machine Learning Models.",
+    "Pagination": {
+      "StartPage": "9797844",
+      "MedlinePgn": "9797844"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Accurate prediction of cardiovascular disease is necessary and considered to be a difficult attempt to treat a patient effectively before a heart attack occurs. According to recent studies, heart disease is said to be one of the leading origins of death worldwide. Early identification of CHD can assist to reduce death rates. When it comes to prediction using traditional methodologies, the difficulty arises in the intricacy of the data and relationships. This research is aimed at applying recent machine learning technology to identify heart disease from past medical data to uncover correlations in data that can greatly improve the accuracy of prediction rates using various machine learning models. Models have been implemented using naive Bayes, random forest algorithms, and the combinations of two models such as naive Bayes and random forest methods. These methods offer numerous attributes associated with heart disease. This proposed system foresees the chance of rising heart disease. The proposed system uses 14 parameters such as age, sex, quick blood sugar, chest discomfort, and other medical parameters which are used in the proposed system. Our proposed systems find the probability of developing heart disease in percentages as well as the accuracy level (accuracy of 93%). Finally, this proposed method will support the doctors to analyze the heart patients competently."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 K. S. Archana et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, Vels Institute of Science, Technology & Advanced Studies (VISTAS), Chennai, India."
+          }
+        ],
+        "LastName": "Archana",
+        "ForeName": "K S",
+        "Initials": "KS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computing Technologies, School of Computing, SRM Institute of Science and Technology, Kattankulathur, Chennai, India."
+          }
+        ],
+        "LastName": "Sivakumar",
+        "ForeName": "B",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1249-906X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Electronics Engineering, Sri Sairam College of Engineering, City, 562 106, Bangalore, India."
+          }
+        ],
+        "LastName": "Kuppusamy",
+        "ForeName": "Ramya",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4297-3460"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronic and Electrical Engineering, The University of Sheffield, Sheffield, S1 3JD, UK."
+          }
+        ],
+        "LastName": "Teekaraman",
+        "ForeName": "Yuvaraja",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3700-2491"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Electrical & Computer Engineering, Jimma Institute of Technology, Jimma University, Ethiopia."
+          }
+        ],
+        "LastName": "Radhakrishnan",
+        "ForeName": "Arun",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Math Methods Med",
+    "NlmUniqueID": "101277751",
+    "ISSNLinking": "1748-670X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Diagnosis, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heart Disease Risk Factors"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "etiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Cardiovascular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflicts of interest."
+}

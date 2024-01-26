@@ -1,0 +1,265 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "aptamer",
+      "biosensing",
+      "electrochemistry",
+      "wastewater testing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36926840",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "03",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acssensors.2c02655"
+    ],
+    "Journal": {
+      "ISSN": "2379-3694",
+      "JournalIssue": {
+        "Volume": "8",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Apr",
+          "Day": "28"
+        }
+      },
+      "Title": "ACS sensors",
+      "ISOAbbreviation": "ACS Sens"
+    },
+    "ArticleTitle": "Integrating Water Purification with Electrochemical Aptamer Sensing for Detecting SARS-CoV-2 in Wastewater.",
+    "Pagination": {
+      "StartPage": "1558",
+      "EndPage": "1567",
+      "MedlinePgn": "1558-1567"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Wastewater analysis of pathogens, particularly SARS-CoV-2, is instrumental in tracking and monitoring infectious diseases in a population. This method can be used to generate early warnings regarding the onset of an infectious disease and predict the associated infection trends. Currently, wastewater analysis of SARS-CoV-2 is almost exclusively performed using polymerase chain reaction for the amplification-based detection of viral RNA at centralized laboratories. Despite the development of several biosensing technologies offering point-of-care solutions for analyzing SARS-CoV-2 in clinical samples, these remain elusive for wastewater analysis due to the low levels of the virus and the interference caused by the wastewater matrix. Herein, we integrate an aptamer-based electrochemical chip with a filtration, purification, and extraction (FPE) system for developing an alternate in-field solution for wastewater analysis. The sensing chip employs a dimeric aptamer, which is universally applicable to the wild-type, alpha, delta, and omicron variants of SARS-CoV-2. We demonstrate that the aptamer is stable in the wastewater matrix (diluted to 50%) and its binding affinity is not significantly impacted. The sensing chip demonstrates a limit of detection of 1000 copies/L (1 copy/mL), enabled by the amplification provided by the FPE system. This allows the integrated system to detect trace amounts of the virus in native wastewater and categorize the amount of contamination into trace (<10 copies/mL), medium (10-1000 copies/mL), or high (>1000 copies/mL) levels, providing a viable wastewater analysis solution for in-field use."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Engineering Physics, McMaster University, Hamilton L8S 4K1, Canada."
+          }
+        ],
+        "LastName": "Sen",
+        "ForeName": "Payel",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biomedical Sciences, McMaster University, Hamilton L8S 4K1, Canada."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Zijie",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, McMaster University, Hamilton L8S 4K1, Canada."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Phoebe",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Engineering Physics, McMaster University, Hamilton L8S 4K1, Canada."
+          }
+        ],
+        "LastName": "Adhikari",
+        "ForeName": "Bal Ram",
+        "Initials": "BR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Forsee Instruments, Ltd., Hamilton L8P0A1, Canada."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Tianyi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biomedical Sciences, McMaster University, Hamilton L8S 4K1, Canada."
+          }
+        ],
+        "LastName": "Gu",
+        "ForeName": "Jimmy",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zentek, Guelph N1G 5G5, Canada."
+          }
+        ],
+        "LastName": "MacIntosh",
+        "ForeName": "Adam R",
+        "Initials": "AR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zentek, Guelph N1G 5G5, Canada."
+          }
+        ],
+        "LastName": "van der Kuur",
+        "ForeName": "Colin",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7533-6743"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biomedical Sciences, McMaster University, Hamilton L8S 4K1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, McMaster University, Hamilton L8S 4K1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Michael G. DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton L8S 4K1, Canada."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yingfu",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4915-2999"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Engineering Physics, McMaster University, Hamilton L8S 4K1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, McMaster University, Hamilton L8S 4K1, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Michael G. DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton L8S 4K1, Canada."
+          }
+        ],
+        "LastName": "Soleymani",
+        "ForeName": "Leyla",
+        "Initials": "L"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "ACS Sens",
+    "NlmUniqueID": "101669031",
+    "ISSNLinking": "2379-3694"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Wastewater"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Oligonucleotides"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wastewater"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oligonucleotides"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Water Purification"
+    }
+  ]
+}

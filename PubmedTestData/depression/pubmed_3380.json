@@ -1,0 +1,190 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26471992",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "07",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "10",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "88",
+      "10.1186/s12874-015-0080-4"
+    ],
+    "Journal": {
+      "ISSN": "1471-2288",
+      "JournalIssue": {
+        "Volume": "15",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Oct",
+          "Day": "15"
+        }
+      },
+      "Title": "BMC medical research methodology",
+      "ISOAbbreviation": "BMC Med Res Methodol"
+    },
+    "ArticleTitle": "Decomposing the heterogeneity of depression at the person-, symptom-, and time-level: latent variable models versus multimode principal component analysis.",
+    "Pagination": {
+      "StartPage": "88",
+      "MedlinePgn": "88"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Heterogeneity of psychopathological concepts such as depression hampers progress in research and clinical practice. Latent Variable Models (LVMs) have been widely used to reduce this problem by identification of more homogeneous factors or subgroups. However, heterogeneity exists at multiple levels (persons, symptoms, time) and LVMs cannot capture all these levels and their interactions simultaneously, which leads to incomplete models. Our objective is to briefly review the most widely used LVMs in depression research, illustrating their use and incompatibility in real data, and to consider an alternative, statistical approach, namely multimode principal component analysis (MPCA).",
+        "We applied LVMs to data from 147 patients, who filled out the Quick Inventory of Depressive Symptomatology (QIDS) at 9 time points. Compatibility of the results and suitability of the LVMs to capture the heterogeneity of the data were evaluated. Alternatively, MPCA was used to simultaneously decompose depression on the person-, symptom- and time-level and to investigate the interactions between these levels.",
+        "QIDS-data could be decomposed on the person-level (2 classes), symptom-level (2 factors) and time-level (2 trajectory-classes). However, these results could not be integrated into a single model. Instead, MPCA allowed for decomposition of the data at the person- (3 components), symptom- (2 components) and time-level (2 components) and for the investigation of these components' interactions.",
+        "Traditional LVMs have limited use when trying to define an integrated model of depression heterogeneity at the person, symptom and time level. More integrative statistical techniques such as MPCA can be used to address these relatively complex data patterns and could be used in future attempts to identify empirically-based subtypes/phenotypes of depression."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Groningen, University Medical Center Groningen, Interdisciplinary Center Psychopathology and Emotion regulation (ICPE), (internal mail CC-72), P.O. Box 30.001, 9700 RB, Groningen, The Netherlands. s.de.vos@umcg.nl."
+          }
+        ],
+        "LastName": "de Vos",
+        "ForeName": "Stijn",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Groningen, University Medical Center Groningen, Interdisciplinary Center Psychopathology and Emotion regulation (ICPE), (internal mail CC-72), P.O. Box 30.001, 9700 RB, Groningen, The Netherlands. k.j.wardenaar@umcg.nl."
+          }
+        ],
+        "LastName": "Wardenaar",
+        "ForeName": "Klaas J",
+        "Initials": "KJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Groningen, University Medical Center Groningen, Interdisciplinary Center Psychopathology and Emotion regulation (ICPE), (internal mail CC-72), P.O. Box 30.001, 9700 RB, Groningen, The Netherlands. elske.bos@umcg.nl."
+          }
+        ],
+        "LastName": "Bos",
+        "ForeName": "Elisabeth H",
+        "Initials": "EH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Groningen, Johann Bernoulli Institute of Mathematics and Computer Science, Groningen, The Netherlands. e.c.wit@rug.nl."
+          }
+        ],
+        "LastName": "Wit",
+        "ForeName": "Ernst C",
+        "Initials": "EC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Groningen, University Medical Center Groningen, Interdisciplinary Center Psychopathology and Emotion regulation (ICPE), (internal mail CC-72), P.O. Box 30.001, 9700 RB, Groningen, The Netherlands. peter.de.jonge@umcg.nl."
+          }
+        ],
+        "LastName": "de Jonge",
+        "ForeName": "Peter",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med Res Methodol",
+    "NlmUniqueID": "100968545",
+    "ISSNLinking": "1471-2288"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Personality Assessment"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Principal Component Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Severity of Illness Index"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Surveys and Questionnaires"
+    }
+  ]
+}

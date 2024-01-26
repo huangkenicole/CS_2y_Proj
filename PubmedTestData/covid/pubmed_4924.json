@@ -1,0 +1,176 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Clade",
+      "Deleterious mutations",
+      "Non-Synonymous Signature SNP",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34547443",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.ymeth.2021.09.005",
+      "S1046-2023(21)00219-X"
+    ],
+    "Journal": {
+      "ISSN": "1095-9130",
+      "JournalIssue": {
+        "Volume": "203",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Methods (San Diego, Calif.)",
+      "ISOAbbreviation": "Methods"
+    },
+    "ArticleTitle": "Characterisation of SARS-CoV-2 clades based on signature SNPs unveils continuous evolution.",
+    "Pagination": {
+      "StartPage": "282",
+      "EndPage": "296",
+      "MedlinePgn": "282-296"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Since the emergence of SARS-CoV-2 in Wuhan, China more than a year ago, it has spread across the world in a very short span of time. Although, different forms of vaccines are being rolled out for vaccination programs around the globe, the mutation of the virus is still a cause of concern among the research communities. Hence, it is important to study the constantly evolving virus and its strains in order to provide a much more stable form of cure. This fact motivated us to conduct this research where we have initially carried out multiple sequence alignment of 15359 and 3033 global dataset without Indian and the dataset of exclusive Indian SARS-CoV-2 genomes respectively, using MAFFT. Subsequently, phylogenetic analyses are performed using Nextstrain to identify virus clades. Consequently, the virus strains are found to be distributed among 5 major clades or clusters viz. 19A, 19B, 20A, 20B and 20C. Thereafter, mutation points as SNPs are identified in each clade. Henceforth, from each clade top 10 signature SNPs are identified based on their frequency i.e. number of occurrences in the virus genome. As a result, 50 such signature SNPs are individually identified for global dataset without Indian and dataset of exclusive Indian SARS-CoV-2 genomes respectively. Out of each 50 signature SNPs, 39 and 41 unique SNPs are identified among which 25 non-synonymous signature SNPs (out of 39) resulted in 30 amino acid changes in protein while 27 changes in amino acid are identified from 22 non-synonymous signature SNPs (out of 41). These 30 and 27 amino acid changes for the non-synonymous signature SNPs are visualised in their respective protein structure as well. Finally, in order to judge the characteristics of the identified clades, the non-synonymous signature SNPs are considered to evaluate the changes in proteins as biological functions with the sequences using PROVEAN and PolyPhen-2 while I-Mutant 2.0 is used to evaluate their structural stability. As a consequence, for global dataset without Indian sequences, G251V in ORF3a in clade 19A, F308Y and G196V in NSP4 and ORF3a in 19B are the unique amino acid changes which are responsible for defining each clade as they are all deleterious and unstable. Such changes which are common for both global dataset without Indian and dataset of exclusive Indian sequences are R203M in Nucleocapsid for 20B, T85I and Q57H in NSP2 and ORF3a respectively for 20C while for exclusive Indian sequences such unique changes are A97V in RdRp, G339S and G339C in NSP2 in 19A and Q57H in ORF3a in 20A."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Information Technology, Institute of Technical Education and Research, Siksha 'O' Anusandhan (Deemed to be University), Bhubaneswar, Odisha, India; Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, Warsaw, Poland."
+          }
+        ],
+        "LastName": "Ghosh",
+        "ForeName": "Nimisha",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, National Institute of Technical Teachers' Training and Research, Kolkata, West Bengal, India. Electronic address: indrajit@nitttrkol.ac.in."
+          }
+        ],
+        "LastName": "Saha",
+        "ForeName": "Indrajit",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, National Institute of Technical Teachers' Training and Research, Kolkata, West Bengal, India."
+          }
+        ],
+        "LastName": "Nandi",
+        "ForeName": "Suman",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics and Communication Engineering, Jaypee Institute of Information Technology, Noida, Uttar Pradesh, India."
+          }
+        ],
+        "LastName": "Sharma",
+        "ForeName": "Nikhil",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Methods",
+    "NlmUniqueID": "9426302",
+    "ISSNLinking": "1046-2023"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Amino Acids"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Amino Acids"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymorphism, Single Nucleotide"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

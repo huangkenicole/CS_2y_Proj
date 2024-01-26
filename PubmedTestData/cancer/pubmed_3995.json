@@ -1,0 +1,160 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31831779",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "11",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "12",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "18940",
+      "10.1038/s41598-019-55300-w"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "9",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Dec",
+          "Day": "12"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Elucidating the correlations between cancer initiation times and lifetime cancer risks.",
+    "Pagination": {
+      "StartPage": "18940",
+      "MedlinePgn": "18940"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer is a genetic disease that results from accumulation of unfavorable mutations. As soon as genetic and epigenetic modifications associated with these mutations become strong enough, the uncontrolled tumor cell growth is initiated, eventually spreading through healthy tissues. Clarifying the dynamics of cancer initiation is thus critically important for understanding the molecular mechanisms of tumorigenesis. Here we present a new theoretical method to evaluate the dynamic processes associated with the cancer initiation. It is based on a discrete-state stochastic description of the formation of tumors as a fixation of cancerous mutations in tissues. Using a first-passage analysis the probabilities for the cancer to appear and the times before it happens, which are viewed as fixation probabilities and fixation times, respectively, are explicitly calculated. It is predicted that the slowest cancer initiation dynamics is observed for neutral mutations, while it is fast for both advantageous and, surprisingly, disadvantageous mutations. The method is applied for estimating the cancer initiation times from experimentally available lifetime cancer risks for different types of cancer. It is found that the higher probability of the cancer to occur does not necessary lead to the faster times of starting the cancer. Our theoretical analysis helps to clarify microscopic aspects of cancer initiation processes."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, Rice University, Houston, TX, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Theoretical Biological Physics, Rice University, Houston, TX, United States."
+          }
+        ],
+        "LastName": "Teimouri",
+        "ForeName": "Hamid",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering and Systems Biology Institute, Yale University, West Haven, CT, United States."
+          }
+        ],
+        "LastName": "Kochugaeva",
+        "ForeName": "Maria P",
+        "Initials": "MP"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5677-6690"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, Rice University, Houston, TX, United States. tolya@rice.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Theoretical Biological Physics, Rice University, Houston, TX, United States. tolya@rice.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical and Biomolecular Engineering, Rice University, Houston, TX, United States. tolya@rice.edu."
+          }
+        ],
+        "LastName": "Kolomeisky",
+        "ForeName": "Anatoly B",
+        "Initials": "AB"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Cell Transformation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

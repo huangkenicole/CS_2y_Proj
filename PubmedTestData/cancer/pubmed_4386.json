@@ -1,0 +1,191 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29099721",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "01",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "12",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1088/1361-6560/aa983a"
+    ],
+    "Journal": {
+      "ISSN": "1361-6560",
+      "JournalIssue": {
+        "Volume": "63",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Dec",
+          "Day": "14"
+        }
+      },
+      "Title": "Physics in medicine and biology",
+      "ISOAbbreviation": "Phys Med Biol"
+    },
+    "ArticleTitle": "Automated detection of breast cancer in resected specimens with fluorescence lifetime imaging.",
+    "Pagination": {
+      "StartPage": "015003",
+      "MedlinePgn": "015003"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Re-excision rates for breast cancer lumpectomy procedures are currently nearly 25% due to surgeons relying on inaccurate or incomplete methods of evaluating specimen margins. The objective of this study was to determine if cancer could be automatically detected in breast specimens from mastectomy and lumpectomy procedures by a classification algorithm that incorporated parameters derived from fluorescence lifetime imaging (FLIm). This study generated a database of co-registered histologic sections and FLIm data from breast cancer specimens (N\u2009\u2009=\u2009\u200920) and a support vector machine (SVM) classification algorithm able to automatically detect cancerous, fibrous, and adipose breast tissue. Classification accuracies were greater than 97% for automated detection of cancerous, fibrous, and adipose tissue from breast cancer specimens. The classification worked equally well for specimens scanned by hand or with a mechanical stage, demonstrating that the system could be used during surgery or on excised specimens. The ability of this technique to simply discriminate between cancerous and normal breast tissue, in particular to distinguish fibrous breast tissue from tumor, which is notoriously challenging for optical techniques, leads to the conclusion that FLIm has great potential to assess breast cancer margins. Identification of positive margins before waiting for complete histologic analysis could significantly reduce breast cancer re-excision rates."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering Department, University of California, Davis, CA 95616, United States of America."
+          }
+        ],
+        "LastName": "Phipps",
+        "ForeName": "Jennifer E",
+        "Initials": "JE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gorpas",
+        "ForeName": "Dimitris",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Unger",
+        "ForeName": "Jakob",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Darrow",
+        "ForeName": "Morgan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bold",
+        "ForeName": "Richard J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Marcu",
+        "ForeName": "Laura",
+        "Initials": "L"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 CA093373",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 CA187427",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Phys Med Biol",
+    "NlmUniqueID": "0401220",
+    "ISSNLinking": "0031-9155"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Adipose Tissue"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology",
+        "surgery"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Fibrosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fluorescence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mastectomy, Segmental"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Optical Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ]
+}

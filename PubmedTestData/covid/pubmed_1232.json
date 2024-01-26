@@ -1,0 +1,356 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33637820",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4802",
+      "10.1038/s41598-021-82850-9"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "26"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Hospitalization and mortality associated with SARS-CoV-2 viral clades in COVID-19.",
+    "Pagination": {
+      "StartPage": "4802",
+      "MedlinePgn": "4802"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 epidemic of 2019-20 is due to the novel coronavirus SARS-CoV-2. Following first case description in December, 2019 this virus has infected over 10 million individuals and resulted in at least 500,000 deaths world-wide. The virus is undergoing rapid mutation, with two major clades of sequence variants emerging. This study sought to determine whether SARS-CoV-2 sequence variants are associated with differing outcomes among COVID-19 patients in a single medical system. Whole genome SARS-CoV-2 RNA sequence was obtained from isolates collected from patients registered in the University of Washington Medicine health system between March 1 and April 15, 2020. Demographic and baseline clinical characteristics of patients and their outcome data including their hospitalization and death were collected. Statistical and machine learning models were applied to determine if viral genetic variants were associated with specific outcomes of hospitalization or death. Full length SARS-CoV-2 sequence was obtained 190 subjects with clinical outcome data. 35 (18.4%) were hospitalized and 14 (7.4%) died from complications of infection. A total of 289 single nucleotide variants were identified. Clustering methods demonstrated two major viral clades, which could be readily distinguished by 12 polymorphisms in 5 genes. A trend toward higher rates of hospitalization of patients with Clade 2 infections was observed (p\u2009=\u20090.06, Fisher's exact). Machine learning models utilizing patient demographics and co-morbidities achieved area-under-the-curve (AUC) values of 0.93 for predicting hospitalization. Addition of viral clade or sequence information did not significantly improve models for outcome prediction. In summary,\u00a0SARS-CoV-2 shows substantial sequence diversity in a community-based sample. Two dominant clades of virus are in circulation. Among patients sufficiently ill to warrant testing for virus, no significant difference in outcomes of hospitalization or death could be discerned between clades in this sample. Major risk factors for hospitalization and death for either major clade of virus include patient age and comorbid conditions."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ophthalmology, University of Washington School of Medicine, 325 9th Avenue, Campus Box 359608, Seattle, WA, 98104, USA."
+          }
+        ],
+        "LastName": "Nakamichi",
+        "ForeName": "Kenji",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington School of Medicine, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Jolie Z",
+        "Initials": "JZ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ophthalmology, University of Washington School of Medicine, 325 9th Avenue, Campus Box 359608, Seattle, WA, 98104, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Cecilia S",
+        "Initials": "CS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ophthalmology, University of Washington School of Medicine, 325 9th Avenue, Campus Box 359608, Seattle, WA, 98104, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Aaron",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Washington School of Medicine, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Roberts",
+        "ForeName": "Emma A",
+        "Initials": "EA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Simonson",
+        "ForeName": "Paul D",
+        "Initials": "PD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Roychoudhury",
+        "ForeName": "Pavitra",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Andriesen",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Randhawa",
+        "ForeName": "April K",
+        "Initials": "AK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Mathias",
+        "ForeName": "Patrick C",
+        "Initials": "PC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Greninger",
+        "ForeName": "Alex L",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Jerome",
+        "ForeName": "Keith R",
+        "Initials": "KR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ophthalmology, University of Washington School of Medicine, 325 9th Avenue, Campus Box 359608, Seattle, WA, 98104, USA. russvg@uw.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine and Pathology, University of Washington, Seattle, WA, USA. russvg@uw.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Structure, University of Washington, Seattle, WA, USA. russvg@uw.edu."
+          }
+        ],
+        "LastName": "Van Gelder",
+        "ForeName": "Russell N",
+        "Initials": "RN"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 AG060942",
+        "Acronym": "AG",
+        "Agency": "NIA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30EY001730",
+        "Acronym": "EY",
+        "Agency": "NEI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "Unrestricted Departmental Grant",
+        "Agency": "Research to Prevent Blindness",
+        "Country": ""
+      },
+      {
+        "GrantID": "K23 EY029246",
+        "Acronym": "EY",
+        "Agency": "NEI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2020 Sep 25;:",
+      "PMID": "32995827"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "mortality",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hospitalization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis, RNA"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

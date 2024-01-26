@@ -1,0 +1,291 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "AI",
+      "Depression",
+      "EEG",
+      "fNIRS",
+      "neurofeedback therapy",
+      "smartphone",
+      "virtual therapy assistant",
+      "wearables"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37869798",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3233/SHTI230731"
+    ],
+    "Journal": {
+      "ISSN": "1879-8365",
+      "JournalIssue": {
+        "Volume": "309",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct",
+          "Day": "20"
+        }
+      },
+      "Title": "Studies in health technology and informatics",
+      "ISOAbbreviation": "Stud Health Technol Inform"
+    },
+    "ArticleTitle": "Developing Advanced AI Ecosystems to Enhance Diagnosis and Care for Patients with Depression.",
+    "Pagination": {
+      "StartPage": "18",
+      "EndPage": "22",
+      "MedlinePgn": "18-22"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Major Depressive Disorder (MDD) has a significant impact on the daily lives of those affected. This concept paper presents a project that aims at addressing MDD challenges through innovative therapy systems. The project consists of two use cases: a multimodal neurofeedback (NFB) therapy and an AI-based virtual therapy assistant (VTA). The multimodal NFB integrates EEG and fNIRS to comprehensively assess brain function. The goal is to develop an open-source NFB toolbox for EEG-fNIRS integration, augmented by the VTA for optimized efficacy. The VTA will be able to collect behavioral data, provide personalized feedback and support MDD patients in their daily lives. This project aims to improve depression treatment by bringing together digital therapy, AI and mobile apps to potentially improve outcomes and accessibility for people living with depression."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "R&D Division Health, OFFIS e.V., Oldenburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department for Psychiatry, Psychotherapy and Psychosomatics, RWTH University Hospital Aachen, Germany."
+          }
+        ],
+        "LastName": "Klein",
+        "ForeName": "Franziska",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "R&D Division Health, OFFIS e.V., Oldenburg, Germany."
+          }
+        ],
+        "LastName": "M\u00fcller-Von Aschwege",
+        "ForeName": "Frerk",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "R&D Division Health, OFFIS e.V., Oldenburg, Germany."
+          }
+        ],
+        "LastName": "Elfert",
+        "ForeName": "Patrick",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "R&D Division Health, OFFIS e.V., Oldenburg, Germany."
+          }
+        ],
+        "LastName": "R\u00e4ker",
+        "ForeName": "Julien",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, University Hospital Bonn, Germany."
+          }
+        ],
+        "LastName": "Philipsen",
+        "ForeName": "Alexandra",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, University Hospital Bonn, Germany."
+          }
+        ],
+        "LastName": "Braun",
+        "ForeName": "Niclas",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, University Hospital Bonn, Germany."
+          }
+        ],
+        "LastName": "Selaskowski",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, University Hospital Bonn, Germany."
+          }
+        ],
+        "LastName": "Wiebe",
+        "ForeName": "Annika",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, University Hospital Bonn, Germany."
+          }
+        ],
+        "LastName": "Guth",
+        "ForeName": "Matthias",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Science, BEE Medic GmbH, Singen, Germany."
+          }
+        ],
+        "LastName": "Spallek",
+        "ForeName": "Johannes",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Science, BEE Medic GmbH, Singen, Germany."
+          }
+        ],
+        "LastName": "Seuss",
+        "ForeName": "Sigrid",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research and Innovation Department, Ascora GmbH, Ganderkesee, Germany."
+          }
+        ],
+        "LastName": "Storey",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Materna Information & Communications SE, Dortmund, Germany."
+          }
+        ],
+        "LastName": "Geppert",
+        "ForeName": "Leo N",
+        "Initials": "LN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Materna Information & Communications SE, Dortmund, Germany."
+          }
+        ],
+        "LastName": "L\u00fcck",
+        "ForeName": "Ingo",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "R&D Division Health, OFFIS e.V., Oldenburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Assistance Systems and Medical Technology, University of Oldenburg, Germany."
+          }
+        ],
+        "LastName": "Hein",
+        "ForeName": "Andreas",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Stud Health Technol Inform",
+    "NlmUniqueID": "9214582",
+    "ISSNLinking": "0926-9630"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neurofeedback"
+    }
+  ]
+}

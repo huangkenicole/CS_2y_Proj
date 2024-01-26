@@ -1,0 +1,141 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37138014",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "05",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "7173",
+      "10.1038/s41598-023-34294-6"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May",
+          "Day": "03"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Heart disease risk factors detection from electronic health records using advanced NLP and deep learning techniques.",
+    "Pagination": {
+      "StartPage": "7173",
+      "MedlinePgn": "7173"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Heart disease remains the major cause of death, despite recent improvements in prediction and prevention. Risk factor identification is the main step in diagnosing and preventing heart disease. Automatically detecting risk factors for heart disease in clinical notes can help with disease progression modeling and clinical decision-making. Many studies have attempted to detect risk factors for heart disease, but none have identified all risk factors. These studies have proposed hybrid systems that combine knowledge-driven and data-driven techniques, based on dictionaries, rules, and machine learning methods that require significant human effort. The National Center for Informatics for Integrating Biology and Beyond (i2b2) proposed a clinical natural language processing (NLP) challenge in 2014, with a track (track2) focused on detecting risk factors for heart disease risk factors in clinical notes over time. Clinical narratives provide a wealth of information that can be extracted using NLP and Deep Learning techniques. The objective of this paper is to improve on previous work in this area as part of the 2014 i2b2 challenge by identifying tags and attributes relevant to disease diagnosis, risk factors, and medications by providing advanced techniques of using stacked word embeddings. The i2b2 heart disease risk factors challenge dataset has shown significant improvement by using the approach of stacking embeddings, which combines various embeddings. Our model achieved an F1 score of 93.66% by using BERT and character embeddings (CHARACTER-BERT Embedding) stacking. The proposed model has significant results compared to all other models and systems that we developed for the 2014 i2b2 challenge."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Computers and Information, Minia University, Minia, Egypt. essam.halim@mu.edu.eg."
+          }
+        ],
+        "LastName": "Houssein",
+        "ForeName": "Essam H",
+        "Initials": "EH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Computers and Information, Minia University, Minia, Egypt."
+          }
+        ],
+        "LastName": "Mohamed",
+        "ForeName": "Rehab E",
+        "Initials": "RE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Computers and Information, Minia University, Minia, Egypt."
+          }
+        ],
+        "LastName": "Ali",
+        "ForeName": "Abdelmgeid A",
+        "Initials": "AA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electronic Health Records"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Natural Language Processing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heart Disease Risk Factors"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Heart Diseases"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

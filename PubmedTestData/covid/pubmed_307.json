@@ -1,0 +1,275 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33626040",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0243185",
+      "10.1371/journal.pone.0243185"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Detecting SARS-CoV-2 variants with SNP genotyping.",
+    "Pagination": {
+      "StartPage": "e0243185",
+      "MedlinePgn": "e0243185"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Tracking genetic variations from positive SARS-CoV-2 samples yields crucial information about the number of variants circulating in an outbreak and the possible lines of transmission but sequencing every positive SARS-CoV-2 sample would be prohibitively costly for population-scale test and trace operations. Genotyping is a rapid, high-throughput and low-cost alternative for screening positive SARS-CoV-2 samples in many settings. We have designed a SNP identification pipeline to identify genetic variation using sequenced SARS-CoV-2 samples. Our pipeline identifies a minimal marker panel that can define distinct genotypes. To evaluate the system, we developed a genotyping panel to detect variants-identified from SARS-CoV-2 sequences surveyed between March and May 2020 and tested this on 50 stored qRT-PCR positive SARS-CoV-2 clinical samples that had been collected across the South West of the UK in April 2020. The 50 samples split into 15 distinct genotypes and there was a 61.9% probability that any two randomly chosen samples from our set of 50 would have a distinct genotype. In a high throughput laboratory, qRT-PCR positive samples pooled into 384-well plates could be screened with a marker panel at a cost of < \u00a31.50 per sample. Our results demonstrate the usefulness of a SNP genotyping panel to provide a rapid, cost-effective, and reliable way to monitor SARS-CoV-2 variants circulating in an outbreak. Our analysis pipeline is publicly available and will allow for marker panels to be updated periodically as viral genotypes arise or disappear from circulation."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6683-6148"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, University of Bristol, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Harper",
+        "ForeName": "Helen",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0140-5523"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, University of Bristol, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Burridge",
+        "ForeName": "Amanda",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, University of Bristol, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Winfield",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Cellular and Molecular Medicine, University of Bristol, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Finn",
+        "ForeName": "Adam",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Cellular and Molecular Medicine, University of Bristol, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Davidson",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Cellular and Molecular Medicine, University of Bristol, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Matthews",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6670-8832"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PHE South West Regional Laboratory, Southmead Hospital, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Hutchings",
+        "ForeName": "Stephanie",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PHE South West Regional Laboratory, Southmead Hospital, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Vipond",
+        "ForeName": "Barry",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "3CR Bioscience Limited, West Point Business Park, Essex, United Kingdom."
+          }
+        ],
+        "LastName": "Jain",
+        "ForeName": "Nisha",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "COVID-19 Genomics UK (COG-UK) Consortium"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, University of Bristol, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Edwards",
+        "ForeName": "Keith",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, University of Bristol, Bristol, United Kingdom."
+          }
+        ],
+        "LastName": "Barker",
+        "ForeName": "Gary",
+        "Initials": "G"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "MC_PC_19027",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MR/V027506/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Variation"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genotyping Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymorphism, Single Nucleotide"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United Kingdom"
+    }
+  ],
+  "CoiStatement": "Co-author, Nisha Jain, is the Operations Director for 3CR Bioscience Limited. This does not alter our adherence to PLOS ONE policies on sharing data and materials. All remaining authors have declared that no competing interests exist."
+}

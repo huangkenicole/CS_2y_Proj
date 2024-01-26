@@ -1,0 +1,141 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "cancer",
+      "gene network",
+      "landscape",
+      "path"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25232051",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "05",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "20140774",
+      "10.1098/rsif.2014.0774"
+    ],
+    "Journal": {
+      "ISSN": "1742-5662",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "100",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Nov",
+          "Day": "06"
+        }
+      },
+      "Title": "Journal of the Royal Society, Interface",
+      "ISOAbbreviation": "J R Soc Interface"
+    },
+    "ArticleTitle": "Quantifying the underlying landscape and paths of cancer.",
+    "Pagination": {
+      "StartPage": "20140774",
+      "MedlinePgn": "20140774"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer is a disease regulated by the underlying gene networks. The emergence of normal and cancer states as well as the transformation between them can be thought of as a result of the gene network interactions and associated changes. We developed a global potential landscape and path framework to quantify cancer and associated processes. We constructed a cancer gene regulatory network based on the experimental evidences and uncovered the underlying landscape. The resulting tristable landscape characterizes important biological states: normal, cancer and apoptosis. The landscape topography in terms of barrier heights between stable state attractors quantifies the global stability of the cancer network system. We propose two mechanisms of cancerization: one is by the changes of landscape topography through the changes in regulation strengths of the gene networks. The other is by the fluctuations that help the system to go over the critical barrier at fixed landscape topography. The kinetic paths from least action principle quantify the transition processes among normal state, cancer state and apoptosis state. The kinetic rates provide the quantification of transition speeds among normal, cancer and apoptosis attractors. By the global sensitivity analysis of the gene network parameters on the landscape topography, we uncovered some key gene regulations determining the transitions between cancer and normal states. This can be used to guide the design of new anti-cancer tactics, through cocktail strategy of targeting multiple key regulation links simultaneously, for preventing cancer occurrence or transforming the early cancer state back to normal state."
+      ],
+      "CopyrightInformation": "\u00a9 2014 The Author(s) Published by the Royal Society. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9127-3930"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, State University of New York at Stony Brook, Stony Brook, NY, USA Department of Physics, State University of New York at Stony Brook, Stony Brook, NY, USA."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Chunhe",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, State University of New York at Stony Brook, Stony Brook, NY, USA Department of Physics, State University of New York at Stony Brook, Stony Brook, NY, USA State Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, People's Republic of China jin.wang.1@stonybrook.edu."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Jin",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J R Soc Interface",
+    "NlmUniqueID": "101217269",
+    "ISSNLinking": "1742-5662"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Apoptosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "biosynthesis",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

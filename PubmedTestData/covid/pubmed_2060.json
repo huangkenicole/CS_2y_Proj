@@ -1,0 +1,366 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33174605",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa1007"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "OMA orthology in 2021: website overhaul, conserved isoforms, ancestral gene order and more.",
+    "Pagination": {
+      "StartPage": "D373",
+      "EndPage": "D379",
+      "MedlinePgn": "D373-D379"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "OMA is an established resource to elucidate evolutionary relationships among genes from currently 2326 genomes covering all domains of life. OMA provides pairwise and groupwise orthologs, functional annotations, local and global gene order conservation (synteny) information, among many other functions. This update paper describes the reorganisation of the database into gene-, group- and genome-centric pages. Other new and improved features are detailed, such as reporting of the evolutionarily best conserved isoforms of alternatively spliced genes, the inferred local order of ancestral genes, phylogenetic profiling, better cross-references, fast genome mapping, semantic data sharing via RDF, as well as a special coronavirus OMA with 119 viruses from the Nidovirales order, including SARS-CoV-2, the agent of the COVID-19 pandemic. We conclude with improvements to the documentation of the resource through primers, tutorials and short videos. OMA is accessible at https://omabrowser.org."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "ETH Zurich, Computer Science, Universit\u00e4tstr. 6,\u00a08092 Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Altenhoff",
+        "ForeName": "Adrian M",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Train",
+        "ForeName": "Cl\u00e9ment-Marie",
+        "Initials": "CM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Integrative Genomics, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Gilbert",
+        "ForeName": "Kimberly J",
+        "Initials": "KJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Information Systems,\u00a0BITS Pilani K.K. Birla Goa Campus, India."
+          }
+        ],
+        "LastName": "Mediratta",
+        "ForeName": "Ishita",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics,\u00a01015 Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Mendes de Farias",
+        "ForeName": "Tarcisio",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Integrative Genomics, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Moi",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Integrative Genomics, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Nevers",
+        "ForeName": "Yannis",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Life's Origins and Evolution, Department of Genetics, Evolution and Environment, University College London,\u00a0Gower St, London WC1E 6BT, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University College London,\u00a0Gower St, London WC1E 6BT, United Kingdom."
+          }
+        ],
+        "LastName": "Radoykova",
+        "ForeName": "Hale-Seda",
+        "Initials": "HS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Integrative Genomics, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Rossier",
+        "ForeName": "Victor",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Integrative Genomics, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Warwick Vesztrocy",
+        "ForeName": "Alex",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Integrative Genomics, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          }
+        ],
+        "LastName": "Glover",
+        "ForeName": "Natasha M",
+        "Initials": "NM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "SIB Swiss Institute of Bioinformatics,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Integrative Genomics, University of Lausanne,\u00a01015 Lausanne, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Life's Origins and Evolution, Department of Genetics, Evolution and Environment, University College London,\u00a0Gower St, London WC1E 6BT, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University College London,\u00a0Gower St, London WC1E 6BT, United Kingdom."
+          }
+        ],
+        "LastName": "Dessimoz",
+        "ForeName": "Christophe",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chromosome Mapping"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Evolution, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Ontology"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Gene Order"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Species Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Synteny"
+    }
+  ]
+}

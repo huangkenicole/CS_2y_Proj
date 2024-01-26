@@ -1,0 +1,164 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "14575659",
+  "DateCompleted": {
+    "Year": "2004",
+    "Month": "03",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0022-5193",
+      "JournalIssue": {
+        "Volume": "225",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2003",
+          "Month": "Nov",
+          "Day": "21"
+        }
+      },
+      "Title": "Journal of theoretical biology",
+      "ISOAbbreviation": "J Theor Biol"
+    },
+    "ArticleTitle": "A cellular automaton model for tumour growth in inhomogeneous environment.",
+    "Pagination": {
+      "StartPage": "257",
+      "EndPage": "274",
+      "MedlinePgn": "257-74"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Most of the existing mathematical models for tumour growth and tumour-induced angiogenesis neglect blood flow. This is an important factor on which both nutrient and metabolite supply depend. In this paper we aim to address this shortcoming by developing a mathematical model which shows how blood flow and red blood cell heterogeneity influence the growth of systems of normal and cancerous cells. The model is developed in two stages. First we determine the distribution of oxygen in a native vascular network, incorporating into our model features of blood flow and vascular dynamics such as structural adaptation, complex rheology and red blood cell circulation. Once we have calculated the oxygen distribution, we then study the dynamics of a colony of normal and cancerous cells, placed in such a heterogeneous environment. During this second stage, we assume that the vascular network does not evolve and is independent of the dynamics of the surrounding tissue. The cells are considered as elements of a cellular automaton, whose evolution rules are inspired by the different behaviour of normal and cancer cells. Our aim is to show that blood flow and red blood cell heterogeneity play major roles in the development of such colonies, even when the red blood cells are flowing through the vasculature of normal, healthy tissue."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Mathematical Biology, Mathematical Institute, University of Oxford, 24-29 St Giles', Oxford OX1 3LB, UK. alarcon@maths.ox.ac.uk"
+          }
+        ],
+        "LastName": "Alarc\u00f3n",
+        "ForeName": "T",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Byrne",
+        "ForeName": "H M",
+        "Initials": "HM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Maini",
+        "ForeName": "P K",
+        "Initials": "PK"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Theor Biol",
+    "NlmUniqueID": "0376342",
+    "ISSNLinking": "0022-5193"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "S88TT14065",
+      "NameOfSubstance": "Oxygen"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Cell Division"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Erythrocytes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hematocrit"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hemorheology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Invasiveness"
+    },
+    {
+      "QualifierName": [
+        "blood supply",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neovascularization, Pathologic"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Oxygen"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Regional Blood Flow"
+    }
+  ]
+}

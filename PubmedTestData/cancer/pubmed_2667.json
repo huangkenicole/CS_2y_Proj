@@ -1,0 +1,225 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "AlexNet",
+      "angiogenic",
+      "artificial intelligence",
+      "machine learning",
+      "malignant",
+      "medical imaging",
+      "neural network",
+      "oral cancer",
+      "oral squamous cell carcinoma",
+      "transfer learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35632242",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "05",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "3833",
+      "10.3390/s22103833"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "May",
+          "Day": "18"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Histopathologic Oral Cancer Prediction Using Oral Squamous Cell Carcinoma Biopsy Empowered with Transfer Learning.",
+    "Abstract": {
+      "AbstractText": [
+        "Oral cancer is a dangerous and extensive cancer with a high death ratio. Oral cancer is the most usual cancer in the world, with more than 300,335 deaths every year. The cancerous tumor appears in the neck, oral glands, face, and mouth. To overcome this dangerous cancer, there are many ways to detect like a biopsy, in which small chunks of tissues are taken from the mouth and tested under a secure and hygienic microscope. However, microscope results of tissues to detect oral cancer are not up to the mark, a microscope cannot easily identify the cancerous cells and normal cells. Detection of cancerous cells using microscopic biopsy images helps in allaying and predicting the issues and gives better results if biologically approaches apply accurately for the prediction of cancerous cells, but during the physical examinations microscopic biopsy images for cancer detection there are major chances for human error and mistake. So, with the development of technology deep learning algorithms plays a major role in medical image diagnosing. Deep learning algorithms are efficiently developed to predict breast cancer, oral cancer, lung cancer, or any other type of medical image. In this study, the proposed model of transfer learning model using AlexNet in the convolutional neural network to extract rank features from oral squamous cell carcinoma (OSCC) biopsy images to train the model. Simulation results have shown that the proposed model achieved higher classification accuracy 97.66% and 90.06% of training and testing, respectively."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6696-277X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science (CS), College of Computer Science and Information Technology (CCSIT), Imam Abdulrahman Bin Faisal University (IAU), P.O. Box 1982, Dammam 31441, Saudi Arabia."
+          }
+        ],
+        "LastName": "Rahman",
+        "ForeName": "Atta-Ur",
+        "Initials": "AU"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Information Systems (CIS), College of Computer Science and Information Technology (CCSIT), Imam Abdulrahman Bin Faisal University (IAU), P.O. Box 1982, Dammam 31441, Saudi Arabia."
+          }
+        ],
+        "LastName": "Alqahtani",
+        "ForeName": "Abdullah",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0330-8436"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Information Systems (CIS), College of Computer Science and Information Technology (CCSIT), Imam Abdulrahman Bin Faisal University (IAU), P.O. Box 1982, Dammam 31441, Saudi Arabia."
+          }
+        ],
+        "LastName": "Aldhafferi",
+        "ForeName": "Nahier",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1443-8065"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Computing, Riphah School of Computing and Innovation, Riphah International University, Lahore Campus, Lahore 54000, Pakistan."
+          }
+        ],
+        "LastName": "Nasir",
+        "ForeName": "Muhammad Umar",
+        "Initials": "MU"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Forensic Sciences, University of Health Sciences, Lahore 54000, Pakistan."
+          }
+        ],
+        "LastName": "Khan",
+        "ForeName": "Muhammad Farhan",
+        "Initials": "MF"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4854-9935"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Software, Gachon University, Seongnam 13120, Korea."
+          }
+        ],
+        "LastName": "Khan",
+        "ForeName": "Muhammad Adnan",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4842-0613"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "John von Neumann Faculty of Informatics, Obuda University, 1034 Budapest, Hungary."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Information Engineering, Automation and Mathematics, Slovak University of Technology in Bratislava, 81107 Bratislava, Slovakia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Civil Engineering, TU-Dresden, 01062 Dresden, Germany."
+          }
+        ],
+        "LastName": "Mosavi",
+        "ForeName": "Amir",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biopsy"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Carcinoma, Squamous Cell"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Head and Neck Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Mouth Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Squamous Cell Carcinoma of Head and Neck"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest. "
+}

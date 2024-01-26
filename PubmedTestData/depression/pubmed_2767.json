@@ -1,0 +1,152 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Biomedical application",
+      "Clinical depression",
+      "Computer-aided diagnosis (CAD)",
+      "Deep learning",
+      "Depression relapse prediction",
+      "Health informatics",
+      "Video analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36183638",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "09",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cmpb.2022.107132",
+      "S0169-2607(22)00513-2"
+    ],
+    "Journal": {
+      "ISSN": "1872-7565",
+      "JournalIssue": {
+        "Volume": "226",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "A Model of Normality Inspired Deep Learning Framework for Depression Relapse Prediction Using Audiovisual Data.",
+    "Pagination": {
+      "StartPage": "107132",
+      "MedlinePgn": "107132"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Depression (Major Depressive Disorder) is one of the most common mental illnesses. According to the World Health Organization, more than 300 million people in the world are affected. A first depressive episode can be solved by a spontaneous remission within 6 to 12 months. It has been shown that depression affects speech production and facial expressions. Although numerous studies are proposed in the literature for depression recognition using audiovisual cues, depression relapse using audiovisual cues has not been studied in the literature.",
+        "In this paper, we propose a deep learning-based approach for depression recognition and depression relapse prediction using audiovisual data. For more versatility and reusability, the proposed approach is based on a Model of Normality inspired framework where we define depression relapse by the closeness of the audiovisual patterns of a subject after a symptom-free period to the audiovisual patterns of depressed subjects. A model of Normality is an anomaly detection distance-based approach that computes a distance of normality between the deep audiovisual encoding of a test sample and a learned representation from audiovisual encodings of anomaly-free data.",
+        "The proposed approach shows a very promising results with an accuracy of 87.4% and a F1-score of 82.3% for relapse/depression prediction using a Leave-One-Subject-Out training strategy on the DAIC-Woz dataset.",
+        "The proposed model of normality-based framework is accurate in detecting depression and in predicting depression relapse. A prospective monitoring system is proposed for assisting depressed patients. The proposed framework is easily extensible and others modalities will be integrated in future works."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 Paris-Est Cr\u00e9teil (UPEC), LISSI, Vitry sur Seine 94400, France. Electronic address: alice.othmani@u-pec.fr."
+          }
+        ],
+        "LastName": "Othmani",
+        "ForeName": "Alice",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 Paris-Est Cr\u00e9teil (UPEC), LISSI, Vitry sur Seine 94400, France."
+          }
+        ],
+        "LastName": "Zeghina",
+        "ForeName": "Assaad-Oussama",
+        "Initials": "AO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Universit\u00e9 Paris-Est Cr\u00e9teil (UPEC), LISSI, Vitry sur Seine 94400, France."
+          }
+        ],
+        "LastName": "Muzammel",
+        "ForeName": "Muhammad",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Recurrence"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

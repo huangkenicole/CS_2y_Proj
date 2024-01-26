@@ -1,0 +1,230 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "tiling array"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34097003",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab213",
+      "10.1093/bib/bbab213"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Detecting SARS-CoV-2 and its variant strains with a full genome tiling array.",
+    "Abstract": {
+      "AbstractText": [
+        "Coronavirus disease 2019 pandemic is the most damaging pandemic in recent human history. Rapid detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and variant strains is paramount for recovery from this pandemic. Conventional SARS-CoV-2 tests interrogate only limited regions of the whole SARS-CoV-2 genome, which are subjected to low specificity and miss the opportunity of detecting variant strains. In this work, we developed the first SARS-CoV-2 tiling array that captures the entire SARS-CoV-2 genome at single nucleotide resolution and offers the opportunity to detect point mutations. A thorough bioinformatics protocol of two base calling methods has been developed to accompany this array. To demonstrate the effectiveness of the tiling array, we genotyped all genomic positions of eight SARS-CoV-2 samples. Using high-throughput sequencing as the benchmark, we show that the tiling array had a genome-wide accuracy of at least 99.5%. From the tiling array analysis results, we identified the D614G mutation in the spike protein in four of the eight samples, suggesting the widespread distribution of this variant at the early stage of the outbreak in the United States. Two additional nonsynonymous mutations were identified in one sample in the nucleocapsid protein (P13L and S197L), which may complicate future vaccine development. With around $5 per array, supreme accuracy, and an ultrafast bioinformatics protocol, the SARS-CoV-2 tiling array makes an invaluable toolkit for combating current and future pandemics. Our SARS-CoV-2 tilting array is currently utilized by Molecular Vision, a CLIA-certified lab for SARS-CoV-2 diagnosis."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of New Mexico, Albuquerque, NM 87131, USA."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Limin",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, University of New Mexico, Albuquerque, NM 87131, USA."
+          }
+        ],
+        "LastName": "Guo",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Internal Medicine, University of New Mexico, Albuquerque, NM 87131, USA."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Hui",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centrillion Biosciences, Albuquerque, NM 87131, USA."
+          }
+        ],
+        "LastName": "Hoff",
+        "ForeName": "Kendal",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centrillion Biosciences, Albuquerque, NM 87131, USA."
+          }
+        ],
+        "LastName": "Ding",
+        "ForeName": "Xun",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centrillion Biosciences, Albuquerque, NM 87131, USA."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, University of New Mexico, Albuquerque, NM 87131, USA."
+          }
+        ],
+        "LastName": "Edwards",
+        "ForeName": "Jeremy",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P20 GM103451",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA118100",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30CA118100",
+        "Acronym": "BC",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "Agency": "Institutional Development Award",
+        "Country": ""
+      },
+      {
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P20GM103451",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

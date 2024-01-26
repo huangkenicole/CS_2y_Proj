@@ -1,0 +1,236 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Adolescents",
+      "Children",
+      "Common cold",
+      "Immunotoxicity",
+      "PFAS",
+      "U.S."
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35447424",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "04",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.envint.2022.107239",
+      "S0160-4120(22)00165-9"
+    ],
+    "Journal": {
+      "ISSN": "1873-6750",
+      "JournalIssue": {
+        "Volume": "164",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Environment international",
+      "ISOAbbreviation": "Environ Int"
+    },
+    "ArticleTitle": "Association between serum per- and polyfluoroalkyl substances concentrations and common cold among children and adolescents in the United States.",
+    "Pagination": {
+      "StartPage": "107239",
+      "MedlinePgn": "107239"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Per- and polyfluoroalkyl substances (PFAS) exert immunosuppressive effects in experimental animals. Few epidemiologic studies investigated PFAS exposure and immune-related clinical outcomes such as common cold, especially during childhood when the immune system is developing.",
+        "This study used data from the National Health and Nutrition Examination Survey and included 517 children 3-11\u00a0years (2013-2014 cycle) and 2732 adolescents 12-19\u00a0years (2003-2016 cycles). Serum concentrations of perfluorooctanoic acid (PFOA), perfluorooctane sulfonic acid (PFOS), perfluorononanoic acid (PFNA) and perfluorohexane sulfonic acid (PFHxS) were quantified. Common cold was self-reported by the participant or parent as having a head cold or chest cold in the last month. Multivariable logistic regression models were applied to examine the covariate-adjusted odds ratios (ORs) between individual PFAS concentrations and common cold incidence in the past month. The joint effect of PFAS mixtures was evaluated using Probit Bayesian Kernel Machine Regression (BKMR).",
+        "A doubling of serum PFHxS concentration was associated with a 31% higher odds (OR\u00a0=\u00a01.31, 95% CI: 1.06, 1.62) of common cold among children. Serum PFNA (OR\u00a0=\u00a01.36, 95% CI: 0.93, 1.98) and PFOA (OR\u00a0=\u00a01.32, 95% CI: 0.67, 2.62) concentrations were also related to common cold among children, as were serum PFOS concentrations among adolescents (OR\u00a0=\u00a01.13, 95% CI: 0.96, 1.32). ORs were higher in male than female children and adolescents. BKMR showed a clear increasing trend of common cold estimates across quantiles of the total PFAS mixture concentration among children, while no obvious pattern emerged in adolescents.",
+        "Among children in the United States, serum concentrations of PFAS mixtures, especially PFHxS and PFNA, were associated with higher odds of common cold. Among adolescents, PFOS was associated with increased common cold in the last month. This study contributes to the existing evidence supporting the immunotoxicity of PFAS in childhood and adolescence."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 The Authors. Published by Elsevier Ltd.. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA. Electronic address: yuzhang@hsph.harvard.edu."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yu",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Granada, Center for Biomedical Research (CIBM), Spain; Instituto de Investigaci\u00f3n Biosanitaria Ibs GRANADA, Spain; Consortium for Biomedical Research in Epidemiology and Public Health (CIBERESP), Spain."
+          }
+        ],
+        "LastName": "Mustieles",
+        "ForeName": "Vicente",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Yang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics and Epidemiology, School of Public Health and Health Sciences, University of Massachusetts Amherst, Amherst, MA, USA."
+          }
+        ],
+        "LastName": "Oulhote",
+        "ForeName": "Youssef",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Yi-Xin",
+        "Initials": "YX"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Environmental Health, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, MA, USA; Massachusetts General Hospital Fertility Center, Vincent Center for Reproductive Biology, Department of Obstetrics and Gynecology, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Messerlian",
+        "ForeName": "Carmen",
+        "Initials": "C"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 ES031657",
+        "Acronym": "ES",
+        "Agency": "NIEHS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Environ Int",
+    "NlmUniqueID": "7807270",
+    "ISSNLinking": "0160-4120"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Alkanesulfonic Acids"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Environmental Pollutants"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Fluorocarbons"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Sulfonic Acids"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Alkanesulfonic Acids"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [
+        "toxicity"
+      ],
+      "DescriptorName": "Environmental Pollutants"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fluorocarbons"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nutrition Surveys"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sulfonic Acids"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "United States"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest. The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

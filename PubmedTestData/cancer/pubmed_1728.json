@@ -1,0 +1,173 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Colorectal cancer",
+      "gene co-expression",
+      "network analysis",
+      "systems biology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31156157",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "11",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3233/ISB-190472"
+    ],
+    "Journal": {
+      "ISSN": "1434-3207",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1-2",
+        "PubDate": {
+          "Year": "2019"
+        }
+      },
+      "Title": "In silico biology",
+      "ISOAbbreviation": "In Silico Biol"
+    },
+    "ArticleTitle": "Lower connectivity of tumor coexpression networks is not specific to cancer.",
+    "Pagination": {
+      "StartPage": "41",
+      "EndPage": "53",
+      "MedlinePgn": "41-53"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Global level network analysis of molecular links is necessary for systems level view of complex diseases like cancer. Using genome-wide expression datasets, we constructed and compared gene co-expression based specific networks of pre-cancerous tumors (adenoma) and cancerous tumors (carcinoma) with paired normal networks to assess for any possible changes in network connectivity. Previously, loss of connectivity was reported as a characteristics of cancer samples. Here, we observed that pre-cancerous conditions also had significantly less connections than paired normal samples. We observed a loss of connectivity trend for colorectal adenoma, aldosterone producing adenoma and uterine leiomyoma. We also showed that the loss of connectivity trend is not specific to positive or negative correlation based networks. Differential hub genes, which were the most highly differentially less connected genes in tumor, were mostly different between different datasets. No common gene list could be defined which underlies the lower connectivity of tumor specific networks. Connectivity of colorectal cancer methylation targets was different from other genes. Extracellular space related terms were enriched in negative correlation based differential hubs and common methylation targets of colorectal carcinoma. Our results indicate a systems level change of lower connectivity as cells transform to not only cancer but also pre-cancerous conditions. This systems level behavior could not be attributed to a group of genes."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Biology, Zonguldak B\u00fclent Ecevit University School of Medicine, Zonguldak, Turkey."
+          }
+        ],
+        "LastName": "Dalg\u0131\u00e7",
+        "ForeName": "Ertu\u011frul",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Biology and Genetics, Bilkent University, Ankara, Turkey."
+          }
+        ],
+        "LastName": "Konu",
+        "ForeName": "\u00d6zlen",
+        "Initials": "\u00d6"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Biology, Zonguldak B\u00fclent Ecevit University School of Medicine, Zonguldak, Turkey."
+          }
+        ],
+        "LastName": "\u00d6z",
+        "ForeName": "Zehra Safi",
+        "Initials": "ZS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Materials Science, Michigan State University, East Lansing, MI, USA."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Christina",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "In Silico Biol",
+    "NlmUniqueID": "9815902",
+    "ISSNLinking": "1386-6338"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Colorectal Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Grading"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Organ Specificity"
+    }
+  ]
+}

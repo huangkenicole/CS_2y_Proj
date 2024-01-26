@@ -1,0 +1,297 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Artificial intelligence",
+      "Endoscopy",
+      "Neural networks (computer)",
+      "Stomach neoplasms"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29335825",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "10",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "01",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10120-018-0793-2"
+    ],
+    "Journal": {
+      "ISSN": "1436-3305",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Gastric cancer : official journal of the International Gastric Cancer Association and the Japanese Gastric Cancer Association",
+      "ISOAbbreviation": "Gastric Cancer"
+    },
+    "ArticleTitle": "Application of artificial intelligence using a convolutional neural network for detecting gastric cancer in endoscopic images.",
+    "Pagination": {
+      "StartPage": "653",
+      "EndPage": "660",
+      "MedlinePgn": "653-660"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Image recognition using artificial intelligence with deep learning through convolutional neural networks (CNNs) has dramatically improved and been increasingly applied to medical fields for diagnostic imaging. We developed a CNN that can automatically detect gastric cancer in endoscopic images.",
+        "A CNN-based diagnostic system was constructed based on Single Shot MultiBox Detector architecture and trained using 13,584 endoscopic images of gastric cancer. To evaluate the diagnostic accuracy, an independent test set of 2296 stomach images collected from 69 consecutive patients with 77 gastric cancer lesions was applied to the constructed CNN.",
+        "The CNN required 47\u00a0s to analyze 2296 test images. The CNN correctly diagnosed 71 of 77 gastric cancer lesions with an overall sensitivity of 92.2%, and 161 non-cancerous lesions were detected as gastric cancer, resulting in a positive predictive value of 30.6%. Seventy of the 71 lesions (98.6%) with a diameter of 6\u00a0mm or more as well as all invasive cancers were correctly detected. All missed lesions were superficially depressed and differentiated-type intramucosal cancers that were difficult to distinguish from gastritis even for experienced endoscopists. Nearly half of the false-positive lesions were gastritis with changes in color tone or an irregular mucosal surface.",
+        "The constructed CNN system for detecting gastric cancer could process numerous stored endoscopic images in a very short time with a clinically relevant diagnostic ability. It may be well applicable to daily clinical practice to reduce the burden of endoscopists."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6450-1934"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Cancer Institute Hospital Ariake, Japanese Foundation for Cancer Research, 3-10-6 Ariake, Koto-ku, Tokyo, 135-8550, Japan. toshiaki.hirasawa@jfcr.or.jp."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Tada Tomohiro Institute of Gastroenterology and Proctology, Saitama, Japan. toshiaki.hirasawa@jfcr.or.jp."
+          }
+        ],
+        "LastName": "Hirasawa",
+        "ForeName": "Toshiaki",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AI Medical Service Inc., Tokyo, Japan."
+          }
+        ],
+        "LastName": "Aoyama",
+        "ForeName": "Kazuharu",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Governance Research Institute, Tokyo, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Navitas Clinic, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Tanimoto",
+        "ForeName": "Tetsuya",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tada Tomohiro Institute of Gastroenterology and Proctology, Saitama, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Surgery Department, Sanno Hospital, International University of Health and Welfare, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Ishihara",
+        "ForeName": "Soichiro",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastrointestinal Oncology, Osaka International Cancer Institute, Osaka, Japan."
+          }
+        ],
+        "LastName": "Shichijo",
+        "ForeName": "Satoki",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tada Tomohiro Institute of Gastroenterology and Proctology, Saitama, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Surgery Department, Sanno Hospital, International University of Health and Welfare, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Ozawa",
+        "ForeName": "Tsuyoshi",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lalaport Yokohama Clinic, Kanagawa, Japan."
+          }
+        ],
+        "LastName": "Ohnishi",
+        "ForeName": "Tatsuya",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Fujishiro",
+        "ForeName": "Mitsuhiro",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Coloproctology, Tokatsu-Tsujinaka Hospital, Chiba, Japan."
+          }
+        ],
+        "LastName": "Matsuo",
+        "ForeName": "Keigo",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Gastroenterology, Cancer Institute Hospital Ariake, Japanese Foundation for Cancer Research, 3-10-6 Ariake, Koto-ku, Tokyo, 135-8550, Japan."
+          }
+        ],
+        "LastName": "Fujisaki",
+        "ForeName": "Junko",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tada Tomohiro Institute of Gastroenterology and Proctology, Saitama, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "AI Medical Service Inc., Tokyo, Japan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgical Oncology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Tada",
+        "ForeName": "Tomohiro",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Japan",
+    "MedlineTA": "Gastric Cancer",
+    "NlmUniqueID": "100886238",
+    "ISSNLinking": "1436-3291"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Endoscopy, Gastrointestinal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33449891",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2021.3052134"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "25",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "Machine Learning Model for Computational Tracking and Forecasting the COVID-19 Dynamic Propagation.",
+    "Pagination": {
+      "StartPage": "615",
+      "EndPage": "622",
+      "MedlinePgn": "615-622"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A computational model with intelligent machine learning for analysis of epidemiological data, is proposed. The innovations of adopted methodology consist of an interval type-2 fuzzy clustering algorithm based on adaptive similarity distance mechanism for defining specific operation regions associated to the behavior and uncertainty inherited to epidemiological data, and an interval type-2 fuzzy version of Observer/Kalman Filter Identification (OKID) algorithm for adaptive tracking and real time forecasting according to unobservable components computed by recursive spectral decomposition of experimental epidemiological data. Experimental results and comparative analysis illustrate the efficiency and applicability of proposed methodology for adaptive tracking and real time forecasting the dynamic propagation behavior of novel coronavirus 2019 (COVID-19) outbreak in Brazil."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gomes",
+        "ForeName": "Daiana Caroline Dos Santos",
+        "Initials": "DCDS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Serra",
+        "ForeName": "Ginalber Luiz de Oliveira",
+        "Initials": "GLO"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Forecasting"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fuzzy Logic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

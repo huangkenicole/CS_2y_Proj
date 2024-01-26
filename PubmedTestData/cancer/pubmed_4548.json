@@ -1,0 +1,137 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28737788",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "04",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "04",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1039/c7mb00050b"
+    ],
+    "Journal": {
+      "ISSN": "1742-2051",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Aug",
+          "Day": "22"
+        }
+      },
+      "Title": "Molecular bioSystems",
+      "ISOAbbreviation": "Mol Biosyst"
+    },
+    "ArticleTitle": "A multiscale agent-based framework integrated with a constraint-based metabolic network model of cancer for simulating avascular tumor growth.",
+    "Pagination": {
+      "StartPage": "1888",
+      "EndPage": "1897",
+      "MedlinePgn": "1888-1897"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In recent years, many efforts have been made in the field of computational modeling of cancerous tumors, in order to obtain a better understanding and predictions of their growth patterns. Furthermore, constraint-based modeling of metabolic networks has become increasingly popular, which is appropriate for the systems-level reconstruction of cell physiology. The goal of the current study is to integrate a multiscale agent-based modeling framework with a constraint-based metabolic network model of cancer cells in order to simulate the three dimensional early growth of avascular tumors. In order to develop the integrated model, a previously published generic metabolic network model of cancer cells was introduced into a multiscale agent-based framework. This model is initiated with a single tumor cell. Nutrients can diffuse through the simulation space and the cells uptake or excrete metabolites, grow, proliferate or become necrotic based on certain defined criteria and flux values of particular reactions. The simulation was run for a period of 20 days and the plots corresponding to various features such as the growth profile and necrotic core evolution were obtained. These features were compared with the ones observed in other (experimental) studies. One interesting characteristic of our modeling is that it provides us with the ability to predict gene expression patterns through different layers of a tumor, which can have important implications, especially in drug target selection in the field of cancer therapy."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Engineering, Sharif University of Technology, Tehran, Iran. shasanmousavi@ce.sharif.edu ghadiri@ce.sharif.edu."
+          }
+        ],
+        "LastName": "Ghadiri",
+        "ForeName": "Mehrdad",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Heidari",
+        "ForeName": "Mahshid",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Marashi",
+        "ForeName": "Sayed-Amir",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mousavi",
+        "ForeName": "Seyed Hasan",
+        "Initials": "SH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Mol Biosyst",
+    "NlmUniqueID": "101251620",
+    "ISSNLinking": "1742-2051"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Proliferation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Energy Metabolism"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Metabolic Networks and Pathways"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

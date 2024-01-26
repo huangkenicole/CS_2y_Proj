@@ -1,0 +1,391 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33623157",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41587-021-00839-1"
+    ],
+    "Journal": {
+      "ISSN": "1546-1696",
+      "JournalIssue": {
+        "Volume": "39",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Nature biotechnology",
+      "ISOAbbreviation": "Nat Biotechnol"
+    },
+    "ArticleTitle": "Biological activity-based modeling identifies antiviral leads against SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "747",
+      "EndPage": "753",
+      "MedlinePgn": "747-753"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Computational approaches for drug discovery, such as quantitative structure-activity relationship, rely on structural similarities of small molecules to infer biological activity but are often limited to identifying new drug candidates in the chemical spaces close to known ligands. Here we report a biological activity-based modeling (BABM) approach, in which compound activity profiles established across multiple assays are used as signatures to predict compound activity in other assays or against a new target. This approach was validated by identifying candidate antivirals for Zika and Ebola viruses based on high-throughput screening data. BABM models were then applied to predict 311 compounds with potential activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Of the predicted compounds, 32% had antiviral activity in a cell culture live virus assay, the most potent compounds showing a half-maximal inhibitory concentration in the nanomolar range. Most of the confirmed anti-SARS-CoV-2 compounds were found to be viral entry inhibitors and/or autophagy modulators. The confirmed compounds have the potential to be further developed into anti-SARS-CoV-2 therapies."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-8886-8311"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA. huangru@mail.nih.gov."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Ruili",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Miao",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Hu",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6900-6553"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Catherine Z",
+        "Initials": "CZ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Emily M",
+        "Initials": "EM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Special Pathogens Program, National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, MB, Canada."
+          }
+        ],
+        "LastName": "He",
+        "ForeName": "Shihua",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Li",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Jinghua",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Shamim",
+        "ForeName": "Khalida",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Bougie",
+        "ForeName": "Danielle",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Wenwei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Xia",
+        "ForeName": "Menghang",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5073-442X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Hall",
+        "ForeName": "Mathew D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Lo",
+        "ForeName": "Donald",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Simeonov",
+        "ForeName": "Anton",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Austin",
+        "ForeName": "Christopher P",
+        "Initials": "CP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Special Pathogens Program, National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, MB, Canada."
+          }
+        ],
+        "LastName": "Qiu",
+        "ForeName": "Xiangguo",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9358-410X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Science, Florida State University, Tallahassee, FL, USA."
+          }
+        ],
+        "LastName": "Tang",
+        "ForeName": "Hengli",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1034-0757"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), National Institutes of Health (NIH), Rockville, MD, USA. wzheng@mail.nih.gov."
+          }
+        ],
+        "LastName": "Zheng",
+        "ForeName": "Wei",
+        "Initials": "W"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "Z99 TR999999",
+        "Acronym": "ImNIH",
+        "Agency": "Intramural NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Intramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Nat Biotechnol",
+    "NlmUniqueID": "9604648",
+    "ISSNLinking": "1087-0156"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2020 Jul 27;:",
+      "PMID": "32766591"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Discovery"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Evaluation, Preclinical"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Screening Assays"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

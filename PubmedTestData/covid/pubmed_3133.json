@@ -1,0 +1,163 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34543264",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1009436",
+      "10.1371/journal.pcbi.1009436"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Levels of SARS-CoV-2 population exposure are considerably higher than suggested by seroprevalence surveys.",
+    "Pagination": {
+      "StartPage": "e1009436",
+      "MedlinePgn": "e1009436"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Accurate knowledge of prior population exposure has critical ramifications for preparedness plans for future SARS-CoV-2 epidemic waves and vaccine prioritization strategies. Serological studies can be used to estimate levels of past exposure and thus position populations in their epidemic timeline. To circumvent biases introduced by the decay in antibody titers over time, methods for estimating population exposure should account for seroreversion, to reflect that changes in seroprevalence measures over time are the net effect of increases due to recent transmission and decreases due to antibody waning. Here, we present a new method that combines multiple datasets (serology, mortality, and virus positivity ratios) to estimate seroreversion time and infection fatality ratios (IFR) and simultaneously infer population exposure levels. The results indicate that the average time to seroreversion is around six months, IFR is 0.54% to 1.3%, and true exposure may be more than double the current seroprevalence levels reported for several regions of England."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9418-2527"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, Nuffield Department of Medicine, University of Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Siyu",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8809-726X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematics and Statistics, University of Melbourne, Melbourne, Australia."
+          }
+        ],
+        "LastName": "Flegg",
+        "ForeName": "Jennifer A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6523-185X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, Nuffield Department of Medicine, University of Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "White",
+        "ForeName": "Lisa J",
+        "Initials": "LJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6507-6597"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom."
+          }
+        ],
+        "LastName": "Aguas",
+        "ForeName": "Ricardo",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "England"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seroepidemiologic Studies"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

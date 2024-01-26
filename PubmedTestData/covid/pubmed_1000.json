@@ -1,0 +1,205 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID",
+      "R programming language",
+      "automation",
+      "liquid handling",
+      "pooling"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36610407",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/jalm/jfac109"
+    ],
+    "Journal": {
+      "ISSN": "2576-9456",
+      "JournalIssue": {
+        "Volume": "8",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jan",
+          "Day": "04"
+        }
+      },
+      "Title": "The journal of applied laboratory medicine",
+      "ISOAbbreviation": "J Appl Lab Med"
+    },
+    "ArticleTitle": "End-to-End Data Automation for Pooled Sample SARS-CoV-2 Using R and Other Open-Source Tools.",
+    "Pagination": {
+      "StartPage": "41",
+      "EndPage": "52",
+      "MedlinePgn": "41-52"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Due to supply chain shortages of reagents for real-time (RT)-PCR for SARS-CoV-2 and increasing demand on technical staff, an end-to-end data automation strategy for SARS-CoV-2 sample pooling and singleton analysis became necessary in the summer of 2020.",
+        "Using entirely open source software tools-Linux, bash, R, RShiny, ShinyProxy, and Docker-we developed a modular software application stack to manage the preanalytical, analytical, and postanalytical processes for singleton and pooled testing in a 5-week time frame.",
+        "Pooling was operationalized for 81 days, during which time 64 pooled runs were performed for a total of 5320 sample pools and approximately 21 280 patient samples in 4:1 format. A total of 17 580 negative pooled results were released in bulk. After pooling was discontinued, the application stack was used for singleton analysis and modified to release all viral RT-PCR results from our laboratory. To date, 236 109 samples have been processed avoiding over 610 000 transcriptions.",
+        "We present an end-to-end data automation strategy connecting 11 devices, one network attached storage, 2 Linux servers, and the laboratory information system."
+      ],
+      "CopyrightInformation": "\u00a9 American Association for Clinical Chemistry 2023. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "St. Paul's Hospital Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Providence Health Emerging Technologies, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Mobini",
+        "ForeName": "Mahdi",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "St. Paul's Hospital Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of British Columbia Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Matic",
+        "ForeName": "Nancy",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "St. Paul's Hospital Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Gugten",
+        "ForeName": "J Grace Van Der",
+        "Initials": "JGV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "St. Paul's Hospital Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of British Columbia Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Ritchie",
+        "ForeName": "Gordon",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "St. Paul's Hospital Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of British Columbia Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Lowe",
+        "ForeName": "Christopher F",
+        "Initials": "CF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "St. Paul's Hospital Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of British Columbia Department of Pathology and Laboratory Medicine, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Holmes",
+        "ForeName": "Daniel T",
+        "Initials": "DT"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Appl Lab Med",
+    "NlmUniqueID": "101693884",
+    "ISSNLinking": "2475-7241"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "J Appl Lab Med. 2023 Jan 4;8(1):7-10",
+      "PMID": "36610422"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    }
+  ]
+}

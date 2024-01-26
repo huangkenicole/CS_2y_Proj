@@ -1,0 +1,218 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "11062367",
+  "DateCompleted": {
+    "Year": "2000",
+    "Month": "12",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1091-5362",
+      "JournalIssue": {
+        "Volume": "4",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2000",
+          "Season": "Fall"
+        }
+      },
+      "Title": "Molecular urology",
+      "ISOAbbreviation": "Mol Urol"
+    },
+    "ArticleTitle": "Three-dimensional ultrasound analyses of the prostate.",
+    "Pagination": {
+      "StartPage": "133",
+      "EndPage": "141",
+      "MedlinePgn": "133-9;discussion 141"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Although conventional ultrasonography has proven to be clinically useful for depicting many types of cancerous lesions, it cannot distinguish reliably between cancerous and noncancerous tissue of the prostate. Therefore, conventional transrectal ultrasonography (TRUS) is used primarily for general evaluations of the gland and for guiding biopsies based on clearly imaged anatomic features such as the capsule, seminal vesicles, and urethra. Spectrum analysis extracts ultrasound signal parameters associated with biopsy-proven tissue types, and these parameters are then classified using neural network tools such as learning vector quantization, radial basis, and multilayer perceptron algorithms. Classification of cancerous and noncancerous prostate tissue using neural networks produces receiver operating characteristic (ROC) curves of 0.87 +/- 0.04 compared with 0.64 +/- 0.04 for conventional ultrasonography. To image the prostate using these methods, parameter values are computed at each pixel location, then translated into a score for the likelihood of cancer using a look-up table generated using the best classification algorithm. The score for cancer likelihood is expressed as a gray-scale or color value, and the resulting image may be useful to guide biopsies or therapy. Changes in parameter or score values over time potentially can be used to assess progression of disease or efficacy of therapy."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Engineering Laboratories, Riverside Research Institute, New York, New York 10036, USA. feleppa@rrinyc.org"
+          }
+        ],
+        "LastName": "Feleppa",
+        "ForeName": "E J",
+        "Initials": "EJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fair",
+        "ForeName": "W R",
+        "Initials": "WR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Liu",
+        "ForeName": "T",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kalisz",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Balaji",
+        "ForeName": "K C",
+        "Initials": "KC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Porter",
+        "ForeName": "C R",
+        "Initials": "CR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tsai",
+        "ForeName": "H",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Reuter",
+        "ForeName": "V",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gnadt",
+        "ForeName": "W",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Miltner",
+        "ForeName": "M J",
+        "Initials": "MJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "CA53561",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "CA78097",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Mol Urol",
+    "NlmUniqueID": "9709255",
+    "ISSNLinking": "1091-5362"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology",
+        "radiotherapy"
+      ],
+      "DescriptorName": "Adenocarcinoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biopsy"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Brachytherapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Prostate"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology",
+        "radiotherapy"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "ROC Curve"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Radiotherapy Planning, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rectum"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Ultrasonography"
+    }
+  ]
+}

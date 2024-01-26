@@ -1,0 +1,231 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Boosted regression",
+      "Cluster",
+      "Depression",
+      "Lifestyle",
+      "Machine learning",
+      "Psychiatry"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27810617",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "10",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "01",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "11",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.eurpsy.2016.06.003",
+      "S0924-9338(16)30068-2"
+    ],
+    "Journal": {
+      "ISSN": "1778-3585",
+      "JournalIssue": {
+        "Volume": "39",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Jan"
+        }
+      },
+      "Title": "European psychiatry : the journal of the Association of European Psychiatrists",
+      "ISOAbbreviation": "Eur Psychiatry"
+    },
+    "ArticleTitle": "Why so GLUMM? Detecting depression clusters through graphing lifestyle-environs using machine-learning methods (GLUMM).",
+    "Pagination": {
+      "StartPage": "40",
+      "EndPage": "50",
+      "MedlinePgn": "40-50"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Key lifestyle-environ risk factors are operative for depression, but it is unclear how risk factors cluster. Machine-learning (ML) algorithms exist that learn, extract, identify and map underlying patterns to identify groupings of depressed individuals without constraints. The aim of this research was to use a large epidemiological study to identify and characterise depression clusters through \"Graphing lifestyle-environs using machine-learning methods\" (GLUMM).",
+        "Two ML algorithms were implemented: unsupervised Self-organised mapping (SOM) to create GLUMM clusters and a supervised boosted regression algorithm to describe clusters. Ninety-six \"lifestyle-environ\" variables were used from the National health and nutrition examination study (2009-2010). Multivariate logistic regression validated clusters and controlled for possible sociodemographic confounders.",
+        "The SOM identified two GLUMM cluster solutions. These solutions contained one dominant depressed cluster (GLUMM5-1, GLUMM7-1). Equal proportions of members in each cluster rated as highly depressed (17%). Alcohol consumption and demographics validated clusters. Boosted regression identified GLUMM5-1 as more informative than GLUMM7-1. Members were more likely to: have problems sleeping; unhealthy eating; \u22642\u00a0years in their home; an old home; perceive themselves underweight; exposed to work fumes; experienced sex at \u226414\u00a0years; not perform moderate recreational activities. A positive relationship between GLUMM5-1 (OR: 7.50, P<0.001) and GLUMM7-1 (OR: 7.88, P<0.001) with depression was found, with significant interactions with those married/living with partner (P=0.001).",
+        "Using ML based GLUMM to form ordered depressive clusters from multitudinous lifestyle-environ variables enabled a deeper exploration of the heterogeneous data to uncover better understandings into relationships between the complex mental health factors."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2016 Elsevier Masson SAS. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Impact strategic research centre, school of medicine, Deakin university, PO Box 281, Geelong, Victoria 3220, Australia; Department of statistics, data science and epidemiology, Swinburne university of technology, Swinburne, Australia. Electronic address: jdipnall@deakin.edu.au."
+          }
+        ],
+        "LastName": "Dipnall",
+        "ForeName": "J F",
+        "Initials": "JF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Impact strategic research centre, school of medicine, Deakin university, PO Box 281, Geelong, Victoria 3220, Australia; Melbourne clinical school-western campus, the university of Melbourne, Saint-Albans, VIC, Australia; Department of epidemiology and preventive medicine, Monash university, Melbourne, VIC, Australia; University hospital of Geelong, Geelong, VIC, Australia."
+          }
+        ],
+        "LastName": "Pasco",
+        "ForeName": "J A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Impact strategic research centre, school of medicine, Deakin university, PO Box 281, Geelong, Victoria 3220, Australia; University hospital of Geelong, Geelong, VIC, Australia; Department of psychiatry, the university of Melbourne, Parkville, VIC, Australia; Florey institute of neuroscience and mental health, Parkville, VIC, Australia; Orygen, the National centre of excellence in youth mental health, Parkville, VIC, Australia."
+          }
+        ],
+        "LastName": "Berk",
+        "ForeName": "M",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Impact strategic research centre, school of medicine, Deakin university, PO Box 281, Geelong, Victoria 3220, Australia."
+          }
+        ],
+        "LastName": "Williams",
+        "ForeName": "L J",
+        "Initials": "LJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Impact strategic research centre, school of medicine, Deakin university, PO Box 281, Geelong, Victoria 3220, Australia; University hospital of Geelong, Geelong, VIC, Australia; Department of psychiatry, the university of Melbourne, Parkville, VIC, Australia."
+          }
+        ],
+        "LastName": "Dodd",
+        "ForeName": "S",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Impact strategic research centre, school of medicine, Deakin university, PO Box 281, Geelong, Victoria 3220, Australia; Department of psychiatry, the university of Melbourne, Parkville, VIC, Australia; Centre for adolescent health, Murdoch children's research institute, Melbourne, Australia; Black Dog institute, Sydney, Australia."
+          }
+        ],
+        "LastName": "Jacka",
+        "ForeName": "F N",
+        "Initials": "FN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of statistics, data science and epidemiology, Swinburne university of technology, Swinburne, Australia."
+          }
+        ],
+        "LastName": "Meyer",
+        "ForeName": "D",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Eur Psychiatry",
+    "NlmUniqueID": "9111820",
+    "ISSNLinking": "0924-9338"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Logistic Models"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mental Health"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    }
+  ]
+}

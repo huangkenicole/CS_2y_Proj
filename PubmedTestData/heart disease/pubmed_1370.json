@@ -1,0 +1,163 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "12806074",
+  "DateCompleted": {
+    "Year": "2004",
+    "Month": "02",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "08",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2001",
+        "Month": "08",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1537-744X",
+      "JournalIssue": {
+        "Volume": "1",
+        "PubDate": {
+          "Year": "2001",
+          "Month": "Aug",
+          "Day": "17"
+        }
+      },
+      "Title": "TheScientificWorldJournal",
+      "ISOAbbreviation": "ScientificWorldJournal"
+    },
+    "ArticleTitle": "Assessment of heart disease using fuzzy classification techniques.",
+    "Pagination": {
+      "StartPage": "369",
+      "EndPage": "390",
+      "MedlinePgn": "369-90"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this paper we discuss the classification results of cardiac patients of ischemical cardiopathy, valvular heart disease, and arterial hypertension, based on 19 characteristics (descriptors) including ECHO data, effort testings, and age and weight. In this order we have used different fuzzy clustering algorithms, namely hierarchical fuzzy clustering, hierarchical and horizontal fuzzy characteristics clustering, and a new clustering technique, fuzzy hierarchical cross-classification. The characteristics clustering techniques produce fuzzy partitions of the characteristics involved and, thus, are useful tools for studying the similarities between different characteristics and for essential characteristics selection. The cross-classification algorithm produces not only a fuzzy partition of the cardiac patients analyzed, but also a fuzzy partition of their considered characteristics. In this way it is possible to identify which characteristics are responsible for the similarities or dissimilarities observed between different groups of patients."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Babes-Bolyai University, Faculty of Mathematics and Computer Science, RO-3400 Cluj-Napoca, Romania. hfpop@cs.ubbcluj.ro"
+          }
+        ],
+        "LastName": "Pop",
+        "ForeName": "H F",
+        "Initials": "HF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pop",
+        "ForeName": "T L",
+        "Initials": "TL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sarbu",
+        "ForeName": "C",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "ScientificWorldJournal",
+    "NlmUniqueID": "101131163",
+    "ISSNLinking": "1537-744X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fuzzy Logic"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Valve Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Hypertension, Pulmonary"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Myocardial Ischemia"
+    }
+  ]
+}

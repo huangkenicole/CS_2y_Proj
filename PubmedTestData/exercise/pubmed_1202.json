@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "accelerometer",
+      "human activity recognition",
+      "sports",
+      "wearable"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33375683",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "91",
+      "10.3390/s21010091"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec",
+          "Day": "25"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "ExerSense: Physical Exercise Recognition and Counting Algorithm from Wearables Robust to Positioning.",
+    "Abstract": {
+      "AbstractText": [
+        "Wearable devices are currently popular for fitness tracking. However, these general usage devices only can track limited and prespecified exercises. In our previous work, we introduced ExerSense that segments, classifies, and counts multiple physical exercises in real-time based on a correlation method. It also can track user-specified exercises collected only one motion in advance. This paper is the extension of that work. We collected acceleration data for five types of regular exercises by four different wearable devices. To find the best accurate device and its position for multiple exercise recognition, we conducted 50 times random validations. Our result shows the robustness of ExerSense, working well with various devices. Among the four general usage devices, the chest-mounted sensor is the best for our target exercises, and the upper-arm-mounted smartphone is a close second. The wrist-mounted smartwatch is third, and the worst one is the ear-mounted sensor."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-0643-5860"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Intelligence and Information Course, Aoyama Gakuin University, Sagamihara 252-5258, Japan."
+          }
+        ],
+        "LastName": "Ishii",
+        "ForeName": "Shun",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2657-4961"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Intelligence and Information Course, Aoyama Gakuin University, Sagamihara 252-5258, Japan."
+          }
+        ],
+        "LastName": "Yokokubo",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ICT Unit, Faculty of Engineering and Business, Turku University of Applied Sciences, 20520 Turku, Finland."
+          }
+        ],
+        "LastName": "Luimula",
+        "ForeName": "Mika",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9144-3688"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Intelligence and Information Course, Aoyama Gakuin University, Sagamihara 252-5258, Japan."
+          }
+        ],
+        "LastName": "Lopez",
+        "ForeName": "Guillaume",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wearable Electronic Devices"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Wrist"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

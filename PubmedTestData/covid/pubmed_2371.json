@@ -1,0 +1,218 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33196798",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa1061"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "PROMISCUOUS 2.0: a resource for drug-repositioning.",
+    "Pagination": {
+      "StartPage": "D1373",
+      "EndPage": "D1380",
+      "MedlinePgn": "D1373-D1380"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The development of new drugs for diseases is a time-consuming, costly and risky process. In recent years, many drugs could be approved for other indications. This repurposing process allows to effectively reduce development costs, time and, ultimately, save patients' lives. During the ongoing COVID-19 pandemic, drug repositioning has gained widespread attention as a fast opportunity to find potential treatments against the newly emerging disease. In order to expand this field to researchers with varying levels of experience, we made an effort to open it to all users (meaning novices as well as experts in cheminformatics) by significantly improving the entry-level user experience. The browsing functionality can be used as a global entry point to collect further information with regards to small molecules (\u223c1 million), side-effects (\u223c110 000) or drug-target interactions (\u223c3 million). The drug-repositioning tab for small molecules will also suggest possible drug-repositioning opportunities to the user by using structural similarity measurements for small molecules using two different approaches. Additionally, using information from the Promiscuous 2.0 Database, lists of candidate drugs for given indications were precomputed, including a section dedicated to potential treatments for COVID-19. All the information is interconnected by a dynamic network-based visualization to identify new indications for available compounds. Promiscuous 2.0 is unique in its functionality and is publicly available at http://bioinformatics.charite.de/promiscuous2."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9 Universitaetsmedizin Berlin, Institute of Physiology, Structural Bioinformatics Group, Berlin\u00a010117, Germany."
+          }
+        ],
+        "LastName": "Gallo",
+        "ForeName": "Kathleen",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9 Universitaetsmedizin Berlin, Institute of Physiology, Structural Bioinformatics Group, Berlin\u00a010117, Germany."
+          }
+        ],
+        "LastName": "Goede",
+        "ForeName": "Andrean",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9 Universitaetsmedizin Berlin, Department of Information Technology, Science IT, Berlin\u00a010117, Germany."
+          }
+        ],
+        "LastName": "Eckert",
+        "ForeName": "Andreas",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9 Universitaetsmedizin Berlin, Department of Information Technology, Science IT, Berlin\u00a010117, Germany."
+          }
+        ],
+        "LastName": "Moahamed",
+        "ForeName": "Barbara",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9 Universitaetsmedizin Berlin, Institute of Physiology, Structural Bioinformatics Group, Berlin\u00a010117, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9 Universitaetsmedizin Berlin, Department of Information Technology, Science IT, Berlin\u00a010117, Germany."
+          }
+        ],
+        "LastName": "Preissner",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9 Universitaetsmedizin Berlin, Department of Information Technology, Science IT, Berlin\u00a010117, Germany."
+          }
+        ],
+        "LastName": "Gohlke",
+        "ForeName": "Bj\u00f6rn-Oliver",
+        "Initials": "BO"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Data Curation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Pharmaceutical"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Information Storage and Retrieval"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

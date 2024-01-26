@@ -1,0 +1,175 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer therapies",
+      "Deregulation of a healthy cell",
+      "MAPK cascade pathway",
+      "Mathematical models",
+      "PI3K/AKT pathway"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28866047",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "07",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "09",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.biosystems.2017.08.007",
+      "S0303-2647(17)30102-8"
+    ],
+    "Journal": {
+      "ISSN": "1872-8324",
+      "JournalIssue": {
+        "Volume": "162",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Bio Systems",
+      "ISOAbbreviation": "Biosystems"
+    },
+    "ArticleTitle": "Mathematical models in cancer therapy.",
+    "Pagination": {
+      "StartPage": "12",
+      "EndPage": "23",
+      "MedlinePgn": "12-23"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this article, deterministic mathematical models are derived from biochemical models within a human cell in two distinct cases, for comparison: healthy cell and cancerous cell. The former model is based in the cell cycle model by Novak and Tyson and its adaptation by Conradie, and makes use of the MAPK cascade pathway and the PI3K/AKT pathway for signalling transduction, to create a wider updated model for the regulation of a healthy cell. The latter model, for the cancer cell, is derived from the healthy cell model by altering specific pathways and interpreting the outcome in the light of literature in cancer. This last study is done in two approaches: simulation of common deregulations and specific cancer simulation, colon cancer. After studying both models, we propose targeting therapies and simulate their consequences. We thus explore mathematical modelling efficacy and usefulness in providing enough information from which to derive ideas for therapies. The purpose is to validate mathematics, once again, as a powerful tool with which one can model the underlying nature of chaotic systems and extract useful conclusions to real-life problems."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2017 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centro de Matem\u00e1tica da Universidade do Porto (CMUP), Faculty of Sciences of University of Porto, Gabinete de Estat\u00edstica, Modela\u00e7\u00e3o e Aplica\u00e7\u00f5es Computacionais (GEMAC), Portugal. Electronic address: up201202370@fc.up.pt."
+          }
+        ],
+        "LastName": "Jord\u00e3o",
+        "ForeName": "Giuseppe",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centro de Matem\u00e1tica da Universidade do Porto (CMUP), Faculty of Sciences of University of Porto, Gabinete de Estat\u00edstica, Modela\u00e7\u00e3o e Aplica\u00e7\u00f5es Computacionais (GEMAC), Portugal. Electronic address: jntavar@fc.up.pt."
+          }
+        ],
+        "LastName": "Tavares",
+        "ForeName": "Jo\u00e3o Nuno",
+        "Initials": "JN"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Biosystems",
+    "NlmUniqueID": "0430773",
+    "ISSNLinking": "0303-2647"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cell Cycle Proteins"
+    },
+    {
+      "RegistryNumber": "EC 2.7.1.-",
+      "NameOfSubstance": "Phosphatidylinositol 3-Kinases"
+    },
+    {
+      "RegistryNumber": "EC 2.7.11.25",
+      "NameOfSubstance": "MAP Kinase Kinase Kinases"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Apoptosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Cycle"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Cell Cycle Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "MAP Kinase Kinase Kinases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology",
+        "therapy"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Phosphatidylinositol 3-Kinases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Transduction"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33886573",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0245417",
+      "10.1371/journal.pone.0245417"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "The impact of COVID-19 vaccination campaigns accounting for antibody-dependent enhancement.",
+    "Pagination": {
+      "StartPage": "e0245417",
+      "MedlinePgn": "e0245417"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "COVID-19 vaccines are approved, vaccination campaigns are launched, and worldwide return to normality seems within close reach. Nevertheless, concerns about the safety of COVID-19 vaccines arose, due to their fast emergency approval. In fact, the problem of antibody-dependent enhancement was raised in the context of COVID-19 vaccines.",
+        "We introduce a complex extension of the model underlying the pandemic preparedness tool CovidSim 1.1 (http://covidsim.eu/) to optimize vaccination strategies with regard to the onset of campaigns, vaccination coverage, vaccination schedules, vaccination rates, and efficiency of vaccines. Vaccines are not assumed to immunize perfectly. Some individuals fail to immunize, some reach only partial immunity, and-importantly-some develop antibody-dependent enhancement, which increases the likelihood of developing symptomatic and severe episodes (associated with higher case fatality) upon infection. Only a fraction of the population will be vaccinated, reflecting vaccination hesitancy or contraindications. The model is intended to facilitate decision making by exploring ranges of parameters rather than to be fitted by empirical data. We parameterized the model to reflect the situation in Germany and predict increasing incidence (and prevalence) in early 2021 followed by a decline by summer. Assuming contact reductions (curfews, social distancing, etc.) to be lifted in summer, disease incidence will peak again. Fast vaccine deployment contributes to reduce disease incidence in the first quarter of 2021, and delay the epidemic outbreak after the summer season. Higher vaccination coverage results in a delayed and reduced epidemic peak. A coverage of 75%-80% is necessary to prevent an epidemic peak without further drastic contact reductions.",
+        "With the vaccine becoming available, compliance with contact reductions is likely to fade. To prevent further economic damage from COVID-19, high levels of immunization need to be reached before next year's flu season, and vaccination strategies and disease management need to be flexibly adjusted. The predictive model can serve as a refined decision support tool for COVID-19 management."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Adil Mahmoud Yousif",
+        "ForeName": "Nessma",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Tsoungui Obama",
+        "ForeName": "Henri Christian Junior",
+        "Initials": "HCJ"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7433-6840"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Ngucho Mbeutchou",
+        "ForeName": "Yvan Jordan",
+        "Initials": "YJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Kwamou Ngaha",
+        "ForeName": "Sandy Frank",
+        "Initials": "SF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Kayanula",
+        "ForeName": "Loyce",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Kamanga",
+        "ForeName": "George",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Ibrahim",
+        "ForeName": "Toheeb Babatunde",
+        "Initials": "TB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Bwanu Iliya",
+        "ForeName": "Patience",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Iyanda",
+        "ForeName": "Sulyman",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences Cameroon, Limbe, Cameroon."
+          }
+        ],
+        "LastName": "Alawam Nemer",
+        "ForeName": "Looli",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          }
+        ],
+        "LastName": "Helle",
+        "ForeName": "Kristina Barbara",
+        "Initials": "KB"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0765-4969"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Lehigh University, Bethlehem, PA, United states of America."
+          }
+        ],
+        "LastName": "Teboh-Ewungkem",
+        "ForeName": "Miranda Ijang",
+        "Initials": "MI"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4138-1180"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Computer- and Biosciences, University of Applied Sciences Mittweida, Mittweida, Germany."
+          }
+        ],
+        "LastName": "Schneider",
+        "ForeName": "Kristan Alexander",
+        "Initials": "KA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Antibody-Dependent Enhancement"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Germany"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunization Programs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunization Schedule"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

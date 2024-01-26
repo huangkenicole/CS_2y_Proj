@@ -1,0 +1,292 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36069888",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e223899",
+      "10.1001/jamasurg.2022.3899"
+    ],
+    "Journal": {
+      "ISSN": "2168-6262",
+      "JournalIssue": {
+        "Volume": "157",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov",
+          "Day": "01"
+        }
+      },
+      "Title": "JAMA surgery",
+      "ISOAbbreviation": "JAMA Surg"
+    },
+    "ArticleTitle": "Real-time Tracking and Classification of Tumor and Nontumor Tissue in Upper Gastrointestinal Cancers Using Diffuse Reflectance Spectroscopy for Resection Margin Assessment.",
+    "Pagination": {
+      "StartPage": "e223899",
+      "MedlinePgn": "e223899"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancers of the upper gastrointestinal tract remain a major contributor to the global cancer burden. The accurate mapping of tumor margins is of particular importance for curative cancer resection and improvement in overall survival. Current mapping techniques preclude a full resection margin assessment in real time.",
+        "To evaluate whether diffuse reflectance spectroscopy (DRS) on gastric and esophageal cancer specimens can differentiate tissue types and provide real-time feedback to the operator.",
+        "This was a prospective ex vivo validation study. Patients undergoing esophageal or gastric cancer resection were prospectively recruited into the study between July 2020 and July 2021 at Hammersmith Hospital in London, United Kingdom. Tissue specimens were included for patients undergoing elective surgery for either esophageal carcinoma (adenocarcinoma or squamous cell carcinoma) or gastric adenocarcinoma.",
+        "A handheld DRS probe and tracking system was used on freshly resected ex vivo tissue to obtain spectral data. Binary classification, following histopathological validation, was performed using 4 supervised machine learning classifiers.",
+        "Data were divided into training and testing sets using a stratified 5-fold cross-validation method. Machine learning classifiers were evaluated in terms of sensitivity, specificity, overall accuracy, and the area under the curve.",
+        "Of 34 included patients, 22 (65%) were male, and the median (range) age was 68 (35-89) years. A total of 14\u202f097 mean spectra for normal and cancerous tissue were collected. For normal vs cancer tissue, the machine learning classifier achieved a mean (SD) overall diagnostic accuracy of 93.86% (0.66) for stomach tissue and 96.22% (0.50) for esophageal tissue and achieved a mean (SD) sensitivity and specificity of 91.31% (1.5) and 95.13% (0.8), respectively, for stomach tissue and of 94.60% (0.9) and 97.28% (0.6) for esophagus tissue. Real-time tissue tracking and classification was achieved and presented live on screen.",
+        "This study provides ex vivo validation of the DRS technology for real-time differentiation of gastric and esophageal cancer from healthy tissue using machine learning with high accuracy. As such, it is a step toward the development of a real-time in vivo tumor mapping tool for esophageal and gastric cancers that can aid decision-making of resection margins intraoperatively."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Nazarian",
+        "ForeName": "Scarlet",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Imperial College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Hamlyn Centre, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Gkouzionis",
+        "ForeName": "Ioannis",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Kawka",
+        "ForeName": "Michal",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Histopathology Department, Imperial College NHS Trust, London, United Kingdom."
+          }
+        ],
+        "LastName": "Jamroziak",
+        "ForeName": "Marta",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Histopathology Department, Imperial College NHS Trust, London, United Kingdom."
+          }
+        ],
+        "LastName": "Lloyd",
+        "ForeName": "Josephine",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Imperial College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Hamlyn Centre, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Darzi",
+        "ForeName": "Ara",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Patel",
+        "ForeName": "Nisha",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Imperial College London, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Hamlyn Centre, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Elson",
+        "ForeName": "Daniel S",
+        "Initials": "DS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery and Cancer, Imperial College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Peters",
+        "ForeName": "Christopher J",
+        "Initials": "CJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "208857/Z/17/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "Acronym": "CRUK_",
+        "Agency": "Cancer Research UK",
+        "Country": "United Kingdom"
+      },
+      {
+        "Acronym": "DH_",
+        "Agency": "Department of Health",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "JAMA Surg",
+    "NlmUniqueID": "101589553",
+    "ISSNLinking": "2168-6254"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "JAMA Surg. 2023 Jul 1;158(7):773",
+      "PMID": "36857042"
+    },
+    {
+      "RefSource": "JAMA Surg. 2023 Jul 1;158(7):772-773",
+      "PMID": "36857063"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Margins of Excision"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "surgery"
+      ],
+      "DescriptorName": "Esophageal Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prospective Studies"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "surgery"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Spectrum Analysis"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "surgery"
+      ],
+      "DescriptorName": "Adenocarcinoma"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Upper Gastrointestinal Tract"
+    }
+  ],
+  "CoiStatement": "<b>Conflict of Interest Disclosures:</b> Dr Nazarian has received grants from the National Institute for Health Research Imperial Biomedical Research Centre during the conduct of the study. Dr Darzi is the Chair of Flagship Pioneering UK Ltd and the Preemptive Medicine and Health Security initiative. Dr Elson has received grants from Cancer Research UK during the conduct of the study as well as grants from National Institute for Health Research, Engineering and Physical Sciences Research Council, Wellcome Trust, and Cancer Research UK outside the submitted work; and has patents 3356558, 61/829,420, and 61/839,606 issued. Dr Peters has received grants from Cancer Research UK and National Institute for Health Research during the conduct of the study. No other disclosures were reported."
+}

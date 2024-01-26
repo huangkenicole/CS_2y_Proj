@@ -1,0 +1,200 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2 testing",
+      "compressed sensing",
+      "group testing",
+      "qPCR"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36450118",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1089/cmb.2022.0413"
+    ],
+    "Journal": {
+      "ISSN": "1557-8666",
+      "JournalIssue": {
+        "Volume": "29",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Journal of computational biology : a journal of computational molecular cell biology",
+      "ISOAbbreviation": "J Comput Biol"
+    },
+    "ArticleTitle": "Group Testing Matrix Design for PCR Screening with Real-Valued Measurements.",
+    "Pagination": {
+      "StartPage": "1397",
+      "EndPage": "1411",
+      "MedlinePgn": "1397-1411"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Single-step nonadaptive group testing approaches for reducing the number of tests required to detect a small subset of positive samples from a larger set require solving two algorithmic problems. First, how to design the samples-to-tests measurement matrix, and second, how to decode the results of the tests to uncover positive samples. In this study, we focus on the first challenge. We introduce real-valued group testing, which matches the characteristics of existing PCR testing pipelines more closely than combinatorial group testing or compressed sensing settings. We show a set of conditions that allow measurement matrices to guarantee unambiguous decoding of positives in this new setting. For small matrix sizes, we also propose an algorithm for constructing matrices that meet the proposed condition. On simulated data sets, we show that the matrices resulting from the algorithm can successfully recover positive samples at higher positivity rates than matrices designed for combinatorial group testing setting. We use wet laboratory experiments involving SARS-CoV-2 nasopharyngeal swab samples to further validate the approach."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, College of Engineering, Virginia Commonwealth University, Richmond, Virginia, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, University of California, Santa Barbara, Santa Barbara, California, USA."
+          }
+        ],
+        "LastName": "Saeedi",
+        "ForeName": "Seyran",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, School of Medicine, Virginia Commonwealth University, Richmond, Virginia, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Microbiome Engineering and Data Analysis, Virginia Commonwealth University, Richmond, Virginia, USA."
+          }
+        ],
+        "LastName": "Serrano",
+        "ForeName": "Myrna",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, College of Arts and Sciences, Drexel University, Philadelphia, Pennsylvania, USA."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Dennis G",
+        "Initials": "DG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Systems, School of Business, Virginia Commonwealth University, Richmond, Virginia, USA."
+          }
+        ],
+        "LastName": "Brooks",
+        "ForeName": "J Paul",
+        "Initials": "JP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, School of Medicine, Virginia Commonwealth University, Richmond, Virginia, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Microbiome Engineering and Data Analysis, Virginia Commonwealth University, Richmond, Virginia, USA."
+          }
+        ],
+        "LastName": "Buck",
+        "ForeName": "Gregory A",
+        "Initials": "GA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9215-5522"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, College of Engineering, Virginia Commonwealth University, Richmond, Virginia, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Microbiome Engineering and Data Analysis, Virginia Commonwealth University, Richmond, Virginia, USA."
+          }
+        ],
+        "LastName": "Arodz",
+        "ForeName": "Tomasz",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Comput Biol",
+    "NlmUniqueID": "9433358",
+    "ISSNLinking": "1066-5277"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    }
+  ]
+}

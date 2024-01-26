@@ -1,0 +1,143 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28269687",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "08",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC.2016.7592166"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2016",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "StayFit: a wearable application for Gym based power training.",
+    "Pagination": {
+      "StartPage": "6290",
+      "EndPage": "6293",
+      "MedlinePgn": "6290-6293"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Comprehensive fitness training involves both cardiorespiratory and power components. Often power/muscle strength training is confused with cardiorespiratory endurance training. However, each of them target different physiological aspects of fitness. Although, wearable based fitness trackers designed towards cardiorespiratory endurance training are available in the market, a dedicated wearable based fitness application designed for power training/tracking is still not readily available to fitness enthusiasts. With growing usage of wearable technology to manage and track personal health, it is imperative to develop health/fitness applications for wearables. A wearable based application for power training will allow the user to track build-up of muscle strength unobtrusively over a period of time. This work provides a framework and design for automatic detection, counting repetitions of strength training Gym exercises (covering all the major muscle groups), estimate personalized calories spent in each session and track power on a standalone Gear watch (both analysis and display including User Experience(UX) design). Our proposed method detects activity with ~96% sensitivity and ~96% specificity on an average and count repetitions with an overall accuracy of >95% using motion sensor data (accelerometer, gyroscope) for eight major Gym exercises. Additionally, using heart rate sensor data we have provided a mechanism to individually track the power/muscle strength of a person. This work will give further impetus towards developing wearable based systems for personalized fitness tracking and training. This will also give an option for wearable users to address both the crucial aspects of fitness (cardiorespiratory and muscle strength)."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Maheedhar",
+        "ForeName": "Maram",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gaurav",
+        "ForeName": "Aman",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Jilla",
+        "ForeName": "Vivek",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tiwari",
+        "ForeName": "Vijay N",
+        "Initials": "VN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Narayanan",
+        "ForeName": "Rangavittal",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Monitoring, Physiologic"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Muscle Strength"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Physical Endurance"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Physical Fitness"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Resistance Training"
+    }
+  ]
+}

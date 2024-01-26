@@ -1,0 +1,175 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38083270",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC40787.2023.10341015"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2023",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Personalized State Anxiety Detection: An Empirical Study with Linguistic Biomarkers and A Machine Learning Pipeline.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "6",
+      "MedlinePgn": "1-6"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Individuals high in social anxiety symptoms often exhibit elevated state anxiety in social situations. Research has shown it is possible to detect state anxiety by leveraging digital biomarkers and machine learning techniques. However, most existing work trains models on an entire group of participants, failing to capture individual differences in their psychological and behavioral responses to social contexts. To address this concern, in Study 1, we collected linguistic data from N=35 high socially anxious participants in a variety of social contexts, finding that digital linguistic biomarkers significantly differ between evaluative vs. non-evaluative social contexts and between individuals having different trait psychological symptoms, suggesting the likely importance of personalized approaches to detect state anxiety. In Study 2, we used the same data and results from Study 1 to model a multilayer personalized machine learning pipeline to detect state anxiety that considers contextual and individual differences. This personalized model outperformed the baseline's F1-score by 28.0%. Results suggest that state anxiety can be more accurately detected with personalized machine learning approaches, and that linguistic biomarkers hold promise for identifying periods of state anxiety in an unobtrusive way."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Zhiyuan",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tang",
+        "ForeName": "Mingyue",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Larrazabal",
+        "ForeName": "Maria A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Toner",
+        "ForeName": "Emma R",
+        "Initials": "ER"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rucker",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wu",
+        "ForeName": "Congyu",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Teachman",
+        "ForeName": "Bethany A",
+        "Initials": "BA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Boukhechba",
+        "ForeName": "Mehdi",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Barnes",
+        "ForeName": "Laura E",
+        "Initials": "LE"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 MH132138",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Anxiety Disorders"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fear"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ]
+}

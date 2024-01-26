@@ -1,0 +1,220 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Body mass index",
+      "Depression",
+      "Mendelian randomisation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37710313",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "09",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "355",
+      "10.1186/s12916-023-03001-7"
+    ],
+    "Journal": {
+      "ISSN": "1741-7015",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep",
+          "Day": "14"
+        }
+      },
+      "Title": "BMC medicine",
+      "ISOAbbreviation": "BMC Med"
+    },
+    "ArticleTitle": "Body mass index and inflammation in depression and treatment-resistant depression: a Mendelian randomisation study.",
+    "Pagination": {
+      "StartPage": "355",
+      "MedlinePgn": "355"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Major depressive disorder (MDD) has a significant impact on global burden of disease. Complications in clinical management can occur when response to pharmacological modalities is considered inadequate and symptoms persist (treatment-resistant depression (TRD)). We aim to investigate inflammation, proxied by C-reactive protein (CRP) levels, and body mass index (BMI) as putative causal risk factors for depression and subsequent treatment resistance, leveraging genetic information to avoid confounding via Mendelian randomisation (MR).",
+        "We used the European UK Biobank subcohort ([Formula: see text]), the mental health questionnaire (MHQ) and clinical records. For treatment resistance, a previously curated phenotype based on general practitioner (GP) records and prescription data was employed. We applied univariable and multivariable MR models to genetically predict the exposures and assess their causal contribution to a range of depression outcomes. We used a range of univariable, multivariable and mediation MR models techniques to address our research question with maximum rigour. In addition, we developed a novel statistical procedure to apply pleiotropy-robust multivariable MR to one sample data and employed a Bayesian bootstrap procedure to accurately quantify estimate uncertainty in mediation analysis which outperforms standard approaches in sparse binary outcomes. Given the flexibility of the one-sample design, we evaluated age and sex as moderators of the effects.",
+        "In univariable MR models, genetically predicted BMI was positively associated with depression outcomes, including MDD ([Formula: see text] ([Formula: see text] CI): 0.133(0.072,\u00a00.205)) and TRD (0.347(0.002,\u00a00.682)), with a larger magnitude in females and with age acting as a moderator of the effect of BMI on severity of depression (0.22(0.050,\u00a00.389)). Multivariable MR analyses suggested an independent causal effect of BMI on TRD not through CRP (0.395(0.004,\u00a00.732)). Our mediation analyses suggested that the effect of CRP on severity of depression was partly mediated by BMI. Individuals with TRD ([Formula: see text]) observationally had higher CRP and BMI compared with individuals with MDD alone and healthy controls.",
+        "Our work supports the assertion that BMI exerts a causal effect on a range of clinical and questionnaire-based depression phenotypes, with the effect being stronger in females and in younger individuals. We show that this effect is independent of inflammation proxied by CRP levels as the effects of CRP do not persist when jointly estimated with BMI. This is consistent with previous evidence suggesting that overweight contributed to depression even in the absence of any metabolic consequences. It appears that BMI exerts an effect on TRD that persists when we account for BMI influencing MDD."
+      ],
+      "CopyrightInformation": "\u00a9 2023. BioMed Central Ltd., part of Springer Nature."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7173-9967"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Medicine & Health, University of Exeter, Exeter, UK. vaskarageorg@hotmail.com."
+          }
+        ],
+        "LastName": "Karageorgiou",
+        "ForeName": "Vasilios",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Medicine & Health, University of Exeter, Exeter, UK."
+          }
+        ],
+        "LastName": "Casanova",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Medicine & Health, University of Exeter, Exeter, UK."
+          }
+        ],
+        "LastName": "O'Loughlin",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Medicine & Health, University of Exeter, Exeter, UK."
+          }
+        ],
+        "LastName": "Green",
+        "ForeName": "Harry",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Medicine & Health, University of Exeter, Exeter, UK."
+          }
+        ],
+        "LastName": "McKinley",
+        "ForeName": "Trevelyan J",
+        "Initials": "TJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Medicine & Health, University of Exeter, Exeter, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Genetics Department, Novo Nordisk Research Centre Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Bowden",
+        "ForeName": "Jack",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Medicine & Health, University of Exeter, Exeter, UK."
+          }
+        ],
+        "LastName": "Tyrrell",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "DH_",
+        "Agency": "Department of Health",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med",
+    "NlmUniqueID": "101190723",
+    "ISSNLinking": "1741-7015"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Body Mass Index"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Inflammation"
+    }
+  ],
+  "CoiStatement": "JB is employed part-time at Novo Nordisk. The other authors have no competing interests."
+}

@@ -1,0 +1,158 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33438637",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "02",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1088/2057-1976/ab6e17"
+    ],
+    "Journal": {
+      "ISSN": "2057-1976",
+      "JournalIssue": {
+        "Volume": "6",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Feb",
+          "Day": "18"
+        }
+      },
+      "Title": "Biomedical physics & engineering express",
+      "ISOAbbreviation": "Biomed Phys Eng Express"
+    },
+    "ArticleTitle": "Two dimensional multifractal detrended fluctuation analysis of low coherence images for diagnosis of cervical pre-cancer.",
+    "Pagination": {
+      "StartPage": "025011",
+      "MedlinePgn": "025011"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We report detection of cervical pre-cancer through their low coherence images by applying two dimensional multifractal detrended fluctuation analysis. Low coherent backscattered images of pre-cancerous cervical tissue sections were captured using a common path interferometric setup. The captured images contain both depth and lateral information of the spatial variation in refractive index (RI) occurring with progression of cervical pre-cancer. A two-dimensional multifractal detrended fluctuation analysis (2D MFDFA) was applied on these low coherent images to study the variations occurring in their fractal nature. Long-range correlations were observed in the RI fluctuations and the strength of multifractality was found to be stronger for higher grades of cervical pre-cancer. A combination of derived multifractal parameters, namely, the generalized Hurst exponent and width of singularity spectrum showed clear differences among the different grades of pre-cancers. Normal, CIN-I and CIN-II were clearly discriminated by application of support vector machine (SVM) using radial Bessel function (RBF) kernel. The specificities and sensitivities between normal and CIN-I, CIN-I and CIN-II and normal and CIN-II were found to be 94%, 88% and 93%, 96% and 98%, 100% respectively."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, IIT Kanpur, India."
+          }
+        ],
+        "LastName": "Sahoo",
+        "ForeName": "Gyana Ranjan",
+        "Initials": "GR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dey",
+        "ForeName": "Rajib",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Das",
+        "ForeName": "Nandan",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ghosh",
+        "ForeName": "Nirmalya",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pradhan",
+        "ForeName": "Asima",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Biomed Phys Eng Express",
+    "NlmUniqueID": "101675002",
+    "ISSNLinking": "2057-1976"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fractals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Precancerous Conditions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Uterine Cervical Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Uterine Cervical Dysplasia"
+    }
+  ]
+}

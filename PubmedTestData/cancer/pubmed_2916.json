@@ -1,0 +1,214 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "biomarkers",
+      "cancer",
+      "digital pathology",
+      "image analysis",
+      "protein subcellular location"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25489103",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "04",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "12",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1073/pnas.1415120112"
+    ],
+    "Journal": {
+      "ISSN": "1091-6490",
+      "JournalIssue": {
+        "Volume": "111",
+        "Issue": "51",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Dec",
+          "Day": "23"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "Automated analysis of immunohistochemistry images identifies candidate location biomarkers for cancers.",
+    "Pagination": {
+      "StartPage": "18249",
+      "EndPage": "18254",
+      "MedlinePgn": "18249-54"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Molecular biomarkers are changes measured in biological samples that reflect disease states. Such markers can help clinicians identify types of cancer or stages of progression, and they can guide in tailoring specific therapies. Many efforts to identify biomarkers consider genes that mutate between normal and cancerous tissues or changes in protein or RNA expression levels. Here we define location biomarkers, proteins that undergo changes in subcellular location that are indicative of disease. To discover such biomarkers, we have developed an automated pipeline to compare the subcellular location of proteins between two sets of immunohistochemistry images. We used the pipeline to compare images of healthy and tumor tissue from the Human Protein Atlas, ranking hundreds of proteins in breast, liver, prostate, and bladder based on how much their location was estimated to have changed. The performance of the system was evaluated by determining whether proteins previously known to change location in tumors were ranked highly. We present a number of candidate location biomarkers for each tissue, and identify biochemical pathways that are enriched in proteins that change location. The analysis technology is anticipated to be useful not only for discovering new location biomarkers but also for enabling automated analysis of biomarker distributions as an aid to determining diagnosis."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lane Center for Computational Biology."
+          }
+        ],
+        "LastName": "Kumar",
+        "ForeName": "Aparna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lane Center for Computational Biology."
+          }
+        ],
+        "LastName": "Rao",
+        "ForeName": "Arvind",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lane Center for Computational Biology."
+          }
+        ],
+        "LastName": "Bhavani",
+        "ForeName": "Santosh",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Bioimage Informatics, Department of Biomedical Engineering."
+          }
+        ],
+        "LastName": "Newberg",
+        "ForeName": "Justin Y",
+        "Initials": "JY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lane Center for Computational Biology, Center for Bioimage Informatics, Department of Biomedical Engineering, Department of Biological Sciences, and Machine Learning Department, Carnegie Mellon University, Pittsburgh, PA 15213 murphy@cmu.edu."
+          }
+        ],
+        "LastName": "Murphy",
+        "ForeName": "Robert F",
+        "Initials": "RF"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM075205",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 EB009403",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "EB009403",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "GM075205",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Automation"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Subcellular Fractions"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

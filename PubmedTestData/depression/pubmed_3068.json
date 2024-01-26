@@ -1,0 +1,145 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "CD",
+      "CNN",
+      "EEG",
+      "LSTM"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33090373",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "10",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s13246-020-00938-4"
+    ],
+    "Journal": {
+      "ISSN": "2662-4737",
+      "JournalIssue": {
+        "Volume": "43",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Physical and engineering sciences in medicine",
+      "ISOAbbreviation": "Phys Eng Sci Med"
+    },
+    "ArticleTitle": "EEG-based deep learning model for the automatic detection of clinical depression.",
+    "Pagination": {
+      "StartPage": "1349",
+      "EndPage": "1360",
+      "MedlinePgn": "1349-1360"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Clinical depression is a neurological disorder that can be identified by analyzing the Electroencephalography (EEG) signals. However, the major drawback in using EEG to accurately identify depression is the complexity and variation that exist in the EEG of a depressed individual. There are several strategies for automated depression diagnosis, but they all have flaws, which make the diagnostic task inaccurate. In this paper, a deep\u00a0model is designed in which an integration of Convolution Neural Network (CNN) and Long Short Term Memory (LSTM) is implemented for the detection of depression. CNN and LSTM are used to learn the local characteristics and the EEG signal sequence, respectively. In the deep learning model, filters in the convolution layer are convolved with the input signal to generate feature maps. All the extracted features are given to the LSTM for it to learn the different patterns in the signal, after which the classification is performed using fully connected layers. LSTM has memory cells to remember the essential features for a long time. It also has different functions to update the weights during training. Testing of the model was done by random splitting technique and obtained 99.07% and 98.84% accuracies for the right and left hemispheres EEG signals, respectively."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, Mar Athanasius College of Engineering, Kothamangalam, Kerala, India. pristypault@gmail.com."
+          }
+        ],
+        "LastName": "Thoduparambil",
+        "ForeName": "Pristy Paul",
+        "Initials": "PP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, Mar Athanasius College of Engineering, Kothamangalam, Kerala, India."
+          }
+        ],
+        "LastName": "Dominic",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, Mar Athanasius College of Engineering, Kothamangalam, Kerala, India."
+          }
+        ],
+        "LastName": "Varghese",
+        "ForeName": "Surekha Mariam",
+        "Initials": "SM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Phys Eng Sci Med",
+    "NlmUniqueID": "101760671",
+    "ISSNLinking": "2662-4729"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electroencephalography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37471025",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "07",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1037/abn0000850"
+    ],
+    "Journal": {
+      "ISSN": "2769-755X",
+      "JournalIssue": {
+        "Volume": "132",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Journal of psychopathology and clinical science",
+      "ISOAbbreviation": "J Psychopathol Clin Sci"
+    },
+    "ArticleTitle": "Depression and anxiety have distinct and overlapping language patterns: Results from a clinical interview.",
+    "Pagination": {
+      "StartPage": "972",
+      "EndPage": "983",
+      "MedlinePgn": "972-983"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Depression has been associated with heightened <i>first-person singular pronoun</i> use (<i>I-usage</i>; e.g., \"I,\" \"my\") and <i>negative emotion</i> words. However, past research has relied on nonclinical samples and nonspecific depression measures, raising the question of whether these features are unique to depression vis-\u00e0-vis frequently co-occurring conditions, especially anxiety. Using structured questions about recent life changes or difficulties, we interviewed a sample of individuals with varying levels of depression and anxiety (<i>N</i> = 486), including individuals in a major depressive episode (<i>n</i> = 228) and/or diagnosed with generalized anxiety disorder (<i>n</i> = 273). Interviews were transcribed to provide a natural language sample. Analyses isolated language features associated with gold standard, clinician-rated measures of depression and anxiety. Many language features associated with depression were in fact shared between depression and anxiety. Language markers with relative specificity to depression included <i>I-usage</i>, <i>sadness</i>, and decreased <i>positive emotion,</i> while <i>negations</i> (e.g., \"not,\" \"no\"), <i>negative emotion,</i> and several emotional language markers (e.g., <i>anxiety, stress, depression</i>) were relatively specific to anxiety. Several of these results were replicated using a self-report measure designed to disentangle components of depression and anxiety. We next built machine learning models to detect severity of common and specific depression and anxiety using only interview language. Individuals' speech characteristics during this brief interview predicted their depression and anxiety severity, beyond other clinical and demographic variables. Depression and anxiety have partially distinct patterns of expression in spoken language. Monitoring of depression and anxiety severity via language can augment traditional assessment modalities and aid in early detection. (PsycInfo Database Record (c) 2023 APA, all rights reserved)."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6409-848X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Pennsylvania."
+          }
+        ],
+        "LastName": "Stade",
+        "ForeName": "Elizabeth C",
+        "Initials": "EC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer and Information Science, University of Pennsylvania."
+          }
+        ],
+        "LastName": "Ungar",
+        "ForeName": "Lyle",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3220-2972"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, Stanford University."
+          }
+        ],
+        "LastName": "Eichstaedt",
+        "ForeName": "Johannes C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Intramural Research Program, National Institute on Drug Abuse."
+          }
+        ],
+        "LastName": "Sherman",
+        "ForeName": "Garrick",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Pennsylvania."
+          }
+        ],
+        "LastName": "Ruscio",
+        "ForeName": "Ayelet Meron",
+        "Initials": "AM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 MH094425",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Psychopathol Clin Sci",
+    "NlmUniqueID": "9918351179206676",
+    "ISSNLinking": "2769-7541"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Language"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "Anxiety Disorders"
+    }
+  ],
+  "CoiStatement": "The authors have no conflicts of interest to report."
+}

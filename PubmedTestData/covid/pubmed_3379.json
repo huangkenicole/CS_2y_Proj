@@ -1,0 +1,189 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Rapid antigen Test",
+      "Screening",
+      "Simulations"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36424587",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "452",
+      "10.1186/s12916-022-02641-5"
+    ],
+    "Journal": {
+      "ISSN": "1741-7015",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov",
+          "Day": "23"
+        }
+      },
+      "Title": "BMC medicine",
+      "ISOAbbreviation": "BMC Med"
+    },
+    "ArticleTitle": "Economic evaluation of COVID-19 rapid antigen screening programs in the workplace.",
+    "Pagination": {
+      "StartPage": "452",
+      "MedlinePgn": "452"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Diagnostic testing has been pivotal in detecting SARS-CoV-2 infections and reducing transmission through the isolation of positive cases. We quantified the value of implementing frequent, rapid antigen (RA) testing in the workplace to identify screening programs that are cost-effective.",
+        "To project the number of cases, hospitalizations, and deaths under alternative screening programs, we adapted an agent-based model of COVID-19 transmission and parameterized it with the demographics of Ontario, Canada, incorporating vaccination and waning of immunity. Taking into account healthcare costs and productivity losses associated with each program, we calculated the incremental cost-effectiveness ratio (ICER) with quality-adjusted life year (QALY) as the measure of effect. Considering RT-PCR testing of only severe cases as the baseline scenario, we estimated the incremental net monetary benefits (iNMB) of the screening programs with varying durations and initiation times, as well as different booster coverages of working adults.",
+        "Assuming a willingness-to-pay threshold of CDN$30,000 per QALY loss averted, twice weekly workplace screening was cost-effective only if the program started early during a surge. In most scenarios, the iNMB of RA screening without a confirmatory RT-PCR or RA test was comparable or higher than the iNMB for programs with a confirmatory test for RA-positive cases. When the program started early with a duration of at least 16 weeks and no confirmatory testing, the iNMB exceeded CDN$1.1 million per 100,000 population. Increasing booster coverage of working adults improved the iNMB of RA screening.",
+        "Our findings indicate that frequent RA testing starting very early in a surge, without a confirmatory test, is a preferred screening program for the detection of asymptomatic infections in workplaces."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Agent-Based Modelling Laboratory, York University, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Vilches",
+        "ForeName": "Thomas N",
+        "Initials": "TN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Health Economics, Edmonton, Alberta, Canada."
+          }
+        ],
+        "LastName": "Rafferty",
+        "ForeName": "Ellen",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Infectious Disease Modeling and Analysis, Yale School of Public Health, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Wells",
+        "ForeName": "Chad R",
+        "Initials": "CR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Infectious Disease Modeling and Analysis, Yale School of Public Health, New Haven, CT, USA."
+          }
+        ],
+        "LastName": "Galvani",
+        "ForeName": "Alison P",
+        "Initials": "AP"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4414-0227"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Agent-Based Modelling Laboratory, York University, Toronto, Ontario, Canada. moghadas@yorku.ca."
+          }
+        ],
+        "LastName": "Moghadas",
+        "ForeName": "Seyed M",
+        "Initials": "SM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "OV4 \u2013 170643",
+        "Agency": "CIHR",
+        "Country": "Canada"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med",
+    "NlmUniqueID": "101190723",
+    "ISSNLinking": "1741-7015"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cost-Benefit Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Workplace"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Ontario"
+    }
+  ],
+  "CoiStatement": "The authors declared that they have no competing interests."
+}

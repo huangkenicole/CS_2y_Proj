@@ -1,0 +1,205 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Gene expression",
+      "In vivo profiling",
+      "Infection",
+      "NanoString",
+      "Pathogen",
+      "RNA isolation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26483015",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "08",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/978-1-4939-3079-1_3"
+    ],
+    "Journal": {
+      "ISSN": "1940-6029",
+      "JournalIssue": {
+        "Volume": "1361",
+        "PubDate": {
+          "Year": "2016"
+        }
+      },
+      "Title": "Methods in molecular biology (Clifton, N.J.)",
+      "ISOAbbreviation": "Methods Mol Biol"
+    },
+    "ArticleTitle": "Pathogen Gene Expression Profiling During Infection Using a Nanostring nCounter Platform.",
+    "Pagination": {
+      "StartPage": "57",
+      "EndPage": "65",
+      "MedlinePgn": "57-65"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "NanoString nCounter is a recently developed platform that can make direct multiplexed measurement of gene expression using color-coded probe pairs (Geiss et al., Nat Biotechnol 26(3):317-325, 2008; Malkov et al., BMC Res Notes 2:80, 2009). We have found that this platform is uniquely suitable for quantification of pathogen gene expression during infection, where pathogen RNA comprises a tiny portion of total RNA isolated from the infected tissue. Here, we describe a protocol that we have successfully applied to a number of pathogens across multiple infection models, including both invasive and mucosal infection by Candida albicans, and lung infection by Aspergillus fumigatus and Cryptococcus neoformans."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, Carnegie Mellon University, 4400 Fifth Avenue, MI 200B, Pittsburgh, PA, 15213, USA."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Wenjie",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Los Angeles Biomedical Research Institute at Harbor-UCLA Medical Center, Torrance, CA, 90502, USA."
+          }
+        ],
+        "LastName": "Solis",
+        "ForeName": "Norma V",
+        "Initials": "NV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Los Angeles Biomedical Research Institute at Harbor-UCLA Medical Center, Torrance, CA, 90502, USA."
+          }
+        ],
+        "LastName": "Filler",
+        "ForeName": "Scott G",
+        "Initials": "SG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, Carnegie Mellon University, 4400 Fifth Avenue, MI 200B, Pittsburgh, PA, 15213, USA. apm1@cmu.edu."
+          }
+        ],
+        "LastName": "Mitchell",
+        "ForeName": "Aaron P",
+        "Initials": "AP"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 AI054928",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 DE017088",
+        "Acronym": "DE",
+        "Agency": "NIDCR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 DE023311",
+        "Acronym": "DE",
+        "Agency": "NIDCR NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R56 AI111836",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Methods Mol Biol",
+    "NlmUniqueID": "9214969",
+    "ISSNLinking": "1064-3745"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "63231-63-0",
+      "NameOfSubstance": "RNA"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Aspergillus fumigatus"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Candida albicans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Cryptococcus neoformans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Fungal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "microbiology"
+      ],
+      "DescriptorName": "Infections"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Nanotechnology"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "RNA"
+    }
+  ]
+}

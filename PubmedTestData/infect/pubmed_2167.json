@@ -1,0 +1,165 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26251155",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "04",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "08",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s11538-015-0091-7"
+    ],
+    "Journal": {
+      "ISSN": "1522-9602",
+      "JournalIssue": {
+        "Volume": "77",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Bulletin of mathematical biology",
+      "ISOAbbreviation": "Bull Math Biol"
+    },
+    "ArticleTitle": "A Framework for Inferring Unobserved Multistrain Epidemic Subpopulations Using Synchronization Dynamics.",
+    "Pagination": {
+      "StartPage": "1437",
+      "EndPage": "1455",
+      "MedlinePgn": "1437-55"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A new method is proposed to infer unobserved epidemic subpopulations by exploiting the synchronization properties of multistrain epidemic models. A model for dengue fever is driven by simulated data from secondary infective populations. Primary infective populations in the driven system synchronize to the correct values from the driver system. Most hospital cases of dengue are secondary infections, so this method provides a way to deduce unobserved primary infection levels. We derive center manifold equations that relate the driven system to the driver system and thus motivate the use of synchronization to predict unobserved primary infectives. Synchronization stability between primary and secondary infections is demonstrated through numerical measurements of conditional Lyapunov exponents and through time series simulations."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematical Sciences, Montclair State University, 1 Normal Avenue, Montclair, NJ, 07043, USA, eric.forgoston@montclair.edu."
+          }
+        ],
+        "LastName": "Forgoston",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Shaw",
+        "ForeName": "Leah B",
+        "Initials": "LB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Schwartz",
+        "ForeName": "Ira B",
+        "Initials": "IB"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM090204",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01GM090204",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Bull Math Biol",
+    "NlmUniqueID": "0401404",
+    "ISSNLinking": "0092-8240"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "Coinfection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "Dengue"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "immunology"
+      ],
+      "DescriptorName": "Dengue Virus"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Epidemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematical Concepts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Serotyping"
+    }
+  ]
+}

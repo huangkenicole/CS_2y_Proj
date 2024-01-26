@@ -1,0 +1,215 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25010556",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "03",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "07",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1003709",
+      "10.1371/journal.pcbi.1003709"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Jul"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "The dynamics of DNA methylation covariation patterns in carcinogenesis.",
+    "Pagination": {
+      "StartPage": "e1003709",
+      "MedlinePgn": "e1003709"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Recently it has been observed that cancer tissue is characterised by an increased variability in DNA methylation patterns. However, how the correlative patterns in genome-wide DNA methylation change during the carcinogenic progress has not yet been explored. Here we study genome-wide inter-CpG correlations in DNA methylation, in addition to single site variability, during cervical carcinogenesis. We demonstrate how the study of changes in DNA methylation covariation patterns across normal, intra-epithelial neoplasia and invasive cancer allows the identification of CpG sites that indicate the risk of neoplastic transformation in stages prior to neoplasia. Importantly, we show that the covariation in DNA methylation at these risk CpG loci is maximal immediately prior to the onset of cancer, supporting the view that high epigenetic diversity in normal cells increases the risk of cancer. Consistent with this, we observe that invasive cancers exhibit increased covariation in DNA methylation at the risk CpG sites relative to normal tissue, but lower levels relative to pre-cancerous lesions. We further show that the identified risk CpG sites undergo preferential DNA methylation changes in relation to human papilloma virus infection and age. Results are validated in independent data including prospectively collected samples prior to neoplastic transformation. Our data are consistent with a phase transition model of carcinogenesis, in which epigenetic diversity is maximal prior to the onset of cancer. The model and algorithm proposed here may allow, in future, network biomarkers predicting the risk of neoplastic transformation to be identified."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences, Shanghai Institute for Biological Sciences, Shanghai, China; Statistical Genomics Group, UCL Cancer Institute, University College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Teschendorff",
+        "ForeName": "Andrew E",
+        "Initials": "AE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Systems Biology, SIBS-Nordisk Translational Research Centre for PreDiabetes, Shanghai Institute for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Xiaoping",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sahlgrenska Cancer Center, Department of Pathology, University of Gothenburg, Gothenburg, Sweden."
+          }
+        ],
+        "LastName": "Caren",
+        "ForeName": "Helena",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cancer Biology, UCL Cancer Institute, University College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Pollard",
+        "ForeName": "Steve M",
+        "Initials": "SM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Genomics Group, UCL Cancer Institute, University College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Beck",
+        "ForeName": "Stephan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Women's Cancer, UCL EGA Institute for Women's Health, University College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Widschwendter",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Systems Biology, SIBS-Nordisk Translational Research Centre for PreDiabetes, Shanghai Institute for Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Luonan",
+        "Initials": "L"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "Carcinogenesis"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Papillomavirus Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Uterine Cervical Neoplasms"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

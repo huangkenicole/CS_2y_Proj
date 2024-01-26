@@ -1,0 +1,113 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28268775",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "08",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC.2016.7591175"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2016",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Measuring the quality of exercises.",
+    "Pagination": {
+      "StartPage": "2241",
+      "EndPage": "2244",
+      "MedlinePgn": "2241-2244"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This work explores the problem of exercise quality measurement since it is essential for effective management of diseases like cerebral palsy (CP). This work examines the assessment of quality of large amplitude movement (LAM) exercises designed to treat CP in an automated fashion. Exercise data was collected by trained participants to generate ideal examples to use as a positive samples for machine learning. Following that, subjects were asked to deliberately make subtle errors during the exercise, such as restricting movements, as is commonly seen in cases of patients suffering from CP. The quality measurement problem was then posed as a classification to determine whether an example exercise was either \"good\" or \"bad\". Popular machine learning techniques for classification, including support vector machines (SVM), single and double-layered neural networks (NN), boosted decision trees, and dynamic time warping (DTW), were compared. The AdaBoosted tree performed best with an accuracy of 94.68% demonstrating the feasibility of assessing exercise quality."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Parmar",
+        "ForeName": "Paritosh",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Morris",
+        "ForeName": "Brendan Tran",
+        "Initials": "BT"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Decision Trees"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quality Control"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ]
+}

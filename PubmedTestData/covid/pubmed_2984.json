@@ -1,0 +1,279 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "automated classifiers",
+      "diagnosis",
+      "laboratory medicine",
+      "machine learning",
+      "physicians' gestalt"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36866553",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.31083/j.fbl2802031"
+    ],
+    "Journal": {
+      "ISSN": "2768-6698",
+      "JournalIssue": {
+        "Volume": "28",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb",
+          "Day": "22"
+        }
+      },
+      "Title": "Frontiers in bioscience (Landmark edition)",
+      "ISOAbbreviation": "Front Biosci (Landmark Ed)"
+    },
+    "ArticleTitle": "A Computational Approach in the Diagnostic Process of COVID-19: The Missing Link between the Laboratory and Emergency Department.",
+    "Pagination": {
+      "StartPage": "31",
+      "MedlinePgn": "31"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is responsible for the COVID-19 pandemic and so it is crucial the right evaluation of viral infection. According to the Centers for Disease Control and Prevention (CDC), the Real-Time Reverse Transcription PCR (RT-PCR) in respiratory samples is the gold standard for confirming the disease. However, it has practical limitations as time-consuming procedures and a high rate of false-negative results. We aim to assess the accuracy of COVID-19 classifiers based on Arificial Intelligence (AI) and statistical classification methods adapted on blood tests and other information routinely collected at the Emergency Departments (EDs).",
+        "Patients admitted to the ED of Careggi Hospital from April 7th-30th 2020 with pre-specified features of suspected COVID-19 were enrolled. Physicians prospectively dichotomized them as COVID-19 likely/unlikely case, based on clinical features and bedside imaging support. Considering the limits of each method to identify a case of COVID-19, further evaluation was performed after an independent clinical review of 30-day follow-up data. Using this as a gold standard, several classifiers were implemented: Logistic Regression (LR), Quadratic Discriminant Analysis (QDA), Random Forest (RF), Support Vector Machine (SVM), Neural Networks (NN), K-nearest neighbor (K-NN), Naive Bayes (NB).",
+        "Most of the classifiers show a ROC >0.80 on both internal and external validation samples but the best results are obtained applying RF, LR and NN. The performance from the external validation sustains the proof of concept to use such mathematical models fast, robust and efficient for a first identification of COVID-19 positive patients. These tools may constitute both a bedside support while waiting for RT-PCR results, and a tool to point to a deeper investigation, by identifying which patients are more likely to develop into positive cases within 7 days.",
+        "Considering the obtained results and with a rapidly changing virus, we believe that data processing automated procedures may provide a valid support to the physicians facing the decision to classify a patient as a COVID-19 case or not."
+      ],
+      "CopyrightInformation": "\u00a9 2023 The Author(s). Published by IMR Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Diagnostics, Biochemistry Laboratory, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Lanzilao",
+        "ForeName": "Luisa",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Now with Occupational Medicine Unit, Careggi University Hospital 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Mariniello",
+        "ForeName": "Antonella",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Economics, University of Perugia, 06123 Perugia, Italy."
+          }
+        ],
+        "LastName": "Polenzani",
+        "ForeName": "Bianca",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Diagnostics, Biochemistry Laboratory, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Aldinucci",
+        "ForeName": "Alessandra",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Nazerian",
+        "ForeName": "Peiman",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Prota",
+        "ForeName": "Alessio",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Emergency Medicine, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Grifoni",
+        "ForeName": "Stefano",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Health and Management, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Tonietti",
+        "ForeName": "Barbara",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Health and Management, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Neri",
+        "ForeName": "Chiara",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Health and Management, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Turco",
+        "ForeName": "Livia",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Diagnostics, Biochemistry Laboratory, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Fanelli",
+        "ForeName": "Alessandra",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Experimental and Clinical Medicine, University of Florence, 50134 Florence, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Interdisciplinary Internal Medicine Unit, Careggi University Hospital, 50134 Florence, Italy."
+          }
+        ],
+        "LastName": "Amedei",
+        "ForeName": "Amedeo",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Economics, University of Perugia, 06123 Perugia, Italy."
+          }
+        ],
+        "LastName": "Stanghellini",
+        "ForeName": "Elena",
+        "Initials": "E"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Singapore",
+    "MedlineTA": "Front Biosci (Landmark Ed)",
+    "NlmUniqueID": "101612996",
+    "ISSNLinking": "2768-6698"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "United States"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Emergency Service, Hospital"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest. AA is serving as one of the Editorial Board members and Guest editors of this journal. AF was the Guest Editor of this journal. We declare that AA and AF had no involvement in the peer review of this article and has no access to information regarding its peer review. Full responsibility for the editorial process for this article was delegated to RJPA."
+}

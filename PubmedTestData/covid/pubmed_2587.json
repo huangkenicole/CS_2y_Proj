@@ -1,0 +1,134 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "molecular epidemiology",
+      "temporal networks",
+      "variant tracking"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37098217",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1089/cmb.2022.0469"
+    ],
+    "Journal": {
+      "ISSN": "1557-8666",
+      "JournalIssue": {
+        "Volume": "30",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Journal of computational biology : a journal of computational molecular cell biology",
+      "ISOAbbreviation": "J Comput Biol"
+    },
+    "ArticleTitle": "Dynamic Epidemiological Networks: A Data Representation Framework for Modeling and Tracking of SARS-CoV-2 Variants.",
+    "Pagination": {
+      "StartPage": "446",
+      "EndPage": "468",
+      "MedlinePgn": "446-468"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The large-scale real-time sequencing of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genomes has allowed for rapid identification of concerning variants through phylogenetic analysis. However, the nature of phylogenetic reconstruction is typically static, in that the relationships between taxonomic units, once defined, are not subject to alterations. Furthermore, most phylogenetic methods are intrinsically batch mode in nature, requiring the presence of the entire data set. Finally, the emphasis of phylogenetics is on relating taxonomical units. These characteristics complicate the application of classical phylogenetics methods to represent relationships in molecular data collected from rapidly evolving strains of an etiological agent, such as SARS-CoV-2, since the molecular landscape is updated continuously as samples are collected. In such settings, variant definitions are subject to epistemological constraints and may change as data accumulate. Furthermore, representing within-variant molecular relationships may be as important as representing between variant relationships. This article describes a novel data representation framework called dynamic epidemiological networks (DENs) along with algorithms that underpin its construction to address these issues. The proposed representation is applied to study the molecular development underlying the spread of the COVID-19 (coronavirus disease 2019) pandemic in two countries: Israel and Portugal spanning a 2-year period from February 2020 to April 2022. The results demonstrate how this framework could be used to provide a multiscale representation of the data by capturing molecular relationships between samples as well as those between variants, automatically identifying the emergence of high frequency variants (lineages), including variants of concern such as Alpha and Delta, and tracking their growth. Additionally, we show how analyzing the evolution of the DEN can help identify changes in the viral population that could not be readily inferred from phylogenetic analysis."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, San Francisco State University, San Francisco, California, USA."
+          }
+        ],
+        "LastName": "Senchyna",
+        "ForeName": "Fiona",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3900-4298"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, San Francisco State University, San Francisco, California, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Discovery and Innovation in Parasitic Diseases, University of California, San Diego, California, USA."
+          }
+        ],
+        "LastName": "Singh",
+        "ForeName": "Rahul",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Comput Biol",
+    "NlmUniqueID": "9433358",
+    "ISSNLinking": "1066-5277"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    }
+  ]
+}

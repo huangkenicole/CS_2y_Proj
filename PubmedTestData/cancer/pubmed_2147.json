@@ -1,0 +1,147 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "AML",
+      "cancer-specific pathways",
+      "pathway activation score"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36173247",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "26"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "giac091",
+      "10.1093/gigascience/giac091"
+    ],
+    "Journal": {
+      "ISSN": "2047-217X",
+      "JournalIssue": {
+        "Volume": "11",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Sep",
+          "Day": "29"
+        }
+      },
+      "Title": "GigaScience",
+      "ISOAbbreviation": "Gigascience"
+    },
+    "ArticleTitle": "Discovery of druggable cancer-specific pathways with application in acute myeloid leukemia.",
+    "Abstract": {
+      "AbstractText": [
+        "An individualized cancer therapy is ideally chosen to target the cancer's driving biological pathways, but identifying such pathways is challenging because of their underlying heterogeneity and there is no guarantee that they are druggable. We hypothesize that a cancer with an activated druggable cancer-specific pathway (DCSP) is more likely to respond to the relevant drug. Here we develop and validate a systematic method to search for such DCSPs, by (i) introducing a pathway activation score (PAS) that integrates cancer-specific driver mutations and gene expression profile and drug-specific gene targets, (ii) applying the method to identify DCSPs from pan-cancer datasets, and (iii) analyzing the correlation between PAS and the response to relevant drugs. In total, 4,794 DCSPs from 23 different cancers have been discovered in the Genomics of Drug Sensitivity in Cancer database and validated in The Cancer Genome Atlas database. Supporting the hypothesis, for the DCSPs in acute myeloid leukemia, cancers with higher PASs are shown to have stronger drug response, and this is validated in the BeatAML cohort. All DCSPs are publicly available at https://www.meb.ki.se/shiny/truvu/DCSP/."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2022. Published by Oxford University Press GigaScience."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2429-0287"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels v\u00e4g 12A, Stockholm 17177, Sweden."
+          }
+        ],
+        "LastName": "Trac",
+        "ForeName": "Quang Thinh",
+        "Initials": "QT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Data Sciences, Zhejiang University of Finance and Economics, 310018 Hangzhou, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Tingyou",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0324-7052"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels v\u00e4g 12A, Stockholm 17177, Sweden."
+          }
+        ],
+        "LastName": "Pawitan",
+        "ForeName": "Yudi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7945-5750"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels v\u00e4g 12A, Stockholm 17177, Sweden."
+          }
+        ],
+        "LastName": "Vu",
+        "ForeName": "Trung Nghia",
+        "Initials": "TN"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Gigascience",
+    "NlmUniqueID": "101596872",
+    "ISSNLinking": "2047-217X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics"
+      ],
+      "DescriptorName": "Leukemia, Myeloid, Acute"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

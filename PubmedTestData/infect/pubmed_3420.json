@@ -1,0 +1,141 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "20867419",
+  "DateCompleted": {
+    "Year": "2011",
+    "Month": "02",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2010",
+        "Month": "06",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1079-7114",
+      "JournalIssue": {
+        "Volume": "104",
+        "Issue": "25",
+        "PubDate": {
+          "Year": "2010",
+          "Month": "Jun",
+          "Day": "25"
+        }
+      },
+      "Title": "Physical review letters",
+      "ISOAbbreviation": "Phys Rev Lett"
+    },
+    "ArticleTitle": "Epidemic threshold for the susceptible-infectious-susceptible model on random networks.",
+    "Pagination": {
+      "StartPage": "258701",
+      "MedlinePgn": "258701"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We derive an analytical expression for the critical infection rate r{c} of the susceptible-infectious-susceptible (SIS) disease spreading model on random networks. To obtain r{c}, we first calculate the probability of reinfection \u03c0, defined as the probability of a node to reinfect the node that had earlier infected it. We then derive r{c} from \u03c0 using percolation theory. We show that \u03c0 is governed by two effects: (i) the requirement from an infecting node to recover prior to its reinfection, which depends on the SIS disease spreading parameters, and (ii) the competition between nodes that simultaneously try to reinfect the same ancestor, which depends on the network topology."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Minerva Center and Department of Physics, Bar-Ilan University, Ramat Gan, Israel."
+          }
+        ],
+        "LastName": "Parshani",
+        "ForeName": "Roni",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Carmi",
+        "ForeName": "Shai",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Havlin",
+        "ForeName": "Shlomo",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Phys Rev Lett",
+    "NlmUniqueID": "0401141",
+    "ISSNLinking": "0031-9007"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Susceptibility"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Kinetics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Probability"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Systems Theory"
+    }
+  ]
+}

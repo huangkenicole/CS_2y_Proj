@@ -1,0 +1,247 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "23029380",
+  "DateCompleted": {
+    "Year": "2013",
+    "Month": "03",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2012",
+        "Month": "09",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e46045",
+      "10.1371/journal.pone.0046045"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2012"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "MicroRNA expression profiles of whole blood in lung adenocarcinoma.",
+    "Pagination": {
+      "StartPage": "e46045",
+      "MedlinePgn": "e46045"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The association of lung cancer with changes in microRNAs in plasma shown in multiple studies suggests a utility for circulating microRNA biomarkers in non-invasive detection of the disease. We examined if presence of lung cancer is reflected in whole blood microRNA expression as well, possibly because of a systemic response. Locked nucleic acid microarrays were used to quantify the global expression of microRNAs in whole blood of 22 patients with lung adenocarcinoma and 23 controls, ten of whom had a radiographically detected non-cancerous lung nodule and the other 13 were at high risk for developing lung cancer because of a smoking history of >20 pack-years. Cases and controls differed significantly for age with a mean difference of 10.7 years, but not for gender, race, smoking history, blood hemoglobin, platelet count, or white blood cell count. Of 1282 quantified human microRNAs, 395 (31%) were identified as expressed in the study's subjects, with 96 (24%) differentially expressed between cases and controls. Classification analyses of microRNA expression data were performed using linear kernel support vector machines (SVM) and top-scoring pairs (TSP) methods, and classifiers to identify presence of lung adenocarcinoma were internally cross-validated. In leave-one-out cross-validation, the TSP classifiers had sensitivity and specificity of 91% and 100%, respectively. The values with SVM were both 91%. In a Monte Carlo cross-validation, average sensitivity and specificity values were 86% and 97%, respectively, with TSP, and 88% and 89%, respectively, with SVM. MicroRNAs miR-190b, miR-630, miR-942, and miR-1284 were the most frequent constituents of the classifiers generated during the analyses. These results suggest that whole blood microRNA expression profiles can be used to distinguish lung cancer cases from clinically relevant controls. Further studies are needed to validate this observation, including in non-adenocarcinomatous lung cancers, and to clarify upon the confounding effect of age."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Roswell Park Cancer Institute, Buffalo, New York, United States of America."
+          }
+        ],
+        "LastName": "Patnaik",
+        "ForeName": "Santosh K",
+        "Initials": "SK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yendamuri",
+        "ForeName": "Sai",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kannisto",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kucharczuk",
+        "ForeName": "John C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Singhal",
+        "ForeName": "Sunil",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Vachani",
+        "ForeName": "Anil",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "K07 CA111952",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA016056",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "K07CA111952",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 CA156087",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "1R21CA156087-01A1",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MIRN942 microRNA, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "blood",
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Adenocarcinoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adenocarcinoma of Lung"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "genetics"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "genetics"
+      ],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    }
+  ],
+  "CoiStatement": "<b>Competing Interests: </b>SY is currently an academic editor for PLOS ONE. This does not alter the authors\u2019 adherence to all the PLOS ONE policies on sharing data and materials."
+}

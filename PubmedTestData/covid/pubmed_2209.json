@@ -1,0 +1,296 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33035337",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa861"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "DockCoV2: a drug database against SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "D1152",
+      "EndPage": "D1159",
+      "MedlinePgn": "D1152-D1159"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The current state of the COVID-19 pandemic is a global health crisis. To fight the novel coronavirus, one of the best-known ways is to block enzymes essential for virus replication. Currently, we know that the SARS-CoV-2 virus encodes about 29 proteins such as spike protein, 3C-like protease (3CLpro), RNA-dependent RNA polymerase (RdRp), Papain-like protease (PLpro), and nucleocapsid (N) protein. SARS-CoV-2 uses human angiotensin-converting enzyme 2 (ACE2) for viral entry and transmembrane serine protease family member II (TMPRSS2) for spike protein priming. Thus in order to speed up the discovery of potential drugs, we develop DockCoV2, a drug database for SARS-CoV-2. DockCoV2 focuses on predicting the binding affinity of FDA-approved and Taiwan National Health Insurance (NHI) drugs with the seven proteins mentioned above. This database contains a total of 3,109 drugs. DockCoV2 is easy to use and search against, is well cross-linked to external databases, and provides the state-of-the-art prediction results in one site. Users can download their drug-protein docking data of interest and examine additional drug-related information on DockCoV2. Furthermore, DockCoV2 provides experimental information to help users understand which drugs have already been reported to be effective against MERS or SARS-CoV. DockCoV2 is available at https://covirus.cc/drugs/."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Taiwan AI Labs, Taipei 10351, Taiwan."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Ting-Fu",
+        "Initials": "TF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Taiwan AI Labs, Taipei 10351, Taiwan."
+          }
+        ],
+        "LastName": "Chang",
+        "ForeName": "Yu-Chuan",
+        "Initials": "YC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Taiwan AI Labs, Taipei 10351, Taiwan."
+          }
+        ],
+        "LastName": "Hsiao",
+        "ForeName": "Yi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Taiwan AI Labs, Taipei 10351, Taiwan."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Ko-Han",
+        "Initials": "KH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Taiwan AI Labs, Taipei 10351, Taiwan."
+          }
+        ],
+        "LastName": "Hsiao",
+        "ForeName": "Yu-Chun",
+        "Initials": "YC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Taiwan AI Labs, Taipei 10351, Taiwan."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Yu-Hsiang",
+        "Initials": "YH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Taiwan AI Labs, Taipei 10351, Taiwan."
+          }
+        ],
+        "LastName": "Tu",
+        "ForeName": "Yi-Chin Ethan",
+        "Initials": "YE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Biomedical Informatics, National Yang-Ming University, Taipei 11221, Taiwan."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Hsuan-Cheng",
+        "Initials": "HC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Taiwan AI Labs, Taipei 10351, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomechatronics Engineering, National Taiwan University, Taipei 10617, Taiwan."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Chien-Yu",
+        "Initials": "CY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Taiwan AI Labs, Taipei 10351, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, Taipei 10617, Taiwan."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Life Science, National Taiwan University, Taipei 10617, Taiwan."
+          }
+        ],
+        "LastName": "Juan",
+        "ForeName": "Hsueh-Fen",
+        "Initials": "HF"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Data Curation"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Data Mining"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Databases, Pharmaceutical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Protein Binding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Domains"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "metabolism",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Viral Proteins"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Virus Replication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34310606",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0253978",
+      "10.1371/journal.pone.0253978"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Methodology of emergency medical logistics for multiple epidemic areas in public health emergency.",
+    "Pagination": {
+      "StartPage": "e0253978",
+      "MedlinePgn": "e0253978"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Coronavirus disease 2019(COVID-19) has brought great disasters to humanity, and its influence continues to intensify. In response to the public health emergencies, prompt relief supplies are key to reduce the damage. This paper presents a method of emergency medical logistics to quick response to emergency epidemics. The methodology includes two recursive mechanisms: (1) the time-varying forecasting of medical relief demand according to a modified susceptible-exposed-infected- Asymptomatic- recovered (SEIAR) epidemic diffusion model, (2) the relief supplies distribution based on a multi-objective dynamic stochastic programming model. Specially, the distribution model addresses a hypothetical network of emergency medical logistics with considering emergency medical reserve centers (EMRCs), epidemic areas and e-commerce warehousing centers as the rescue points. Numerical studies are conducted. The results show that with the cooperation of different epidemic areas and e-commerce warehousing centers, the total cost is 6% lower than without considering cooperation of different epidemic areas, and 9.7% lower than without considering cooperation of e-commerce warehousing centers. Particularly, the total cost is 20% lower than without considering any cooperation. This study demonstrates the importance of cooperation in epidemic prevention, and provides the government with a new idea of emergency relief supplies dispatching, that the rescue efficiency can be improved by mutual rescue between epidemic areas in public health emergency."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1954-2956"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Transportation and Logistics Engineering, Wuhan University of Technology, Wuhan, Hubei Province, P.R.China."
+          }
+        ],
+        "LastName": "Hou",
+        "ForeName": "Chunxia",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Transportation and Logistics Engineering, Wuhan University of Technology, Wuhan, Hubei Province, P.R.China."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Huiyuan",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "organization & administration"
+      ],
+      "DescriptorName": "Civil Defense"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Emergencies"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "organization & administration"
+      ],
+      "DescriptorName": "Emergency Medical Services"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Intersectoral Collaboration"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Public Health"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

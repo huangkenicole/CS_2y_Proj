@@ -1,0 +1,162 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24068970",
+  "DateCompleted": {
+    "Year": "2014",
+    "Month": "03",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2013",
+        "Month": "09",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1003806",
+      "10.1371/journal.pgen.1003806"
+    ],
+    "Journal": {
+      "ISSN": "1553-7404",
+      "JournalIssue": {
+        "Volume": "9",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2013"
+        }
+      },
+      "Title": "PLoS genetics",
+      "ISOAbbreviation": "PLoS Genet"
+    },
+    "ArticleTitle": "A genome-wide systematic analysis reveals different and predictive proliferation expression signatures of cancerous vs. non-cancerous cells.",
+    "Pagination": {
+      "StartPage": "e1003806",
+      "MedlinePgn": "e1003806"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Understanding cell proliferation mechanisms has been a long-lasting goal of the scientific community and specifically of cancer researchers. Previous genome-scale studies of cancer proliferation determinants have mainly relied on knockdown screens aimed to gauge their effects on cancer growth. This powerful approach has several limitations such as off-target effects, partial knockdown, and masking effects due to functional backups. Here we employ a complementary approach and assign each gene a cancer Proliferation Index (cPI) that quantifies the association between its expression levels and growth rate measurements across 60 cancer cell lines. Reassuringly, genes found essential in cancer gene knockdown screens exhibit significant positive cPI values, while tumor suppressors exhibit significant negative cPI values. Cell cycle, DNA replication, splicing and protein production related processes are positively associated with cancer proliferation, while cellular migration is negatively associated with it - in accordance with the well known \"go or grow\" dichotomy. A parallel analysis of genes' non-cancerous proliferation indices (nPI) across 224 lymphoblastoid cell lines reveals surprisingly marked differences between cancerous and non-cancerous proliferation. These differences highlight genes in the translation and spliceosome machineries as selective cancer proliferation-associated proteins. A cross species comparison reveals that cancer proliferation resembles that of microorganisms while non-cancerous proliferation does not. Furthermore, combining cancerous and non-cancerous proliferation signatures leads to enhanced prediction of patient outcome and gene essentiality in cancer. Overall, these results point to an inherent difference between cancerous and non-cancerous proliferation determinants, whose understanding may contribute to the future development of novel cancer-specific anti-proliferative drugs."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Blavatnik School of Computer Science, Tel Aviv University, Tel Aviv, Israel."
+          }
+        ],
+        "LastName": "Waldman",
+        "ForeName": "Yedael Y",
+        "Initials": "YY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Geiger",
+        "ForeName": "Tamar",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ruppin",
+        "ForeName": "Eytan",
+        "Initials": "E"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Genet",
+    "NlmUniqueID": "101239074",
+    "ISSNLinking": "1553-7390"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antineoplastic Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antineoplastic Agents"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Cell Cycle"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Cell Division"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line, Tumor"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Cell Movement"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Proliferation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

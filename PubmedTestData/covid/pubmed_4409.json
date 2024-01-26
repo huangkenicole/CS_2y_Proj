@@ -1,0 +1,237 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "compound identification",
+      "epidemic response system",
+      "virus",
+      "virus host interaction"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33302292",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbaa341",
+      "10.1093/bib/bbaa341"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "iDMer: an integrative and mechanism-driven response system for identifying compound interventions for sudden virus outbreak.",
+    "Pagination": {
+      "StartPage": "976",
+      "EndPage": "987",
+      "MedlinePgn": "976-987"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Emerging viral infections seriously threaten human health globally. Several challenges exist in identifying effective compounds against viral infections: (1) at the initial stage of a new virus outbreak, little information, except for its genome information, may be available; (2) although the identified compounds may be effective, they may be toxic in vivo and (3) cytokine release syndrome (CRS) triggered by viral infections is the primary cause of mortality. Currently, an integrative tool that takes all those aspects into consideration for identifying effective compounds to prevent viral infections is absent. In this study, we developed iDMer, as an integrative and mechanism-driven response system for addressing these challenges during the sudden virus outbreaks. iDMer comprises three mechanism-driven compound identification modules, that is, a virus-host interaction-oriented module, an autophagy-oriented module and a CRS-oriented module. As a one-stop integrative platform, iDMer incorporates compound toxicity evaluation and compound combination identification for virus treatment with clear mechanisms. iDMer was successfully tested on five viruses, including the current severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Our results indicated that, for all five tested viruses, compounds that were reported in the literature or experimentally validated for virus treatment were enriched at the top, demonstrating the generalized effectiveness of iDMer. Finally, we demonstrated that combinations of the individual modules successfully identified combinations of compounds effective for virus intervention with clear mechanisms."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Technology, Tongji University, China."
+          }
+        ],
+        "LastName": "Wei",
+        "ForeName": "Zhiting",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Technology, Tongji University, China."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Yuli",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Technology, Tongji University, China."
+          }
+        ],
+        "LastName": "Meng",
+        "ForeName": "Fangliangzi",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Signaling and Disease Research, School of Life Sciences and Technology, Tongji University, Shanghai, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Xin",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Technology, Tongji University, China."
+          }
+        ],
+        "LastName": "Gong",
+        "ForeName": "Yukang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Technology, Tongji University, China."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Chenyu",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhejiang Shuren University Shulan International Medical College."
+          }
+        ],
+        "LastName": "Ju",
+        "ForeName": "Bin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Medical Center for Stem Cell Therapy and Institute for Regenerative Medicine, Shanghai East Hospital, School of Life Sciences and Technology, Tongji University, Shanghai, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Chao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Medical Center for Stem Cell Therapy and Institute for Regenerative Medicine, Shanghai East Hospital, Tongji University School of Medicine."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Zhongmin",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Translational Medical Center for Stem Cell Therapy and Institute for Regenerative Medicine, Shanghai East Hospital, Shanghai Key Laboratory of Signaling and Disease Research, School of Life Sciences and Technology, Tongji University, Shanghai, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Qi",
+        "Initials": "Q"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Autophagy"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host Microbial Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis, RNA"
+    }
+  ]
+}

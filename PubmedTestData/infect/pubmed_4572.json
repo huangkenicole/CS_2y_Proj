@@ -1,0 +1,211 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27855153",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "05",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "11",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1005194",
+      "10.1371/journal.pcbi.1005194"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Nov"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Drivers of Inter-individual Variation in Dengue Viral Load Dynamics.",
+    "Pagination": {
+      "StartPage": "e1005194",
+      "MedlinePgn": "e1005194"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Dengue is a vector-borne viral disease of humans that endemically circulates in many tropical and subtropical regions worldwide. Infection with dengue can result in a range of disease outcomes. A considerable amount of research has sought to improve our understanding of this variation in disease outcomes and to identify predictors of severe disease. Contributing to this research, patterns of viral load in dengue infected patients have been quantified, with analyses indicating that peak viral load levels, rates of viral load decline, and time to peak viremia are useful predictors of severe disease. Here, we take a complementary approach to understanding patterns of clinical manifestation and inter-individual variation in viral load dynamics. Specifically, we statistically fit mathematical within-host models of dengue to individual-level viral load data to test virological and immunological hypotheses explaining inter-individual variation in dengue viral load. We choose between alternative models using model selection criteria to determine which hypotheses are best supported by the data. We first show that the cellular immune response plays an important role in regulating viral load in secondary dengue infections. We then provide statistical support for the process of antibody-dependent enhancement (but not original antigenic sin) in the development of severe disease in secondary dengue infections. Finally, we show statistical support for serotype-specific differences in viral infectivity rates, with infectivity rates of dengue serotypes 2 and 3 exceeding those of serotype 1. These results contribute to our understanding of dengue viral load patterns and their relationship to the development of severe dengue disease. They further have implications for understanding how dengue transmissibility may depend on the immune status of infected individuals and the identity of the infecting serotype."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Program in Computational Biology and Bioinformatics, Duke University, Durham, North Carolina, United States of America."
+          }
+        ],
+        "LastName": "Ben-Shachar",
+        "ForeName": "Rotem",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Program in Computational Biology and Bioinformatics, Duke University, Durham, North Carolina, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistical Science, Duke University, Durham, North Carolina, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Duke University, Durham, North Carolina, United States of America."
+          }
+        ],
+        "LastName": "Schmidler",
+        "ForeName": "Scott",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, Duke University, Durham, North Carolina, United States of America."
+          }
+        ],
+        "LastName": "Koelle",
+        "ForeName": "Katia",
+        "Initials": "K"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U54 GM111274",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "Dengue"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "Dengue Virus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Species Specificity"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Vietnam"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Viral Load"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

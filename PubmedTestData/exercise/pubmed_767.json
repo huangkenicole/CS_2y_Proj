@@ -1,0 +1,179 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38231806",
+  "DateCompleted": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2024",
+        "Month": "01",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNSRE.2024.3355299"
+    ],
+    "Journal": {
+      "ISSN": "1558-0210",
+      "JournalIssue": {
+        "Volume": "32",
+        "PubDate": {
+          "Year": "2024"
+        }
+      },
+      "Title": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+      "ISOAbbreviation": "IEEE Trans Neural Syst Rehabil Eng"
+    },
+    "ArticleTitle": "Otago Exercises Monitoring for Older Adults by a Single IMU and Hierarchical Machine Learning Models.",
+    "Pagination": {
+      "StartPage": "462",
+      "EndPage": "471",
+      "MedlinePgn": "462-471"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Otago Exercise Program (OEP) is a rehabilitation program for older adults to improve frailty, sarcopenia, and balance. Accurate monitoring of patient involvement in OEP is challenging, as self-reports (diaries) are often unreliable. The development of wearable sensors and their use in Human Activity Recognition (HAR) systems has lead to a revolution in healthcare. However, the use of such HAR systems for OEP still shows limited performance. The objective of this study is to build an unobtrusive and accurate system to monitor OEP for older adults. Data was collected from 18 older adults wearing a single waist-mounted Inertial Measurement Unit (IMU). Two datasets were recorded, one in a laboratory setting, and one at the homes of the patients. A hierarchical system is proposed with two stages: 1) using a deep learning model to recognize whether the patients are performing OEP or activities of daily life (ADLs) using a 10-minute sliding window; 2) based on stage 1, using a 6-second sliding window to recognize the OEP sub-classes. Results showed that in stage 1, OEP could be recognized with window-wise f1-scores over 0.95 and Intersection-over-Union (IoU) f1-scores over 0.85 for both datasets. In stage 2, for the home scenario, four activities could be recognized with f1-scores over 0.8: ankle plantarflexors, abdominal muscles, knee bends, and sit-to-stand. These results showed the potential of monitoring the compliance of OEP using a single IMU in daily life. Also, some OEP sub-classes are possible to be recognized for further analysis."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Shang",
+        "ForeName": "Meng",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dedeyne",
+        "ForeName": "Lenore",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dupont",
+        "ForeName": "Jolan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Vercauteren",
+        "ForeName": "Laura",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Amini",
+        "ForeName": "Nadjia",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lapauw",
+        "ForeName": "Laurence",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gielen",
+        "ForeName": "Evelien",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Verschueren",
+        "ForeName": "Sabine",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Varon",
+        "ForeName": "Carolina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "De Raedt",
+        "ForeName": "Walter",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Vanrumste",
+        "ForeName": "Bart",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Neural Syst Rehabil Eng",
+    "NlmUniqueID": "101097023",
+    "ISSNLinking": "1534-4320"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Recognition, Psychology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lower Extremity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ]
+}

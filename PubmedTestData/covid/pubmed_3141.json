@@ -1,0 +1,234 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "antimicrobial peptide",
+      "antiviral peptide",
+      "imbalanced learning",
+      "machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34279599",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab263",
+      "10.1093/bib/bbab263"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "AVPIden: a new scheme for identification and functional prediction of antiviral peptides based on machine learning approaches.",
+    "Abstract": {
+      "AbstractText": [
+        "Antiviral peptide (AVP) is a kind of antimicrobial peptide (AMP) that has the potential ability to fight against virus infection. Machine learning-based prediction with a computational biology approach can facilitate the development of the novel therapeutic agents. In this study, we proposed a double-stage classification scheme, named AVPIden, for predicting the AVPs and their functional activities against different viruses. The first stage is to distinguish the AVP from a broad-spectrum peptide collection, including not only the regular peptides (non-AMP) but also the AMPs without antiviral functions (non-AVP). The second stage is responsible for characterizing one or more virus families or species that the AVP targets. Imbalanced learning is utilized to improve the performance of prediction. The AVPIden uses multiple descriptors to precisely demonstrate the peptide properties and adopts explainable machine learning strategies based on Shapley value to exploit how the descriptors impact the antiviral activities. Finally, the evaluation performance of the proposed model suggests its ability to predict the antivirus activities and their potential functions against six virus families (Coronaviridae, Retroviridae, Herpesviridae, Paramyxoviridae, Orthomyxoviridae, Flaviviridae) and eight kinds of virus (FIV, HCV, HIV, HPIV3, HSV1, INFVA, RSV, SARS-CoV). The AVPIden gives an option for reinforcing the development of AVPs with the computer-aided method and has been deployed at http://awi.cuhk.edu.cn/AVPIden/."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6778-7034"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Warshel Institute for Computational Biology, The Chinese University of Hong Kong, Shenzhen, PR China."
+          }
+        ],
+        "LastName": "Pang",
+        "ForeName": "Yuxuan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4554-6827"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Warshel Institute for Computational Biology, The Chinese University of Hong Kong, Shenzhen, PR China."
+          }
+        ],
+        "LastName": "Yao",
+        "ForeName": "Lantian",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6158-5207"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Warshel Institute for Computational Biology, The Chinese University of Hong Kong, Shenzhen, PR China."
+          }
+        ],
+        "LastName": "Jhong",
+        "ForeName": "Jhih-Hua",
+        "Initials": "JH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7076-8432"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Warshel Institute for Computational Biology, The Chinese University of Hong Kong, Shenzhen, PR China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Zhuo",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8475-7868"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Warshel Institute for Computational Biology, The Chinese University of Hong Kong, Shenzhen, PR China."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Tzong-Yi",
+        "Initials": "TY"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "32070659",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "2021A1515012447",
+        "Agency": "Guangdong Province Basic and Applied Basic Research Fund",
+        "Country": ""
+      },
+      {
+        "GrantID": "2021E007",
+        "Agency": "Ganghong Young Scholar Development Fund",
+        "Country": ""
+      },
+      {
+        "Agency": "Warshel Institute for Computational Biology",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Peptides"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Amino Acid Sequence"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Peptides"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

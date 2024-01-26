@@ -1,0 +1,210 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Aptamers",
+      "Cancer classification",
+      "Cell morphology",
+      "Machine learning",
+      "Tumor cell detection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29428061",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "09",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "09",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "12",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cmpb.2017.12.003",
+      "S0169-2607(17)30904-5"
+    ],
+    "Journal": {
+      "ISSN": "1872-7565",
+      "JournalIssue": {
+        "Volume": "156",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "Classification of cancer cells using computational analysis of dynamic morphology.",
+    "Pagination": {
+      "StartPage": "105",
+      "EndPage": "112",
+      "MedlinePgn": "105-112"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Detection of metastatic tumor cells is important for early diagnosis and staging of cancer. However, such cells are exceedingly difficult to detect from blood or biopsy samples at the disease onset. It is reported that cancer cells, and especially metastatic tumor cells, show very distinctive morphological behavior compared to their healthy counterparts on aptamer functionalized substrates. The ability to quickly analyze the data and quantify the cell morphology for an instant real-time feedback can certainly contribute to early cancer diagnosis. A supervised machine learning approach is presented for identification and classification of cancer cell gestures for early diagnosis.",
+        "We quantified the morphologically distinct behavior of metastatic cells and their healthy counterparts captured on aptamer-functionalized glass substrates from time-lapse optical micrographs. As a proof of concept, the morphologies of human glioblastoma (hGBM) and astrocyte cells were used. The cells were captured and imaged with an optical microscope. Multiple feature vectors were extracted to quantify and differentiate the complex physical gestures of cancerous and non-cancerous cells. Three different classifier models, Support Vector Machine (SVM), Random Forest Tree (RFT), and Na\u00efve Bayes Classifier (NBC) were trained with the known dataset using machine learning algorithms. The performances of the classifiers were compared for accuracy, precision, and recall measurements using five-fold cross-validation technique.",
+        "All the classifier models detected the cancer cells with an average accuracy of at least 82%. The NBC performed the best among the three classifiers in terms of Precision (0.91), Recall (0.9), and F<sub>1</sub>-score (0.89) for the existing dataset.",
+        "This paper presents a standalone system built on machine learning techniques for cancer screening based on cell gestures. The system offers rapid, efficient, and novel identification of hGBM brain tumor cells and can be extended to define single cell analysis metrics for many other types of tumor cells."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2017 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Lab, University of Texas at Arlington, Arlington, TX 76019, USA; Nanotechnology Research Center, University of Texas at Arlington, Arlington, TX 76019, USA; Department of Electrical Engineering, University of Texas at Arlington, Arlington, TX 76019, USA."
+          }
+        ],
+        "LastName": "Hasan",
+        "ForeName": "Mohammad R",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer and Information Science, University of Mississippi, University, MS 38677, USA."
+          }
+        ],
+        "LastName": "Hassan",
+        "ForeName": "Naeemul",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Lab, University of Texas at Arlington, Arlington, TX 76019, USA; Nanotechnology Research Center, University of Texas at Arlington, Arlington, TX 76019, USA; Department of Electrical Engineering, University of Texas at Arlington, Arlington, TX 76019, USA."
+          }
+        ],
+        "LastName": "Khan",
+        "ForeName": "Rayan",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, University of Texas at Arlington, Arlington, TX 76019, USA; Department of Urology, University of Texas Southwestern Medical Center at Dallas, Dallas, TX 75235, USA."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Young-Tae",
+        "Initials": "YT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Nano-Bio Lab, University of Texas at Arlington, Arlington, TX 76019, USA; Department of Electrical Engineering, University of Texas Rio Grande Valley, Edinburg, TX 78539, USA; School of Medicine, University of Texas Rio Grande Valley, Edinburg, TX 78539, USA. Electronic address: SMIQBAL@ieee.org."
+          }
+        ],
+        "LastName": "Iqbal",
+        "ForeName": "Samir M",
+        "Initials": "SM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Brain Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Early Detection of Cancer"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Glioblastoma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Metastasis"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Supervised Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ]
+}

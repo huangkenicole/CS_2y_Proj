@@ -1,0 +1,285 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "aged adults",
+      "mobile phone",
+      "remote sensing technology",
+      "sarcopenia",
+      "telemedicine"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32540843",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "08",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e16862",
+      "10.2196/16862"
+    ],
+    "Journal": {
+      "ISSN": "2291-5222",
+      "JournalIssue": {
+        "Volume": "8",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Aug",
+          "Day": "07"
+        }
+      },
+      "Title": "JMIR mHealth and uHealth",
+      "ISOAbbreviation": "JMIR Mhealth Uhealth"
+    },
+    "ArticleTitle": "Using Natural Language Processing and Sentiment Analysis to Augment Traditional User-Centered Design: Development and Usability Study.",
+    "Pagination": {
+      "StartPage": "e16862",
+      "MedlinePgn": "e16862"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Sarcopenia, defined as the age-associated loss of muscle mass and strength, can be effectively mitigated through resistance-based physical activity. With compliance at approximately 40% for home-based exercise prescriptions, implementing a remote sensing system would help patients and clinicians to better understand treatment progress and increase compliance. The inclusion of end users in the development of mobile apps for remote-sensing systems can ensure that they are both user friendly and facilitate compliance. With advancements in natural language processing (NLP), there is potential for these methods to be used with data collected through the user-centered design process.",
+        "This study aims to develop a mobile app for a novel device through a user-centered design process with both older adults and clinicians while exploring whether data collected through this process can be used in NLP and sentiment analysis.",
+        "Through a user-centered design process, we conducted semistructured interviews during the development of a geriatric-friendly Bluetooth-connected resistance exercise band app. We interviewed patients and clinicians at weeks 0, 5, and 10 of the app development. Each semistructured interview consisted of heuristic evaluations, cognitive walkthroughs, and observations. We used the Bing sentiment library for a sentiment analysis of interview transcripts and then applied NLP-based latent Dirichlet allocation (LDA) topic modeling to identify differences and similarities in patient and clinician participant interviews. Sentiment was defined as the sum of positive and negative words (each word with a +1 or -1 value). To assess utility, we used quantitative assessment questionnaires-System Usability Scale (SUS) and Usefulness, Satisfaction, and Ease of use (USE). Finally, we used multivariate linear models-adjusting for age, sex, subject group (clinician vs patient), and development-to explore the association between sentiment analysis and SUS and USE outcomes.",
+        "The mean age of the 22 participants was 68 (SD 14) years, and 17 (77%) were female. The overall mean SUS and USE scores were 66.4 (SD 13.6) and 41.3 (SD 15.2), respectively. Both patients and clinicians provided valuable insights into the needs of older adults when designing and building an app. The mean positive-negative sentiment per sentence was 0.19 (SD 0.21) and 0.47 (SD 0.21) for patient and clinician interviews, respectively. We found a positive association with positive sentiment in an interview and SUS score (\u00df=1.38; 95% CI 0.37 to 2.39; P=.01). There was no significant association between sentiment and the USE score. The LDA analysis found no overlap between patients and clinicians in the 8 identified topics.",
+        "Involving patients and clinicians allowed us to design and build an app that is user friendly for older adults while supporting compliance. This is the first analysis using NLP and usability questionnaires in the quantification of user-centered design of technology for older adults."
+      ],
+      "CopyrightInformation": "\u00a9Curtis Lee Petersen, Ryan Halter, David Kotz, Lorie Loeb, Summer Cook, Dawna Pidgeon, Brock C Christensen, John A Batsis. Originally published in JMIR mHealth and uHealth (http://mhealth.jmir.org), 07.08.2020."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7210-447X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Dartmouth Institute for Health Policy, Dartmouth, Hanover, NH, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Quantitative Biomedical Sciences Program, Dartmouth, Hanover, NH, United States."
+          }
+        ],
+        "LastName": "Petersen",
+        "ForeName": "Curtis Lee",
+        "Initials": "CL"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0222-3948"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Thayer School of Engineering, Dartmouth, Hanover, NH, United States."
+          }
+        ],
+        "LastName": "Halter",
+        "ForeName": "Ryan",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7411-2783"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computer Science, Dartmouth, Hanover, NH, United States."
+          }
+        ],
+        "LastName": "Kotz",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4934-1864"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computer Science, Dartmouth, Hanover, NH, United States."
+          }
+        ],
+        "LastName": "Loeb",
+        "ForeName": "Lorie",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4339-716X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Kinesiology, University of New Hampshire, Durham, NH, United States."
+          }
+        ],
+        "LastName": "Cook",
+        "ForeName": "Summer",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6557-1830"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physical Medicine and Rehabilitation, Dartmouth-Hitchcock Medical Center, Lebanon, NH, United States."
+          }
+        ],
+        "LastName": "Pidgeon",
+        "ForeName": "Dawna",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3022-426X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quantitative Biomedical Sciences Program, Dartmouth, Hanover, NH, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, Dartmouth, Hanover, NH, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular and Systems Biology at Dartmouth, Dartmouth, Hanover, NH, United States."
+          }
+        ],
+        "LastName": "Christensen",
+        "ForeName": "Brock C",
+        "Initials": "BC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0845-4416"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Dartmouth Institute for Health Policy, Dartmouth, Lebanon, NH, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Geisel School of Medicine, Dartmouth, Hanover, NH, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Section of General Internal Medicine, Dartmouth-Hitchcock, Lebanon, NH, United States."
+          }
+        ],
+        "LastName": "Batsis",
+        "ForeName": "John A",
+        "Initials": "JA"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "K23 AG051681",
+        "Acronym": "AG",
+        "Agency": "NIA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 CA023108",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P30 DA029926",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "JMIR Mhealth Uhealth",
+    "NlmUniqueID": "101624439",
+    "ISSNLinking": "2291-5222"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mobile Applications"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Natural Language Processing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Surveys and Questionnaires"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: JB and RH submitted US patent application #62/672,827, titled Instrumented Resistance Exercise Device, and CP, JB, and RH submitted US patent application #63/033,022, titled Remote-sensing, Bluetooth-enabled Resistance Exercise Band."
+}

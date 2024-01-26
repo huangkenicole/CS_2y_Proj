@@ -1,0 +1,120 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33326383",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TCBB.2020.3045315"
+    ],
+    "Journal": {
+      "ISSN": "1557-9964",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2022",
+          "Season": "May-Jun"
+        }
+      },
+      "Title": "IEEE/ACM transactions on computational biology and bioinformatics",
+      "ISOAbbreviation": "IEEE/ACM Trans Comput Biol Bioinform"
+    },
+    "ArticleTitle": "Drug-Resistant Cancer Treatment Strategies Based on the Dynamics of Clonal Evolution and PKPD Modeling of Drug Combinations.",
+    "Pagination": {
+      "StartPage": "1603",
+      "EndPage": "1614",
+      "MedlinePgn": "1603-1614"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A method for determining a dosage strategy is proposed to combat drug resistance in tumor progression. The method is based on a dynamic model for the clonal evolution of cancerous cells and considers the Pharmacokinetic/Pharmacodynamic (PKPD) modeling of combination therapy. The proposed mathematical representation models the dynamic and kinetic effects of multiple drugs on the number of cells while considering potential mutations and assuming that no cross-resistance arises. An optimization problem is then proposed to minimize the total number of cancerous cells in a finite treatment period given a limited number of treatments. The dosage schedule, including the amount of each drug to be administered and the timing, is found by solving the optimization problem. This treatment schedule is constrained to achieve a target minimum effectiveness, while also ensuring that the concentration of the drugs, individually and totally, does not exceed a prescribed toxicity threshold. The proposed optimization problem is represented as a Complementary Geometric Programming (CGP) problem. The results show that the solution of the optimization problem for combination therapy is the dosing schedule that leads to tumor eradication at the end of the treatment period. The results also investigate the tumor dynamics for all mutation types when undergoing treatment, showing that single drug therapies can fail to combat the emergence of resistance, while optimized combination therapies can reduce the amount of all mutation types during the course of treatment, thereby combating resistance."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Vakil",
+        "ForeName": "Vahideh",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Trappe",
+        "ForeName": "Wade",
+        "Initials": "W"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE/ACM Trans Comput Biol Bioinform",
+    "NlmUniqueID": "101196755",
+    "ISSNLinking": "1545-5963"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Drug Combinations"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Clonal Evolution"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Combinations"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

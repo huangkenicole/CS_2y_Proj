@@ -1,0 +1,175 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Deep learning",
+      "Histopathology",
+      "Incremental learning",
+      "Instance segmentation",
+      "Prostate cancer",
+      "Prostate tissues"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36208597",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "09",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2022.106124",
+      "S0010-4825(22)00832-0"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "150",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Knowledge distillation driven instance segmentation for grading prostate cancer.",
+    "Pagination": {
+      "StartPage": "106124",
+      "MedlinePgn": "106124"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Prostate cancer (PCa) is one of the deadliest cancers in men, and identifying cancerous tissue patterns at an early stage can assist clinicians in timely treating the PCa spread. Many researchers have developed deep learning systems for mass-screening PCa. These systems, however, are commonly trained with well-annotated datasets in order to produce accurate results. Obtaining such data for training is often time and resource-demanding in clinical settings and can result in compromised screening performance. To address these limitations, we present a novel knowledge distillation-based instance segmentation scheme that allows conventional semantic segmentation models to perform instance-aware segmentation to extract stroma, benign, and the cancerous prostate tissues from the whole slide images (WSI) with incremental few-shot training. The extracted tissues are then used to compute majority and minority Gleason scores, which, afterward, are used in grading the PCa as per the clinical standards. The proposed scheme has been thoroughly tested on two datasets, containing around 10,516 and 11,000 WSI scans, respectively. Across both datasets, the proposed scheme outperforms state-of-the-art methods by 2.01% and 4.45%, respectively, in terms of the mean IoU score for identifying prostate tissues, and 10.73% and 11.42% in terms of F1 score for grading PCa according to the clinical standards. Furthermore, the applicability of the proposed scheme is tested under a blind experiment with a panel of expert pathologists, where it achieved a statistically significant Pearson correlation of 0.9192 and 0.8984 with the clinicians' grading."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KUCARS and C2PS, Department of Electrical Engineering and Computer Science, Khalifa University, Abu Dhabi, 127788, United Arab Emirates; Department of Computer and Software Engineering, National University of Sciences and Technology, Islamabad, 44000, Pakistan. Electronic address: taimur.hassan@ku.ac.ae."
+          }
+        ],
+        "LastName": "Hassan",
+        "ForeName": "Taimur",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KUCARS and C2PS, Department of Electrical Engineering and Computer Science, Khalifa University, Abu Dhabi, 127788, United Arab Emirates."
+          }
+        ],
+        "LastName": "Shafay",
+        "ForeName": "Muhammad",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KUCARS and C2PS, Department of Electrical Engineering and Computer Science, Khalifa University, Abu Dhabi, 127788, United Arab Emirates; School of Automation Science and Electrical Engineering, Beihang University (BUAA), Beijing, 100191, China."
+          }
+        ],
+        "LastName": "Hassan",
+        "ForeName": "Bilal",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer and Software Engineering, National University of Sciences and Technology, Islamabad, 44000, Pakistan."
+          }
+        ],
+        "LastName": "Akram",
+        "ForeName": "Muhammad Usman",
+        "Initials": "MU"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, University of Louisville, Louisville, KY 40292, USA."
+          }
+        ],
+        "LastName": "ElBaz",
+        "ForeName": "Ayman",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KUCARS and C2PS, Department of Electrical Engineering and Computer Science, Khalifa University, Abu Dhabi, 127788, United Arab Emirates."
+          }
+        ],
+        "LastName": "Werghi",
+        "ForeName": "Naoufel",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Grading"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

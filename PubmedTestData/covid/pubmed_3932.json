@@ -1,0 +1,241 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Ecologic estimate of vaccine effectiveness",
+      "SARS-CoV-2",
+      "Vaccine effectiveness"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36184587",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "10",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "767",
+      "10.1186/s12879-022-07740-5"
+    ],
+    "Journal": {
+      "ISSN": "1471-2334",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Oct",
+          "Day": "02"
+        }
+      },
+      "Title": "BMC infectious diseases",
+      "ISOAbbreviation": "BMC Infect Dis"
+    },
+    "ArticleTitle": "Estimating vaccine effectiveness against SARS-CoV-2 infection, hospitalization and death from ecologic data in Costa Rica.",
+    "Pagination": {
+      "StartPage": "767",
+      "MedlinePgn": "767"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Clinical trials and individual-level observational data in Israel demonstrated approximately 95% effectiveness of mRNA-based vaccines against symptomatic SARS-CoV-2 infection. Individual-level data are not available in many countries, particularly low- and middle- income countries. Using a novel Poisson regression model, we analyzed ecologic data in Costa Rica to estimate vaccine effectiveness and assess the usefulness of this approach.",
+        "We used national data from December 1, 2020 to May 13, 2021 to ascertain incidence, hospitalizations and deaths within ecologic units defined by 14 age groups, gender, 105 geographic areas, and day of the epidemic. Within each unit we used the proportions of the population with one and with two vaccinations, primarily tozinameran. Using a non-standard Poisson regression model that included an ecologic-unit-specific rate factor to describe rates without vaccination and a factor that depended on vaccine effectiveness parameters and proportions vaccinated, we estimated vaccine effectiveness.",
+        "In 3.621 million persons aged 20 or older, there were 125,031 incident cases, 7716 hospitalizations, and 1929 deaths following SARS-CoV-2 diagnosis; 73% of those aged\u2009\u2265\u200975\u00a0years received two doses. For one dose, estimated effectiveness was 59% (95% confidence interval 53% to 64%) for SARS-CoV-2 incidence, 76% (68% to 85%) for hospitalizations, and 63% (47% to 80%) for deaths. For two doses, the respective estimates of effectiveness were 93% (90% to 96%), 100% (97% to 100%), and 100% (97% to 100%).",
+        "These effectiveness estimates agree well with findings from clinical trials and individual-level observational studies and indicate high effectiveness in the general population of Costa Rica. This novel statistical approach is promising for countries where ecologic, but not individual-level, data are available. The method could also be adapted to monitor vaccine effectiveness over calendar time."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centro Centroamericano de Poblaci\u00f3n, Universidad de Costa Rica, San Jos\u00e9, 2060, Costa Rica. ROMAIN.FANTIN@ucr.ac.cr."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Agencia Costarricense de Investigaciones Biom\u00e9dicas, Fundaci\u00f3n INCIENSA, San Jos\u00e9, Costa Rica. ROMAIN.FANTIN@ucr.ac.cr."
+          }
+        ],
+        "LastName": "Fantin",
+        "ForeName": "Romain",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Agencia Costarricense de Investigaciones Biom\u00e9dicas, Fundaci\u00f3n INCIENSA, San Jos\u00e9, Costa Rica."
+          }
+        ],
+        "LastName": "Herrero",
+        "ForeName": "Rolando",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Agencia Costarricense de Investigaciones Biom\u00e9dicas, Fundaci\u00f3n INCIENSA, San Jos\u00e9, Costa Rica."
+          }
+        ],
+        "LastName": "Hildesheim",
+        "ForeName": "Allan",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Facultad de Odontolog\u00eda, Universidad de Costa Rica, San Jos\u00e9, Costa Rica."
+          }
+        ],
+        "LastName": "Barboza-Sol\u00eds",
+        "ForeName": "Cristina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centro de Desarrollo Estrat\u00e9gico e Informaci\u00f3n en Salud y Seguridad Social (CENDEISSS) Caja Costarricense de Seguro Social, San Jos\u00e9, Costa Rica."
+          }
+        ],
+        "LastName": "Aparicio",
+        "ForeName": "Amada",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Epidemiology and Population Studies Unit, Division of Intramural Research, National Institute of Allergy and Infectious Diseases, Rockville, MD, USA."
+          }
+        ],
+        "LastName": "Prevots",
+        "ForeName": "D Rebecca",
+        "Initials": "DR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics Branch, Division of Epidemiology and Genetics, National Cancer Institute, Bethesda, MD, USA."
+          }
+        ],
+        "LastName": "Pfeiffer",
+        "ForeName": "Ruth M",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics Branch, Division of Epidemiology and Genetics, National Cancer Institute, Bethesda, MD, USA. gailm@mail.nih.gov."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9609 Medical Center Drive RM 7-E138, MSC 9780, Bethesda, MD, 20892, USA. gailm@mail.nih.gov."
+          }
+        ],
+        "LastName": "Gail",
+        "ForeName": "Mitchell H",
+        "Initials": "MH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "RESPIRA Study Group"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Infect Dis",
+    "NlmUniqueID": "100968551",
+    "ISSNLinking": "1471-2334"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Costa Rica"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hospitalization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccine Efficacy"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

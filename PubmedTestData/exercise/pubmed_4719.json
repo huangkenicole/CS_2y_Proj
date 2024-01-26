@@ -1,0 +1,225 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "exercise therapy",
+      "functional assessment",
+      "inertial sensors",
+      "motion analysis",
+      "rehabilitation",
+      "tele-rehabilitation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37448005",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "07",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "6156",
+      "10.3390/s23136156"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "13",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul",
+          "Day": "05"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Evaluation of Upper Body and Lower Limbs Kinematics through an <i>IMU</i>-Based Medical System: A Comparative Study with the Optoelectronic System.",
+    "Abstract": {
+      "AbstractText": [
+        "In recent years, the use of inertial-based systems has been applied to remote rehabilitation, opening new perspectives for outpatient assessment. In this study, we assessed the accuracy and the concurrent validity of the angular measurements provided by an inertial-based device for rehabilitation with respect to the state-of-the-art system for motion tracking. Data were simultaneously collected with the two systems across a set of exercises for trunk and lower limbs, performed by 21 healthy participants. Additionally, the sensitivity of the inertial measurement unit (<i>IMU</i>)-based system to its malpositioning was assessed. Root mean square error (<i>RMSE</i>) was used to explore the differences in the outputs of the two systems in terms of range of motion (<i>ROM</i>), and their agreement was assessed via Pearson's correlation coefficient (PCC) and Lin's concordance correlation coefficient (CCC). The results showed that the <i>IMU</i>-based system was able to assess upper-body and lower-limb kinematics with a mean error in general lower than 5\u00b0 and that its measurements were moderately biased by its mispositioning. Although the system does not seem to be suitable for analysis requiring a high level of detail, the findings of this study support the application of the device in rehabilitation programs in unsupervised settings, providing reliable data to remotely monitor the progress of the rehabilitation pathway and change in patient's motor function."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1983-8204"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Information and Bioengineering, Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Orthopaedic Rehabilitation Unit and Research Laboratory in Biomechanics, Rehabilitation and Ergonomics, San Giuseppe Hospital, IRCCS Istituto Auxologico Italiano, Strada Luigi Cadorna 90, 28824 Piancavallo, Italy."
+          }
+        ],
+        "LastName": "Cerfoglio",
+        "ForeName": "Serena",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3719-8789"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Orthopaedic Rehabilitation Unit and Research Laboratory in Biomechanics, Rehabilitation and Ergonomics, San Giuseppe Hospital, IRCCS Istituto Auxologico Italiano, Strada Luigi Cadorna 90, 28824 Piancavallo, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgical Sciences, Physical Medicine and Rehabilitation, University of Turin, 10126 Turin, Italy."
+          }
+        ],
+        "LastName": "Capodaglio",
+        "ForeName": "Paolo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8993-1068"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Clinica Hildebrand, Centro di Riabilitazione Brissago, Via Crodolo 18, 6614 Brissago, Switzerland."
+          }
+        ],
+        "LastName": "Rossi",
+        "ForeName": "Paolo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6654-6055"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Euleria Health Societ\u00e0 Benefit Rovereto, 38068 Trento, Italy."
+          }
+        ],
+        "LastName": "Conforti",
+        "ForeName": "Ilaria",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Euleria Health Societ\u00e0 Benefit Rovereto, 38068 Trento, Italy."
+          }
+        ],
+        "LastName": "D'Angeli",
+        "ForeName": "Valentina",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Euleria Health Societ\u00e0 Benefit Rovereto, 38068 Trento, Italy."
+          }
+        ],
+        "LastName": "Milani",
+        "ForeName": "Elia",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2772-4837"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Information and Bioengineering, Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy."
+          }
+        ],
+        "LastName": "Galli",
+        "ForeName": "Manuela",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6299-7254"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Information and Bioengineering, Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Orthopaedic Rehabilitation Unit and Research Laboratory in Biomechanics, Rehabilitation and Ergonomics, San Giuseppe Hospital, IRCCS Istituto Auxologico Italiano, Strada Luigi Cadorna 90, 28824 Piancavallo, Italy."
+          }
+        ],
+        "LastName": "Cimolin",
+        "ForeName": "Veronica",
+        "Initials": "V"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Telerehabilitation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Range of Motion, Articular"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

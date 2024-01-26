@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33972584",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "9887",
+      "10.1038/s41598-021-88807-2"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "10"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "COVID-Classifier: an automated machine learning model to assist in the diagnosis of COVID-19 infection in chest X-ray images.",
+    "Pagination": {
+      "StartPage": "9887",
+      "MedlinePgn": "9887"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Chest-X ray (CXR) radiography can be used as a first-line triage process for non-COVID-19 patients with pneumonia. However, the similarity between features of CXR images of COVID-19 and pneumonia caused by other infections makes the differential diagnosis by radiologists challenging. We hypothesized that machine learning-based classifiers can reliably distinguish the CXR images of COVID-19 patients from other forms of pneumonia. We used a dimensionality reduction method to generate a set of optimal features of CXR images to build an efficient machine learning classifier that can distinguish COVID-19 cases from non-COVID-19 cases with high accuracy and sensitivity. By using global features of the whole CXR images, we successfully implemented our classifier using a relatively small dataset of CXR images. We propose that our COVID-Classifier can be used in conjunction with other tests for optimal allocation of hospital resources by rapid triage of non-COVID-19 cases."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          }
+        ],
+        "LastName": "Zargari Khuzani",
+        "ForeName": "Abolfazl",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electrical and Computer Engineering, The University of Oklahoma, Norman, OK, USA."
+          }
+        ],
+        "LastName": "Heidari",
+        "ForeName": "Morteza",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA. alish@ucsc.edu."
+          }
+        ],
+        "LastName": "Shariati",
+        "ForeName": "S Ali",
+        "Initials": "SA"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "NIGMSK99GM126027",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2020 May 18;:",
+      "PMID": "32511510"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnosis, Differential"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "ROC Curve"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Radiography, Thoracic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Thorax"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

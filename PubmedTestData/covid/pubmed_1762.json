@@ -1,0 +1,540 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34252365",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/S2468-2667(21)00133-X",
+      "S2468-2667(21)00133-X"
+    ],
+    "Journal": {
+      "ISSN": "2468-2667",
+      "JournalIssue": {
+        "Volume": "6",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug"
+        }
+      },
+      "Title": "The Lancet. Public health",
+      "ISOAbbreviation": "Lancet Public Health"
+    },
+    "ArticleTitle": "Genomics-informed responses in the elimination of COVID-19 in Victoria, Australia: an observational, genomic epidemiological study.",
+    "Pagination": {
+      "StartPage": "e547",
+      "EndPage": "e556",
+      "MedlinePgn": "e547-e556"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A cornerstone of Australia's ability to control COVID-19 has been effective border control with an extensive supervised quarantine programme. However, a rapid recrudescence of COVID-19 was observed in the state of Victoria in June, 2020. We aim to describe the genomic findings that located the source of this second wave and show the role of genomic epidemiology in the successful elimination of COVID-19 for a second time in Australia.",
+        "In this observational, genomic epidemiological study, we did genomic sequencing of all laboratory-confirmed cases of COVID-19 diagnosed in Victoria, Australia between Jan 25, 2020, and Jan 31, 2021. We did phylogenetic analyses, genomic cluster discovery, and integrated results with epidemiological data (detailed information on demographics, risk factors, and exposure) collected via interview by the Victorian Government Department of Health. Genomic transmission networks were used to group multiple genomic clusters when epidemiological and genomic data suggested they arose from a single importation event and diversified within Victoria. To identify transmission of emergent lineages between Victoria and other states or territories in Australia, all publicly available SARS-CoV-2 sequences uploaded before Feb 11, 2021, were obtained from the national sequence sharing programme AusTrakka, and epidemiological data were obtained from the submitting laboratories. We did phylodynamic analyses to estimate the growth rate, doubling time, and number of days from the first local infection to the collection of the first sequenced genome for the dominant local cluster, and compared our growth estimates to previously published estimates from a similar growth phase of lineage B.1.1.7 (also known as the Alpha variant) in the UK.",
+        "Between Jan 25, 2020, and Jan 31, 2021, there were 20\u2009451 laboratory-confirmed cases of COVID-19 in Victoria, Australia, of which 15\u2009431 were submitted for sequencing, and 11\u2009711 met all quality control metrics and were included in our analysis. We identified 595 genomic clusters, with a median of five cases per cluster (IQR 2-11). Overall, samples from 11\u2009503 (98\u00b72%) of 11\u2009711 cases clustered with another sample in Victoria, either within a genomic cluster or transmission network. Genomic analysis revealed that 10\u2009426 cases, including 10\u2009416 (98\u00b74%) of 10\u2009584 locally acquired cases, diagnosed during the second wave (between June and October, 2020) were derived from a single incursion from hotel quarantine, with the outbreak lineage (transmission network G, lineage D.2) rapidly detected in other Australian states and territories. Phylodynamic analyses indicated that the epidemic growth rate of the outbreak lineage in Victoria during the initial growth phase (samples collected between June 4 and July 9, 2020; 47\u00b74 putative transmission events, per branch, per year [1/years; 95% credible interval 26\u00b70-85\u00b70]), was similar to that of other reported variants, such as B.1.1.7 in the UK (mean approximately 71\u00b75 1/years). Strict interventions were implemented, and the outbreak lineage has not been detected in Australia since Oct 29, 2020. Subsequent cases represented independent international or interstate introductions, with limited local spread.",
+        "Our study highlights how rapid escalation of clonal outbreaks can occur from a single incursion. However, strict quarantine measures and decisive public health responses to emergent cases are effective, even with high epidemic growth rates. Real-time genomic surveillance can alter the way in which public health agencies view and respond to COVID-19 outbreaks.",
+        "The Victorian Government, the National Health and Medical Research Council Australia, and the Medical Research Future Fund."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY-NC-ND 4.0 license. Published by Elsevier Ltd.. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Lane",
+        "ForeName": "Courtney R",
+        "Initials": "CR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Sherry",
+        "ForeName": "Norelle L",
+        "Initials": "NL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Porter",
+        "ForeName": "Ashleigh F",
+        "Initials": "AF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Duchene",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Horan",
+        "ForeName": "Kristy",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Andersson",
+        "ForeName": "Patiyan",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Wilmot",
+        "ForeName": "Mathilda",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Victorian Department of Health, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Turner",
+        "ForeName": "Annabelle",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Victorian Department of Health, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Dougall",
+        "ForeName": "Sally",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Johnson",
+        "ForeName": "Sandra A",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Sait",
+        "ForeName": "Michelle",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia; Doherty Applied Microbial Genomics, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Gon\u00e7alves da Silva",
+        "ForeName": "Anders",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Ballard",
+        "ForeName": "Susan A",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Hoang",
+        "ForeName": "Tuyet",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Doherty Applied Microbial Genomics, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia; Department of Microbiology and Immunology, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Stinear",
+        "ForeName": "Timothy P",
+        "Initials": "TP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Victorian Infectious Diseases Reference Laboratory, Royal Melbourne Hospital at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Caly",
+        "ForeName": "Leon",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Infectious Diseases and Microbiology Public Health, Westmead Hospital, Sydney, NSW, Australia; Sydney Medical School, The University of Sydney, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Sintchenko",
+        "ForeName": "Vitali",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Microbiology, Forensic and Scientific Services, Queensland Department of Health, Brisbane, QLD, Australia."
+          }
+        ],
+        "LastName": "Graham",
+        "ForeName": "Rikki",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Microbiology, Forensic and Scientific Services, Queensland Department of Health, Brisbane, QLD, Australia."
+          }
+        ],
+        "LastName": "McMahon",
+        "ForeName": "Jamie",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, PathWest Laboratory Medicine, QEII Medical Centre, Perth, WA, Australia; School of Medicine, University of Western Australia, Perth, WA, Australia."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Laboratory, Microbiology and Infectious Diseases, SA Pathology, Adelaide, SA, Australia."
+          }
+        ],
+        "LastName": "Leong",
+        "ForeName": "Lex Ex",
+        "Initials": "LE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Territory Pathology, Royal Darwin Hospital, Darwin, NT, Australia; Global and Tropical Health Division, Menzies School of Health Research, Charles Darwin University, Darwin, NT, Australia."
+          }
+        ],
+        "LastName": "Meumann",
+        "ForeName": "Ella M",
+        "Initials": "EM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Royal Hobart Hospital, Hobart, TAS, Australia; School of Medicine, University of Tasmania, Hobart, TAS, Australia."
+          }
+        ],
+        "LastName": "Cooley",
+        "ForeName": "Louise",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Biology School, Australian National University, Canberra, ACT, Australia."
+          }
+        ],
+        "LastName": "Schwessinger",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Virology Research Laboratory, Serology and Virology Division, NSW Health Pathology, Prince of Wales Hospital, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "Rawlinson",
+        "ForeName": "William",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease and Microbiology, Royal Prince Alfred Hospital, Sydney, NSW, Australia."
+          }
+        ],
+        "LastName": "van Hal",
+        "ForeName": "Sebastiaan J",
+        "Initials": "SJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine, University of Tasmania, Hobart, TAS, Australia."
+          }
+        ],
+        "LastName": "Stephens",
+        "ForeName": "Nicola",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Victorian Infectious Diseases Reference Laboratory, Royal Melbourne Hospital at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Catton",
+        "ForeName": "Mike",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Victorian Department of Health, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Looker",
+        "ForeName": "Clare",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Victorian Department of Health, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Crouch",
+        "ForeName": "Simon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Victorian Department of Health, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Sutton",
+        "ForeName": "Brett",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Victorian Department of Health, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Alpren",
+        "ForeName": "Charles",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia; Department of Microbiology and Immunology, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia; Victorian Infectious Diseases Reference Laboratory, Royal Melbourne Hospital at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia; Department of Microbiology, Royal Melbourne Hospital, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Williamson",
+        "ForeName": "Deborah A",
+        "Initials": "DA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia; Doherty Applied Microbial Genomics, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Seemann",
+        "ForeName": "Torsten",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Microbiological Diagnostic Unit Public Health Laboratory, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia; Doherty Applied Microbial Genomics, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia; Department of Microbiology and Immunology, The University of Melbourne at The Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia. Electronic address: bhowden@unimelb.edu.au."
+          }
+        ],
+        "LastName": "Howden",
+        "ForeName": "Benjamin P",
+        "Initials": "BP"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Lancet Public Health",
+    "NlmUniqueID": "101699003"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Lancet Public Health. 2021 Oct;6(10):e708",
+      "PMID": "34563280"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemiologic Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Victoria"
+    }
+  ],
+  "CoiStatement": "Declaration of interests All authors declare no competing interests."
+}

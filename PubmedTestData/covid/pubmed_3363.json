@@ -1,0 +1,208 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34121337",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1111/cts.13099"
+    ],
+    "Journal": {
+      "ISSN": "1752-8062",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Clinical and translational science",
+      "ISOAbbreviation": "Clin Transl Sci"
+    },
+    "ArticleTitle": "Immune-viral dynamics modeling for SARS-CoV-2 drug development.",
+    "Pagination": {
+      "StartPage": "2348",
+      "EndPage": "2359",
+      "MedlinePgn": "2348-2359"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Coronavirus disease 2019 (COVID-19) global pandemic is caused by severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2) viral infection, which can lead to pneumonia, lung injury, and death in susceptible populations. Understanding viral dynamics of SARS-CoV-2 is critical for development of effective treatments. An Immune-Viral Dynamics Model (IVDM) is developed to describe SARS-CoV-2 viral dynamics and COVID-19 disease progression. A dataset of 60 individual patients with COVID-19 with clinical viral load (VL) and reported disease severity were assembled from literature. Viral infection and replication mechanisms of SARS-CoV-2, viral-induced cell death, and time-dependent immune response are incorporated in the model to describe the dynamics of viruses and immune response. Disease severity are tested as a covariate to model parameters. The IVDM was fitted to the data and parameters were estimated using the nonlinear mixed-effect model. The model can adequately describe individual viral dynamics profiles, with disease severity identified as a covariate on infected cell death rate. The modeling suggested that it takes about 32.6\u00a0days to reach 50% of maximum cell-based immunity. Simulations based on virtual populations suggested a typical mild case reaches VL limit of detection (LOD) by 13\u00a0days with no treatment, a moderate case by 17\u00a0days, and a severe case by 41\u00a0days. Simulations were used to explore hypothetical treatments with different initiation time, disease severity, and drug effects to demonstrate the usefulness of such modeling in informing decisions. Overall, the IVDM modeling and simulation platform enables simulations for viral dynamics and treatment efficacy and can be used to aid in clinical pharmacokinetic/pharmacodynamic (PK/PD) and dose-efficacy response analysis for COVID-19 drug development."
+      ],
+      "CopyrightInformation": "\u00a9 2021 Merck Sharp & Dohme Corp. Clinical and Translational Science published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PPDM QP2, Merck & Co., Inc., Kenilworth, New Jersey, USA."
+          }
+        ],
+        "LastName": "Cao",
+        "ForeName": "Youfang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PPDM QP2, Merck & Co., Inc., Kenilworth, New Jersey, USA."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PPDM QP2, Merck & Co., Inc., Kenilworth, New Jersey, USA."
+          }
+        ],
+        "LastName": "Caro",
+        "ForeName": "Luzelena",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PPDM QP2, Merck & Co., Inc., Kenilworth, New Jersey, USA."
+          }
+        ],
+        "LastName": "Stone",
+        "ForeName": "Julie A",
+        "Initials": "JA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Clin Transl Sci",
+    "NlmUniqueID": "101474067",
+    "ISSNLinking": "1752-8054"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "immunology"
+      ],
+      "DescriptorName": "Cell Death"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Datasets as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Dose-Response Relationship, Drug"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Development"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "immunology"
+      ],
+      "DescriptorName": "Host Microbial Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nonlinear Dynamics"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "immunology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Severity of Illness Index"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Treatment Outcome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viral Load"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "Y.C., W.G., L.C., and J.A.S. are employees of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. (Kenilworth, NJ), and may own stock/stock options in the company."
+}

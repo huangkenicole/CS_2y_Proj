@@ -1,0 +1,305 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Artificial Intelligence",
+      "LiDAR",
+      "join angle measurement",
+      "motion capture",
+      "robotic rehabilitation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38257623",
+  "DateCompleted": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2024",
+        "Month": "01",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "530",
+      "10.3390/s24020530"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2024",
+          "Month": "Jan",
+          "Day": "15"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Angle Assessment for Upper Limb Rehabilitation: A Novel Light Detection and Ranging (LiDAR)-Based Approach.",
+    "Abstract": {
+      "AbstractText": [
+        "The accurate measurement of joint angles during patient rehabilitation is crucial for informed decision making by physiotherapists. Presently, visual inspection stands as one of the prevalent methods for angle assessment. Although it could appear the most straightforward way to assess the angles, it presents a problem related to the high susceptibility to error in the angle estimation. In light of this, this study investigates the possibility of using a new approach to angle calculation: a hybrid approach leveraging both a camera and LiDAR technology, merging image data with point cloud information. This method employs AI-driven techniques to identify the individual and their joints, utilizing the cloud-point data for angle computation. The tests, considering different exercises with different perspectives and distances, showed a slight improvement compared to using YOLO v7 for angle calculation. However, the improvement comes with higher system costs when compared with other image-based approaches due to the necessity of equipment such as LiDAR and a loss of fluidity during the exercise performance. Therefore, the cost-benefit of the proposed approach could be questionable. Nonetheless, the results hint at a promising field for further exploration and the potential viability of using the proposed methodology."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6306-574X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre in Digitalization and Intelligent Robotics (CeDRI), Polytechnic Institute of Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics (DAELN), Universidade Tecnol\u00f3gica Federal do Paran\u00e1 (UTFPR), Campus Curitiba, 80230-901 Curitiba, Brazil."
+          }
+        ],
+        "LastName": "Klein",
+        "ForeName": "Luan C",
+        "Initials": "LC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9190-6865"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre in Digitalization and Intelligent Robotics (CeDRI), Polytechnic Institute of Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Science and Technology, Universidade de Tr\u00e1s-os-Montes e Alto Douro (UTAD), 5000-801 Vila Real, Portugal."
+          }
+        ],
+        "LastName": "Chellal",
+        "ForeName": "Arezki Abderrahim",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [
+          "0009-0004-4099-2566"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre in Digitalization and Intelligent Robotics (CeDRI), Polytechnic Institute of Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          }
+        ],
+        "LastName": "Grilo",
+        "ForeName": "Vinicius",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0276-4314"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre in Digitalization and Intelligent Robotics (CeDRI), Polytechnic Institute of Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Systems and Computer Engineering, Technology and Science, INESC TEC, 4200-465 Porto, Portugal."
+          }
+        ],
+        "LastName": "Braun",
+        "ForeName": "Jo\u00e3o",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5499-1730"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre in Digitalization and Intelligent Robotics (CeDRI), Polytechnic Institute of Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio para a Sustentabilidade e Tecnologia em Regi\u00f5es de Montanha (SusTEC), Instituto Polit\u00e9cnico de Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          }
+        ],
+        "LastName": "Gon\u00e7alves",
+        "ForeName": "Jos\u00e9",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7915-0391"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre in Digitalization and Intelligent Robotics (CeDRI), Polytechnic Institute of Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio para a Sustentabilidade e Tecnologia em Regi\u00f5es de Montanha (SusTEC), Instituto Polit\u00e9cnico de Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          }
+        ],
+        "LastName": "Pacheco",
+        "ForeName": "Maria F",
+        "Initials": "MF"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9542-4460"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre in Digitalization and Intelligent Robotics (CeDRI), Polytechnic Institute of Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio para a Sustentabilidade e Tecnologia em Regi\u00f5es de Montanha (SusTEC), Instituto Polit\u00e9cnico de Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          }
+        ],
+        "LastName": "Fernandes",
+        "ForeName": "Florbela P",
+        "Initials": "FP"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1421-8006"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre in Digitalization and Intelligent Robotics (CeDRI), Polytechnic Institute of Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio para a Sustentabilidade e Tecnologia em Regi\u00f5es de Montanha (SusTEC), Instituto Polit\u00e9cnico de Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          }
+        ],
+        "LastName": "Monteiro",
+        "ForeName": "Fernando C",
+        "Initials": "FC"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7902-1207"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre in Digitalization and Intelligent Robotics (CeDRI), Polytechnic Institute of Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Engineering, University of Porto (FEUP), 4200-465 Porto, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Systems and Computer Engineering, Technology and Science, INESC TEC, 4200-465 Porto, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Laborat\u00f3rio para a Sustentabilidade e Tecnologia em Regi\u00f5es de Montanha (SusTEC), Instituto Polit\u00e9cnico de Bragan\u00e7a, 5300-252 Bragan\u00e7a, Portugal."
+          }
+        ],
+        "LastName": "Lima",
+        "ForeName": "Jos\u00e9",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "UIDB/05757/2020",
+        "Agency": "FCT/MCTES (PIDDAC)",
+        "Country": ""
+      },
+      {
+        "GrantID": "NORTE-01-0145-FEDER-000045",
+        "Agency": "P2020 - Programas Integrados de ICDT|Projetos Estruturados de I&D&I",
+        "Country": ""
+      },
+      {
+        "GrantID": "UIDP/05757/2020",
+        "Agency": "FCT/MCTES (PIDDAC)",
+        "Country": ""
+      },
+      {
+        "GrantID": "LA/P/0007/2021",
+        "Agency": "SusTEC",
+        "Country": ""
+      },
+      {
+        "GrantID": "UI/BD/154484/2022",
+        "Agency": "FCT",
+        "Country": ""
+      },
+      {
+        "GrantID": "2023.04536.BD",
+        "Agency": "FCT",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Therapists"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Technology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Upper Extremity"
+    }
+  ]
+}

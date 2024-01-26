@@ -1,0 +1,230 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Covid-19",
+      "machine learning",
+      "seasonality",
+      "ultraviolet radiation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33805449",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "574",
+      "10.3390/v13040574"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "29"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "A Strong Seasonality Pattern for Covid-19 Incidence Rates Modulated by UV Radiation Levels.",
+    "Abstract": {
+      "AbstractText": [
+        "The Covid-19 pandemic has required nonpharmaceutical interventions, primarily physical distancing, personal hygiene and face mask use, to limit community transmission, irrespective of seasons. In fact, the seasonality attributes of this pandemic remain one of its biggest unknowns. Early studies based on past experience from respiratory diseases focused on temperature or humidity, with disappointing results. Our hypothesis that ultraviolet (UV) radiation levels might be a factor and a more appropriate parameter has emerged as an alternative to assess seasonality and exploit it for public health policies. Using geographical, socioeconomic and epidemiological criteria, we selected twelve North-equatorial-South countries with similar characteristics. We then obtained UV levels, mobility and Covid-19 daily incidence rates for nearly the entire 2020. Using machine learning, we demonstrated that UV radiation strongly associated with incidence rates, more so than mobility did, indicating that UV is a key seasonality indicator for Covid-19, irrespective of the initial conditions of the epidemic. Our findings can inform the implementation of public health emergency measures, partly based on seasons in the Northern and Southern Hemispheres, as the pandemic unfolds into 2021."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Informatics, Aristotle University of Thessaloniki, GR-54124 Thessalonica, Greece."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Chemical Process & Energy Resources Institute, Centre for Research & Technology Hellas (CERTH), Thermi, GR-57001 Thessalonica, Greece."
+          }
+        ],
+        "LastName": "Karapiperis",
+        "ForeName": "Christos",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Biology, Medical School, University of Ioannina, GR-45110 Ioannina, Greece."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Research, Institute of Molecular Biology & Biotechnology, Foundation for Research & Technology Hellas (FORTH), GR-45115 Ioannina, Greece."
+          }
+        ],
+        "LastName": "Kouklis",
+        "ForeName": "Panos",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chemical Process & Energy Resources Institute, Centre for Research & Technology Hellas (CERTH), Thermi, GR-57001 Thessalonica, Greece."
+          }
+        ],
+        "LastName": "Papastratos",
+        "ForeName": "Stelios",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1986-5007"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Chemical Process & Energy Resources Institute, Centre for Research & Technology Hellas (CERTH), Thermi, GR-57001 Thessalonica, Greece."
+          }
+        ],
+        "LastName": "Chasapi",
+        "ForeName": "Anastasia",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kodikos Labs, F-69007 Lyon, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institut Cochin, F-75013 Paris, France."
+          }
+        ],
+        "LastName": "Danchin",
+        "ForeName": "Antoine",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Informatics, Aristotle University of Thessaloniki, GR-54124 Thessalonica, Greece."
+          }
+        ],
+        "LastName": "Angelis",
+        "ForeName": "Lefteris",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0086-8657"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Informatics, Aristotle University of Thessaloniki, GR-54124 Thessalonica, Greece."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Chemical Process & Energy Resources Institute, Centre for Research & Technology Hellas (CERTH), Thermi, GR-57001 Thessalonica, Greece."
+          }
+        ],
+        "LastName": "Ouzounis",
+        "ForeName": "Christos A",
+        "Initials": "CA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "physiology",
+        "radiation effects"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seasons"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Temperature"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Ultraviolet Rays"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Weather"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

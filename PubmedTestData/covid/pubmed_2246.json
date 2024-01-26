@@ -1,0 +1,203 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "batch correction",
+      "batch effects",
+      "single cell RNA-seq",
+      "single cell classification",
+      "spatial transcriptomic",
+      "virtual adversarial training"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34308480",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab281",
+      "10.1093/bib/bbab281"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "scAdapt: virtual adversarial domain adaptation network for single cell RNA-seq data classification across platforms and species.",
+    "Abstract": {
+      "AbstractText": [
+        "In single cell analyses, cell types are conventionally identified based on expressions of known marker genes, whose identifications are time-consuming and irreproducible. To solve this issue, many supervised approaches have been developed to identify cell types based on the rapid accumulation of public datasets. However, these approaches are sensitive to batch effects or biological variations since the data distributions are different in cross-platforms or species predictions. In this study, we developed scAdapt, a virtual adversarial domain adaptation network, to transfer cell labels between datasets with batch effects. scAdapt used both the labeled source and unlabeled target data to train an enhanced classifier and aligned the labeled source centroids and pseudo-labeled target centroids to generate a joint embedding. The scAdapt was demonstrated to outperform existing methods for classification in simulated, cross-platforms, cross-species, spatial transcriptomic and COVID-19 immune datasets. Further quantitative evaluations and visualizations for the aligned embeddings confirm the superiority in cell mixing and the ability to preserve discriminative cluster structure present in the original datasets."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Engineering at the Sun Yat-sen University, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Xiang",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Engineering at the Sun Yat-sen University, China."
+          }
+        ],
+        "LastName": "Chai",
+        "ForeName": "Hua",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Engineering at the Sun Yat-sen University, China."
+          }
+        ],
+        "LastName": "Zeng",
+        "ForeName": "Yuansong",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sun Yat-sen Memorial Hospital at the Sun Yat-sen University, China."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Huiying",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science and Engineering and the National Super Computer Center at Guangzhou, Sun Yat-sen University, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Yuedong",
+        "Initials": "Y"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2016ZT06D211",
+        "Agency": "Introducing Innovative and Entrepreneurial Teams",
+        "Country": ""
+      },
+      {
+        "GrantID": "2019A1515012207",
+        "Agency": "Natural Science Foundation of Guangdong, China",
+        "Country": ""
+      },
+      {
+        "GrantID": "2019B020228001",
+        "Agency": "Guangdong Frontier &amp; Key Tech Innovation Program",
+        "Country": ""
+      },
+      {
+        "GrantID": "81801132",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "2020YFB020003",
+        "Agency": "National Key R&amp;D Program of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA-Seq"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Single-Cell Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Species Specificity"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exome Sequencing"
+    }
+  ]
+}

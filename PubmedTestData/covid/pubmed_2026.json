@@ -1,0 +1,131 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "CORD-19",
+      "COVID-19",
+      "information extraction",
+      "information retrieval",
+      "natural language processing",
+      "question answering",
+      "shared tasks",
+      "summarization",
+      "text mining"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33279995",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/bib/bbaa296"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Text mining approaches for dealing with the rapidly expanding literature on COVID-19.",
+    "Pagination": {
+      "StartPage": "781",
+      "EndPage": "799",
+      "MedlinePgn": "781-799"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "More than 50 000 papers have been published about COVID-19 since the beginning of 2020 and several hundred new papers continue to be published every day. This incredible rate of scientific productivity leads to information overload, making it difficult for researchers, clinicians and public health officials to keep up with the latest findings. Automated text mining techniques for searching, reading and summarizing papers are helpful for addressing information overload. In this review, we describe the many resources that have been introduced to support text mining applications over the COVID-19 literature; specifically, we discuss the corpora, modeling resources, systems and shared tasks that have been introduced for COVID-19. We compile a list of 39 systems that provide functionality such as search, discovery, visualization and summarization over the COVID-19 literature. For each system, we provide a qualitative description and assessment of the system's performance, unique data or user interface features and modeling decisions. Many systems focus on search and discovery, though several systems provide novel features, such as the ability to summarize findings over multiple documents or linking between scientific articles and clinical trials. We also describe the public corpora, models and shared tasks that have been introduced to help reduce repeated effort among community members; some of these resources (especially shared tasks) can provide a basis for comparing the performance of different systems. Finally, we summarize promising results and open challenges for text mining the COVID-19 literature."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Allen Institute for Artificial Intelligence, Seattle, WA 98112, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Lucy Lu",
+        "Initials": "LL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Allen Institute for Artificial Intelligence, Seattle, WA 98112, USA."
+          }
+        ],
+        "LastName": "Lo",
+        "ForeName": "Kyle",
+        "Initials": "K"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Data Mining"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

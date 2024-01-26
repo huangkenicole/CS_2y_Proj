@@ -1,0 +1,136 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33571234",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0246360",
+      "10.1371/journal.pone.0246360"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Prediction and control of COVID-19 spreading based on a hybrid intelligent model.",
+    "Pagination": {
+      "StartPage": "e0246360",
+      "MedlinePgn": "e0246360"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus (COVID-19) is a highly infectious disease that emerged in the late December 2019 in Wuhan, China. It caused a worldwide outbreak and a major threat to global health. It is important to design prediction and control strategies to restrain its exploding. In this study, a hybrid intelligent model is proposed to simulate the spreading of COVID-19. First, considering the effect of control measures, such as government investment, media publicity, medical treatment, and law enforcement in epidemic spreading. Then, the infection rates are optimized by genetic algorithm (GA) and a modified susceptible-infected-quarantined-recovered (SIQR) epidemic spreading model is proposed. In addition, the long short-term memory (LSTM) is imbedded into the SIQR model to design the hybrid intelligent model to further optimize other parameters of the system model, which can obtain the optimal predictive model and control measures. Simulation results show that the proposed hybrid intelligence algorithm has good predictive ability. This study provide a reliable model to predict cases of infection and death, and reasonable suggestion to control COVID-19."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6175-4100"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "China Three Gorges University, Yichang, Hubei, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Gengpei",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Automation Science and Engineering, South China University of Technology, Guangzhou, Guangdong, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Xiongding",
+        "Initials": "X"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

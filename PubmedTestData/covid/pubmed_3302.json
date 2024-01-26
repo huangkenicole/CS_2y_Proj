@@ -1,0 +1,323 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "Spike protein",
+      "homology modelling",
+      "statistical learning",
+      "unsupervised learning",
+      "variants of concern",
+      "variants of interest",
+      "viral residue variant"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35062214",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "9",
+      "10.3390/v14010009"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "21"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Tracking SARS-CoV-2 Spike Protein Mutations in the United States (January 2020-March 2021) Using a Statistical Learning Strategy.",
+    "Abstract": {
+      "AbstractText": [
+        "The emergence and establishment of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants of interest (VOIs) and variants of concern (VOCs) highlight the importance of genomic surveillance. We propose a statistical learning strategy (SLS) for identifying and spatiotemporally tracking potentially relevant Spike protein mutations. We analyzed 167,893 Spike protein sequences from coronavirus disease 2019 (COVID-19) cases in the United States (excluding 21,391 sequences from VOI/VOC strains) deposited at GISAID from 19 January 2020 to 15 March 2021. Alignment against the reference Spike protein sequence led to the identification of viral residue variants (VRVs), i.e., residues harboring a substitution compared to the reference strain. Next, generalized additive models were applied to model VRV temporal dynamics and to identify VRVs with significant and substantial dynamics (false discovery rate q-value < 0.01; maximum VRV proportion >10% on at least one day). Unsupervised learning was then applied to hierarchically organize VRVs by spatiotemporal patterns and identify VRV-haplotypes. Finally, homology modeling was performed to gain insight into the potential impact of VRVs on Spike protein structure. We identified 90 VRVs, 71 of which had not previously been observed in a VOI/VOC, and 35 of which have emerged recently and are durably present. Our analysis identified 17 VRVs ~91 days earlier than their first corresponding VOI/VOC publication. Unsupervised learning revealed eight VRV-haplotypes of four VRVs or more, suggesting two emerging strains (B1.1.222 and B.1.234). Structural modeling supported a potential functional impact of the D1118H and L452R mutations. The SLS approach equally monitors all Spike residues over time, independently of existing phylogenic classifications, and is complementary to existing genomic surveillance methods."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Public Health Sciences Division, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Zhao",
+        "ForeName": "Lue Ping",
+        "Initials": "LP"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2248-104X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quintepa Computing LLC, Nashville, TN 37205, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, Vanderbilt University, Nashville, TN 37235, USA."
+          }
+        ],
+        "LastName": "Lybrand",
+        "ForeName": "Terry P",
+        "Initials": "TP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Vaccine and Infectious Disease Division, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Gilbert",
+        "ForeName": "Peter B",
+        "Initials": "PB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Washington School of Medicine, Seattle, WA 98195, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Global Health, University of Washington, Seattle, WA 98105, USA."
+          }
+        ],
+        "LastName": "Hawn",
+        "ForeName": "Thomas R",
+        "Initials": "TR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Vaccine and Infectious Disease Division, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Washington School of Medicine, Seattle, WA 98195, USA."
+          }
+        ],
+        "LastName": "Schiffer",
+        "ForeName": "Joshua T",
+        "Initials": "JT"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1106-7097"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Vaccine and Infectious Disease Division, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Global Health, University of Washington, Seattle, WA 98105, USA."
+          }
+        ],
+        "LastName": "Stamatatos",
+        "ForeName": "Leonidas",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Washington School of Medicine, Seattle, WA 98195, USA."
+          }
+        ],
+        "LastName": "Payne",
+        "ForeName": "Thomas H",
+        "Initials": "TH"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0333-5925"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Vaccine and Infectious Disease Division, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Carpp",
+        "ForeName": "Lindsay N",
+        "Initials": "LN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Clinical Research Division, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Geraghty",
+        "ForeName": "Daniel E",
+        "Initials": "DE"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8212-3789"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Vaccine and Infectious Disease Division, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Jerome",
+        "ForeName": "Keith R",
+        "Initials": "KR"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 CA015704",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UM1 AI068635",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "AI068635",
+        "Agency": "National Institute of Allergy and Infectious Diseases",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2021 Jun 15;:",
+      "PMID": "34159336"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Amino Acid Sequence"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Haplotypes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spatio-Temporal Analysis"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Unsupervised Machine Learning"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

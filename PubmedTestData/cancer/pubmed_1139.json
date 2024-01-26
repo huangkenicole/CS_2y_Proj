@@ -1,0 +1,188 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26930673",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "08",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "02",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TBME.2016.2535364"
+    ],
+    "Journal": {
+      "ISSN": "1558-2531",
+      "JournalIssue": {
+        "Volume": "63",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Jul"
+        }
+      },
+      "Title": "IEEE transactions on bio-medical engineering",
+      "ISOAbbreviation": "IEEE Trans Biomed Eng"
+    },
+    "ArticleTitle": "Toward a Portable Cancer Diagnostic Tool Using a Disposable MEMS-Based Biochip.",
+    "Pagination": {
+      "StartPage": "1347",
+      "EndPage": "1353",
+      "MedlinePgn": "1347-53"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The objective of this study is to design and develop a portable tool consisting of a disposable biochip for measuring electrothermomechanical (ETM) properties of breast tissue.",
+        "A biochip integrated with a microheater, force sensors, and electrical sensors is fabricated using microtechnology. The sensor covers the area of 2\u00a0mm and the biochip is 10\u00a0mm in diameter. A portable tool capable of holding tissue and biochip is fabricated using 3-D printing. Invasive ductal carcinoma and normal tissue blocks are selected from cancer tissue bank in Biospecimen Repository Service at Rutgers Cancer Institute of New Jersey. The ETM properties of the normal and cancerous breast tissues (3-mm thickness and 2-mm diameter) are measured by indenting the tissue placed on the biochip integrated inside the 3-D printed tool.",
+        "Integrating microengineered biochip and 3-D printing, we have developed a portable cancer diagnosis device. Using this device, we have shown a statistically significant difference between cancerous and normal breast tissues in mechanical stiffness, electrical resistivity, and thermal conductivity.",
+        "The developed cancer diagnosis device is capable of simultaneous ETM measurements of breast tissue specimens and can be a potential candidate for delineating normal and cancerous breast tissue cores.",
+        "The portable cancer diagnosis tool could potentially provide a deterministic and quantitative information about the breast tissue characteristics, as well as the onset and disease progression of the tissues. The tool can be potentially used for other tissue-related cancers."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pandya",
+        "ForeName": "Hardik J",
+        "Initials": "HJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Park",
+        "ForeName": "Kihan",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chen",
+        "ForeName": "Wenjin",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Goodell",
+        "ForeName": "Lauri A",
+        "Initials": "LA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Foran",
+        "ForeName": "David J",
+        "Initials": "DJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Desai",
+        "ForeName": "Jaydev P",
+        "Initials": "JP"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 CA072720",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 CA156386",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 CA161375",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 LM009239",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Biomed Eng",
+    "NlmUniqueID": "0012737",
+    "ISSNLinking": "0018-9294"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Breast"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Equipment Design"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "instrumentation"
+      ],
+      "DescriptorName": "Micro-Electrical-Mechanical Systems"
+    },
+    {
+      "QualifierName": [
+        "instrumentation"
+      ],
+      "DescriptorName": "Microtechnology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tissue Engineering"
+    }
+  ]
+}

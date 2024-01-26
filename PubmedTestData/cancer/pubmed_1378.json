@@ -1,0 +1,232 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Human cancer",
+      "RT-qPCR",
+      "Reference genes"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31138119",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "07",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "05",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "245",
+      "10.1186/s12859-019-2809-2"
+    ],
+    "Journal": {
+      "ISSN": "1471-2105",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "Suppl 10",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "May",
+          "Day": "29"
+        }
+      },
+      "Title": "BMC bioinformatics",
+      "ISOAbbreviation": "BMC Bioinformatics"
+    },
+    "ArticleTitle": "Conventionally used reference genes are not outstanding for normalization of gene expression in human cancer research.",
+    "Pagination": {
+      "StartPage": "245",
+      "MedlinePgn": "245"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The selection of reference genes is essential for quantifying gene expression. Theoretically they should be expressed stably and not regulated by experimental or pathological conditions. However, identification and validation of reference genes for human cancer research are still being regarded as a critical point, because cancerous tissues often represent genetic instability and heterogeneity. Recent pan-cancer studies have demonstrated the importance of the appropriate selection of reference genes for use as internal controls for the normalization of gene expression; however, no stably expressed, consensus reference genes valid for a range of different human cancers have yet been identified.",
+        "In the present study, we used large-scale cancer gene expression datasets from The Cancer Genome Atlas (TCGA) database, which contains 10,028 (9,364 cancerous and 664 normal) samples from 32 different cancer types, to confirm that the expression of the most commonly used reference genes is not consistent across a range of cancer types. Furthermore, we identified 38 novel candidate reference genes for the normalization of gene expression, independent of cancer type. These genes were found to be highly expressed and highly connected to relevant gene networks, and to be enriched in transcription-translation regulation processes. The expression stability of the newly identified reference genes across 29 cancerous and matched normal tissues were validated via quantitative reverse transcription PCR (RT-qPCR).",
+        "We reveal that most commonly used reference genes in current cancer studies cannot be appropriate to serve as representative control genes for quantifying cancer-related gene expression levels, and propose in this study three potential reference genes (HNRNPL, PCBP1, and RER1) to be the most stably expressed across various cancerous and normal human tissues."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences and Technology, Chonnam National University, 77 Yongbong-Ro, Buk-Ku, GwangJu, 61186, Republic of Korea."
+          }
+        ],
+        "LastName": "Jo",
+        "ForeName": "Jihoon",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, Chungnam National University, 99 Daehak-Ro, Yuseong-Ku, Daejeon, 34134, Republic of Korea."
+          }
+        ],
+        "LastName": "Choi",
+        "ForeName": "Sunkyung",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences and Technology, Chonnam National University, 77 Yongbong-Ro, Buk-Ku, GwangJu, 61186, Republic of Korea."
+          }
+        ],
+        "LastName": "Oh",
+        "ForeName": "Jooseong",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences and Technology, Chonnam National University, 77 Yongbong-Ro, Buk-Ku, GwangJu, 61186, Republic of Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Sung-Gwon",
+        "Initials": "SG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Chungnam National University, 282 Munhwa-Ro, Jung-Ku, Daejeon, 35015, Republic of Korea. sychoi@cnu.ac.kr."
+          }
+        ],
+        "LastName": "Choi",
+        "ForeName": "Song Yi",
+        "Initials": "SY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, Chungnam National University, 99 Daehak-Ro, Yuseong-Ku, Daejeon, 34134, Republic of Korea. kimkk@cnu.ac.kr."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Kee K",
+        "Initials": "KK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences and Technology, Chonnam National University, 77 Yongbong-Ro, Buk-Ku, GwangJu, 61186, Republic of Korea. chungoo@jnu.ac.kr."
+          }
+        ],
+        "LastName": "Park",
+        "ForeName": "Chungoo",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Bioinformatics",
+    "NlmUniqueID": "100965194",
+    "ISSNLinking": "1471-2105"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Adaptor Proteins, Vesicular Transport"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Membrane Glycoproteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RER1 protein, human"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adaptor Proteins, Vesicular Transport"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomedical Research"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Membrane Glycoproteins"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reference Standards"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

@@ -1,0 +1,202 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35852144",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "08",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1039/d2an00775d"
+    ],
+    "Journal": {
+      "ISSN": "1364-5528",
+      "JournalIssue": {
+        "Volume": "147",
+        "Issue": "16",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug",
+          "Day": "08"
+        }
+      },
+      "Title": "The Analyst",
+      "ISOAbbreviation": "Analyst"
+    },
+    "ArticleTitle": "Infrared micro-spectroscopy coupled with multivariate and machine learning techniques for cancer classification in tissue: a comparison of classification method, performance, and pre-processing technique.",
+    "Pagination": {
+      "StartPage": "3709",
+      "EndPage": "3722",
+      "MedlinePgn": "3709-3722"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The visual detection, classification, and differentiation of cancers within tissues of clinical patients is an extremely difficult and time-consuming process with severe diagnosis implications. To this end, many computational approaches have been developed to analyse tissue samples to supplement histological cancer diagnoses. One approach is the interrogation of the chemical composition of the actual tissue samples through the utilisation of vibrational spectroscopy, specifically Infrared (IR) spectroscopy. Cancerous tissue can be detected by analysing the molecular vibration patterns of tissues undergoing IR irradiation, and even graded, with multivariate and Machine Learning (ML) techniques. This publication serves to review and highlight the potential for the application of infrared microscopy techniques such as Fourier Transform Infrared Spectroscopy (FTIR) and Quantum Cascade Laser Infrared Spectroscopy (QCL), as a means to improve diagnostic accuracy and allow earlier detection of human neoplastic disease. This review provides an overview of the detection and classification of different cancerous tissues using FTIR spectroscopy paired with multivariate and ML techniques, using the F1-Score as a quantitative metric for direct comparison of model performances. Comparisons also extend to data handling techniques, with a provision of a suggested pre-processing protocol for future studies alongside suggestions as to reporting standards for future publication."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4766-5339"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Manchester Institute of Biotechnology, University of Manchester, 131 Princess Street, Manchester, M1 7DN, UK. dougal.ferguson@manchester.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Analytical Science, School of Engineering, University of Manchester, Oxford Road, Manchester, M13 9PL, UK."
+          }
+        ],
+        "LastName": "Ferguson",
+        "ForeName": "Dougal",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5791-8555"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Manchester Institute of Biotechnology, University of Manchester, 131 Princess Street, Manchester, M1 7DN, UK. dougal.ferguson@manchester.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Analytical Science, School of Engineering, University of Manchester, Oxford Road, Manchester, M13 9PL, UK."
+          }
+        ],
+        "LastName": "Henderson",
+        "ForeName": "Alex",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Syngenta, International Research Centre, Jealotts Hill, Bracknell, RG42 6EY, UK."
+          }
+        ],
+        "LastName": "McInnes",
+        "ForeName": "Elizabeth F",
+        "Initials": "EF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Syngenta, International Research Centre, Jealotts Hill, Bracknell, RG42 6EY, UK."
+          }
+        ],
+        "LastName": "Lind",
+        "ForeName": "Rob",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5461-3828"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Syngenta, International Research Centre, Jealotts Hill, Bracknell, RG42 6EY, UK."
+          }
+        ],
+        "LastName": "Wildenhain",
+        "ForeName": "Jan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4034-3764"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Manchester Institute of Biotechnology, University of Manchester, 131 Princess Street, Manchester, M1 7DN, UK. dougal.ferguson@manchester.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Analytical Science, School of Engineering, University of Manchester, Oxford Road, Manchester, M13 9PL, UK."
+          }
+        ],
+        "LastName": "Gardner",
+        "ForeName": "Peter",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Analyst",
+    "NlmUniqueID": "0372652",
+    "ISSNLinking": "0003-2654"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Lasers, Semiconductor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Microscopy"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Spectroscopy, Fourier Transform Infrared"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vibration"
+    }
+  ]
+}

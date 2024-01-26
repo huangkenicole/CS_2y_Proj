@@ -1,0 +1,303 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Chromatin immunoprecipitation",
+      "CpG Island",
+      "DNA methylation",
+      "Gastric cancer"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24407023",
+  "DateCompleted": {
+    "Year": "2014",
+    "Month": "12",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2014",
+    "Month": "04",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "01",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.ygeno.2013.12.006",
+      "S0888-7543(13)00231-0"
+    ],
+    "Journal": {
+      "ISSN": "1089-8646",
+      "JournalIssue": {
+        "Volume": "103",
+        "Issue": "2-3",
+        "PubDate": {
+          "Year": "2014",
+          "Season": "Feb-Mar"
+        }
+      },
+      "Title": "Genomics",
+      "ISOAbbreviation": "Genomics"
+    },
+    "ArticleTitle": "Direct ChIP-bisulfite sequencing reveals a role of H3K27me3 mediating aberrant hypermethylation of promoter CpG islands in cancer cells.",
+    "Pagination": {
+      "StartPage": "204",
+      "EndPage": "210",
+      "MedlinePgn": "204-10"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The model describing that aberrant CpG island (CGI) methylation leads to repression of tumour suppressor genes in cancers has been influential, but it remains unclear how such aberrancy is induced. Recent studies provided clues indicating that promoter hypermethylation in cancers might be associated with PRC target genes. Here, we used ChIP-BS-seq to examine methylation of the DNA fragments precipitated by the antibodies to both H3K27me3 and H3K4me3 histone modifications. We showed that, for a set of genes highly enriched with H3K27me3 both in cancer and normal cells, CGI promoters were aberrantly hypermethylated only in cancer cells in comparison with normal cells. In contrast, such aberrant CGI hypermethylation in cancer promoters that were deficient of H3K27me3 was not notable. Furthermore, we confirmed that these genes were consistently hypermethylated in TCGA primary cancer cells. These works support the association between H3K27me3 and DNA methylation marks for specific cancer genes and will spur future work on combined histone and DNA methylation that could define cancer's epigenetic abnormalities."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2014 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China. Electronic address: gaofei@genomics.cn."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Fei",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Ji",
+        "ForeName": "Guanyu",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Zhaowei",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Xu",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Ye",
+        "ForeName": "Mingzhi",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Yuan",
+        "ForeName": "Zhimei",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Luo",
+        "ForeName": "Huijuan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China; College of Life Sciences, Wuhan University, Wuhan, 430072, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Xiaojun",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Natarajan",
+        "ForeName": "Karthikraj",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China; Department of Biology, University of Copenhagen, Copenhagen, 2200, Denmark; King Abdulaziz University, Jeddah, 21589, Saudi Arabia; The Novo Nordisk Foundation Center for Basic Metabolic Research, University of Copenhagen, 2200, Denmark."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Jun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Huanming",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Science & Technology Department, BGI-Shenzhen, Shenzhen, 518083, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Xiuqing",
+        "Initials": "X"
+      }
+    ],
+    "DataBankList": [
+      {
+        "DataBankName": "GEO",
+        "AccessionNumberList": [
+          "GSE43096",
+          "GSE44866"
+        ]
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Genomics",
+    "NlmUniqueID": "8800135",
+    "ISSNLinking": "0888-7543"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "DNA, Neoplasm"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Histones"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Line, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CpG Islands"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "DNA, Neoplasm"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Histones"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Promoter Regions, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis, DNA"
+    }
+  ]
+}

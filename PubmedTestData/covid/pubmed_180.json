@@ -1,0 +1,187 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "mitigation strategies",
+      "overdispersion",
+      "pandemic",
+      "social networks",
+      "superspreading"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33741734",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2016623118",
+      "10.1073/pnas.2016623118"
+    ],
+    "Journal": {
+      "ISSN": "1091-6490",
+      "JournalIssue": {
+        "Volume": "118",
+        "Issue": "14",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr",
+          "Day": "06"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "Overdispersion in COVID-19 increases the effectiveness of limiting nonrepetitive contacts for transmission control.",
+    "Abstract": {
+      "AbstractText": [
+        "Increasing evidence indicates that superspreading plays a dominant role in COVID-19 transmission. Recent estimates suggest that the dispersion parameter <i>k</i> for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is on the order of 0.1, which corresponds to about 10% of cases being the source of 80% of infections. To investigate how overdispersion might affect the outcome of various mitigation strategies, we developed an agent-based model with a social network that allows transmission through contact in three sectors: \"close\" (a small, unchanging group of mutual contacts as might be found in a household), \"regular\" (a larger, unchanging group as might be found in a workplace or school), and \"random\" (drawn from the entire model population and not repeated regularly). We assigned individual infectivity from a gamma distribution with dispersion parameter <i>k</i> We found that when <i>k</i> was low (i.e., greater heterogeneity, more superspreading events), reducing random sector contacts had a far greater impact on the epidemic trajectory than did reducing regular contacts; when <i>k</i> was high (i.e., less heterogeneity, no superspreading events), that difference disappeared. These results suggest that overdispersion of COVID-19 transmission gives the virus an Achilles' heel: Reducing contacts between people who do not regularly meet would substantially reduce the pandemic, while reducing repeated contacts in defined social groups would be less effective."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 the Author(s). Published by PNAS."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9820-3567"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Niels Bohr Institute, University of Copenhagen, 2100 K\u00f8benhavn \u00d8, Denmark; sneppen@nbi.ku.dk."
+          }
+        ],
+        "LastName": "Sneppen",
+        "ForeName": "Kim",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3868-9187"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Niels Bohr Institute, University of Copenhagen, 2100 K\u00f8benhavn \u00d8, Denmark."
+          }
+        ],
+        "LastName": "Nielsen",
+        "ForeName": "Bjarke Frost",
+        "Initials": "BF"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6106-7722"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Science and Environment, Roskilde University, 4000 Roskilde, Denmark."
+          }
+        ],
+        "LastName": "Taylor",
+        "ForeName": "Robert J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1535-8526"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Science and Environment, Roskilde University, 4000 Roskilde, Denmark."
+          }
+        ],
+        "LastName": "Simonsen",
+        "ForeName": "Lone",
+        "Initials": "L"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Distancing"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Social Networking"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interest."
+}

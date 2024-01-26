@@ -1,0 +1,775 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33211854",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa1038"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "RCSB Protein Data Bank: powerful new tools for exploring 3D structures of biological macromolecules for basic and applied research and education in fundamental biology, biomedicine, biotechnology, bioengineering and energy sciences.",
+    "Pagination": {
+      "StartPage": "D437",
+      "EndPage": "D451",
+      "MedlinePgn": "D437-D451"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Research Collaboratory for Structural Bioinformatics Protein Data Bank (RCSB PDB), the US data center for the global PDB archive and a founding member of the Worldwide Protein Data Bank partnership, serves tens of thousands of data depositors in the Americas and Oceania and makes 3D macromolecular structure data available at no charge and without restrictions to millions of RCSB.org users around the world, including >660\u00a0000 educators, students and members of the curious public using PDB101.RCSB.org. PDB data depositors include structural biologists using macromolecular crystallography, nuclear magnetic resonance spectroscopy, 3D electron microscopy and micro-electron diffraction. PDB data consumers accessing our web portals include researchers, educators and students studying fundamental biology, biomedicine, biotechnology, bioengineering and energy sciences. During the past 2 years, the research-focused RCSB PDB web portal (RCSB.org) has undergone a complete redesign, enabling improved searching with full Boolean operator logic and more facile access to PDB data integrated with >40 external biodata resources. New features and resources are described in detail using examples that showcase recently released structures of SARS-CoV-2 proteins and host cell proteins relevant to understanding and addressing the COVID-19 global pandemic."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Institute of New Jersey, Rutgers, The State University of New Jersey, New Brunswick, NJ 08901,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Burley",
+        "ForeName": "Stephen K",
+        "Initials": "SK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Bhikadiya",
+        "ForeName": "Charmi",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          }
+        ],
+        "LastName": "Bi",
+        "ForeName": "Chunxiao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          }
+        ],
+        "LastName": "Bittrich",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Li",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Crichlow",
+        "ForeName": "Gregg V",
+        "Initials": "GV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          }
+        ],
+        "LastName": "Christie",
+        "ForeName": "Cole H",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Dalenberg",
+        "ForeName": "Kenneth",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Di Costanzo",
+        "ForeName": "Luigi",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          }
+        ],
+        "LastName": "Duarte",
+        "ForeName": "Jose M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Institute of New Jersey, Rutgers, The State University of New Jersey, New Brunswick, NJ 08901,\u00a0USA."
+          }
+        ],
+        "LastName": "Dutta",
+        "ForeName": "Shuchismita",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Feng",
+        "ForeName": "Zukang",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Department of Biotherapeutic Sciences, University of California, San Francisco, San Francisco, CA 94158,\u00a0USA."
+          }
+        ],
+        "LastName": "Ganesan",
+        "ForeName": "Sai",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Computational Structural Biology, The Scripps Research Institute, La Jolla, CA 92037, USA."
+          }
+        ],
+        "LastName": "Goodsell",
+        "ForeName": "David S",
+        "Initials": "DS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Ghosh",
+        "ForeName": "Sutapa",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Green",
+        "ForeName": "Rachel Kramer",
+        "Initials": "RK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Guranovi\u0107",
+        "ForeName": "Vladimir",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          }
+        ],
+        "LastName": "Guzenko",
+        "ForeName": "Dmytro",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Hudson",
+        "ForeName": "Brian P",
+        "Initials": "BP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Lawson",
+        "ForeName": "Catherine L",
+        "Initials": "CL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Liang",
+        "ForeName": "Yuhe",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Lowe",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Namkoong",
+        "ForeName": "Harry",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Peisach",
+        "ForeName": "Ezra",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Persikova",
+        "ForeName": "Irina",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          }
+        ],
+        "LastName": "Randle",
+        "ForeName": "Chris",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          }
+        ],
+        "LastName": "Rose",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          }
+        ],
+        "LastName": "Rose",
+        "ForeName": "Yana",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Department of Biotherapeutic Sciences, University of California, San Francisco, San Francisco, CA 94158,\u00a0USA."
+          }
+        ],
+        "LastName": "Sali",
+        "ForeName": "Andrej",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, La Jolla,\u00a0CA 92093,\u00a0USA."
+          }
+        ],
+        "LastName": "Segura",
+        "ForeName": "Joan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Sekharan",
+        "ForeName": "Monica",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Shao",
+        "ForeName": "Chenghua",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Tao",
+        "ForeName": "Yi-Ping",
+        "Initials": "YP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Voigt",
+        "ForeName": "Maria",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Cancer Institute of New Jersey, Rutgers, The State University of New Jersey, New Brunswick, NJ 08901,\u00a0USA."
+          }
+        ],
+        "LastName": "Westbrook",
+        "ForeName": "John D",
+        "Initials": "JD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Young",
+        "ForeName": "Jasmine Y",
+        "Initials": "JY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Zardecki",
+        "ForeName": "Christine",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Collaboratory for Structural Bioinformatics Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway,\u00a0NJ 08854,\u00a0USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, NJ 08854,\u00a0USA."
+          }
+        ],
+        "LastName": "Zhuravleva",
+        "ForeName": "Marina",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM133198",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "DBI-1832184",
+        "Agency": "National Science Foundation",
+        "Country": "International"
+      },
+      {
+        "GrantID": "DE-SC0019749",
+        "Agency": "US Department of Energy",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Macromolecular Substances"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Bioengineering"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Biomedical Research"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Biotechnology"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Protein"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Macromolecular Substances"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Conformation"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Viral Proteins"
+    }
+  ]
+}

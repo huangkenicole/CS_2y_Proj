@@ -1,0 +1,212 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34353886",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e202000954",
+      "10.26508/lsa.202000954"
+    ],
+    "Journal": {
+      "ISSN": "2575-1077",
+      "JournalIssue": {
+        "Volume": "4",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Life science alliance",
+      "ISOAbbreviation": "Life Sci Alliance"
+    },
+    "ArticleTitle": "Integrated human/SARS-CoV-2 metabolic models present novel treatment strategies against COVID-19.",
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus disease 2019 (COVID-19) pandemic caused by the new coronavirus (SARS-CoV-2) is currently responsible for more than 3 million deaths in 219 countries across the world and with more than 140 million cases. The absence of FDA-approved drugs against SARS-CoV-2 has highlighted an urgent need to design new drugs. We developed an integrated model of the human cell and SARS-CoV-2 to provide insight into the virus' pathogenic mechanism and support current therapeutic strategies. We show the biochemical reactions required for the growth and general maintenance of the human cell, first, in its healthy state. We then demonstrate how the entry of SARS-CoV-2 into the human cell causes biochemical and structural changes, leading to a change of cell functions or cell death. A new computational method that predicts 20 unique reactions as drug targets from our models and provides a platform for future studies on viral entry inhibition, immune regulation, and drug optimisation strategies. The model is available in BioModels (https://www.ebi.ac.uk/biomodels/MODEL2007210001) and the software tool, <i>findCPcli</i>, that implements the computational method is available at https://github.com/findCP/findCPcli."
+      ],
+      "CopyrightInformation": "\u00a9 2021 Bannerman et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-5746-8283"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Immunity Unit, Department of Medicine, University of Cambridge, Cambridge, UK bpc28@cam.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Center for Research and Interdisciplinarity, Paris, France."
+          }
+        ],
+        "LastName": "Bannerman",
+        "ForeName": "Bridget P",
+        "Initials": "BP"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7093-228X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Systems Engineering, University of Zaragoza, Zaragoza, Spain."
+          }
+        ],
+        "LastName": "J\u00falvez",
+        "ForeName": "Jorge",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7271-733X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Systems Engineering, University of Zaragoza, Zaragoza, Spain."
+          }
+        ],
+        "LastName": "Oarga",
+        "ForeName": "Alexandru",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Blundell",
+        "ForeName": "Tom L",
+        "Initials": "TL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "EMBL-EBI, European Bioinformatics Institute, Hinxton, UK."
+          }
+        ],
+        "LastName": "Moreno",
+        "ForeName": "Pablo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2188-5659"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Immunity Unit, Department of Medicine, University of Cambridge, Cambridge, UK arf27@cam.ac.uk."
+          }
+        ],
+        "LastName": "Floto",
+        "ForeName": "R Andres",
+        "Initials": "RA"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Life Sci Alliance",
+    "NlmUniqueID": "101728869",
+    "ISSNLinking": "2575-1077"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Development"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Evaluation, Preclinical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflict of interest."
+}

@@ -1,0 +1,223 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "integration",
+      "multi-omics",
+      "pandemic",
+      "resources"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34718395",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab446",
+      "10.1093/bib/bbab446"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "17"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "A comprehensive review of the analysis and integration of omics data for SARS-CoV-2 and COVID-19.",
+    "Abstract": {
+      "AbstractText": [
+        "Since the first report of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in December 2019, over 100 million people have been infected by COVID-19, millions of whom have died. In the latest year, a large number of omics data have sprung up and helped researchers broadly study the sequence, chemical structure and function of SARS-CoV-2, as well as molecular abnormal mechanisms of COVID-19 patients. Though some successes have been achieved in these areas, it is necessary to analyze and mine omics data for comprehensively understanding SARS-CoV-2 and COVID-19. Hence, we reviewed the current advantages and limitations of the integration of omics data herein. Firstly, we sorted out the sequence resources and database resources of SARS-CoV-2, including protein chemical structure, potential drug information and research literature resources. Next, we collected omics data of the COVID-19 hosts, including genomics, transcriptomics, microbiology and potential drug information data. And subsequently, based on the integration of omics data, we summarized the existing data analysis methods and the related research results of COVID-19 multi-omics data in recent years. Finally, we put forward SARS-CoV-2 (COVID-19) multi-omics data integration research direction and gave a case study to mine deeper for the disease mechanisms of COVID-19."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang, China, 150081."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Zijun",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang, China, 150081."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Sainan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang, China, 150081."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Ping",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang, China, 150081."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Xinyu",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang, China, 150081."
+          }
+        ],
+        "LastName": "Bi",
+        "ForeName": "Jianxing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6665-6710"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Bioinformatics Science and Technology, Harbin Medical University, Harbin, Heilongjiang, China, 150081."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "NHC and CAMS Key Laboratory of Molecular Probe and Targeted Theranostics, Harbin Medical University, Harbin, Heilongjiang, China, 150028."
+          }
+        ],
+        "LastName": "Cheng",
+        "ForeName": "Liang",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NHC and CAMS Key Laboratory of Molecular Probe and Targeted Theranostics, Harbin Medical University, Harbin, Heilongjiang, China, 150028."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "McKusick-Zhang Center for Genetic Medicine, Peking Union Medical College, Beijing, China, 100005."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Xue",
+        "Initials": "X"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "LBH-Q20030",
+        "Agency": "Heilongjiang Postdoctoral Science Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "61871160",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34283863",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0254164",
+      "10.1371/journal.pone.0254164"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Algorithmic extraction of smartphone accelerometer-derived mechano-biological descriptors of resistance exercise is robust to changes in intensity and velocity.",
+    "Pagination": {
+      "StartPage": "e0254164",
+      "MedlinePgn": "e0254164"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "It was shown that single repetition, contraction-phase specific and total time-under-tension (TUT) can be extracted reliably and validly from smartphone accelerometer-derived data of resistance exercise machines using user-determined resistance exercise velocities at 60% one repetition maximum (1-RM). However, it remained unclear how robust the extraction of these mechano-biological descriptors is over a wide range of movement velocities (slow- versus fast-movement velocity) and intensities (30% 1-RM versus 80% 1-RM) that reflect the interindividual variability during resistance exercise.",
+        "In this work, we examined whether the manipulation of velocity or intensity would disrupt an algorithmic extraction of single repetitions, contraction-phase specific and total TUT.",
+        "Twenty-seven participants performed four sets of three repetitions of their 30% and 80% 1-RM with velocities of 1 s, 2 s, 6 s and 8 s per repetition, respectively. An algorithm extracted the number of repetitions, single repetition, contraction-phase specific and total TUT. All exercises were video-recorded. The video recordings served as the gold standard to which algorithmically-derived TUT was compared. The agreement between the methods was examined using Limits of Agreement (LoA). The Pearson correlation coefficients were used to calculate the association, and the intraclass correlation coefficient (ICC 2.1) examined the interrater reliability.",
+        "The calculated error rate for the algorithmic detection of the number of single repetitions derived from two smartphones accelerometers was 1.9%. The comparison between algorithmically-derived, contraction-phase specific TUT against video, revealed a high degree of correlation (r > 0.94) for both exercise machines. The agreement between the two methods was high on both exercise machines, intensities and velocities and was as follows: LoA ranged from -0.21 to 0.22 seconds for single repetition TUT (2.57% of mean TUT), from -0.24 to 0.22 seconds for concentric contraction TUT (6.25% of mean TUT), from -0.22 to 0.24 seconds for eccentric contraction TUT (5.52% of mean TUT) and from -1.97 to 1.00 seconds for total TUT (5.13% of mean TUT). Interrater reliability for single repetition, contraction-phase specific TUT was high (ICC > 0.99).",
+        "Neither intensity nor velocity disrupts the proposed algorithmic data extraction approach. Therefore, smartphone accelerometers can be used to extract scientific mechano-biological descriptors of dynamic resistance exercise with intensities ranging from 30% to 80% of the 1-RM with velocities ranging from 1 s to 8 s per repetition, respectively, thus making this simple method a reliable tool for resistance exercise mechano-biological descriptors extraction."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Molecular Systems Biology, ETH Zurich, Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Viecelli",
+        "ForeName": "Claudio",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kieser Training AG, Z\u00fcrich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Aguayo",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Applied Mathematics and Physics, Zurich University of Applied Sciences, Zurich, Winterthur, Switzerland."
+          }
+        ],
+        "LastName": "D\u00e4llenbach",
+        "ForeName": "Samuel",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Applied Mathematics and Physics, Zurich University of Applied Sciences, Zurich, Winterthur, Switzerland."
+          }
+        ],
+        "LastName": "Graf",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ieffects AG, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Achermann",
+        "ForeName": "Basil",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Molecular Systems Biology, ETH Zurich, Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Hafen",
+        "ForeName": "Ernst",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9093-4864"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Applied Mathematics and Physics, Zurich University of Applied Sciences, Zurich, Winterthur, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "European Centre for Living Technology, Ca' Bottacin, Venice, Italy."
+          }
+        ],
+        "LastName": "F\u00fcchslin",
+        "ForeName": "Rudolf M",
+        "Initials": "RM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Accelerometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Biochemical Phenomena"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "standards"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Muscle, Skeletal"
+    },
+    {
+      "QualifierName": [
+        "standards"
+      ],
+      "DescriptorName": "Resistance Training"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Smartphone"
+    }
+  ],
+  "CoiStatement": "Kieser Training AG provided support in the form of salaries for author DA, but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. ieffects AG provided support in the form of salaries for author BA, but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. This does not alter our adherence to PLOS ONE policies on sharing data and materials."
+}

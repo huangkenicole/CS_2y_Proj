@@ -1,0 +1,343 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "CRISPR screen",
+      "biological network",
+      "chemical interaction",
+      "drug target",
+      "genetic interaction",
+      "phenotype",
+      "post-translational modification",
+      "protein interaction",
+      "ubiquitin-proteasome system"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33070389",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/pro.3978"
+    ],
+    "Journal": {
+      "ISSN": "1469-896X",
+      "JournalIssue": {
+        "Volume": "30",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Protein science : a publication of the Protein Society",
+      "ISOAbbreviation": "Protein Sci"
+    },
+    "ArticleTitle": "The BioGRID database: A comprehensive biomedical resource of curated protein, genetic, and chemical interactions.",
+    "Pagination": {
+      "StartPage": "187",
+      "EndPage": "200",
+      "MedlinePgn": "187-200"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The BioGRID (Biological General Repository for Interaction Datasets, thebiogrid.org) is an open-access database resource that houses manually curated protein and genetic interactions from multiple species including yeast, worm, fly, mouse, and human. The ~1.93 million curated interactions in BioGRID can be used to build complex networks to facilitate biomedical discoveries, particularly as related to human health and disease. All BioGRID content is curated from primary experimental evidence in the biomedical literature, and includes both focused low-throughput studies and large high-throughput datasets. BioGRID also captures protein post-translational modifications and protein or gene interactions with bioactive small molecules including many known drugs. A built-in network visualization tool combines all annotations and allows users to generate network graphs of protein, genetic and chemical interactions. In addition to general curation across species, BioGRID undertakes themed curation projects in specific aspects of cellular regulation, for example the ubiquitin-proteasome system, as well as specific disease areas, such as for the SARS-CoV-2 virus that causes COVID-19 severe acute respiratory syndrome. A recent extension of BioGRID, named the Open Repository of CRISPR Screens (ORCS, orcs.thebiogrid.org), captures single mutant phenotypes and genetic interactions from published high throughput genome-wide CRISPR/Cas9-based genetic screens. BioGRID-ORCS contains datasets for over 1,042 CRISPR screens carried out to date in human, mouse and fly cell lines. The biomedical research community can freely access all BioGRID data through the web interface, standardized file downloads, or via model organism databases and partner meta-databases."
+      ],
+      "CopyrightInformation": "\u00a9 2020 The Authors. Protein Science published by Wiley Periodicals LLC on behalf of The Protein Society."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, New Jersey, USA."
+          }
+        ],
+        "LastName": "Oughtred",
+        "ForeName": "Rose",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, New Jersey, USA."
+          }
+        ],
+        "LastName": "Rust",
+        "ForeName": "Jennifer",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, New Jersey, USA."
+          }
+        ],
+        "LastName": "Chang",
+        "ForeName": "Christie",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Breitkreutz",
+        "ForeName": "Bobby-Joe",
+        "Initials": "BJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Stark",
+        "ForeName": "Chris",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Willems",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Boucher",
+        "ForeName": "Lorrie",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Leung",
+        "ForeName": "Genie",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Kolas",
+        "ForeName": "Nadine",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Arthur and Sonia Labatt Brain Tumor Research Center and Developmental and Stem Cell Biology, The Hospital for Sick Children, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Frederick",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Arthur and Sonia Labatt Brain Tumor Research Center and Developmental and Stem Cell Biology, The Hospital for Sick Children, Toronto, Ontario, Canada."
+          }
+        ],
+        "LastName": "Dolma",
+        "ForeName": "Sonam",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Research in Immunology and Cancer, Universit\u00e9 de Montr\u00e9al, Quebec, Canada."
+          }
+        ],
+        "LastName": "Coulombe-Huntington",
+        "ForeName": "Jasmin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Research in Immunology and Cancer, Universit\u00e9 de Montr\u00e9al, Quebec, Canada."
+          }
+        ],
+        "LastName": "Chatr-Aryamontri",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7010-0264"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, New Jersey, USA."
+          }
+        ],
+        "LastName": "Dolinski",
+        "ForeName": "Kara",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9713-9994"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Research in Immunology and Cancer, Universit\u00e9 de Montr\u00e9al, Quebec, Canada."
+          }
+        ],
+        "LastName": "Tyers",
+        "ForeName": "Mike",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "OT3 TR002026",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 OD010929",
+        "Acronym": "OD",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Protein Sci",
+    "NlmUniqueID": "9211750",
+    "ISSNLinking": "0961-8368"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Mapping"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "User-Computer Interface"
+    }
+  ],
+  "CoiStatement": "The authors have no conflict of interest to declare."
+}

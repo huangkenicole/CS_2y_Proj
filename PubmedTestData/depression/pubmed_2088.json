@@ -1,0 +1,198 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Co-morbidity",
+      "depression",
+      "graphical LASSO",
+      "network analysis",
+      "obsessive\u2013compulsive disorder"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28052778",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "11",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "01",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1017/S0033291716003287"
+    ],
+    "Journal": {
+      "ISSN": "1469-8978",
+      "JournalIssue": {
+        "Volume": "47",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "May"
+        }
+      },
+      "Title": "Psychological medicine",
+      "ISOAbbreviation": "Psychol Med"
+    },
+    "ArticleTitle": "Co-morbid obsessive-compulsive disorder and depression: a Bayesian network approach.",
+    "Pagination": {
+      "StartPage": "1204",
+      "EndPage": "1214",
+      "MedlinePgn": "1204-1214"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Obsessive-compulsive disorder (OCD) is often co-morbid with depression. Using the methods of network analysis, we computed two networks that disclose the potentially causal relationships among symptoms of these two disorders in 408 adult patients with primary OCD and co-morbid depression symptoms.",
+        "We examined the relationship between the symptoms constituting these syndromes by computing a (regularized) partial correlation network via the graphical LASSO procedure, and a directed acyclic graph (DAG) via a Bayesian hill-climbing algorithm.",
+        "The results suggest that the degree of interference and distress associated with obsessions, and the degree of interference associated with compulsions, are the chief drivers of co-morbidity. Moreover, activation of the depression cluster appears to occur solely through distress associated with obsessions activating sadness - a key symptom that 'bridges' the two syndromic clusters in the DAG.",
+        "Bayesian analysis can expand the repertoire of network analytic approaches to psychopathology. We discuss clinical implications and limitations of our findings."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology,Harvard University,33 Kirkland Street, Cambridge, MA 02138,USA."
+          }
+        ],
+        "LastName": "McNally",
+        "ForeName": "R J",
+        "Initials": "RJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology,Harvard University,33 Kirkland Street, Cambridge, MA 02138,USA."
+          }
+        ],
+        "LastName": "Mair",
+        "ForeName": "P",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "OCD Center and Cognitive-Behavioral Therapy Services,Rogers Memorial Hospital, 34700 Valley Road, Oconomowoc, WI 53066,USA."
+          }
+        ],
+        "LastName": "Mugno",
+        "ForeName": "B L",
+        "Initials": "BL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "OCD Center and Cognitive-Behavioral Therapy Services,Rogers Memorial Hospital, 34700 Valley Road, Oconomowoc, WI 53066,USA."
+          }
+        ],
+        "LastName": "Riemann",
+        "ForeName": "B C",
+        "Initials": "BC"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Psychol Med",
+    "NlmUniqueID": "1254142",
+    "ISSNLinking": "0033-2917"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Comorbidity"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Depressive Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Obsessive-Compulsive Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ]
+}

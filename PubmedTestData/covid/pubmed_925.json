@@ -1,0 +1,376 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "causal network",
+      "enrichment analysis",
+      "high-throughput experiments",
+      "signaling pathways",
+      "the coronavirus disease 2019 (COVID-19)"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33809949",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "450",
+      "10.3390/genes12030450"
+    ],
+    "Journal": {
+      "ISSN": "2073-4425",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Genes",
+      "ISOAbbreviation": "Genes (Basel)"
+    },
+    "ArticleTitle": "A Resource for the Network Representation of Cell Perturbations Caused by SARS-CoV-2 Infection.",
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus disease 2019 (COVID-19) pandemic has caused more than 2.3 million casualties worldwide and the lack of effective treatments is a major health concern. The development of targeted drugs is held back due to a limited understanding of the molecular mechanisms underlying the perturbation of cell physiology observed after viral infection. Recently, several approaches, aimed at identifying cellular proteins that may contribute to COVID-19 pathology, have been reported. Albeit valuable, this information offers limited mechanistic insight as these efforts have produced long lists of cellular proteins, the majority of which are not annotated to any cellular pathway. We have embarked in a project aimed at bridging this mechanistic gap by developing a new bioinformatic approach to estimate the functional distance between a subset of proteins and a list of pathways. A comprehensive literature search allowed us to annotate, in the SIGNOR 2.0 resource, causal information underlying the main molecular mechanisms through which severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and related coronaviruses affect the host-cell physiology. Next, we developed a new strategy that enabled us to link SARS-CoV-2 interacting proteins to cellular phenotypes via paths of causal relationships. Remarkably, the extensive information about inhibitors of signaling proteins annotated in SIGNOR 2.0 makes it possible to formulate new potential therapeutic strategies. The proposed approach, which is generally applicable, generated a literature-based causal network that can be used as a framework to formulate informed mechanistic hypotheses on COVID-19 etiology and pathology."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-4392-8725"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fondazione Human Technopole, Department of Biology, Via Cristina Belgioioso, 171, 20157 Milan, Italy."
+          }
+        ],
+        "LastName": "Perfetto",
+        "ForeName": "Livia",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Micarelli",
+        "ForeName": "Elisa",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2374-3531"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Iannuccelli",
+        "ForeName": "Marta",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fondazione Human Technopole, Department of Biology, Via Cristina Belgioioso, 171, 20157 Milan, Italy."
+          }
+        ],
+        "LastName": "Lo Surdo",
+        "ForeName": "Prisca",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4648-0076"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Giuliani",
+        "ForeName": "Giulio",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2353-3155"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Latini",
+        "ForeName": "Sara",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9473-4982"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Pugliese",
+        "ForeName": "Giusj Monia",
+        "Initials": "GM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Massacci",
+        "ForeName": "Giorgia",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1940-3355"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Vumbaca",
+        "ForeName": "Simone",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Riccio",
+        "ForeName": "Federica",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8372-305X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Fuoco",
+        "ForeName": "Claudia",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Paoluzi",
+        "ForeName": "Serena",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5283-8671"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Castagnoli",
+        "ForeName": "Luisa",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9528-6018"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Cesareni",
+        "ForeName": "Gianni",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5084-9000"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Licata",
+        "ForeName": "Luana",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5586-9529"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biology, University of Rome Tor Vergata, Via delle Ricerca Scientifica 1, 00133 Rome, Italy."
+          }
+        ],
+        "LastName": "Sacco",
+        "ForeName": "Francesca",
+        "Initials": "F"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "IG 2017 n. 20322",
+        "Agency": "Associazione Italiana per la Ricerca sul Cancro",
+        "Country": ""
+      },
+      {
+        "GrantID": "Start-Up Grant n. 21815",
+        "Agency": "Associazione Italiana per la Ricerca sul Cancro",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Genes (Basel)",
+    "NlmUniqueID": "101551097",
+    "ISSNLinking": "2073-4425"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteome"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Autophagy"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Ontology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Host Microbial Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "Inflammation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "PubMed"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Signal Transduction"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

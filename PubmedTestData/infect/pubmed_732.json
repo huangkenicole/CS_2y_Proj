@@ -1,0 +1,132 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Branching process",
+      "Equine infectious anemia virus",
+      "Markov chain",
+      "Virus dynamics",
+      "Within-host model"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25865935",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "12",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "12",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "04",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.mbs.2015.04.001",
+      "S0025-5564(15)00079-6"
+    ],
+    "Journal": {
+      "ISSN": "1879-3134",
+      "JournalIssue": {
+        "Volume": "270",
+        "Issue": "Pt B",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Mathematical biosciences",
+      "ISOAbbreviation": "Math Biosci"
+    },
+    "ArticleTitle": "Free-virus and cell-to-cell transmission in models of equine infectious anemia virus infection.",
+    "Pagination": {
+      "StartPage": "237",
+      "EndPage": "248",
+      "MedlinePgn": "237-48"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Equine infectious anemia virus (EIAV) is a lentivirus in the retrovirus family that infects horses and ponies. Two strains, referred to as the sensitive strain and the resistant strain, have been isolated from an experimentally-infected pony. The sensitive strain is vulnerable to neutralization by antibodies whereas the resistant strain is neutralization-insensitive. The sensitive strain mutates to the resistant strain. EIAV may infect healthy target cells via free virus or alternatively, directly from an infected target cell through cell-to-cell transfer. The proportion of transmission from free-virus or from cell-to-cell transmission is unknown. A system of ordinary differential equations (ODEs) is formulated for the virus-cell dynamics of EIAV. In addition, a Markov chain model and a branching process approximation near the infection-free equilibrium (IFE) are formulated. The basic reproduction number R0 is defined as the maximum of two reproduction numbers, R0s and R0r, one for the sensitive strain and one for the resistant strain. The IFE is shown to be globally asymptotically stable for the ODE model in a special case when the basic reproduction number is less than one. In addition, two endemic equilibria exist, a coexistence equilibrium and a resistant strain equilibrium. It is shown that if R0>1, the infection persists with at least one of the two strains. However, for small infectious doses, the sensitive strain and the resistant strain may not persist in the Markov chain model. Parameter values applicable to EIAV are used to illustrate the dynamics of the ODE and the Markov chain models. The examples highlight the importance of the proportion of cell-to-cell versus free-virus transmission that either leads to infection clearance or to infection persistence with either coexistence of both strains or to dominance by the resistant strain."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2015 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, Texas Tech University, Lubbock, TX 79409-1042, United States. Electronic address: linda.j.allen@ttu.edu."
+          }
+        ],
+        "LastName": "Allen",
+        "ForeName": "Linda J S",
+        "Initials": "LJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences and Department of Mathematics, Washington State University, Pullman, WA 99164-3113, United States."
+          }
+        ],
+        "LastName": "Schwartz",
+        "ForeName": "Elissa J",
+        "Initials": "EJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci",
+    "NlmUniqueID": "0103146",
+    "ISSNLinking": "0025-5564"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "transmission"
+      ],
+      "DescriptorName": "Equine Infectious Anemia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Horses"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "Infectious Anemia Virus, Equine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "PDB",
+      "SARS-CoV-2",
+      "coronavirus",
+      "ligand assessment",
+      "reproducibility",
+      "structure validation",
+      "structure-guided drug discovery"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32981130",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "10",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/pro.3959"
+    ],
+    "Journal": {
+      "ISSN": "1469-896X",
+      "JournalIssue": {
+        "Volume": "30",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Protein science : a publication of the Protein Society",
+      "ISOAbbreviation": "Protein Sci"
+    },
+    "ArticleTitle": "Covid-19.bioreproducibility.org: A web resource for SARS-CoV-2-related structural models.",
+    "Pagination": {
+      "StartPage": "115",
+      "EndPage": "124",
+      "MedlinePgn": "115-124"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic has triggered numerous scientific activities aimed at understanding the SARS-CoV-2 virus and ultimately developing treatments. Structural biologists have already determined hundreds of experimental X-ray, cryo-EM, and NMR structures of proteins and nucleic acids related to this coronavirus, and this number is still growing. To help biomedical researchers, who may not necessarily be experts in structural biology, navigate through the flood of structural models, we have created an online resource, covid19.bioreproducibility.org, that aggregates expert-verified information about SARS-CoV-2-related macromolecular models. In this article, we describe this web resource along with the suite of tools and methodologies used for assessing the structures presented therein."
+      ],
+      "CopyrightInformation": "\u00a9 2020 The Protein Society."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9723-525X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Physiology and Biological Physics, University of Virginia, Charlottesville, Virginia, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biocrystallographic Research, Institute of Bioorganic Chemistry, Polish Academy of Sciences, Poznan, Poland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Computing Science, Poznan University of Technology, Poznan, Poland."
+          }
+        ],
+        "LastName": "Brzezinski",
+        "ForeName": "Dariusz",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6269-3151"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biocrystallographic Research, Institute of Bioorganic Chemistry, Polish Academy of Sciences, Poznan, Poland."
+          }
+        ],
+        "LastName": "Kowiel",
+        "ForeName": "Marcin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5240-9789"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Physiology and Biological Physics, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Cooper",
+        "ForeName": "David R",
+        "Initials": "DR"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6511-7945"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Physiology and Biological Physics, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Cymborowski",
+        "ForeName": "Marcin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8072-4919"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Physiology and Biological Physics, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Grabowski",
+        "ForeName": "Marek",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5510-9703"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Macromolecular Crystallography Laboratory, National Cancer Institute, Frederick, Maryland, USA."
+          }
+        ],
+        "LastName": "Wlodawer",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8806-9066"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Macromolecular Crystallography Laboratory, National Cancer Institute, Frederick, Maryland, USA."
+          }
+        ],
+        "LastName": "Dauter",
+        "ForeName": "Zbigniew",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3955-9242"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Physiology and Biological Physics, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Shabalin",
+        "ForeName": "Ivan G",
+        "Initials": "IG"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3941-9947"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biocrystallographic Research, Institute of Bioorganic Chemistry, Polish Academy of Sciences, Poznan, Poland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Crystallography, Faculty of Chemistry, Adam Mickiewicz University, Poznan, Poland."
+          }
+        ],
+        "LastName": "Gilski",
+        "ForeName": "Miroslaw",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3300-6965"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "k.-k. Hofkristallamt, San Diego, California, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Genetic Epidemiology, Medical University Innsbruck, Sch\u00f6pfstr. 41, Innsbruck, Tyrol, 6020, Austria."
+          }
+        ],
+        "LastName": "Rupp",
+        "ForeName": "Bernhard",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1587-6489"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Biocrystallographic Research, Institute of Bioorganic Chemistry, Polish Academy of Sciences, Poznan, Poland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Crystallography, Faculty of Chemistry, Adam Mickiewicz University, Poznan, Poland."
+          }
+        ],
+        "LastName": "Jaskolski",
+        "ForeName": "Mariusz",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7075-7090"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Physiology and Biological Physics, University of Virginia, Charlottesville, Virginia, USA."
+          }
+        ],
+        "LastName": "Minor",
+        "ForeName": "Wladek",
+        "Initials": "W"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "Intramural Research Program of the NIH, National Cancer Institute, Center for Cancer Research",
+        "Country": "International"
+      },
+      {
+        "GrantID": "PPN/BEK/2018/00058/U/00001",
+        "Agency": "Polish National Agency for Academic Exchange",
+        "Country": "International"
+      },
+      {
+        "GrantID": "R01 GM132595",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "2020/01/0/NZ1/00134",
+        "Agency": "Narodowe Centrum Nauki",
+        "Country": "International"
+      },
+      {
+        "GrantID": "P32821",
+        "Agency": "Austrian Science Fund",
+        "Country": "International"
+      },
+      {
+        "GrantID": "R01-GM132595",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, N.I.H., Intramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Protein Sci",
+    "NlmUniqueID": "9211750",
+    "ISSNLinking": "0961-8368"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Chemical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Structural"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Research"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity",
+        "ultrastructure"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "ultrastructure"
+      ],
+      "DescriptorName": "Viral Proteins"
+    }
+  ],
+  "CoiStatement": "One of the authors (WM) notes that he has also been involved in the development of software and data management and mining tools; some of them were commercialized by HKL Research and are mentioned in the paper. WM is the co\u2010founder of HKL Research and a member of the board. The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed."
+}

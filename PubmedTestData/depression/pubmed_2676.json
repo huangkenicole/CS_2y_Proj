@@ -1,0 +1,159 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33019110",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "10",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "10",
+    "Day": "26"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC44109.2020.9176304"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2020",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Using Resting State Heart Rate Variability and Skin Conductance Response to Detect Depression in Adults.",
+    "Pagination": {
+      "StartPage": "5004",
+      "EndPage": "5007",
+      "MedlinePgn": "5004-5007"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Depression is the leading cause of disability worldwide, yet rates of missed- and mis-diagnoses are alarmingly high. The introduction of objective biomarkers, to aid diagnosis, informed by depression's physiological pathology may alleviate some of the burden on strained mental health services. Three minutes of eyes-closed resting state heart rate and skin conductance response (SCR) data were acquired from 27 participants (16 healthy controls, 11 with major depressive disorder (MDD)). Various classifiers were trained on state-of-the-art and novel features. We are aware of no previous studies analysing the utility of multimodal vs. individual modalities for classification. We found no improvement using multimodal classifiers over using heart rate variability (HRV) alone, which achieved 81% test accuracy. The best multimodal and SCR only classifiers were only slightly less accurate at 78%. Despite not improving depression detection, SCR features did show stronger correlation with suicidal ideation than HRV. SD1/SD2<sup>2</sup> is a novel HRV feature proposed in this paper, similar to the commonly used ratio SD1/SD2 but with more marked separation between classes, having the largest Rank Biserial Correlation of all examined features (p-value = 0.002, RBC = -0.73). We recommend further studies in this area."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Smith",
+        "ForeName": "Lukasz Tyszczuk",
+        "Initials": "LT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Levita",
+        "ForeName": "Liat",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Amico",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fagan",
+        "ForeName": "Jennifer",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yek",
+        "ForeName": "John H",
+        "Initials": "JH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Brophy",
+        "ForeName": "Justin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhang",
+        "ForeName": "Haihong",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Arvaneh",
+        "ForeName": "Mahnaz",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heart Rate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Suicidal Ideation"
+    }
+  ]
+}

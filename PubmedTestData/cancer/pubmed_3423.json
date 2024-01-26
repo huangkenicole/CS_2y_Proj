@@ -1,0 +1,640 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "cancer",
+      "enrichment",
+      "human",
+      "virome"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31253993",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "05",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "05",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/infdis/jiz318"
+    ],
+    "Journal": {
+      "ISSN": "1537-6613",
+      "JournalIssue": {
+        "Volume": "220",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Sep",
+          "Day": "13"
+        }
+      },
+      "Title": "The Journal of infectious diseases",
+      "ISOAbbreviation": "J Infect Dis"
+    },
+    "ArticleTitle": "High-Throughput Sequencing-Based Investigation of Viruses in Human Cancers by Multienrichment Approach.",
+    "Pagination": {
+      "StartPage": "1312",
+      "EndPage": "1324",
+      "MedlinePgn": "1312-1324"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Viruses and other infectious agents cause more than 15% of human cancer cases. High-throughput sequencing-based studies of virus-cancer associations have mainly focused on cancer transcriptome data.",
+        "In this study, we applied a diverse selection of presequencing enrichment methods targeting all major viral groups, to characterize the viruses present in 197 samples from 18 sample types of cancerous origin. Using high-throughput sequencing, we generated 710 datasets constituting 57 billion sequencing reads.",
+        "Detailed in silico investigation of the viral content, including exclusion of viral artefacts, from de novo assembled contigs and individual sequencing reads yielded a map of the viruses detected. Our data reveal a virome dominated by papillomaviruses, anelloviruses, herpesviruses, and parvoviruses. More than half of the included samples contained 1 or more viruses; however, no link between specific viruses and cancer types were found.",
+        "Our study sheds light on viral presence in cancers and provides highly relevant virome data for future reference."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2019. Published by Oxford University Press for the Infectious Diseases Society of America."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Mollerup",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Asplund",
+        "ForeName": "Maria",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Health Informatics, Technical University of Denmark, Lyngby, Denmark."
+          }
+        ],
+        "LastName": "Friis-Nielsen",
+        "ForeName": "Jens",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Kjartansd\u00f3ttir",
+        "ForeName": "Krist\u00edn R\u00f3s",
+        "Initials": "KR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Fridholm",
+        "ForeName": "Helena",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Hansen",
+        "ForeName": "Thomas Arn",
+        "Initials": "TA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Health Informatics, Technical University of Denmark, Lyngby, Denmark."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Herrera",
+        "ForeName": "Jos\u00e9 Alejandro Romero",
+        "Initials": "JAR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Barnes",
+        "ForeName": "Christopher James",
+        "Initials": "CJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Jensen",
+        "ForeName": "Randi Holm",
+        "Initials": "RH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Richter",
+        "ForeName": "Stine Raith",
+        "Initials": "SR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Nielsen",
+        "ForeName": "Ida Broman",
+        "Initials": "IB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Pietroni",
+        "ForeName": "Carlotta",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Alquezar-Planas",
+        "ForeName": "David E",
+        "Initials": "DE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Rey-Iglesia",
+        "ForeName": "Alba",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Olsen",
+        "ForeName": "Pernille V S",
+        "Initials": "PVS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Growth and Reproduction, Copenhagen University Hospital (Rigshospitalet), Denmark."
+          }
+        ],
+        "LastName": "Rajpert-De Meyts",
+        "ForeName": "Ewa",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics and Adolescent Medicine, University Hospital Rigshospitalet, Denmark."
+          }
+        ],
+        "LastName": "Groth-Pedersen",
+        "ForeName": "Line",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otorhinolaryngology, Head and Neck Surgery and Audiology, Rigshospitalet, Copenhagen University Hospital."
+          }
+        ],
+        "LastName": "von Buchwald",
+        "ForeName": "Christian",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otorhinolaryngology, Head and Neck Surgery and Audiology, Rigshospitalet, Copenhagen University Hospital."
+          }
+        ],
+        "LastName": "Jensen",
+        "ForeName": "David H",
+        "Initials": "DH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Dermato-Venerology, Faculty of Health Sciences, Copenhagen University Hospital, Bispebjerg Hospital, Denmark."
+          }
+        ],
+        "LastName": "Gniadecki",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Herlev and Gentofte Hospital, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "H\u00f8gdall",
+        "ForeName": "Estrid",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Herlev and Gentofte Hospital, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Langhoff",
+        "ForeName": "Jill Levin",
+        "Initials": "JL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute of Oncology, Department of Gynecology, Budapest, Hungary."
+          }
+        ],
+        "LastName": "Pete",
+        "ForeName": "Imre",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute of Oncology, Department of Gynecology, Budapest, Hungary."
+          }
+        ],
+        "LastName": "Vereczkey",
+        "ForeName": "Ildik\u00f3",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "1st Department of Surgery, Semmelweis University, Budapest, Hungary."
+          }
+        ],
+        "LastName": "Baranyai",
+        "ForeName": "Zsolt",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Medicine, Aalborg University, Denmark."
+          }
+        ],
+        "LastName": "Dybkaer",
+        "ForeName": "Karen",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Haematology, Aalborg University Hospital, Denmark."
+          }
+        ],
+        "LastName": "Johnsen",
+        "ForeName": "Hans Erik",
+        "Initials": "HE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Aarhus University Hospital, Denmark."
+          }
+        ],
+        "LastName": "Steiniche",
+        "ForeName": "Torben",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Medicine, Department of Haematology, Aarhus University Hospital, Denmark."
+          }
+        ],
+        "LastName": "Hokland",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Herlev and Gentofte Hospital, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Rosenberg",
+        "ForeName": "Jacob",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Clinical Research, North Denmark Regional Hospital and Department of Clinical Medicine, Aalborg University, Hj\u00f8rring, Denmark."
+          }
+        ],
+        "LastName": "Baandrup",
+        "ForeName": "Ulrik",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Health Informatics, Technical University of Denmark, Lyngby, Denmark."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre of Excellence for Omics-Driven Computational Biodiscovery, AIMST University, Kedah, Malaysia."
+          }
+        ],
+        "LastName": "Sicheritz-Pont\u00e9n",
+        "ForeName": "Thomas",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Willerslev",
+        "ForeName": "Eske",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Health Informatics, Technical University of Denmark, Lyngby, Denmark."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Brunak",
+        "ForeName": "S\u00f8ren",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Health Informatics, Technical University of Denmark, Lyngby, Denmark."
+          }
+        ],
+        "LastName": "Lund",
+        "ForeName": "Ole",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Mourier",
+        "ForeName": "Tobias",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Vinner",
+        "ForeName": "Lasse",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bio and Health Informatics, Technical University of Denmark, Lyngby, Denmark."
+          }
+        ],
+        "LastName": "Izarzugaza",
+        "ForeName": "Jose M G",
+        "Initials": "JMG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Autoimmunology and Biomarkers, Statens Serum Institut, Copenhagen S, Denmark."
+          }
+        ],
+        "LastName": "Nielsen",
+        "ForeName": "Lars Peter",
+        "Initials": "LP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Denmark."
+          }
+        ],
+        "LastName": "Hansen",
+        "ForeName": "Anders Johannes",
+        "Initials": "AJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Infect Dis",
+    "NlmUniqueID": "0413675",
+    "ISSNLinking": "0022-1899"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "Anelloviridae"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biopsy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Datasets as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "Herpesviridae"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Metagenome"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "Papillomaviridae"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "Parvovirus"
+    }
+  ]
+}

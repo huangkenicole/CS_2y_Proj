@@ -1,0 +1,202 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Sina Weibo",
+      "citizen concerns",
+      "coronavirus",
+      "public health",
+      "public opinion",
+      "social media"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33151894",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e22152",
+      "10.2196/22152"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov",
+          "Day": "26"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Concerns Expressed by Chinese Social Media Users During the COVID-19 Pandemic: Content Analysis of Sina Weibo Microblogging Data.",
+    "Pagination": {
+      "StartPage": "e22152",
+      "MedlinePgn": "e22152"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic has created a global health crisis that is affecting economies and societies worldwide. During times of uncertainty and unexpected change, people have turned to social media platforms as communication tools and primary information sources. Platforms such as Twitter and Sina Weibo have allowed communities to share discussion and emotional support; they also play important roles for individuals, governments, and organizations in exchanging information and expressing opinions. However, research that studies the main concerns expressed by social media users during the pandemic is limited.",
+        "The aim of this study was to examine the main concerns raised and discussed by citizens on Sina Weibo, the largest social media platform in China, during the COVID-19 pandemic.",
+        "We used a web crawler tool and a set of predefined search terms (New Coronavirus Pneumonia, New Coronavirus, and COVID-19) to investigate concerns raised by Sina Weibo users. Textual information and metadata (number of likes, comments, retweets, publishing time, and publishing location) of microblog posts published between December 1, 2019, and July 32, 2020, were collected. After segmenting the words of the collected text, we used a topic modeling technique, latent Dirichlet allocation (LDA), to identify the most common topics posted by users. We analyzed the emotional tendencies of the topics, calculated the proportional distribution of the topics, performed user behavior analysis on the topics using data collected from the number of likes, comments, and retweets, and studied the changes in user concerns and differences in participation between citizens living in different regions of mainland China.",
+        "Based on the 203,191 eligible microblog posts collected, we identified 17 topics and grouped them into 8 themes. These topics were pandemic statistics, domestic epidemic, epidemics in other countries worldwide, COVID-19 treatments, medical resources, economic shock, quarantine and investigation, patients' outcry for help, work and production resumption, psychological influence, joint prevention and control, material donation, epidemics in neighboring countries, vaccine development, fueling and saluting antiepidemic action, detection, and study resumption. The mean sentiment was positive for 11 topics and negative for 6 topics. The topic with the highest mean of retweets was domestic epidemic, while the topic with the highest mean of likes was quarantine and investigation.",
+        "Concerns expressed by social media users are highly correlated with the evolution of the global pandemic. During the COVID-19 pandemic, social media has provided a platform for Chinese government departments and organizations to better understand public concerns and demands. Similarly, social media has provided channels to disseminate information about epidemic prevention and has influenced public attitudes and behaviors. Government departments, especially those related to health, can create appropriate policies in a timely manner through monitoring social media platforms to guide public opinion and behavior during epidemics."
+      ],
+      "CopyrightInformation": "\u00a9Junze Wang, Ying Zhou, Wei Zhang, Richard Evans, Chengyan Zhu. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 26.11.2020."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-2112-5465"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Public Administration, Huazhong University of Science and Technology, Wuhan, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Non-traditional Security Center, Huazhong University of Science and Technology, Wuhan, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Junze",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5900-4757"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Public Administration, Huazhong University of Science and Technology, Wuhan, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Non-traditional Security Center, Huazhong University of Science and Technology, Wuhan, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Ying",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0178-0750"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine and Health Management, Huazhong University of Science and Technology, Wuhan, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6367-0560"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Engineering, Design and Physical Sciences, Brunel University London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Evans",
+        "ForeName": "Richard",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3879-9124"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Political Science and Public Administration, Wuhan University, Wuhan, China."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Chengyan",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Social Media"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

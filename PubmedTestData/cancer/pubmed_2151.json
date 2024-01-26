@@ -1,0 +1,215 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36625762",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/jasms.2c00254"
+    ],
+    "Journal": {
+      "ISSN": "1879-1123",
+      "JournalIssue": {
+        "Volume": "34",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb",
+          "Day": "01"
+        }
+      },
+      "Title": "Journal of the American Society for Mass Spectrometry",
+      "ISOAbbreviation": "J Am Soc Mass Spectrom"
+    },
+    "ArticleTitle": "Deep Learning on Multimodal Chemical and Whole Slide Imaging Data for Predicting Prostate Cancer Directly from Tissue Images.",
+    "Pagination": {
+      "StartPage": "227",
+      "EndPage": "235",
+      "MedlinePgn": "227-235"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Prostate cancer is one of the most common cancers globally and is the second most common cancer in the male population in the US. Here we develop a study based on correlating the hematoxylin and eosin (H&E)-stained biopsy data with MALDI mass-spectrometric imaging data of the corresponding tissue to determine the cancerous regions and their unique chemical signatures and variations of the predicted regions with original pathological annotations. We obtain features from high-resolution optical micrographs of whole slide H&E stained data through deep learning and spatially register them with mass spectrometry imaging (MSI) data to correlate the chemical signature with the tissue anatomy of the data. We then use the learned correlation to predict prostate cancer from observed H&E images using trained coregistered MSI data. This multimodal approach can predict cancerous regions with \u223c80% accuracy, which indicates a correlation between optical H&E features and chemical information found in MSI. We show that such paired multimodal data can be used for training feature extraction networks on H&E data which bypasses the need to acquire expensive MSI data and eliminates the need for manual annotation saving valuable time. Two chemical biomarkers were also found to be predicting the ground truth cancerous regions. This study shows promise in generating improved patient treatment trajectories by predicting prostate cancer directly from readily available H&E-stained biopsy images aided by coregistered MSI data."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3945-1792"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Bredesen Center, University of Tennessee, Knoxville, Tennessee 37996, United States."
+          }
+        ],
+        "LastName": "Haque",
+        "ForeName": "Md Inzamam Ul",
+        "Initials": "MIU"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0437-9807"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Sciences and Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37830, United States."
+          }
+        ],
+        "LastName": "Mukherjee",
+        "ForeName": "Debangshu",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3761-6899"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, United States."
+          }
+        ],
+        "LastName": "Stopka",
+        "ForeName": "Sylwia A",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3149-3146"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosurgery, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts 02115, United States."
+          }
+        ],
+        "LastName": "Agar",
+        "ForeName": "Nathalie Y R",
+        "Initials": "NYR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Sciences and Engineering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37830, United States."
+          }
+        ],
+        "LastName": "Hinkle",
+        "ForeName": "Jacob",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8935-2309"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Bredesen Center, University of Tennessee, Knoxville, Tennessee 37996, United States."
+          }
+        ],
+        "LastName": "Ovchinnikova",
+        "ForeName": "Olga S",
+        "Initials": "OS"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P41 EB028741",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 EB025823",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54 CA210180",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Am Soc Mass Spectrom",
+    "NlmUniqueID": "9010412",
+    "ISSNLinking": "1044-0305"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization"
+    }
+  ],
+  "CoiStatement": "Notes. The authors declare the following competing financial interest(s): N.Y.R.A. is a key opinion leader for Bruker Daltonics and receives support from Thermo Finnegan and EMD Serono. All other authors declare that the research was conducted without any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

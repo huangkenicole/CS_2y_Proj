@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "18699725",
+  "DateCompleted": {
+    "Year": "2008",
+    "Month": "11",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1089/omi.2008.0010"
+    ],
+    "Journal": {
+      "ISSN": "1557-8100",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2008",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Omics : a journal of integrative biology",
+      "ISOAbbreviation": "OMICS"
+    },
+    "ArticleTitle": "Phylogenetic modeling of heterogeneous gene-expression microarray data from cancerous specimens.",
+    "Pagination": {
+      "StartPage": "183",
+      "EndPage": "199",
+      "MedlinePgn": "183-99"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The qualitative dimension of gene expression data and its heterogeneous nature in cancerous specimens can be accounted for by phylogenetic modeling that incorporates the directionality of altered gene expressions, complex patterns of expressions among a group of specimens, and data-based rather than specimen-based gene linkage. Our phylogenetic modeling approach is a double algorithmic technique that includes polarity assessment that brings out the qualitative value of the data, followed by maximum parsimony analysis that is most suitable for the data heterogeneity of cancer gene expression. We demonstrate that polarity assessment of expression values into derived and ancestral states, via outgroup comparison, reduces experimental noise; reveals dichotomously expressed asynchronous genes; and allows data pooling as well as comparability of intra- and interplatforms. Parsimony phylogenetic analysis of the polarized values produces a multidimensional classification of specimens into clades that reveal shared derived gene expressions (the synapomorphies); provides better assessment of ontogenic pathways and phyletic relatedness of specimens; efficiently utilizes dichotomously expressed genes; produces highly predictive class recognition; illustrates gene linkage and multiple developmental pathways; provides higher concordance between gene lists; and projects the direction of change among specimens. Further implication of this phylogenetic approach is that it may transform microarray into diagnostic, prognostic, and predictive tool."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Pathology, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA."
+          }
+        ],
+        "LastName": "Abu-Asab",
+        "ForeName": "Mones S",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chaouchi",
+        "ForeName": "Mohamed",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Amri",
+        "ForeName": "Hakima",
+        "Initials": "H"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "Z99 CA999999",
+        "Acronym": "ImNIH",
+        "Agency": "Intramural NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "OMICS",
+    "NlmUniqueID": "101131135",
+    "ISSNLinking": "1536-2310"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Linkage"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Microarray Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Sequence Data"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    }
+  ]
+}

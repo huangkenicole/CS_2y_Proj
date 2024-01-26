@@ -1,0 +1,165 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "AlexNet",
+      "CNN",
+      "INSIGHT-LME dataset",
+      "MLP",
+      "PCA",
+      "RF",
+      "SVM",
+      "deep learning",
+      "exercise-based rehabilitation",
+      "kNN",
+      "local muscular endurance exercises",
+      "multi-class classification"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32854288",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "08",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4791",
+      "10.3390/s20174791"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "17",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Aug",
+          "Day": "25"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Recognition and Repetition Counting for Local Muscular Endurance Exercises in Exercise-Based Rehabilitation: A Comparative Study Using Artificial Intelligence Models.",
+    "Abstract": {
+      "AbstractText": [
+        "Exercise-based cardiac rehabilitation requires patients to perform a set of certain prescribed exercises a specific number of times. Local muscular endurance exercises are an important part of the rehabilitation program. Automatic exercise recognition and repetition counting, from wearable sensor data, is an important technology to enable patients to perform exercises independently in remote settings, e.g., their own home. In this paper, we first report on a comparison of traditional approaches to exercise recognition and repetition counting (supervised ML and peak detection) with Convolutional Neural Networks (CNNs). We investigated CNN models based on the AlexNet architecture and found that the performance was better than the traditional approaches, for exercise recognition (overall F1-score of 97.18%) and repetition counting (\u00b11 error among 90% observed sets). To the best of our knowledge, our approach of using a single CNN method for both recognition and repetition counting is novel. Also, we make the INSIGHT-LME dataset publicly available to encourage further research."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2836-9734"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Insight SFI Research Centre for Data Analytics, Dublin City University, Dublin 9, Ireland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electronic Engineering, Dublin City University, Dublin 9, Ireland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Manipal Institute of Technology, MAHE, Manipal 576104, India."
+          }
+        ],
+        "LastName": "Prabhu",
+        "ForeName": "Ghanashyama",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4033-9135"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Insight SFI Research Centre for Data Analytics, Dublin City University, Dublin 9, Ireland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electronic Engineering, Dublin City University, Dublin 9, Ireland."
+          }
+        ],
+        "LastName": "O'Connor",
+        "ForeName": "Noel E",
+        "Initials": "NE"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2015-8967"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Insight SFI Research Centre for Data Analytics, Dublin City University, Dublin 9, Ireland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Health and Human Performance, Dublin City University, Dublin 9, Ireland."
+          }
+        ],
+        "LastName": "Moran",
+        "ForeName": "Kieran",
+        "Initials": "K"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflicts of interest."
+}

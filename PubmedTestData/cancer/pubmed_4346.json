@@ -1,0 +1,161 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "critical transition of cancer",
+      "dynamics-based data science",
+      "network resilience theory",
+      "resilience function reconstruction"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33954583",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab175",
+      "10.1093/bib/bbab175"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Resilience function uncovers the critical transitions in cancer initiation.",
+    "Abstract": {
+      "AbstractText": [
+        "Considerable evidence suggests that during the progression of cancer initiation, the state transition from wellness to disease is not necessarily smooth but manifests switch-like nonlinear behaviors, preventing the cancer prediction and early interventional therapy for patients. Understanding the mechanism of such wellness-to-disease transitions is a fundamental and challenging task. Despite the advances in flux theory of nonequilibrium dynamics and 'critical slowing down'-based system resilience theory, a system-level approach still lacks to fully describe this state transition. Here, we present a novel framework (called bioRFR) to quantify such wellness-to-disease transition during cancer initiation through uncovering the biological system's resilience function from gene expression data. We used bioRFR to reconstruct the biologically and dynamically significant resilience functions for cancer initiation processes (e.g. BRCA, LUSC and LUAD). The resilience functions display the similar resilience pattern with hysteresis feature but different numbers of tipping points, which implies that once the cell become cancerous, it is very difficult or even impossible to reverse to the normal state. More importantly, bioRFR can measure the severe degree of cancer patients and identify the personalized key genes that are associated with the individual system's state transition from normal to tumor in resilience perspective, indicating that bioRFR can contribute to personalized medicine and targeted cancer therapy."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Automation, Northwestern Polytechnical University, No.127, Youyi West Road, Xi'an 710072, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Automation, Northwestern Polytechnical University, No.127, Youyi West Road, Xi'an 710072, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Shao-Wu",
+        "Initials": "SW"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Cell Transformation, Neoplastic"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Progression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Susceptibility"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "etiology",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

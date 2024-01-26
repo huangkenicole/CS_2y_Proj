@@ -1,0 +1,216 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "CRISPR-diagnostics",
+      "SNV",
+      "computational biology",
+      "epidemiology",
+      "global health",
+      "human",
+      "sars-cov-2",
+      "sgRNA",
+      "systems biology",
+      "variant-detection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36752591",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "02",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e77976",
+      "10.7554/eLife.77976"
+    ],
+    "Journal": {
+      "ISSN": "2050-084X",
+      "JournalIssue": {
+        "Volume": "12",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb",
+          "Day": "08"
+        }
+      },
+      "Title": "eLife",
+      "ISOAbbreviation": "Elife"
+    },
+    "ArticleTitle": "CriSNPr, a single interface for the curated and de novo design of gRNAs for CRISPR diagnostics using diverse Cas systems.",
+    "Abstract": {
+      "AbstractText": [
+        "CRISPR-based diagnostics (CRISPRDx) have improved clinical decision-making, especially during the COVID-19 pandemic, by detecting nucleic acids and identifying variants. This has been accelerated by the discovery of new and engineered CRISPR effectors, which have expanded the portfolio of diagnostic applications to include a broad range of pathogenic and non-pathogenic conditions. However, each diagnostic CRISPR pipeline necessitates customized detection schemes based on the fundamental principles of the Cas protein used, its guide RNA (gRNA) design parameters, and the assay readout. This is especially relevant for variant detection, a low-cost alternative to sequencing-based approaches for which no in silico pipeline for the ready-to-use design of CRISPRDx currently exists. In this manuscript, we fill this lacuna using a unified web server, CriSNPr (CRISPR-based SNP recognition), which provides the user with the opportunity to de novo design gRNAs based on six CRISPRDx proteins of choice (<i>Fn</i>/en<i>Fn</i>Cas9, <i>Lw</i>Cas13a, <i>Lb</i>Cas12a, <i>Aa</i>Cas12b, and Cas14a) and query for ready-to-use oligonucleotide sequences for validation on relevant samples. Furthermore, we provide a database of curated pre-designed gRNAs as well as target/off-target for all human and SARS-CoV-2 variants reported thus far. CriSNPr has been validated on multiple Cas proteins, demonstrating its broad and immediate applicability across multiple detection platforms. CriSNPr can be found at http://crisnpr.igib.res.in/."
+      ],
+      "CopyrightInformation": "\u00a9 2023, Ansari, Kumar et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1172-9521"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CSIR-Institute of Genomics & Integrative Biology, New Delhi, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Academy of Scientific & Innovative Research (AcSIR), Ghaziabad, India."
+          }
+        ],
+        "LastName": "Ansari",
+        "ForeName": "Asgar H",
+        "Initials": "AH"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0772-1399"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CSIR-Institute of Genomics & Integrative Biology, New Delhi, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Academy of Scientific & Innovative Research (AcSIR), Ghaziabad, India."
+          }
+        ],
+        "LastName": "Kumar",
+        "ForeName": "Manoj",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CSIR-Institute of Genomics & Integrative Biology, New Delhi, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Academy of Scientific & Innovative Research (AcSIR), Ghaziabad, India."
+          }
+        ],
+        "LastName": "Sarkar",
+        "ForeName": "Sajal",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CSIR-Institute of Genomics & Integrative Biology, New Delhi, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Academy of Scientific & Innovative Research (AcSIR), Ghaziabad, India."
+          }
+        ],
+        "LastName": "Maiti",
+        "ForeName": "Souvik",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1460-7594"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CSIR-Institute of Genomics & Integrative Biology, New Delhi, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Academy of Scientific & Innovative Research (AcSIR), Ghaziabad, India."
+          }
+        ],
+        "LastName": "Chakraborty",
+        "ForeName": "Debojyoti",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Elife",
+    "NlmUniqueID": "101579614",
+    "ISSNLinking": "2050-084X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Guide, CRISPR-Cas Systems"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "CRISPR-Cas Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA, Guide, CRISPR-Cas Systems"
+    }
+  ],
+  "CoiStatement": "AA, MK, SS, SM, DC No competing interests declared"
+}

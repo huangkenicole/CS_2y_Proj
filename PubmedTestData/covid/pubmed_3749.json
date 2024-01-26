@@ -1,0 +1,168 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "ACE2 host receptor",
+      "SARS-CoV-2 spike protein",
+      "allosteric interactions",
+      "conformational dynamics",
+      "local frustration",
+      "mutational scanning",
+      "mutational variants",
+      "protein stability"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35163572",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "01",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1646",
+      "10.3390/ijms23031646"
+    ],
+    "Journal": {
+      "ISSN": "1422-0067",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "31"
+        }
+      },
+      "Title": "International journal of molecular sciences",
+      "ISOAbbreviation": "Int J Mol Sci"
+    },
+    "ArticleTitle": "Conformational Flexibility and Local Frustration in the Functional States of the SARS-CoV-2 Spike B.1.1.7 and B.1.351 Variants: Mutation-Induced Allosteric Modulation Mechanism of Functional Dynamics and Protein Stability.",
+    "Abstract": {
+      "AbstractText": [
+        "Structural and functional studies of the SARS-CoV-2 spike proteins have recently determined distinct functional states of the B.1.1.7 and B.1.351 spike variants, providing a molecular framework for understanding the mechanisms that link the effect of mutations with the enhanced virus infectivity and transmissibility. A detailed dynamic and energetic analysis of these variants was undertaken in the present work to quantify the effects of different mutations on functional conformational changes and stability of the SARS-CoV-2 spike protein. We employed the efficient and accurate coarse-grained (CG) simulations of multiple functional states of the D614G mutant, B.1.1.7 and B.1.351 spike variants to characterize conformational dynamics of the SARS-CoV-2 spike proteins and identify dynamic signatures of the functional regions that regulate transitions between the closed and open forms. By combining molecular simulations with full atomistic reconstruction of the trajectories and the ensemble-based mutational frustration analysis, we characterized how the intrinsic flexibility of specific spike regions can control functional conformational changes required for binding with the host-cell receptor. Using the residue-based mutational scanning of protein stability, we determined protein stability hotspots and identified potential energetic drivers favoring the receptor-accessible open spike states for the B.1.1.7 and B.1.351 spike variants. The results suggested that modulation of the energetic frustration at the inter-protomer interfaces can serve as a mechanism for allosteric couplings between mutational sites and the inter-protomer hinges of functional motions. The proposed mechanism of mutation-induced energetic frustration may result in greater adaptability and the emergence of multiple conformational states in the open form. This study suggested that SARS-CoV-2 B.1.1.7 and B.1.351 variants may leverage the intrinsic plasticity of functional regions in the spike protein for mutation-induced modulation of protein dynamics and allosteric regulation to control binding with the host cell receptor."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4507-4471"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical and Pharmaceutical Sciences, Chapman University School of Pharmacy, Irvine, CA 92618, USA."
+          }
+        ],
+        "LastName": "Verkhivker",
+        "ForeName": "Gennady",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Int J Mol Sci",
+    "NlmUniqueID": "101092791",
+    "ISSNLinking": "1422-0067"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Allosteric Regulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Binding Sites"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Conformation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Binding"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Stability"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity",
+        "ultrastructure"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "ultrastructure"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationship that could be construed as a potential conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results."
+}

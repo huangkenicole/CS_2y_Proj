@@ -1,0 +1,270 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34599200",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "10",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "19543",
+      "10.1038/s41598-021-98071-z"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Oct",
+          "Day": "01"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Budget constrained machine learning for early prediction of adverse outcomes for COVID-19 patients.",
+    "Pagination": {
+      "StartPage": "19543",
+      "MedlinePgn": "19543"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The combination of machine learning (ML) and electronic health records (EHR) data may be able to improve outcomes of hospitalized COVID-19 patients through improved risk stratification and patient outcome prediction. However, in resource constrained environments the clinical utility of such data-driven predictive tools may be limited by the cost or unavailability of certain laboratory tests. We leveraged EHR data to develop an ML-based tool for predicting adverse outcomes that optimizes clinical utility under a given cost structure. We further gained insights into the decision-making process of the ML models through an explainable AI tool. This cohort study was performed using deidentified EHR data from COVID-19 patients from ProMedica Health System\u00a0in northwest Ohio and southeastern Michigan. We tested the performance of various ML approaches for predicting either increasing ventilatory support or mortality. We performed post hoc analysis to obtain optimal feature sets under various budget constraints. We demonstrate that it is possible to achieve a significant reduction in cost at the expense of a small reduction in predictive performance. For example, when predicting ventilation, it is possible to achieve a 43% reduction in cost with only a 3% reduction in performance. Similarly, when predicting mortality, it is possible to achieve a 50% reduction in cost with only a 1% reduction in performance. This study presents a quick, accurate, and cost-effective method to evaluate risk of deterioration for patients with SARS-CoV-2 infection at the time of clinical evaluation."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lawrence Livermore National Laboratory, 7000 East Ave, Livermore, CA, 94550, USA."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Sam",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lawrence Livermore National Laboratory, 7000 East Ave, Livermore, CA, 94550, USA."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Ryan",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lawrence Livermore National Laboratory, 7000 East Ave, Livermore, CA, 94550, USA."
+          }
+        ],
+        "LastName": "Cadena",
+        "ForeName": "Jose",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lawrence Livermore National Laboratory, 7000 East Ave, Livermore, CA, 94550, USA."
+          }
+        ],
+        "LastName": "Soper",
+        "ForeName": "Braden",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ProMedica Health System, Inc, 3103 Executive Pkwy, Toledo, OH, 43606, USA."
+          }
+        ],
+        "LastName": "Kiszka",
+        "ForeName": "Paul",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ProMedica Health System, Inc, 3103 Executive Pkwy, Toledo, OH, 43606, USA."
+          }
+        ],
+        "LastName": "Womack",
+        "ForeName": "Lucas",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ProMedica Health System, Inc, 3103 Executive Pkwy, Toledo, OH, 43606, USA."
+          }
+        ],
+        "LastName": "Work",
+        "ForeName": "Mark",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Toledo College of Medicine and Life Sciences, 3000 Arlington Ave, Toledo, OH, 43614, USA."
+          }
+        ],
+        "LastName": "Duggan",
+        "ForeName": "Joan M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Toledo College of Medicine and Life Sciences, 3000 Arlington Ave, Toledo, OH, 43614, USA."
+          }
+        ],
+        "LastName": "Haller",
+        "ForeName": "Steven T",
+        "Initials": "ST"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Toledo College of Medicine and Life Sciences, 3000 Arlington Ave, Toledo, OH, 43614, USA."
+          }
+        ],
+        "LastName": "Hanrahan",
+        "ForeName": "Jennifer A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Toledo College of Medicine and Life Sciences, 3000 Arlington Ave, Toledo, OH, 43614, USA."
+          }
+        ],
+        "LastName": "Kennedy",
+        "ForeName": "David J",
+        "Initials": "DJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, University of Toledo College of Medicine and Life Sciences, 3000 Arlington Ave, Toledo, OH, 43614, USA."
+          }
+        ],
+        "LastName": "Mukundan",
+        "ForeName": "Deepa",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lawrence Livermore National Laboratory, 7000 East Ave, Livermore, CA, 94550, USA. ray34@llnl.gov."
+          }
+        ],
+        "LastName": "Ray",
+        "ForeName": "Priyadip",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "19-ERD-009",
+        "Agency": "Laboratory Directed Research and Development",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Budgets"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Outcome Assessment, Health Care"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

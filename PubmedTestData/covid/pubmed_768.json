@@ -1,0 +1,226 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bioinformatics",
+      "Genome data mining",
+      "Indonesia",
+      "SARS-CoV-2",
+      "Wuhan",
+      "miRNA"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34152577",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s13258-021-01119-7"
+    ],
+    "Journal": {
+      "ISSN": "2092-9293",
+      "JournalIssue": {
+        "Volume": "43",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Genes & genomics",
+      "ISOAbbreviation": "Genes Genomics"
+    },
+    "ArticleTitle": "Comparative study of predicted miRNA between Indonesia and China (Wuhan) SARS-CoV-2: a bioinformatics analysis.",
+    "Pagination": {
+      "StartPage": "1079",
+      "EndPage": "1086",
+      "MedlinePgn": "1079-1086"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Several reports on the discovery of SARS-CoV-2 mutations and variations in Indonesia COVID-19 cases led to genomic dysregulation with the first pandemic cases in Wuhan, China. MicroRNA (miRNA) plays an important role in this genetic regulation and contributes to the enhancement of viral RNA binding through the host mRNA.",
+        "This research is aimed to detect miRNA targets of SARS-CoV-2 and examines their role in Indonesia cases against Wuhan cases.",
+        "SARS-CoV-2 sequences were obtained from GISAID ( https://www.gisaid.org/ ), NCBI ( https://ncbi.nlm.nih.gov ), and National Genomics Data Center ( https://bigd.big.ac.cn/gwh/ ) databases. MiRDB ( https://github.com/gbnegrini/mirdb-custom-target-search ) was used to annotate and predict target human mature miRNAs. For statistical analysis, we utilized a series chi-square test to obtain significant miRNA. DIANA-miRPath v3.0 ( http://www.microrna.gr/miRPathv3 ) analyzed the Gene Ontology of mature miRNAs.",
+        "The statistical results detected five significant miRNAs. Two miRNAs: hsa-miR-4778-5p and hsa-miR-4531 were consistently found in the majority of Wuhan samples, while they were only found in less than half of the Indonesia samples. The other three miRNA, hsa-miR-6844, hsa-miR-627-5p, and hsa-miR-3674, were discovered in most samples in both groups but with a significant difference ratio. Among these five significant miRNA targets, hsa-miR-6844 is the only miRNA that has an association with the ORF1ab gene of SARS-CoV-2.",
+        "The Gene Ontology analysis of five significant miRNA targets indicates a significant role in inflammation and the immune system. The specific detection of host miRNAs in this study shows that there are differences in the characteristics of SARS-CoV-2 between Indonesia and Wuhan."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Genetics Society of Korea."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Medicine, Universitas Muhammadiyah Prof. DR. Hamka, Jakarta, 12130, Indonesia."
+          }
+        ],
+        "LastName": "Rahmadi",
+        "ForeName": "Agus",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Medicine, Universitas Muhammadiyah Prof. DR. Hamka, Jakarta, 12130, Indonesia."
+          }
+        ],
+        "LastName": "Fasyah",
+        "ForeName": "Ismaily",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1541-4698"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics and Data Science Research Center, Bina Nusantara University, Jakarta, 11480, Indonesia. digdo.sudigyo@binus.edu."
+          }
+        ],
+        "LastName": "Sudigyo",
+        "ForeName": "Digdo",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics and Data Science Research Center, Bina Nusantara University, Jakarta, 11480, Indonesia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science, Bina Nusantara University, Jakarta, 11480, Indonesia."
+          }
+        ],
+        "LastName": "Budiarto",
+        "ForeName": "Arif",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics and Data Science Research Center, Bina Nusantara University, Jakarta, 11480, Indonesia."
+          }
+        ],
+        "LastName": "Mahesworo",
+        "ForeName": "Bharuno",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics and Data Science Research Center, Bina Nusantara University, Jakarta, 11480, Indonesia."
+          }
+        ],
+        "LastName": "Hidayat",
+        "ForeName": "Alam Ahmad",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics and Data Science Research Center, Bina Nusantara University, Jakarta, 11480, Indonesia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "BINUS Graduate Program-Master of Computer Science Program, Bina Nusantara University, Jakarta, 11480, Indonesia."
+          }
+        ],
+        "LastName": "Pardamean",
+        "ForeName": "Bens",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Korea (South)",
+    "MedlineTA": "Genes Genomics",
+    "NlmUniqueID": "101481027",
+    "ISSNLinking": "1976-9571"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Indonesia"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Homology, Nucleic Acid"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

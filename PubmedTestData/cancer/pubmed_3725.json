@@ -1,0 +1,177 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "biomarkers",
+      "gene coexpression network",
+      "gene regulatory network",
+      "uterine cancer"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34791179",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "jkab392",
+      "10.1093/g3journal/jkab392"
+    ],
+    "Journal": {
+      "ISSN": "2160-1836",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "04"
+        }
+      },
+      "Title": "G3 (Bethesda, Md.)",
+      "ISOAbbreviation": "G3 (Bethesda)"
+    },
+    "ArticleTitle": "Identification of condition-specific biomarker systems in uterine cancer.",
+    "Abstract": {
+      "AbstractText": [
+        "Uterine cancer is the fourth most common cancer among women, projected to affect 66,000 US women in 2021. Uterine cancer often arises in the inner lining of the uterus, known as the endometrium, but can present as several different types of cancer, including endometrioid cancer, serous adenocarcinoma, and uterine carcinosarcoma. Previous studies have analyzed the genetic changes between normal and cancerous uterine tissue to identify specific genes of interest, including TP53 and PTEN. Here we used Gaussian Mixture Models to build condition-specific gene coexpression networks for endometrial cancer, uterine carcinosarcoma, and normal uterine tissue. We then incorporated uterine regulatory edges and investigated potential coregulation relationships. These networks were further validated using differential expression analysis, functional enrichment, and a statistical analysis comparing the expression of transcription factors and their target genes across cancerous and normal uterine samples. These networks allow for a more comprehensive look into the biological networks and pathways affected in uterine cancer compared with previous singular gene analyses. We hope this study can be incorporated into existing knowledge surrounding the genetics of uterine cancer and soon become clinical biomarkers as a tool for better prognosis and treatment."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press on behalf of Genetics Society of America."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Biochemistry, Clemson University, Clemson, SC 29634, USA."
+          }
+        ],
+        "LastName": "Hickman",
+        "ForeName": "Allison R",
+        "Initials": "AR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Biochemistry, Clemson University, Clemson, SC 29634, USA."
+          }
+        ],
+        "LastName": "Hang",
+        "ForeName": "Yuqing",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Data Science and Informatics Program, Clemson University, Clemson, SC 29634, USA."
+          }
+        ],
+        "LastName": "Pauly",
+        "ForeName": "Rini",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2123-6114"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics and Biochemistry, Clemson University, Clemson, SC 29634, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Data Science and Informatics Program, Clemson University, Clemson, SC 29634, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "College of Science, Center for Human Genetics, Clemson University, Clemson, SC 29634, USA."
+          }
+        ],
+        "LastName": "Feltus",
+        "ForeName": "Frank A",
+        "Initials": "FA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "G3 (Bethesda)",
+    "NlmUniqueID": "101566598",
+    "ISSNLinking": "2160-1836"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Cystadenocarcinoma, Serous"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Endometrial Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Uterine Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Uterus"
+    }
+  ]
+}

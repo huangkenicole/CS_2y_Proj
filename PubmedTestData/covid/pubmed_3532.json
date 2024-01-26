@@ -1,0 +1,300 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Coronavirus",
+      "Flongle",
+      "MinION",
+      "Missense mutation",
+      "Nanopore",
+      "RdRP",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33225958",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "183",
+      "10.1186/s12985-020-01454-3"
+    ],
+    "Journal": {
+      "ISSN": "1743-422X",
+      "JournalIssue": {
+        "Volume": "17",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov",
+          "Day": "23"
+        }
+      },
+      "Title": "Virology journal",
+      "ISOAbbreviation": "Virol J"
+    },
+    "ArticleTitle": "Evaluation on the use of Nanopore sequencing for direct characterization of coronaviruses from respiratory specimens, and a study on emerging missense mutations in partial RdRP gene of SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "183",
+      "MedlinePgn": "183"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Coronavirus disease 2019 (COVID-19) pandemic has been a catastrophic burden to global healthcare systems. The fast spread of the etiologic agent, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), highlights the need to identify unknown coronaviruses rapidly for prompt clinical and public health decision making. Moreover, owing to the high mutation rate of RNA viruses, periodic surveillance on emerging variants of key virus components is essential for evaluating the efficacy of antiviral drugs, diagnostic assays and vaccines. These 2 knowledge gaps formed the basis of this study. In the first place, we evaluated the feasibility of characterizing coronaviruses directly from respiratory specimens. We amplified partial RdRP gene, a stable genetic marker of coronaviruses, from a collection of 57 clinical specimens positive for SARS-CoV-2 or other human coronaviruses, and sequenced the amplicons with Nanopore Flongle and MinION, the fastest and the most scalable massively-parallel sequencing platforms to-date. Partial RdRP sequences were successfully amplified and sequenced from 82.46% (47/57) of specimens, ranging from 75 to 100% by virus type, with consensus accuracy of 100% compared with Sanger sequences available (n\u2009=\u200940). In the second part, we further compared 19 SARS-CoV-2 RdRP sequences collected from the first to third waves of COVID-19 outbreak in Hong Kong with 22,173 genomes from GISAID EpiCoV\u2122 database. No single nucleotide variants (SNVs) were found in our sequences, and 125 SNVs were observed from global data, with 56.8% being low-frequency (n\u2009=\u20091-47) missense mutations affecting the rear part of RNA polymerase. Among the 9 SNVs found on 4 conserved domains, the frequency of 15438G\u2009>\u2009T was highest (n\u2009=\u200934) and was predominantly found in Europe. Our data provided a glimpse into the sequence diversity of a primary antiviral drug and diagnostic target. Further studies are warranted to investigate the significance of these mutations."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Wai Sing",
+        "Initials": "WS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China."
+          }
+        ],
+        "LastName": "Au",
+        "ForeName": "Chun Hang",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China."
+          }
+        ],
+        "LastName": "Lam",
+        "ForeName": "Ho Yin",
+        "Initials": "HY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Candy Ling Na",
+        "Initials": "CLN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China."
+          }
+        ],
+        "LastName": "Ho",
+        "ForeName": "Dona Ngar-Yin",
+        "Initials": "DN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China."
+          }
+        ],
+        "LastName": "Lam",
+        "ForeName": "Yuk Man",
+        "Initials": "YM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health, Li Ka Shing, Faculty of Medicine, The University of Hong Kong, Hong Kong, China."
+          }
+        ],
+        "LastName": "Chu",
+        "ForeName": "Daniel Ka Wing",
+        "Initials": "DKW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health, Li Ka Shing, Faculty of Medicine, The University of Hong Kong, Hong Kong, China."
+          }
+        ],
+        "LastName": "Poon",
+        "ForeName": "Leo Lit Man",
+        "Initials": "LLM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China."
+          }
+        ],
+        "LastName": "Chan",
+        "ForeName": "Tsun Leung",
+        "Initials": "TL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China."
+          }
+        ],
+        "LastName": "Zee",
+        "ForeName": "Jonpaul Sze-Tsing",
+        "Initials": "JS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China."
+          }
+        ],
+        "LastName": "Ma",
+        "ForeName": "Edmond Shiu Kwan",
+        "Initials": "ESK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Hong Kong Sanatorium and Hospital, Hong Kong, China. bsftang@gmail.com."
+          }
+        ],
+        "LastName": "Tang",
+        "ForeName": "Bone Siu Fai",
+        "Initials": "BSF"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Virol J",
+    "NlmUniqueID": "101231645",
+    "ISSNLinking": "1743-422X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "EC 2.7.7.48",
+      "NameOfSubstance": "Coronavirus RNA-Dependent RNA Polymerase"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Coronavirus"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Coronavirus RNA-Dependent RNA Polymerase"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemiological Monitoring"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feasibility Studies"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Hong Kong"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation, Missense"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nanopore Sequencing"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

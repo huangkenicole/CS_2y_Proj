@@ -1,0 +1,230 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "age",
+      "app",
+      "clinical informatics",
+      "hospital",
+      "informatics",
+      "model",
+      "morbidity",
+      "prediction",
+      "predictive modeling",
+      "symptom"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33621185",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e25696",
+      "10.2196/25696"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "25"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Modeling Predictive Age-Dependent and Age-Independent Symptoms and Comorbidities of Patients Seeking Treatment for COVID-19: Model Development and Validation Study.",
+    "Pagination": {
+      "StartPage": "e25696",
+      "MedlinePgn": "e25696"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The COVID-19 pandemic continues to ravage and burden hospitals around the world. The epidemic started in Wuhan, China, and was subsequently recognized by the World Health Organization as an international public health emergency and declared a pandemic in March 2020. Since then, the disruptions caused by the COVID-19 pandemic have had an unparalleled effect on all aspects of life.",
+        "With increasing total hospitalization and intensive care unit admissions, a better understanding of features related to patients with COVID-19 could help health care workers stratify patients based on the risk of developing a more severe case of COVID-19. Using predictive models, we strive to select the features that are most associated with more severe cases of COVID-19.",
+        "Over 3 million participants reported their potential symptoms of COVID-19, along with their comorbidities and demographic information, on a smartphone-based app. Using data from the >10,000 individuals who indicated that they had tested positive for COVID-19 in the United Kingdom, we leveraged the Elastic Net regularized binary classifier to derive the predictors that are most correlated with users having a severe enough case of COVID-19 to seek treatment in a hospital setting. We then analyzed such features in relation to age and other demographics and their longitudinal trend.",
+        "The most predictive features found include fever, use of immunosuppressant medication, use of a mobility aid, shortness of breath, and severe fatigue. Such features are age-related, and some are disproportionally high in minority populations.",
+        "Predictors selected from the predictive models can be used to stratify patients into groups based on how much medical attention they are expected to require. This could help health care workers devote valuable resources to prevent the escalation of the disease in vulnerable populations."
+      ],
+      "CopyrightInformation": "\u00a9Yingxiang Huang, Dina Radenkovic, Kevin Perez, Kari Nadeau, Eric Verdin, David Furman. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 25.03.2021."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9216-164X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Buck Institute for Research on Aging, Novato, CA, United States."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Yingxiang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1355-6967"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guy's & St Thomas' NHS Foundation Trust, London, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "King's College London, London, United Kingdom."
+          }
+        ],
+        "LastName": "Radenkovic",
+        "ForeName": "Dina",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1802-185X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Buck Institute for Research on Aging, Novato, CA, United States."
+          }
+        ],
+        "LastName": "Perez",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2146-2955"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pulmonary, Allergy and Critical Care Medicine, Sean N Parker Center for Allergy and Asthma Research, Stanford University, Stanford, CA, United States."
+          }
+        ],
+        "LastName": "Nadeau",
+        "ForeName": "Kari",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3703-3183"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Buck Institute for Research on Aging, Novato, CA, United States."
+          }
+        ],
+        "LastName": "Verdin",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3654-9519"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Buck Institute for Research on Aging, Novato, CA, United States."
+          }
+        ],
+        "LastName": "Furman",
+        "ForeName": "David",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "therapy"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Comorbidity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

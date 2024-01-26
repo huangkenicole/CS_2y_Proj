@@ -1,0 +1,326 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28264054",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "07",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "02",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "03",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1006255",
+      "10.1371/journal.ppat.1006255"
+    ],
+    "Journal": {
+      "ISSN": "1553-7374",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Mar"
+        }
+      },
+      "Title": "PLoS pathogens",
+      "ISOAbbreviation": "PLoS Pathog"
+    },
+    "ArticleTitle": "Delineating CD4 dependency of HIV-1: Adaptation to infect low level CD4 expressing target cells widens cellular tropism but severely impacts on envelope functionality.",
+    "Pagination": {
+      "StartPage": "e1006255",
+      "MedlinePgn": "e1006255"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A hallmark of HIV-1 infection is the continuously declining number of the virus' predominant target cells, activated CD4+ T cells. With diminishing CD4+ T cell levels, the capacity to utilize alternate cell types and receptors, including cells that express low CD4 receptor levels such as macrophages, thus becomes crucial. To explore evolutionary paths that allow HIV-1 to acquire a wider host cell range by infecting cells with lower CD4 levels, we dissected the evolution of the envelope-CD4 interaction under in vitro culture conditions that mimicked the decline of CD4high target cells, using a prototypic subtype B, R5-tropic strain. Adaptation to CD4low targets proved to severely alter envelope functions including trimer opening as indicated by a higher affinity to CD4 and loss in shielding against neutralizing antibodies. We observed a strikingly decreased infectivity on CD4high target cells, but sustained infectivity on CD4low targets, including macrophages. Intriguingly, the adaptation to CD4low targets altered the kinetic of the entry process, leading to rapid CD4 engagement and an extended transition time between CD4 and CCR5 binding during entry. This phenotype was also observed for certain central nervous system (CNS) derived macrophage-tropic viruses, highlighting that the functional perturbation we defined upon in vitro adaptation to CD4low targets occurs in vivo. Collectively, our findings suggest that CD4low adapted envelopes may exhibit severe deficiencies in entry fitness and shielding early in their evolution. Considering this, adaptation to CD4low targets may preferentially occur in a sheltered and immune-privileged environment such as the CNS to allow fitness restoring compensatory mutations to occur."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Beauparlant",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Rusert",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Magnus",
+        "ForeName": "Carsten",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5712-8529"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Kadelka",
+        "ForeName": "Claus",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Weber",
+        "ForeName": "Jacqueline",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Uhr",
+        "ForeName": "Therese",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9082-8607"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Zagordi",
+        "ForeName": "Osvaldo",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5784-6048"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Oberle",
+        "ForeName": "Corinna",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2020-6471"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Program in Molecular Medicine, Biotech II, University of Massachusetts Medical School, Worcester, Massachusetts, United States of America."
+          }
+        ],
+        "LastName": "Duenas-Decamp",
+        "ForeName": "Maria J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Program in Molecular Medicine, Biotech II, University of Massachusetts Medical School, Worcester, Massachusetts, United States of America."
+          }
+        ],
+        "LastName": "Clapham",
+        "ForeName": "Paul R",
+        "Initials": "PR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Metzner",
+        "ForeName": "Karin J",
+        "Initials": "KJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1142-6723"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "G\u00fcnthard",
+        "ForeName": "Huldrych F",
+        "Initials": "HF"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1013-876X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Medical Virology, University of Zurich, Zurich, Switzerland."
+          }
+        ],
+        "LastName": "Trkola",
+        "ForeName": "Alexandra",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Pathog",
+    "NlmUniqueID": "101238921",
+    "ISSNLinking": "1553-7366"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "CD4 Antigens"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "HIV Envelope Protein gp120"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Adaptation, Physiological"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "CD4 Antigens"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Separation"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "HIV Envelope Protein gp120"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "HIV-1"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Leukocytes, Mononuclear"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Macrophages"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Viral Tropism"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Internalization"
+    }
+  ],
+  "CoiStatement": "All authors including Corinna Oberle have declared that no competing interests exist. Corinna Oberle declares that the work she contributed to the current study was conducted during her PhD thesis in the group of Prof Huldrych G\u00fcnthard at the University Hospital Zurich. Corinna Oberle further declares that the work is in no connection to her current appointment as a specialist for HCV at Gilead Sciences and that no competing interests exist."
+}

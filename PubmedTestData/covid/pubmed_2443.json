@@ -1,0 +1,220 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "PCR assays",
+      "PRIMES",
+      "SARS-CoV-2 variants",
+      "in silico analysis",
+      "wastewater-based epidemiology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35285246",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "03",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e02289-21",
+      "10.1128/aem.02289-21"
+    ],
+    "Journal": {
+      "ISSN": "1098-5336",
+      "JournalIssue": {
+        "Volume": "88",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Apr",
+          "Day": "12"
+        }
+      },
+      "Title": "Applied and environmental microbiology",
+      "ISOAbbreviation": "Appl Environ Microbiol"
+    },
+    "ArticleTitle": "Design of SARS-CoV-2 Variant-Specific PCR Assays Considering Regional and Temporal Characteristics.",
+    "Pagination": {
+      "StartPage": "e0228921",
+      "MedlinePgn": "e0228921"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Monitoring the prevalence of SARS-CoV-2 variants is necessary to make informed public health decisions during the COVID-19 pandemic. PCR assays have received global attention, facilitating a rapid understanding of variant dynamics because they are more accessible and scalable than genome sequencing. However, as PCR assays target only a few mutations, their accuracy could be reduced when these mutations are not exclusive to the target variants. Here we introduce PRIMES, an algorithm that evaluates the sensitivity and specificity of SARS-CoV-2 variant-specific PCR assays across different geographical regions by incorporating sequences deposited in the GISAID database. Using PRIMES, we determined that the accuracy of several PCR assays decreased when applied beyond the geographic scope of the study in which the assays were developed. Subsequently, we used this tool to design Alpha and Delta variant-specific PCR assays for samples from Illinois, USA. <i>In silico</i> analysis using PRIMES determined the sensitivity/specificity to be 0.99/0.99 for the Alpha variant-specific PCR assay and 0.98/1.00 for the Delta variant-specific PCR assay in Illinois, respectively. We applied these two variant-specific PCR assays to six local sewage samples and determined the dominant SARS-CoV-2 variant of either the wild type, the Alpha variant, or the Delta variant. Using next-generation sequencing (NGS) of the spike (S) gene amplicons of the Delta variant-dominant samples, we found six mutations exclusive to the Delta variant (S:T19R, S:\u0394156/157, S:L452R, S:T478K, S:P681R, and S:D950N). The consistency between the variant-specific PCR assays and the NGS results supports the applicability of PRIMES. <b>IMPORTANCE</b> Monitoring the introduction and prevalence of variants of concern (VOCs) and variants of interest (VOIs) in a community can help the local authorities make informed public health decisions. PCR assays can be designed to keep track of SARS-CoV-2 variants by measuring unique mutation markers that are exclusive to the target variants. However, the mutation markers may not be exclusive to the target variants because of regional and temporal differences in variant dynamics. We introduce PRIMES, an algorithm that enables the design of reliable PCR assays for variant detection. Because PCR is more accessible, scalable, and robust for sewage samples than sequencing technology, our findings will contribute to improving global SARS-CoV-2 variant surveillance."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaigngrid.35403.31, Urbana, Illinois, USA."
+          }
+        ],
+        "LastName": "Oh",
+        "ForeName": "Chamteut",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Illinois at Urbana-Champaigngrid.35403.31, Urbana, Illinois, USA."
+          }
+        ],
+        "LastName": "Sashittal",
+        "ForeName": "Palash",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaigngrid.35403.31, Urbana, Illinois, USA."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Aijia",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Veterinary Diagnostic Laboratory and Department of Veterinary Clinical Medicine, University of Illinois at Urbana-Champaigngrid.35403.31, Urbana, Illinois, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Leyi",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Illinois at Urbana-Champaigngrid.35403.31, Urbana, Illinois, USA."
+          }
+        ],
+        "LastName": "El-Kebir",
+        "ForeName": "Mohammed",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5461-5233"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaigngrid.35403.31, Urbana, Illinois, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Genomic Biology, University of Illinois at Urbana-Champaigngrid.35403.31, Urbana, Illinois, USA."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Thanh H",
+        "Initials": "TH"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "FOA PAR-17-141",
+        "Agency": "HHS | U.S. Food and Drug Administration (FDA)",
+        "Country": ""
+      },
+      {
+        "GrantID": "U18 FD006673",
+        "Acronym": "FD",
+        "Agency": "FDA HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, P.H.S.",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Appl Environ Microbiol",
+    "NlmUniqueID": "7605801",
+    "ISSNLinking": "0099-2240"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Sewage"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sewage"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

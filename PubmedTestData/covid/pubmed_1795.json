@@ -1,0 +1,218 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Nano COVID-19",
+      "SARS-CoV-2",
+      "nanopore sequencing",
+      "spike gene",
+      "variant of concerns"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37702217",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "09",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1177/15353702231190931"
+    ],
+    "Journal": {
+      "ISSN": "1535-3699",
+      "JournalIssue": {
+        "Volume": "248",
+        "Issue": "20",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Experimental biology and medicine (Maywood, N.J.)",
+      "ISOAbbreviation": "Exp Biol Med (Maywood)"
+    },
+    "ArticleTitle": "\"Nano COVID-19\": Nanopore sequencing of spike gene to identify SARS-CoV-2 variants of concern.",
+    "Pagination": {
+      "StartPage": "1841",
+      "EndPage": "1849",
+      "MedlinePgn": "1841-1849"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Coronavirus disease 2019 (COVID-19) is a worldwide pandemic infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). World Health Organization (WHO) has defined the viral variants of concern (VOC) which cause more severe disease, higher transmissibility, and reduced vaccine efficacy. In this study, the \"Nano COVID-19\" workflow based on Oxford nanopore sequencing of the full-length spike gene combined with flexible data analysis options was developed to identify SARS-CoV-2 VOCs. The primers were designed to cover the full-length spike gene and can amplify all VOC strains. The results of VOC identification based on phylogenetic analysis of the full-length spike gene were comparable to the whole genome sequencing (WGS). Compared to the standard VOC identification pipeline, the fast analysis based on Read Assignment, Mapping, and Phylogenetic Analysis in Real Time (RAMPART) and the user-friendly method based on EPI2ME yielded 89.3% and 97.3% accuracy, respectively. The EPI2ME pipeline is recommended for researchers without bioinformatic skills, whereas RAMPART is more suitable for bioinformaticians. This workflow provides a cost-effective, simplified pipeline with a rapid turnaround time. Furthermore, it is portable to point-of-care SARS-CoV-2 VOC identification and compatible with large-scale analysis. Therefore, \"Nano COVID-19\" is an alternative viral epidemic screening and transmission tracking workflow."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Systems Microbiology, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Bioinformatics, Research Department, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Siriraj Long-Read Lab (Si-LoL), Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand."
+          }
+        ],
+        "LastName": "Nimsamer",
+        "ForeName": "Pattaraporn",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Systems Microbiology, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Sawaswong",
+        "ForeName": "Vorthon",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Systems Microbiology, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Klomkliew",
+        "ForeName": "Pavit",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Systems Microbiology, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Kaewsapsak",
+        "ForeName": "Pornchai",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Clinical Virology, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Puenpa",
+        "ForeName": "Jiratchaya",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Clinical Virology, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Poovorawan",
+        "ForeName": "Yong",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2668-110X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center of Excellence in Systems Microbiology, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry, Faculty of Medicine, Chulalongkorn University, Bangkok 10330, Thailand."
+          }
+        ],
+        "LastName": "Payungporn",
+        "ForeName": "Sunchai",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Exp Biol Med (Maywood)",
+    "NlmUniqueID": "100973463",
+    "ISSNLinking": "1535-3699"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nanopore Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    }
+  ],
+  "CoiStatement": "Declaration of Conflicting InterestsThe author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article."
+}

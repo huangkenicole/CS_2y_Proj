@@ -1,0 +1,634 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34301854",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1126/science.abj0113"
+    ],
+    "Journal": {
+      "ISSN": "1095-9203",
+      "JournalIssue": {
+        "Volume": "373",
+        "Issue": "6557",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug",
+          "Day": "20"
+        }
+      },
+      "Title": "Science (New York, N.Y.)",
+      "ISOAbbreviation": "Science"
+    },
+    "ArticleTitle": "Spatiotemporal invasion dynamics of SARS-CoV-2 lineage B.1.1.7 emergence.",
+    "Pagination": {
+      "StartPage": "889",
+      "EndPage": "895",
+      "MedlinePgn": "889-895"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Understanding the causes and consequences of the emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants of concern is crucial to pandemic control yet difficult to achieve because they arise in the context of variable human behavior and immunity. We investigated the spatial invasion dynamics of lineage B.1.1.7 by jointly analyzing UK human mobility, virus genomes, and community-based polymerase chain reaction data. We identified a multistage spatial invasion process in which early B.1.1.7 growth rates were associated with mobility and asymmetric lineage export from a dominant source location, enhancing the effects of B.1.1.7's increased intrinsic transmissibility. We further explored how B.1.1.7 spread was shaped by nonpharmaceutical interventions and spatial variation in previous attack rates. Our findings show that careful accounting of the behavioral and epidemiological context within which variants of concern emerge is necessary to interpret correctly their observed relative growth rates."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-8838-7147"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto de Medicina Tropical, Faculdade de Medicina da Universidade de Sao Paulo, Sao Paulo, Brazil. a.rambaut@ed.ac.uk moritz.kraemer@zoo.ox.ac.uk s.scarpino@northeastern.edu oliver.pybus@zoo.ox.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Kraemer",
+        "ForeName": "Moritz U G",
+        "Initials": "MUG"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3509-8146"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "Hill",
+        "ForeName": "Verity",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0977-5534"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Immunity Unit, Department of Medicine, Cambridge University, Cambridge, UK."
+          }
+        ],
+        "LastName": "Ruis",
+        "ForeName": "Christopher",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9558-1052"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Network Science Institute, Northeastern University, Boston, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Spatial Epidemiology Lab (SpELL), Universit\u00e9 Libre de Bruxelles, Bruxelles, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, 3000 Leuven, Belgium."
+          }
+        ],
+        "LastName": "Dellicour",
+        "ForeName": "Simon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8313-819X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto de Medicina Tropical, Faculdade de Medicina da Universidade de Sao Paulo, Sao Paulo, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Bajaj",
+        "ForeName": "Sumali",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9846-8917"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "McCrone",
+        "ForeName": "John T",
+        "Initials": "JT"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1915-7732"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Genomic Pathogen Surveillance, Wellcome Genome Campus, Hinxton, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, 3000 Leuven, Belgium."
+          }
+        ],
+        "LastName": "Baele",
+        "ForeName": "Guy",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7806-3605"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease and Emergency Analytics, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Parag",
+        "ForeName": "Kris V",
+        "Initials": "KV"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6356-4688"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto de Medicina Tropical, Faculdade de Medicina da Universidade de Sao Paulo, Sao Paulo, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease and Emergency Analytics, Imperial College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Plant Sciences, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Battle",
+        "ForeName": "Anya Lindstr\u00f6m",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9220-2739"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto de Medicina Tropical, Faculdade de Medicina da Universidade de Sao Paulo, Sao Paulo, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Plant Sciences, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Gutierrez",
+        "ForeName": "Bernardo",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9981-0649"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "Jackson",
+        "ForeName": "Ben",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5577-9897"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "Colquhoun",
+        "ForeName": "Rachel",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8083-474X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "O'Toole",
+        "ForeName": "\u00c1ine",
+        "Initials": "\u00c1"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8326-5044"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, 3000 Leuven, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Network Science Institute, Northeastern University, Boston, USA."
+          }
+        ],
+        "LastName": "Klein",
+        "ForeName": "Brennan",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3419-4205"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, 3000 Leuven, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Network Science Institute, Northeastern University, Boston, USA."
+          }
+        ],
+        "LastName": "Vespignani",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "COVID-19 Genomics UK (COG-UK) Consortium"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6268-8937"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease and Emergency Analytics, Imperial College London, London, UK."
+          }
+        ],
+        "LastName": "Volz",
+        "ForeName": "Erik",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9747-8822"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Centre for Global Infectious Disease Analysis, Jameel Institute for Disease and Emergency Analytics, Imperial College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto de Medicina Tropical, Faculdade de Medicina da Universidade de Sao Paulo, Sao Paulo, Brazil."
+          }
+        ],
+        "LastName": "Faria",
+        "ForeName": "Nuno R",
+        "Initials": "NR"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6688-0854"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Spatial Epidemiology Lab (SpELL), Universit\u00e9 Libre de Bruxelles, Bruxelles, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Genomic Pathogen Surveillance, Wellcome Genome Campus, Hinxton, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Aanensen",
+        "ForeName": "David M",
+        "Initials": "DM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9843-8988"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Molecular Immunity Unit, Department of Medicine, Cambridge University, Cambridge, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Microbiology and Infection, University of Birmingham, Birmingham, UK."
+          }
+        ],
+        "LastName": "Loman",
+        "ForeName": "Nicholas J",
+        "Initials": "NJ"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0352-6289"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto de Medicina Tropical, Faculdade de Medicina da Universidade de Sao Paulo, Sao Paulo, Brazil."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "du Plessis",
+        "ForeName": "Louis",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9186-4549"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Microbiology and Infection, University of Birmingham, Birmingham, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France."
+          }
+        ],
+        "LastName": "Cauchemez",
+        "ForeName": "Simon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4337-3707"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France. a.rambaut@ed.ac.uk moritz.kraemer@zoo.ox.ac.uk s.scarpino@northeastern.edu oliver.pybus@zoo.ox.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "Rambaut",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5716-2770"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, 3000 Leuven, Belgium. a.rambaut@ed.ac.uk moritz.kraemer@zoo.ox.ac.uk s.scarpino@northeastern.edu oliver.pybus@zoo.ox.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Network Science Institute, Northeastern University, Boston, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vermont Complex Systems Center, University of Vermont, Burlington, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Santa Fe Institute, Santa Fe, USA."
+          }
+        ],
+        "LastName": "Scarpino",
+        "ForeName": "Samuel V",
+        "Initials": "SV"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8797-2667"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto de Medicina Tropical, Faculdade de Medicina da Universidade de Sao Paulo, Sao Paulo, Brazil. a.rambaut@ed.ac.uk moritz.kraemer@zoo.ox.ac.uk s.scarpino@northeastern.edu oliver.pybus@zoo.ox.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Zoology, University of Oxford, Oxford, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathobiology and Population Sciences, Royal Veterinary College London, London, UK."
+          }
+        ],
+        "LastName": "Pybus",
+        "ForeName": "Oliver G",
+        "Initials": "OG"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "MC_PC_19012",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MC_PC_19027",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MR/R015600/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MR/S019510/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Science",
+    "NlmUniqueID": "0404511",
+    "ISSNLinking": "0036-8075"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Communicable Disease Control"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeography"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spatio-Temporal Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Travel"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United Kingdom"
+    }
+  ]
+}

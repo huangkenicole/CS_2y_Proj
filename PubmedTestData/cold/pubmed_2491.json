@@ -1,0 +1,158 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "fixed effects",
+      "heterogeneity",
+      "meta-analysis",
+      "random effects"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29574827",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "10",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "03",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/sim.7625"
+    ],
+    "Journal": {
+      "ISSN": "1097-0258",
+      "JournalIssue": {
+        "Volume": "37",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "May",
+          "Day": "20"
+        }
+      },
+      "Title": "Statistics in medicine",
+      "ISOAbbreviation": "Stat Med"
+    },
+    "ArticleTitle": "Addressing the estimation of standard errors in fixed effects meta-analysis.",
+    "Pagination": {
+      "StartPage": "1788",
+      "EndPage": "1809",
+      "MedlinePgn": "1788-1809"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Standard methods for fixed effects meta-analysis assume that standard errors for study-specific estimates are known, not estimated. While the impact of this simplifying assumption has been shown in a few special cases, its general impact is not well understood, nor are general-purpose tools available for inference under more realistic assumptions. In this paper, we aim to elucidate the impact of using estimated standard errors in fixed effects meta-analysis, showing why it does not go away in large samples and quantifying how badly miscalibrated standard inference will be if it is ignored. We also show the important role of a particular measure of heterogeneity in this miscalibration. These developments lead to confidence intervals for fixed effects meta-analysis with improved performance for both location and scale parameters."
+      ],
+      "CopyrightInformation": "\u00a9 2018 The Authors. Statistics in Medicine Published by John Wiley & Sons, Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-0653-3441"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Fred Hutchinson Cancer Research Center, Seattle, WA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MRC Biostatistics Unit, School of Clinical Medicine, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Dom\u00ednguez Islas",
+        "ForeName": "Clara",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, University of Washington, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Rice",
+        "ForeName": "Kenneth M",
+        "Initials": "KM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Stat Med",
+    "NlmUniqueID": "8215016",
+    "ISSNLinking": "0277-6715"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "J41CSQ7QDS",
+      "NameOfSubstance": "Zinc"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Biostatistics"
+    },
+    {
+      "QualifierName": [
+        "drug therapy"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Meta-Analysis as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Systematic Reviews as Topic"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Zinc"
+    }
+  ]
+}

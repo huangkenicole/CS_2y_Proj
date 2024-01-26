@@ -1,0 +1,253 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bioinformatics analysis",
+      "Drug",
+      "SARS-CoV-2",
+      "Toll-like receptors"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33428154",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s13258-020-01021-8"
+    ],
+    "Journal": {
+      "ISSN": "2092-9293",
+      "JournalIssue": {
+        "Volume": "43",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Genes & genomics",
+      "ISOAbbreviation": "Genes Genomics"
+    },
+    "ArticleTitle": "Screening druggable targets and predicting therapeutic drugs for COVID-19 via integrated bioinformatics analysis.",
+    "Pagination": {
+      "StartPage": "55",
+      "EndPage": "67",
+      "MedlinePgn": "55-67"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Since the outbreak of coronavirus disease 2019 (COVID-19) in China, numerous research institutions have invested in the development of anti-COVID-19 vaccines and screening for efficacious drugs to manage the virus.",
+        "To explore the potential targets and therapeutic drugs for the prevention and treatment of COVID-19 through data mining and bioinformatics.",
+        "We integrated and profoundly analyzed 10 drugs previously assessed to have promising therapeutic potential in COVID-19 management, and have been recommended for clinical trials. To explore the mechanisms by which these drugs may be involved in the treatment of COVID-19, gene-drug interactions were identified using the DGIdb database after which functional enrichment analysis, protein-protein interaction (PPI) network, and miRNA-gene network construction were performed. We adopted the DGIdb database to explore the candidate drugs for COVID-19.",
+        "A total of 43 genes associated with the 10 potential COVID-19 drugs were identified. Function enrichment analysis revealed that these genes were mainly enriched in response to other invasions, toll-like receptor pathways, and they play positive roles in the production of cytokines such as IL-6, IL-8, and INF-\u03b2. TNF, TLR3, TLR7, TLR9, and CXCL10 were identified as crucial genes in COVID-19. Through the DGIdb database, we predicted 87 molecules as promising druggable molecules for managing COVID-19.",
+        "Findings from this work may provide new insights into COVID-19 mechanisms and treatments. Further, the already identified candidate drugs may improve the efficiency of pharmaceutical treatment in this rapidly evolving global situation."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-7188-3590"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anesthesiology, Hunan Provincial People's Hospital, The First Affiliated Hospital of Hunan Normal University, No.61 Jiefang West Road, Furong District, Changsha, 410002, Hunan, China."
+          }
+        ],
+        "LastName": "Tan",
+        "ForeName": "Siyou",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anesthesiology, Hunan Provincial People's Hospital, The First Affiliated Hospital of Hunan Normal University, No.61 Jiefang West Road, Furong District, Changsha, 410002, Hunan, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Wenyan",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiothoracic Surgery, Hunan Provincial People's Hospital, The First Affiliated Hospital of Hunan Normal University, Changsha, 410002, Hunan, China."
+          }
+        ],
+        "LastName": "Xiang",
+        "ForeName": "Hongxian",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anesthesiology, Hunan Provincial People's Hospital, The First Affiliated Hospital of Hunan Normal University, No.61 Jiefang West Road, Furong District, Changsha, 410002, Hunan, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Research Center for Anesthesiology of ERAS in Hunan Province, Changsha, 410002, Hunan, China."
+          }
+        ],
+        "LastName": "Kong",
+        "ForeName": "Gaoyin",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hunan Provincial Institute of Emergency Medicine, Hunan Provincial People's Hospital, The First Affiliated Hospital of Hunan Normal University, Changsha, 410002, Hunan, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Hunan Provincial Key Laboratory of Emergency and Critical Care Metabonomics, Changsha, 410002, Hunan, China."
+          }
+        ],
+        "LastName": "Zou",
+        "ForeName": "Lianhong",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4898-8746"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Anesthesiology, Hunan Provincial People's Hospital, The First Affiliated Hospital of Hunan Normal University, No.61 Jiefang West Road, Furong District, Changsha, 410002, Hunan, China. 448027999@qq.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Research Center for Anesthesiology of ERAS in Hunan Province, Changsha, 410002, Hunan, China. 448027999@qq.com."
+          }
+        ],
+        "LastName": "Wei",
+        "ForeName": "Lai",
+        "Initials": "L"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2020SK3011",
+        "Agency": "the Key Research and Development Program of Hunan Province",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Korea (South)",
+    "MedlineTA": "Genes Genomics",
+    "NlmUniqueID": "101481027",
+    "ISSNLinking": "1976-9571"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Development"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Evaluation, Preclinical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Maps"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "Siyou Tan, Wenyan Chen, Hongxian Xiang, Gaoyin Kong, Lianhong Zou, and Lai Wei declare that they have no conflict of interest."
+}

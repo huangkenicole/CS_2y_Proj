@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "23366125",
+  "DateCompleted": {
+    "Year": "2013",
+    "Month": "08",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC.2012.6346164"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2012",
+        "PubDate": {
+          "Year": "2012"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Personalized blood glucose models for exercise, meal and insulin interventions in type 1 diabetic children.",
+    "Pagination": {
+      "StartPage": "1250",
+      "EndPage": "1253",
+      "MedlinePgn": "1250-3"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Modern healthcare is rapidly evolving towards a personalized, predictive, preventive and participatory approach of treatment to achieve better quality of life (QoL) in patients. Identification of personalized blood glucose (BG) prediction models incorporating the lifestyle interventions can help in devising optimal patient specific exercise, food, and insulin prescriptions, which in turn can prevent the risk of frequent hypoglycemic episodes and other diabetes complications. Hence, we propose a modeling methodology based on multi-input single-output time series models, to develop personalized BG models for 12 type 1 diabetic (T1D) children, using the clinical data from Diabetes Research in Children's Network. The multiple inputs needed to develop the proposed models were rate of perceived exertion (RPE) values (which quantify the exercise intensity), carbohydrate absorption dynamics, basal insulin infusion and bolus insulin absorption kinetics. Linear model classes like Box-Jenkins (1 patient), state space (1 patient) and process transfer function models (7 patients) of different orders were found to be the most suitable as the personalized models for 9 patients, whereas nonlinear Hammerstein-Wiener models of different orders were found to be the personalized models for 3 patients. Hence, inter-patient variability was captured by these models as each patient follows a different personalized model."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National University of Singapore, Department of Chemical & Biomolecular Engineering, Singapore. naviyn@nus.edu.sg"
+          }
+        ],
+        "LastName": "Balakrishnan",
+        "ForeName": "Naviyn P",
+        "Initials": "NP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rangaiah",
+        "ForeName": "Gade P",
+        "Initials": "GP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Samavedham",
+        "ForeName": "Lakshminarayanan",
+        "Initials": "L"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Blood Glucose"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Insulin"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Blood Glucose"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "drug therapy",
+        "therapy"
+      ],
+      "DescriptorName": "Diabetes Mellitus, Type 1"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "administration & dosage"
+      ],
+      "DescriptorName": "Insulin"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Meals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Precision Medicine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Regression Analysis"
+    }
+  ]
+}

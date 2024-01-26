@@ -1,0 +1,183 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "deep learning",
+      "drug discovery",
+      "omics data analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34423353",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab339",
+      "10.1093/bib/bbab339"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Recent omics-based computational methods for COVID-19 drug discovery and repurposing.",
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus disease 2019 (COVID-19) pandemic, caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is the main reason for the increasing number of deaths worldwide. Although strict quarantine measures were followed in many countries, the disease situation is still intractable. Thus, it is needed to utilize all possible means to confront this pandemic. Therefore, researchers are in a race against the time to produce potential treatments to cure or reduce the increasing infections of COVID-19. Computational methods are widely proving rapid successes in biological related problems, including diagnosis and treatment of diseases. Many efforts in recent months utilized Artificial Intelligence (AI) techniques in the context of fighting the spread of COVID-19. Providing periodic reviews and discussions of recent efforts saves the time of researchers and helps to link their endeavors for a faster and efficient confrontation of the pandemic. In this review, we discuss the recent promising studies that used Omics-based data and utilized AI algorithms and other computational tools to achieve this goal. We review the established datasets and the developed methods that were basically directed to new or repurposed drugs, vaccinations and diagnosis. The tools and methods varied depending on the level of details in the available information such as structures, sequences or metabolic data."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of international Engineering and Science, Jeonbuk National University, Jeonju 54896, Republic of Korea."
+          }
+        ],
+        "LastName": "Tayara",
+        "ForeName": "Hilal",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Artificial Intelligence Department, Faculty of Computers and Artificial Intelligence, Benha University, Banha 13518, Egypt."
+          }
+        ],
+        "LastName": "Abdelbaky",
+        "ForeName": "Ibrahim",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics and Information Engineering, Jeonbuk National University, Jeonju, Jeollabukdo 54896, Republic of Korea."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Advances Electronics and Information Research Center, Jeonbuk National University, Jeonju 54896, Republic of Korea."
+          }
+        ],
+        "LastName": "To Chong",
+        "ForeName": "Kil",
+        "Initials": "K"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2020R1A2C2005612",
+        "Agency": "National Research Foundation of Korea",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Discovery"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [
+        "trends"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "trends"
+      ],
+      "DescriptorName": "Proteomics"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

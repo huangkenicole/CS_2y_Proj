@@ -1,0 +1,215 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Big data",
+      "Co-presence",
+      "Contact tracing",
+      "Electronic medical records",
+      "Proximity"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32745591",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "08",
+        "Day": "01"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jhin.2020.07.031",
+      "S0195-6701(20)30362-5"
+    ],
+    "Journal": {
+      "ISSN": "1532-2939",
+      "JournalIssue": {
+        "Volume": "106",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov"
+        }
+      },
+      "Title": "The Journal of hospital infection",
+      "ISOAbbreviation": "J Hosp Infect"
+    },
+    "ArticleTitle": "A passive monitoring tool using hospital administrative\u00a0data enables earlier specific detection\u00a0of healthcare-acquired infections.",
+    "Pagination": {
+      "StartPage": "562",
+      "EndPage": "569",
+      "MedlinePgn": "562-569"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Healthcare-associated infections impose a significant burden on the healthcare system. Current methods for detecting these infections are constrained by combinations of high cost, long processing times and imperfect accuracy, reducing their effectiveness.",
+        "This study examined whether the amount of time a patient spends on a ward with other patients clinically suspected of infection, termed 'co-presence', can be used as a tool to predict subsequent healthcare-associated infection. Compared with contact tracing, this leverages passively collected electronic data rather than manually collected data, allowing for improved monitoring. All 133,304 inpatient records between 2011 and 2015 were abstracted from a healthcare system in the UK. The area under the receiver-operator curve (AUROC) for each of five pathogens was calculated based on co-presence time, sensitivity and specificity of the test, and how much earlier co-presence would have predicted infection for the true-positive cases.",
+        "For the five pathogens, AUROC ranged from 0.92 to 0.99, and was 0.52 for the negative control. Optimal cut-points of co-presence ranged from 25 to 59 h, and would have led to detection of true-positive cases up to an average of 1 day earlier.",
+        "These findings show that co-presence time would help to predict healthcare-acquired infection, and would do so earlier than the current standard of care. Using this measure prospectively in hospitals based on real-time data could limit the consequences of infection, both by being able to treat individual infected patients earlier, and by preventing potential secondary infections stemming from the original infected patient."
+      ],
+      "CopyrightInformation": "Published by Elsevier Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA; CABDyN Complexity Centre, Sa\u00efd Business School, University of Oxford, Oxford, UK. Electronic address: jeffrey.rewley@pennmedicine.upenn.edu."
+          }
+        ],
+        "LastName": "Rewley",
+        "ForeName": "J",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ],
+        "LastName": "Koehly",
+        "ForeName": "L",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ],
+        "LastName": "Marcum",
+        "ForeName": "C S",
+        "Initials": "CS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CABDyN Complexity Centre, Sa\u00efd Business School, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Reed-Tsochas",
+        "ForeName": "F",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Hosp Infect",
+    "NlmUniqueID": "8007166",
+    "ISSNLinking": "0195-6701"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Bacteria"
+    },
+    {
+      "QualifierName": [
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "Bacterial Infections"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "microbiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "Cross Infection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electronic Health Records"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hospitals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Inpatients"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Monitoring, Physiologic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    }
+  ]
+}

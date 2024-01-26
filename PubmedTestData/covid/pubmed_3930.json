@@ -1,0 +1,323 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Chinese medicine preventive formula",
+      "Close contacts",
+      "Coronavirus disease 2019",
+      "Molecular docking",
+      "Network pharmacology",
+      "Single-cell RNA Sequencing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33831468",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jep.2021.114098",
+      "S0378-8741(21)00325-1"
+    ],
+    "Journal": {
+      "ISSN": "1872-7573",
+      "JournalIssue": {
+        "Volume": "275",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "15"
+        }
+      },
+      "Title": "Journal of ethnopharmacology",
+      "ISOAbbreviation": "J Ethnopharmacol"
+    },
+    "ArticleTitle": "In silico analysis of the potential mechanism of a preventive Chinese medicine formula on coronavirus disease 2019.",
+    "Pagination": {
+      "StartPage": "114098",
+      "MedlinePgn": "114098"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "With the spread of Coronavirus Disease (2019) (COVID-19), combination with traditional Chinese medicine (TCM) has been widely used as a prevention and therapy strategy in China. Xin guan No.1 (XG-1) prescription is a preventive formula recommended by the Hunan Provincial Administration of TCM to prevent the pandemic of COVID-19.",
+        "To explore the potential preventive mechanisms of XG-1 against COVID-19 in the combination of network pharmacology approach, single-cell RNA expression profiling analysis, molecular docking and retrospective study.",
+        "Encyclopedia of Traditional Chinese Medicine (ETCM) database was used to determine the meridian tropism, active components and target genes of XG-1. Gene ontology (GO) analysis and Kyoto Encyclopedia of Genes and Genomes (KEGG) functional enrichment analysis were conducted by R Cluster Profiler package (3.14.3). Single cell RNA sequencing (scRNA-seq) data of human lung (GSE122960) was downloaded from Gene Expression Omnibus (GEO) database and analyzed by R Seurat package (3.1.2). Cytoscape (3.7.2) was used to construct the interaction network. The main ingredients in XG-1 were identified by HPLC- Q-TOF- MS and used for molecular docking with COVID-19 3CL hydrolytic enzyme and angiotensin converting enzyme II (ACE2). A retrospective study of 47 close contact participants from Dongtang Community of Hunan Province was conducted to evaluated the preventive effect of XG-1.",
+        "According to the network pharmacology analysis, XG-1 formula was closely related to lung-, spleen- and stomach-meridians and include a total of 206 active components and 853 target genes. GO and KEGG pathway enrichment revealed that XG-1 mainly regulated cellular amino acid metabolism process and neuroactive ligand-receptors interaction. The scRNA-seq profiling showed that angiotensin converting enzyme 2 (ACE2) was principally expressed in alveolar type 2 epithelial cells (AT2). 153 genes were up-regulated in AT2 cells expressing ACE2 and 12 genes were obtained by intersecting with XG-1 target genes, of which 3 were related to immunity. Five main chemical ingredients were detected in XG-1 sample by HPLC-Q-TOF-MS. The molecular docking showed that Rutin, Liquiritin and Astragaloside \u2163 had a good affinity with COVID-19 3CL hydrolytic enzyme and ACE2. Compared with participants who didn't take XG-1, preventive treatment with XG-1gradules resulted in a significant lower rate of testing positive for SARS-CoV-2 nucleic acid (P\u00a0<\u00a00.0001).",
+        "The present study showed that XG-1 exerts a preventive effect in close contacts against COVID-19. The underlying mechanism may be related to modulate immunity response through multiple components, pathways, and several target genes co-expressed with ACE2. These findings provide preliminary evidences and methodological reference for the potential preventive mechanism of XG-1 against COVID-19."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Author(s). Published by Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Provincial Key Laboratory of TCM Diagnostics, Hunan University of Chinese Medicine, Changsha, China; Key Laboratory of TCM Heart and Lung Syndrome Differentiation, Medicated Diet and Dietotherapy, Hunan University of Chinese Medicine, Changsha, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Huaying",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dongtang Community Health Service Center of Yuhua District, Changsha, China."
+          }
+        ],
+        "LastName": "Gong",
+        "ForeName": "Ke",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Chinese Materia Medica, Hunan Academy of Chinese Medicine, Changsha, China."
+          }
+        ],
+        "LastName": "Qin",
+        "ForeName": "You",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Pharmacy, Hunan University of Chinese Medicine, Changsha, China."
+          }
+        ],
+        "LastName": "Yuan",
+        "ForeName": "Zhiying",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Provincial Key Laboratory of TCM Diagnostics, Hunan University of Chinese Medicine, Changsha, China; Key Laboratory of TCM Heart and Lung Syndrome Differentiation, Medicated Diet and Dietotherapy, Hunan University of Chinese Medicine, Changsha, China."
+          }
+        ],
+        "LastName": "Xia",
+        "ForeName": "Shuaishuai",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Traditional Chinese Medicine, People's Hospital of Luohu District, Shenzhen, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Shiying",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dongtang Community Health Service Center of Yuhua District, Changsha, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Jingjing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, Hunan Brain Hospital, Changsha, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Ping",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Provincial Key Laboratory of TCM Diagnostics, Hunan University of Chinese Medicine, Changsha, China; Key Laboratory of TCM Heart and Lung Syndrome Differentiation, Medicated Diet and Dietotherapy, Hunan University of Chinese Medicine, Changsha, China. Electronic address: superliliang@126.com."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Liang",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Provincial Key Laboratory of TCM Diagnostics, Hunan University of Chinese Medicine, Changsha, China; Hunan Engineering Technology Research Center for Medicinal and Functional Food, Hunan University of Chinese Medicine, Changsha, China; Key Laboratory of TCM Heart and Lung Syndrome Differentiation, Medicated Diet and Dietotherapy, Hunan University of Chinese Medicine, Changsha, China. Electronic address: xiemz64@163.com."
+          }
+        ],
+        "LastName": "Xie",
+        "ForeName": "Mengzhou",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "J Ethnopharmacol",
+    "NlmUniqueID": "7903310",
+    "ISSNLinking": "0378-8741"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Drugs, Chinese Herbal"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Drugs, Chinese Herbal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Medicine, Chinese Traditional"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Docking Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Maps"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA-Seq"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Transduction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

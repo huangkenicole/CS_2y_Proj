@@ -1,0 +1,140 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Classification",
+      "Data pre-processing",
+      "Diagnosis of cancer",
+      "Imbalanced data"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30611011",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "03",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "03",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "01",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jbi.2018.12.003",
+      "S1532-0464(18)30230-2"
+    ],
+    "Journal": {
+      "ISSN": "1532-0480",
+      "JournalIssue": {
+        "Volume": "90",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Feb"
+        }
+      },
+      "Title": "Journal of biomedical informatics",
+      "ISOAbbreviation": "J Biomed Inform"
+    },
+    "ArticleTitle": "A comprehensive data level analysis for cancer diagnosis on imbalanced data.",
+    "Pagination": {
+      "StartPage": "103089",
+      "MedlinePgn": "103089"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The early diagnosis of cancer, as one of the major causes of death, is vital for cancerous patients. Diagnosing diseases in general and cancer in particular is a considerable application of data analysis for medical science. However, imbalanced data distribution and imbalanced quality of the majority and minority classes, which lead to misclassification, is a great challenge in this field. Though the samples of the majority class and their proper classification are more important to classifier, cancer is diagnosed by relying on the minority class samples (cancer data class). While the consequence of wrong diagnosis for non-cancerous patients is several additional clinical tests, the cancerous patients pay the price of wrong diagnosis with their lives. As such, studying the class imbalance problem is vital from the medical's perspective. To serve this purpose, a comprehensive study on the consequences of imbalanced data problem is performed in this paper on the data of cancer patients for the first time. In this context, oversampling and under sampling as two main balancing techniques including 18 algorithms are employed. The techniques used in oversampling are ADASYN, ADOMS, AHC, Borderline-SMOTE, ROS, Safe-Level-SMOTE, SMOTE, SMOTE-ENN, SMOTE-TL, SPIDER and SPIDER2, while under sampling techniques are CNN, CNNTL, NCL, OSS, RUS, SBC and TL. To examine the impact of balancers on the performance of classifiers, four classifiers named RIPPER, MLP, KNN, and C4.5 are employed as learners. In addition, 15 cancer data sets from SEER program used for the study are kidney, soft tissue, bladder, rectum, colon, bone, larynx, breast, cervix, prostate, oropharynx, melanoma, thyroid, testis, and lip. The findings of the study are centered on examining the impact of class imbalance on the function of classifiers, a general comparing of the function of pre-processing techniques and classifying all data sets and finally determining the best balancer and classifier for each kind of cancer data set. According to the results, significant improvement is obtained through using balancers. Assessing by AUC, the performance of different classifiers of cancer imbalanced data sets has improved in 90% of the cases after using balancing techniques. To be more precise, Friedman statistical tests are applied and interestingly, each kind of cancer data set responded differently to different balancing techniques and classifiers. Moreover, considering the mean rank of each technique and classifier that were used for data sets, oversampling balancing techniques result in better outcomes than under sampling ones."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2018 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Engineering, North Tehran Branch, Islamic Azad University, Tehran, Iran. Electronic address: s.fotouhi@iau-tnb.ac.ir."
+          }
+        ],
+        "LastName": "Fotouhi",
+        "ForeName": "Sara",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Data Mining Laboratory, Department of Engineering, College of Farabi, University of Tehran, Tehran, Iran. Electronic address: shahrokh.asadi@ut.ac.ir."
+          }
+        ],
+        "LastName": "Asadi",
+        "ForeName": "Shahrokh",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Quantitative Health Sciences, Cleveland Cancer Foundation, Cleveland, OH, United States. Electronic address: kattanm@ccf.org."
+          }
+        ],
+        "LastName": "Kattan",
+        "ForeName": "Michael W",
+        "Initials": "MW"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Biomed Inform",
+    "NlmUniqueID": "100970413",
+    "ISSNLinking": "1532-0464"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Medical Informatics"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

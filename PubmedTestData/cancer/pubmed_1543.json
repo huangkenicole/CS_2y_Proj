@@ -1,0 +1,213 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Artificial intelligence",
+      "Gastric adenocarcinoma",
+      "Gastric cancer",
+      "Machine learning",
+      "Raman spectroscopy"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36368293",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "10",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.saa.2022.122049",
+      "S1386-1425(22)01197-0"
+    ],
+    "Journal": {
+      "ISSN": "1873-3557",
+      "JournalIssue": {
+        "Volume": "287",
+        "Issue": "Pt 1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Feb",
+          "Day": "15"
+        }
+      },
+      "Title": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+      "ISOAbbreviation": "Spectrochim Acta A Mol Biomol Spectrosc"
+    },
+    "ArticleTitle": "Combining Raman spectroscopy and machine learning to assist early diagnosis of gastric cancer.",
+    "Pagination": {
+      "StartPage": "122049",
+      "MedlinePgn": "122049"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Gastric cancers, with gastric adenocarcinoma (GAC) as the most common histological type, cause quite a few of deaths. In order to improve the survival rate after GAC treatment, it is important to develop a method for early detection and therapy support of GAC. Raman spectroscopy is a potential tool for probing cancer cell due to its real-time and non-destructive measurements without any additional reagents. In this study, we use Raman spectroscopy to examine GAC samples, and distinguish cancerous gastric mucosa from normal gastric mucosa. Average Raman spectra of two groups show differences at 750\u00a0cm<sup>-1</sup>, 1004\u00a0cm<sup>-1</sup>, 1449\u00a0cm<sup>-1</sup>, 1089-1128\u00a0cm<sup>-1</sup>, 1311-1367\u00a0cm<sup>-1</sup> and 1585-1665\u00a0cm<sup>-1</sup>, These peaks were assigned to cytochrome c, phenylalanine, phospholipid, collagen, lipid, and unsaturated fatty acid respectively. Furthermore, we build a SENet-LSTM model to realize the automatic classification of cancerous gastric mucosa and normal gastric mucosa, with all preprocessed Raman spectra in the range of 400-1800\u00a0cm<sup>-1</sup> as input. An accuracy 96.20% was achieved. Besides, by using masking method, we found the Raman spectral features which determine the classification and explore the explainability of the classification model. The results are consistent with the conclusions obtained from the average spectrum. All results indicate it is potential for pre-cancerous screening to combine Raman spectroscopy and machine learning."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Science and Engineering, Lanzhou University, Lanzhou, 730000, Gansu, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Chenming",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The first hospital of Lanzhou University, Lanzhou University, Lanzhou, 730000, Gansu, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Shasha",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Science and Engineering, Lanzhou University, Lanzhou, 730000, Gansu, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Qian",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Science and Engineering, Lanzhou University, Lanzhou, 730000, Gansu, China."
+          }
+        ],
+        "LastName": "Wan",
+        "ForeName": "Dongdong",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of basic medical sciences, Lanzhou University, Lanzhou, 730000, Gansu, China."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Rong",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Science and Engineering, Lanzhou University, Lanzhou, 730000, Gansu, China. Electronic address: wangzhong@lzu.edu.cn."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Zhong",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Science and Engineering, Lanzhou University, Lanzhou, 730000, Gansu, China. Electronic address: liyuee@lzu.edu.cn."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yuee",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Information Science and Engineering, Lanzhou University, Lanzhou, 730000, Gansu, China. Electronic address: bh@lzu.edu.cn."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Bin",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Spectrochim Acta A Mol Biomol Spectrosc",
+    "NlmUniqueID": "9602533",
+    "ISSNLinking": "1386-1425"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Stomach Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Spectrum Analysis, Raman"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "pathology"
+      ],
+      "DescriptorName": "Gastric Mucosa"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Early Detection of Cancer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

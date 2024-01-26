@@ -1,0 +1,306 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Machine learning",
+      "Parkinson\u2019s disease",
+      "Prospective study",
+      "Risk factors"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37294324",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "08",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "06",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s00415-023-11803-1"
+    ],
+    "Journal": {
+      "ISSN": "1432-1459",
+      "JournalIssue": {
+        "Volume": "270",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Journal of neurology",
+      "ISOAbbreviation": "J Neurol"
+    },
+    "ArticleTitle": "Risk and protective factors in Parkinson's disease: a simultaneous and prospective study with classical statistical and novel machine learning models.",
+    "Pagination": {
+      "StartPage": "4487",
+      "EndPage": "4497",
+      "MedlinePgn": "4487-4497"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Several environmental/lifestyle factors have been individually investigated in previous Parkinson's disease (PD) studies with controversial results. No study has prospectively and simultaneously investigated potential risk/protective factors of PD using both classical statistical and novel machine learning analyses. The latter may reveal more complex associations and new factors that are undetected by merely linear models. To fill this gap, we simultaneously investigated potential risk/protective factors involved in PD in a large prospective population study using both approaches.",
+        "Participants in the Moli-sani study were enrolled between 2005 and 2010 and followed up until December 2018. Incident PD cases were identified by individual-level record linkage to regional hospital discharge forms, the Italian death registry, and the regional prescription register. Exposure to potential risk/protective factors was assessed at baseline. Multivariable Cox Proportional Hazards (PH) regression models and survival random forests (SRF) were built to identify the most influential factors.",
+        "We identified 213 incident PD cases out of 23,901 subjects. Cox PH models revealed that age, sex, dysthyroidism and diabetes were associated with an increased risk of PD. Both hyper and hypothyroidism were independently associated with PD risk. SRF showed that age was the most influential factor in PD risk, followed by coffee intake, daily physical activity, and hypertension.",
+        "This study sheds light on the role of dysthyroidism, diabetes and hypertension in PD onset, characterized to date by an uncertain relationship with PD, and also confirms the relevance of most factors (age, sex, coffee intake, daily physical activity) reportedly shown be associated with PD. Further methodological developments in SRF models will allow to untangle the nature of the potential non-linear relationships identified."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Prevention, IRCCS NEUROMED, Pozzilli, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine and Surgery, EPIMED Research Center, University of Insubria, Varese, Italy."
+          }
+        ],
+        "LastName": "Gialluisi",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IRCCS NEUROMED, Pozzilli, Italy."
+          }
+        ],
+        "LastName": "De Bartolo",
+        "ForeName": "Maria Ilenia",
+        "Initials": "MI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Prevention, IRCCS NEUROMED, Pozzilli, Italy."
+          }
+        ],
+        "LastName": "Costanzo",
+        "ForeName": "Simona",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IRCCS NEUROMED, Pozzilli, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Neurosciences, Sapienza University of Rome, Rome, Italy."
+          }
+        ],
+        "LastName": "Belvisi",
+        "ForeName": "Daniele",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UOC Governance del Farmaco, Azienda Sanitaria Regionale del Molise -ASREM, Campobasso, Italy."
+          }
+        ],
+        "LastName": "Falciglia",
+        "ForeName": "Stefania",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UOC Governance del Farmaco, Azienda Sanitaria Regionale del Molise -ASREM, Campobasso, Italy."
+          }
+        ],
+        "LastName": "Ricci",
+        "ForeName": "Moreno",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mediterranea Cardiocentro, Naples, Italy."
+          }
+        ],
+        "LastName": "Di Castelnuovo",
+        "ForeName": "Augusto",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Prevention, IRCCS NEUROMED, Pozzilli, Italy."
+          }
+        ],
+        "LastName": "Panzera",
+        "ForeName": "Teresa",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Prevention, IRCCS NEUROMED, Pozzilli, Italy."
+          }
+        ],
+        "LastName": "Donati",
+        "ForeName": "Maria Benedetta",
+        "Initials": "MB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IRCCS NEUROMED, Pozzilli, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Neurosciences, Sapienza University of Rome, Rome, Italy."
+          }
+        ],
+        "LastName": "Fabbrini",
+        "ForeName": "Giovanni",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Prevention, IRCCS NEUROMED, Pozzilli, Italy."
+          }
+        ],
+        "LastName": "de Gaetano",
+        "ForeName": "Giovanni",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3598-3142"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IRCCS NEUROMED, Pozzilli, Italy. alfredo.berardelli@uniroma1.it."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Human Neurosciences, Sapienza University of Rome, Rome, Italy. alfredo.berardelli@uniroma1.it."
+          }
+        ],
+        "LastName": "Berardelli",
+        "ForeName": "Alfredo",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Prevention, IRCCS NEUROMED, Pozzilli, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine and Surgery, EPIMED Research Center, University of Insubria, Varese, Italy."
+          }
+        ],
+        "LastName": "Iacoviello",
+        "ForeName": "Licia",
+        "Initials": "L"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "J Neurol",
+    "NlmUniqueID": "0423161",
+    "ISSNLinking": "0340-5354"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Coffee"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology"
+      ],
+      "DescriptorName": "Parkinson Disease"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Coffee"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protective Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diabetes Mellitus"
+    },
+    {
+      "QualifierName": [
+        "complications"
+      ],
+      "DescriptorName": "Hypertension"
+    }
+  ]
+}

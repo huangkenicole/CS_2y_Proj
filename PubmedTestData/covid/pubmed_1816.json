@@ -1,0 +1,319 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Delta variant",
+      "Genomics",
+      "Gradient boosting model",
+      "Machine learning",
+      "Variants of concern"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35487339",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "05",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "04",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.ijid.2022.04.050",
+      "S1201-9712(22)00252-1"
+    ],
+    "Journal": {
+      "ISSN": "1878-3511",
+      "JournalIssue": {
+        "Volume": "120",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jul"
+        }
+      },
+      "Title": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+      "ISOAbbreviation": "Int J Infect Dis"
+    },
+    "ArticleTitle": "Clinical and laboratory profiles of the SARS-CoV-2 Delta variant compared with pre-Delta variants.",
+    "Pagination": {
+      "StartPage": "88",
+      "EndPage": "95",
+      "MedlinePgn": "88-95"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The emergence of SARS-CoV-2 variants of concern has led to significant phenotypical changes in transmissibility, virulence, and public health measures. Our study used clinical data to compare characteristics between a Delta variant wave and a pre-Delta variant wave of hospitalized patients.",
+        "This single-center retrospective study defined a wave as an increasing number of COVID-19 hospitalizations, which peaked and later decreased. Data from the United States Department of Health and Human Services were used to identify the waves' primary variant. Wave 1 (August 8, 2020-April 1, 2021) was characterized by heterogeneous variants, whereas Wave 2 (June 26, 2021-October 18, 2021) was predominantly the Delta variant. Descriptive statistics, regression techniques, and machine learning approaches supported the comparisons between waves.",
+        "From the cohort (N\u00a0=\u00a01318), Wave 2 patients (n\u00a0=\u00a0665) were more likely to be younger, have fewer comorbidities, require more care in the intensive care unit, and show an inflammatory profile with higher C-reactive protein, lactate dehydrogenase, ferritin, fibrinogen, prothrombin time, activated thromboplastin time, and international normalized ratio compared with Wave 1 patients (n\u00a0=\u00a0653). The gradient boosting model showed an area under the receiver operating characteristic curve of 0.854 (sensitivity 86.4%; specificity 61.5%; positive predictive value 73.8%; negative predictive value 78.3%).",
+        "Clinical and laboratory characteristics can be used to estimate the COVID-19 variant regardless of genomic testing availability. This finding has implications for variant-driven treatment protocols and further research."
+      ],
+      "CopyrightInformation": "Published by Elsevier Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, Mayo Clinic, Jacksonville, FL, USA. Electronic address: bhakta.shivang@mayo.edu."
+          }
+        ],
+        "LastName": "Bhakta",
+        "ForeName": "Shivang",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Sanghavi",
+        "ForeName": "Devang K",
+        "Initials": "DK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Quantitative Health Sciences, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Johnson",
+        "ForeName": "Patrick W",
+        "Initials": "PW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Quantitative Health Sciences, Mayo Clinic, Scottsdale, AZ, USA."
+          }
+        ],
+        "LastName": "Kunze",
+        "ForeName": "Katie L",
+        "Initials": "KL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Neville",
+        "ForeName": "Matthew R",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Transplantation, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Wadei",
+        "ForeName": "Hani M",
+        "Initials": "HM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Bosch",
+        "ForeName": "Wendelyn",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Quantitative Health Sciences, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Carter",
+        "ForeName": "Rickey E",
+        "Initials": "RE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Transplantation, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Shah",
+        "ForeName": "Sadia Z",
+        "Initials": "SZ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Pollock",
+        "ForeName": "Benjamin D",
+        "Initials": "BD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Hospital Internal Medicine, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Oman",
+        "ForeName": "Sven P",
+        "Initials": "SP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of General Internal Medicine, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Speicher",
+        "ForeName": "Leigh",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, Mayo Clinic, Jacksonville, FL, USA; Department of Neurology, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Siegel",
+        "ForeName": "Jason",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Libertin",
+        "ForeName": "Claudia R",
+        "Initials": "CR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Digital Health - Data & Analytics, Mayo Clinic, Rochester, MN, USA."
+          }
+        ],
+        "LastName": "Matson",
+        "ForeName": "Mark W",
+        "Initials": "MW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Critical Care Medicine, Mayo Clinic, Jacksonville, FL, USA; Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery, Mayo Clinic, Jacksonville, FL, USA; Department of Transplantation, Mayo Clinic, Jacksonville, FL, USA."
+          }
+        ],
+        "LastName": "Moreno Franco",
+        "ForeName": "Pablo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Hospital Internal Medicine, Mayo Clinic, Jacksonville, FL, USA. Electronic address: cowart.jennifer@mayo.edu."
+          }
+        ],
+        "LastName": "Cowart",
+        "ForeName": "Jennifer B",
+        "Initials": "JB"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "Int J Infect Dis",
+    "NlmUniqueID": "9610933",
+    "ISSNLinking": "1201-9712"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hospitalization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

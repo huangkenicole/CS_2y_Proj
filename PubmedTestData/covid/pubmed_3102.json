@@ -1,0 +1,148 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "2-OMe-RNA",
+      "DSN",
+      "Electrochemistry",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36423689",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.ab.2022.114983",
+      "S0003-2697(22)00443-2"
+    ],
+    "Journal": {
+      "ISSN": "1096-0309",
+      "JournalIssue": {
+        "Volume": "661",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jan",
+          "Day": "15"
+        }
+      },
+      "Title": "Analytical biochemistry",
+      "ISOAbbreviation": "Anal Biochem"
+    },
+    "ArticleTitle": "A duplex-specific nuclease based electrochemical biosensor for the assay of SARS-CoV-2 RdRp RNA.",
+    "Pagination": {
+      "StartPage": "114983",
+      "MedlinePgn": "114983"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We present a method for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) detection based on the dual amplification effect of duplex-specific nuclease (DSN). In this scheme, we cleverly employed a 2-OMe-RNA modified DNA to prevent hairpin nucleic acid from being digested by DSN. The target RNA and 2-OMe-RNA are released when DSN cleaves just the double-stranded RNA/hairpin nucleic acid DNA. The target RNA then forms a circular reaction when it hybridizes with another hairpin nucleic acid. Simultaneously, the released target 2-OMe-RNA turns on the hairpin DNA2 on the electrode surface, and when the DSN cleaves the DNA in the hairpin DNA2/2-OMe-RNA duplex, the 2-OMe-RNA is released and hybridized with the other hairpin DNA2. The hairpin DNA2 on the electrode surface is split off after many cycles, exposing the gold electrode surface. As a consequence, there is more K<sub>4</sub>[Fe(CN)<sub>6</sub>]/K<sub>3</sub>[Fe(CN)<sub>6</sub>] redox near to the electrode surface, and the electrochemical signal increases. As a result, the change in electrochemical signal may be used to calculate the quantity of RNA that has to be measured. The protocol has good sensitivity in the detection of SARS-CoV-2: the detection limit reached 21.69 aM. This protocol provides an effective solution for the highly sensitive screening of SARS-CoV-2."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Jiangyin Hospital of Traditional Chinese Medicine (Jiangyin Hospital Affiliated to Nanjing University of Chinese Medicine), Jiangyin, Jiangsu, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Ke",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Jiangyin Fifth People's Hospital, Jiangyin, Jiangsu, China. Electronic address: 7233178@qq.com."
+          }
+        ],
+        "LastName": "Dai",
+        "ForeName": "Jing",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Anal Biochem",
+    "NlmUniqueID": "0370535",
+    "ISSNLinking": "0003-2697"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "63231-63-0",
+      "NameOfSubstance": "RNA"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Nucleic Acids"
+    },
+    {
+      "RegistryNumber": "9007-49-2",
+      "NameOfSubstance": "DNA"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acids"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA"
+    }
+  ]
+}

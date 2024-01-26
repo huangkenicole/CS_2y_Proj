@@ -1,0 +1,345 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "echocardiography",
+      "implantable cardioverter-defibrillator",
+      "remote monitoring",
+      "speckle-tracking",
+      "ventricular tachycardia"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30772229",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "10",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "02",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jcmg.2018.12.020",
+      "S1936-878X(19)30062-2"
+    ],
+    "Journal": {
+      "ISSN": "1876-7591",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1 Pt 1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Jan"
+        }
+      },
+      "Title": "JACC. Cardiovascular imaging",
+      "ISOAbbreviation": "JACC Cardiovasc Imaging"
+    },
+    "ArticleTitle": "Global Longitudinal Strain as a Predictor of First and Subsequent Arrhythmic Events in Remotely Monitored ICD Patients With Structural Heart Disease.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "9",
+      "MedlinePgn": "1-9"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This study sought to assess speckle-tracking-derived parameters as predictors of first and subsequent ventricular events in patients with structural heart disease and implantable cardioverter-defibrillators (ICD).",
+        "Left ventricular ejection fraction (LVEF), the current primary parameter of risk stratification for ventricular arrhythmias (VAs) in structural heart diseases is burdened by many limitations.",
+        "In this retrospective, observational study, all consecutive patients with structural heart disease were admitted for ICD implantation. Patients not followed by a home-monitoring system were excluded. Two-dimensional (2D) speckle-tracking analysis was used to derive global longitudinal strain (GLS), mechanical dispersion (MD), and delta contraction duration (DCD) of all patients at enrollment. Home monitoring was checked weekly to detect all VAs and ICD therapies. A recurrent event statistical approach (Prentice, Williams, and Peterson model) was applied to evaluate subsequent events after the first ones.",
+        "A total of 203 patients were consecutively enrolled and followed for a median of 2.2 years. Kaplan-Meier curves showed an increased risk of antitachycardia pacing or shock (log-rank p\u00a0= 0.003) and VAs (log-rank p\u00a0= 0.001) associated with lower quartiles of GLS. An impaired GLS was independently associated with an increased risk for the first ICD therapy (hazard ratio [HR]: 1.94; 95% confidence interval [CI]: 1.30 to 2.91; p\u00a0= 0.001) and (HR: 1.42; 95% CI: 1.01 to 1.98; p\u00a0= 0.04) for the first VA. GLS impairment was not significantly associated with an increased risk of recurrent ICD therapies or VAs. LVEF, MD, and DCD were not associated with an increased risk of first, second, and third ICD therapies or VA.",
+        "Impaired GLS is associated with an increased risk of VAs and appropriate ICD therapies in a consecutive \"real-world,\" unselected population of remotely monitored patients with structural heart disease, although it does not seem reliable in predicting further arrhythmic events after the first one. MD and DCD do not predict first or subsequent arrhythmic events in ICD patients with structural heart disease."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 American College of Cardiology Foundation. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology and Arrhythmology Clinic, Marche Polytechnic University, University Hospital Umberto I, Lancisi-Salesi, Ancona, Italy. Electronic address: f.guerra@univpm.it."
+          }
+        ],
+        "LastName": "Guerra",
+        "ForeName": "Federico",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, Guglielmo da Saliceto Hospital, Piacenza, Italy."
+          }
+        ],
+        "LastName": "Malagoli",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology and Arrhythmology Clinic, Marche Polytechnic University, University Hospital Umberto I, Lancisi-Salesi, Ancona, Italy."
+          }
+        ],
+        "LastName": "Contadini",
+        "ForeName": "Daniele",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology and Arrhythmology Clinic, Marche Polytechnic University, University Hospital Umberto I, Lancisi-Salesi, Ancona, Italy."
+          }
+        ],
+        "LastName": "Baiocco",
+        "ForeName": "Erika",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology and Arrhythmology Clinic, Marche Polytechnic University, University Hospital Umberto I, Lancisi-Salesi, Ancona, Italy."
+          }
+        ],
+        "LastName": "Menditto",
+        "ForeName": "Alessio",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology and Arrhythmology Clinic, Marche Polytechnic University, University Hospital Umberto I, Lancisi-Salesi, Ancona, Italy."
+          }
+        ],
+        "LastName": "Bonelli",
+        "ForeName": "Paolo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, Guglielmo da Saliceto Hospital, Piacenza, Italy."
+          }
+        ],
+        "LastName": "Rossi",
+        "ForeName": "Luca",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, Guglielmo da Saliceto Hospital, Piacenza, Italy."
+          }
+        ],
+        "LastName": "Sticozzi",
+        "ForeName": "Concetta",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, Guglielmo da Saliceto Hospital, Piacenza, Italy."
+          }
+        ],
+        "LastName": "Zanni",
+        "ForeName": "Alessia",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, University of North Carolina, Chapel Hill, North Carolina."
+          }
+        ],
+        "LastName": "Cai",
+        "ForeName": "Jianwen",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, University of North Carolina, Chapel Hill, North Carolina."
+          }
+        ],
+        "LastName": "Maitra",
+        "ForeName": "Poulami",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, Guglielmo da Saliceto Hospital, Piacenza, Italy."
+          }
+        ],
+        "LastName": "Villani",
+        "ForeName": "Giovanni Q",
+        "Initials": "GQ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology and Arrhythmology Clinic, Marche Polytechnic University, University Hospital Umberto I, Lancisi-Salesi, Ancona, Italy."
+          }
+        ],
+        "LastName": "Capucci",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "JACC Cardiovasc Imaging",
+    "NlmUniqueID": "101467978",
+    "ISSNLinking": "1876-7591"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "JACC Cardiovasc Imaging. 2020 Jan;13(1 Pt 1):10-11",
+      "PMID": "31005532"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "etiology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Arrhythmias, Cardiac"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Defibrillators, Implantable"
+    },
+    {
+      "QualifierName": [
+        "adverse effects",
+        "instrumentation"
+      ],
+      "DescriptorName": "Electric Countershock"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "diagnostic imaging",
+        "physiopathology",
+        "therapy"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heart Rate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Italy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Predictive Value of Tests"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prospective Studies"
+    },
+    {
+      "QualifierName": [
+        "instrumentation"
+      ],
+      "DescriptorName": "Remote Sensing Technology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Assessment"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stroke Volume"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Treatment Outcome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Ventricular Function, Left"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "21230659",
+  "DateCompleted": {
+    "Year": "2011",
+    "Month": "04",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2010",
+        "Month": "12",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1550-2376",
+      "JournalIssue": {
+        "Volume": "82",
+        "Issue": "6 Pt 1",
+        "PubDate": {
+          "Year": "2010",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+      "ISOAbbreviation": "Phys Rev E Stat Nonlin Soft Matter Phys"
+    },
+    "ArticleTitle": "Spreading of infection in a two species reaction-diffusion process in networks.",
+    "Pagination": {
+      "StartPage": "061122",
+      "MedlinePgn": "061122"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We study the dynamics of the infection of a two mobile species reaction from a single infected agent in a population of healthy agents. Historically, the main focus for infection propagation has been through spreading phenomena, where a random location of the system is initially infected and then propagates by successfully infecting its neighbor sites. Here both the infected and healthy agents are mobile, performing classical random walks. This may be a more realistic picture to such epidemiological models, such as the spread of a virus in communication networks of routers, where data travel in packets, the communication time of stations in ad hoc mobile networks, information spreading (such as rumor spreading) in social networks, etc. We monitor the density of healthy particles \u03c1(t), which we find in all cases to be an exponential function in the long-time limit in two-dimensional and three-dimensional lattices and Erd\u0151s-R\u00e9nyi (ER) and scale-free (SF) networks. We also investigate the scaling of the crossover time t(c) from short- to long-time exponential behavior, which we find to be a power law in lattices and ER networks. This crossover is shown to be absent in SF networks, where we reveal the role of the connectivity of the network in the infection process. We compare this behavior to ER networks and lattices and highlight the significance of various connectivity patterns, as well as the important differences of this process in the various underlying geometries, revealing a more complex behavior of \u03c1(t)."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, University of Thessaloniki, 54124 Thessaloniki, Greece. pkoro@grid.auth.gr"
+          }
+        ],
+        "LastName": "Korosoglou",
+        "ForeName": "Paschalis",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kittas",
+        "ForeName": "Aristotelis",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Argyrakis",
+        "ForeName": "Panos",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Phys Rev E Stat Nonlin Soft Matter Phys",
+    "NlmUniqueID": "101136452",
+    "ISSNLinking": "1539-3755"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diffusion"
+    },
+    {
+      "QualifierName": [
+        "transmission"
+      ],
+      "DescriptorName": "Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "breast cancer",
+      "field cancerization",
+      "mammography",
+      "risk assessment",
+      "texture features"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36994613",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "23"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "04",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/mp.16401"
+    ],
+    "Journal": {
+      "ISSN": "2473-4209",
+      "JournalIssue": {
+        "Volume": "50",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Medical physics",
+      "ISOAbbreviation": "Med Phys"
+    },
+    "ArticleTitle": "An in silico study on the detectability of field cancerization through parenchymal analysis of digital mammograms.",
+    "Pagination": {
+      "StartPage": "6379",
+      "EndPage": "6389",
+      "MedlinePgn": "6379-6389"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Parenchymal analysis has shown promising performance for the assessment of breast cancer risk through the characterization of the texture features of mammography images. However, the working principles behind this practice are yet not well understood. Field cancerization is a phenomenon associated with genetic and epigenetic alterations in large volumes of cells, putting them on a path of malignancy before the appearance of recognizable cancer signs. Evidence suggests that it can induce changes in the biochemical and optical properties of the\u00a0tissue.",
+        "The aim of this work was to study whether the extended genetic mutations and epigenetic changes due to field cancerization, and the impact they have on the biochemistry of breast tissues are detectable in the radiological patterns of mammography\u00a0images.",
+        "An in silico experiment was designed, which implied the development of a field cancerization model to modify the optical tissue properties of a cohort of 60 voxelized virtual breast phantoms. Mammography images from these phantoms were generated and compared with images obtained from their non-modified counterparts, that is, without field cancerization. We extracted 33 texture features from the breast area to quantitatively assess the impact of the field cancerization model. We analyzed the similarity and statistical equivalence of texture features with and without field cancerization using the t-test, Wilcoxon sign rank test and Kolmogorov-Smirnov test, and performed a discrimination test using multinomial logistic regression analysis with lasso\u00a0regularization.",
+        "With modifications of the optical tissue properties on 3.9% of the breast volume, some texture features started to fail to show equivalence (p < 0.05). At 7.9% volume modification, a high percent of texture features showed statistically significant differences (p < 0.05) and non-equivalence. At this level, multinomial logistic regression analysis of texture features showed a statistically significant performance in the discrimination of mammograms from breasts with and without field cancerization (AUC = 0.89, 95% CI: 0.75-1.00).",
+        "These results support the idea that field cancerization is a feasible underlying working principle behind the distinctive performance of parenchymal analysis in breast cancer risk\u00a0assessment."
+      ],
+      "CopyrightInformation": "\u00a9 2023 American Association of Physicists in Medicine."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Connectivity and Signal Processing group - CPS, Universidad Industrial de Santander, Bucaramanga, Colombia."
+          }
+        ],
+        "LastName": "Hern\u00e1ndez",
+        "ForeName": "Angie",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biological and Semiconductor Materials Science - CIMBIOS, Universidad Industrial de Santander, Bucaramanga, Colombia."
+          }
+        ],
+        "LastName": "Miranda",
+        "ForeName": "David A",
+        "Initials": "DA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Connectivity and Signal Processing group - CPS, Universidad Industrial de Santander, Bucaramanga, Colombia."
+          }
+        ],
+        "LastName": "Pertuz",
+        "ForeName": "Said",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "110284467139",
+        "Agency": "Departamento Administrativo de Ciencia, Tecnolog\u00eda\u00a0e\u00a0Innovaci\u00f3n",
+        "Country": ""
+      },
+      {
+        "GrantID": "2816",
+        "Agency": "Vicerrector\u00eda de Investigaci\u00f3n y Extensi\u00f3n, Universidad Industrial de Santander",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Med Phys",
+    "NlmUniqueID": "0425746",
+    "ISSNLinking": "0094-2405"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Mammography"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Breast"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Thorax"
+    }
+  ]
+}

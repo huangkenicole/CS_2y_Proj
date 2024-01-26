@@ -1,0 +1,149 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      " breast cancer ",
+      " cancer detection ",
+      " image enhancement ",
+      " image segmentation ",
+      " thermography "
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37920034",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3934/mbe.2023748"
+    ],
+    "Journal": {
+      "ISSN": "1551-0018",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Aug",
+          "Day": "23"
+        }
+      },
+      "Title": "Mathematical biosciences and engineering : MBE",
+      "ISOAbbreviation": "Math Biosci Eng"
+    },
+    "ArticleTitle": "Automated tumor segmentation in thermographic breast images.",
+    "Pagination": {
+      "StartPage": "16786",
+      "EndPage": "16806",
+      "MedlinePgn": "16786-16806"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Identifying and delineating suspicious regions in thermal breast images poses significant challenges for radiologists during the examination and interpretation of thermogram images. This paper aims to tackle concerns related to enhancing the differentiation between cancerous regions and the background to achieve uniformity in the intensity of breast cancer's (BC) existence. Furthermore, it aims to effectively segment tumors that exhibit limited contrast with the background and extract relevant features that can distinguish tumors from the surrounding tissue. A new cancer segmentation scheme comprised of two primary stages is proposed to tackle these challenges. In the first stage, an innovative image enhancement technique based on local image enhancement with a hyperbolization function is employed to significantly improve the quality and contrast of breast imagery. This technique enhances the local details and edges of the images while preserving global brightness and contrast. In the second stage, a dedicated algorithm based on an image-dependent weighting strategy is employed to accurately segment tumor regions within the given images. This algorithm assigns different weights to different pixels based on their similarity to the tumor region and uses a thresholding method to separate the tumor from the background. The proposed enhancement and segmentation methods were evaluated using the Database for Mastology Research (DMR-IR). The experimental results demonstrate remarkable performance, with an average segmentation accuracy, sensitivity, and specificity coefficient values of 97%, 80%, and 99%, respectively. These findings convincingly establish the superiority of the proposed method over state-of-the-art techniques. The obtained results demonstrate the potential of the proposed method to aid in the early detection of breast cancer through improved diagnosis and interpretation of thermogram images."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Industrial Education, Rajamangala University of Technology Phra Nakhon, 399 Samsen Rd. Vachira Phayaban, Dusit, Bangkok 10300, Thailand."
+          }
+        ],
+        "LastName": "Trongtirakul",
+        "ForeName": "Thaweesak",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate Center, City University of New York, 365 Fifth Ave., New York, NY 10016, USA."
+          }
+        ],
+        "LastName": "Agaian",
+        "ForeName": "Sos",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre de D\u00e9veloppement des Technologies Avanc\u00e9es - CDTA, PO. Box 16018, Algiers, Algeria."
+          }
+        ],
+        "LastName": "Oulefki",
+        "ForeName": "Adel",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci Eng",
+    "NlmUniqueID": "101197794",
+    "ISSNLinking": "1547-1063"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Breast"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Enhancement"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Interpretation, Computer-Assisted"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34871297",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0260438",
+      "10.1371/journal.pone.0260438"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Mutational landscape of SARS-CoV-2 genome in Turkey and impact of mutations on spike protein structure.",
+    "Pagination": {
+      "StartPage": "e0260438",
+      "MedlinePgn": "e0260438"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Coronavirus Disease 2019 (COVID-19) was declared a pandemic in March 2020 by the World Health Organization (WHO). As of May 25th, 2021 there were 2.059.941 SARS-COV2 genome sequences that have been submitted to the GISAID database, with numerous variations. Here, we aim to analyze the SARS-CoV-2 genome data submitted to the GISAID database from Turkey and to determine the variant and clade distributions by the end of May 2021, in accordance with their appearance timeline. We compared these findings to USA, Europe, and Asia data as well. We have also evaluated the effects of spike protein variations, detected in a group of genome sequences of 13 patients who applied to our clinic, by using 3D modeling algorithms. For this purpose, we analyzed 4607 SARS-CoV-2 genome sequences submitted by different lab centers from Turkey to the GISAID database between March 2020 and May 2021. Described mutations were also introduced in silico to the spike protein structure to analyze their isolated impacts on the protein structure. The most abundant clade was GR followed by G, GH, and GRY and we did not detect any V clade. The most common variant was B.1, followed by B.1.1, and the UK variant, B.1.1.7. Our results clearly show a concordance between the variant distributions, the number of cases, and the timelines of different variant accumulations in Turkey. The 3D simulations indicate an increase in the surface hydrophilicity of the reference spike protein and the detected mutations. There was less surface hydrophilicity increase in the Asp614Gly mutation, which exhibits a more compact conformation around the ACE-2 receptor binding domain region, rendering the structure in a \"down\" conformation. Our genomic findings can help to model vaccination programs and protein modeling may lead to different approaches for COVID-19 treatment strategies."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Biology, Acibadem Mehmet Ali Aydinlar University School of Medicine, Istanbul, Turkey."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Acibadem Mehmet Ali Aydinlar University Rare Diseases and Orphan Drugs Application and Research Center (ACURARE), Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Hatirnaz Ng",
+        "ForeName": "Ozden",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Biology, Acibadem Mehmet Ali Aydinlar University School of Medicine, Istanbul, Turkey."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics and Bioinformatics, Institute of Health Sciences, Acibadem Mehmet Ali Aydinlar University, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Akyoney",
+        "ForeName": "Sezer",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Biotechnology, Institute of Health Sciences, Acibadem Mehmet Ali Aydinlar University, Istanbul, Turkey."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Genetics, Acibadem Mehmet Ali Aydinlar University School of Medicine, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Sahin",
+        "ForeName": "Ilayda",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics and Bioinformatics, Institute of Health Sciences, Acibadem Mehmet Ali Aydinlar University, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Soykam",
+        "ForeName": "Huseyin Okan",
+        "Initials": "HO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Biotechnology, Institute of Health Sciences, Acibadem Mehmet Ali Aydinlar University, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Bayram Akcapinar",
+        "ForeName": "Gunseli",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Acibadem Mehmet Ali Aydinlar University Rare Diseases and Orphan Drugs Application and Research Center (ACURARE), Istanbul, Turkey."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genome Studies, Institute of Health Sciences, Acibadem Mehmet Ali Aydinlar University, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Ozdemir",
+        "ForeName": "Ozkan",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Acibadem Labcell Cellular Therapy Laboratory, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Kancagi",
+        "ForeName": "Derya Dilek",
+        "Initials": "DD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Acibadem Labcell Cellular Therapy Laboratory, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Sir Karakus",
+        "ForeName": "Gozde",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Acibadem Labcell Cellular Therapy Laboratory, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Yurtsever",
+        "ForeName": "Bulut",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases and Clinical Microbiology, Acibadem Mehmet Ali Aydinlar University School of Medicine, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Kocagoz",
+        "ForeName": "Ayse Sesin",
+        "Initials": "AS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Acibadem Labcell Cellular Therapy Laboratory, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Ovali",
+        "ForeName": "Ercument",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5319-0547"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Acibadem Mehmet Ali Aydinlar University Rare Diseases and Orphan Drugs Application and Research Center (ACURARE), Istanbul, Turkey."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Genetics, Acibadem Mehmet Ali Aydinlar University School of Medicine, Istanbul, Turkey."
+          }
+        ],
+        "LastName": "Ozbek",
+        "ForeName": "Ugur",
+        "Initials": "U"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Protein Domains"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Turkey"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

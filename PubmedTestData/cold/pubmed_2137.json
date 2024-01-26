@@ -1,0 +1,139 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "12762438",
+  "DateCompleted": {
+    "Year": "2004",
+    "Month": "01",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0006-341X",
+      "JournalIssue": {
+        "Volume": "59",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2003",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Biometrics",
+      "ISOAbbreviation": "Biometrics"
+    },
+    "ArticleTitle": "Testing the correlation for clustered categorical and censored discrete time-to-event data when covariates are measured without/with errors.",
+    "Pagination": {
+      "StartPage": "25",
+      "EndPage": "35",
+      "MedlinePgn": "25-35"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In the analysis of clustered categorical data, it is of common interest to test for the correlation within clusters, and the heterogeneity across different clusters. We address this problem by proposing a class of score tests for the null hypothesis that the variance components are zero in random effects models, for clustered nominal and ordinal categorical responses. We extend the results to accommodate clustered censored discrete time-to-event data. We next consider such tests in the situation where covariates are measured with errors. We propose using the SIMEX method to construct the score tests for the null hypothesis that the variance components are zero. Key advantages of the proposed score tests are that they can be easily implemented by fitting standard polytomous regression models and discrete failure time models, and that they are robust in the sense that no assumptions need to be made regarding the distributions of the random effects and the unobserved covariates. The asymptotic properties of the proposed tests are studied. We illustrate these tests by analyzing two data sets and evaluate their performance with simulations."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, Harvard School of Public Health, Dana Farber Cancer Institute, Boston, Massachusetts 02115, USA. yili@jimmy.harvard.edu"
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lin",
+        "ForeName": "Xihong",
+        "Initials": "X"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Biometrics",
+    "NlmUniqueID": "0370625",
+    "ISSNLinking": "0006-341X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biometry"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "physiopathology"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Interpretation, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Longitudinal Studies"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "parasitology",
+        "prevention & control"
+      ],
+      "DescriptorName": "Malaria"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Multivariate Analysis"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "metabolism"
+      ],
+      "DescriptorName": "Nasal Mucosa"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Space-Time Clustering"
+    }
+  ]
+}

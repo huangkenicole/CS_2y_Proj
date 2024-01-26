@@ -1,0 +1,404 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Benin",
+      "COVID-19",
+      "RT-PCR",
+      "SARS-CoV-2",
+      "West Africa",
+      "coronavirus"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33441410",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e00979-20",
+      "10.1128/mSphere.00979-20"
+    ],
+    "Journal": {
+      "ISSN": "2379-5042",
+      "JournalIssue": {
+        "Volume": "6",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "13"
+        }
+      },
+      "Title": "mSphere",
+      "ISOAbbreviation": "mSphere"
+    },
+    "ArticleTitle": "An Observational Laboratory-Based Assessment of SARS-CoV-2 Molecular Diagnostics in Benin, Western Africa.",
+    "Abstract": {
+      "AbstractText": [
+        "Information on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spread in Africa is limited by insufficient diagnostic capacity. Here, we assessed the coronavirus disease (COVID-19)-related diagnostic workload during the onset of the pandemic in the central laboratory of Benin, Western Africa; characterized 12 SARS-CoV-2 genomes from returning travelers; and validated the Da An RT-PCR-based diagnostic kit that is widely used across Africa. We found a 15-fold increase in the monthly laboratory workload due to COVID-19, dealt with at the cost of routine activities. Genomic surveillance showed near-simultaneous introduction of distinct SARS-CoV-2 lineages termed A.4 and B.1, including the D614G spike protein variant potentially associated with higher transmissibility from travelers from six different European and African countries during March-April 2020. We decoded the target regions within the ORF1ab and N genes of the Da An dual-target kit by MinION-based amplicon sequencing. Despite relatively high similarity between SARS-CoV-2 and endemic human coronaviruses (HCoVs) within the ORF1ab target domain, no cross-detection of high-titered cell culture supernatants of HCoVs was observed, suggesting high analytical specificity. The Da An kit was highly sensitive, detecting 3.2 to 9.0 copies of target-specific <i>in vitro</i> transcripts/reaction. Although discrepant test results were observed in low-titered clinical samples, clinical sensitivity of the Da An kit was at least comparable to that of commercial kits from affluent settings. In sum, virologic diagnostics are achievable in a resource-limited setting, but unprecedented pressure resulting from COVID-19-related diagnostics requires rapid and sustainable support of national and supranational stakeholders addressing limited laboratory capacity.<b>IMPORTANCE</b> Months after the start of the COVID-19 pandemic, case numbers from Africa are surprisingly low, potentially because the number of SARS-CoV-2 tests performed in Africa is lower than in other regions. Here, we show an overload of COVID-19-related diagnostics in the central laboratory of Benin, Western Africa, with a stagnating average number of positive samples irrespective of daily sample counts. SARS-CoV-2 genomic surveillance confirmed a high genomic diversity in Benin introduced by travelers returning from Europe and other African countries, including early circulation of the D614G spike mutation associated with potentially higher transmissibility. We validated a widely used RT-PCR kit donated by the Chinese Jack Ma Foundation and confirmed high analytical specificity and clinical sensitivity equivalent to tests used in affluent settings. Our assessment shows that although achievable in an African setting, the burden from COVID-19-related diagnostics on national reference laboratories is very high."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Sander et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, Berlin, Germany."
+          }
+        ],
+        "LastName": "Sander",
+        "ForeName": "Anna-Lena",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire des Fi\u00e8vres H\u00e9morragiques Virales du Benin, Cotonou, Benin."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Ecole Normale Sup\u00e9rieure de Natitingou, Universit\u00e9 Nationale des Sciences, Technologies, Ing\u00e9nierie et Math\u00e9matiques (UNSTIM), Natitingou, Benin."
+          }
+        ],
+        "LastName": "Yadouleton",
+        "ForeName": "Anges",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, Berlin, Germany."
+          }
+        ],
+        "LastName": "Moreira-Soto",
+        "ForeName": "Andres",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire des Fi\u00e8vres H\u00e9morragiques Virales du Benin, Cotonou, Benin."
+          }
+        ],
+        "LastName": "Tchibozo",
+        "ForeName": "Carine",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire des Fi\u00e8vres H\u00e9morragiques Virales du Benin, Cotonou, Benin."
+          }
+        ],
+        "LastName": "Hounkanrin",
+        "ForeName": "Gildas",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire des Fi\u00e8vres H\u00e9morragiques Virales du Benin, Cotonou, Benin."
+          }
+        ],
+        "LastName": "Badou",
+        "ForeName": "Yvette",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, Berlin, Germany."
+          }
+        ],
+        "LastName": "Fischer",
+        "ForeName": "Carlo",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, Berlin, Germany."
+          }
+        ],
+        "LastName": "Krause",
+        "ForeName": "Nina",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ministry of Health, Cotonou, Benin."
+          }
+        ],
+        "LastName": "Akogbeto",
+        "ForeName": "Petas",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, Berlin, Germany."
+          }
+        ],
+        "LastName": "F de Oliveira Filho",
+        "ForeName": "Edmilson",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ministry of Health, Cotonou, Benin."
+          }
+        ],
+        "LastName": "Dossou",
+        "ForeName": "Anges",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, Berlin, Germany."
+          }
+        ],
+        "LastName": "Br\u00fcnink",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, Berlin, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Centre for Infection Research (DZIF), associated partner Charit\u00e9-Universit\u00e4tsmedizin Berlin, Berlin, Germany."
+          }
+        ],
+        "LastName": "Drosten",
+        "ForeName": "Christian",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Conseil National de Lutte contre le VIH-Sida, la Tuberculose, le Paludisme, les IST et les Epid\u00e9mies, Cotonou, Benin."
+          }
+        ],
+        "LastName": "A\u00efssi",
+        "ForeName": "Melchior A Jo\u00ebl",
+        "Initials": "MAJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "World Health Organization, Regional Office for Africa, Health Emergencies Programme, Brazzaville, Congo."
+          }
+        ],
+        "LastName": "Harouna Djingarey",
+        "ForeName": "Mamoudou",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Ministry of Health, Cotonou, Benin."
+          }
+        ],
+        "LastName": "Hounkpatin",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Deutsche Gesellschaft f\u00fcr Internationale Zusammenarbeit (GIZ) GmbH, Bonn, Germany."
+          }
+        ],
+        "LastName": "Nagel",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3509-0232"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9-Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health, Berlin, Germany felix.drexler@charite.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Centre for Infection Research (DZIF), associated partner Charit\u00e9-Universit\u00e4tsmedizin Berlin, Berlin, Germany."
+          }
+        ],
+        "LastName": "Drexler",
+        "ForeName": "Jan Felix",
+        "Initials": "JF"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "001",
+        "Acronym": "WHO_",
+        "Agency": "World Health Organization",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "mSphere",
+    "NlmUniqueID": "101674533",
+    "ISSNLinking": "2379-5042"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Benin"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Developing Countries"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "supply & distribution"
+      ],
+      "DescriptorName": "Health Resources"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Health Services Accessibility"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Travel-Related Illness"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Workload"
+    }
+  ]
+}

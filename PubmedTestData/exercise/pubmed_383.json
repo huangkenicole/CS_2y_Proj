@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "challenge point",
+      "desirable difficulty",
+      "machine learning prediction",
+      "motor performance",
+      "physiological signals",
+      "rehabilitation robotics",
+      "user engagement"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25945816",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "10",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "12",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "05",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1080/00222895.2015.1035430"
+    ],
+    "Journal": {
+      "ISSN": "1940-1027",
+      "JournalIssue": {
+        "Volume": "48",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2016"
+        }
+      },
+      "Title": "Journal of motor behavior",
+      "ISOAbbreviation": "J Mot Behav"
+    },
+    "ArticleTitle": "Evaluating the User Experience of Exercising Reaching Motions With a Robot That Predicts Desired Movement Difficulty.",
+    "Pagination": {
+      "StartPage": "31",
+      "EndPage": "46",
+      "MedlinePgn": "31-46"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The notion of an optimal difficulty during practice has been articulated in many areas of cognitive psychology: flow theory, the challenge point framework, and desirable difficulties. Delivering exercises at a participant's desired difficulty has the potential to improve both motor learning and users' engagement in therapy. Motivation and engagement are among the contributing factors to the success of exercise programs. The authors previously demonstrated that error amplification can be used to introduce levels of challenge into a robotic reaching task, and that machine-learning algorithms can dynamically adjust difficulty to the desired level with 85% accuracy. Building on these findings, we present the results of a proof-of-concept study investigating the impacts of practicing under desirable difficulty conditions. A control condition with a predefined random order for difficulty levels was deemed more suitable for this study (compared to constant or continuously increasing difficulty). By practicing the task at their desirable difficulties, participants in the experimental group perceived their performance at a significantly higher level and reported lower required effort to complete the task, in comparison to a control group. Moreover, based on self-reports, participants in the experimental group were willing, on average, to continue the training session for 4.6 more training blocks (\u223c45\u00a0min) compared to the control group's average. This study demonstrates the efficiency of delivering the exercises at the user's desired difficulty level to improve the user's engagement in exercise tasks. Future work will focus on clinical feasibility of this approach in increasing stroke survivors' engagement in their therapy programs."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "a Biomedical Engineering Graduate Program , University of British Columbia , Vancouver , Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "b Mechanical Engineering Department , University of British Columbia , Vancouver , Canada."
+          }
+        ],
+        "LastName": "Shirzad",
+        "ForeName": "Navid",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "b Mechanical Engineering Department , University of British Columbia , Vancouver , Canada."
+          }
+        ],
+        "LastName": "Van der Loos",
+        "ForeName": "H F Machiel",
+        "Initials": "HF"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Mot Behav",
+    "NlmUniqueID": "0236512",
+    "ISSNLinking": "0022-2895"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Motivation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Movement"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Exertion"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Robotics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ]
+}

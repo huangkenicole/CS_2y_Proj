@@ -1,0 +1,153 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Emotion regulation",
+      "High dimensionality",
+      "Multivariate binary time series",
+      "Switching",
+      "Transition matrix"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36002629",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "08",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3758/s13428-022-01942-0"
+    ],
+    "Journal": {
+      "ISSN": "1554-3528",
+      "JournalIssue": {
+        "Volume": "55",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Behavior research methods",
+      "ISOAbbreviation": "Behav Res Methods"
+    },
+    "ArticleTitle": "Stability and spread: A novel method for quantifying transitions within multivariate binary time series data.",
+    "Pagination": {
+      "StartPage": "2960",
+      "EndPage": "2978",
+      "MedlinePgn": "2960-2978"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We present a novel method for quantifying transitions within multivariate binary time series data, using a sliding series of transition matrices, to derive metrics of stability and spread. We define stability as the trace of a transition matrix divided by the sum of all observed elements within that matrix. We define spread as the number of all non-zero cells in a transition matrix divided by the number of all possible cells in that matrix. We developed this method to allow investigation into high-dimensional, sparse data matrices for which existing binary time series methods are not designed. Results from 1728 simulations varying six parameters suggest that unique information is captured by both metrics, and that stability and spread values have a moderate inverse association. Further, simulations suggest that this method can be reliably applied to time series with as few as nine observations per person, where at least five consecutive observations construct each overlapping transition matrix, and at least four time series variables compose each transition matrix. A pre-registered application of this method using 4 weeks of ecological momentary assessment data (N = 110) showed that stability and spread in the use of 20 emotion regulation strategies predict next timepoint affect after accounting for affect and anxiety's auto-regressive and cross-lagged effects. Stability, but not spread, also predicted next timepoint anxiety. This method shows promise for meaningfully quantifying two unique aspects of switching behavior in multivariate binary time series data."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Psychonomic Society, Inc."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4371-2740"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Virginia, P.O. Box 400400, Charlottesville, VA, 22904, USA. ked4fd@virginia.edu."
+          }
+        ],
+        "LastName": "Daniel",
+        "ForeName": "Katharine E",
+        "Initials": "KE"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7504-9560"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Virginia, P.O. Box 400400, Charlottesville, VA, 22904, USA."
+          }
+        ],
+        "LastName": "Moulder",
+        "ForeName": "Robert G",
+        "Initials": "RG"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9031-9343"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Virginia, P.O. Box 400400, Charlottesville, VA, 22904, USA."
+          }
+        ],
+        "LastName": "Teachman",
+        "ForeName": "Bethany A",
+        "Initials": "BA"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2117-8548"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, University of Virginia, P.O. Box 400400, Charlottesville, VA, 22904, USA."
+          }
+        ],
+        "LastName": "Boker",
+        "ForeName": "Steven M",
+        "Initials": "SM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Behav Res Methods",
+    "NlmUniqueID": "101244316",
+    "ISSNLinking": "1554-351X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Anxiety"
+    }
+  ]
+}

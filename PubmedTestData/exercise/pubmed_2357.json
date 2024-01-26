@@ -1,0 +1,177 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "AIoT",
+      "ANFIS",
+      "HHT",
+      "SVM",
+      "lower-limb rehabilitation exercise",
+      "machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34300501",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4761",
+      "10.3390/s21144761"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "14",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "12"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "AIoT-Enabled Rehabilitation Recognition System-Exemplified by Hybrid Lower-Limb Exercises.",
+    "Abstract": {
+      "AbstractText": [
+        "Ubiquitous health management (UHM) is vital in the aging society. The UHM services with artificial intelligence of things (AIoT) can assist home-isolated healthcare in tracking rehabilitation exercises for clinical diagnosis. This study combined a personalized rehabilitation recognition (PRR) system with the AIoT for the UHM of lower-limb rehabilitation exercises. The three-tier infrastructure integrated the recognition pattern bank with the sensor, network, and application layers. The wearable sensor collected and uploaded the rehab data to the network layer for AI-based modeling, including the data preprocessing, featuring, machine learning (ML), and evaluation, to build the recognition pattern. We employed the SVM and ANFIS methods in the ML process to evaluate 63 features in the time and frequency domains for multiclass recognition. The Hilbert-Huang transform (HHT) process was applied to derive the frequency-domain features. As a result, the patterns combining the time- and frequency-domain features, such as relative motion angles in y- and z-axis, and the HHT-based frequency and energy, could achieve successful recognition. Finally, the suggestive patterns stored in the AIoT-PRR system enabled the ML models for intelligent computation. The PRR system can incorporate the proposed modeling with the UHM service to track the rehabilitation program in the future."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Public Health, China Medical University, Taichung 406040, Taiwan."
+          }
+        ],
+        "LastName": "Lai",
+        "ForeName": "Yi-Chun",
+        "Initials": "YC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3611-5067"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical Engineering, Yuan Ze University, Chung-Li 32003, Taiwan."
+          }
+        ],
+        "LastName": "Kan",
+        "ForeName": "Yao-Chiang",
+        "Initials": "YC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Public Health, China Medical University, Taichung 406040, Taiwan."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Yu-Chiang",
+        "Initials": "YC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department and Institute of Health Service Administrations, China Medical University, Taichung 406040, Taiwan."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Hsueh-Chun",
+        "Initials": "HC"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "MOST 106-2119-M-039-002",
+        "Agency": "Ministry of Science and Technology, Taiwan",
+        "Country": ""
+      },
+      {
+        "GrantID": "MOST 109-2121-M-039-001",
+        "Agency": "Ministry of Science and Technology, Taiwan",
+        "Country": ""
+      },
+      {
+        "GrantID": "MOST 109-2813-C-039-018-E",
+        "Agency": "Ministry of Science and Technology, Taiwan",
+        "Country": ""
+      },
+      {
+        "GrantID": "CMU108-S-20",
+        "Agency": "China Medical University, Taiwan",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Motion"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

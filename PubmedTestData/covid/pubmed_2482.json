@@ -1,0 +1,345 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Europe",
+      "SARS-CoV-2",
+      "Spain",
+      "phylodynamics",
+      "phylogeography"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33127745",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "12"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e01583-20",
+      "10.1128/JVI.01583-20"
+    ],
+    "Journal": {
+      "ISSN": "1098-5514",
+      "JournalIssue": {
+        "Volume": "95",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "13"
+        }
+      },
+      "Title": "Journal of virology",
+      "ISOAbbreviation": "J Virol"
+    },
+    "ArticleTitle": "A Founder Effect Led Early SARS-CoV-2 Transmission in Spain.",
+    "Abstract": {
+      "AbstractText": [
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) whole-genome analysis has identified five large clades worldwide which emerged in 2019 (19A and 19B) and in 2020 (20A, 20B, and 20C). This study aimed to analyze the diffusion of SARS-CoV-2 in Spain using maximum-likelihood phylogenetic and Bayesian phylodynamic analyses. The most recent common ancestor (MRCA) of the SARS-CoV-2 pandemic was estimated to have emerged in Wuhan, China, around 24 November 2019. Phylogenetic analyses of the first 12,511 SARS-CoV-2 whole-genome sequences obtained worldwide, including 290 from 11 different regions of Spain, revealed 62 independent introductions of the virus in the country. Most sequences from Spain were distributed in clades characterized by a D614G substitution in the S gene (20A, 20B, and 20C) and an L84S substitution in ORF8 (19B) with 163 and 118 sequences, respectively, with the remaining sequences branching in 19A. A total of 110 (38%) sequences from Spain grouped in four different monophyletic clusters of clade 20A (20A-Sp1 and 20A-Sp2) and 19B clade (19B-Sp1 and 19B-Sp2) along with sequences from 29 countries worldwide. The MRCAs of clusters 19A-Sp1, 20A-Sp1, 19A-Sp2, and 20A-Sp2 were estimated to have occurred in Spain around 21 and 29 January and 6 and 17 February 2020, respectively. The prevalence of clade 19B in Spain (40%) was by far higher than in any other European country during the first weeks of the epidemic, probably as a result of a founder effect. However, this variant was replaced by G614-bearing viruses in April. <i>In vitro</i> assays showed an enhanced infectivity of pseudotyped virions displaying the G614 substitution compared with those having D614, suggesting a fitness advantage of D614G.<b>IMPORTANCE</b> Multiple SARS-CoV-2 introductions have been detected in Spain, and at least four resulted in the emergence of locally transmitted clusters that originated not later than mid-February, with further dissemination to many other countries around the world, and a few weeks before the explosion of COVID-19 cases detected in Spain during the first week of March. The majority of the earliest variants detected in Spain branched in the clade 19B (D614 viruses), which was the most prevalent clade during the first weeks of March, pointing to a founder effect. However, from mid-March to June 2020, G614-bearing viruses (clades 20A, 20B, and 20C) overcame D614 variants in Spain, probably as a consequence of an evolutionary advantage of this substitution in the spike protein. A higher infectivity of G614-bearing viruses than D614 variants was detected, suggesting that this substitution in SARS-CoV-2 spike protein could be behind the variant shift observed in Spain."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 D\u00edez-Fuertes et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2413-9229"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AIDS Immunopathology Unit, National Center of Microbiology, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain frdiez@clinic.cat icasas@isciii.es."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "IDIBAPS-Hospital Clinic de Barcelona, Barcelona, Spain."
+          }
+        ],
+        "LastName": "D\u00edez-Fuertes",
+        "ForeName": "Francisco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Respiratory Virus and Influenza Unit, National Center of Microbiology, National Influenza Center, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Iglesias-Caballero",
+        "ForeName": "Mar\u00eda",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AIDS Immunopathology Unit, National Center of Microbiology, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Garc\u00eda-P\u00e9rez",
+        "ForeName": "Javier",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Unit, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Monz\u00f3n",
+        "ForeName": "Sara",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Unit, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Jim\u00e9nez",
+        "ForeName": "Pilar",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Unit, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Varona",
+        "ForeName": "Sarai",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Unit, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Cuesta",
+        "ForeName": "Isabel",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Unit, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Zaballos",
+        "ForeName": "\u00c1ngel",
+        "Initials": "\u00c1"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Unit, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Jim\u00e9nez",
+        "ForeName": "Mercedes",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AIDS Immunopathology Unit, National Center of Microbiology, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Checa",
+        "ForeName": "Laura",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Respiratory Virus and Influenza Unit, National Center of Microbiology, National Influenza Center, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Pozo",
+        "ForeName": "Francisco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AIDS Immunopathology Unit, National Center of Microbiology, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "P\u00e9rez-Olmeda",
+        "ForeName": "Mayte",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "HIV Biology and Variability Unit, National Center of Microbiology, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          }
+        ],
+        "LastName": "Thomson",
+        "ForeName": "Michael M",
+        "Initials": "MM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "AIDS Immunopathology Unit, National Center of Microbiology, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "IDIBAPS-Hospital Clinic de Barcelona, Barcelona, Spain."
+          }
+        ],
+        "LastName": "Alcam\u00ed",
+        "ForeName": "Jos\u00e9",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1840-1198"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Respiratory Virus and Influenza Unit, National Center of Microbiology, National Influenza Center, Instituto de Salud Carlos III, Majadahonda, Madrid, Spain frdiez@clinic.cat icasas@isciii.es."
+          }
+        ],
+        "LastName": "Casas",
+        "ForeName": "Inmaculada",
+        "Initials": "I"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Virol",
+    "NlmUniqueID": "0113724",
+    "ISSNLinking": "0022-538X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Founder Effect"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Fitness"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Variation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Spain"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ]
+}

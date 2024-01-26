@@ -1,0 +1,290 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Algorithm",
+      "Genomic",
+      "H\u00fcrthle",
+      "Machine learning",
+      "Personalized healthcare",
+      "RNA-seq",
+      "Thyroid cancer"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30952205",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "04",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "27",
+      "10.1186/s12918-019-0693-z"
+    ],
+    "Journal": {
+      "ISSN": "1752-0509",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "Suppl 2",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Apr",
+          "Day": "05"
+        }
+      },
+      "Title": "BMC systems biology",
+      "ISOAbbreviation": "BMC Syst Biol"
+    },
+    "ArticleTitle": "Identification of H\u00fcrthle cell cancers: solving a clinical challenge with genomic sequencing and a trio of machine learning algorithms.",
+    "Pagination": {
+      "StartPage": "27",
+      "MedlinePgn": "27"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Identification of H\u00fcrthle cell cancers by non-operative fine-needle aspiration biopsy (FNAB) of thyroid nodules is challenging. Resultingly, non-cancerous H\u00fcrthle lesions were conventionally distinguished from H\u00fcrthle cell cancers by histopathological examination of tissue following surgical resection. Reliance on histopathological evaluation requires patients to undergo surgery to obtain a diagnosis despite most being non-cancerous. It is highly desirable to avoid surgery and to provide accurate classification of benignity versus malignancy from FNAB preoperatively. In our first-generation algorithm, Gene Expression Classifier (GEC), we achieved this goal by using machine learning (ML) on gene expression features. The classifier is sensitive, but not specific due in part to the presence of non-neoplastic benign H\u00fcrthle cells in many FNAB.",
+        "We sought to overcome this low-specificity limitation by expanding the feature set for ML using next-generation whole transcriptome RNA sequencing and called the improved algorithm the Genomic Sequencing Classifier (GSC). The H\u00fcrthle identification leverages mitochondrial expression and we developed novel feature extraction mechanisms to measure chromosomal and genomic level loss-of-heterozygosity (LOH) for the algorithm. Additionally, we developed a multi-layered system of cascading classifiers to sequentially triage H\u00fcrthle cell-containing FNAB, including: 1. presence of H\u00fcrthle cells, 2. presence of neoplastic H\u00fcrthle cells, and 3. presence of benign H\u00fcrthle cells. The final H\u00fcrthle cell Index utilizes 1048 nuclear and mitochondrial genes; and H\u00fcrthle cell Neoplasm Index leverages LOH features as well as 2041 genes. Both indices are Support Vector Machine (SVM) based. The third classifier, the GSC Benign/Suspicious classifier, utilizes 1115 core genes and is an ensemble classifier incorporating 12 individual models.",
+        "The accurate algorithmic depiction of this complex biological system among H\u00fcrthle subtypes results in a dramatic improvement of classification performance; specificity among H\u00fcrthle cell neoplasms increases from 11.8% with the GEC to 58.8% with the GSC, while maintaining the same sensitivity of 89%."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Research & Development, Veracyte, Inc, 6000 Shoreline Court, Suite 300, South San Francisco, CA, 94080, USA."
+          }
+        ],
+        "LastName": "Hao",
+        "ForeName": "Yangyang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, Section of Endocrine Surgery, University of California San Francisco, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Duh",
+        "ForeName": "Quan-Yang",
+        "Initials": "QY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Affairs, Veracyte, Inc, South San Francisco, USA."
+          }
+        ],
+        "LastName": "Kloos",
+        "ForeName": "Richard T",
+        "Initials": "RT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Research & Development, Veracyte, Inc, 6000 Shoreline Court, Suite 300, South San Francisco, CA, 94080, USA."
+          }
+        ],
+        "LastName": "Babiarz",
+        "ForeName": "Joshua",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Memorial Center for Integrative Endocrine Surgery, Hollywood, FL, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Memorial Center for Integrative Endocrine Surgery, Weston, FL, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Memorial Center for Integrative Endocrine Surgery, Boca Raton, FL, USA."
+          }
+        ],
+        "LastName": "Harrell",
+        "ForeName": "R Mack",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Thyroid Cytopathology Partners, Austin, TX, USA."
+          }
+        ],
+        "LastName": "Traweek",
+        "ForeName": "S Thomas",
+        "Initials": "ST"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Research & Development, Veracyte, Inc, 6000 Shoreline Court, Suite 300, South San Francisco, CA, 94080, USA."
+          }
+        ],
+        "LastName": "Kim",
+        "ForeName": "Su Yeon",
+        "Initials": "SY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Research & Development, Veracyte, Inc, 6000 Shoreline Court, Suite 300, South San Francisco, CA, 94080, USA."
+          }
+        ],
+        "LastName": "Fedorowicz",
+        "ForeName": "Grazyna",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Research & Development, Veracyte, Inc, 6000 Shoreline Court, Suite 300, South San Francisco, CA, 94080, USA."
+          }
+        ],
+        "LastName": "Walsh",
+        "ForeName": "P Sean",
+        "Initials": "PS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Head and Neck Pathology Division, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Sadow",
+        "ForeName": "Peter M",
+        "Initials": "PM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Research & Development, Veracyte, Inc, 6000 Shoreline Court, Suite 300, South San Francisco, CA, 94080, USA."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Jing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Research & Development, Veracyte, Inc, 6000 Shoreline Court, Suite 300, South San Francisco, CA, 94080, USA. giulia@veracyte.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Affairs, Veracyte, Inc, South San Francisco, USA. giulia@veracyte.com."
+          }
+        ],
+        "LastName": "Kennedy",
+        "ForeName": "Giulia C",
+        "Initials": "GC"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Syst Biol",
+    "NlmUniqueID": "101301827",
+    "ISSNLinking": "1752-0509"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heterozygote"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Mitochondria"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Oxyphil Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis"
+    }
+  ],
+  "CoiStatement": "ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Ethics approval was obtained prior to the initiation of the studies described in this manuscript. Study samples were collected according to protocols that were reviewed and approved by study site institutional review boards (IRB) or central IRBs (Liberty IRB, DeLand, Florida; now Chesapeake IRB, and Copernicus Group Independent Review Board, Cary, North Carolina). CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: YH, RTK, JB, SYK, GF, PSW, JH, and GCK are employed by Veracyte, Inc. PUBLISHER\u2019S NOTE: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+}

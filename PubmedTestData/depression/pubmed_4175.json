@@ -1,0 +1,146 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Atypical",
+      "Classification",
+      "Depression",
+      "Melancholia"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38037069",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "11",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "897",
+      "10.1186/s12888-023-05377-5"
+    ],
+    "Journal": {
+      "ISSN": "1471-244X",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Nov",
+          "Day": "30"
+        }
+      },
+      "Title": "BMC psychiatry",
+      "ISOAbbreviation": "BMC Psychiatry"
+    },
+    "ArticleTitle": "Methods for quantifying the heterogeneity of psychopathology.",
+    "Pagination": {
+      "StartPage": "897",
+      "MedlinePgn": "897"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Specifiers for a major depressive disorder (MDE) are supposed to reduce diagnostic heterogeneity. However, recent literature challenges the idea that the atypical and melancholic specifiers identify more homogenous or coherent subgroups. We introduce the usage of distance metrics to characterize symptom\u00a0heterogeneity. We attempt to replicate prior findings and explore whether symptom heterogeneity is reduced using specifier subgroups.",
+        "We used data derived from the National Epidemiological Survey on Alcohol and Related Conditions (NESARC Wave I; N = 5,749) and the Sequenced Treatment Alternatives to Relieve Depression study (STAR*D; N = 2,498). We computed Hamming and Manhattan distances from study participants' unique symptom profiles. Distances were standardized from 0-1 and compared by their within- and between-group similarities to their non-specifier counterparts for the melancholic and atypical specifiers.",
+        "There was no evidence of statistically significant differences in heterogeneity for specifier (i.e., melancholic or atypical) vs. non-specifier designations (i.e., non-melancholic vs. non-atypical).",
+        "Replicating prior work, melancholic and atypical depression specifiers appear to have limited utility in reducing heterogeneity. The current study does not support the claim that specifiers create more coherent subgroups as operationalized by similarity in the number of symptoms and their severity. Distance metrics are useful for quantifying symptom heterogeneity."
+      ],
+      "CopyrightInformation": "\u00a9 2023. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychological and Brain Sciences, Indiana University, Bloomington, IN 47405, USA. bussj@iu.edu."
+          }
+        ],
+        "LastName": "Buss",
+        "ForeName": "John F",
+        "Initials": "JF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, Vanderbilt University, Nashville, TN 37420, USA."
+          }
+        ],
+        "LastName": "Watts",
+        "ForeName": "Ashley L",
+        "Initials": "AL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychological and Brain Sciences, Indiana University, Bloomington, IN 47405, USA."
+          }
+        ],
+        "LastName": "Lorenzo-Luaces",
+        "ForeName": "Lorenzo",
+        "Initials": "L"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Psychiatry",
+    "NlmUniqueID": "100968559",
+    "ISSNLinking": "1471-244X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Psychopathology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Diagnostic and Statistical Manual of Mental Disorders"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

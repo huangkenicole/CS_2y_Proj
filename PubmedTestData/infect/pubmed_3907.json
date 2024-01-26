@@ -1,0 +1,129 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31889086",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "11",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "12",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "20309",
+      "10.1038/s41598-019-56616-3"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "9",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Dec",
+          "Day": "30"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Localized spatial distributions of disease phases yield long-term persistence of infection.",
+    "Pagination": {
+      "StartPage": "20309",
+      "MedlinePgn": "20309"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We explore the emergence of persistent infection in two patches where the phases of disease progression of the individuals is given by the well known SIRS cycle modelling non-fatal communicable diseases. We find that a population structured into two patches with significantly different initial states, yields persistent infection, though interestingly, the infection does not persist in a homogeneous population having the same average initial composition as the average of the initial states of the two patches. This holds true for inter-patch links ranging from a single connection to connections across the entire inter-patch boundary. So a population with spatially uniform distribution of disease phases leads to disease extinction, while a population spatially separated into distinct patches aids the long-term persistence of disease. After transience, even very dissimilar patches settle down to the same average infected sub-population size. However the patterns of disease spreading in the patches remain discernibly dissimilar, with the evolution of the total number of infecteds in the two patches displaying distinct periodic wave forms, having markedly different amplitudes, though identical frequencies. We quantify the persistent infection through the size of the asymptotic infected set. We find that the number of inter-patch links does not affect the persistence in any significant manner. The most important feature determining persistence of infection is the disparity in the initial states of the patches, and it is clearly evident that persistence increases with increasing difference in the constitution of the patches. So we conclude that populations with very non-uniform distributions, where the individuals in different phases of disease are strongly compartmentalized spatially, lead to sustained persistence of disease in the entire population."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Indian Institute of Science Education and Research Mohali, Knowledge City, SAS Nagar, Sector 81, Manauli, PO 140 306, Punjab, India."
+          }
+        ],
+        "LastName": "Moitra",
+        "ForeName": "Promit",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Indian Institute of Science Education and Research Mohali, Knowledge City, SAS Nagar, Sector 81, Manauli, PO 140 306, Punjab, India. sudeshna@iisermohali.ac.in."
+          }
+        ],
+        "LastName": "Sinha",
+        "ForeName": "Sudeshna",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology",
+        "transmission"
+      ],
+      "DescriptorName": "Communicable Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spatial Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spatio-Temporal Analysis"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

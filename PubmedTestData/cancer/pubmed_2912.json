@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31490960",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "03",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "03",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "09",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0221476",
+      "10.1371/journal.pone.0221476"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2019"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Classification of early and late stage liver hepatocellular carcinoma patients from their genomics and epigenomics profiles.",
+    "Pagination": {
+      "StartPage": "e0221476",
+      "MedlinePgn": "e0221476"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Liver Hepatocellular Carcinoma (LIHC) is one of the major cancers worldwide, responsible for millions of premature deaths every year. Prediction of clinical staging is vital to implement optimal therapeutic strategy and prognostic prediction in cancer patients. However, to date, no method has been developed for predicting the stage of LIHC from the genomic profile of samples.",
+        "The Cancer Genome Atlas (TCGA) dataset of 173 early stage (stage-I), 177 late stage (stage-II, Stage-III and stage-IV) and 50 adjacent normal tissue samples for 60,483 RNA transcripts and 485,577 methylation CpG sites, was extensively analyzed to identify the key transcriptomic expression and methylation-based features using different feature selection techniques. Further, different classification models were developed based on selected key features to categorize different classes of samples implementing different machine learning algorithms.",
+        "In the current study, in silico models have been developed for classifying LIHC patients in the early vs. late stage and cancerous vs. normal samples using RNA expression and DNA methylation data. TCGA datasets were extensively analyzed to identify differentially expressed RNA transcripts and methylated CpG sites that can discriminate early vs. late stages and cancer vs. normal samples of LIHC with high precision. Naive Bayes model developed using 51 features that combine 21 CpG methylation sites and 30 RNA transcripts achieved maximum MCC (Matthew's correlation coefficient) 0.58 with an accuracy of 78.87% on the validation dataset in discrimination of early and late stage. Additionally, the prediction models developed based on 5 RNA transcripts and 5 CpG sites classify LIHC and normal samples with an accuracy of 96-98% and AUC (Area Under the Receiver Operating Characteristic curve) 0.99. Besides, multiclass models also developed for classifying samples in the normal, early and late stage of cancer and achieved an accuracy of 76.54% and AUC of 0.86.",
+        "Our study reveals stage prediction of LIHC samples with high accuracy based on the genomics and epigenomics profiling is a challenging task in comparison to the classification of cancerous and normal samples. Comprehensive analysis, differentially expressed RNA transcripts, methylated CpG sites in LIHC samples and prediction models are available from CancerLSP (http://webs.iiitd.edu.in/raghava/cancerlsp/)."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Centre, CSIR-Institute of Microbial Technology, Chandigarh, India."
+          }
+        ],
+        "LastName": "Kaur",
+        "ForeName": "Harpreet",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, Indraprastha Institute of Information Technology, New Delhi, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Systems Biology and Bioinformatics, Panjab University, Chandigarh, India."
+          }
+        ],
+        "LastName": "Bhalla",
+        "ForeName": "Sherry",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8902-2876"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computational Biology, Indraprastha Institute of Information Technology, New Delhi, India."
+          }
+        ],
+        "LastName": "Raghava",
+        "ForeName": "Gajendra P S",
+        "Initials": "GPS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Messenger"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Carcinoma, Hepatocellular"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "CpG Islands"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Methylation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epigenomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Liver Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Neoplasm Staging"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Messenger"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing financial and non-financial interests."
+}

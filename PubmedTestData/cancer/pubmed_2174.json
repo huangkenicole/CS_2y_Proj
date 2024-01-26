@@ -1,0 +1,149 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Equilibrium point",
+      "Evolutionary game theory",
+      "Tumor suppressor gene"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28274855",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "03",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "03",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.mbs.2017.03.001",
+      "S0025-5564(17)30122-0"
+    ],
+    "Journal": {
+      "ISSN": "1879-3134",
+      "JournalIssue": {
+        "Volume": "288",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Mathematical biosciences",
+      "ISOAbbreviation": "Math Biosci"
+    },
+    "ArticleTitle": "Inactivation of tumor suppressor genes and cancer therapy: An evolutionary game theory approach.",
+    "Pagination": {
+      "StartPage": "84",
+      "EndPage": "93",
+      "MedlinePgn": "84-93"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Inactivation of alleles in tumor suppressor genes (TSG) is one of the important issues resulting in evolution of cancerous cells. In this paper, the evolution of healthy, one and two missed allele cells is modeled using the concept of evolutionary game theory and replicator dynamics. The proposed model also takes into account the interaction rates of the cells as designing parameters of the system. Different combinations of the equilibrium points of the parameterized nonlinear system is studied and categorized into some cases. In each case, the interaction rates' values are suggested in a way that the equilibrium points of the replicator dynamics are located on an appropriate region of the state space. Based on the suggested interaction rates, it is proved that the system doesn't have any undesirable interior equilibrium point as well. Therefore, the system will converge to the desirable region, where there is a scanty level of cancerous cells. In addition, the proposed conditions for interaction rates guarantee that, when a trajectory of the system reaches the boundaries, then it will stay there forever which is a desirable property since the equilibrium points have been already located on the boundaries, appropriately. The simulation results show the effectiveness of the suggestions in the elimination of the cancerous cells in different scenarios."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2017 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Heydar Khadem and Hamed Kebriaei are with School of Electrical and Computer Engineering, College of Engineering, University of Tehran, Tehran, Iran. Electronic address: h.khadem@ut.ac.ir."
+          }
+        ],
+        "LastName": "Khadem",
+        "ForeName": "Heydar",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hamed Kebriaei is also with School of Computer Sciences, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran. Electronic address: kebriaei@ut.ac.ir."
+          }
+        ],
+        "LastName": "Kebriaei",
+        "ForeName": "Hamed",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zahra Veisi is with Department of Electrical Engineering, Razi University, Kermanshah, Iran. Electronic address: veisi.zahra@stu.razi.ac.ir."
+          }
+        ],
+        "LastName": "Veisi",
+        "ForeName": "Zahra",
+        "Initials": "Z"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci",
+    "NlmUniqueID": "0103146",
+    "ISSNLinking": "0025-5564"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Alleles"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biological Evolution"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Game Theory"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genes, Tumor Suppressor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology",
+        "therapy"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nonlinear Dynamics"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19116856",
+  "DateCompleted": {
+    "Year": "2009",
+    "Month": "08",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1080/03091900802037502"
+    ],
+    "Journal": {
+      "ISSN": "1464-522X",
+      "JournalIssue": {
+        "Volume": "33",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2009"
+        }
+      },
+      "Title": "Journal of medical engineering & technology",
+      "ISOAbbreviation": "J Med Eng Technol"
+    },
+    "ArticleTitle": "A new tool for the management of infection in patients with febrile neutropenia.",
+    "Pagination": {
+      "StartPage": "72",
+      "EndPage": "78",
+      "MedlinePgn": "72-8"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We describe a novel analytical technique for determining instantaneous trends in body temperature data, which may assist clinicians in optimizing antimicrobial therapy in patients with febrile neutropenia. The paper presents a new algorithm, based on a modified second backward difference (M2BD) matrix filter for monitoring temperature response to anti-microbial chemotherapies in neutropenic patients and develops techniques for extracting accurate, instantaneous trend data from clinical time series data. Such an algorithm is needed because it is difficult to assess patient wellbeing in those who are neutropenic. Temperature data, a key indicator of response to antimicrobial therapy, are typically very noisy, with many fluctuations, making it very difficult to identify underlying trends in real time. Clinicians are therefore forced to make important decisions concerning drug therapy on imperfect data.",
+        "In order to determine the underlying temperature trend, analysis of synthetic time series data (with a known underlying trend) was undertaken using both the CUSUM technique and the M2BD matrix filter. The CUSUM analysis was undertaken using four reference temperatures, 37.5 degrees C, 38.0 degrees C, 38.5 degrees C and 39.0 degrees C. A validation study was also undertaken using four sets of noisy synthetic temperature data to evaluate the performance of the M2BD filter. The M2BD filter was then used to analyse anonymized serial temperature data from a neutropenic patient undergoing chemotherapy.",
+        "For all four reference temperatures the CUSUM analysis failed to predict the underlying temperature trend. By comparison, the M2BD filter extracted, in real time, the underlying temperature trend with great accuracy and no time lag. In the validation study, the M2BD filter accurately extracted the underlying temperature trend for all four of the synthetic datasets. With regard to the anonymized patient data, the M2BD filter again performed well, accurately determining the underlying trend.",
+        "The study demonstrated that the M2BD filter is capable of instantaneously extracting underlying trends from clinical time series data. This finding suggests that this algorithm has great potential as a tool for assisting clinicians in the management of patients with febrile neutropenia."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Bradford Infection Group, School of Engineering, Design and Technology, University of Bradford, Bradford, UK."
+          }
+        ],
+        "LastName": "Shepherd",
+        "ForeName": "S J",
+        "Initials": "SJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Beggs",
+        "ForeName": "C B",
+        "Initials": "CB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kerr",
+        "ForeName": "K G",
+        "Initials": "KG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Newton",
+        "ForeName": "L J",
+        "Initials": "LJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Med Eng Technol",
+    "NlmUniqueID": "7702125",
+    "ISSNLinking": "0309-1902"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Anti-Infective Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Anti-Infective Agents"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Body Temperature"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "diagnosis"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "drug therapy"
+      ],
+      "DescriptorName": "Infections"
+    },
+    {
+      "QualifierName": [
+        "complications"
+      ],
+      "DescriptorName": "Neutropenia"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    }
+  ]
+}

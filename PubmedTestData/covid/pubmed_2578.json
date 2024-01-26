@@ -1,0 +1,250 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Containment",
+      "Mitigation",
+      "Nonpharmaceutical interventions",
+      "SARS-CoV-2 Omicron variant",
+      "Vaccination"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36380354",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "442",
+      "10.1186/s12916-022-02640-6"
+    ],
+    "Journal": {
+      "ISSN": "1741-7015",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov",
+          "Day": "15"
+        }
+      },
+      "Title": "BMC medicine",
+      "ISOAbbreviation": "BMC Med"
+    },
+    "ArticleTitle": "Assessing the feasibility of sustaining SARS-CoV-2 local containment in China in the era of highly transmissible variants.",
+    "Pagination": {
+      "StartPage": "442",
+      "MedlinePgn": "442"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The SARS-CoV-2 containment strategy has been successful in mainland China prior to the emergence of Omicron. However, in the era of highly transmissible variants, whether it is possible for China to sustain a local containment policy and under what conditions China could transition away from it are of paramount importance at the current stage of the pandemic.",
+        "We developed a spatially structured, fully stochastic, individual-based SARS-CoV-2 transmission model to evaluate the feasibility of sustaining SARS-CoV-2 local containment in mainland China considering the Omicron variants, China's current immunization level, and nonpharmaceutical interventions (NPIs). We also built a statistical model to estimate the overall disease burden under various hypothetical mitigation scenarios.",
+        "We found that due to high transmissibility, neither Omicron BA.1 nor BA.2 could be contained by China's pre-Omicron NPI strategies which were successful prior to the emergence of the Omicron variants. However, increased intervention intensity, such as enhanced population mobility restrictions and multi-round mass testing, could lead to containment success. We estimated that an acute Omicron epidemic wave in mainland China would result in significant number of deaths if China were to reopen under current vaccine coverage with no antiviral uptake, while increasing vaccination coverage and antiviral uptake could substantially reduce the disease burden.",
+        "As China's current vaccination has yet to reach high coverage in older populations, NPIs remain essential tools to maintain low levels of infection while building up protective population immunity, ensuring a smooth transition out of the pandemic phase while minimizing the overall disease burden."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health, Fudan University, Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of International Epidemiology and Population Studies, Fogarty International Center, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Kaiyuan",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing Center for Disease Prevention and Control (CDC), Beijing, China."
+          }
+        ],
+        "LastName": "Feng",
+        "ForeName": "Zhaomin",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shanghai Institute of Infectious Disease and Biosecurity, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Yi",
+        "ForeName": "Lan",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shanghai Institute of Infectious Disease and Biosecurity, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Yanpeng",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health, Fudan University, Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Hengcong",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing Center for Disease Prevention and Control (CDC), Beijing, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Quanyi",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Computational Epidemiology and Public Health, Department of Epidemiology and Biostatistics, Indiana University School of Public Health, Bloomington, IN, USA."
+          }
+        ],
+        "LastName": "Ajelli",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of International Epidemiology and Population Studies, Fogarty International Center, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ],
+        "LastName": "Viboud",
+        "ForeName": "C\u00e9cile",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health, Fudan University, Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China. yhj@fudan.edu.cn."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Hongjie",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med",
+    "NlmUniqueID": "101190723",
+    "ISSNLinking": "1741-7015"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2022 Jun 06;:",
+      "PMID": "35611330"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feasibility Studies"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "China"
+    }
+  ],
+  "CoiStatement": "HY received research funding from Sanofi Pasteur, GlaxoSmithKline, Yichang HEC Changjiang Pharmaceutical Company, Shanghai Roche Pharmaceutical Company, and SINOVAC Biotech Ltd. Except for research funding from SINOVAC Biotech Ltd, which is related to the data analysis of clinical trials of immunogenicity and safety of CoronaVac, the others are not related to COVID-19. All the other authors have no competing interests."
+}

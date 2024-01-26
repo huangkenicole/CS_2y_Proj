@@ -1,0 +1,490 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30267047",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "10",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "06",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1001/jamapsychiatry.2018.2165"
+    ],
+    "Journal": {
+      "ISSN": "2168-6238",
+      "JournalIssue": {
+        "Volume": "75",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Nov",
+          "Day": "01"
+        }
+      },
+      "Title": "JAMA psychiatry",
+      "ISOAbbreviation": "JAMA Psychiatry"
+    },
+    "ArticleTitle": "Prediction Models of Functional Outcomes for Individuals in the Clinical High-Risk State for Psychosis or With Recent-Onset Depression: A Multimodal, Multisite Machine Learning Analysis.",
+    "Pagination": {
+      "StartPage": "1156",
+      "EndPage": "1172",
+      "MedlinePgn": "1156-1172"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Social and occupational impairments contribute to the burden of psychosis and depression. There is a need for risk stratification tools to inform personalized functional-disability preventive strategies for individuals in at-risk and early phases of these illnesses.",
+        "To determine whether predictors associated with social and role functioning can be identified in patients in clinical high-risk (CHR) states for psychosis or with recent-onset depression (ROD) using clinical, imaging-based, and combined machine learning; assess the geographic, transdiagnostic, and prognostic generalizability of machine learning and compare it with human prognostication; and explore sequential prognosis encompassing clinical and combined machine learning.",
+        "This multisite naturalistic study followed up patients in CHR states, with ROD, and with recent-onset psychosis, and healthy control participants for 18 months in 7 academic early-recognition services in 5 European countries. Participants were recruited between February 2014 and May 2016, and data were analyzed from April 2017 to January 2018.",
+        "Performance and generalizability of prognostic models.",
+        "A total of 116 individuals in CHR states (mean [SD] age, 24.0 [5.1] years; 58 [50.0%] female) and 120 patients with ROD (mean [SD] age, 26.1 [6.1] years; 65 [54.2%] female) were followed up for a mean (SD) of 329 (142) days. Machine learning predicted the 1-year social-functioning outcomes with a balanced accuracy of 76.9% of patients in CHR states and 66.2% of patients with ROD using clinical baseline data. Balanced accuracy in models using structural neuroimaging was 76.2% in patients in CHR states and 65.0% in patients with ROD, and in combined models, it was 82.7% for CHR states and 70.3% for ROD. Lower functioning before study entry was a transdiagnostic predictor. Medial prefrontal and temporo-parieto-occipital gray matter volume (GMV) reductions and cerebellar and dorsolateral prefrontal GMV increments had predictive value in the CHR group; reduced mediotemporal and increased prefrontal-perisylvian GMV had predictive value in patients with ROD. Poor prognoses were associated with increased risk of psychotic, depressive, and anxiety disorders at follow-up in patients in the CHR state but not ones with ROD. Machine learning outperformed expert prognostication. Adding neuroimaging machine learning to clinical machine learning provided a 1.9-fold increase of prognostic certainty in uncertain cases of patients in CHR states, and a 10.5-fold increase of prognostic certainty for patients with ROD.",
+        "Precision medicine tools could augment effective therapeutic strategies aiming at the prevention of social functioning impairments in patients with CHR states or with ROD."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, Ludwig-Maximilian-University, Munich, Germany."
+          }
+        ],
+        "LastName": "Koutsouleris",
+        "ForeName": "Nikolaos",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, Ludwig-Maximilian-University, Munich, Germany."
+          }
+        ],
+        "LastName": "Kambeitz-Ilankovic",
+        "ForeName": "Lana",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, University of Cologne, Cologne, Germany."
+          }
+        ],
+        "LastName": "Ruhrmann",
+        "ForeName": "Stephan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, University of Cologne, Cologne, Germany."
+          }
+        ],
+        "LastName": "Rosen",
+        "ForeName": "Marlene",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, Ludwig-Maximilian-University, Munich, Germany."
+          }
+        ],
+        "LastName": "Ruef",
+        "ForeName": "Anne",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, Ludwig-Maximilian-University, Munich, Germany."
+          }
+        ],
+        "LastName": "Dwyer",
+        "ForeName": "Dominic B",
+        "Initials": "DB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, Ludwig-Maximilian-University, Munich, Germany."
+          }
+        ],
+        "LastName": "Paolini",
+        "ForeName": "Marco",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Psychology, University of Birmingham, United Kingdom."
+          }
+        ],
+        "LastName": "Chisholm",
+        "ForeName": "Katharine",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, Ludwig-Maximilian-University, Munich, Germany."
+          }
+        ],
+        "LastName": "Kambeitz",
+        "ForeName": "Joseph",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, University of Cologne, Cologne, Germany."
+          }
+        ],
+        "LastName": "Haidl",
+        "ForeName": "Theresa",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University Psychiatric Clinic, Psychiatric University Hospital, University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Schmidt",
+        "ForeName": "Andr\u00e9",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Orygen, the National Centre of Excellence for Youth Mental Health, Melbourne, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Youth Mental Health, University of Melbourne, Melbourne, Australia."
+          }
+        ],
+        "LastName": "Gillam",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, Medical Faculty, Heinrich-Heine University, D\u00fcsseldorf, Germany."
+          }
+        ],
+        "LastName": "Schultze-Lutter",
+        "ForeName": "Frauke",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, Ludwig-Maximilian-University, Munich, Germany."
+          }
+        ],
+        "LastName": "Falkai",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiology, Ludwig-Maximilian-University, Munich, Germany."
+          }
+        ],
+        "LastName": "Reiser",
+        "ForeName": "Maximilian",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University Psychiatric Clinic, Psychiatric University Hospital, University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Riecher-R\u00f6ssler",
+        "ForeName": "Anita",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Mental Health, University of Birmingham, Birmingham, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Psychology, University of Birmingham, United Kingdom."
+          }
+        ],
+        "LastName": "Upthegrove",
+        "ForeName": "Rachel",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University of Turku, Turku, Finland."
+          }
+        ],
+        "LastName": "Hietala",
+        "ForeName": "Jarmo",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University of Turku, Turku, Finland."
+          }
+        ],
+        "LastName": "Salokangas",
+        "ForeName": "Raimo K R",
+        "Initials": "RKR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Melbourne Neuropsychiatry Centre, University of Melbourne, Melbourne, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Melbourne Health, Melbourne, Australia."
+          }
+        ],
+        "LastName": "Pantelis",
+        "ForeName": "Christos",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry and Psychotherapy, Medical Faculty, Heinrich-Heine University, D\u00fcsseldorf, Germany."
+          }
+        ],
+        "LastName": "Meisenzahl",
+        "ForeName": "Eva",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Psychology, University of Birmingham, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Orygen, the National Centre of Excellence for Youth Mental Health, Melbourne, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Youth Mental Health, University of Melbourne, Melbourne, Australia."
+          }
+        ],
+        "LastName": "Wood",
+        "ForeName": "Stephen J",
+        "Initials": "SJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Corporate Global Research, GE Corporation, Munich, Germany."
+          }
+        ],
+        "LastName": "Beque",
+        "ForeName": "Dirk",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurosciences and Mental Health, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, University of Milan, Milan, Italy."
+          }
+        ],
+        "LastName": "Brambilla",
+        "ForeName": "Paolo",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University Psychiatric Clinic, Psychiatric University Hospital, University of Basel, Basel, Switzerland."
+          }
+        ],
+        "LastName": "Borgwardt",
+        "ForeName": "Stefan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "CollectiveName": "PRONIA Consortium"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "JAMA Psychiatry",
+    "NlmUniqueID": "101589550",
+    "ISSNLinking": "2168-622X"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "JAMA Psychiatry. 2018 Nov 1;75(11):1105-1106",
+      "PMID": "30267034"
+    },
+    {
+      "RefSource": "JAMA Psychiatry. 2019 Mar 1;76(3):339",
+      "PMID": "30725086"
+    },
+    {
+      "RefSource": "JAMA Psychiatry. 2019 Mar 1;76(3):339-340",
+      "PMID": "30725089"
+    },
+    {
+      "RefSource": "JAMA Psychiatry. 2019 May 1;76(5):550",
+      "PMID": "30942832"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology",
+        "psychology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Gray Matter"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neuroimaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neuropsychological Tests"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology",
+        "psychology"
+      ],
+      "DescriptorName": "Psychotic Disorders"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Social Adjustment"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "<b>Conflict of Interest Disclosures:</b> Dr Koutsouleris received honoraria for talks presented at education meetings organized by Otsuka/Lundbeck. Dr Pantelis participated in advisory boards for Janssen-Cilag, AstraZeneca, Lundbeck, and Servier and received honoraria for talks presented at educational meetings organized by AstraZeneca, Janssen-Cilag, Eli Lilly, Pfizer, Lundbeck, and Shire. Dr Upthegrove received honoraria for talks presented at educational meetings organized by Sunovion. No other disclosures were reported."
+}

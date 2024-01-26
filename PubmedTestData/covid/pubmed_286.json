@@ -1,0 +1,197 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Complex networks",
+      "Infectious disease control",
+      "Numerical simulation",
+      "Testing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33435892",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "58",
+      "10.1186/s12879-020-05750-9"
+    ],
+    "Journal": {
+      "ISSN": "1471-2334",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "12"
+        }
+      },
+      "Title": "BMC infectious diseases",
+      "ISOAbbreviation": "BMC Infect Dis"
+    },
+    "ArticleTitle": "A network-based model to explore the role of testing in the epidemiological control of the COVID-19 pandemic.",
+    "Pagination": {
+      "StartPage": "58",
+      "MedlinePgn": "58"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Testing is one of the most effective means to manage the COVID-19 pandemic. However, there is an upper bound on daily testing volume because of limited healthcare staff and working hours, as well as different testing methods, such as random testing and contact-tracking testing. In this study, a network-based epidemic transmission model combined with a testing mechanism was proposed to study the role of testing in epidemic control. The aim of this study was to determine how testing affects the spread of epidemics and the daily testing volume needed to control infectious diseases.",
+        "We simulated the epidemic spread process on complex networks and introduced testing preferences to describe different testing strategies. Different networks were generated to represent social contact between individuals. An extended susceptible-exposed-infected-recovered (SEIR) epidemic model was adopted to simulate the spread of epidemics in these networks. The model establishes a testing preference of between 0 and 1; the larger the testing preference, the higher the testing priority for people in close contact with confirmed cases.",
+        "The numerical simulations revealed that the higher the priority for testing individuals in close contact with confirmed cases, the smaller the infection scale. In addition, the infection peak decreased with an increase in daily testing volume and increased as the testing start time was delayed. We also discovered that when testing and other measures were adopted, the daily testing volume required to keep the infection scale below 5% was reduced by more than 40% even if other measures only reduced individuals' infection probability by 10%. The proposed model was validated using COVID-19 testing data.",
+        "Although testing could effectively inhibit the spread of infectious diseases and epidemics, our results indicated that it requires a huge daily testing volume. Thus, it is highly recommended that testing be adopted in combination with measures such as wearing masks and social distancing to better manage infectious diseases. Our research contributes to understanding the role of testing in epidemic control and provides useful suggestions for the government and individuals in responding to epidemics."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Public Safety Research, Tsinghua University, Beijing, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Engineering Physics, Tsinghua University, Beijing, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing Key Laboratory of City Integrated Emergency Response Science, Beijing, China."
+          }
+        ],
+        "LastName": "Cui",
+        "ForeName": "Yapeng",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Public Safety Research, Tsinghua University, Beijing, China. sjni@tsinghua.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Engineering Physics, Tsinghua University, Beijing, China. sjni@tsinghua.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing Key Laboratory of City Integrated Emergency Response Science, Beijing, China. sjni@tsinghua.edu.cn."
+          }
+        ],
+        "LastName": "Ni",
+        "ForeName": "Shunjiang",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Public Safety Research, Tsinghua University, Beijing, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Engineering Physics, Tsinghua University, Beijing, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing Key Laboratory of City Integrated Emergency Response Science, Beijing, China."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Shifei",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2018YFF0301000",
+        "Agency": "National Key R&D Program of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "71673161, 71790613",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Infect Dis",
+    "NlmUniqueID": "100968551",
+    "ISSNLinking": "1471-2334"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Masks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

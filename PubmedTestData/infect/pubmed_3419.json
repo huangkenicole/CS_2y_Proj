@@ -1,0 +1,149 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Italy",
+      "cognitive models",
+      "computational models",
+      "new infections",
+      "predictions",
+      "tourism"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33352802",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "7319",
+      "10.3390/s20247319"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "24",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec",
+          "Day": "19"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "A Cross-Regional Analysis of the COVID-19 Spread during the 2020 Italian Vacation Period: Results from Three Computational Models Are Compared.",
+    "Abstract": {
+      "AbstractText": [
+        "On 21 February 2020, a violent COVID-19 outbreak, which was initially concentrated in Lombardy before infecting some surrounding regions exploded in Italy. Shortly after, on 9 March, the Italian Government imposed severe restrictions on its citizens, including a ban on traveling to other parts of the country. No travel, no virus spread. Many regions, such as those in southern Italy, were spared. Then, in June 2020, under pressure for the economy to reopen, many lockdown measures were relaxed, including the ban on interregional travel. As a result, the virus traveled for hundreds of kilometers, from north to south, with the effect that areas without infections, receiving visitors from infected areas, became infected. This resulted in a sharp increase in the number of infected people; i.e., the daily count of new positive cases, when comparing measurements from the beginning of July to those from at the middle of September, rose significantly in almost all the Italian regions. Upon confirmation of the effect of Italian domestic tourism on the virus spread, three computational models of increasing complexity (linear, negative binomial regression, and cognitive) have been compared in this study, with the aim of identifying the one that better correlates the relationship between Italian tourist flows during the summer of 2020 and the resurgence of COVID-19 cases across the country. Results show that the cognitive model has more potential than the others, yet has relevant limitations. The models should be considered as a relevant starting point for the study of this phenomenon, even if there is still room to further develop them up to a point where they become able to capture all the various and complex spread patterns of this disease."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-3468-6974"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, University of Bologna, 40127 Bologna, Italy."
+          }
+        ],
+        "LastName": "Casini",
+        "ForeName": "Luca",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1264-8595"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, University of Bologna, 40127 Bologna, Italy."
+          }
+        ],
+        "LastName": "Roccetti",
+        "ForeName": "Marco",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Italy"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Travel"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

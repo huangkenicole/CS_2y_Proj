@@ -1,0 +1,160 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Aptamer",
+      "CRISPR-Cas12a",
+      "Electrochemical biosensor",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35367933",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "06",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "03",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.bioelechem.2022.108105",
+      "S1567-5394(22)00056-1"
+    ],
+    "Journal": {
+      "ISSN": "1878-562X",
+      "JournalIssue": {
+        "Volume": "146",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Bioelectrochemistry (Amsterdam, Netherlands)",
+      "ISOAbbreviation": "Bioelectrochemistry"
+    },
+    "ArticleTitle": "CRISPR-Cas12a-mediated label-free electrochemical aptamer-based sensor for SARS-CoV-2 antigen detection.",
+    "Pagination": {
+      "StartPage": "108105",
+      "MedlinePgn": "108105"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Serological antigen testing has emerged as an important diagnostic paradigm in COVID-19, but often suffers from potential cross-reactivity. To address this limitation, we herein report a label-free electrochemical aptamer-based sensor for the detection of SARS-CoV-2 antigen by integrating aptamer-based specific recognition with CRISPR-Cas12a-mediated signal amplification. The sensing principle is based on the competitive binding of antigen and the preassembled Cas12a-crRNA complex to the antigen-specific aptamer, resulting in a change in the collateral cleavage activity of Cas12a. To further generate an electrochemical signal, a DNA architecture was fabricated by in situ rolling circle amplification on a gold electrode, which serves as a novel substrate for Cas12a. Upon Cas12a-based collateral DNA cleavage, the DNA architecture was degraded, leading to a significant decrease in impedance that can be measured spectroscopically. Using SARS-CoV-2 nucleocapsid antigen as the model, the proposed CRISPR-Cas12a-based electrochemical sensor (CRISPR-E) showed excellent analytical performance for the quantitative detection of nucleocapsid antigen. Since in vitro selection can obtain aptamers selective for many SARS-CoV-2 antigens, the proposed strategy can expand this powerful CRISPR-E system significantly for quantitative monitoring of a wide range of COVID-19 biomarkers."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2022 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Analytical Chemistry for Life Science, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing 210023, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Na",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Analytical Chemistry for Life Science, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing 210023, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Ran",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Analytical Chemistry for Life Science, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing 210023, China; Chemistry and Biomedicine Innovation Center (ChemBIC), Nanjing University, Nanjing 210023, China. Electronic address: jing15209791@nju.edu.cn."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Jingjing",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Bioelectrochemistry",
+    "NlmUniqueID": "100953583",
+    "ISSNLinking": "1567-5394"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "9007-49-2",
+      "NameOfSubstance": "DNA"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Biosensing Techniques"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "CRISPR-Cas Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Nucleic Acid Amplification Techniques"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

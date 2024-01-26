@@ -1,0 +1,515 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35025969",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "01",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1010161",
+      "10.1371/journal.ppat.1010161"
+    ],
+    "Journal": {
+      "ISSN": "1553-7374",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan"
+        }
+      },
+      "Title": "PLoS pathogens",
+      "ISOAbbreviation": "PLoS Pathog"
+    },
+    "ArticleTitle": "Advances and gaps in SARS-CoV-2 infection models.",
+    "Pagination": {
+      "StartPage": "e1010161",
+      "MedlinePgn": "e1010161"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The global response to Coronavirus Disease 2019 (COVID-19) is now facing new challenges such as vaccine inequity and the emergence of SARS-CoV-2 variants of concern (VOCs). Preclinical models of disease, in particular animal models, are essential to investigate VOC pathogenesis, vaccine correlates of protection and postexposure therapies. Here, we provide an update from the World Health Organization (WHO) COVID-19 modeling expert group (WHO-COM) assembled by WHO, regarding advances in preclinical models. In particular, we discuss how animal model research is playing a key role to evaluate VOC virulence, transmission and immune escape, and how animal models are being refined to recapitulate COVID-19 demographic variables such as comorbidities and age."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7725-2586"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bernhard Nocht Institute for Tropical Medicine, Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Center for Infection Research (DZIF), Partner Site Hamburg-L\u00fcbeck-Borstel-Riems, Hamburg, Germany."
+          }
+        ],
+        "LastName": "Mu\u00f1oz-Fontela",
+        "ForeName": "C\u00e9sar",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6666-7770"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bernhard Nocht Institute for Tropical Medicine, Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Center for Infection Research (DZIF), Partner Site Hamburg-L\u00fcbeck-Borstel-Riems, Hamburg, Germany."
+          }
+        ],
+        "LastName": "Widerspick",
+        "ForeName": "Lina",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4008-503X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, New York, United States of America."
+          }
+        ],
+        "LastName": "Albrecht",
+        "ForeName": "Randy A",
+        "Initials": "RA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Greifswald-Insel Riems, Germany."
+          }
+        ],
+        "LastName": "Beer",
+        "ForeName": "Martin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Infection Service, Public Health England, Salisbury, United Kingdom."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Pandemic Sciences Centre, Nuffield Department of Medicine, Oxford University, United Kingdom."
+          }
+        ],
+        "LastName": "Carroll",
+        "ForeName": "Miles W",
+        "Initials": "MW"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9763-7758"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Virology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Hamilton, Montana, United States of America."
+          }
+        ],
+        "LastName": "de Wit",
+        "ForeName": "Emmie",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8791-3165"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, United States of America."
+          }
+        ],
+        "LastName": "Diamond",
+        "ForeName": "Michael S",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3277-6199"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Coalition for Epidemic Preparedness Innovations (CEPI), Washington, Washington, DC, United States of America."
+          }
+        ],
+        "LastName": "Dowling",
+        "ForeName": "William E",
+        "Initials": "WE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Infection Service, Public Health England, Salisbury, United Kingdom."
+          }
+        ],
+        "LastName": "Funnell",
+        "ForeName": "Simon G P",
+        "Initials": "SGP"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6551-1827"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, New York, United States of America."
+          }
+        ],
+        "LastName": "Garc\u00eda-Sastre",
+        "ForeName": "Adolfo",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wageningen Bioveterinary Research, Lelystad, the Netherlands."
+          }
+        ],
+        "LastName": "Gerhards",
+        "ForeName": "Nora M",
+        "Initials": "NM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2052-5993"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wageningen Bioveterinary Research, Lelystad, the Netherlands."
+          }
+        ],
+        "LastName": "de Jong",
+        "ForeName": "Rineke",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2288-3196"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Virology, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Hamilton, Montana, United States of America."
+          }
+        ],
+        "LastName": "Munster",
+        "ForeName": "Vincent J",
+        "Initials": "VJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0033-7514"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KU Leuven, Department of Microbiology and Immunology, Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy, Leuven, Belgium."
+          }
+        ],
+        "LastName": "Neyts",
+        "ForeName": "Johan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, University of Iowa, Iowa City, Iowa, United States of America."
+          }
+        ],
+        "LastName": "Perlman",
+        "ForeName": "Stanley",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0076-9023"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Vaccine Research and Department of Immunology, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America."
+          }
+        ],
+        "LastName": "Reed",
+        "ForeName": "Douglas S",
+        "Initials": "DS"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7308-5672"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kansas State University, College of Veterinary Medicine, Manhattan, Kansas, United States of America."
+          }
+        ],
+        "LastName": "Richt",
+        "ForeName": "Juergen A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "World Health Organization, Geneva, Switzerland."
+          }
+        ],
+        "LastName": "Riveros-Balta",
+        "ForeName": "Ximena",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1710-6974"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Tulane National Primate Research Center, Covington, Louisiana, United States of America."
+          }
+        ],
+        "LastName": "Roy",
+        "ForeName": "Chad J",
+        "Initials": "CJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5315-3882"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Infection Service, Public Health England, Salisbury, United Kingdom."
+          }
+        ],
+        "LastName": "Salguero",
+        "ForeName": "Francisco J",
+        "Initials": "FJ"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3156-3132"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, New York, United States of America."
+          }
+        ],
+        "LastName": "Schotsaert",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2264-3029"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "World Health Organization, Geneva, Switzerland."
+          }
+        ],
+        "LastName": "Schwartz",
+        "ForeName": "Lauren M",
+        "Initials": "LM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Seder",
+        "ForeName": "Robert A",
+        "Initials": "RA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1539-7261"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre de Recerca en Sanitat Animal (CReSA, IRTA-UAB), Campus UAB, and Departament de Sanitat i Anatomia animals, Facultat de Veterin\u00e0ria, UAB, Barcelona, Spain."
+          }
+        ],
+        "LastName": "Segal\u00e9s",
+        "ForeName": "Joaquim",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7326-3210"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Australian Centre for Disease Preparedness, CSIRO, Geelong, Australia."
+          }
+        ],
+        "LastName": "Vasan",
+        "ForeName": "Seshadri S",
+        "Initials": "SS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "World Health Organization, Geneva, Switzerland."
+          }
+        ],
+        "LastName": "Henao-Restrepo",
+        "ForeName": "Ana Mar\u00eda",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5127-4659"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts, United States of America."
+          }
+        ],
+        "LastName": "Barouch",
+        "ForeName": "Dan H",
+        "Initials": "DH"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "001",
+        "Acronym": "WHO_",
+        "Agency": "World Health Organization",
+        "Country": "International"
+      },
+      {
+        "GrantID": "P51 OD011104",
+        "Acronym": "OD",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Pathog",
+    "NlmUniqueID": "101238921",
+    "ISSNLinking": "1553-7366"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "etiology",
+        "prevention & control",
+        "therapy"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "adverse effects",
+        "immunology"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Comorbidity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Models, Animal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

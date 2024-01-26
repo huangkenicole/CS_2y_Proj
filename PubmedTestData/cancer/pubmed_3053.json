@@ -1,0 +1,212 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bladder cancer",
+      "Feature selection",
+      "Invasion depth",
+      "Segmentation",
+      "Support vector machine"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33287834",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "92",
+      "10.1186/s12938-020-00834-8"
+    ],
+    "Journal": {
+      "ISSN": "1475-925X",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec",
+          "Day": "07"
+        }
+      },
+      "Title": "Biomedical engineering online",
+      "ISOAbbreviation": "Biomed Eng Online"
+    },
+    "ArticleTitle": "The invasion depth measurement of bladder cancer using T2-weighted magnetic resonance imaging.",
+    "Pagination": {
+      "StartPage": "92",
+      "MedlinePgn": "92"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Invasion depth is an important index for staging and clinical treatment strategy of bladder cancer (BCa). The aim of this study was to investigate the feasibility of segmenting the BCa region from bladder wall region on MRI, and quantitatively measuring the invasion depth of the tumor mass in bladder lumen for further clinical decision-making. This retrospective study involved 20 eligible patients with postoperatively pathologically confirmed BCa. It was conducted in the following steps: (1) a total of 1159 features were extracted from each voxel of both the certain cancerous and wall tissues with the T2-weighted (T2W) MRI data; (2) the support vector machine (SVM)-based recursive feature elimination (RFE) method was implemented to first select an optimal feature subset, and then develop the classification model for the precise separation of the cancerous regions; (3) after excluding the cancerous region from the bladder wall, the three-dimensional bladder wall thickness (BWT) was calculated using Laplacian method, and the invasion depth of BCa was eventually defined by the subtraction of the mean BWT excluding the cancerous region and the minimum BWT of the cancerous region.",
+        "The segmented results showed a promising accuracy, with the mean Dice similarity coefficient of 0.921. The \"soft boundary\" defined by the voxels with the probabilities between 0.1 and 0.9 could demonstrate the overlapped region of cancerous and wall tissues. The invasion depth calculated from proposed segmentation method was compared with that from manual segmentation, with a mean difference of 0.277\u00a0mm.",
+        "The proposed strategy could accurately segment the BCa region, and, as the first attempt, realize the quantitative measurement of BCa invasion depth."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-0984-5128"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, Air Force Medical University, No. 169 Changle West Road, Xi'an, Shaanxi, 710032, PR China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Yang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Technology, Xidian University, 266 Xinglong Section of Xifeng Road, Xi'an, Shaanxi, 710126, PR China."
+          }
+        ],
+        "LastName": "Zheng",
+        "ForeName": "Haojie",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, Air Force Medical University, No. 169 Changle West Road, Xi'an, Shaanxi, 710032, PR China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Xiaopan",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, Air Force Medical University, No. 169 Changle West Road, Xi'an, Shaanxi, 710032, PR China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Xi",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, Air Force Medical University, No. 169 Changle West Road, Xi'an, Shaanxi, 710032, PR China."
+          }
+        ],
+        "LastName": "Du",
+        "ForeName": "Peng",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Technology, Xidian University, 266 Xinglong Section of Xifeng Road, Xi'an, Shaanxi, 710126, PR China. jimleung@mail.xidian.edu.cn."
+          }
+        ],
+        "LastName": "Liang",
+        "ForeName": "Jimin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, Air Force Medical University, No. 169 Changle West Road, Xi'an, Shaanxi, 710032, PR China. luhb@fmmu.edu.cn."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Hongbing",
+        "Initials": "H"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "81871424",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "81901698",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "81701658",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Biomed Eng Online",
+    "NlmUniqueID": "101147518",
+    "ISSNLinking": "1475-925X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Invasiveness"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology"
+      ],
+      "DescriptorName": "Urinary Bladder Neoplasms"
+    }
+  ],
+  "CoiStatement": "The authors of this article declare that there is no conflict of interest."
+}

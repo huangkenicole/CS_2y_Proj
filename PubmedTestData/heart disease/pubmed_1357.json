@@ -1,0 +1,213 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26380290",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "06",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "08",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "636371",
+      "10.1155/2015/636371"
+    ],
+    "Journal": {
+      "ISSN": "2314-6141",
+      "JournalIssue": {
+        "Volume": "2015",
+        "PubDate": {
+          "Year": "2015"
+        }
+      },
+      "Title": "BioMed research international",
+      "ISOAbbreviation": "Biomed Res Int"
+    },
+    "ArticleTitle": "Identification and Progression of Heart Disease Risk Factors in Diabetic Patients from Longitudinal Electronic Health Records.",
+    "Pagination": {
+      "StartPage": "636371",
+      "MedlinePgn": "636371"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Heart disease is the leading cause of death worldwide. Therefore, assessing the risk of its occurrence is a crucial step in predicting serious cardiac events. Identifying heart disease risk factors and tracking their progression is a preliminary step in heart disease risk assessment. A large number of studies have reported the use of risk factor data collected prospectively. Electronic health record systems are a great resource of the required risk factor data. Unfortunately, most of the valuable information on risk factor data is buried in the form of unstructured clinical notes in electronic health records. In this study, we present an information extraction system to extract related information on heart disease risk factors from unstructured clinical notes using a hybrid approach. The hybrid approach employs both machine learning and rule-based clinical text mining techniques. The developed system achieved an overall microaveraged F-score of 0.8302."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health and Community Medicine, University of New South Wales, Sydney, NSW 2052, Australia ; Asia-Pacific Ubiquitous Healthcare Research Centre, University of New South Wales, Sydney, NSW 2052, Australia ; Prince of Wales Clinical School, University of New South Wales, Sydney, NSW 2052, Australia."
+          }
+        ],
+        "LastName": "Jonnagaddala",
+        "ForeName": "Jitendra",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health and Community Medicine, University of New South Wales, Sydney, NSW 2052, Australia."
+          }
+        ],
+        "LastName": "Liaw",
+        "ForeName": "Siaw-Teng",
+        "Initials": "ST"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Asia-Pacific Ubiquitous Healthcare Research Centre, University of New South Wales, Sydney, NSW 2052, Australia."
+          }
+        ],
+        "LastName": "Ray",
+        "ForeName": "Pradeep",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Prince of Wales Clinical School, University of New South Wales, Sydney, NSW 2052, Australia."
+          }
+        ],
+        "LastName": "Kumar",
+        "ForeName": "Manish",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Information Engineering, National Taitung University, Taitung 95092, Taiwan."
+          }
+        ],
+        "LastName": "Dai",
+        "ForeName": "Hong-Jie",
+        "Initials": "HJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Master Program in Global Health and Development, College of Public Health and Nutrition, Taipei Medical University, Taipei 11042, Taiwan ; Department of Information Management, National Taipei University of Nursing and Health Sciences, Taipei 11219, Taiwan."
+          }
+        ],
+        "LastName": "Hsu",
+        "ForeName": "Chien-Yeh",
+        "Initials": "CY"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R13 LM011411",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54 LM008748",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "1R13LM01141101",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "2U54LM008748",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Biomed Res Int",
+    "NlmUniqueID": "101600173"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Mining"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "pathology"
+      ],
+      "DescriptorName": "Diabetes Complications"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electronic Health Records"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "etiology",
+        "pathology"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    }
+  ]
+}

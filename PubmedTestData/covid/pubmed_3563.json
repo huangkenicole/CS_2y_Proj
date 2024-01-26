@@ -1,0 +1,145 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35140274",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "02",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2175",
+      "10.1038/s41598-022-06095-w"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Feb",
+          "Day": "09"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Nonlinear frequency analysis of COVID-19 spread in Tokyo using empirical mode decomposition.",
+    "Pagination": {
+      "StartPage": "2175",
+      "MedlinePgn": "2175"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Empirical mode decomposition (EMD) was adopted to decompose daily COVID-19 infections in Tokyo from February 28, 2020, to July 12, 2021. Daily COVID-19 infections were nonlinearly decomposed into several monochromatic waves, intrinsic mode functions (IMFs), corresponding to their periodic meanings from high frequency to low frequency. High-frequency IMFs represent variabilities of random factors and variations in the number of daily PCR and antigen inspections, which can be nonlinearly denoised using EMD. Compared with a moving average and Fourier transform, EMD provides better performance in denoising and analyzing COVID-19 spread. After variabilities of daily inspections were weekly denoised by EMD, one low-frequency IMF reveals that the average period of external influences (public health and social measures) to stop COVID-19 spread was 19 days, corresponding to the measures response duration based on the incubation period. By monitoring this nonlinear wave, public health and social measures for stopping COVID-19 spread can be evaluated and visualized quantitatively in the instantaneous frequency domain. Moreover, another low-frequency IMF revealed that the period of the COVID-19 outbreak and retreat was 57 days on average. This nonlinear wave can be used as a reference for setting the timeframe for state of emergency declarations. Thus, decomposing daily infections in the instantaneous frequency domain using EMD represents a useful tool to improve public health and social measures for stopping COVID-19 spread."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science, Tokyo University of Technology, Tokyo, 192-0982, Japan. randong@stf.teu.ac.jp."
+          }
+        ],
+        "LastName": "Dong",
+        "ForeName": "Ran",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Graduate School of Systems and Information Engineering, University of Tsukuba, Ibaraki, 305-8577, Japan."
+          }
+        ],
+        "LastName": "Ni",
+        "ForeName": "Shaowen",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Computer Science, Tokyo University of Technology, Tokyo, 192-0982, Japan."
+          }
+        ],
+        "LastName": "Ikuno",
+        "ForeName": "Soichiro",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Tokyo"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

@@ -1,0 +1,213 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25414362",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "07",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "11",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/bioinformatics/btu772"
+    ],
+    "Journal": {
+      "ISSN": "1367-4811",
+      "JournalIssue": {
+        "Volume": "31",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Apr",
+          "Day": "01"
+        }
+      },
+      "Title": "Bioinformatics (Oxford, England)",
+      "ISOAbbreviation": "Bioinformatics"
+    },
+    "ArticleTitle": "Bioimaging-based detection of mislocalized proteins in human cancers by semi-supervised learning.",
+    "Pagination": {
+      "StartPage": "1111",
+      "EndPage": "1119",
+      "MedlinePgn": "1111-9"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "There is a long-term interest in the challenging task of finding translocated and mislocated cancer biomarker proteins. Bioimages of subcellular protein distribution are new data sources which have attracted much attention in recent years because of their intuitive and detailed descriptions of protein distribution. However, automated methods in large-scale biomarker screening suffer significantly from the lack of subcellular location annotations for bioimages from cancer tissues. The transfer prediction idea of applying models trained on normal tissue proteins to predict the subcellular locations of cancerous ones is arbitrary because the protein distribution patterns may differ in normal and cancerous states.",
+        "We developed a new semi-supervised protocol that can use unlabeled cancer protein data in model construction by an iterative and incremental training strategy. Our approach enables us to selectively use the low-quality images in normal states to expand the training sample space and provides a general way for dealing with the small size of annotated images used together with large unannotated ones. Experiments demonstrate that the new semi-supervised protocol can result in improved accuracy and sensitivity of subcellular location difference detection.",
+        "The data and code are available at: www.csbio.sjtu.edu.cn/bioinf/SemiBiomarker/.",
+        "Supplementary data are available at Bioinformatics online."
+      ],
+      "CopyrightInformation": "\u00a9 The Author 2014. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai 200240, China and Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, USA."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Ying-Ying",
+        "Initials": "YY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai 200240, China and Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, USA."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Fan",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai 200240, China and Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, USA."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai 200240, China and Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, USA Institute of Image Processing and Pattern Recognition, Shanghai Jiao Tong University, and Key Laboratory of System Control and Information Processing, Ministry of Education of China, Shanghai 200240, China and Department of Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, MI 48109, USA."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Hong-Bin",
+        "Initials": "HB"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 GM083107",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 GM084222",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "GM083107",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Bioinformatics",
+    "NlmUniqueID": "9808944",
+    "ISSNLinking": "1367-4803"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Cellular Structures"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Protein"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "analysis"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Subcellular Fractions"
+    }
+  ]
+}

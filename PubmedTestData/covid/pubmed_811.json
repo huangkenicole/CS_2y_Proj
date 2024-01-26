@@ -1,0 +1,300 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35194141",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "23"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "02",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "151",
+      "10.1038/s42003-022-03114-4"
+    ],
+    "Journal": {
+      "ISSN": "2399-3642",
+      "JournalIssue": {
+        "Volume": "5",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Feb",
+          "Day": "22"
+        }
+      },
+      "Title": "Communications biology",
+      "ISOAbbreviation": "Commun Biol"
+    },
+    "ArticleTitle": "BugSplit enables genome-resolved metagenomics through highly accurate taxonomic binning of metagenomic assemblies.",
+    "Pagination": {
+      "StartPage": "151",
+      "MedlinePgn": "151"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A large gap remains between sequencing a microbial community and characterizing all of the organisms inside of it. Here we develop a novel method to taxonomically bin metagenomic assemblies through alignment of contigs against a reference database. We show that this workflow, BugSplit, bins metagenome-assembled contigs to species with a 33% absolute improvement in F1-score when compared to alternative tools. We perform nanopore mNGS on patients with COVID-19, and using a reference database predating COVID-19, demonstrate that BugSplit's taxonomic binning enables sensitive and specific detection of a novel coronavirus not possible with other approaches. When applied to nanopore mNGS data from cases of Klebsiella pneumoniae and Neisseria gonorrhoeae infection, BugSplit's taxonomic binning accurately separates pathogen sequences from those of the host and microbiota, and unlocks the possibility of sequence typing, in silico serotyping, and antimicrobial resistance prediction of each organism within a sample. BugSplit is available at https://bugseq.com/academic ."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BugSeq Bioinformatics Inc, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Chandrakumar",
+        "ForeName": "Induja",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology and Immunology, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Gauthier",
+        "ForeName": "Nick P G",
+        "Initials": "NPG"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0934-8313"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematical Ecology Research Group, Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Nelson",
+        "ForeName": "Cassidy",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0250-0423"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematical Ecology Research Group, Department of Zoology, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Bonsall",
+        "ForeName": "Michael B",
+        "Initials": "MB"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0175-3747"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Microbiology, Vancouver General Hospital, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Locher",
+        "ForeName": "Kerstin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Microbiology, Vancouver General Hospital, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Charles",
+        "ForeName": "Marthe",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Microbiology, Vancouver General Hospital, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "MacDonald",
+        "ForeName": "Clayton",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "British Columbia Centre for Disease Control, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Krajden",
+        "ForeName": "Mel",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2462-7249"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "British Columbia Centre for Disease Control, Vancouver, BC, Canada."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Population and Public Health, University of British Columbia, Vancouver, BC, Canada."
+          }
+        ],
+        "LastName": "Manges",
+        "ForeName": "Amee R",
+        "Initials": "AR"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9891-8546"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "BugSeq Bioinformatics Inc, Vancouver, BC, Canada. sam@bugseq.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, BC, Canada. sam@bugseq.com."
+          }
+        ],
+        "LastName": "Chorlton",
+        "ForeName": "Samuel D",
+        "Initials": "SD"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Commun Biol",
+    "NlmUniqueID": "101719179",
+    "ISSNLinking": "2399-3642"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "Bacteria"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Metagenome"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Metagenomics"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Nanopore Sequencing"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare the following competing interests: I.C. is an empoyee of BugSeq Bioinformatics Inc. S.D.C. is a shareholder of BugSeq Bioinformatics Inc. The other authors declare no competing interests."
+}

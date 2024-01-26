@@ -1,0 +1,312 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "clustering",
+      "covid",
+      "jaccard"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33415739",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/gepi.22373"
+    ],
+    "Journal": {
+      "ISSN": "1098-2272",
+      "JournalIssue": {
+        "Volume": "45",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Genetic epidemiology",
+      "ISOAbbreviation": "Genet Epidemiol"
+    },
+    "ArticleTitle": "Unsupervised cluster analysis of SARS-CoV-2 genomes reflects its geographic progression and identifies distinct genetic subgroups of SARS-CoV-2 virus.",
+    "Pagination": {
+      "StartPage": "316",
+      "EndPage": "323",
+      "MedlinePgn": "316-323"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Over 10,000 viral genome sequences of the SARS-CoV-2virus have been made readily available during the ongoing coronavirus pandemic since the initial genome sequence of the virus was released on the open access Virological website (http://virological.org/) early on January 11. We utilize the published data on the single stranded RNAs of 11,132 SARS-CoV-2 patients in the GISAID\u00a0database, which contains fully or partially sequenced SARS-CoV-2 samples from laboratories around the world. Among many important research questions which are currently being investigated, one aspect pertains to the genetic characterization/classification of the virus. We analyze data on the nucleotide sequencing of the virus and geographic information of a subset of 7640 SARS-CoV-2 patients without missing entries that are available in the GISAID database. Instead of modeling the mutation rate, applying phylogenetic tree approaches, and so forth, we here utilize a model-free clustering approach that compares the viruses at a genome-wide level. We apply principal component analysis to a similarity matrix that compares all pairs of these SARS-CoV-2 nucleotide sequences at all loci simultaneously, using the Jaccard index. Our analysis results of the SARS-CoV-2 genome data illustrates the geographic and chronological progression of the virus, starting from the first cases that were observed in China to the current wave of cases in Europe and North America. This is in line with a phylogenetic analysis which we use to contrast our results. We also observe that, based on their sequence data, the SARS-CoV-2 viruses cluster in distinct genetic subgroups. It is the subject of ongoing research to examine whether the genetic subgroup could be related to diseases outcome and its potential implications for vaccine development."
+      ],
+      "CopyrightInformation": "\u00a9 2021 Wiley Periodicals LLC."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-6008-2720"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics,\u00a0T.H. Chan School of Public Health, Harvard University, Boston, Massachusetts, USA."
+          }
+        ],
+        "LastName": "Hahn",
+        "ForeName": "Georg",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics,\u00a0T.H. Chan School of Public Health, Harvard University, Boston, Massachusetts, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Consilience,\u00a0Graduate School, Dankook University, Yongin-si, South Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Sanghun",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Channing Division of Network Medicine, Department of Medicine,\u00a0Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts, USA."
+          }
+        ],
+        "LastName": "Weiss",
+        "ForeName": "Scott T",
+        "Initials": "ST"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics,\u00a0T.H. Chan School of Public Health, Harvard University, Boston, Massachusetts, USA."
+          }
+        ],
+        "LastName": "Lange",
+        "ForeName": "Christoph",
+        "Initials": "C"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U01HL089897",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P01HL132825",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI154470",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01HG008976",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P01HL120839",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HG008976",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "Agency": "Cure Alzheimer's Fund",
+        "Country": ""
+      },
+      {
+        "GrantID": "2U01HG008685",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 HG008685",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P01 HL132825",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01HL089856",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 HL089897",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U01 HL089856",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "Agency": "National Institutes of Health: 1R01AI154470-01; 2U01HG008685",
+        "Country": ""
+      },
+      {
+        "GrantID": "P01 HL120839",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Genet Epidemiol",
+    "NlmUniqueID": "8411723",
+    "ISSNLinking": "0741-0395"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2020 Jun 30;:",
+      "PMID": "32637949"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Europe"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Geographic Mapping"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Epidemiology"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "North America"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Principal Component Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spatio-Temporal Analysis"
+    }
+  ],
+  "CoiStatement": "Conflict of Interest. The authors declare no conflict of interest."
+}

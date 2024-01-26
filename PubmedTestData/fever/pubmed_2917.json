@@ -1,0 +1,198 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Simons simplex collection",
+      "autism spectrum disorder",
+      "fever effect",
+      "fever response",
+      "machine learning",
+      "subtyping"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37119025",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "06",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "04",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/aur.2935"
+    ],
+    "Journal": {
+      "ISSN": "1939-3806",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Autism research : official journal of the International Society for Autism Research",
+      "ISOAbbreviation": "Autism Res"
+    },
+    "ArticleTitle": "Data-driven dissection of the fever effect in autism spectrum disorder.",
+    "Pagination": {
+      "StartPage": "1225",
+      "EndPage": "1235",
+      "MedlinePgn": "1225-1235"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Some individuals with autism spectrum disorder (ASD) demonstrate marked behavioral improvements during febrile episodes, in what is perhaps the only present-day means of modulating the core ASD phenotype. Understanding the nature of this so-called fever effect is therefore essential for leveraging this natural temporary relief of symptoms to a sustained efficacious intervention. Toward this goal, we used machine learning to analyze the rich clinical data of the Simons Simplex Collection, in which one out of every six children with ASD was reported to improve during febrile episodes, across multiple ASD domains. Reported behavioral improvements during febrile episodes were associated with maternal infection in pregnancy (OR\u2009=\u20091.7, 95% CI\u2009=\u2009[1.42, 2.03], P\u2009=\u20094.24\u2009\u00d7\u200910<sup>-4</sup> ) and gastrointestinal (GI) dysfunction (OR\u2009=\u20091.46, 95% CI\u2009=\u2009[1.15, 1.81], P\u2009=\u20091.94\u2009\u00d7\u200910<sup>-3</sup> ). Family members of children reported to improve when febrile have an increased prevalence of autoimmune disorders (OR\u2009=\u20091.43, 95% CI\u2009=\u2009[1.23, 1.67], P\u2009=\u20093.0\u2009\u00d7\u200910<sup>-6</sup> ), language disorders (OR\u2009=\u20091.63, 95% CI\u2009=\u2009[1.29, 2.04], P\u2009=\u20092.5\u2009\u00d7\u200910<sup>-5</sup> ), and neuropsychiatric disorders (OR\u2009=\u20091.59, 95% CI\u2009=\u2009[1.34, 1.89], P\u2009<\u20091\u2009\u00d7\u200910<sup>-6</sup> ). Since both GI abnormalities and maternal immune activation have been linked to ASD via proinflammatory cytokines, these results might suggest a possible involvement of immune dysregulation in the fever effect, consistent with findings in mouse models. This work advances our understanding of the fever-responsive ASD subtype and motivates the future studies to directly test the link between proinflammatory cytokines and behavioral modifications in individuals with ASD."
+      ],
+      "CopyrightInformation": "\u00a9 2023 The Authors. Autism Research published by International Society for Autism Research and Wiley Periodicals LLC."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-0193-0686"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+          }
+        ],
+        "LastName": "Muller",
+        "ForeName": "Efrat",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2034-4527"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychology, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Life Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+          }
+        ],
+        "LastName": "Shalev",
+        "ForeName": "Ido",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+          }
+        ],
+        "LastName": "Bachmat",
+        "ForeName": "Eitan",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6784-7597"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Life Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Computational Health Informatics Program, Boston Children's Hospital, Boston, Massachusetts, USA."
+          }
+        ],
+        "LastName": "Eran",
+        "ForeName": "Alal",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Autism Res",
+    "NlmUniqueID": "101461858",
+    "ISSNLinking": "1939-3806"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cytokines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pregnancy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "epidemiology",
+        "diagnosis"
+      ],
+      "DescriptorName": "Autism Spectrum Disorder"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "epidemiology"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [
+        "complications"
+      ],
+      "DescriptorName": "Gastrointestinal Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phenotype"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cytokines"
+    }
+  ]
+}

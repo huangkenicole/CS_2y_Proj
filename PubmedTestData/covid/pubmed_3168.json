@@ -1,0 +1,220 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "cancers",
+      "comorbidities"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33539530",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab003",
+      "10.1093/bib/bbab003"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "22"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Diseasome and comorbidities complexities of SARS-CoV-2 infection with common malignant diseases.",
+    "Pagination": {
+      "StartPage": "1415",
+      "EndPage": "1429",
+      "MedlinePgn": "1415-1429"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "With the increasing number of immunoinflammatory complexities, cancer patients have a higher risk of serious disease outcomes and mortality with SARS-CoV-2 infection which is still not clear. In this study, we aimed to identify infectome, diseasome and comorbidities between COVID-19 and cancer via comprehensive bioinformatics analysis to identify the synergistic severity of the cancer patient for SARS-CoV-2 infection. We utilized transcriptomic datasets of SARS-CoV-2 and different cancers from Gene Expression Omnibus and Array Express Database to develop a bioinformatics pipeline and software tools to analyze a large set of transcriptomic data and identify the pathobiological relationships between the disease conditions. Our bioinformatics approach revealed commonly dysregulated genes (MARCO, VCAN, ACTB, LGALS1, HMOX1, TIMP1, OAS2, GAPDH, MSH3, FN1, NPC2, JUND, CHI3L1, GPNMB, SYTL2, CASP1, S100A8, MYO10, IGFBP3, APCDD1, COL6A3, FABP5, PRDX3, CLEC1B, DDIT4, CXCL10 and CXCL8), common gene ontology (GO), molecular pathways between SARS-CoV-2 infections and cancers. This work also shows the synergistic complexities of SARS-CoV-2 infections for cancer patients through the gene set enrichment and semantic similarity. These results highlighted the immune systems, cell activation and cytokine production GO pathways that were observed in SARS-CoV-2 infections as well as breast, lungs, colon, kidney and thyroid cancers. This work also revealed ribosome biogenesis, wnt signaling pathway, ribosome, chemokine and cytokine pathways that are commonly deregulated in cancers and COVID-19. Thus, our bioinformatics approach and tools revealed interconnections in terms of significant genes, GO, pathways between SARS-CoV-2 infections and malignant tumors."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Management Information Systems, Noakhali Science & Technology University, Bangladesh."
+          }
+        ],
+        "LastName": "Satu",
+        "ForeName": "Md Shahriare",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, Gono Bishwabidyalay, Bangladesh."
+          }
+        ],
+        "LastName": "Khan",
+        "ForeName": "Md Imran",
+        "Initials": "MI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biochemistry and Biotechnology, School of Biomedical Science, Khwaja Yunus Ali University, Enayetpur, Sirajganj, Bangladesh."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Genetic Engineering, Faculty of Biological Sciences, Islamic University, Kushtia, Bangladesh."
+          }
+        ],
+        "LastName": "Rahman",
+        "ForeName": "Md Rezanur",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Telecommunication Engineering, Noakhali Science & Technology University, Bangladesh."
+          }
+        ],
+        "LastName": "Howlader",
+        "ForeName": "Koushik Chandra",
+        "Initials": "KC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Telecommunication Engineering, Noakhali Science & Technology University, Bangladesh."
+          }
+        ],
+        "LastName": "Roy",
+        "ForeName": "Shatabdi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Telecommunication Engineering, Noakhali Science & Technology University, Bangladesh."
+          }
+        ],
+        "LastName": "Roy",
+        "ForeName": "Shuvo Saha",
+        "Initials": "SS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Garvan Institute of Medical Research, Healthy Ageing Theme, Darlinghurst, NSW, Australia."
+          }
+        ],
+        "LastName": "Quinn",
+        "ForeName": "Julian M W",
+        "Initials": "JMW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Management Information Systems, Noakhali Science & Technology University, Bangladesh."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Garvan Institute of Medical Research, Healthy Ageing Theme, Darlinghurst, NSW, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "WHO Collaborating Centre on eHealth, UNSW Digital Health, School of Public Health and Community Medicine, Faculty of Medicine, University of New South Wales, Sydney, Australia."
+          }
+        ],
+        "LastName": "Moni",
+        "ForeName": "Mohammad Ali",
+        "Initials": "MA"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "complications",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Ontology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "complications"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Transduction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

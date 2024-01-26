@@ -1,0 +1,319 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "inertial measurement units",
+      "knee",
+      "mHealth",
+      "mobile health",
+      "physical therapy",
+      "rehabilitation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30823373",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "04",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "02",
+        "Day": "28"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1021",
+      "10.3390/s19051021"
+    ],
+    "Journal": {
+      "ISSN": "1424-8220",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Feb",
+          "Day": "28"
+        }
+      },
+      "Title": "Sensors (Basel, Switzerland)",
+      "ISOAbbreviation": "Sensors (Basel)"
+    },
+    "ArticleTitle": "Verification of a Portable Motion Tracking System for Remote Management of Physical Rehabilitation of the Knee.",
+    "Abstract": {
+      "AbstractText": [
+        "Rehabilitation following knee injury or surgery is critical for recovery of function and independence. However, patient non-adherence remains a significant barrier to success. Remote rehabilitation using mobile health (mHealth) technologies have potential for improving adherence to and execution of home exercise. We developed a remote rehabilitation management system combining two wireless inertial measurement units (IMUs) with an interactive mobile application and a web-based clinician portal (interACTION). However, in order to translate interACTION into the clinical setting, it was first necessary to verify the efficacy of measuring knee motion during rehabilitation exercises for physical therapy and determine if visual feedback significantly improves the participant's ability to perform the exercises correctly. Therefore, the aim of this study was to verify the accuracy of the IMU-based knee angle measurement system during three common physical therapy exercises, quantify the effect of visual feedback on exercise performance, and understand the qualitative experience of the user interface through survey data. A convenience sample of ten healthy control participants were recruited for an IRB-approved protocol. Using the interACTION application in a controlled laboratory environment, participants performed ten repetitions of three knee rehabilitation exercises: heel slides, short arc quadriceps contractions, and sit-to-stand. The heel slide exercise was completed without feedback from the mobile application, then all exercises were performed with visual feedback. Exercises were recorded simultaneously by the IMU motion tracking sensors and a video-based motion tracking system. Validation showed moderate to good agreement between the two systems for all exercises and accuracy was within three degrees. Based on custom usability survey results, interACTION was well received. Overall, this study demonstrated the potential of interACTION to measure range of motion during rehabilitation exercises for physical therapy and visual feedback significantly improved the participant's ability to perform the exercises correctly."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2099-413X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15213, USA. kmb7@pitt.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, Swanson School of Engineering, University of Pittsburgh, Pittsburgh, PA 15213, USA. kmb7@pitt.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical and Translational Science Institute, University of Pittsburgh, Pittsburgh, PA 15213, USA. kmb7@pitt.edu."
+          }
+        ],
+        "LastName": "Bell",
+        "ForeName": "Kevin M",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15213, USA. Onyeukwu.Chukwudi@medstudent.pitt.edu."
+          }
+        ],
+        "LastName": "Onyeukwu",
+        "ForeName": "Chukwudi",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15213, USA. mcclincymp@upmc.edu."
+          }
+        ],
+        "LastName": "McClincy",
+        "ForeName": "Michael P",
+        "Initials": "MP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mechanical Engineering and Materials Science, Swanson School of Engineering, University of Pittsburgh, Pittsburgh, PA 15213, USA. mca36@pitt.edu."
+          }
+        ],
+        "LastName": "Allen",
+        "ForeName": "Marcus",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15213, USA. leb94@pitt.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physical Therapy, School of Health and Rehabilitation Sciences, University of Pittsburgh, Pittsburgh, PA 15213, USA. leb94@pitt.edu."
+          }
+        ],
+        "LastName": "Bechard",
+        "ForeName": "Laura",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Medicine, University of Pittsburgh, Pittsburgh, PA 15213, USA. mukherab@rutgers.edu."
+          }
+        ],
+        "LastName": "Mukherjee",
+        "ForeName": "Abhigyan",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15213, USA. rob.a.hartman@gmail.com."
+          }
+        ],
+        "LastName": "Hartman",
+        "ForeName": "Robert A",
+        "Initials": "RA"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3394-0237"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15213, USA. CNS45@pitt.edu."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Clair",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9272-7201"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physical Therapy, School of Health and Rehabilitation Sciences, University of Pittsburgh, Pittsburgh, PA 15213, USA. adl45@pitt.edu."
+          }
+        ],
+        "LastName": "Lynch",
+        "ForeName": "Andrew D",
+        "Initials": "AD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Orthopaedic Surgery, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15213, USA. jirrgang@pitt.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physical Therapy, School of Health and Rehabilitation Sciences, University of Pittsburgh, Pittsburgh, PA 15213, USA. jirrgang@pitt.edu."
+          }
+        ],
+        "LastName": "Irrgang",
+        "ForeName": "James J",
+        "Initials": "JJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "UL1TR000005",
+        "Agency": "Pittsburgh Innovation Challenge",
+        "Country": ""
+      },
+      {
+        "GrantID": "K12 HS 022989-01",
+        "Agency": "University of Pittsburgh PCOR Career Development Program",
+        "Country": ""
+      },
+      {
+        "GrantID": "PI: Sanjeev Shroff, PhD",
+        "Agency": "Wallace H. Coulter Foundation",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Sensors (Basel)",
+    "NlmUniqueID": "101204366",
+    "ISSNLinking": "1424-8220"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feedback"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Knee Joint"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mobile Applications"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Patient Identification Systems"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Range of Motion, Articular"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Rehabilitation"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Telerehabilitation"
+    },
+    {
+      "QualifierName": [
+        "instrumentation"
+      ],
+      "DescriptorName": "Wireless Technology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    }
+  ],
+  "CoiStatement": "Kevin Bell, Michael McClincy, Robert Hartman, Andrew Lynch, and James Irrgang have financial interest with interACTION (University of Pittsburgh Reference #04275) being evaluated in this research study. This means that it is possible that the results of this study could lead to personal profit for the individual investigator(s) and/or the University of Pittsburgh."
+}

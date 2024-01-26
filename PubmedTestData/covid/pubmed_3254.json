@@ -1,0 +1,373 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Delta variant",
+      "Omicron variant",
+      "SARS-CoV-2",
+      "inpatient outcomes"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36528815",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/cid/ciac957"
+    ],
+    "Journal": {
+      "ISSN": "1537-6591",
+      "JournalIssue": {
+        "Volume": "76",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "May",
+          "Day": "03"
+        }
+      },
+      "Title": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "ISOAbbreviation": "Clin Infect Dis"
+    },
+    "ArticleTitle": "Impact of Severe Acute Respiratory Syndrome Coronavirus 2 Variants on Inpatient Clinical Outcome.",
+    "Pagination": {
+      "StartPage": "1539",
+      "EndPage": "1549",
+      "MedlinePgn": "1539-1549"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Prior observation has shown differences in COVID-19 hospitalization risk between SARS-CoV-2 variants, but limited information describes hospitalization outcomes.",
+        "Inpatients with COVID-19 at 5 hospitals in the eastern United States were included if they had hypoxia, tachypnea, tachycardia, or fever, and SARS-CoV-2 variant data, determined from whole-genome sequencing or local surveillance inference. Analyses were stratified by history of SARS-CoV-2 vaccination or infection. The average effect of SARS-CoV-2 variant on 28-day risk of severe disease, defined by advanced respiratory support needs, or death was evaluated using models weighted on propensity scores derived from baseline clinical features.",
+        "Severe disease or death within 28 days occurred for 977 (29%) of 3369 unvaccinated patients and 269 (22%) of 1230 patients with history of vaccination or prior SARS-CoV-2 infection. Among unvaccinated patients, the relative risk of severe disease or death for Delta variant compared with ancestral lineages was 1.30 (95% confidence interval [CI]: 1.11-1.49). Compared with Delta, the risk for Omicron patients was .72 (95% CI: .59-.88) and compared with ancestral lineages was .94 (.78-1.1). Among Omicron and Delta infections, patients with history of vaccination or prior SARS-CoV-2 infection had half the risk of severe disease or death (adjusted hazard ratio: .40; 95% CI: .30-.54), but no significant outcome difference by variant.",
+        "Although risk of severe disease or death for unvaccinated inpatients with Omicron was lower than with Delta, it was similar to ancestral lineages. Severe outcomes were less common in vaccinated inpatients, with no difference between Delta and Omicron infections."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2022. Published by Oxford University Press on behalf of Infectious Diseases Society of America. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-0376-8560"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Robinson",
+        "ForeName": "Matthew L",
+        "Initials": "ML"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+          }
+        ],
+        "LastName": "Morris",
+        "ForeName": "C Paul",
+        "Initials": "CP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Betz",
+        "ForeName": "Joshua F",
+        "Initials": "JF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yifan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Bollinger",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Natalie",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Cardiology, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Thiemann",
+        "ForeName": "David R",
+        "Initials": "DR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Fall",
+        "ForeName": "Amary",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Eldesouki",
+        "ForeName": "Raghda E",
+        "Initials": "RE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Norton",
+        "ForeName": "Julie M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Gaston",
+        "ForeName": "David C",
+        "Initials": "DC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Forman",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Luo",
+        "ForeName": "Chun Huai",
+        "Initials": "CH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Zeger",
+        "ForeName": "Scott L",
+        "Initials": "SL"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7036-2718"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Gupta",
+        "ForeName": "Amita",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pulmonary and Critical Care, Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Garibaldi",
+        "ForeName": "Brian T",
+        "Initials": "BT"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ],
+        "LastName": "Mostafa",
+        "ForeName": "Heba H",
+        "Initials": "HH"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U54 HL143541",
+        "Acronym": "HL",
+        "Agency": "NHLBI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 DA045556",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54 CA260492",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "HHSN272201400007C",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54 EB007958",
+        "Acronym": "EB",
+        "Agency": "NIBIB NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UM1 AI068613",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Clin Infect Dis",
+    "NlmUniqueID": "9203213",
+    "ISSNLinking": "1058-4838"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2022 Feb 03;:",
+      "PMID": "35132423"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Inpatients"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Vaccines"
+    }
+  ],
+  "CoiStatement": "Potential conflicts of interest. The Maryland Department of Health collaborates for research with BioRad, Hologic, and DiaSorin. J. B. has equity/entitlement to future royalties in miDiagnostics. B. T. G. is a member of the Food and Drug Administration (FDA) Pulmonary-Asthma Drug Advisory Committee and a board member of the Society of Bedside Medicine and has received consulting fees from Janssen Research and Development, LLC (related to vaccine trial case adjudication); Gilead Sciences, Inc (related to COVID therapeutics); and Atea Pharmaceuticals, Inc (related to COVID therapeutics). R. B. is a consultant for Merck & Co and Hologic. R. B. also reports royalties or licenses from emocha Health, support for attending meetings and/or travel from Hologic, and participation on a Data Safety Monitoring Board or Advisory Board for Merck. H. H. M. reports the following grants or contracts unrelated to this work: National Institutes of Health (NIH) UM1AI0686, NIH UM1 AI068613-14, NIH R01 DA045556-04S1, NIH 3U54HL143541-02S2, NIH 4UH3CA211396-03, and NIH R01 CA243393 and receipt of equipment, materials, drugs, medical writing, gifts, or other services related to research contract from BioRad, DiaSorin, and Hologic. D. C. G. reports grants or contracts unrelated to this work from Illumina, Inc; IDbyNDA, Inc; and Fisher Center Discovery Program, Johns Hopkins; consulting fees from bioMerieux, Inc; and payment or honoraria for lectures, presentations, speaker\u2019s bureaus, manuscript writing, or educational events from the American Association of Clinical Chemistry and Pan American Society of Clinical Virology. A. G. reports unrelated grants or contracts from NIH and Unitaid and the Centers for Disease Control and Prevention (CDC); participation on an NIH/NIAID Advisory Council and Indo US Science Technology Governing Board; and roles on the IMPAACT Network TB Scientific Committee and World Health Organization (WHO) MDR TB Guidelines Committee. M. L. R. reports grants or contracts unrelated to this work from Critical Path Institute/FDA, paid to their institution. S. L. Z. reports the following grants or contracts unrelated to this work: 1R01AR073208-01 (Shah) (1 April 2018\u201331 March 2023), NIH/National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS), Autoantibodies Define Scleroderma Subgroups with Distinct Relationships to Cancer; UL1TR003098 (Ford) (1 June 2019\u201330 April 2024), NIH/National Center for Advancing Translational Sciences (NCATS), Johns Hopkins Institutional Clinical and Translational Science Award. S. L. Z. also reports a role as Co-Director for Data Science, JHM inHealth Precision Medicine (paid to their institution). These conflicts of interest are being managed by the Johns Hopkins University in accordance with its conflict-of-interest policies. All other authors report no potential conflicts. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed."
+}

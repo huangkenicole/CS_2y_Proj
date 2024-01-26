@@ -1,0 +1,300 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "British variant",
+      "Genomic surveillance",
+      "SARS-CoV-2",
+      "South African variant",
+      "Variants monitoring"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33827042",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.advms.2021.03.005",
+      "S1896-1126(21)00020-1"
+    ],
+    "Journal": {
+      "ISSN": "1898-4002",
+      "JournalIssue": {
+        "Volume": "66",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Advances in medical sciences",
+      "ISOAbbreviation": "Adv Med Sci"
+    },
+    "ArticleTitle": "The first SARS-CoV-2 genetic variants of concern (VOC) in Poland: The concept of a comprehensive approach to monitoring and surveillance of emerging variants.",
+    "Pagination": {
+      "StartPage": "237",
+      "EndPage": "245",
+      "MedlinePgn": "237-245"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We analyzed the SARS-CoV-2 genome using our integrated genome analysis system and present the concept of a comprehensive approach to monitoring and surveillance of emerging variants.",
+        "A total of 69 SARS-CoV-2 positive samples (with Ct value\u00a0\u200b\u2264\u00a0\u200b28) were tested. Samples included in this study were selected from 7 areas of eastern Poland. All samples were sequenced on an Illumina MiSeq platform using a 300-cycle MiSeq Reagent Kit v2. BWA was used for reads mapping on the reference SARS-CoV-2 sequence. SAMTools were used for post-processing of reads to genome assembly. Pango lineage and Nexstrain were used to identify variants and amino acid mutations. Statistical analysis was performed with R 4.0.2.",
+        "This study shows the first confirmed case of SARS-CoV-2 in Poland with the lineage B.1.351 (known as 501Y.V2 South African variant), as well as another 18 cases with epidemiologically relevant lineage B.1.1.7, known as British variant. Supplementary analysis of SARS-CoV-2 sequences deposited in GISAID shows that the share of a new variant can change rapidly within one month. In addition, we show a complete, integrated concept of a networked system for analyzing the variability of the SARS-CoV-2 genome, which, used in the present study, generated data and a variant report within 6 days.",
+        "The analyzed viral genomes showed considerable variability with simultaneous clear distinction of local clusters of genomes showing high similarity. Implementing real-time monitoring of new SARS-CoV-2 variants in Poland is urgently needed, and our developed system is available to be implemented on a large scale."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Medical University of Bialystok. Published by Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Molecular Biology, Medical University of Bialystok, Bialystok, Poland; Academic Center for Pathomorphological and Genetic-Molecular Diagnostics, Bialystok, Poland; Center of Experimental Medicine, Medical University of Bialystok, Bialystok, Poland."
+          }
+        ],
+        "LastName": "Charkiewicz",
+        "ForeName": "Rados\u0142aw",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Molecular Biology, Medical University of Bialystok, Bialystok, Poland; Academic Center for Pathomorphological and Genetic-Molecular Diagnostics, Bialystok, Poland."
+          }
+        ],
+        "LastName": "Nikli\u0144ski",
+        "ForeName": "Jacek",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Mathematics and Information Sciences, Warsaw University of Technology, Warsaw, Poland."
+          }
+        ],
+        "LastName": "Biecek",
+        "ForeName": "Przemys\u0142aw",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Clinical Molecular Biology, Medical University of Bialystok, Bialystok, Poland; Academic Center for Pathomorphological and Genetic-Molecular Diagnostics, Bialystok, Poland."
+          }
+        ],
+        "LastName": "Ki\u015bluk",
+        "ForeName": "Joanna",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases and Neuroinfection, Medical University of Bialystok, Bialystok, Poland."
+          }
+        ],
+        "LastName": "Pancewicz",
+        "ForeName": "S\u0142awomir",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases and Neuroinfection, Medical University of Bialystok, Bialystok, Poland."
+          }
+        ],
+        "LastName": "Moniuszko-Malinowska",
+        "ForeName": "Anna M",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases and Hepatology, Medical University of Bialystok, Bialystok, Poland."
+          }
+        ],
+        "LastName": "Flisiak",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Research Center, Medical University of Bialystok, Bialystok, Poland."
+          }
+        ],
+        "LastName": "Kr\u0119towski",
+        "ForeName": "Adam J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Academic Center for Pathomorphological and Genetic-Molecular Diagnostics, Bialystok, Poland; Department of Human Anatomy, Medical University of Bialystok, Bialystok, Poland."
+          }
+        ],
+        "LastName": "Dzi\u0119cio\u0142",
+        "ForeName": "Janusz",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Regenerative Medicine and Immune Regulation, Medical University of Bialystok, Bialystok, Poland."
+          }
+        ],
+        "LastName": "Moniuszko",
+        "ForeName": "Marcin",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bacteriology and Biocontamination Control, National Institute of Public Health, Warsaw, Poland."
+          }
+        ],
+        "LastName": "Gierczy\u0144ski",
+        "ForeName": "Rafa\u0142",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Public Health, Faculty of Health Sciences, Warsaw Medical University, Warsaw, Poland."
+          }
+        ],
+        "LastName": "Juszczyk",
+        "ForeName": "Grzegorz",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Academic Center for Pathomorphological and Genetic-Molecular Diagnostics, Bialystok, Poland; Department of Medical Pathomorphology, Medical University of Bialystok, Bialystok, Poland. Electronic address: joasia@umb.edu.pl."
+          }
+        ],
+        "LastName": "Resze\u0107",
+        "ForeName": "Joanna",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Adv Med Sci",
+    "NlmUniqueID": "101276222",
+    "ISSNLinking": "1896-1126"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Science"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemiological Monitoring"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Poland"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Whole Genome Sequencing"
+    }
+  ],
+  "CoiStatement": "Declaration of competing interest The authors declare no conflict of interests."
+}

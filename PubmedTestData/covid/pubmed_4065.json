@@ -1,0 +1,295 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Liquid biopsy",
+      "Long COVID",
+      "Post-COVID sequelae",
+      "Post-acute COVID-19 syndrome (PACS)",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36921564",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "03",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "104519",
+      "10.1016/j.ebiom.2023.104519",
+      "S2352-3964(23)00084-1"
+    ],
+    "Journal": {
+      "ISSN": "2352-3964",
+      "JournalIssue": {
+        "Volume": "90",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Apr"
+        }
+      },
+      "Title": "EBioMedicine",
+      "ISOAbbreviation": "EBioMedicine"
+    },
+    "ArticleTitle": "Investigation of liquid biopsy analytes in peripheral blood of individuals after SARS-CoV-2 infection.",
+    "Pagination": {
+      "StartPage": "104519",
+      "MedlinePgn": "104519"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Post-acute COVID-19 syndrome (PACS) is linked to severe organ damage. The identification and stratification of at-risk SARS-CoV-2 infected individuals is vital to providing appropriate care. This exploratory study looks for a potential liquid biopsy signal for PACS using both manual and machine learning approaches.",
+        "Using a high definition single cell assay (HDSCA) workflow for liquid biopsy, we analysed 100 Post-COVID patients and 19 pre-pandemic normal donor (ND) controls. Within our patient cohort, 73 had received at least 1 dose of vaccination prior to SARS-CoV-2 infection. We stratified the COVID patients into 25 asymptomatic, 22 symptomatic COVID-19 but not suspected for PACS and 53 PACS suspected. All COVID-19 patients investigated in this study were diagnosed between April 2020 and January 2022 with a median 243 days (range 16-669) from diagnosis to their blood draw. We did a histopathological examination of rare events in the peripheral blood and used a machine learning model to evaluate predictors of PACS.",
+        "The manual classification found rare cellular and acellular events consistent with features of endothelial cells and platelet structures in the PACS-suspected cohort. The three categories encompassing the hypothesised events were observed at a significantly higher incidence in the PACS-suspected cohort compared to the ND (p-value < 0.05). The machine learning classifier performed well when separating the NDs from Post-COVID with an accuracy of 90.1%, but poorly when separating the patients suspected and not suspected of PACS with an accuracy of 58.7%.",
+        "Both the manual and the machine learning model found differences in the Post-COVID cohort and the NDs, suggesting the existence of a liquid biopsy signal after active SARS-CoV-2 infection. More research is needed to stratify PACS and its subsyndromes.",
+        "This work was funded in whole or in part by Fulgent Genetics, Kathy and Richard Leventhal and Vassiliadis Research Fund. This work was also supported by the National Cancer InstituteU54CA260591."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 The Authors. Published by Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Convergent Science Institute in Cancer, Michelson Center for Convergent Bioscience, Dornsife College of Letters, Arts and Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+          }
+        ],
+        "LastName": "Qi",
+        "ForeName": "Elizabeth",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Convergent Science Institute in Cancer, Michelson Center for Convergent Bioscience, Dornsife College of Letters, Arts and Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+          }
+        ],
+        "LastName": "Courcoubetis",
+        "ForeName": "George",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Convergent Science Institute in Cancer, Michelson Center for Convergent Bioscience, Dornsife College of Letters, Arts and Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+          }
+        ],
+        "LastName": "Liljegren",
+        "ForeName": "Emmett",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, 8700 Beverly Blvd Suite AC1072, Los Angeles, CA 90048, USA."
+          }
+        ],
+        "LastName": "Herrera",
+        "ForeName": "Ergueen",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, Department of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Nathalie",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Medical Oncology, Department of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA."
+          }
+        ],
+        "LastName": "Nadri",
+        "ForeName": "Maimoona",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cedars-Sinai Medical Center, Pulmonary Rehabilitation in the Women's Guild Lung Institute, Los Angeles, CA 90048, USA."
+          }
+        ],
+        "LastName": "Ghandehari",
+        "ForeName": "Sara",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, 8700 Beverly Blvd Suite AC1072, Los Angeles, CA 90048, USA."
+          }
+        ],
+        "LastName": "Kazemian",
+        "ForeName": "Elham",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, 8700 Beverly Blvd Suite AC1072, Los Angeles, CA 90048, USA."
+          }
+        ],
+        "LastName": "Reckamp",
+        "ForeName": "Karen L",
+        "Initials": "KL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Hematology and Cellular Therapy, Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA."
+          }
+        ],
+        "LastName": "Merin",
+        "ForeName": "Noah M",
+        "Initials": "NM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Hematology and Cellular Therapy, Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA."
+          }
+        ],
+        "LastName": "Merchant",
+        "ForeName": "Akil",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Convergent Science Institute in Cancer, Michelson Center for Convergent Bioscience, Dornsife College of Letters, Arts and Sciences, University of Southern California, Los Angeles, CA 90089, USA; Catherine & Joseph Aresty Department of Urology, Institute of Urology, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA; Norris Comprehensive Cancer Center, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA."
+          }
+        ],
+        "LastName": "Mason",
+        "ForeName": "Jeremy",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, 8700 Beverly Blvd Suite AC1072, Los Angeles, CA 90048, USA."
+          }
+        ],
+        "LastName": "Figueiredo",
+        "ForeName": "Jane C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Convergent Science Institute in Cancer, Michelson Center for Convergent Bioscience, Dornsife College of Letters, Arts and Sciences, University of Southern California, Los Angeles, CA 90089, USA."
+          }
+        ],
+        "LastName": "Shishido",
+        "ForeName": "Stephanie N",
+        "Initials": "SN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Convergent Science Institute in Cancer, Michelson Center for Convergent Bioscience, Dornsife College of Letters, Arts and Sciences, University of Southern California, Los Angeles, CA 90089, USA; Catherine & Joseph Aresty Department of Urology, Institute of Urology, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA; Norris Comprehensive Cancer Center, Keck School of Medicine, University of Southern California, Los Angeles, CA 90033, USA; Department of Biomedical Engineering, Viterbi School of Engineering, University of Southern California, Los Angeles, CA 90089, USA; Department of Aerospace and Mechanical Engineering, Viterbi School of Engineering, University of Southern California, Los Angeles, CA 90089, USA; Department of Biological Sciences, Dornsife College of Letters, Arts, and Sciences, University of Southern California, Los Angeles, CA 90089, USA. Electronic address: pkuhn@usc.edu."
+          }
+        ],
+        "LastName": "Kuhn",
+        "ForeName": "Peter",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "EBioMedicine",
+    "NlmUniqueID": "101647039",
+    "ISSNLinking": "2352-3964"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Endothelial Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Post-Acute COVID-19 Syndrome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    }
+  ],
+  "CoiStatement": "Declaration of interests NN reports grants from NCI (1U54CA260591) during the conduct of the study. SG reports IBSA pharmaceutical grant and pending patent during the conduct of the study. KLR reports honoraria from AstraZeneca, Janssen and Lilly. AM reports grants from NCI (1U54CA260591) during the conduct of the study. JCF reports grants from NCI (1U54CA260591) during the conduct of the study. PK reports gift donations from Fulgent Genetics, Kathy and Richard Leventhal and Vassiliadis Research Fund. No other disclosures were reported by the other authors."
+}

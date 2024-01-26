@@ -1,0 +1,139 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26099150",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "03",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2015",
+    "Month": "09",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "06",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2015.2447008"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Sep"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "A Global Covariance Descriptor for Nuclear Atypia Scoring in Breast Histopathology Images.",
+    "Pagination": {
+      "StartPage": "1637",
+      "EndPage": "1647",
+      "MedlinePgn": "1637-47"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Nuclear atypia scoring is a diagnostic measure commonly used to assess tumor grade of various cancers, including breast cancer. It provides a quantitative measure of deviation in visual appearance of cell nuclei from those in normal epithelial cells. In this paper, we present a novel image-level descriptor for nuclear atypia scoring in breast cancer histopathology images. The method is based on the region covariance descriptor that has recently become a popular method in various computer vision applications. The descriptor in its original form is not suitable for classification of histopathology images as cancerous histopathology images tend to possess diversely heterogeneous regions in a single field of view. Our proposed image-level descriptor, which we term as the geodesic mean of region covariance descriptors, possesses all the attractive properties of covariance descriptors lending itself to tractable geodesic-distance-based k-nearest neighbor classification using efficient kernels. The experimental results suggest that the proposed image descriptor yields high classification accuracy compared to a variety of widely used image-level descriptors."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Khan",
+        "ForeName": "Adnan Mujahid",
+        "Initials": "AM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sirinukunwattana",
+        "ForeName": "Korsuk",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rajpoot",
+        "ForeName": "Nasir",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Breast"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "pathology"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Cell Nucleus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Histocytochemistry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Interpretation, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Grading"
+    }
+  ]
+}

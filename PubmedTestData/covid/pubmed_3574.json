@@ -1,0 +1,263 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "TMBIM6",
+      "apoptosis",
+      "bioinformatics",
+      "multiomics data"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33744846",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.18632/aging.202718"
+    ],
+    "Journal": {
+      "ISSN": "1945-4589",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "19"
+        }
+      },
+      "Title": "Aging",
+      "ISOAbbreviation": "Aging (Albany NY)"
+    },
+    "ArticleTitle": "TMBIM6, a potential virus target protein identified by integrated multiomics data analysis in SARS-CoV-2-infected host cells.",
+    "Pagination": {
+      "StartPage": "9160",
+      "EndPage": "9185",
+      "MedlinePgn": "9160-9185"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Coronavirus disease 2019 (COVID-19) is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In this study, we collected open access data to analyze the mechanisms associated with SARS-CoV-2 infection. Gene set enrichment analysis (GSEA) revealed that apoptosis-related pathways were enriched in the cells after SARS-CoV-2 infection, and the results of differential expression analysis showed that biological functions related to endoplasmic reticulum stress (ERS) and lipid metabolism were disordered. TMBIM6 was identified as a potential target for SARS-CoV-2 in host cells through weighted gene coexpression network analysis (WGCNA) of the time course of expression of host and viral proteins. The expression and related functions of TMBIM6 were subsequently analyzed to illuminate how viral proteins interfere with the physiological function of host cells. The potential function of viral proteins was further analyzed by GEne Network Inference with Ensemble of trees (GENIE3). This study identified TMBIM6 as a target protein associated with the pathogenesis of SARS-CoV-2, which might provide a novel therapeutic approach for COVID-19 in the future."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory of Proteomics, State Key Laboratory of Organ Failure Research, School of Basic Medical Sciences, Southern Medical University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Qizheng",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory of Proteomics, State Key Laboratory of Organ Failure Research, School of Basic Medical Sciences, Southern Medical University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Junhao",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory of Proteomics, State Key Laboratory of Organ Failure Research, School of Basic Medical Sciences, Southern Medical University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Luo",
+        "ForeName": "Haihua",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory of Proteomics, State Key Laboratory of Organ Failure Research, School of Basic Medical Sciences, Southern Medical University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Lei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory of Proteomics, State Key Laboratory of Organ Failure Research, School of Basic Medical Sciences, Southern Medical University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Xinya",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Respiratory and Critical Care Medicine, Nanfang Hospital, Southern Medical University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Aihua",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory of Proteomics, State Key Laboratory of Organ Failure Research, School of Basic Medical Sciences, Southern Medical University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Deng",
+        "ForeName": "Yongqiang",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Guangdong Provincial Key Laboratory of Proteomics, State Key Laboratory of Organ Failure Research, School of Basic Medical Sciences, Southern Medical University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Yong",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Aging (Albany NY)",
+    "NlmUniqueID": "101508617",
+    "ISSNLinking": "1945-4589"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Apoptosis Regulatory Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Membrane Proteins"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "TMBIM6 protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "A549 Cells"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Apoptosis Regulatory Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Caco-2 Cells"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Membrane Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Maps"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Viral Proteins"
+    }
+  ],
+  "CoiStatement": "<b>CONFLICTS OF INTEREST:</b> All the authors declare that they have no competing interests."
+}

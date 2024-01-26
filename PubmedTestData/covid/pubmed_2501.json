@@ -1,0 +1,553 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "ARTIC",
+      "Genetic",
+      "Genome",
+      "Multiplexing",
+      "NGS",
+      "Nanopore",
+      "SARS-CoV-2",
+      "Sequencing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33563320",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "21",
+      "10.1186/s13073-021-00839-5"
+    ],
+    "Journal": {
+      "ISSN": "1756-994X",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "09"
+        }
+      },
+      "Title": "Genome medicine",
+      "ISOAbbreviation": "Genome Med"
+    },
+    "ArticleTitle": "CoronaHiT: high-throughput sequencing of SARS-CoV-2 genomes.",
+    "Pagination": {
+      "StartPage": "21",
+      "MedlinePgn": "21"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We present CoronaHiT, a platform and throughput flexible method for sequencing SARS-CoV-2 genomes (\u2264\u200996 on MinION or >\u200996 on Illumina NextSeq) depending on changing requirements experienced during the pandemic. CoronaHiT uses transposase-based library preparation of ARTIC PCR products. Method performance was demonstrated by sequencing 2 plates containing 95 and 59 SARS-CoV-2 genomes on nanopore and Illumina platforms and comparing to the ARTIC LoCost nanopore method. Of the 154 samples sequenced using all 3 methods, \u2265\u200990% genome coverage was obtained for 64.3% using ARTIC LoCost, 71.4% using CoronaHiT-ONT and 76.6% using CoronaHiT-Illumina, with almost identical clustering on a maximum likelihood tree. This protocol will aid the rapid expansion of SARS-CoV-2 genome sequencing globally."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Baker",
+        "ForeName": "Dave J",
+        "Initials": "DJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Aydin",
+        "ForeName": "Alp",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Le-Viet",
+        "ForeName": "Thanh",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Kay",
+        "ForeName": "Gemma L",
+        "Initials": "GL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Rudder",
+        "ForeName": "Steven",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "de Oliveira Martins",
+        "ForeName": "Leonardo",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Grupo de Investigaci\u00f3n Biom\u00e9dica en Sepsis - BioSepsis. Hospital Universitario Rio Hortega/Instituto de Investigaci\u00f3n Biom\u00e9dica de Salamanca (IBSAL), Valladolid/Salamanca, Spain."
+          }
+        ],
+        "LastName": "Tedim",
+        "ForeName": "Ana P",
+        "Initials": "AP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Norfolk and Norwich University Hospital, Colney Lane, Norwich, NR4 7UY, UK."
+          }
+        ],
+        "LastName": "Kolyva",
+        "ForeName": "Anastasia",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Diaz",
+        "ForeName": "Maria",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Alikhan",
+        "ForeName": "Nabil-Fareed",
+        "Initials": "NF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Meadows",
+        "ForeName": "Lizzie",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Bell",
+        "ForeName": "Andrew",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Gutierrez",
+        "ForeName": "Ana Victoria",
+        "Initials": "AV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK."
+          }
+        ],
+        "LastName": "Trotter",
+        "ForeName": "Alexander J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Thomson",
+        "ForeName": "Nicholas M",
+        "Initials": "NM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Gilroy",
+        "ForeName": "Rachel",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK."
+          }
+        ],
+        "LastName": "Griffith",
+        "ForeName": "Luke",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          }
+        ],
+        "LastName": "Adriaenssens",
+        "ForeName": "Evelien M",
+        "Initials": "EM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Norfolk and Norwich University Hospital, Colney Lane, Norwich, NR4 7UY, UK."
+          }
+        ],
+        "LastName": "Stanley",
+        "ForeName": "Rachael",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK."
+          }
+        ],
+        "LastName": "Charles",
+        "ForeName": "Ian G",
+        "Initials": "IG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Norfolk and Norwich University Hospital, Colney Lane, Norwich, NR4 7UY, UK."
+          }
+        ],
+        "LastName": "Elumogo",
+        "ForeName": "Ngozi",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK."
+          }
+        ],
+        "LastName": "Wain",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Norfolk and Norwich University Hospital, Colney Lane, Norwich, NR4 7UY, UK."
+          }
+        ],
+        "LastName": "Prakash",
+        "ForeName": "Reenesh",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Norfolk and Norwich University Hospital, Colney Lane, Norwich, NR4 7UY, UK."
+          }
+        ],
+        "LastName": "Meader",
+        "ForeName": "Emma",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK."
+          }
+        ],
+        "LastName": "Mather",
+        "ForeName": "Alison E",
+        "Initials": "AE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK."
+          }
+        ],
+        "LastName": "Webber",
+        "ForeName": "Mark A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Norfolk and Norwich University Hospital, Colney Lane, Norwich, NR4 7UY, UK."
+          }
+        ],
+        "LastName": "Dervisevic",
+        "ForeName": "Samir",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6919-6062"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK. andrew.page@quadram.ac.uk."
+          }
+        ],
+        "LastName": "Page",
+        "ForeName": "Andrew J",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Quadram Institute Bioscience, Norwich Research Park, Norwich, NR4 7UQ, UK. justin.ogrady@quadram.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK. justin.ogrady@quadram.ac.uk."
+          }
+        ],
+        "LastName": "O'Grady",
+        "ForeName": "Justin",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "BB/CCG1860/1",
+        "Acronym": "BB_",
+        "Agency": "Biotechnology and Biological Sciences Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "BB/R012490/1",
+        "Acronym": "BB_",
+        "Agency": "Biotechnology and Biological Sciences Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MC_PC_19027",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "BB/R012504/1",
+        "Acronym": "BB_",
+        "Agency": "Biotechnology and Biological Sciences Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "CD018/0123",
+        "Agency": "ISCIII",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Genome Med",
+    "NlmUniqueID": "101475844",
+    "ISSNLinking": "1756-994X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Whole Genome Sequencing"
+    }
+  ],
+  "CoiStatement": "LG received a partial support for his PhD from Roche. The use of Roche technology for diagnostics in NNUH is coincidental. The authors declare that they have no competing interests."
+}

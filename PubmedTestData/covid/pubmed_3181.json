@@ -1,0 +1,484 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "ORFs",
+      "SARS-CoV-2",
+      "co-morbidities",
+      "machine learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34745097",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "10",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "724914",
+      "10.3389/fimmu.2021.724914"
+    ],
+    "Journal": {
+      "ISSN": "1664-3224",
+      "JournalIssue": {
+        "Volume": "12",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "Frontiers in immunology",
+      "ISOAbbreviation": "Front Immunol"
+    },
+    "ArticleTitle": "The Omic Insights on Unfolding Saga of COVID-19.",
+    "Pagination": {
+      "StartPage": "724914",
+      "MedlinePgn": "724914"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The year 2019 has seen an emergence of the novel coronavirus named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causing coronavirus disease of 2019 (COVID-19). Since the onset of the pandemic, biological and interdisciplinary research is being carried out across the world at a rapid pace to beat the pandemic. There is an increased need to comprehensively understand various aspects of the virus from detection to treatment options including drugs and vaccines for effective global management of the disease. In this review, we summarize the salient findings pertaining to SARS-CoV-2 biology, including symptoms, hosts, epidemiology, SARS-CoV-2 genome, and its emerging variants, viral diagnostics, host-pathogen interactions, alternative antiviral strategies and application of machine learning heuristics and artificial intelligence for effective management of COVID-19 and future pandemics."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Kaur, Chopra, Bhushan, Gupta, Kumari P, Sivagurunathan, Shukla, Rajagopal, Bhalothia, Sharma, Naravula, Suravajhala, Gupta, Abbasi, Goswami, Singh, Narang, Polavarapu, Medicherla, Valadi, Kumar S, Chaubey, Singh, Bandapalli, Kavi Kishor and Suravajhala."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, Hans Raj Mahila Maha Vidyalaya, Punjab, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          }
+        ],
+        "LastName": "Kaur",
+        "ForeName": "Arvinpreet",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Bioinformatics, School of Life Sciences, Pondicherry University, Puducherry, India."
+          }
+        ],
+        "LastName": "Chopra",
+        "ForeName": "Mehak",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, Indian Institute of Science Education and Research, Kolkata, India."
+          }
+        ],
+        "LastName": "Bhushan",
+        "ForeName": "Mahak",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Bioinformatics, Birla Institute of Scientific Research, Jaipur, India."
+          }
+        ],
+        "LastName": "Gupta",
+        "ForeName": "Sonal",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          }
+        ],
+        "LastName": "Kumari P",
+        "ForeName": "Hima",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Bioinformatics, Birla Institute of Scientific Research, Jaipur, India."
+          }
+        ],
+        "LastName": "Sivagurunathan",
+        "ForeName": "Narmadhaa",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Bioinformatics, Birla Institute of Scientific Research, Jaipur, India."
+          }
+        ],
+        "LastName": "Shukla",
+        "ForeName": "Nidhi",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vignan's Foundation for Science, Technology & Research (Deemed to be University), Guntur, India."
+          }
+        ],
+        "LastName": "Rajagopal",
+        "ForeName": "Shalini",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Bioinformatics, Birla Institute of Scientific Research, Jaipur, India."
+          }
+        ],
+        "LastName": "Bhalothia",
+        "ForeName": "Purva",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, Hans Raj Mahila Maha Vidyalaya, Punjab, India."
+          }
+        ],
+        "LastName": "Sharma",
+        "ForeName": "Purnima",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vignan's Foundation for Science, Technology & Research (Deemed to be University), Guntur, India."
+          }
+        ],
+        "LastName": "Naravula",
+        "ForeName": "Jalaja",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, School of Basic Sciences, Manipal University Jaipur, Jaipur, India."
+          }
+        ],
+        "LastName": "Suravajhala",
+        "ForeName": "Renuka",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vignan's Foundation for Science, Technology & Research (Deemed to be University), Guntur, India."
+          }
+        ],
+        "LastName": "Gupta",
+        "ForeName": "Ayam",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Functional Genomics Unit, Council of Scientific and Industrial Research- Institute of Genomics & Integrative Biology (CSIR-IGIB), Delhi, India."
+          }
+        ],
+        "LastName": "Abbasi",
+        "ForeName": "Bilal Ahmed",
+        "Initials": "BA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology, Haldia Institute of Technology, West Bengal, India."
+          }
+        ],
+        "LastName": "Goswami",
+        "ForeName": "Prittam",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics, Hans Raj Mahila Maha Vidyalaya, Punjab, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          }
+        ],
+        "LastName": "Singh",
+        "ForeName": "Harpreet",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, All India Institute of Medical Sciences, Bibinagar, Hyderabad, India."
+          }
+        ],
+        "LastName": "Narang",
+        "ForeName": "Rahul",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomix CARL Pvt. Ltd, Pulivendula, India."
+          }
+        ],
+        "LastName": "Polavarapu",
+        "ForeName": "Rathnagiri",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Bioinformatics, Birla Institute of Scientific Research, Jaipur, India."
+          }
+        ],
+        "LastName": "Medicherla",
+        "ForeName": "Krishna Mohan",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Flame University, Pune, India."
+          }
+        ],
+        "LastName": "Valadi",
+        "ForeName": "Jayaraman",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vignan's Foundation for Science, Technology & Research (Deemed to be University), Guntur, India."
+          }
+        ],
+        "LastName": "Kumar S",
+        "ForeName": "Anil",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cytogenetics Laboratory, Department of Zoology, Benaras Hindu University, Varanasi, India."
+          }
+        ],
+        "LastName": "Chaubey",
+        "ForeName": "Gyaneshwer",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics, University of Alabama, Birmingham, AL, United States."
+          }
+        ],
+        "LastName": "Singh",
+        "ForeName": "Keshav K",
+        "Initials": "KK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "German Cancer Research Centre (DKFZ), Heidelberg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Biology, Council of Scientific and Industrial Research-Indian Institute of Chemical Technology (CSIR-IICT), Hyderabad, India."
+          }
+        ],
+        "LastName": "Bandapalli",
+        "ForeName": "Obul Reddy",
+        "Initials": "OR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Vignan's Foundation for Science, Technology & Research (Deemed to be University), Guntur, India."
+          }
+        ],
+        "LastName": "Kavi Kishor",
+        "ForeName": "Polavarapu Bilhan",
+        "Initials": "PB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioclues.org, Hyderabad, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biotechnology and Bioinformatics, Birla Institute of Scientific Research, Jaipur, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Amrita School of Biotechnology, Amrita Vishwa Vidyapeetham, Kerala, India."
+          }
+        ],
+        "LastName": "Suravajhala",
+        "ForeName": "Prashanth",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Front Immunol",
+    "NlmUniqueID": "101560960",
+    "ISSNLinking": "1664-3224"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Comorbidity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heuristics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteomics"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ],
+  "CoiStatement": "RP was employed by Genomix CARL Pvt. Ltd. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+}

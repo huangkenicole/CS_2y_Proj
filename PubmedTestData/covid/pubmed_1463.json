@@ -1,0 +1,240 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Free energy calculation and decomposition",
+      "Hotspot residues",
+      "MD simulation",
+      "Protein\u2013protein interaction",
+      "SARS-CoV-2",
+      "Spike RBD/hACE2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34013346",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab188",
+      "10.1093/bib/bbab188"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "In silico binding profile characterization of SARS-CoV-2 spike protein and its mutants bound to human ACE2 receptor.",
+    "Abstract": {
+      "AbstractText": [
+        "Severe acute respiratory syndrome coronavirus (SARS-CoV-2), a novel coronavirus, has brought an unprecedented pandemic to the world and affected over 64 million people. The virus infects human using its spike glycoprotein mediated by a crucial area, receptor-binding domain (RBD), to bind to the human ACE2 (hACE2) receptor. Mutations on RBD have been observed in different countries and classified into nine types: A435S, D364Y, G476S, N354D/D364Y, R408I, V341I, V367F, V483A and W436R. Employing molecular dynamics (MD) simulation, we investigated dynamics and structures of the complexes of the prototype and mutant types of SARS-CoV-2 spike RBDs and hACE2. We then probed binding free energies of the prototype and mutant types of RBD with hACE2 protein by using an end-point molecular mechanics Poisson Boltzmann surface area (MM-PBSA) method. According to the result of MM-PBSA binding free energy calculations, we found that V367F and N354D/D364Y mutant types showed enhanced binding affinities with hACE2 compared to the prototype. Our computational protocols were validated by the successful prediction of relative binding free energies between prototype and three mutants: N354D/D364Y, V367F and W436R. Thus, this study provides a reliable computational protocol to fast assess the existing and emerging RBD mutations. More importantly, the binding hotspots identified by using the molecular mechanics generalized Born surface area (MM-GBSA) free energy decomposition approach can guide the rational design of small molecule drugs or vaccines free of drug resistance, to interfere with or eradicate spike-hACE2 binding."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Sciences and Computational Chemical Genomics Screening Center, School of Pharmacy, University of Pittsburgh, Pittsburgh, PA 15261, USA."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yuzhao",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Sciences and Computational Chemical Genomics Screening Center, School of Pharmacy, University of Pittsburgh, Pittsburgh, PA 15261, USA."
+          }
+        ],
+        "LastName": "He",
+        "ForeName": "Xibing",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Sciences and Computational Chemical Genomics Screening Center, School of Pharmacy, University of Pittsburgh, Pittsburgh, PA 15261, USA."
+          }
+        ],
+        "LastName": "Zhai",
+        "ForeName": "Jingchen",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Sciences and Computational Chemical Genomics Screening Center, School of Pharmacy, University of Pittsburgh, Pittsburgh, PA 15261, USA."
+          }
+        ],
+        "LastName": "Ji",
+        "ForeName": "Beihong",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Sciences and Computational Chemical Genomics Screening Center, School of Pharmacy, University of Pittsburgh, Pittsburgh, PA 15261, USA."
+          }
+        ],
+        "LastName": "Man",
+        "ForeName": "Viet Hoang",
+        "Initials": "VH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pharmaceutical Sciences and Computational Chemical Genomics Screening Center, School of Pharmacy, University of Pittsburgh, Pittsburgh, PA 15261, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Junmei",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 DA035778",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "1955260",
+        "Agency": "National Science Foundation",
+        "Country": ""
+      },
+      {
+        "GrantID": "R01GM079383",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "ACE2 protein, human"
+    },
+    {
+      "RegistryNumber": "EC 3.4.17.23",
+      "NameOfSubstance": "Angiotensin-Converting Enzyme 2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics"
+      ],
+      "DescriptorName": "Angiotensin-Converting Enzyme 2"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Docking Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Dynamics Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Protein Binding"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ]
+}

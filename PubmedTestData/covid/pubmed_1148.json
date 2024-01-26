@@ -1,0 +1,280 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33452267",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "15"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "378",
+      "10.1038/s41467-020-20699-8"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "15"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "The challenges of containing SARS-CoV-2 via test-trace-and-isolate.",
+    "Pagination": {
+      "StartPage": "378",
+      "MedlinePgn": "378"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Without a cure, vaccine, or proven long-term immunity against SARS-CoV-2, test-trace-and-isolate (TTI) strategies present a promising tool to contain its spread. For any TTI strategy, however, mitigation is challenged by pre- and asymptomatic transmission, TTI-avoiders, and undetected spreaders, which strongly contribute to \"hidden\" infection chains. Here, we study a semi-analytical model and identify two tipping points between controlled and uncontrolled spread: (1) the behavior-driven reproduction number [Formula: see text] of the hidden chains becomes too large to be compensated by the TTI capabilities, and (2) the number of new infections exceeds the tracing capacity. Both trigger a self-accelerating spread. We investigate how these tipping points depend on challenges like limited cooperation, missing contacts, and imperfect isolation. Our results suggest that TTI alone is insufficient to contain an otherwise unhindered spread of SARS-CoV-2, implying that complementary measures like social distancing and improved hygiene remain necessary."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-8909-774X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Dynamics and Self-Organization, Am Fa\u00dfberg 17, 37077, G\u00f6ttingen, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Biotechnology and Bioengineering, Universidad de Chile, Beauchef 851, 8370456, Santiago, Chile."
+          }
+        ],
+        "LastName": "Contreras",
+        "ForeName": "Sebastian",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Dynamics and Self-Organization, Am Fa\u00dfberg 17, 37077, G\u00f6ttingen, Germany."
+          }
+        ],
+        "LastName": "Dehning",
+        "ForeName": "Jonas",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3646-7190"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Dynamics and Self-Organization, Am Fa\u00dfberg 17, 37077, G\u00f6ttingen, Germany."
+          }
+        ],
+        "LastName": "Loidolt",
+        "ForeName": "Matthias",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5840-3791"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Dynamics and Self-Organization, Am Fa\u00dfberg 17, 37077, G\u00f6ttingen, Germany."
+          }
+        ],
+        "LastName": "Zierenberg",
+        "ForeName": "Johannes",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Dynamics and Self-Organization, Am Fa\u00dfberg 17, 37077, G\u00f6ttingen, Germany."
+          }
+        ],
+        "LastName": "Spitzner",
+        "ForeName": "F Paul",
+        "Initials": "FP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Dynamics and Self-Organization, Am Fa\u00dfberg 17, 37077, G\u00f6ttingen, Germany."
+          }
+        ],
+        "LastName": "Urrea-Quintero",
+        "ForeName": "Jorge H",
+        "Initials": "JH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4721-0561"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Dynamics and Self-Organization, Am Fa\u00dfberg 17, 37077, G\u00f6ttingen, Germany."
+          }
+        ],
+        "LastName": "Mohr",
+        "ForeName": "Sebastian B",
+        "Initials": "SB"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1423-8285"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Dynamics and Self-Organization, Am Fa\u00dfberg 17, 37077, G\u00f6ttingen, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for the Dynamics of Complex Systems, University of G\u00f6ttingen, Friedrich-Hund-Platz 1, 37077, G\u00f6ttingen, Germany."
+          }
+        ],
+        "LastName": "Wilczek",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Campus Institute for Dynamics of Biological Networks, University of G\u00f6ttingen, Hermann-Rein-Stra\u00dfe 3, 37075, G\u00f6ttingen, Germany."
+          }
+        ],
+        "LastName": "Wibral",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8905-5873"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Max Planck Institute for Dynamics and Self-Organization, Am Fa\u00dfberg 17, 37077, G\u00f6ttingen, Germany. viola.priesemann@ds.mpg.de."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for the Dynamics of Complex Systems, University of G\u00f6ttingen, Friedrich-Hund-Platz 1, 37077, G\u00f6ttingen, Germany. viola.priesemann@ds.mpg.de."
+          }
+        ],
+        "LastName": "Priesemann",
+        "ForeName": "Viola",
+        "Initials": "V"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Communicable Disease Control"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Mass Screening"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

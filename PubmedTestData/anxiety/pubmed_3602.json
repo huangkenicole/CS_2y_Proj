@@ -1,0 +1,180 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "38082795",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "12",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC40787.2023.10340806"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2023",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Toward Digital Phenotypes of Early Childhood Mental Health via Unsupervised and Supervised Machine Learning.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "4",
+      "MedlinePgn": "1-4"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Childhood mental health disorders such as anxiety, depression, and ADHD are commonly-occurring and often go undetected into adolescence or adulthood. This can lead to detrimental impacts on long-term wellbeing and quality of life. Current parent-report assessments for pre-school aged children are often biased, and thus increase the need for objective mental health screening tools. Leveraging digital tools to identify the behavioral signature of childhood mental disorders may enable increased intervention at the time with the highest chance of long-term impact. We present data from 84 participants (4-8 years old, 50% diagnosed with anxiety, depression, and/or ADHD) collected during a battery of mood induction tasks using the ChAMP System. Unsupervised Kohonen Self-Organizing Maps (SOM) constructed from movement and audio features indicate that age did not tend to explain clusters as consistently as gender within task-specific and cross-task SOMs. Symptom prevalence and diagnostic status also showed some evidence of clustering. Case studies suggest that high impairment (>80th percentile symptom counts) and diagnostic subtypes (ADHD-Combined) may account for most behaviorally distinct children. Based on this same dataset, we also present results from supervised modeling for the binary classification of diagnoses. Our top performing models yield moderate but promising results (ROC AUC .6-.82, TPR .36-.71, Accuracy .62-.86) on par with our previous efforts for isolated behavioral tasks. Enhancing features, tuning model parameters, and incorporating additional wearable sensor data will continue to enable the rapid progression towards the discovery of digital phenotypes of childhood mental health.Clinical Relevance- This work advances the use of wearables for detecting childhood mental health disorders."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Loftness",
+        "ForeName": "Bryn C",
+        "Initials": "BC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rizzo",
+        "ForeName": "Donna M",
+        "Initials": "DM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Halvorson-Phelan",
+        "ForeName": "Julia",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "O'Leary",
+        "ForeName": "Aisling",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Prytherch",
+        "ForeName": "Shania",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bradshaw",
+        "ForeName": "Carter",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Brown",
+        "ForeName": "Anna Jane",
+        "Initials": "AJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Cheney",
+        "ForeName": "Nick",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "McGinnis",
+        "ForeName": "Ellen W",
+        "Initials": "EW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "McGinnis",
+        "ForeName": "Ryan S",
+        "Initials": "RS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mental Health"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quality of Life"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Supervised Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phenotype"
+    }
+  ]
+}

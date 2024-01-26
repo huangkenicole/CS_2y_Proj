@@ -1,0 +1,162 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33437464",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "020515",
+      "10.7189/jogh.10.020515"
+    ],
+    "Journal": {
+      "ISSN": "2047-2986",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Journal of global health",
+      "ISOAbbreviation": "J Glob Health"
+    },
+    "ArticleTitle": "Optimizing the diagnostic capacity for COVID-19 PCR testing for low resource and high demand settings: The development of information-dependent pooling protocol.",
+    "Pagination": {
+      "StartPage": "020515",
+      "MedlinePgn": "020515"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To compare different pooling methods in an attempt to improve the COVID-19 PCR diagnostic capacities.",
+        "We developed a novel information-dependent pooling protocol (<i>indept</i>), based on transmission of less informative sequential pools on to the next pooling cycle to maximize savings. We then compared it to the <i>halving</i>, <i>generalized halving</i>, <i>splitting</i> and <i>hypercube</i> protocols in a simulation study, across variety of scenarios.",
+        "All five methods yielded various amount of test savings, which mostly depended on the virus prevalence in the population. In situations of low prevalence (up to 5%), <i>indept</i> had the best performance, requiring on average 20% of tests needed for singular testing across scenarios that were analyzed. Nevertheless, this comes at the expense of speed, with the worst-case scenario of <i>indept</i> protocol requiring up to twice the time needed to test the same number of samples in comparison to the <i>hypercube</i> protocol. In order to offset this, we developed a faster version of the protocol (<i>indeptSp</i>), which minimizes the number of terminal pools and manages to retain savings compared to other protocols, despite marginally longer processing times.",
+        "The increasing demand for more testing globally can benefit from application of pooling, especially in resource-restrained situations of the low- and middle-income countries or situations of high testing demand. Singular testing in situations of low prevalence should be systematically discouraged."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 by the Journal of Global Health. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Faculty of Science, University of Split, Split, Croatia."
+          }
+        ],
+        "LastName": "Vuki\u010devi\u0107",
+        "ForeName": "Damir",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Public Health, University of Split School of Medicine, Split, Croatia."
+          }
+        ],
+        "LastName": "Pola\u0161ek",
+        "ForeName": "Ozren",
+        "Initials": "O"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Scotland",
+    "MedlineTA": "J Glob Health",
+    "NlmUniqueID": "101578780",
+    "ISSNLinking": "2047-2978"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data",
+        "supply & distribution"
+      ],
+      "DescriptorName": "Clinical Laboratory Services"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Health Services Needs and Demand"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Mass Screening"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Serologic Tests"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Specimen Handling"
+    }
+  ],
+  "CoiStatement": "Competing interests: OP is scientific advisor to the Government of the Republic of Croatia for COVID-19 response, which had no influence in the decision to prepare the manuscript, its preparation or the selection of the journal where the manuscript would be submitted. The authors completed the ICMJE Unified Competing Interest form at (available upon request from the corresponding author), and declare no further conflicts of interest."
+}

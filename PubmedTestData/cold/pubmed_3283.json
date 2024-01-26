@@ -1,0 +1,156 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "16538703",
+  "DateCompleted": {
+    "Year": "2007",
+    "Month": "03",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2013",
+    "Month": "11",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0277-6715",
+      "JournalIssue": {
+        "Volume": "26",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "Jan",
+          "Day": "30"
+        }
+      },
+      "Title": "Statistics in medicine",
+      "ISOAbbreviation": "Stat Med"
+    },
+    "ArticleTitle": "Comparing two crossing hazard rates by Cox proportional hazards modelling.",
+    "Pagination": {
+      "StartPage": "375",
+      "EndPage": "391",
+      "MedlinePgn": "375-91"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Motivated by a clinical trial of zinc nasal spray for the treatment of the common cold, we consider the problem of comparing two crossing hazard rates. A comprehensive review of the existing methods for dealing with the crossing hazard rates problem is provided. A new method, based on modelling the crossing hazard rates, is proposed and implemented under the Cox proportional hazards framework. The main advantage of the proposed method is the utilization of the Box-Cox transformation which covers a wide range of hazard crossing patterns. Simulation studies are conducted for comparing the performance of the existing methods and the proposed one, which show that the proposed method outperforms some of its peers in certain cases. Applications to a kidney dialysis patients data and the zinc nasal spray clinical trial data are discussed."
+      ],
+      "CopyrightInformation": "Copyright (c) 2006 John Wiley & Sons, Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, Novartis Pharmaceuticals Corporation, One Health Plaza, East Hanover, NJ 07936, USA. kejian.liu@novartis.com"
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Kejian",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Qiu",
+        "ForeName": "Peihua",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sheng",
+        "ForeName": "Jun",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Stat Med",
+    "NlmUniqueID": "8215016",
+    "ISSNLinking": "0277-6715"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "J41CSQ7QDS",
+      "NameOfSubstance": "Zinc"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Administration, Intranasal"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Clinical Trials as Topic"
+    },
+    {
+      "QualifierName": [
+        "drug therapy"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proportional Hazards Models"
+    },
+    {
+      "QualifierName": [
+        "adverse effects"
+      ],
+      "DescriptorName": "Renal Dialysis"
+    },
+    {
+      "QualifierName": [
+        "therapy"
+      ],
+      "DescriptorName": "Renal Insufficiency"
+    },
+    {
+      "QualifierName": [
+        "administration & dosage",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Zinc"
+    }
+  ]
+}

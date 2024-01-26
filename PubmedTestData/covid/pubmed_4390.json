@@ -1,0 +1,172 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37649715",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "08",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "3248192",
+      "10.1155/2023/3248192"
+    ],
+    "Journal": {
+      "ISSN": "1537-744X",
+      "JournalIssue": {
+        "Volume": "2023",
+        "PubDate": {
+          "Year": "2023"
+        }
+      },
+      "Title": "TheScientificWorldJournal",
+      "ISOAbbreviation": "ScientificWorldJournal"
+    },
+    "ArticleTitle": "SARS-CoV-2 Prediction Strategy Based on Classification Algorithms from a Full Blood Examination.",
+    "Pagination": {
+      "StartPage": "3248192",
+      "MedlinePgn": "3248192"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A fast and efficient diagnosis of serious infectious diseases, such as the recent SARS-CoV-2, is necessary in order to curb both the spread of existing variants and the emergence of new ones. In this regard and recognizing the shortcomings of the reverse transcription-polymerase chain reaction (RT-PCR) and rapid diagnostic test (RDT), strategic planning in the public health system is required. In particular, helping researchers develop a more accurate diagnosis means to distinguish patients with symptoms with COVID-19 from other common infections is what is needed. The aim of this study was to train and optimize the support vector machine (SVM) and K-nearest neighbors (KNN) classifiers to rapidly identify SARS-CoV-2 (positive/negative) patients through a simple complete blood test without any prior knowledge of the patient's health state or symptoms. After applying both models to a sample of patients at Israelita Albert Einstein at S\u00e3o Paulo, Brazil (solely for two examined groups of patients' data: \"regular ward\" and \"not admitted to the hospital\"), it was found that both provided early and accurate detection, based only on a selected blood profile via the statistical test of dependence (ANOVA test). The best performance was achieved by the improved SVM technique on nonhospitalized patients, with precision, recall, accuracy, and AUC values reaching 94%, 96%, 95%, and 99%, respectively, which supports the potential of this innovative strategy to significantly improve initial screening."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 C. F. Choukhan et al."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-9927-2887"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Mathematics, Computing and Applications, Mohammed V University in Rabat, Faculty of Sciences, Rabat, Morocco."
+          }
+        ],
+        "LastName": "Choukhan",
+        "ForeName": "C F",
+        "Initials": "CF"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1481-094X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Conception and Systems (Electronics, Signals and Informatics), Mohammed V University in Rabat, Faculty of Sciences, Rabat, Morocco."
+          }
+        ],
+        "LastName": "Lasri",
+        "ForeName": "I",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6532-8045"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Mathematics, Computing and Applications, Mohammed V University in Rabat, Faculty of Sciences, Rabat, Morocco."
+          }
+        ],
+        "LastName": "El Hatimi",
+        "ForeName": "R",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1077-331X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "LASTIMI, Mohammed V University in Rabat, Superior School of Technology, Sale, Rabat, Morocco."
+          }
+        ],
+        "LastName": "Lemnaouar",
+        "ForeName": "M R",
+        "Initials": "MR"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5365-8784"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Mathematics, Computing and Applications, Mohammed V University in Rabat, Faculty of Sciences, Rabat, Morocco."
+          }
+        ],
+        "LastName": "Esghir",
+        "ForeName": "M",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "ScientificWorldJournal",
+    "NlmUniqueID": "101131163",
+    "ISSNLinking": "1537-744X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Brazil"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflicts of interest."
+}

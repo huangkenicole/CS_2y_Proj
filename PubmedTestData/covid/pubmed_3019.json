@@ -1,0 +1,225 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34473726",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0249143",
+      "10.1371/journal.pone.0249143"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Modeling transmission dynamics and effectiveness of worker screening programs for SARS-CoV-2 in pork processing plants.",
+    "Pagination": {
+      "StartPage": "e0249143",
+      "MedlinePgn": "e0249143"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Pork processing plants were apparent hotspots for SARS-CoV2 in the spring of 2020. As a result, the swine industry was confronted with a major occupational health, financial, and animal welfare crisis. The objective of this work was to describe the epidemiological situation within processing plants, develop mathematical models to simulate transmission in these plants, and test the effectiveness of routine PCR screening at minimizing SARS-CoV2 circulation. Cumulative incidence of clinical (PCR-confirmed) disease plateaued at ~2.5% to 25% across the three plants studied here. For larger outbreaks, antibody prevalence was approximately 30% to 40%. Secondly, we developed a mathematical model that accounts for asymptomatic, pre-symptomatic, and background \"community\" transmission. By calibrating this model to observed epidemiological data, we estimated the initial reproduction number (R) of the virus. Across plants, R generally ranged between 2 and 4 during the initial phase, but subsequently declined to ~1 after two to three weeks, most likely as a result of implementation/compliance with biosecurity measures in combination with population immunity. Using the calibrated model to simulate a range of possible scenarios, we show that the effectiveness of routine PCR-screening at minimizing disease spread was far more influenced by testing frequency than by delays in results, R, or background community transmission rates. Testing every three days generally averted about 25% to 40% of clinical cases across a range of assumptions, while testing every 14 days typically averted 7 to 13% of clinical cases. However, the absolute number of additional clinical cases expected and averted was influenced by whether there was residual immunity from a previous peak (i.e., routine testing is implemented after the workforce had experienced an initial outbreak). In contrast, when using PCR-screening to prevent outbreaks or in the early stages of an outbreak, even frequent testing may not prevent a large outbreak within the workforce. This research helps to identify protocols that minimize risk to occupational safety and health and support continuity of business for U.S. processing plants. While the model was calibrated to meat processing plants, the structure of the model and insights about testing are generalizable to other settings where large number of people work in close proximity."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-5764-6430"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Veterinary Population Medicine, University of Minnesota, St. Paul, MN, United States of America."
+          }
+        ],
+        "LastName": "VanderWaal",
+        "ForeName": "Kimberly",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sanford Research, Sioux Falls, SD, United States of America."
+          }
+        ],
+        "LastName": "Black",
+        "ForeName": "Lora",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Katrime Integrated Health, Winnipeg, Canada."
+          }
+        ],
+        "LastName": "Hodge",
+        "ForeName": "Judy",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Veterinary Population Medicine, University of Minnesota, St. Paul, MN, United States of America."
+          }
+        ],
+        "LastName": "Bedada",
+        "ForeName": "Addisalem",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pipestone Veterinary Services, Pipestone, MN, United States of America."
+          }
+        ],
+        "LastName": "Dee",
+        "ForeName": "Scott",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antibodies, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Antibodies, Viral"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Food-Processing Industry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Mass Screening"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Occupational Health"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pork Meat"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Swine"
+    }
+  ],
+  "CoiStatement": "SD and JH are affiliated with commercial companies. We also disclose that JH is affiliated with one of the slaughtering facilities included in this manuscript. These commercial affiliations did not play a role in the study design, data analysis, or preparation of the manuscript and only provided financial support in the form of authors\u2019 salaries. This does not alter our adherence to PLOS ONE policies on sharing data and materials, and data availability is outlined in the Data Availability Statement. Data utilized in this manuscript are confidential and were collected by commercial companies. These companies provided data and approved the manuscript for publication, but did not play a role in study design, data analysis, or preparation of the manuscript."
+}

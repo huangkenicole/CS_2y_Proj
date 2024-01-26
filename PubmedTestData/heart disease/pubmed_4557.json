@@ -1,0 +1,142 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cardiac datasets",
+      "Cardiology",
+      "Data preprocessing",
+      "Datamining",
+      "Literature review"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32652383",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "07",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cmpb.2020.105635",
+      "S0169-2607(20)31468-1"
+    ],
+    "Journal": {
+      "ISSN": "1872-7565",
+      "JournalIssue": {
+        "Volume": "195",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "Data preprocessing for heart disease classification: A systematic literature review.",
+    "Pagination": {
+      "StartPage": "105635",
+      "MedlinePgn": "105635"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Early detection of heart disease is an important challenge since 17.3 million people yearly lose their lives due to heart diseases. Besides, any error in diagnosis of cardiac disease can be dangerous and risks an individual's life. Accurate diagnosis is therefore critical in cardiology. Data Mining (DM) classification techniques have been used to diagnosis heart diseases but still limited by some challenges of data quality such as inconsistencies, noise, missing data, outliers, high dimensionality and imbalanced data. Data preprocessing (DP) techniques were therefore used to prepare data with the goal of improving the performance of heart disease DM based prediction systems.",
+        "The purpose of this study is to review and summarize the current evidence on the use of preprocessing techniques in heart disease classification as regards: (1) the DP tasks and techniques most frequently used, (2) the impact of DP tasks and techniques on the performance of classification in cardiology, (3) the overall performance of classifiers when using DP techniques, and (4) comparisons of different combinations classifier-preprocessing in terms of accuracy rate.",
+        "A systematic literature review is carried out, by identifying and analyzing empirical studies on the application of data preprocessing in heart disease classification published in the period between January 2000 and June 2019. A total of 49 studies were therefore selected and analyzed according to the aforementioned criteria.",
+        "The review results show that data reduction is the most used preprocessing task in cardiology, followed by data cleaning. In general, preprocessing either maintained or improved the performance of heart disease classifiers. Some combinations such as (ANN\u00a0+\u00a0PCA), (ANN\u00a0+\u00a0CHI) and (SVM\u00a0+\u00a0PCA) are promising terms of accuracy. However the deployment of these models in real-world diagnosis decision support systems is subject to several risks and limitations due to the lack of interpretation."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Software Project Management Research Team, ENSIAS, University Mohammed V in Rabat, Morocco. Electronic address: benhar.houda@gmail.com."
+          }
+        ],
+        "LastName": "Benhar",
+        "ForeName": "H",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Software Project Management Research Team, ENSIAS, University Mohammed V in Rabat, Morocco; CSEHS-MSDA, Mohammed VI Polytechnic University, Benguerir, Morocco. Electronic address: ali.idri@um5.ac.ma."
+          }
+        ],
+        "LastName": "Idri",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Informatics and Systems, Faculty of Computer Science, University of Murcia, Spain. Electronic address: aleman@um.es."
+          }
+        ],
+        "LastName": "Fern\u00e1ndez-Alem\u00e1n",
+        "ForeName": "J L",
+        "Initials": "JL"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review",
+      "Systematic Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cardiology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Mining"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare that there is no conflict of interests regarding the publication of this article."
+}

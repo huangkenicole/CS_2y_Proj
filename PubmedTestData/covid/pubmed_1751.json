@@ -1,0 +1,424 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34373458",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "08",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "4886",
+      "10.1038/s41467-021-25168-4"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug",
+          "Day": "09"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Detection and characterization of the SARS-CoV-2 lineage B.1.526 in New York.",
+    "Pagination": {
+      "StartPage": "4886",
+      "MedlinePgn": "4886"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Wide-scale SARS-CoV-2 genome sequencing is critical to tracking viral evolution during the ongoing pandemic. We develop the software tool, Variant Database (VDB), for quickly examining the changing landscape of spike mutations. Using VDB, we detect an emerging lineage of SARS-CoV-2 in the New York region that shares mutations with previously reported variants. The most common sets of spike mutations in this lineage (now designated as B.1.526) are L5F, T95I, D253G, E484K or S477N, D614G, and A701V. This lineage was first sequenced in late November 2020. Phylodynamic inference confirmed the rapid growth of the B.1.526 lineage. In concert with other variants, like B.1.1.7, the rise of B.1.526 appears to have extended the duration of the second wave of COVID-19 cases in NYC in early 2021. Pseudovirus neutralization experiments demonstrated that B.1.526 spike mutations adversely affect the neutralization titer of convalescent and vaccinee plasma, supporting the public health relevance of this lineage."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-4213-5184"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA. apwest@caltech.edu."
+          }
+        ],
+        "LastName": "West",
+        "ForeName": "Anthony P",
+        "Initials": "AP",
+        "Suffix": "Jr"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Wertheim",
+        "ForeName": "Joel O",
+        "Initials": "JO"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8855-0925"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York City Public Health Laboratory, New York City Department of Health and Mental Hygiene, New York, NY, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Jade C",
+        "Initials": "JC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Vasylyeva",
+        "ForeName": "Tetyana I",
+        "Initials": "TI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics and Systems Biology Graduate Program, University of California San Diego, La Jolla, CA, USA."
+          }
+        ],
+        "LastName": "Havens",
+        "ForeName": "Jennifer L",
+        "Initials": "JL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York City Public Health Laboratory, New York City Department of Health and Mental Hygiene, New York, NY, USA."
+          }
+        ],
+        "LastName": "Chowdhury",
+        "ForeName": "Moinuddin A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York City Public Health Laboratory, New York City Department of Health and Mental Hygiene, New York, NY, USA."
+          }
+        ],
+        "LastName": "Gonzalez",
+        "ForeName": "Edimarlyn",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York City Public Health Laboratory, New York City Department of Health and Mental Hygiene, New York, NY, USA."
+          }
+        ],
+        "LastName": "Fang",
+        "ForeName": "Courtney E",
+        "Initials": "CE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York City Public Health Laboratory, New York City Department of Health and Mental Hygiene, New York, NY, USA."
+          }
+        ],
+        "LastName": "Di Lonardo",
+        "ForeName": "Steve S",
+        "Initials": "SS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York City Public Health Laboratory, New York City Department of Health and Mental Hygiene, New York, NY, USA."
+          }
+        ],
+        "LastName": "Hughes",
+        "ForeName": "Scott",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "New York City Public Health Laboratory, New York City Department of Health and Mental Hygiene, New York, NY, USA."
+          }
+        ],
+        "LastName": "Rakeman",
+        "ForeName": "Jennifer L",
+        "Initials": "JL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pandemic Response Laboratory, Long Island City, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Genetics, Harvard Medical School, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Henry H",
+        "Initials": "HH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA."
+          }
+        ],
+        "LastName": "Barnes",
+        "ForeName": "Christopher O",
+        "Initials": "CO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA."
+          }
+        ],
+        "LastName": "Gnanapragasam",
+        "ForeName": "Priyanthi N P",
+        "Initials": "PNP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Zhi",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Molecular Immunology, The Rockefeller University, New York, NY, USA."
+          }
+        ],
+        "LastName": "Gaebler",
+        "ForeName": "Christian",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Molecular Immunology, The Rockefeller University, New York, NY, USA."
+          }
+        ],
+        "LastName": "Caskey",
+        "ForeName": "Marina",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0592-8564"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Molecular Immunology, The Rockefeller University, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, The Rockefeller University, New York, NY, USA."
+          }
+        ],
+        "LastName": "Nussenzweig",
+        "ForeName": "Michel C",
+        "Initials": "MC"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5317-6398"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA."
+          }
+        ],
+        "LastName": "Keeffe",
+        "ForeName": "Jennifer R",
+        "Initials": "JR"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2277-3990"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, USA."
+          }
+        ],
+        "LastName": "Bjorkman",
+        "ForeName": "Pamela J",
+        "Initials": "PJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 AI135992",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI136056",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "Acronym": "HHMI",
+        "Agency": "Howard Hughes Medical Institute",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "bioRxiv. 2021 Apr 22;:",
+      "PMID": "33907745"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "New York"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    }
+  ],
+  "CoiStatement": "P.J.B. is a co-inventor on a provisional application from the California Institute of Technology for the use of mosaic nanoparticles as coronavirus immunogens. M.C.N., P.J.B. and C.O.B. are co-inventors on provisional applications for several anti-SARS-CoV-2 monoclonal antibodies. J.O.W. has received funding from Gilead Sciences, LLC (completed) and the CDC (ongoing) via grants and contracts to his institution unrelated to this research. All other authors declare no competing interests."
+}

@@ -1,0 +1,238 @@
+{
+  "CitationSubset": [],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "CRISPR",
+      "Cas13",
+      "PAC-MAN",
+      "RNA virus",
+      "SARS-CoV-2",
+      "antiviral",
+      "infectious disease"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33778788",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2024",
+    "Month": "01",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "100245",
+      "10.1016/j.xcrm.2021.100245"
+    ],
+    "Journal": {
+      "ISSN": "2666-3791",
+      "JournalIssue": {
+        "Volume": "2",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr",
+          "Day": "20"
+        }
+      },
+      "Title": "Cell reports. Medicine",
+      "ISOAbbreviation": "Cell Rep Med"
+    },
+    "ArticleTitle": "A comprehensive analysis and resource to use CRISPR-Cas13 for broad-spectrum targeting of RNA viruses.",
+    "Pagination": {
+      "StartPage": "100245",
+      "MedlinePgn": "100245"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus disease 2019 (COVID-19) pandemic caused by severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) and variants has led to significant mortality. We recently reported that an RNA-targeting CRISPR-Cas13 system, called prophylactic antiviral CRISPR in human cells (PAC-MAN), offered an antiviral strategy against SARS-CoV-2 and influenza A virus. Here, we expand <i>in silico</i> analysis to use PAC-MAN to target a broad spectrum of human- or livestock-infectious RNA viruses with high specificity, coverage, and predicted efficiency. Our analysis reveals that a minimal set of 14 CRISPR RNAs (crRNAs) is able to target >90% of human-infectious viruses across 10 RNA virus families. We predict that a set of 5 experimentally validated crRNAs can target new SARS-CoV-2 variant sequences with zero mismatches. We also build an online resource (crispr-pacman.stanford.edu) to support community use of CRISPR-Cas13 for broad-spectrum RNA virus targeting. Our work provides a new bioinformatic resource for using CRISPR-Cas13 to target diverse RNA viruses to facilitate the development of CRISPR-based antivirals."
+      ],
+      "CopyrightInformation": "\u00a9 2021 The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, Stanford University, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Xueqiu",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, Stanford University, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Yanxia",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, Stanford University, Stanford, CA 94305, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Management Science and Engineering, Stanford University, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "Chemparathy",
+        "ForeName": "Augustine",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Los Altos High School, Los Altos, CA 94022, USA."
+          }
+        ],
+        "LastName": "Pande",
+        "ForeName": "Tara",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, Stanford University, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "La Russa",
+        "ForeName": "Marie",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioengineering, Stanford University, Stanford, CA 94305, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical and Systems Biology, Stanford University, Stanford, CA 94305, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "ChEM-H, Stanford University, Stanford, CA 94305, USA."
+          }
+        ],
+        "LastName": "Qi",
+        "ForeName": "Lei S",
+        "Initials": "LS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Cell Rep Med",
+    "NlmUniqueID": "101766894",
+    "ISSNLinking": "2666-3791"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Guide, CRISPR-Cas Systems"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "CRISPR-Cas Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "RNA Virus Infections"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "RNA Viruses"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Guide, CRISPR-Cas Systems"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Species Specificity"
+    }
+  ],
+  "CoiStatement": "Provisional patents have been filed via Stanford University related to the work."
+}

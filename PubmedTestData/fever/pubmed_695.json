@@ -1,0 +1,230 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Fever",
+      "Multivariate",
+      "Univariate",
+      "Utilisation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28923070",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "06",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "09",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "34",
+      "10.1186/s12942-017-0107-7"
+    ],
+    "Journal": {
+      "ISSN": "1476-072X",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Sep",
+          "Day": "18"
+        }
+      },
+      "Title": "International journal of health geographics",
+      "ISOAbbreviation": "Int J Health Geogr"
+    },
+    "ArticleTitle": "Univariate and multivariate spatial models of health facility utilisation for childhood fevers in an area on the coast of Kenya.",
+    "Pagination": {
+      "StartPage": "34",
+      "MedlinePgn": "34"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Precise quantification of health service utilisation is important for the estimation of disease burden and allocation of health resources. Current approaches to mapping health facility utilisation rely on spatial accessibility alone as the predictor. However, other spatially varying social, demographic and economic factors may affect the use of health services. The exclusion of these factors can lead to the inaccurate estimation of health facility utilisation. Here, we compare the accuracy of a univariate spatial model, developed only from estimated travel time, to a multivariate model that also includes relevant social, demographic and economic factors.",
+        "A theoretical surface of travel time to the nearest public health facility was developed. These were assigned to each child reported to have had fever in the Kenya demographic and health survey of 2014 (KDHS 2014). The relationship of child treatment seeking for fever with travel time, household and individual factors from the KDHS2014 were determined using multilevel mixed modelling. Bayesian information criterion (BIC) and likelihood ratio test (LRT) tests were carried out to measure how selected factors improve parsimony and goodness of fit of the time model. Using the mixed model, a univariate spatial model of health facility utilisation was fitted using travel time as the predictor. The mixed model was also used to compute a multivariate spatial model of utilisation, using travel time and modelled surfaces of selected household and individual factors as predictors. The univariate and multivariate spatial models were then compared using the receiver operating area under the curve (AUC) and a percent correct prediction (PCP) test.",
+        "The best fitting multivariate model had travel time, household wealth index and number of children in household as the predictors. These factors reduced BIC of the time model from 4008 to 2959, a change which was confirmed by the LRT test. Although there was a high correlation of the two modelled probability surfaces (Adj R <sup>2</sup>\u00a0=\u00a088%), the multivariate model had better AUC compared to the univariate model; 0.83 versus 0.73 and PCP 0.61 versus 0.45 values.",
+        "Our study shows that a model that uses travel time, as well as household and individual-level socio-demographic factors, results in a more accurate estimation of use of health facilities for the treatment of childhood fever, compared to one that relies on only travel time."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Geomatic Engineering and Geospatial Information Systems, Jomo Kenyatta University of Agriculture and Technology, Nairobi, Kenya. POuma@kemri-wellcome.org."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Kenya Medical Research Institute/Wellcome Trust Research Programme, Nairobi, Kenya. POuma@kemri-wellcome.org."
+          }
+        ],
+        "LastName": "Ouma",
+        "ForeName": "Paul O",
+        "Initials": "PO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Geomatic Engineering and Geospatial Information Systems, Jomo Kenyatta University of Agriculture and Technology, Nairobi, Kenya."
+          }
+        ],
+        "LastName": "Agutu",
+        "ForeName": "Nathan O",
+        "Initials": "NO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kenya Medical Research Institute/Wellcome Trust Research Programme, Nairobi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Tropical Medicine and Global Health, Nuffield Department of Clinical Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Snow",
+        "ForeName": "Robert W",
+        "Initials": "RW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Kenya Medical Research Institute/Wellcome Trust Research Programme, Nairobi, Kenya."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Tropical Medicine and Global Health, Nuffield Department of Clinical Medicine, University of Oxford, Oxford, UK."
+          }
+        ],
+        "LastName": "Noor",
+        "ForeName": "Abdisalan M",
+        "Initials": "AM"
+      }
+    ],
+    "GrantList": [
+      {
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "095127",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "103602",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "203077",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Int J Health Geogr",
+    "NlmUniqueID": "101152198",
+    "ISSNLinking": "1476-072X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child, Preschool"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "therapy"
+      ],
+      "DescriptorName": "Fever"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Geographic Mapping"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Health Services Accessibility"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Health Surveys"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Kenya"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Multivariate Analysis"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Patient Acceptance of Health Care"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spatial Navigation"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "2D-convolutional neural network",
+      "breast cancer",
+      "discrimination",
+      "polarized micro-Raman spectroscopy"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36671896",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "12",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "65",
+      "10.3390/bios13010065"
+    ],
+    "Journal": {
+      "ISSN": "2079-6374",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Dec",
+          "Day": "30"
+        }
+      },
+      "Title": "Biosensors",
+      "ISOAbbreviation": "Biosensors (Basel)"
+    },
+    "ArticleTitle": "Polarized Micro-Raman Spectroscopy and 2D Convolutional Neural Network Applied to Structural Analysis and Discrimination of Breast Cancer.",
+    "Abstract": {
+      "AbstractText": [
+        "Raman spectroscopy has been efficiently used to recognize breast cancer tissue by detecting the characteristic changes in tissue composition in cancerization. In addition to chemical composition, the change in bio-structure may be easily obtained via polarized micro-Raman spectroscopy, aiding in identifying the cancerization process and diagnosis. In this study, a polarized Raman spectral technique is employed to obtain rich structural features and, combined with deep learning technology, to achieve discrimination of breast cancer tissue. The results reconfirm that the orientation of collagen fibers changes from parallel to vertical during breast cancerization, and there are significant structural differences between cancerous and normal tissues, which is consistent with previous reports. Optical anisotropy of collagen fibers weakens in cancer tissue, which is closely related with the tumor's progression. To distinguish breast cancer tissue, a discrimination model is established based on a two-dimensional convolutional neural network (2D-CNN), where the input is a matrix containing the Raman spectra acquired at a set of linear polarization angles varying from 0\u00b0 to 360\u00b0. As a result, an average discrimination accuracy of 96.01% for test samples is achieved, better than that of the KNN classifier and 1D-CNN that are based on non-polarized Raman spectra. This study implies that polarized Raman spectroscopy combined with 2D-CNN can effectively detect changes in the structure and components of tissues, innovatively improving the identification and automatic diagnosis of breast cancer with label-free probing and analysis."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China."
+          }
+        ],
+        "LastName": "Shang",
+        "ForeName": "Linwei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China."
+          }
+        ],
+        "LastName": "Tang",
+        "ForeName": "Jinlan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Jinjin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China."
+          }
+        ],
+        "LastName": "Shang",
+        "ForeName": "Hui",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Jiangsu Cancer Hospital, Jiangsu Institute of Cancer Research & the Affiliated Cancer Hospital of Nanjing Medical University, Nanjing 210016, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Xing",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China."
+          }
+        ],
+        "LastName": "Bao",
+        "ForeName": "Yilin",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Zhibing",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8954-9857"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Huijie",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2488-5283"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China."
+          }
+        ],
+        "LastName": "Yin",
+        "ForeName": "Jianhua",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "62105147",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "NS2022035",
+        "Agency": "the Fundamental Research Funds for the Central Universities",
+        "Country": ""
+      },
+      {
+        "GrantID": "ILA-22022",
+        "Agency": "Prospective layout Special Fund of Nanjing University of Aeronautics and Astronautics",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Biosensors (Basel)",
+    "NlmUniqueID": "101609191",
+    "ISSNLinking": "2079-6374"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "9007-34-5",
+      "NameOfSubstance": "Collagen"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Spectrum Analysis, Raman"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Breast"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Collagen"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

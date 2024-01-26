@@ -1,0 +1,179 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Multiple sequence alignment",
+      "RT-qPCR",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35653026",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "06",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s13258-022-01264-7"
+    ],
+    "Journal": {
+      "ISSN": "2092-9293",
+      "JournalIssue": {
+        "Volume": "44",
+        "Issue": "8",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug"
+        }
+      },
+      "Title": "Genes & genomics",
+      "ISOAbbreviation": "Genes Genomics"
+    },
+    "ArticleTitle": "Identification of conserved regions from 230,163 SARS-CoV-2 genomes and their use in diagnostic PCR primer design.",
+    "Pagination": {
+      "StartPage": "899",
+      "EndPage": "912",
+      "MedlinePgn": "899-912"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "As the rapidly evolving characteristic of SARS-CoV-2 could result in false negative diagnosis, the use of as much sequence data as possible is key to the identification of conserved viral sequences. However, multiple alignment of massive genome sequences is computationally intensive.",
+        "To extract conserved sequences from SARS-CoV-2 genomes for the design of diagnostic PCR primers using a bioinformatics approach that can handle massive genomic sequences efficiently.",
+        "A total of 230,163 full-length viral genomes were retrieved from the NCBI SARS-CoV-2 Resources and GISAID EpiCoV database. This number was reduced to 14.11% following removal of 5'-/3'-untranslated regions and sequence dereplication. Fast, reference-based, multiple sequence alignments identified conserved sequences and specific primer sets were designed against these regions using a conventional tool. Primer sets chosen among the candidates were evaluated by in silico PCR and RT-qPCR.",
+        "Out of 17 conserved sequences (totaling 4.3\u00a0kb), two primer sets targeting the nsp2 and ORF3a genes were picked that exhibited\u2009>\u200999.9% in silico amplification coverage against the original dataset (230,163 genomes) when a 5% mismatch between the primers and target was allowed. In addition, the primer sets successfully detected nine SARS-CoV-2 variant RNA samples (Alpha, Beta, Gamma, Delta, Epsilon, Zeta, Eta, Iota, and Kappa) in experimental RT-qPCR validations.",
+        "In addition to the RdRp, E, N, and S genes that are targeted commonly, our approach can be used to identify novel primer targets in SARS-CoV-2 and should be a priority strategy in the event of novel SARS-CoV-2 variants or other pandemic outbreaks."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s) under exclusive licence to The Genetics Society of Korea."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4479-4573"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Disease Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, 34141, Republic of Korea. hyjeong@kribb.re.kr."
+          }
+        ],
+        "LastName": "Jeong",
+        "ForeName": "Haeyoung",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NanoHelix Co., Ltd. 43-15, Daejeon, 34014, Republic of Korea."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Siseok",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NanoHelix Co., Ltd. 43-15, Daejeon, 34014, Republic of Korea."
+          }
+        ],
+        "LastName": "Ko",
+        "ForeName": "Junsang",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NanoHelix Co., Ltd. 43-15, Daejeon, 34014, Republic of Korea."
+          }
+        ],
+        "LastName": "Ko",
+        "ForeName": "Minsu",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3449-1018"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Infectious Disease Research Center, Korea Research Institute of Bioscience and Biotechnology (KRIBB), Daejeon, 34141, Republic of Korea. seohw01@kribb.re.kr."
+          }
+        ],
+        "LastName": "Seo",
+        "ForeName": "Hwi Won",
+        "Initials": "HW"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Korea (South)",
+    "MedlineTA": "Genes Genomics",
+    "NlmUniqueID": "101481027",
+    "ISSNLinking": "1976-9571"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Real-Time Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors have no financial conflicts of interest to declare."
+}

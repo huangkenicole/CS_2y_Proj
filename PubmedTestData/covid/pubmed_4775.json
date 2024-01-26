@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34934152",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "12",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "24326",
+      "10.1038/s41598-021-03812-9"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec",
+          "Day": "21"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Highlighting the impact of social relationships on the propagation of respiratory viruses using percolation theory.",
+    "Pagination": {
+      "StartPage": "24326",
+      "MedlinePgn": "24326"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We develop a site-bond percolation model, called PERCOVID, in order to describe the time evolution of all epidemics propagating through respiratory tract or by skin contacts in human populations. This model is based on a network of social relationships representing interconnected households experiencing governmental non-pharmaceutical interventions. As a very first testing ground, we apply our model to the understanding of the dynamics of the COVID-19 pandemic in France from December 2019 up to December 2021. Our model shows the impact of lockdowns and curfews, as well as the influence of the progressive vaccination campaign in order to keep COVID-19 pandemic under the percolation threshold. We illustrate the role played by social interactions by comparing two typical scenarios with low or high strengths of social relationships as compared to France during the first wave in March 2020. We investigate finally the role played by the \u03b1 and \u03b4 variants in the evolution of the epidemic in France till autumn 2021, paying particular attention to the essential role played by the vaccination. Our model predicts that the rise of the epidemic observed in July and August 2021 would not result in a new major epidemic wave in France."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire de Physique de Clermont, CNRS/IN2P3, Universit\u00e9 Clermont Auvergne, 63000, Clermont-Ferrand, France. jean-francois.mathiot@clermont.in2p3.fr."
+          }
+        ],
+        "LastName": "Mathiot",
+        "ForeName": "Jean-Fran\u00e7ois",
+        "Initials": "JF"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institut Pascal, CHU Clermont-Ferrand, SIGMA Clermont, CNRS, Universit\u00e9 Clermont Auvergne, 63000, Clermont-Ferrand, France."
+          }
+        ],
+        "LastName": "Gerbaud",
+        "ForeName": "Laurent",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire de Physique de Clermont, CNRS/IN2P3, Universit\u00e9 Clermont Auvergne, 63000, Clermont-Ferrand, France."
+          }
+        ],
+        "LastName": "Breton",
+        "ForeName": "Vincent",
+        "Initials": "V"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "France"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Interpersonal Relations"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccination"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

@@ -1,0 +1,184 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer modeling",
+      "Circadian rhythms",
+      "Signaling",
+      "Systems biology",
+      "Time-delay"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26293211",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "10",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "08",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s10867-015-9395-y"
+    ],
+    "Journal": {
+      "ISSN": "1573-0689",
+      "JournalIssue": {
+        "Volume": "42",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Journal of biological physics",
+      "ISOAbbreviation": "J Biol Phys"
+    },
+    "ArticleTitle": "Multiscale modeling of tumor growth induced by circadian rhythm disruption in epithelial tissue.",
+    "Pagination": {
+      "StartPage": "107",
+      "EndPage": "132",
+      "MedlinePgn": "107-32"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We propose a multiscale chemo-mechanical model of cancer tumor development in epithelial tissue. The model is based on the transformation of normal cells into a cancerous state triggered by a local failure of spatial synchronization of the circadian rhythm. The model includes mechanical interactions and a chemical signal exchange between neighboring cells, as well as a division of cells and intercalation that allows for modification of the respective parameters following transformation into the cancerous state. The numerical simulations reproduce different dephasing patterns--spiral waves and quasistationary clustering, with the latter being conducive to cancer formation. Modification of mechanical properties reproduces a distinct behavior of invasive and localized carcinoma."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Theoretical Physics Department, Perm State Humanitarian Pedagogical University, 614990, Perm, Russia."
+          }
+        ],
+        "LastName": "Bratsun",
+        "ForeName": "D A",
+        "Initials": "DA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Hospital Pediatrics, Perm State Medical Academy, 614990, Perm, Russia."
+          }
+        ],
+        "LastName": "Merkuriev",
+        "ForeName": "D V",
+        "Initials": "DV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering, Technion-Israel Institute of Technology, 32000, Haifa, Israel. andreiz@tx.technion.ac.il."
+          }
+        ],
+        "LastName": "Zakharov",
+        "ForeName": "A P",
+        "Initials": "AP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering, Technion-Israel Institute of Technology, 32000, Haifa, Israel. pismen@technion.ac.il."
+          }
+        ],
+        "LastName": "Pismen",
+        "ForeName": "L M",
+        "Initials": "LM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "J Biol Phys",
+    "NlmUniqueID": "0417731",
+    "ISSNLinking": "0092-0606"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Carcinogenesis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Proliferation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Transformation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Circadian Rhythm"
+    },
+    {
+      "QualifierName": [
+        "pathology"
+      ],
+      "DescriptorName": "Epithelium"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feedback, Physiological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology",
+        "physiopathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Transduction"
+    }
+  ]
+}

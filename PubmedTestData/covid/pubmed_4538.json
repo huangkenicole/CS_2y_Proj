@@ -1,0 +1,238 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "China",
+      "infodemic",
+      "infodemiology",
+      "infoveillance",
+      "public\u00a0emotions",
+      "rumor"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33112757",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e21933",
+      "10.2196/21933"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov",
+          "Day": "25"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Public Emotions and Rumors Spread During the COVID-19 Epidemic in China: Web-Based Correlation Study.",
+    "Pagination": {
+      "StartPage": "e21933",
+      "MedlinePgn": "e21933"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Various online rumors have led to inappropriate behaviors among the public in response to the COVID-19 epidemic in China. These rumors adversely affect people's physical and mental health. Therefore, a better understanding of the relationship between public emotions and rumors during the epidemic may help generate useful strategies for guiding public emotions and dispelling rumors.",
+        "This study aimed to explore whether public emotions are related to the dissemination of online rumors in the context of COVID-19.",
+        "We used the web-crawling tool Scrapy to gather data published by People's Daily on Sina Weibo, a popular social media platform in China, after January 8, 2020. Netizens' comments under each Weibo post were collected. Nearly 1 million comments thus collected were divided into 5 categories: happiness, sadness, anger, fear, and neutral, based on the underlying emotional information identified and extracted from the comments by using a manual identification process. Data on rumors spread online were collected through Tencent's Jiaozhen platform. Time-lagged cross-correlation analyses were performed to examine the relationship between public emotions and rumors.",
+        "Our results indicated that the angrier the public felt, the more rumors there would likely be (r=0.48, P<.001). Similar results were observed for the relationship between fear and rumors (r=0.51, P<.001) and between sadness and rumors (r=0.47, P<.001). Furthermore, we found a positive correlation between happiness and rumors, with happiness lagging the emergence of rumors by 1 day (r=0.56, P<.001). In addition, our data showed a significant positive correlation between fear and fearful rumors (r=0.34, P=.02).",
+        "Our findings confirm that public emotions are related to the rumors spread online in the context of COVID-19 in China. Moreover, these findings provide several suggestions, such as the use of web-based monitoring methods, for relevant authorities and policy makers to guide public emotions and behavior during this public health emergency."
+      ],
+      "CopyrightInformation": "\u00a9Wei Dong, Jinhu Tao, Xiaolin Xia, Lin Ye, Hanli Xu, Peiye Jiang, Yangyang Liu. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 25.11.2020."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7632-2386"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Education, Tianjin University, Tianjin, China."
+          }
+        ],
+        "LastName": "Dong",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4316-0795"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Education, Tianjin University, Tianjin, China."
+          }
+        ],
+        "LastName": "Tao",
+        "ForeName": "Jinhu",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4821-6228"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Education, Tianjin University, Tianjin, China."
+          }
+        ],
+        "LastName": "Xia",
+        "ForeName": "Xiaolin",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9368-7160"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Media and Communication, Shanghai Jiaotong University, Shanghai, China."
+          }
+        ],
+        "LastName": "Ye",
+        "ForeName": "Lin",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2082-2197"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College\u00a0of\u00a0Life\u00a0Sciences\u00a0and\u00a0Bioengineering, School of Science, Beijing Jiaotong University, Beijing, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Hanli",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6669-5488"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Office of International Cooperation and Exchanges, Nanjing University, Nanjing, China."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Peiye",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3197-7311"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Education, Tianjin University, Tianjin, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Yangyang",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "psychology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Correlation of Data"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Emotions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

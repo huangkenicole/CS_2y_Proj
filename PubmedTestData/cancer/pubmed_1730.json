@@ -1,0 +1,167 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "16249260",
+  "DateCompleted": {
+    "Year": "2006",
+    "Month": "05",
+    "Day": "17"
+  },
+  "DateRevised": {
+    "Year": "2006",
+    "Month": "11",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2005",
+        "Month": "10",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1367-4803",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2006",
+          "Month": "Jan",
+          "Day": "01"
+        }
+      },
+      "Title": "Bioinformatics (Oxford, England)",
+      "ISOAbbreviation": "Bioinformatics"
+    },
+    "ArticleTitle": "Gene selection using support vector machines with non-convex penalty.",
+    "Pagination": {
+      "StartPage": "88",
+      "EndPage": "95",
+      "MedlinePgn": "88-95"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "With the development of DNA microarray technology, scientists can now measure the expression levels of thousands of genes simultaneously in one single experiment. One current difficulty in interpreting microarray data comes from their innate nature of 'high-dimensional low sample size'. Therefore, robust and accurate gene selection methods are required to identify differentially expressed group of genes across different samples, e.g. between cancerous and normal cells. Successful gene selection will help to classify different cancer types, lead to a better understanding of genetic signatures in cancers and improve treatment strategies. Although gene selection and cancer classification are two closely related problems, most existing approaches handle them separately by selecting genes prior to classification. We provide a unified procedure for simultaneous gene selection and cancer classification, achieving high accuracy in both aspects.",
+        "In this paper we develop a novel type of regularization in support vector machines (SVMs) to identify important genes for cancer classification. A special nonconvex penalty, called the smoothly clipped absolute deviation penalty, is imposed on the hinge loss function in the SVM. By systematically thresholding small estimates to zeros, the new procedure eliminates redundant genes automatically and yields a compact and accurate classifier. A successive quadratic algorithm is proposed to convert the non-differentiable and non-convex optimization problem into easily solved linear equation systems. The method is applied to two real datasets and has produced very promising results.",
+        "MATLAB codes are available upon request from the authors."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Statistics, North Carolina State University, Raleigh, NC 27695, USA. hzhang@stat.ncsu.edu"
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Hao Helen",
+        "Initials": "HH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Ahn",
+        "ForeName": "Jeongyoun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lin",
+        "ForeName": "Xiaodong",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Park",
+        "ForeName": "Cheolwoo",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Bioinformatics",
+    "NlmUniqueID": "9808944",
+    "ISSNLinking": "1367-4803"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pattern Recognition, Automated"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis, DNA"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    }
+  ]
+}

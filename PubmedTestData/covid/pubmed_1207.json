@@ -1,0 +1,405 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34193418",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "eabh3032",
+      "10.1126/sciadv.abh3032"
+    ],
+    "Journal": {
+      "ISSN": "2375-2548",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "27",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Science advances",
+      "ISOAbbreviation": "Sci Adv"
+    },
+    "ArticleTitle": "Identification of SARS-CoV-2-induced pathways reveals drug repurposing strategies.",
+    "Abstract": {
+      "AbstractText": [
+        "The global outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) necessitates the rapid development of new therapies against coronavirus disease 2019 (COVID-19) infection. Here, we present the identification of 200 approved drugs, appropriate for repurposing against COVID-19. We constructed a SARS-CoV-2-induced protein network, based on disease signatures defined by COVID-19 multiomics datasets, and cross-examined these pathways against approved drugs. This analysis identified 200 drugs predicted to target SARS-CoV-2-induced pathways, 40 of which are already in COVID-19 clinical trials, testifying to the validity of the approach. Using artificial neural network analysis, we classified these 200 drugs into nine distinct pathways, within two overarching mechanisms of action (MoAs): viral replication (126) and immune response (74). Two drugs (proguanil and sulfasalazine) implicated in viral replication were shown to inhibit replication in cell assays. This unbiased and validated analysis opens new avenues for the rapid repurposing of approved drugs into clinical trials."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. Distributed under a Creative Commons Attribution License 4.0 (CC BY)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7741-6384"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK. n.han@milner.cam.ac.uk t.kouzarides@gurdon.cam.ac.uk."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Namshik",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0876-7305"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Hwang",
+        "ForeName": "Woochang",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4865-7648"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Tzelepis",
+        "ForeName": "Konstantinos",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2617-3199"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Virology, FB10-Veterinary Medicine, Justus-Liebig University, Gie\u00dfen 35392, Germany."
+          }
+        ],
+        "LastName": "Schmerer",
+        "ForeName": "Patrick",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2913-0012"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Yankova",
+        "ForeName": "Eliza",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3477-2941"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Therapeutics Discovery, LifeArc, Stevenage, UK."
+          }
+        ],
+        "LastName": "MacMahon",
+        "ForeName": "M\u00e9abh",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1108-6394"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Surgery, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Lei",
+        "ForeName": "Winnie",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0635-1712"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemical Engineering and Biotechnology, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "M Katritsis",
+        "ForeName": "Nicholas",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8561-4700"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, University of Cambridge, Cambridge, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Data and Computational Sciences, GSK, London, UK."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Anika",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9478-5368"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Virology, FB10-Veterinary Medicine, Justus-Liebig University, Gie\u00dfen 35392, Germany."
+          }
+        ],
+        "LastName": "Felgenhauer",
+        "ForeName": "Ulrike",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Schuldt",
+        "ForeName": "Alison",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Harris",
+        "ForeName": "Rebecca",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Chapman",
+        "ForeName": "Kathryn",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8012-7524"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "McCaughan",
+        "ForeName": "Frank",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9737-337X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Virology, FB10-Veterinary Medicine, Justus-Liebig University, Gie\u00dfen 35392, Germany."
+          }
+        ],
+        "LastName": "Weber",
+        "ForeName": "Friedemann",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8918-4162"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Milner Therapeutics Institute, University of Cambridge, Cambridge, UK. n.han@milner.cam.ac.uk t.kouzarides@gurdon.cam.ac.uk."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Gurdon Institute and Department of Pathology, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Kouzarides",
+        "ForeName": "Tony",
+        "Initials": "T"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "210926/Z/18/Z",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "RG94424",
+        "Acronym": "WT_",
+        "Agency": "Wellcome Trust",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Sci Adv",
+    "NlmUniqueID": "101653440",
+    "ISSNLinking": "2375-2548"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    },
+    {
+      "RegistryNumber": "3XC8GUZ6CB",
+      "NameOfSubstance": "Sulfasalazine"
+    },
+    {
+      "RegistryNumber": "S61K3P7B2V",
+      "NameOfSubstance": "Proguanil"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism",
+        "pharmacology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [
+        "pharmacology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Proguanil"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Sulfasalazine"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Virus Replication"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

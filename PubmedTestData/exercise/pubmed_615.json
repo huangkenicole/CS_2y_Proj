@@ -1,0 +1,181 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Anomaly detection",
+      "Exercise monitoring",
+      "Rehabilitation exercise",
+      "Repetitive movement",
+      "Segmentation",
+      "Time normalization",
+      "Upper limb kinematics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35780122",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "26"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "07",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "175",
+      "10.1186/s12911-022-01907-5"
+    ],
+    "Journal": {
+      "ISSN": "1472-6947",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jul",
+          "Day": "03"
+        }
+      },
+      "Title": "BMC medical informatics and decision making",
+      "ISOAbbreviation": "BMC Med Inform Decis Mak"
+    },
+    "ArticleTitle": "Autonomous modeling of repetitive movement for rehabilitation exercise monitoring.",
+    "Pagination": {
+      "StartPage": "175",
+      "MedlinePgn": "175"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Insightful feedback generation for daily home-based stroke rehabilitation is currently unavailable due to the inefficiency of exercise inspection done by therapists. We aim to produce a compact anomaly representation that allows a therapist to pay attention to only a few specific sections in a long exercise session record and boost their efficiency in feedback generation.",
+        "This study proposes a data-driven technique to model a repetitive exercise using unsupervised phase learning on an artificial neural network and statistical learning on principal component analysis (PCA). After a model is built on a set of normal healthy movements, the model can be used to extract a sequence of anomaly scores from a movement of the same prescription.",
+        "The method not only works on a standard marker-based motion capture system but also performs well on a more compact and affordable motion capture system based-on Kinect V2 and wrist-worn inertial measurement units that can be used at home. An evaluation of four different exercises shows its potential in separating anomalous movements from normal ones with an average area under the curve (AUC) of 0.9872 even on the compact motion capture system.",
+        "The proposed processing technique has the potential to help clinicians in providing high-quality feedback for telerehabilitation in a more scalable way."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rehabilitation Research Institute of Singapore, Nanyang Technological University, Singapore, Singapore."
+          }
+        ],
+        "LastName": "Jatesiktat",
+        "ForeName": "Prayook",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore, Singapore."
+          }
+        ],
+        "LastName": "Lim",
+        "ForeName": "Guan Ming",
+        "Initials": "GM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rehabilitation Centre, Centre for Advanced Rehabilitation Therapeutics, Tan Tock Seng Hospital, Singapore, Singapore."
+          }
+        ],
+        "LastName": "Kuah",
+        "ForeName": "Christopher Wee Keong",
+        "Initials": "CWK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biodesign Innovation Center, Department of Parasitology, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand. dollaporn.ano@mahidol.edu."
+          }
+        ],
+        "LastName": "Anopas",
+        "ForeName": "Dollaporn",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rehabilitation Research Institute of Singapore, Nanyang Technological University, Singapore, Singapore."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore, Singapore."
+          }
+        ],
+        "LastName": "Ang",
+        "ForeName": "Wei Tech",
+        "Initials": "WT"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med Inform Decis Mak",
+    "NlmUniqueID": "101088682",
+    "ISSNLinking": "1472-6947"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Movement"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stroke Rehabilitation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Upper Extremity"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

@@ -1,0 +1,155 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "21236265",
+  "DateCompleted": {
+    "Year": "2011",
+    "Month": "06",
+    "Day": "02"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2011",
+        "Month": "01",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jtbi.2010.12.041"
+    ],
+    "Journal": {
+      "ISSN": "1095-8541",
+      "JournalIssue": {
+        "Volume": "274",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2011",
+          "Month": "Apr",
+          "Day": "07"
+        }
+      },
+      "Title": "Journal of theoretical biology",
+      "ISOAbbreviation": "J Theor Biol"
+    },
+    "ArticleTitle": "Mathematical modelling of hepatitis C treatment for injecting drug users.",
+    "Pagination": {
+      "StartPage": "58",
+      "EndPage": "66",
+      "MedlinePgn": "58-66"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Hepatitis C virus (HCV) is a blood-borne infection that can lead to progressive liver failure, cirrhosis, hepatocellular carcinoma and death. In developed countries, the majority of HCV infections are transmitted via injecting drug users (IDUs). Despite effective antiviral treatment for HCV, very few active IDUs are treated. Reluctance to treat is partially due to the risk of reinfection. We develop a mathematical model of HCV transmission amongst active IDUs, and examine the potential effect of antiviral treatment. As most mathematical models of interventions utilise a treatment function proportional to the infected population, but many policy implementations set fixed yearly targets for specific numbers treated, we study the effects of using two different treatment terms: annually treating a proportion of infecteds or a fixed number of infecteds. We examine the behaviour of the two treatment models and find different bifurcation behaviours in each case. We calculate analytical solutions for the treatment level needed for disease clearance or control, and observe that achievable levels of treatment can result in control or eradication across a wide range of prevalence levels. Finally, we calculate the sensitivity of the critical treatment threshold to the model parameters, and find that for a given observed prevalence, the injecting duration and infection risk play the most important role in determining the treatment level needed. By contrast, the sensitivity analysis indicates the presence (or absence) of immunity does not alter the treatment threshold. We conclude by discussing the public health implications of this work, and comment on the importance and feasibility of utilising treatment as prevention for HCV spread amongst IDUs."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2011 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Social Medicine, University of Bristol, Canynge Hall, 39 Whatley Road, Bristol BS8 2PS, UK. natasha.martin@bristol.ac.uk"
+          }
+        ],
+        "LastName": "Martin",
+        "ForeName": "Natasha K",
+        "Initials": "NK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Vickerman",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hickman",
+        "ForeName": "Matthew",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "G0701627",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Theor Biol",
+    "NlmUniqueID": "0376342",
+    "ISSNLinking": "0022-5193"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Users"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "epidemiology",
+        "prevention & control",
+        "therapy"
+      ],
+      "DescriptorName": "Hepatitis C"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Injections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "virology"
+      ],
+      "DescriptorName": "Substance Abuse, Intravenous"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28560415",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "03",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "05",
+        "Day": "25"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3892/mmr.2017.6629"
+    ],
+    "Journal": {
+      "ISSN": "1791-3004",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Molecular medicine reports",
+      "ISOAbbreviation": "Mol Med Rep"
+    },
+    "ArticleTitle": "Bioinformatics analyses of the differences between lung adenocarcinoma and squamous cell carcinoma using The Cancer Genome Atlas expression data.",
+    "Pagination": {
+      "StartPage": "609",
+      "EndPage": "616",
+      "MedlinePgn": "609-616"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The present study aimed to explore gene and microRNA (miRNA) expression differences between lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC). Differentially expressed genes (DEGs) and differentially expressed miRNAs (DEMs) were identified by analyzing mRNA and miRNA expression data in normal and cancerous lung tissues that were obtained from The Cancer Genome Atlas database. A total of 778 DEGs and 7 DEMs were identified. Altered gene functions and signaling pathways were investigated using Gene Ontology and Kyoto Encyclopedia of Genes and Genomes analyses, which revealed that DEGs were significantly enriched in extracellular matrix organization, cell differentiation, negative regulation of toll signaling pathway, and several other terms and pathways. Transcription factor (TF)\u2011miRNA\u2011gene networks in LUAD and LUSC were predicted using the TargetScan, Miranda, and TRANSFAC databases, which revealed the regulatory links among the TFs, DEMs, and DEGs. The central TFs, i.e., the TFs in the middle of the TF\u2011miRNA\u2011gene network, of LUAD and LUSC were similar. Although LUAD and LUSC shared similar miRNAs in the predicted networks, miR\u201129b\u20113p was demonstrated to be upregulated only in LUAD, whereas miR\u20111, miR\u2011105\u20115p, and miR\u2011193b\u20115p were altered in LUSC. These findings may improve our understanding of the different molecular mechanisms in non\u2011small cell lung cancers and may promote new and accurate strategies for prevention, diagnosis, and treatment."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Xuhui, Shanghai 200032, P.R. China."
+          }
+        ],
+        "LastName": "Sun",
+        "ForeName": "Fenghao",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Xuhui, Shanghai 200032, P.R. China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Xiaodong",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Xuhui, Shanghai 200032, P.R. China."
+          }
+        ],
+        "LastName": "Jin",
+        "ForeName": "Yulin",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Xuhui, Shanghai 200032, P.R. China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Li",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Xuhui, Shanghai 200032, P.R. China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Lin",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Xuhui, Shanghai 200032, P.R. China."
+          }
+        ],
+        "LastName": "Shi",
+        "ForeName": "Mengkun",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Xuhui, Shanghai 200032, P.R. China."
+          }
+        ],
+        "LastName": "Zhan",
+        "ForeName": "Cheng",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Xuhui, Shanghai 200032, P.R. China."
+          }
+        ],
+        "LastName": "Shi",
+        "ForeName": "Yu",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Thoracic Surgery, Zhongshan Hospital, Fudan University, Xuhui, Shanghai 200032, P.R. China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Qun",
+        "Initials": "Q"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Greece",
+    "MedlineTA": "Mol Med Rep",
+    "NlmUniqueID": "101475259",
+    "ISSNLinking": "1791-2997"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Messenger"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Adenocarcinoma"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Carcinoma, Squamous Cell"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Ontology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Sequence Annotation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA Interference"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "RNA, Messenger"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

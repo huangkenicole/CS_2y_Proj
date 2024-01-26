@@ -1,0 +1,167 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35696983",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "08",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "08",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1039/d2lc00284a"
+    ],
+    "Journal": {
+      "ISSN": "1473-0189",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "16",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Aug",
+          "Day": "09"
+        }
+      },
+      "Title": "Lab on a chip",
+      "ISOAbbreviation": "Lab Chip"
+    },
+    "ArticleTitle": "Parallel multistep digital analysis SlipChip demonstrated with the quantification of nucleic acid by digital LAMP-CRISPR.",
+    "Pagination": {
+      "StartPage": "2954",
+      "EndPage": "2961",
+      "MedlinePgn": "2954-2961"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Digital biological analysis compartmentalizes targets of interest, such as nucleic acids, proteins, and cells, to a single event level and performs detection and further investigation. Microfluidic-based digital biological analysis methods, including digital PCR, digital protein analysis, and digital cell analysis, have demonstrated superior advantages in research applications and clinical diagnostics. However, most of the methods are still based on a one-step \"divide and detect\" strategy, and it is challenging for these methods to perform further parallel manipulation of reaction partitions to achieve \"divide, manipulate, and analyze\" capabilities. Here, we present a parallel multistep digital analysis (PAMDA) SlipChip for the parallel multistep manipulation of a large number of droplets for digital biological analysis, demonstrated by the quantification of SARS-CoV-2 nucleic acids by a two-step digital isothermal amplification combined with clustered regularly interspaced short palindromic repeats (CRISPR). This PAMDA SlipChip utilizes a \"chain-of-pearl\" channel with a self-partitioning droplet formation mechanism that does not require the precise alignment of microfeatures for fluidic loading as the traditional SlipChip design. This device can first generate 2400 3.2 nanoliter droplets to perform digital loop-mediated isothermal amplification (LAMP) and then deliver reagents containing Cas12a protein and crRNA to each individual partition in parallel to simultaneously initiate digital CRISPR detection by a simple multistep slipping operation. This PAMDA SlipChip not only provides a promising tool to perform digital CRISPR with a flexible assay and workflow design but can also be applied for a broad range of applications in digital biological analysis that require multistep manipulation of partitions in parallel."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, Shanghai Jiao Tong University, 1954 Hua Shan Road, Shanghai, 200030, China. feng.shen@sjtu.edu.cn."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Ziqing",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, Shanghai Jiao Tong University, 1954 Hua Shan Road, Shanghai, 200030, China. feng.shen@sjtu.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MineBio Technology LLC, 333 Gui Ping Road, Shanghai, 200233, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Lei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, Shanghai Jiao Tong University, 1954 Hua Shan Road, Shanghai, 200030, China. feng.shen@sjtu.edu.cn."
+          }
+        ],
+        "LastName": "Lyu",
+        "ForeName": "Weiyuan",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4709-330X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biomedical Engineering, Shanghai Jiao Tong University, 1954 Hua Shan Road, Shanghai, 200030, China. feng.shen@sjtu.edu.cn."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Feng",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Lab Chip",
+    "NlmUniqueID": "101128948",
+    "ISSNLinking": "1473-0189"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Nucleic Acids"
+    }
+  ],
+  "SupplMeshList": [
+    "LAMP assay"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Diagnostic Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acid Amplification Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nucleic Acids"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

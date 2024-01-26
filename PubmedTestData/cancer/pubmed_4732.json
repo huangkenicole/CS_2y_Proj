@@ -1,0 +1,159 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24390396",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "05",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "01",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s00726-013-1659-x"
+    ],
+    "Journal": {
+      "ISSN": "1438-2199",
+      "JournalIssue": {
+        "Volume": "46",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Amino acids",
+      "ISOAbbreviation": "Amino Acids"
+    },
+    "ArticleTitle": "IDM-PhyChm-Ens: intelligent decision-making ensemble methodology for classification of human breast cancer using physicochemical properties of amino acids.",
+    "Pagination": {
+      "StartPage": "977",
+      "EndPage": "993",
+      "MedlinePgn": "977-93"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Development of an accurate and reliable intelligent decision-making method for the construction of cancer diagnosis system is one of the fast growing research areas of health sciences. Such decision-making system can provide adequate information for cancer diagnosis and drug discovery. Descriptors derived from physicochemical properties of protein sequences are very useful for classifying cancerous proteins. Recently, several interesting research studies have been reported on breast cancer classification. To this end, we propose the exploitation of the physicochemical properties of amino acids in protein primary sequences such as hydrophobicity (Hd) and hydrophilicity (Hb) for breast cancer classification. Hd and Hb properties of amino acids, in recent literature, are reported to be quite effective in characterizing the constituent amino acids and are used to study protein foldings, interactions, structures, and sequence-order effects. Especially, using these physicochemical properties, we observed that proline, serine, tyrosine, cysteine, arginine, and asparagine amino acids offer high discrimination between cancerous and healthy proteins. In addition, unlike traditional ensemble classification approaches, the proposed 'IDM-PhyChm-Ens' method was developed by combining the decision spaces of a specific classifier trained on different feature spaces. The different feature spaces used were amino acid composition, split amino acid composition, and pseudo amino acid composition. Consequently, we have exploited different feature spaces using Hd and Hb properties of amino acids to develop an accurate method for classification of cancerous protein sequences. We developed ensemble classifiers using diverse learning algorithms such as random forest (RF), support vector machines (SVM), and K-nearest neighbor (KNN) trained on different feature spaces. We observed that ensemble-RF, in case of cancer classification, performed better than ensemble-SVM and ensemble-KNN. Our analysis demonstrates that ensemble-RF, ensemble-SVM and ensemble-KNN are more effective than their individual counterparts. The proposed 'IDM-PhyChm-Ens' method has shown improved performance compared to existing techniques."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer and Information Sciences, Pakistan Institute of Engineering, and Applied Sciences, Nilore, Islamabad, 45650, Pakistan, safdarali@pieas.edu.pk."
+          }
+        ],
+        "LastName": "Ali",
+        "ForeName": "Safdar",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Majid",
+        "ForeName": "Abdul",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Khan",
+        "ForeName": "Asifullah",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Austria",
+    "MedlineTA": "Amino Acids",
+    "NlmUniqueID": "9200312",
+    "ISSNLinking": "0939-4451"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Amino Acids"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Amino Acid Sequence"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Amino Acids"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "classification",
+        "metabolism"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "metabolism"
+      ],
+      "DescriptorName": "Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ]
+}

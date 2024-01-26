@@ -1,0 +1,163 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "16452783",
+  "DateCompleted": {
+    "Year": "2006",
+    "Month": "08",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1555-3930",
+      "JournalIssue": {
+        "Volume": "2",
+        "PubDate": {
+          "Year": "2003"
+        }
+      },
+      "Title": "Proceedings. IEEE Computer Society Bioinformatics Conference",
+      "ISOAbbreviation": "Proc IEEE Comput Soc Bioinform Conf"
+    },
+    "ArticleTitle": "Can we identify cellular pathways implicated in cancer using gene expression data?",
+    "Pagination": {
+      "StartPage": "94",
+      "EndPage": "103",
+      "MedlinePgn": "94-103"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The cancer state of a cell is characterized by alterations of important cellular processes such as cell proliferation, apoptosis, DNA-damage repair, etc. The expression of genes associated with cancer related pathways, therefore, may exhibit differences between the normal and the cancerous states. We explore various means to find these differences. We analyze 6 different pathways (p53, Ras, Brca, DNA damage repair, NFkappab and beta-catenin) and 4 different types of cancer: colon, pancreas, prostate and kidney. Our results are found to be mostly consistent with existing knowledge of the involvement of these pathways in different cancers. Our analysis constitutes proof of principle that it may be possible to predict the involvement of a particular pathway in cancer or other diseases by using gene expression data. Such method would be particularly useful for the types of diseases where biology is poorly understood."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pennsylvania State University, University Park, 16802, USA."
+          }
+        ],
+        "LastName": "Shah",
+        "ForeName": "Nigam",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lepre",
+        "ForeName": "Jorge",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tu",
+        "ForeName": "Yuhai",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Stolovitzky",
+        "ForeName": "Gustavo",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc IEEE Comput Soc Bioinform Conf",
+    "NlmUniqueID": "101223605",
+    "ISSNLinking": "1555-3930"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers, Tumor"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers, Tumor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Feasibility Studies"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "analysis",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Transduction"
+    }
+  ]
+}

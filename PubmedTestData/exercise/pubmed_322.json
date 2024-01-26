@@ -1,0 +1,158 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Artificial Intelligence",
+      "Computer vision",
+      "Deep learning",
+      "Generative models",
+      "Pose estimation",
+      "Rehabilitation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37925908",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "11",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2023.107665",
+      "S0010-4825(23)01130-7"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "167",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Generating a novel synthetic dataset for rehabilitation exercises using pose-guided conditioned diffusion models: A quantitative and qualitative evaluation.",
+    "Pagination": {
+      "StartPage": "107665",
+      "MedlinePgn": "107665"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Machine learning has emerged as a promising approach to enhance rehabilitation therapy monitoring and evaluation, providing personalized insights. However, the scarcity of data remains a significant challenge in developing robust machine learning models for rehabilitation. This paper introduces a novel synthetic dataset for rehabilitation exercises, leveraging pose-guided person image generation using conditioned diffusion models. By processing a pre-labeled dataset of class movements for 6 rehabilitation exercises, the described method generates realistic human movement images of elderly subjects engaging in home-based exercises. A total of 22,352 images were generated to accurately capture the spatial consistency of human joint relationships for predefined exercise movements. This novel dataset significantly amplified variability in the physical and demographic attributes of the main subject and the background environment. Quantitative metrics used for image assessment revealed highly favorable results. The generated images successfully maintained intra-class and inter-class consistency in motion data, producing outstanding outcomes with distance correlation values exceeding the 0.90. This innovative approach empowers researchers to enhance the value of existing limited datasets by generating high-fidelity synthetic images that precisely augment the anthropometric and biomechanical attributes of individuals engaged in rehabilitation exercises."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for High-Performance Computing and Networking (ICAR) - Research National Council of Italy (CNR), Italy. Electronic address: ciro.mennella@icar.cnr.it."
+          }
+        ],
+        "LastName": "Mennella",
+        "ForeName": "Ciro",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for High-Performance Computing and Networking (ICAR) - Research National Council of Italy (CNR), Italy. Electronic address: umberto.maniscalco@icar.cnr.it."
+          }
+        ],
+        "LastName": "Maniscalco",
+        "ForeName": "Umberto",
+        "Initials": "U"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for High-Performance Computing and Networking (ICAR) - Research National Council of Italy (CNR), Italy."
+          }
+        ],
+        "LastName": "De Pietro",
+        "ForeName": "Giuseppe",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for High-Performance Computing and Networking (ICAR) - Research National Council of Italy (CNR), Italy."
+          }
+        ],
+        "LastName": "Esposito",
+        "ForeName": "Massimo",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Movement"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    }
+  ],
+  "CoiStatement": "Declaration of competing interest All authors have participated in (a) conception and design, or analysis and interpretation of the data; (b) drafting the article or revising it critically for important intellectual content; and (c) approval of the final version. This manuscript has not been submitted to, nor is under review at, another journal or other publishing venue. The authors have no affiliation with any organization with a direct or indirect financial interest in the subject matter discussed in the manuscript"
+}

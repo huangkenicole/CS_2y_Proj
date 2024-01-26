@@ -1,0 +1,190 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Band power",
+      "Depression",
+      "Detrended Fluctuation Analysis (DFA)",
+      "Temporal region"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37257682",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "05",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.neulet.2023.137313",
+      "S0304-3940(23)00272-0"
+    ],
+    "Journal": {
+      "ISSN": "1872-7972",
+      "JournalIssue": {
+        "Volume": "809",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jul",
+          "Day": "13"
+        }
+      },
+      "Title": "Neuroscience letters",
+      "ISOAbbreviation": "Neurosci Lett"
+    },
+    "ArticleTitle": "Machine Learning and Electroencephalogram Signal based Diagnosis of Dipression.",
+    "Pagination": {
+      "StartPage": "137313",
+      "MedlinePgn": "137313"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Depression is a psychological condition which hampers day to day activity (Thinking, Feeling or Action). The early detection of this illness will help to save many lives because it is now recognized as a global problem which could even lead to suicide. Electroencephalogram (EEG) signals can be used to diagnose depression using machine learning techniques. The dataset studied is public dataset which consists of 30 healthy people and 34 depression patients. The methods used for detection of depression are Decision Tree, Random Forest, Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), Bidirectional Long-Short Term Memory (Bi-LSTM), Gradient Boosting, Extreme Gradient Boosting (XGBoost) along with band power. Among Deep Learning techniques, CNN model got the highest accuracy with 98.13%, specificity of 99%, and sensitivity of 97% using band power features."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2023 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, Saudi Arabia. Electronic address: akhadidos@kau.edu.sa."
+          }
+        ],
+        "LastName": "Khadidos",
+        "ForeName": "Adil O",
+        "Initials": "AO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, Saudi Arabia; Department of Computer Science, College of Computers and Information Systems, Umm Al-Qura University, Makkah, Saudi Arabia. Electronic address: kalyoubi@kau.edu.sa."
+          }
+        ],
+        "LastName": "Alyoubi",
+        "ForeName": "Khaled H",
+        "Initials": "KH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, Indian Institute of Information Technology (IIIT), Ranchi, Jharkhand, India. Electronic address: shalinimahato@iiitranchi.ac.in."
+          }
+        ],
+        "LastName": "Mahato",
+        "ForeName": "Shalini",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Information Systems, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, Saudi Arabia. Electronic address: aokhadidos@kau.edu.sa."
+          }
+        ],
+        "LastName": "Khadidos",
+        "ForeName": "Alaa O",
+        "Initials": "AO"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science & Engineering, Vardhaman College of Engineering(Autonomous), Hyderabad, India. Electronic address: sachinandan09@gmail.com."
+          }
+        ],
+        "LastName": "Nandan Mohanty",
+        "ForeName": "Sachi",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Neurosci Lett",
+    "NlmUniqueID": "7600130",
+    "ISSNLinking": "0304-3940"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electroencephalography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Datasets as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Decision Trees"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Random Forest"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "psychology"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    }
+  ],
+  "CoiStatement": "Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+}

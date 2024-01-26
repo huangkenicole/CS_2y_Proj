@@ -1,0 +1,169 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "22167557",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "06",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2015",
+    "Month": "11",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2011",
+        "Month": "12",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TBME.2011.2179035"
+    ],
+    "Journal": {
+      "ISSN": "1558-2531",
+      "JournalIssue": {
+        "Volume": "59",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2012",
+          "Month": "Mar"
+        }
+      },
+      "Title": "IEEE transactions on bio-medical engineering",
+      "ISOAbbreviation": "IEEE Trans Biomed Eng"
+    },
+    "ArticleTitle": "Detection and localization of tissue malignancy using contrast-enhanced microwave imaging: exploring information theoretic criteria.",
+    "Pagination": {
+      "StartPage": "766",
+      "EndPage": "776",
+      "MedlinePgn": "766-76"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We present a new approach to the problem of detecting cancerous tissues at low-to-medium signal-to-noise ratios (SNRs) in an interference-prone biological medium, where the dielectric properties of the surrounding heterogeneous healthy tissues are comparable to those of the tumors. Suppose that microwave contrast agents, such as microbubbles or nanocomposites, are selectively delivered to the cancer site via systemic administration, and the difference between the backscatter responses (differential signal) before and after the administration of contrast medium to the tissue anomalies can be extracted. We can then formulate the problem from the perspective of signal model selection. Subsequently, two information theoretic criteria (ITC), namely the Akaike information criterion (AIC) and the minimum description length (MDL), are applied as a blind method to reliably detect the malignant tumor and estimate its location using ITC-oriented strategies. Finally, numerical examples based on a 2-D canonical biological phantom, which synthesizes an interference-prone microwave imaging scenario, are carried out to evaluate the performance of the proposed ITC-based algorithms. The dielectric properties of the phantom are varied to investigate diagnostics of three types of dysplastic tissues: liver, lung, and breast cancers. We also use a 3-D anatomically realistic breast model as a testbed to verify the effectiveness of the proposed method."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Electrical, Electronic and Computer Engineering, Newcastle University, Newcastle upon Tyne, UK. yifan.chen2@ncl.ac.uk"
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Yifan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kosmas",
+        "ForeName": "Panagiotis",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Biomed Eng",
+    "NlmUniqueID": "0012737",
+    "ISSNLinking": "0018-9294"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Contrast Media"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artifacts"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Contrast Media"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Imaging, Three-Dimensional"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Liver Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Microwaves"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phantoms, Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal-To-Noise Ratio"
+    }
+  ]
+}

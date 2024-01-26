@@ -1,0 +1,217 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33930019",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "04",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1003585",
+      "10.1371/journal.pmed.1003585"
+    ],
+    "Journal": {
+      "ISSN": "1549-1676",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "PLoS medicine",
+      "ISOAbbreviation": "PLoS Med"
+    },
+    "ArticleTitle": "Maximizing and evaluating the impact of test-trace-isolate programs: A modeling study.",
+    "Pagination": {
+      "StartPage": "e1003585",
+      "MedlinePgn": "e1003585"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Test-trace-isolate programs are an essential part of coronavirus disease 2019 (COVID-19) control that offer a more targeted approach than many other nonpharmaceutical interventions. Effective use of such programs requires methods to estimate their current and anticipated impact.",
+        "We present a mathematical modeling framework to evaluate the expected reductions in the reproductive number, R, from test-trace-isolate programs. This framework is implemented in a publicly available R package and an online application. We evaluated the effects of completeness in case detection and contact tracing and speed of isolation and quarantine using parameters consistent with COVID-19 transmission (R0: 2.5, generation time: 6.5 days). We show that R is most sensitive to changes in the proportion of cases detected in almost all scenarios, and other metrics have a reduced impact when case detection levels are low (<30%). Although test-trace-isolate programs can contribute substantially to reducing R, exceptional performance across all metrics is needed to bring R below one through test-trace-isolate alone, highlighting the need for comprehensive control strategies. Results from this model also indicate that metrics used to evaluate performance of test-trace-isolate, such as the proportion of identified infections among traced contacts, may be misleading. While estimates of the impact of test-trace-isolate are sensitive to assumptions about COVID-19 natural history and adherence to isolation and quarantine, our qualitative findings are robust across numerous sensitivity analyses.",
+        "Effective test-trace-isolate programs first need to be strong in the \"test\" component, as case detection underlies all other program activities. Even moderately effective test-trace-isolate programs are an important tool for controlling the COVID-19 pandemic and can alleviate the need for more restrictive social distancing measures."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-2319-5010"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Grantz",
+        "ForeName": "Kyra H",
+        "Initials": "KH"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4156-9637"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Elizabeth C",
+        "Initials": "EC"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7297-9359"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, Wake Forest University, Winston-Salem, North Carolina, United States of America."
+          }
+        ],
+        "LastName": "D'Agostino McGowan",
+        "ForeName": "Lucy",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0657-1483"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Lee",
+        "ForeName": "Kyu Han",
+        "Initials": "KH"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3166-7521"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, New Jersey, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Princeton School of Public and International Affairs, Princeton University, Princeton, New Jersey, United States of America."
+          }
+        ],
+        "LastName": "Metcalf",
+        "ForeName": "C Jessica E",
+        "Initials": "CJE"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8648-9403"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Gurley",
+        "ForeName": "Emily S",
+        "Initials": "ES"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9741-8109"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Lessler",
+        "ForeName": "Justin",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Med",
+    "NlmUniqueID": "101231360",
+    "ISSNLinking": "1549-1277"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "I have read the journal\u2019s policy and the authors of this manuscript have the following competing interests: JL is a paid statistical advisor for PLOS Medicine."
+}

@@ -1,0 +1,192 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "AlexNet",
+      "Lung cancer",
+      "cancer diagnosis",
+      "histopathological images",
+      "support vector \nmachine (SVM)",
+      "wavelet"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36463485",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "02",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.3233/XST-221301"
+    ],
+    "Journal": {
+      "ISSN": "1095-9114",
+      "JournalIssue": {
+        "Volume": "31",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023"
+        }
+      },
+      "Title": "Journal of X-ray science and technology",
+      "ISOAbbreviation": "J Xray Sci Technol"
+    },
+    "ArticleTitle": "Lung cancer histopathological image classification using wavelets and AlexNet.",
+    "Pagination": {
+      "StartPage": "211",
+      "EndPage": "221",
+      "MedlinePgn": "211-221"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Among malignant tumors, lung cancer has the highest morbidity and fatality rates worldwide. Screening for lung cancer has been investigated for decades in order to reduce mortality rates of lung cancer patients, and treatment options have improved dramatically in recent years. Pathologists utilize various techniques to determine the stage, type, and subtype of lung cancers, but one of the most common is a visual assessment of histopathology slides. The most common subtypes of lung cancer are adenocarcinoma and squamous cell carcinoma, lung benign, and distinguishing between them requires visual inspection by a skilled pathologist. The purpose of this article was to develop a hybrid network for the categorization of lung histopathology images, and it did so by combining AlexNet, wavelet, and support vector machines. In this study, we feed the integrated discrete wavelet transform (DWT) coefficients and AlexNet deep features into linear support vector machines (SVMs) for lung nodule sample classification. The LC25000 Lung and colon histopathology image dataset, which contains 5,000 digital histopathology images in three categories of benign (normal cells), adenocarcinoma, and squamous carcinoma cells (both are cancerous cells) is used in this study to train and test SVM classifiers. The study results of using a 10-fold cross-validation method achieve an accuracy of 99.3% and an area under the curve (AUC) of 0.99 in classifying these digital histopathology images of lung nodule samples."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Sambalpur University, Jyoti Vihar, Burla, India."
+          }
+        ],
+        "LastName": "Sethy",
+        "ForeName": "Prabira Kumar",
+        "Initials": "PK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics and Communication Engineering, PVP Siddhartha Institute of Technology, Vijayawada, AP, India."
+          }
+        ],
+        "LastName": "Geetha Devi",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics, Sambalpur University, Jyoti Vihar, Burla, India."
+          }
+        ],
+        "LastName": "Padhan",
+        "ForeName": "Bikash",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, VSSUT, Burla, India."
+          }
+        ],
+        "LastName": "Behera",
+        "ForeName": "Santi Kumari",
+        "Initials": "SK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Aware College of Medical Lab Technology, Bairamalguda, Hyderabad, India."
+          }
+        ],
+        "LastName": "Sreedhar",
+        "ForeName": "Surampudi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department Computer Science Engineering and Application, Sambalpur University Institute of Information Technology, Burla, India."
+          }
+        ],
+        "LastName": "Das",
+        "ForeName": "Kalyan",
+        "Initials": "K"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "J Xray Sci Technol",
+    "NlmUniqueID": "9000080",
+    "ISSNLinking": "0895-3996"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Tomography, X-Ray Computed"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Diagnosis, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Adenocarcinoma"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Carcinoma, Squamous Cell"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging"
+      ],
+      "DescriptorName": "Lung"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    }
+  ]
+}

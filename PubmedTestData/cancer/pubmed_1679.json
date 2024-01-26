@@ -1,0 +1,258 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "DNA damage repair (DDR)",
+      "breast cancer",
+      "cancer prognostic model",
+      "epithelial\u2013mesenchymal transition (EMT)",
+      "gene signature"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36673982",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "01",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1221",
+      "10.3390/ijerph20021221"
+    ],
+    "Journal": {
+      "ISSN": "1660-4601",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Jan",
+          "Day": "10"
+        }
+      },
+      "Title": "International journal of environmental research and public health",
+      "ISOAbbreviation": "Int J Environ Res Public Health"
+    },
+    "ArticleTitle": "Identification of a Novel Gene Signature with DDR and EMT Difunctionalities for Predicting Prognosis, Immune Activity, and Drug Response in Breast Cancer.",
+    "Abstract": {
+      "AbstractText": [
+        "Breast cancer, with an overall poor clinical prognosis, is one of the most heterogeneous cancers. DNA damage repair (DDR) and epithelial-mesenchymal transition (EMT) have been identified to be associated with cancer's progression. Our study aimed to explore whether genes with both functions play a more crucial role in the prognosis, immune, and therapy response of breast cancer patients. Based on the Cancer Genome Atlas (TCGA) cancer database, we used LASSO regression analysis to identify the six prognostic-related genes with both DDR and EMT functions, including <i>TP63</i>, <i>YWHAZ</i>, <i>BRCA1</i>, <i>CCND2</i>, <i>YWHAG</i>, and <i>HIPK2</i>. Based on the six genes, we defined the risk scores of the patients and reasonably analyzed the overall survival rate between the patients with the different risk scores. We found that overall survival in higher-risk-score patients was lower than in lower-risk-score patients. Subsequently, further GO and KEGG analyses for patients revealed that the levels of immune infiltration varied for patients with high and low risk scores, and the high-risk-score patients had lower immune infiltration's levels and were insensitive to treatment with chemotherapeutic agents. Furthermore, the Gene Expression Omnibus (GEO) database validated our findings. Our data suggest that <i>TP63</i>, <i>YWHAZ</i>, <i>BRCA1</i>, <i>CCND2</i>, <i>YWHAG</i>, and <i>HIPK2</i> can be potential genetic markers of prognostic assessment, immune infiltration and chemotherapeutic drug sensitivity in breast cancer patients."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Medicine, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Watershed Science and Health of Zhejiang Province, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Pan",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Medicine, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Watershed Science and Health of Zhejiang Province, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Quan",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Medicine, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Watershed Science and Health of Zhejiang Province, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Yuni",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Medicine, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Watershed Science and Health of Zhejiang Province, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Qianqian",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Medicine, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Watershed Science and Health of Zhejiang Province, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          }
+        ],
+        "LastName": "Yan",
+        "ForeName": "Junfang",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Medicine, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Watershed Science and Health of Zhejiang Province, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          }
+        ],
+        "LastName": "Shen",
+        "ForeName": "Aihua",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Medicine, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Key Laboratory of Watershed Science and Health of Zhejiang Province, School of Public Health and Management, Wenzhou Medical University, Wenzhou 325035, China."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Burong",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Int J Environ Res Public Health",
+    "NlmUniqueID": "101238455",
+    "ISSNLinking": "1660-4601"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "EC 2.7.1.-",
+      "NameOfSubstance": "HIPK2 protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Carrier Proteins"
+    },
+    {
+      "RegistryNumber": "EC 2.7.11.1",
+      "NameOfSubstance": "Protein Serine-Threonine Kinases"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "YWHAG protein, human"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "14-3-3 Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epithelial-Mesenchymal Transition"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Breast"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "DNA Repair"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Carrier Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Serine-Threonine Kinases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "14-3-3 Proteins"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

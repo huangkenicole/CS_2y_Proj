@@ -1,0 +1,204 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "SARS-CoV-2",
+      "data harmonisation",
+      "data integration",
+      "machine learning",
+      "multi-omics",
+      "multivariate analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34036326",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab185",
+      "10.1093/bib/bbab185"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov",
+          "Day": "05"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "A multi-modal data harmonisation approach for discovery of COVID-19 drug targets.",
+    "Abstract": {
+      "AbstractText": [
+        "Despite the volume of experiments performed and data available, the complex biology of coronavirus SARS-COV-2 is not yet fully understood. Existing molecular profiling studies have focused on analysing functional omics data of a single type, which captures changes in a small subset of the molecular perturbations caused by the virus. As the logical next step, results from multiple such omics analysis may be aggregated to comprehensively interpret the molecular mechanisms of SARS-CoV-2. An alternative approach is to integrate data simultaneously in a parallel fashion to highlight the inter-relationships of disease-driving biomolecules, in contrast to comparing processed information from each omics level separately. We demonstrate that valuable information may be masked by using the former fragmented views in analysis, and biomarkers resulting from such an approach cannot provide a systematic understanding of the disease aetiology. Hence, we present a generic, reproducible and flexible open-access data harmonisation framework that can be scaled out to future multi-omics analysis to study a phenotype in a holistic manner. The pipeline source code, detailed documentation and automated version as a R package are accessible. To demonstrate the effectiveness of our pipeline, we applied it to a drug screening task. We integrated multi-omics data to find the lowest level of statistical associations between data features in two case studies. Strongly correlated features within each of these two datasets were used for drug-target analysis, resulting in a list of 84 drug-target candidates. Further computational docking and toxicity analyses revealed seven high-confidence targets, amsacrine, bosutinib, ceritinib, crizotinib, nintedanib and sunitinib as potential starting points for drug therapy and development."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, Monash University, 25 Rainforest Walk, 3800, VIC, Australia."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Tyrone",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, Monash University, 25 Rainforest Walk, 3800, VIC, Australia."
+          }
+        ],
+        "LastName": "Philip",
+        "ForeName": "Melcy",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Melbourne Integrative Genomics, University of Melbourne, Building 184, Royal Parade, 3010, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematics and Statistics, University of Melbourne, 813 Swanston Street, 3010, VIC, Australia."
+          }
+        ],
+        "LastName": "L\u00ea Cao",
+        "ForeName": "Kim-Anh",
+        "Initials": "KA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biological Sciences, Monash University, 25 Rainforest Walk, 3800, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Monash eResearch Centre, Monash University, 15 Innovation Walk, 3800, VIC, Australia."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Disease, Monash University, 85 Commercial Road, 3004, VIC, Australia."
+          }
+        ],
+        "LastName": "Tyagi",
+        "ForeName": "Sonika",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "GNT1159458",
+        "Agency": "National Health and Medical Research Council",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "chemistry"
+      ],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Targeted Therapy"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "drug effects",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

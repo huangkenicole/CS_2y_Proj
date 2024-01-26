@@ -1,0 +1,148 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Anti-angiogenic",
+      "Cancerous tumors",
+      "Chemotherapy",
+      "Nonlinear adaptive control",
+      "Optimal control",
+      "Parameter estimation"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31075570",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "07",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "07",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "04",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2019.04.011",
+      "S0010-4825(19)30119-2"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "109",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Derivation of an optimal trajectory and nonlinear adaptive controller design for drug delivery in cancerous tumor chemotherapy.",
+    "Pagination": {
+      "StartPage": "195",
+      "EndPage": "206",
+      "MedlinePgn": "195-206"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Numerous models have investigated cancer behavior by considering different factors in chemotherapy. The subject of a controller design approach for these models in order to find the best rate of drug injection during the course of treatment has recently attracted much attention. The rate of drug injections is very important in chemotherapy, as it not only causes cancer cells to die, but also kills healthy cells. On the other hand, by modeling tumor growth behavior in each patient, different parameters for the dynamics of the system should be considered. In this study, optimal control signals were obtained for the most recent model of chemotherapy, using the steepest descent method. The logic of the solution was biologically compared to the experimental results. Then an adaptive controller, considering this path as the desired optimal trajectory, directs the system towards it. The global stability of the closed-loop system is achieved by means of the Lyapunov stability theory and Barbalat lemma. It is worth noting that some of the system parameters are estimated using an online recursive estimation method. Simulation results indicate the performance and effectiveness of the designed controller. The estimation parameters are also verified using experimental data from available studies."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2019 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mechanical Engineering, Shiraz University, Shiraz, Iran."
+          }
+        ],
+        "LastName": "Khalili",
+        "ForeName": "Pariya",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mechanical Engineering, Shiraz University, Shiraz, Iran. Electronic address: rvatankhah@shirazu.ac.ir."
+          }
+        ],
+        "LastName": "Vatankhah",
+        "ForeName": "Ramin",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antineoplastic Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antineoplastic Agents"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Nonlinear Dynamics"
+    }
+  ]
+}

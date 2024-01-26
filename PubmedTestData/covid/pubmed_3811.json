@@ -1,0 +1,153 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35020731",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "01",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1009780",
+      "10.1371/journal.pcbi.1009780"
+    ],
+    "Journal": {
+      "ISSN": "1553-7358",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan"
+        }
+      },
+      "Title": "PLoS computational biology",
+      "ISOAbbreviation": "PLoS Comput Biol"
+    },
+    "ArticleTitle": "Hybrid simulation modelling of networks of heterogeneous care homes and the inter-facility spread of Covid-19 by sharing staff.",
+    "Pagination": {
+      "StartPage": "e1009780",
+      "MedlinePgn": "e1009780"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Although system dynamics [SD] and agent-based modelling [ABM] have individually served as effective tools to understand the Covid-19 dynamics, combining these methods in a hybrid simulation model can help address Covid-19 questions and study systems and settings that are difficult to study with a single approach. To examine the spread and outbreak of Covid-19 across multiple care homes via bank/agency staff and evaluate the effectiveness of interventions targeting this group, we develop an integrated hybrid simulation model combining the advantages of SD and ABM. We also demonstrate how we use several approaches adapted from both SD and ABM practices to build confidence in this model in response to the lack of systematic approaches to validate hybrid models. Our modelling results show that the risk of infection for residents in care homes using bank/agency staff was significantly higher than those not using bank/agency staff (Relative risk [RR] 2.65, 95% CI 2.57-2.72). Bank/agency staff working across several care homes had a higher risk of infection compared with permanent staff working in a single care home (RR 1.55, 95%CI 1.52-1.58). The RR of infection for residents is negatively correlated to bank/agency staff's adherence to weekly PCR testing. Within a network of heterogeneous care homes, using bank/agency staff had the most impact on care homes with lower intra-facility transmission risks, higher staff-to-resident ratio, and smaller size. Forming bubbles of care homes had no or limited impact on the spread of Covid-19. This modelling study has implications for policy makers considering developing effective interventions targeting staff working across care homes during the ongoing and future pandemics."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-6742-6896"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Management Science, Strathclyde Business School, University of Strathclyde, Glasgow, United Kingdom."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Le Khanh Ngan",
+        "Initials": "LKN"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8391-6660"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Management Science, Strathclyde Business School, University of Strathclyde, Glasgow, United Kingdom."
+          }
+        ],
+        "LastName": "Megiddo",
+        "ForeName": "Itamar",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0796-7981"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Management Science, Strathclyde Business School, University of Strathclyde, Glasgow, United Kingdom."
+          }
+        ],
+        "LastName": "Howick",
+        "ForeName": "Susan",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Comput Biol",
+    "NlmUniqueID": "101238922",
+    "ISSNLinking": "1553-734X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Health Personnel"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "organization & administration"
+      ],
+      "DescriptorName": "Nursing Homes"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Systems Analysis"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

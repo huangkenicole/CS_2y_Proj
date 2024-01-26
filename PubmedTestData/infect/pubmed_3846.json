@@ -1,0 +1,159 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19210727",
+  "DateCompleted": {
+    "Year": "2009",
+    "Month": "12",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2009",
+        "Month": "02",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1111/j.1541-0420.2008.01131.x"
+    ],
+    "Journal": {
+      "ISSN": "1541-0420",
+      "JournalIssue": {
+        "Volume": "65",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2009",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Biometrics",
+      "ISOAbbreviation": "Biometrics"
+    },
+    "ArticleTitle": "Chop-lump tests for vaccine trials.",
+    "Pagination": {
+      "StartPage": "885",
+      "EndPage": "893",
+      "MedlinePgn": "885-93"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This article proposes new tests to compare the vaccine and placebo groups in randomized vaccine trials when a small fraction of volunteers become infected. A simple approach that is consistent with the intent-to-treat principle is to assign a score, say W, equal to 0 for the uninfecteds and some postinfection outcome X > 0 for the infecteds. One can then test the equality of this skewed distribution of W between the two groups. This burden of illness (BOI) test was introduced by Chang, Guess, and Heyse (1994, Statistics in Medicine 13, 1807-1814). If infections are rare, the massive number of 0s in each group tends to dilute the vaccine effect and this test can have poor power, particularly if the X's are not close to zero. Comparing X in just the infecteds is no longer a comparison of randomized groups and can produce misleading conclusions. Gilbert, Bosch, and Hudgens (2003, Biometrics 59, 531-541) and Hudgens, Hoering, and Self (2003, Statistics in Medicine 22, 2281-2298) introduced tests of the equality of X in a subgroup-the principal stratum of those \"doomed\" to be infected under either randomization assignment. This can be more powerful than the BOI approach, but requires unexaminable assumptions. We suggest new \"chop-lump\" Wilcoxon and t-tests (CLW and CLT) that can be more powerful than the BOI tests in certain situations. When the number of volunteers in each group are equal, the chop-lump tests remove an equal number of zeros from both groups and then perform a test on the remaining W's, which are mostly >0. A permutation approach provides a null distribution. We show that under local alternatives, the CLW test is always more powerful than the usual Wilcoxon test provided the true vaccine and placebo infection rates are the same. We also identify the crucial role of the \"gap\" between 0 and the X's on power for the t-tests. The chop-lump tests are compared to established tests via simulation for planned HIV and malaria vaccine trials. A reanalysis of the first phase III HIV vaccine trial is used to illustrate the method."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Biostatistics Research Branch, National Institute of Allergy and Infectious Diseases, MSC 7609, Bethesda, Maryland 20892, USA. dfollmann@niaid.nih.gov"
+          }
+        ],
+        "LastName": "Follmann",
+        "ForeName": "Dean",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fay",
+        "ForeName": "Michael P",
+        "Initials": "MP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Proschan",
+        "ForeName": "Michael",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Biometrics",
+    "NlmUniqueID": "0370625",
+    "ISSNLinking": "0006-341X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "AIDS Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "AIDS Vaccines"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Biometry"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Clinical Trials, Phase III as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Interpretation, Statistical"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Outcome Assessment, Health Care"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Placebo Effect"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Randomized Controlled Trials as Topic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Treatment Outcome"
+    }
+  ]
+}

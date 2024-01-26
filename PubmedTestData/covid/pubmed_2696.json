@@ -1,0 +1,199 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33170789",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2020.3037127"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "COVIDGR Dataset and COVID-SDNet Methodology for Predicting COVID-19 Based on Chest X-Ray Images.",
+    "Pagination": {
+      "StartPage": "3595",
+      "EndPage": "3605",
+      "MedlinePgn": "3595-3605"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Currently, Coronavirus disease (COVID-19), one of the most infectious diseases in the 21st century, is diagnosed using RT-PCR testing, CT scans and/or Chest X-Ray (CXR) images. CT (Computed Tomography) scanners and RT-PCR testing are not available in most medical centers and hence in many cases CXR images become the most time/cost effective tool for assisting clinicians in making decisions. Deep learning neural networks have a great potential for building COVID-19 triage systems and detecting COVID-19 patients, especially patients with low severity. Unfortunately, current databases do not allow building such systems as they are highly heterogeneous and biased towards severe cases. This article is three-fold: (i) we demystify the high sensitivities achieved by most recent COVID-19 classification models, (ii) under a close collaboration with Hospital Universitario Cl\u00ednico San Cecilio, Granada, Spain, we built COVIDGR-1.0, a homogeneous and balanced database that includes all levels of severity, from normal with Positive RT-PCR, Mild, Moderate to Severe. COVIDGR-1.0 contains 426 positive and 426 negative PA (PosteroAnterior) CXR views and (iii) we propose COVID Smart Data based Network (COVID-SDNet) methodology for improving the generalization capacity of COVID-classification models. Our approach reaches good and stable results with an accuracy of [Formula: see text], [Formula: see text], [Formula: see text] in severe, moderate and mild COVID-19 severity levels. Our approach could help in the early detection of COVID-19. COVIDGR-1.0 along with the severity level labels are available to the scientific community through this link https://dasci.es/es/transferencia/open-data/covidgr/."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tabik",
+        "ForeName": "S",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gomez-Rios",
+        "ForeName": "A",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Martin-Rodriguez",
+        "ForeName": "J L",
+        "Initials": "JL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Sevillano-Garcia",
+        "ForeName": "I",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Rey-Area",
+        "ForeName": "M",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Charte",
+        "ForeName": "D",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Guirado",
+        "ForeName": "E",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Suarez",
+        "ForeName": "J L",
+        "Initials": "JL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Luengo",
+        "ForeName": "J",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Valero-Gonzalez",
+        "ForeName": "M A",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Garcia-Villanova",
+        "ForeName": "P",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Olmedo-Sanchez",
+        "ForeName": "E",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Herrera",
+        "ForeName": "F",
+        "Initials": "F"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "ERC_",
+        "Agency": "European Research Council",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "conservation landscape",
+      "genomic conservation",
+      "molecular epidemiology",
+      "mutation",
+      "variants of concern",
+      "virus genomics",
+      "visualization tool"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35336968",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "04",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "03",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "561",
+      "10.3390/v14030561"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Mar",
+          "Day": "09"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "CovDif, a Tool to Visualize the Conservation between SARS-CoV-2 Genomes and Variants.",
+    "Abstract": {
+      "AbstractText": [
+        "The spread of the newly emerged severe acute respiratory syndrome (SARS-CoV-2) virus has led to more than 430 million confirmed cases, including more than 5.9 million deaths, reported worldwide as of 24 February 2022. Conservation of viral genomes is important for pathogen identification and diagnosis, therapeutics development and epidemiological surveillance to detect the emergence of new viral variants. An intense surveillance of virus variants has led to the identification of Variants of Interest and Variants of Concern. Although these classifications dynamically change as the pandemic evolves, they have been useful to guide public health efforts on containment and mitigation. In this work, we present CovDif, a tool to detect conserved regions between groups of viral genomes. CovDif creates a conservation landscape for each group of genomes of interest and a differential landscape able to highlight differences in the conservation level between groups. CovDif is able to identify loss in conservation due to point mutations, deletions, inversions and chromosomal rearrangements. In this work, we applied CovDif to SARS-CoV-2 clades (G, GH, GR, GV, L, O, S and G) and variants. We identified all regions for any defining SNPs. We also applied CovDif to a group of population genomes and evaluated the conservation of primer regions for current SARS-CoV-2 detection and diagnostic protocols. We found that some of these protocols should be applied with caution as few of the primer-template regions are no longer conserved in some SARS-CoV-2 variants. We conclude that CovDif is a tool that could be widely applied to study the conservation of any group of viral genomes as long as whole genomes exist."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Licenciatura de Ciencias Gen\u00f3micas, Universidad Nacional Aut\u00f3noma de M\u00e9xico, Quer\u00e9taro 76230, Mexico."
+          }
+        ],
+        "LastName": "Cede\u00f1o-P\u00e9rez",
+        "ForeName": "Luis F",
+        "Initials": "LF"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9685-6492"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Bioinform\u00e1tica, Instituto Nacional de Medicina Gen\u00f3mica, Perif\u00e9rico Sur 4809, Arenal Tepepan, Tlalpan, Mexico City 14610, Mexico."
+          }
+        ],
+        "LastName": "G\u00f3mez-Romero",
+        "ForeName": "Laura",
+        "Initials": "L"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Point Mutation"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

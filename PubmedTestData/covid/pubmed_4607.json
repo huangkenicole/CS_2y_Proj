@@ -1,0 +1,248 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cepheid",
+      "FDA emergency use authorization",
+      "NGTF",
+      "SARS-CoV-2",
+      "Xpert",
+      "Xpress",
+      "gene mutations",
+      "target failures"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36255326",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "01",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "10",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e01355-22",
+      "10.1128/spectrum.01355-22"
+    ],
+    "Journal": {
+      "ISSN": "2165-0497",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Dec",
+          "Day": "21"
+        }
+      },
+      "Title": "Microbiology spectrum",
+      "ISOAbbreviation": "Microbiol Spectr"
+    },
+    "ArticleTitle": "Design and Implementation of Improved SARS-CoV-2 Diagnostic Assays To Mitigate the Impact of Genomic Mutations on Target Failure: the Xpert Xpress SARS-CoV-2 Experience.",
+    "Pagination": {
+      "StartPage": "e0135522",
+      "MedlinePgn": "e0135522"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In 2020, the U.S. Food and Drug Administration (FDA) enabled manufacturers to request emergency use authorization (EUA) to facilitate the rapid authorization of <i>in vitro</i> diagnostic (IVD) platforms for the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Uncommon SARS-CoV-2 point mutations could cause nucleocapsid (N) gene target failure (NGTF) when using first-generation Xpert Xpress assays, so improvements were designed and implemented. In response to NGTF reports and with consideration of viral genomic information in public databases, the Xpress assays were redesigned to mitigate the impact of SARS-CoV-2 mutations on qualitative assay performance. The second-generation assays include a third gene target (RNA-dependent RNA polymerase [RdRp]) and redundant oligonucleotide probes for the N2 target. First- and second-generation assay performances were evaluated using a challenge set of samples. A second-generation assay with updated oligonucleotide chemistry received FDA EUA in September 2021. A prototype assay with oligonucleotide chemistry similar to that of the second-generation assay with FDA EUA successfully detected all three gene targets (N2, envelope [E], and RdRp) in all challenge samples (100%; 50/50), including variants with N gene mutations (g.29197C>T or g.29200C>T), which caused NGTF in the first-generation assays. Investigation and reporting of IVD target failures, public sharing of viral genomic sequence data, and the FDA EUA pathway were essential components in facilitating a short cycle time from the identification of mutations that impact the performance of an IVD assay to the design and implementation of an improved IVD assay. <b>IMPORTANCE</b> The SARS-CoV-2 genome has mutated during the coronavirus disease 2019 (COVID-19) pandemic. Some of these mutations have impacted the performance of nucleic acid amplification tests like PCR, which are commonly used as diagnostic tools to detect an infection. The U.S. Food and Drug Administration (FDA) emergency use authorization (EUA) process enables the rapid reformulation and regulatory authorization of improved PCRs. In our experience, the identification of SARS-CoV-2 mutations that impact PCR performance, the subsequent development of improved PCR chemistry, and the use of the FDA EUA regulatory pathway led to improved diagnostic performance during the SARS-CoV-2 pandemic that is able to keep pace with the rapidly evolving genome of SARS-CoV-2."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-9391-7448"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Cleveland Clinicgrid.239578.2, Cleveland, Ohio, USA."
+          }
+        ],
+        "LastName": "Burns",
+        "ForeName": "Bethany L",
+        "Initials": "BL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Cleveland Clinicgrid.239578.2, Cleveland, Ohio, USA."
+          }
+        ],
+        "LastName": "Moody",
+        "ForeName": "Domonique",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Cleveland Clinicgrid.239578.2, Cleveland, Ohio, USA."
+          }
+        ],
+        "LastName": "Tu",
+        "ForeName": "Zheng Jin",
+        "Initials": "ZJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Cleveland Clinicgrid.239578.2, Cleveland, Ohio, USA."
+          }
+        ],
+        "LastName": "Nakitandwe",
+        "ForeName": "Joy",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Cleveland Clinicgrid.239578.2, Cleveland, Ohio, USA."
+          }
+        ],
+        "LastName": "Brock",
+        "ForeName": "Jay E",
+        "Initials": "JE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Cleveland Clinicgrid.239578.2, Cleveland, Ohio, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Cleveland Clinicgrid.239578.2 Lerner College of Medicine, Case Western Reserve University, Cleveland, Ohio, USA."
+          }
+        ],
+        "LastName": "Bosler",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1777-7591"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cepheid, Sunnyvale, California, USA."
+          }
+        ],
+        "LastName": "Mitchell",
+        "ForeName": "Stephanie L",
+        "Initials": "SL"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3934-089X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cepheid, Sunnyvale, California, USA."
+          }
+        ],
+        "LastName": "Loeffelholz",
+        "ForeName": "Michael J",
+        "Initials": "MJ"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7636-5191"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, Cleveland Clinicgrid.239578.2, Cleveland, Ohio, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Cleveland Clinicgrid.239578.2 Lerner College of Medicine, Case Western Reserve University, Cleveland, Ohio, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Infection Biology Program, Lerner Research Institute, Cleveland Clinicgrid.239578.2, Cleveland, Ohio, USA."
+          }
+        ],
+        "LastName": "Rhoads",
+        "ForeName": "Daniel D",
+        "Initials": "DD"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Microbiol Spectr",
+    "NlmUniqueID": "101634614",
+    "ISSNLinking": "2165-0497"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Clinical Laboratory Techniques"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    }
+  ],
+  "CoiStatement": "The authors declare a conflict of interest. Cepheid financially supported the work reported in this study. M.J.R. and S.L.M. receive salary from Cepheid. D.D.R. has received compensation from Luminex, Talis Biomedical, and Roche for scientific advisory. D.D.R. has sponsored agreements through his employer with the following groups: Abbott, Accelerate Diagnostics, Altona, BD, BioFire, bioMerieux, Bio-Rad, Cepheid, Cleveland Diagnostics, HelixBind, Hologic, Luminex, Qiagen, Q-Linea, Roche, Specific Diagnostics, Thermo Fisher, and Vela Diagnostics. D.D.R. is a co-investigator with NIH/NIAID R01 HS028633-01."
+}

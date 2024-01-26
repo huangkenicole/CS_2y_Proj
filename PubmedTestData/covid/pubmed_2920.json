@@ -1,0 +1,489 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Cardiac infection",
+      "Cardiac signature matrix",
+      "MACE",
+      "RNA-seq",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34647998",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/cvr/cvab322"
+    ],
+    "Journal": {
+      "ISSN": "1755-3245",
+      "JournalIssue": {
+        "Volume": "118",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "29"
+        }
+      },
+      "Title": "Cardiovascular research",
+      "ISOAbbreviation": "Cardiovasc Res"
+    },
+    "ArticleTitle": "Cardiac SARS-CoV-2 infection is associated with pro-inflammatory transcriptomic alterations within the heart.",
+    "Pagination": {
+      "StartPage": "542",
+      "EndPage": "555",
+      "MedlinePgn": "542-555"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cardiac involvement in COVID-19 is associated with adverse outcome. However, it is unclear whether cell-specific consequences are associated with cardiac SARS-CoV-2 infection. Therefore, we investigated heart tissue utilizing in situ hybridization, immunohistochemistry, and RNA-sequencing in consecutive autopsy cases to quantify virus load and characterize cardiac involvement in COVID-19.",
+        "In this study, 95 SARS-CoV-2-positive autopsy cases were included. A relevant SARS-CoV-2 virus load in the cardiac tissue was detected in 41/95 deceased (43%). Massive analysis of cDNA ends (MACE)-RNA-sequencing was performed to identify molecular pathomechanisms caused by the infection of the heart. A signature matrix was generated based on the single-cell dataset 'Heart Cell Atlas' and used for digital cytometry on the MACE-RNA-sequencing data. Thus, immune cell fractions were estimated and revealed no difference in immune cell numbers in cases with and without cardiac infection. This result was confirmed by quantitative immunohistological diagnosis. MACE-RNA-sequencing revealed 19 differentially expressed genes (DEGs) with a q-value <0.05 (e.g. up: IFI44L, IFT3, TRIM25; down: NPPB, MB, MYPN). The upregulated DEGs were linked to interferon pathways and originate predominantly from endothelial cells. In contrast, the downregulated DEGs originate predominately from cardiomyocytes. Immunofluorescent staining showed viral protein in cells positive for the endothelial marker ICAM1 but rarely in cardiomyocytes. The Gene Ontology (GO) term analysis revealed that downregulated GO terms were linked to cardiomyocyte structure, whereas upregulated GO terms were linked to anti-virus immune response.",
+        "This study reveals that cardiac infection induced transcriptomic alterations mainly linked to immune response and destruction of cardiomyocytes. While endothelial cells are primarily targeted by the virus, we suggest cardiomyocyte destruction by paracrine effects. Increased pro-inflammatory gene expression was detected in SARS-CoV-2-infected cardiac tissue but no increased SARS-CoV-2 associated immune cell infiltration was observed."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press on behalf of the European Society of Cardiology."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-4370-9509"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, University Heart and Vascular Centre Hamburg, Martinistr. 52, 20246 Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "DZHK (German Centre for Cardiovascular Research), Partner Site Hamburg/Kiel/L\u00fcbeck, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Br\u00e4uninger",
+        "ForeName": "Hanna",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2401-4338"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, University Heart and Vascular Centre Hamburg, Martinistr. 52, 20246 Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "DZHK (German Centre for Cardiovascular Research), Partner Site Hamburg/Kiel/L\u00fcbeck, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Stoffers",
+        "ForeName": "Bastian",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Legal Medicine, University Medical Centre Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Fitzek",
+        "ForeName": "Antonia D E",
+        "Initials": "ADE"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1616-0856"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Legal Medicine, University Medical Centre Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Mei\u00dfner",
+        "ForeName": "Kira",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Cardiac Diagnostics and Therapy, Moltkestra\u00dfe 31, 12203 Berlin, Germany."
+          }
+        ],
+        "LastName": "Aleshcheva",
+        "ForeName": "Ganna",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electron Microscopy, Centre for Molecular Neurobiology, University Medical Centre Hamburg-Eppendorf, Falkenried 94, 20251 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Schweizer",
+        "ForeName": "Michaela",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2414-8766"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, University Heart and Vascular Centre Hamburg, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Weimann",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "GenXPro GmbH, Frankfurter Innovationszentrum, Biotechnologie (FIZ), Altenh\u00f6ferallee 3, 60438 Frankfurt am Main, Germany."
+          }
+        ],
+        "LastName": "Rotter",
+        "ForeName": "Bj\u00f6rn",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, University Heart and Vascular Centre Hamburg, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Warnke",
+        "ForeName": "Svenja",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Legal Medicine, University Medical Centre Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Edler",
+        "ForeName": "Carolin",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "III Department of Medicine, University Medical Centre Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Braun",
+        "ForeName": "Fabian",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Intensive Care Medicine, University Medical Centre Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Roedl",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3237-140X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, University Heart and Vascular Centre Hamburg, Martinistr. 52, 20246 Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Cardiology (cNEP), EVK D\u00fcsseldorf, Kirchfeldstrasse 40, 40217 D\u00fcsseldorf, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Faculty, Institute of Neural and Sensory Physiology, Heinrich Heine University D\u00fcsseldorf, Universit\u00e4tsstrasse 1, 40225 D\u00fcsseldorf, Germany."
+          }
+        ],
+        "LastName": "Scherschel",
+        "ForeName": "Katharina",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0678-5681"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Cardiac Diagnostics and Therapy, Moltkestra\u00dfe 31, 12203 Berlin, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, Charit\u00e9-Universitaetsmedizin, Augustenburger Platz 1, 13353 Berlin, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "DZHK (German Centre for Cardiovascular Research), Partner site Berlin, Berlin, Germany."
+          }
+        ],
+        "LastName": "Escher",
+        "ForeName": "Felicitas",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Intensive Care Medicine, University Medical Centre Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Kluge",
+        "ForeName": "Stefan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7175-5062"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "III Department of Medicine, University Medical Centre Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Huber",
+        "ForeName": "Tobias B",
+        "Initials": "TB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Legal Medicine, University Medical Centre Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Ondruschka",
+        "ForeName": "Benjamin",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Cardiac Diagnostics and Therapy, Moltkestra\u00dfe 31, 12203 Berlin, Germany."
+          }
+        ],
+        "LastName": "Schultheiss",
+        "ForeName": "Heinz-Peter",
+        "Initials": "HP"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1881-0197"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, University Heart and Vascular Centre Hamburg, Martinistr. 52, 20246 Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "DZHK (German Centre for Cardiovascular Research), Partner Site Hamburg/Kiel/L\u00fcbeck, 20246 Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Cardiovascular Sciences, University of Birmingham, Birmingham, UK."
+          }
+        ],
+        "LastName": "Kirchhof",
+        "ForeName": "Paulus",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, University Heart and Vascular Centre Hamburg, Martinistr. 52, 20246 Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "DZHK (German Centre for Cardiovascular Research), Partner Site Hamburg/Kiel/L\u00fcbeck, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Blankenberg",
+        "ForeName": "Stefan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Legal Medicine, University Medical Centre Hamburg-Eppendorf, Martinistr. 52, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "P\u00fcschel",
+        "ForeName": "Klaus",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7542-1956"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, University Heart and Vascular Centre Hamburg, Martinistr. 52, 20246 Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "DZHK (German Centre for Cardiovascular Research), Partner Site Hamburg/Kiel/L\u00fcbeck, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Westermann",
+        "ForeName": "Dirk",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5477-769X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiology, University Heart and Vascular Centre Hamburg, Martinistr. 52, 20246 Hamburg, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "DZHK (German Centre for Cardiovascular Research), Partner Site Hamburg/Kiel/L\u00fcbeck, 20246 Hamburg, Germany."
+          }
+        ],
+        "LastName": "Lindner",
+        "ForeName": "Diana",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Cardiovasc Res",
+    "NlmUniqueID": "0077427",
+    "ISSNLinking": "0008-6363"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Autopsy"
+    },
+    {
+      "QualifierName": [
+        "complications",
+        "genetics",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Heart"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "complications"
+      ],
+      "DescriptorName": "Inflammation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "metabolism",
+        "pathology"
+      ],
+      "DescriptorName": "Myocardium"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Virus Replication"
+    }
+  ]
+}

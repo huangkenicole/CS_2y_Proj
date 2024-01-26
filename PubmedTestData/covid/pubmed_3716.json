@@ -1,0 +1,290 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37737287",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "09",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "15782",
+      "10.1038/s41598-023-42348-y"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep",
+          "Day": "22"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "An Innovative AI-based primer design tool for precise and accurate detection of SARS-CoV-2 variants of concern.",
+    "Pagination": {
+      "StartPage": "15782",
+      "MedlinePgn": "15782"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "As the COVID-19 pandemic winds down, it leaves behind the serious concern that future, even more disruptive pandemics may eventually surface. One of the crucial steps in handling the SARS-CoV-2 pandemic was being able to detect the presence of the virus in an accurate and timely manner, to then develop policies counteracting the spread. Nevertheless, as the pandemic evolved, new variants with potentially dangerous mutations appeared. Faced by these developments, it becomes clear that there is a need for fast and reliable techniques to create highly specific molecular tests, able to uniquely identify VOCs. Using an automated pipeline built around evolutionary algorithms, we designed primer sets for SARS-CoV-2 (main lineage) and for VOC, B.1.1.7 (Alpha) and B.1.1.529 (Omicron). Starting from sequences openly available in the GISAID repository, our pipeline was able to deliver the primer sets for the main lineage and each variant in a matter of hours. Preliminary in-silico validation showed that the sequences in the primer sets featured high accuracy. A pilot test in a laboratory setting confirmed the results: the developed primers were favorably compared against existing commercial versions for the main lineage, and the specific versions for the VOCs B.1.1.7 and B.1.1.529 were clinically tested successfully."
+      ],
+      "CopyrightInformation": "\u00a9 2023. Springer Nature Limited."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departamento de Investigaci\u00f3n, Universidad Central de Queretaro (UNICEQ), Av. 5 de Febrero 1602, San Pablo, Santiago de Quer\u00e9taro, 76130, Qro., Mexico."
+          }
+        ],
+        "LastName": "Perez-Romero",
+        "ForeName": "Carmina Angelica",
+        "Initials": "CA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hospital Civil de Guadalajara \"Dr. Juan I. Menchaca\", Salvador Quevedo y Zubieta 750, Independencia Oriente, C.P. 44340, Guadalajara, Jalisco, M\u00e9xico."
+          }
+        ],
+        "LastName": "Mendoza-Maldonado",
+        "ForeName": "Lucero",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5895-4809"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UMR 518 MIA Paris-Saclay, INRAE, AgroParisTech, Universit\u00e9 Paris-Saclay, 91120, Palaiseau, France."
+          }
+        ],
+        "LastName": "Tonda",
+        "ForeName": "Alberto",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CBI, ESPCI Paris, Universit\u00e9 PSL, CNRS, 75005, Paris, France."
+          }
+        ],
+        "LastName": "Coz",
+        "ForeName": "Etienne",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CBI, ESPCI Paris, Universit\u00e9 PSL, CNRS, 75005, Paris, France."
+          }
+        ],
+        "LastName": "Tabeling",
+        "ForeName": "Patrick",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CIBU, Institut Pasteur, 25-28 rue du Dr Roux, 75015, Paris, France."
+          }
+        ],
+        "LastName": "Vanhomwegen",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9528-6261"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Microbiology and School of Medicine, University College Cork, College Rd, University College, Cork, Ireland."
+          }
+        ],
+        "LastName": "MacSharry",
+        "ForeName": "John",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Microbiology and School of Medicine, University College Cork, College Rd, University College, Cork, Ireland."
+          }
+        ],
+        "LastName": "Szafran",
+        "ForeName": "Joanna",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hospital Civil de Guadalajara \"Dr. Juan I. Menchaca\", Salvador Quevedo y Zubieta 750, Independencia Oriente, C.P. 44340, Guadalajara, Jalisco, M\u00e9xico."
+          }
+        ],
+        "LastName": "Bobadilla-Morales",
+        "ForeName": "Lucina",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hospital Civil de Guadalajara \"Dr. Juan I. Menchaca\", Salvador Quevedo y Zubieta 750, Independencia Oriente, C.P. 44340, Guadalajara, Jalisco, M\u00e9xico."
+          }
+        ],
+        "LastName": "Corona-Rivera",
+        "ForeName": "Alfredo",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Athena Institute, Vrije Universiteit, De Boelelaan 1085, 1081 HV, Amsterdam, The Netherlands."
+          }
+        ],
+        "LastName": "Claassen",
+        "ForeName": "Eric",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8678-9182"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Faculty of Science, Utrecht University, Universiteitsweg 99, 3584 CG, Utrecht, The Netherlands."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department Immunology, Danone Nutricia research, Uppsalalaan 12, 3584 CT, Utrecht, The Netherlands."
+          }
+        ],
+        "LastName": "Garssen",
+        "ForeName": "Johan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9819-383X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Faculty of Science, Utrecht University, Universiteitsweg 99, 3584 CG, Utrecht, The Netherlands."
+          }
+        ],
+        "LastName": "Kraneveld",
+        "ForeName": "Aletta D",
+        "Initials": "AD"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4491-5889"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Pharmacology, Utrecht Institute for Pharmaceutical Sciences, Faculty of Science, Utrecht University, Universiteitsweg 99, 3584 CG, Utrecht, The Netherlands. a.lopezrincon@uu.nl."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Universiteitsweg 100, 3584 CG, Utrecht, The Netherlands. a.lopezrincon@uu.nl."
+          }
+        ],
+        "LastName": "Lopez-Rincon",
+        "ForeName": "Alejandro",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

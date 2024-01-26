@@ -1,0 +1,150 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "92D30",
+      "Disease transmission",
+      "compartmental modeling",
+      "data fitting"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33402047",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1080/17513758.2020.1869844"
+    ],
+    "Journal": {
+      "ISSN": "1751-3766",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Journal of biological dynamics",
+      "ISOAbbreviation": "J Biol Dyn"
+    },
+    "ArticleTitle": "Transmission rates and environmental reservoirs for COVID-19 - a modeling study.",
+    "Pagination": {
+      "StartPage": "86",
+      "EndPage": "108",
+      "MedlinePgn": "86-108"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The coronavirus disease 2019 (COVID-19) remains a global pandemic at present. Although the human-to-human transmission route for this disease has been well established, its transmission mechanism is not fully understood. In this paper, we propose a mathematical model for COVID-19 which incorporates multiple transmission pathways and which employs time-dependent transmission rates reflecting the impact of disease prevalence and outbreak control. Applying this model to a retrospective study based on publicly reported data in China, we argue that the environmental reservoirs play an important role in the transmission and spread of the coronavirus. This argument is supported by our data fitting and numerical simulation results for the city of Wuhan, for the provinces of Hubei and Guangdong, and for the entire country of China."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of Florida, Gainesville, FL, USA."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Chayu",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of Tennessee at Chattanooga, Chattanooga, TN, USA."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Jin",
+        "Initials": "J"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R15 GM131315",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Biol Dyn",
+    "NlmUniqueID": "101299725",
+    "ISSNLinking": "1751-3758"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "virology"
+      ],
+      "DescriptorName": "Disease Reservoirs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Environment"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

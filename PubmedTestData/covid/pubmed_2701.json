@@ -1,0 +1,416 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34112877",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "12310",
+      "10.1038/s41598-021-91625-1"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "10"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Transcriptomics-based drug repositioning pipeline identifies therapeutic candidates for COVID-19.",
+    "Pagination": {
+      "StartPage": "12310",
+      "MedlinePgn": "12310"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The novel SARS-CoV-2 virus emerged in December 2019 and has few effective treatments. We applied a computational drug repositioning pipeline to SARS-CoV-2 differential gene expression signatures derived from publicly available data. We utilized three independent published studies to acquire or generate lists of differentially expressed genes between control and SARS-CoV-2-infected samples. Using a rank-based pattern matching strategy based on the Kolmogorov-Smirnov Statistic, the signatures were queried against drug profiles from Connectivity Map (CMap). We validated 16 of our top predicted hits in live SARS-CoV-2 antiviral assays in either Calu-3 or 293T-ACE2 cells. Validation experiments in human cell lines showed that 11 of the 16 compounds tested to date (including clofazimine, haloperidol and others) had measurable antiviral activity against SARS-CoV-2. These initial results are encouraging as we continue to work towards a further analysis of these predicted drugs as potential therapeutics for the treatment of COVID-19."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bakar Computational Health Sciences Institute, UCSF, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Le",
+        "ForeName": "Brian L",
+        "Initials": "BL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bakar Computational Health Sciences Institute, UCSF, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Andreoletti",
+        "ForeName": "Gaia",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bakar Computational Health Sciences Institute, UCSF, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Oskotsky",
+        "ForeName": "Tomiko",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institute of Virology, Gladstone Institutes, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Vallejo-Gracia",
+        "ForeName": "Albert",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+          }
+        ],
+        "LastName": "Rosales",
+        "ForeName": "Romel",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bakar Computational Health Sciences Institute, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Sciences Graduate Program, UCSF, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Katharine",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bakar Computational Health Sciences Institute, UCSF, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Kosti",
+        "ForeName": "Idit",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institute of Virology, Gladstone Institutes, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Leon",
+        "ForeName": "Kristoffer E",
+        "Initials": "KE"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bakar Computational Health Sciences Institute, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Biomedical Sciences Graduate Program, UCSF, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Bunis",
+        "ForeName": "Daniel G",
+        "Initials": "DG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bakar Computational Health Sciences Institute, UCSF, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shanghai American School, Shanghai, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Christine",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institute of Virology, Gladstone Institutes, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Kumar",
+        "ForeName": "G Renuka",
+        "Initials": "GR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+          }
+        ],
+        "LastName": "White",
+        "ForeName": "Kris M",
+        "Initials": "KM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Global Health and Emerging Pathogens Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infectious Diseases, Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "The Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+          }
+        ],
+        "LastName": "Garc\u00eda-Sastre",
+        "ForeName": "Adolfo",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gladstone Institute of Virology, Gladstone Institutes, San Francisco, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, UCSF, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Ott",
+        "ForeName": "Melanie",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pediatrics, UCSF, San Francisco, CA, USA. marina.sirota@ucsf.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Bakar Computational Health Sciences Institute, UCSF, San Francisco, CA, USA. marina.sirota@ucsf.edu."
+          }
+        ],
+        "LastName": "Sirota",
+        "ForeName": "Marina",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "T32 AI007334",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 GM007618",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "5DP1DA038043",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "DP1 DA038043",
+        "Acronym": "DA",
+        "Agency": "NIDA NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U19 AI135972",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antiviral Agents"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "Res Sq. 2021 Mar 30;:",
+      "PMID": "33821262"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Antiviral Agents"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Transcriptome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "M.S. is on the advisory board of twoXAR. The Garc\u00eda-Sastre Laboratory has received research support from Pfizer, Senhwa Biosciences and 7Hills Pharma. A.G.S. has consulting agreements for the following companies involving cash and/or stock: Vivaldi Biosciences, Contrafect, 7Hills Pharma, Avimex, Vaxalto, Accurius and Esperovax. Other authors declare no competing financial interests."
+}

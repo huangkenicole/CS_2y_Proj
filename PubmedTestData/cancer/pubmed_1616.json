@@ -1,0 +1,313 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33179749",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "20"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1093/nar/gkaa1056"
+    ],
+    "Journal": {
+      "ISSN": "1362-4962",
+      "JournalIssue": {
+        "Volume": "49",
+        "Issue": "D1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "08"
+        }
+      },
+      "Title": "Nucleic acids research",
+      "ISOAbbreviation": "Nucleic Acids Res"
+    },
+    "ArticleTitle": "RJunBase: a database of RNA splice junctions in human normal and cancerous tissues.",
+    "Pagination": {
+      "StartPage": "D201",
+      "EndPage": "D211",
+      "MedlinePgn": "D201-D211"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Splicing is an essential step of RNA processing for multi-exon genes, in which introns are removed from a precursor RNA, thereby producing mature RNAs containing splice junctions. Here, we develope the RJunBase (www.RJunBase.org), a web-accessible database of three types of RNA splice junctions (linear, back-splice, and fusion junctions) that are derived from RNA-seq data of non-cancerous and cancerous tissues. The RJunBase aims to integrate and characterize all RNA splice junctions of both healthy or pathological human cells and tissues. This new database facilitates the visualization of the gene-level splicing pattern and the junction-level expression profile, as well as the demonstration of unannotated and tumor-specific junctions. The first release of RJunBase contains 682 017 linear junctions, 225 949 back-splice junctions and 34 733 fusion junctions across 18 084 non-cancerous and 11 540 cancerous samples. RJunBase can aid researchers in discovering new splicing-associated targets and provide insights into the identification and assessment of potential neoepitopes for cancer treatment."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic Acids Research."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Oncology, Fudan University Shanghai Cancer Center, and the Shanghai Key Laboratory of Medical Epigenetics, the International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Qin",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Oncology, Fudan University Shanghai Cancer Center, and the Shanghai Key Laboratory of Medical Epigenetics, the International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Lai",
+        "ForeName": "Hongyan",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Oncology, Fudan University Shanghai Cancer Center, and the Shanghai Key Laboratory of Medical Epigenetics, the International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yuchen",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Oncology, Fudan University Shanghai Cancer Center, and the Shanghai Key Laboratory of Medical Epigenetics, the International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Bing",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Siyuan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Oncology, Fudan University Shanghai Cancer Center, and the Shanghai Key Laboratory of Medical Epigenetics, the International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Wuxi Cancer Institute, Affiliated Hospital of Jiangnan University, Wuxi, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Zhaohui",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Oncology, Fudan University Shanghai Cancer Center, and the Shanghai Key Laboratory of Medical Epigenetics, the International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Meng",
+        "ForeName": "Zhiqiang",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Oncology, Fudan University Shanghai Cancer Center, and the Shanghai Key Laboratory of Medical Epigenetics, the International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Peng",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Oncology, Fudan University Shanghai Cancer Center, and the Shanghai Key Laboratory of Medical Epigenetics, the International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Zhixiang",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Integrative Oncology, Fudan University Shanghai Cancer Center, and the Shanghai Key Laboratory of Medical Epigenetics, the International Co-laboratory of Medical Epigenetics and Metabolism, Ministry of Science and Technology, Institutes of Biomedical Sciences, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Shenglin",
+        "Initials": "S"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nucleic Acids Res",
+    "NlmUniqueID": "0411011",
+    "ISSNLinking": "0305-1048"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA Splice Sites"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Messenger"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Alternative Splicing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Nucleic Acid"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exons"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Internet"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Introns"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "genetics",
+        "mortality",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA Splice Sites"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Messenger"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Analysis, RNA"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Analysis"
+    }
+  ]
+}

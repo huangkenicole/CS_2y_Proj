@@ -1,0 +1,214 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "epidemiology",
+      "network science"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34261775",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "24"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2026731118",
+      "10.1073/pnas.2026731118"
+    ],
+    "Journal": {
+      "ISSN": "1091-6490",
+      "JournalIssue": {
+        "Volume": "118",
+        "Issue": "31",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Aug",
+          "Day": "03"
+        }
+      },
+      "Title": "Proceedings of the National Academy of Sciences of the United States of America",
+      "ISOAbbreviation": "Proc Natl Acad Sci U S A"
+    },
+    "ArticleTitle": "Predicting the SARS-CoV-2 effective reproduction number using bulk contact data from mobile phones.",
+    "Abstract": {
+      "AbstractText": [
+        "Over the last months, cases of SARS-CoV-2 surged repeatedly in many countries but could often be controlled with nonpharmaceutical interventions including social distancing. We analyzed deidentified Global Positioning System (GPS) tracking data from 1.15 to 1.4 million cell phones in Germany per day between March and November 2020 to identify encounters between individuals and statistically evaluate contact behavior. Using graph sampling theory, we estimated the contact index (CX), a metric for number and heterogeneity of contacts. We found that CX, and not the total number of contacts, is an accurate predictor for the effective reproduction number R derived from case numbers. A high correlation between CX and R recorded more than 2 wk later allows assessment of social behavior well before changes in case numbers become detectable. By construction, the CX quantifies the role of superspreading and permits assigning risks to specific contact behavior. We provide a critical CX value beyond which R is expected to rise above 1 and propose to use that value to leverage the social-distancing interventions for the coming months."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 the Author(s). Published by PNAS."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Machine Leaning Unit, Department of Engineering, NET CHECK GmbH, 10829 Berlin, Germany; sten.ruediger@googlemail.com."
+          }
+        ],
+        "LastName": "R\u00fcdiger",
+        "ForeName": "Sten",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9966-6819"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Health-Machine Learning, Hasso-Plattner-Institut, Universit\u00e4t Potsdam, 14482 Potsdam, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health, Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+          }
+        ],
+        "LastName": "Konigorski",
+        "ForeName": "Stefan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8134-6729"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Health-Machine Learning, Hasso-Plattner-Institut, Universit\u00e4t Potsdam, 14482 Potsdam, Germany."
+          }
+        ],
+        "LastName": "Rakowski",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Health-Machine Learning, Hasso-Plattner-Institut, Universit\u00e4t Potsdam, 14482 Potsdam, Germany."
+          }
+        ],
+        "LastName": "Edelman",
+        "ForeName": "Jonathan Antonio",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Machine Leaning Unit, Department of Engineering, NET CHECK GmbH, 10829 Berlin, Germany."
+          }
+        ],
+        "LastName": "Zernick",
+        "ForeName": "Detlef",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Radiation Oncology, Charit\u00e9-Universit\u00e4tsmedizin Berlin, 13353 Berlin, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Clinician Scientist Program, Berlin Institute of Health (BIH), 10178 Berlin, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, Stanford University, Stanford, CA 94305."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Data Science, Stanford University, Stanford, CA 94305."
+          }
+        ],
+        "LastName": "Thieme",
+        "ForeName": "Alexander",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Digital Health-Machine Learning, Hasso-Plattner-Institut, Universit\u00e4t Potsdam, 14482 Potsdam, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Hasso Plattner Institute for Digital Health, Icahn School of Medicine at Mount Sinai, New York, NY 10029."
+          }
+        ],
+        "LastName": "Lippert",
+        "ForeName": "Christoph",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Proc Natl Acad Sci U S A",
+    "NlmUniqueID": "7505876",
+    "ISSNLinking": "0027-8424"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cell Phone"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Germany"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interest."
+}

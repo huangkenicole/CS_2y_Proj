@@ -1,0 +1,163 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Data Mining",
+      "Deep Learning",
+      "Extreme Gradient Boosting",
+      "Machine Learning",
+      "SARS-COV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33513487",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "31"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.cmpb.2021.105951",
+      "S0169-2607(21)00025-0"
+    ],
+    "Journal": {
+      "ISSN": "1872-7565",
+      "JournalIssue": {
+        "Volume": "201",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Computer methods and programs in biomedicine",
+      "ISOAbbreviation": "Comput Methods Programs Biomed"
+    },
+    "ArticleTitle": "Prediction of death status on the course of treatment in SARS-COV-2 patients with deep learning and machine learning methods.",
+    "Pagination": {
+      "StartPage": "105951",
+      "MedlinePgn": "105951"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The new type of Coronavirus (2019-nCov) epidemic spread rapidly, causing more than 250 thousand deaths worldwide. The virus, which first appeared as a sign of pneumonia, was later called the SARS-COV-2 with Severe Acute Respiratory Syndrome by the World Health Organization. The SARS-COV-2 virus is triggered by binding to the Angiotensin-Converting Enzyme 2 (ACE 2) inhibitor, which is vital in cardiovascular diseases and the immune system, especially in conditions such as cerebrovascular, hypertension, and diabetes. This study aims to evaluate the prediction performance of death status based on the demographic/clinical factors (including COVID-19 severity) by data mining methods.",
+        "The dataset consists of 1603 SARS-COV-2 patients and 13 variables obtained from an open-source web address. The current dataset contains age, gender, chronic disease (hypertension, diabetes, renal, cardiovascular, etc.), some enzymes (ACE, angiotensin II receptor blockers), and COVID-19 severity, which are used to predict death status using deep learning and machine learning approaches (random forest, k-nearest neighbor, extreme gradient boosting [XGBoost]). A grid search algorithm tunes hyperparameters of the models, and predictions are assessed through performance metrics. Steps of knowledge discovery in databases are applied to obtain the relevant information.",
+        "The accuracy rate of deep learning (97.15%) was more successful than the accuracy rate based on classical machine learning (92.15% for RF and 93.4% for k-NN), but the ensemble classifier XGBoost method gave the highest accuracy (99.7%). While COVID-19 severity and age calculated from XGBoost were the two most important factors associated with death status, the most determining variables for death status estimated from deep learning were COVID-19 severity and hypertension.",
+        "The proposed model (XGBoost) achieved the best prediction of death status based on the factors as compared to the other algorithms. The results of this study can guide patients with certain variables to take early measures and access preventive health care services before they become infected with the virus."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021. Published by Elsevier B.V."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Inonu University, Faculty of Medicine, Department of Biostatistics and Medical Informatics, Malatya, Turkey."
+          }
+        ],
+        "LastName": "Kivrak",
+        "ForeName": "Mehmet",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Inonu University, Faculty of Medicine, Department of Biostatistics and Medical Informatics, Malatya, Turkey."
+          }
+        ],
+        "LastName": "Guldogan",
+        "ForeName": "Emek",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Inonu University, Faculty of Medicine, Department of Biostatistics and Medical Informatics, Malatya, Turkey. Electronic address: cemilcolak@yahoo.com."
+          }
+        ],
+        "LastName": "Colak",
+        "ForeName": "Cemil",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Ireland",
+    "MedlineTA": "Comput Methods Programs Biomed",
+    "NlmUniqueID": "8506513",
+    "ISSNLinking": "0169-2607"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "mortality",
+        "pathology",
+        "therapy"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Severity of Illness Index"
+    }
+  ]
+}

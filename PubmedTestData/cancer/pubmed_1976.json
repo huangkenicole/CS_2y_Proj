@@ -1,0 +1,153 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26777304",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "12",
+    "Day": "26"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "01",
+        "Day": "18"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "19340",
+      "10.1038/srep19340"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "6",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Jan",
+          "Day": "18"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "dbEM: A database of epigenetic modifiers curated from cancerous and normal genomes.",
+    "Pagination": {
+      "StartPage": "19340",
+      "MedlinePgn": "19340"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We have developed a database called dbEM (database of Epigenetic Modifiers) to maintain the genomic information of about 167 epigenetic modifiers/proteins, which are considered as potential cancer targets. In dbEM, modifiers are classified on functional basis and comprise of 48 histone methyl transferases, 33 chromatin remodelers and 31 histone demethylases. dbEM maintains the genomic information like mutations, copy number variation and gene expression in thousands of tumor samples, cancer cell lines and healthy samples. This information is obtained from public resources viz. COSMIC, CCLE and 1000-genome project. Gene essentiality data retrieved from COLT database further highlights the importance of various epigenetic proteins for cancer survival. We have also reported the sequence profiles, tertiary structures and post-translational modifications of these epigenetic proteins in cancer. It also contains information of 54 drug molecules against different epigenetic proteins. A wide range of tools have been integrated in dbEM e.g. Search, BLAST, Alignment and Profile based prediction. In our analysis, we found that epigenetic proteins DNMT3A, HDAC2, KDM6A, and TET2 are highly mutated in variety of cancers. We are confident that dbEM will be very useful in cancer research particularly in the field of epigenetic proteins based cancer therapeutics. This database is available for public at URL: http://crdd.osdd.net/raghava/dbem."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Centre, CSIR-Institute of Microbial Technology, Chandigarh-160036, India."
+          }
+        ],
+        "LastName": "Singh Nanda",
+        "ForeName": "Jagpreet",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Centre, CSIR-Institute of Microbial Technology, Chandigarh-160036, India."
+          }
+        ],
+        "LastName": "Kumar",
+        "ForeName": "Rahul",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bioinformatics Centre, CSIR-Institute of Microbial Technology, Chandigarh-160036, India."
+          }
+        ],
+        "LastName": "Raghava",
+        "ForeName": "Gajendra P S",
+        "Initials": "GP"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Discovery"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Epigenomics"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proteomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quantitative Structure-Activity Relationship"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Web Browser"
+    }
+  ]
+}

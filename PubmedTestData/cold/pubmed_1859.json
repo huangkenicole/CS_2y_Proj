@@ -1,0 +1,187 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "17509942",
+  "DateCompleted": {
+    "Year": "2008",
+    "Month": "01",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "11",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2007",
+        "Month": "04",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1532-0480",
+      "JournalIssue": {
+        "Volume": "40",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2007",
+          "Month": "Dec"
+        }
+      },
+      "Title": "Journal of biomedical informatics",
+      "ISOAbbreviation": "J Biomed Inform"
+    },
+    "ArticleTitle": "Unsupervised clustering of over-the-counter healthcare products into product categories.",
+    "Pagination": {
+      "StartPage": "642",
+      "EndPage": "648",
+      "MedlinePgn": "642-8"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A general problem in biosurveillance is finding appropriate aggregates of elemental data to monitor for the detection of disease outbreaks. We developed an unsupervised clustering algorithm for aggregating over-the-counter healthcare (OTC) products into categories. This algorithm employs MCMC over hundreds of parameters in a Bayesian model to place products into clusters. Despite the high dimensionality, it still performs fast on hundreds of time series. The procedure was able to uncover a clinically significant distinction between OTC products intended for the treatment of allergy and OTC products intended for the treatment of cough, cold, and influenza symptoms."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Informatics, University of Pittsburgh, Suite M-183 Parkvale Building, 200 Meyran Avenue, Pittsburgh, PA 15260, USA. garrick@cbmi.pitt.edu"
+          }
+        ],
+        "LastName": "Wallstrom",
+        "ForeName": "Garrick L",
+        "Initials": "GL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hogan",
+        "ForeName": "William R",
+        "Initials": "WR"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "UL1 TR000005",
+        "Acronym": "TR",
+        "Agency": "NCATS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 LM008278",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 LM008278-01",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R21 LM008278-02",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "1 R21 LM008278-01",
+        "Acronym": "LM",
+        "Agency": "NLM NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Biomed Inform",
+    "NlmUniqueID": "100970413",
+    "ISSNLinking": "1532-0464"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Nonprescription Drugs"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Artificial Intelligence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "epidemiology"
+      ],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "epidemiology"
+      ],
+      "DescriptorName": "Cough"
+    },
+    {
+      "QualifierName": [
+        "prevention & control"
+      ],
+      "DescriptorName": "Disease Outbreaks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Health Behavior"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "epidemiology"
+      ],
+      "DescriptorName": "Influenza, Human"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Nonprescription Drugs"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Population Surveillance"
+    }
+  ]
+}

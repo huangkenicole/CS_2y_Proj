@@ -1,0 +1,173 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Artificial neural network",
+      "Elevated plus-maze",
+      "Exploratory behavior",
+      "Genetic algorithm",
+      "Neuroevolution",
+      "Rat"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27328370",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "11",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2016",
+        "Month": "06",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jneumeth.2016.06.010",
+      "S0165-0270(16)30131-5"
+    ],
+    "Journal": {
+      "ISSN": "1872-678X",
+      "JournalIssue": {
+        "Volume": "270",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Sep",
+          "Day": "01"
+        }
+      },
+      "Title": "Journal of neuroscience methods",
+      "ISOAbbreviation": "J Neurosci Methods"
+    },
+    "ArticleTitle": "Investigation of rat exploratory behavior via evolving artificial neural networks.",
+    "Pagination": {
+      "StartPage": "102",
+      "EndPage": "110",
+      "MedlinePgn": "102-110"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Neuroevolution comprises the use of evolutionary computation to define the architecture and/or to train artificial neural networks (ANNs). This strategy has been employed to investigate the behavior of rats in the elevated plus-maze, which is a widely used tool for studying anxiety in mice and rats.",
+        "Here we propose a neuroevolutionary model, in which both the weights and the architecture of artificial neural networks (our virtual rats) are evolved by a genetic algorithm.",
+        "This model is an improvement of a previous model that involves the evolution of just the weights of the ANN by the genetic algorithm. In order to compare both models, we analyzed traditional measures of anxiety behavior, like the time spent and the number of entries in both open and closed arms of the maze.",
+        "When compared to real rat data, our findings suggest that the results from the model introduced here are statistically better than those from other models in the literature.",
+        "In this way, the neuroevolution of architecture is clearly important for the development of the virtual rats. Moreover, this technique allowed the comprehension of the importance of different sensory units and different number of hidden neurons (performing as memory) in the ANNs (virtual rats)."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2016 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Physics, FFCLRP, University of S\u00e3o Paulo, 14040-901 Ribeir\u00e3o Preto, SP, Brazil. Electronic address: ad.andrade.costa@gmail.com."
+          }
+        ],
+        "LastName": "Costa",
+        "ForeName": "Ariadne de Andrade",
+        "Initials": "AA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computing and Mathematics, FFCLRP, University of S\u00e3o Paulo, 14040-901 Ribeir\u00e3o Preto, SP, Brazil. Electronic address: rtinos@ffclrp.usp.br."
+          }
+        ],
+        "LastName": "Tin\u00f3s",
+        "ForeName": "Renato",
+        "Initials": "R"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "J Neurosci Methods",
+    "NlmUniqueID": "7905558",
+    "ISSNLinking": "0165-0270"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Psychotropic Drugs"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Semicarbazides"
+    },
+    {
+      "RegistryNumber": "37QUC23K2X",
+      "NameOfSubstance": "carbamylhydrazine"
+    },
+    {
+      "RegistryNumber": "6RZ6XEZ3CR",
+      "NameOfSubstance": "Chlordiazepoxide"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "chemically induced",
+        "drug therapy",
+        "physiopathology"
+      ],
+      "DescriptorName": "Anxiety"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Chlordiazepoxide"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Exploratory Behavior"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Psychotropic Drugs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Rats"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Semicarbazides"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33108303",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2020.3034296"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "24",
+        "Issue": "12",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "A Deep Learning Prognosis Model Help Alert for COVID-19 Patients at High-Risk of Death: A Multi-Center Study.",
+    "Pagination": {
+      "StartPage": "3576",
+      "EndPage": "3584",
+      "MedlinePgn": "3576-3584"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Since its outbreak in December 2019, the persistent coronavirus disease (COVID-19) became a global health emergency. It is imperative to develop a prognostic tool to identify high-risk patients and assist in the formulation of treatment plans. We retrospectively collected 366 severe or critical COVID-19 patients from four centers, including 70 patients who died within 14 days (labeled as high-risk patients) since their initial CT scan and 296 who survived more than 14 days or were cured (labeled as low-risk patients). We developed a 3D densely connected convolutional neural network (termed De-COVID19-Net) to predict the probability of COVID-19 patients belonging to the high-risk or low-risk group, combining CT and clinical information. The area under the curve (AUC) and other evaluation techniques were used to assess our model. The De-COVID19-Net yielded an AUC of 0.952 (95% confidence interval, 0.928-0.977) on the training set and 0.943 (0.904-0.981) on the test set. The stratified analyses indicated that our model's performance is independent of age, sex, and with/without chronic diseases. The Kaplan-Meier analysis revealed that our model could significantly categorize patients into high-risk and low-risk groups (p < 0.001). In conclusion, De-COVID19-Net can non-invasively predict whether a patient will die shortly based on the patient's initial CT scan with an impressive performance, which indicated that it could be used as a potential prognosis tool to alert high-risk patients and intervene in advance."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Meng",
+        "ForeName": "Lingwei",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dong",
+        "ForeName": "Di",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Liang",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Niu",
+        "ForeName": "Meng",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Bai",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Meiyun",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Qiu",
+        "ForeName": "Xiaoming",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zha",
+        "ForeName": "Yunfei",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tian",
+        "ForeName": "Jie",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ]
+}

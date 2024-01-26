@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "hierarchical clustering",
+      "mathematical analysis",
+      "networks",
+      "spatial distribution"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33799900",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "463",
+      "10.3390/v13030463"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "11"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Spatiotemporal Analysis of COVID-19 Incidence Data.",
+    "Abstract": {
+      "AbstractText": [
+        "(1) Background: A better understanding of COVID-19 dynamics in terms of interactions among individuals would be of paramount importance to increase the effectiveness of containment measures. Despite this, the research lacks spatiotemporal statistical and mathematical analysis based on large datasets. We describe a novel methodology to extract useful spatiotemporal information from COVID-19 pandemic data. (2) Methods: We perform specific analyses based on mathematical and statistical tools, like mathematical morphology, hierarchical clustering, parametric data modeling and non-parametric statistics. These analyses are here applied to the large dataset consisting of about 19,000 COVID-19 patients in the Veneto region (Italy) during the entire Italian national lockdown. (3) Results: We estimate the COVID-19 cumulative incidence spatial distribution, significantly reducing image noise. We identify four clusters of connected provinces based on the temporal evolution of the incidence. Surprisingly, while one cluster consists of three neighboring provinces, another one contains two provinces more than 210 km apart by highway. The survival function of the local spatial incidence values is modeled here by a tapered Pareto model, also used in other applied fields like seismology and economy in connection to networks. Model's parameters could be relevant to describe quantitatively the epidemic. (4) Conclusion: The proposed methodology can be applied to a general situation, potentially helping to adopt strategic decisions such as the restriction of mobility and gatherings."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2252-0202"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto Nazionale di Geofisica e Vulcanologia, Via di Vigna Murata 605, 00143 Rome, Italy."
+          }
+        ],
+        "LastName": "Spassiani",
+        "ForeName": "Ilaria",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0819-8149"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto Nazionale di Geofisica e Vulcanologia, Via di Vigna Murata 605, 00143 Rome, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Istituto per le Applicazioni del Calcolo Mauro Picone, Consiglio Nazionale delle Ricerche, Via dei Taurini 19, 00185 Rome, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Mathematics Department \"Guido Castelnuovo\", Sapienza University of Rome, Piazzale Aldo Moro 5, 00185 Rome, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics and Statistics, University of Troms\u00f8, H. Hansens veg 18, 9019 Troms\u00f8, Norway."
+          }
+        ],
+        "LastName": "Sebastiani",
+        "ForeName": "Giovanni",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Molecular Medicine, University of Padua, Via Gabelli 63, 35121 Padua, Italy."
+          }
+        ],
+        "LastName": "Pal\u00f9",
+        "ForeName": "Giorgio",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Spatio-Temporal Analysis"
+    }
+  ],
+  "CoiStatement": "The authors have no conflicts of interest to declare that are relevant to the content of this article."
+}

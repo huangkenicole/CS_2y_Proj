@@ -1,0 +1,401 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35031600",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "27"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "01",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "322",
+      "10.1038/s41467-021-27939-5"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "14"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Model-based evaluation of alternative reactive class closure strategies against COVID-19.",
+    "Pagination": {
+      "StartPage": "322",
+      "MedlinePgn": "322"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "There are contrasting results concerning the effect of reactive school closure on SARS-CoV-2 transmission. To shed light on this controversy, we developed a data-driven computational model of SARS-CoV-2 transmission. We found that by reactively closing classes based on syndromic surveillance, SARS-CoV-2 infections are reduced by no more than 17.3% (95%CI: 8.0-26.8%), due to the low probability of timely identification of infections in the young population. We thus investigated an alternative triggering mechanism based on repeated screening of students using antigen tests. Depending on the contribution of schools to transmission, this strategy can greatly reduce COVID-19 burden even when school contribution to transmission and immunity in the population\u00a0is low. Moving forward, the adoption of antigen-based screenings in schools could be instrumental to limit COVID-19 burden while vaccines continue to\u00a0be rolled out."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Computer Science, Sichuan University, Chengdu, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Quan-Hui",
+        "Initials": "QH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health, Fudan University, Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shanghai Institute of Infectious Disease and Biosecurity, Fudan University, Shanghai, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Juanjuan",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health, Fudan University, Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China."
+          }
+        ],
+        "LastName": "Peng",
+        "ForeName": "Cheng",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6393-1943"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Biostatistics, Indiana University School of Public Health, Bloomington, IN, USA."
+          }
+        ],
+        "LastName": "Litvinova",
+        "ForeName": "Maria",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Computer Science, Sichuan University, Chengdu, China."
+          }
+        ],
+        "LastName": "Huang",
+        "ForeName": "Shudong",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5453-5199"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Health Emergencies, Bruno Kessler Foundation, Trento, Italy."
+          }
+        ],
+        "LastName": "Poletti",
+        "ForeName": "Piero",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6915-7282"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Dondena Centre for Research on Social Dynamics and Public Policy, Bocconi University, Milan, Italy."
+          }
+        ],
+        "LastName": "Trentini",
+        "ForeName": "Filippo",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9296-9470"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Health Emergencies, Bruno Kessler Foundation, Trento, Italy."
+          }
+        ],
+        "LastName": "Guzzetta",
+        "ForeName": "Giorgio",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2842-7906"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Health Emergencies, Bruno Kessler Foundation, Trento, Italy."
+          }
+        ],
+        "LastName": "Marziano",
+        "ForeName": "Valentina",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Big Data Research Center, University of Electronic Science and Technology of China, Chengdu, China."
+          }
+        ],
+        "LastName": "Zhou",
+        "ForeName": "Tao",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3243-4711"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of International Epidemiology and Population Studies, Fogarty International Center, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ],
+        "LastName": "Viboud",
+        "ForeName": "Cecile",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7728-007X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Biostatistics, Indiana University School of Public Health, Bloomington, IN, USA."
+          }
+        ],
+        "LastName": "Bento",
+        "ForeName": "Ana I",
+        "Initials": "AI"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Computer Science, Sichuan University, Chengdu, China."
+          }
+        ],
+        "LastName": "Lv",
+        "ForeName": "Jiancheng",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for the Modeling of Biological and Socio-technical Systems, Northeastern University, Boston, MA, USA."
+          }
+        ],
+        "LastName": "Vespignani",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5117-0611"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Center for Health Emergencies, Bruno Kessler Foundation, Trento, Italy."
+          }
+        ],
+        "LastName": "Merler",
+        "ForeName": "Stefano",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6335-5648"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Public Health, Fudan University, Key Laboratory of Public Health Safety, Ministry of Education, Shanghai, China. yhj@fudan.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Shanghai Institute of Infectious Disease and Biosecurity, Fudan University, Shanghai, China. yhj@fudan.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, China. yhj@fudan.edu.cn."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Hongjie",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1753-4749"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory for Computational Epidemiology and Public Health, Department of Epidemiology and Biostatistics, Indiana University School of Public Health, Bloomington, IN, USA. marco.ajelli@gmail.com."
+          }
+        ],
+        "LastName": "Ajelli",
+        "ForeName": "Marco",
+        "Initials": "M"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "NU38OT000297",
+        "Acronym": "CC",
+        "Agency": "CDC HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2021 Apr 23;:",
+      "PMID": "33907769"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Serological Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Italy"
+    },
+    {
+      "QualifierName": [
+        "trends"
+      ],
+      "DescriptorName": "Mass Screening"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Distancing"
+    },
+    {
+      "QualifierName": [
+        "organization & administration"
+      ],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "growth & development",
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "legislation & jurisprudence",
+        "organization & administration"
+      ],
+      "DescriptorName": "Schools"
+    },
+    {
+      "QualifierName": [
+        "legislation & jurisprudence"
+      ],
+      "DescriptorName": "Students"
+    }
+  ],
+  "CoiStatement": "A.V. reports grants from Metabiota Inc., outside the submitted work. H.Y. has received research funding from Sanofi Pasteur, GlaxoSmithKline, Yichang HEC Changjiang Pharmaceutical Company, and Shanghai Roche Pharmaceutical Company. M.A. has received research funding from Seqirus. None of those research funding is related to COVID-19. All other authors report no competing interests."
+}

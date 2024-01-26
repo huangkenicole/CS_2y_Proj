@@ -1,0 +1,118 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34891598",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC46164.2021.9629881"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2021",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Depression Classification Using n-Gram Speech Errors from Manual and Automatic Stroop Color Test Transcripts.",
+    "Pagination": {
+      "StartPage": "1631",
+      "EndPage": "1635",
+      "MedlinePgn": "1631-1635"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "While the psychological Stroop color test has frequently been used to analyze response delays in temporal cognitive processing, minimal research has examined incorrect/correct verbal test response pattern differences exhibited in healthy control and clinically depressed populations. Further, the development of speech error features with an emphasis on sequential Stroop test responses has been unexplored for automatic depression classification. In this study which uses speech recorded via a smart device, an analysis of \u0438-gram error sequence distributions shows that participants with clinical depression produce more Stroop color test errors, especially sequential errors, than the healthy controls. By utilizing \u0438-gram error features derived from multisession manual transcripts, experimentation shows that trigram error features generate up to 95% depression classification accuracy, whereas an acoustic feature baseline achieve only upwards of 75%. Moreover, \u0438-gram error features using ASR transcripts produced up to 90% depression classification accuracy."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Stasak",
+        "ForeName": "Brian",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Huang",
+        "ForeName": "Zhaocheng",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Epps",
+        "ForeName": "Julien",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Joachim",
+        "ForeName": "Dale",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Speech"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stroop Test"
+    }
+  ]
+}

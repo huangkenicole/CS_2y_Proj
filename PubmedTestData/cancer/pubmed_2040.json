@@ -1,0 +1,159 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25338553",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "04",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "10",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s11538-014-0027-7"
+    ],
+    "Journal": {
+      "ISSN": "1522-9602",
+      "JournalIssue": {
+        "Volume": "76",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2014",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Bulletin of mathematical biology",
+      "ISOAbbreviation": "Bull Math Biol"
+    },
+    "ArticleTitle": "Fastest time to cancer by loss of tumor suppressor genes.",
+    "Pagination": {
+      "StartPage": "2737",
+      "EndPage": "2784",
+      "MedlinePgn": "2737-84"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Genetic instability promotes cancer progression (by increasing the probability of cancerous mutations) as well as hinders it (by imposing a higher cell death rate for cells susceptible to cancerous mutation). With the loss of tumor suppressor gene function known to be responsible for a high percentage of breast and colorectal cancer (and a good fraction of lung cancer and other types as well), it is important to understand how genetic instability can be orchestrated toward carcinogenesis. In this context, this paper gives a complete characterization of the optimal (time-varying) cell mutation rate for the fastest time to a target cancerous cell population through the loss of both copies of a tumor suppressor gene. Similar to the (one-step) oncogene activation model previously analyzed, the optimal mutation rate of the present two-step model changes qualitatively with the convexity of the (mutation rate-dependent) cell death rate. However, the structure of the Hamiltonian for the new model differs significantly and intrinsically from that of the one-step model, and a completely new approach is needed for the solution of the present two-step problem. Considerable insight into the biology of optimal switching (between corner controls) is extracted from numerical results for cases with nonconvex death rates."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of California, Irvine, Irvine, CA\u00a0, 92697-3875, USA, hixacyn@gmail.com."
+          }
+        ],
+        "LastName": "Sanchez-Tapia",
+        "ForeName": "Cynthia",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wan",
+        "ForeName": "Frederic Y M",
+        "Initials": "FY"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P50 GM076516",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 GM067247",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P50-GM076516",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01-GM067247",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Bull Math Biol",
+    "NlmUniqueID": "0401404",
+    "ISSNLinking": "0092-8240"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Carcinogenesis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genes, Tumor Suppressor"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomic Instability"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematical Concepts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30441645",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "10",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC.2018.8513610"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2018",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Depression Severity Classification from Speech Emotion.",
+    "Pagination": {
+      "StartPage": "5763",
+      "EndPage": "5766",
+      "MedlinePgn": "5763-5766"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Major Depressive Disorder (MDD) is a common psychiatric illness. Automatically classifying depression severity using audio analysis can help clinical management decisions during Deep Brain Stimulation (DBS) treatment of MDD patients. Leveraging the link between short-term emotions and long-term depressed mood states, we build our predictive model on the top of emotion-based features. Because acquiring emotion labels of MDD patients is a challenging task, we propose to use an auxiliary emotion dataset to train a Deep Neural Network (DNN) model. The DNN is then applied to audio recordings of MDD patients to find their low dimensional representation to be used in the classification algorithm. Our preliminary results indicate that the proposed approach, in comparison to the alternatives, effectively classifies depressed and improved phases of DBS treatment with an AUC of 0.80."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Harati",
+        "ForeName": "Sahar",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Crowell",
+        "ForeName": "Andrea",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Mayberg",
+        "ForeName": "Helen",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Nemati",
+        "ForeName": "Shamim",
+        "Initials": "S"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "K01 ES025445",
+        "Acronym": "ES",
+        "Agency": "NIEHS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "diagnosis"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Emotions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Severity of Illness Index"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Speech"
+    }
+  ]
+}

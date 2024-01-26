@@ -1,0 +1,200 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Prostate cancer",
+      "Quantitative diagnosis",
+      "Tissue mechanics",
+      "Tumor detection"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "32279204",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "13"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "04",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s11517-020-02168-y"
+    ],
+    "Journal": {
+      "ISSN": "1741-0444",
+      "JournalIssue": {
+        "Volume": "58",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Medical & biological engineering & computing",
+      "ISOAbbreviation": "Med Biol Eng Comput"
+    },
+    "ArticleTitle": "A novel palpation-based method for tumor nodule quantification in soft tissue-computational framework and experimental validation.",
+    "Pagination": {
+      "StartPage": "1369",
+      "EndPage": "1381",
+      "MedlinePgn": "1369-1381"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Variation in mechanical properties is a useful marker for cancer in soft tissue and has been used in clinical diagnosis for centuries. However, to develop such methods as instrumented palpation, there remain challenges in using the mechanical response during palpation to quantify tumor load. This study proposes a computational framework of identification and quantification of cancerous nodules in soft tissue without a priori knowledge of its geometry, size, and depth. The methodology, using prostate tissue as an exemplar, is based on instrumented palpation performed at positions with various indentation depths over the surface of the relevant structure (in this case, the prostate gland). The profile of force feedback results is then compared with the benchmark in silico models to estimate the size and depth of the cancerous nodule. The methodology is first demonstrated using computational models and then validated using tissue-mimicking gelatin phantoms, where the depth and volume of the tumor nodule is estimated with good accuracy. The proposed framework is capable of quantifying a tumor nodule in soft tissue without a priori information about its geometry, thus presenting great promise in clinical palpation diagnosis for a wide variety of solid tumors including breast and prostate cancer. Graphical abstract This study proposes a computational framework of quantification of cancerous nodules in soft tissue. The methodology is based on instrumental palpation performed at positions with various indentation depths. The profile of force feedback results is then compared with the benchmark in silico models to estimate the size and depth of the cancerous nodule."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Mechanical, Process and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK."
+          }
+        ],
+        "LastName": "Palacio-Torralba",
+        "ForeName": "Javier",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Mechanical, Process and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK."
+          }
+        ],
+        "LastName": "Reuben",
+        "ForeName": "Robert L",
+        "Initials": "RL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Mechanical, Process and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK. y.chen@hw.ac.uk."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Yuhang",
+        "Initials": "Y"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "EP/I019472/1",
+        "Agency": "Engineering and Physical Sciences Research Council",
+        "Country": ""
+      },
+      {
+        "GrantID": "EP/I020101/1",
+        "Agency": "Engineering and Physical Sciences Research Council",
+        "Country": ""
+      },
+      {
+        "GrantID": "EP/N006089/1",
+        "Agency": "Engineering and Physical Sciences Research Council",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Validation Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Med Biol Eng Comput",
+    "NlmUniqueID": "7704869",
+    "ISSNLinking": "0140-0118"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "9000-70-8",
+      "NameOfSubstance": "Gelatin"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Diagnosis, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Elastic Modulus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gelatin"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Palpation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phantoms, Imaging"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "pathology"
+      ],
+      "DescriptorName": "Soft Tissue Neoplasms"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no conflict of interest. No human or animal subjects were involved in the submitted work. All funding sources of this study have been included in the acknowledgement."
+}

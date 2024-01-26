@@ -1,0 +1,119 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "27226102",
+  "DateCompleted": {
+    "Year": "2017",
+    "Month": "11",
+    "Day": "09"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1515/sagmb-2015-0072"
+    ],
+    "Journal": {
+      "ISSN": "1544-6115",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Aug",
+          "Day": "01"
+        }
+      },
+      "Title": "Statistical applications in genetics and molecular biology",
+      "ISOAbbreviation": "Stat Appl Genet Mol Biol"
+    },
+    "ArticleTitle": "Finding causative genes from high-dimensional data: an appraisal of statistical and machine learning approaches.",
+    "Pagination": {
+      "StartPage": "321",
+      "EndPage": "347",
+      "MedlinePgn": "321-47"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Modern biological experiments often involve high-dimensional data with thousands or more variables. A challenging problem is to identify the key variables that are related to a specific disease. Confounding this task is the vast number of statistical methods available for variable selection. For this reason, we set out to develop a framework to investigate the variable selection capability of statistical methods that are commonly applied to analyze high-dimensional biological datasets. Specifically, we designed six simulated cancers (based on benchmark colon and prostate cancer data) where we know precisely which genes cause a dataset to be classified as cancerous or normal - we call these causative genes. We found that not one statistical method tested could identify all the causative genes for all of the simulated cancers, even though increasing the sample size does improve the variable selection capabilities in most cases. Furthermore, certain statistical tools can classify our simulated data with a low error rate, yet the variables being used for classification are not necessarily the causative genes."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Chamont",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gevertz",
+        "ForeName": "Jana L",
+        "Initials": "JL"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "Stat Appl Genet Mol Biol",
+    "NlmUniqueID": "101176023",
+    "ISSNLinking": "1544-6115"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "standards"
+      ],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Data Interpretation, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sample Size"
+    }
+  ]
+}

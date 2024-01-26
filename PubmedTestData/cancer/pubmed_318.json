@@ -1,0 +1,234 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19163366",
+  "DateCompleted": {
+    "Year": "2009",
+    "Month": "04",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "20"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/IEMBS.2008.4649863"
+    ],
+    "Journal": {
+      "ISSN": "2375-7477",
+      "JournalIssue": {
+        "Volume": "2008",
+        "PubDate": {
+          "Year": "2008"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "PASuite: a preprocessing algorithm suite for cellular and molecular image classification in cancer diagnosis and treatment.",
+    "Pagination": {
+      "StartPage": "3114",
+      "EndPage": "3117",
+      "MedlinePgn": "3114-7"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We present a generalized tool to mark and preprocess cancerous regions in an image. Currently, tissue biopsies are analyzed and graded manually by expert pathologists and thus can be time consuming and challenging due to variations in tissue morphology, inconsistencies in preparation of tissue specimen and errors in the image acquisition process. Our tool is designed to automatically standardize the variations in different images due to changing illumination and experimental conditions. Segregating cancerous regions from non-cancerous areas is a mandatory step before extracting relevant information from cancer images such as the number and size of nuclei and subsequently using it for classification and quantitative analysis. We tested our tool for two completely different cancers: Head and Neck Cancer (HNC) and Renal Cell Carcinoma (RCC). The tool enables the user to successfully segment the cancerous areas for both types of cancers and our results match with the manual validation by a pathologist."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Georgia Institute of Technology, Atlanta, GA 30332 USA. ysharma3@gatech.edu"
+          }
+        ],
+        "LastName": "Sharma",
+        "ForeName": "Yachna",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Raza",
+        "ForeName": "S Hussain",
+        "Initials": "SH"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kong",
+        "ForeName": "Koon Y",
+        "Initials": "KY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chaudry",
+        "ForeName": "Qaiser",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Muller",
+        "ForeName": "Susan",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Young",
+        "ForeName": "Andrew N",
+        "Initials": "AN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chen",
+        "ForeName": "Zhuo Georgia",
+        "Initials": "ZG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "May D",
+        "Initials": "MD"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U54 CA119338",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01CA108468",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U54CA119338",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "P20GM072069",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Carcinoma, Renal Cell"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Cell Nucleolus"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Cell Nucleus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Graphics"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Diagnosis, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Head and Neck Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Kidney Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Medical Oncology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "User-Computer Interface"
+    }
+  ]
+}

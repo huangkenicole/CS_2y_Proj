@@ -1,0 +1,188 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Coronavirus",
+      "Incubation period",
+      "Machine learning",
+      "Pandemic",
+      "Respiratory disease",
+      "Respiratory infections",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33256718",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "11",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "186",
+      "10.1186/s12915-020-00919-9"
+    ],
+    "Journal": {
+      "ISSN": "1741-7007",
+      "JournalIssue": {
+        "Volume": "18",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Nov",
+          "Day": "30"
+        }
+      },
+      "Title": "BMC biology",
+      "ISOAbbreviation": "BMC Biol"
+    },
+    "ArticleTitle": "Prediction of the incubation period for COVID-19 and future virus disease outbreaks.",
+    "Pagination": {
+      "StartPage": "186",
+      "MedlinePgn": "186"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "A crucial factor in mitigating respiratory viral outbreaks is early determination of the duration of the incubation period and, accordingly, the required quarantine time for potentially exposed individuals. At the time of the COVID-19 pandemic, optimization of quarantine regimes becomes paramount for public health, societal well-being, and global economy. However, biological factors that determine the duration of the virus incubation period remain poorly understood.",
+        "We demonstrate a strong positive correlation between the length of the incubation period and disease severity for a wide range of human pathogenic viruses. Using a machine learning approach, we develop a predictive model that accurately estimates, solely from several virus genome features, in particular, the number of protein-coding genes and the GC content, the incubation time ranges for diverse human pathogenic RNA viruses including SARS-CoV-2. The predictive approach described here can directly help in establishing the appropriate quarantine durations and thus facilitate controlling future outbreaks.",
+        "The length of the incubation period in viral diseases strongly correlates with disease severity, emphasizing the biological and epidemiological importance of the incubation period. Perhaps, surprisingly, incubation times of pathogenic RNA viruses can be accurately predicted solely from generic features of virus genomes. Elucidation of the biological underpinnings of the connections between these features and disease progression can be expected to reveal key aspects of virus pathogenesis."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD, 20894, USA."
+          }
+        ],
+        "LastName": "Gussow",
+        "ForeName": "Ayal B",
+        "Initials": "AB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD, 20894, USA. noam.auslander@nih.gov."
+          }
+        ],
+        "LastName": "Auslander",
+        "ForeName": "Noam",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD, 20894, USA."
+          }
+        ],
+        "LastName": "Wolf",
+        "ForeName": "Yuri I",
+        "Initials": "YI"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3943-8299"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD, 20894, USA. koonin@ncbi.nlm.nih.gov."
+          }
+        ],
+        "LastName": "Koonin",
+        "ForeName": "Eugene V",
+        "Initials": "EV"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "Intramural Funds",
+        "Agency": "U.S. Department of Health and Human Services",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Intramural"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Biol",
+    "NlmUniqueID": "101190720",
+    "ISSNLinking": "1741-7007"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Infectious Disease Incubation Period"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "No competing interests declared."
+}

@@ -1,0 +1,149 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37030693",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "04",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "05",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNSRE.2023.3260815"
+    ],
+    "Journal": {
+      "ISSN": "1558-0210",
+      "JournalIssue": {
+        "Volume": "31",
+        "PubDate": {
+          "Year": "2023"
+        }
+      },
+      "Title": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+      "ISOAbbreviation": "IEEE Trans Neural Syst Rehabil Eng"
+    },
+    "ArticleTitle": "A Machine Learning-Based Initial Difficulty Level Adjustment Method for Balance Exercise on a Trunk Rehabilitation Robot.",
+    "Pagination": {
+      "StartPage": "1857",
+      "EndPage": "1866",
+      "MedlinePgn": "1857-1866"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Trunk rehabilitation exercises such as those for remediating core stability can help improve the seated balance of patients with weakness or loss of proprioception caused by diseases such as stroke, and aid the recovery of other functions such as gait. However, there has not yet been any reported method for automatically determining the parameters that define exercise difficulty on a trunk rehabilitation robot (TRR) based on data such as the patient's demographic information, balancing ability, and training sequence, etc. We have proposed a machine learning (ML)-based difficulty adjustment method to determine an appropriate virtual damping gain (D<sub>virtual</sub>) of the controller for the TRR's unstable training mode. Training data for the proposed system is obtained from 37 healthy young adults, and the trained ML model thus obtained is tested through experiments with a separate population of 25 healthy young adults. The leave-one-out cross validation results (37 subjects) from the training group for validation of the designed ML model showed 80.90% average accuracy (R2 score) for using the given information to predict the desired difficulty levels, which are represented by the level of balance performance quantified as Mean Velocity Displacement (MVD) of the center of pressure. Statistical analysis (Repeated measures analysis of variance) of subject performance also showed that ground truth difficulty levels from the training data and predicted difficulty levels did not differ significantly under any of the three exercise modes used in this study (Hard, Medium, and Easy), and the standard deviations were reduced by 16.39, 41.39, and 25.68%, respectively. Moreover, the Planar Deviation (PD) of the center of pressure, which was not the target parameter here, also showed results similar to the MVD, which indicates that the predicted D<sub>virtual</sub> affected the difficulty level of balance performance. Therefore, the proposed ML model-based difficulty adjustment method has potential for use with people who have varied balancing abilities."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lee",
+        "ForeName": "Hosu",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Choi",
+        "ForeName": "Yunho",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Eizad",
+        "ForeName": "Amre",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Song",
+        "ForeName": "Won-Kyung",
+        "Initials": "WK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kim",
+        "ForeName": "Kyung-Joong",
+        "Initials": "KJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yoon",
+        "ForeName": "Jungwon",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Neural Syst Rehabil Eng",
+    "NlmUniqueID": "101097023",
+    "ISSNLinking": "1534-4320"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Young Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Robotics"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gait"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stroke"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Postural Balance"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stroke Rehabilitation"
+    }
+  ]
+}

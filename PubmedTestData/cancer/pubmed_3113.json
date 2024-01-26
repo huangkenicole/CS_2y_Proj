@@ -1,0 +1,228 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "26292924",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "09",
+    "Day": "13"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "08",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "13413",
+      "10.1038/srep13413"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "5",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Aug",
+          "Day": "21"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Large-scale RNA-Seq Transcriptome Analysis of 4043 Cancers and 548 Normal Tissue Controls across 12 TCGA Cancer Types.",
+    "Pagination": {
+      "StartPage": "13413",
+      "MedlinePgn": "13413"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The Cancer Genome Atlas (TCGA) has accrued RNA-Seq-based transcriptome data for more than 4000 cancer tissue samples across 12 cancer types, translating these data into biological insights remains a major challenge. We analyzed and compared the transcriptomes of 4043 cancer and 548 normal tissue samples from 21 TCGA cancer types, and created a comprehensive catalog of gene expression alterations for each cancer type. By clustering genes into co-regulated gene sets, we identified seven cross-cancer gene signatures altered across a diverse panel of primary human cancer samples. A 14-gene signature extracted from these seven cross-cancer gene signatures precisely differentiated between cancerous and normal samples, the predictive accuracy of leave-one-out cross-validation (LOOCV) were 92.04%, 96.23%, 91.76%, 90.05%, 88.17%, 94.29%, and 99.10% for BLCA, BRCA, COAD, HNSC, LIHC, LUAD, and LUSC, respectively. A lung cancer-specific gene signature, containing SFTPA1 and SFTPA2 genes, accurately distinguished lung cancer from other cancer samples, the predictive accuracy of LOOCV for TCGA and GSE5364 data were 95.68% and 100%, respectively. These gene signatures provide rich insights into the transcriptional programs that trigger tumorigenesis and metastasis, and many genes in the signature gene panels may be of significant value to the diagnosis and treatment of cancer."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Silkworm Genome Biology, Southwest University, Chongqing 400715, China."
+          }
+        ],
+        "LastName": "Peng",
+        "ForeName": "Li",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Pathology and Southwest Cancer Center, Southwest Hospital, Third Military Medical University, Chongqing 400038, China."
+          }
+        ],
+        "LastName": "Bian",
+        "ForeName": "Xiu Wu",
+        "Initials": "XW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Technology, Department of Statistics, Southwest University, Chongqing 400715, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Di Kang",
+        "Initials": "DK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Pathology and Southwest Cancer Center, Southwest Hospital, Third Military Medical University, Chongqing 400038, China."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Oncology, Chengdu Military General Hospital of PLA, Chengdu 610083, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Chuan",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Clinical School, Dali University, Dali 671000, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Guang Ming",
+        "Initials": "GM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Silkworm Genome Biology, Southwest University, Chongqing 400715, China."
+          }
+        ],
+        "LastName": "Xia",
+        "ForeName": "Qing You",
+        "Initials": "QY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Technology, Department of Statistics, Southwest University, Chongqing 400715, China."
+          }
+        ],
+        "LastName": "Xiong",
+        "ForeName": "Qing",
+        "Initials": "Q"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Neoplasm Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Carcinogenesis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Association Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Neoplasm Proteins"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reproducibility of Results"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Sequence Analysis, RNA"
+    }
+  ]
+}

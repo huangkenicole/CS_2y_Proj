@@ -1,0 +1,185 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19446020",
+  "DateCompleted": {
+    "Year": "2009",
+    "Month": "12",
+    "Day": "07"
+  },
+  "DateRevised": {
+    "Year": "2009",
+    "Month": "08",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2009",
+        "Month": "05",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.ygeno.2009.05.003"
+    ],
+    "Journal": {
+      "ISSN": "1089-8646",
+      "JournalIssue": {
+        "Volume": "94",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2009",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Genomics",
+      "ISOAbbreviation": "Genomics"
+    },
+    "ArticleTitle": "A novel approach to detect differentially expressed genes from count-based digital databases by normalizing with housekeeping genes.",
+    "Pagination": {
+      "StartPage": "211",
+      "EndPage": "216",
+      "MedlinePgn": "211-6"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Sequence tag count-based gene expression analysis is potent for the identification of candidate genes relevant to the cancerous phenotype. With the public availability of count-based data, the computational approaches for differentially expressed genes, which are mainly based on Binomial or beta-Binomial distribution, become practical and important in cancer biology. It remains a permanent need to select a proper statistical model for these methods. In this study, we developed a novel Bayesian algorithm-based method, Electronic Differential Gene Expression Screener (EDGES), in which a statistical model was determined by geometric averaging of 12 common housekeeping genes. EDGES identified a set of differentially expressed genes in lung, breast and colorectal cancers by using publically available Serial Analysis of Gene Expression (SAGE) and Expressed Sequence Tag (EST data). Gene expression microarray analysis and quantitative reverse transcription real-time PCR demonstrated the effectiveness of this procedure. We conclude that current normalization of calibrators provides a new insight into count-based digital subtraction in cancer research."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, the Affiliated Women's Hospital, Zhejiang University, PR China."
+          }
+        ],
+        "LastName": "L\u00fc",
+        "ForeName": "Bingjian",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yu",
+        "ForeName": "Jiyang",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Xu",
+        "ForeName": "Jing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Chen",
+        "ForeName": "Jian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lai",
+        "ForeName": "Maode",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Genomics",
+    "NlmUniqueID": "8800135",
+    "ISSNLinking": "0888-7543"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Messenger"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Colorectal Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Expressed Sequence Tags"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genes"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Statistical"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oligonucleotide Array Sequence Analysis"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Messenger"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Reverse Transcriptase Polymerase Chain Reaction"
+    }
+  ]
+}

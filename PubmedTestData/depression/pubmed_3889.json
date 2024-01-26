@@ -1,0 +1,346 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25880836",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "09",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2015",
+        "Month": "04",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "112",
+      "10.1186/s12859-015-0543-y"
+    ],
+    "Journal": {
+      "ISSN": "1471-2105",
+      "JournalIssue": {
+        "Volume": "16",
+        "PubDate": {
+          "Year": "2015",
+          "Month": "Apr",
+          "Day": "03"
+        }
+      },
+      "Title": "BMC bioinformatics",
+      "ISOAbbreviation": "BMC Bioinformatics"
+    },
+    "ArticleTitle": "Differential co-expression and regulation analyses reveal different mechanisms underlying major depressive disorder and subsyndromal symptomatic depression.",
+    "Pagination": {
+      "StartPage": "112",
+      "MedlinePgn": "112"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Recent depression research has revealed a growing awareness of how to best classify depression into depressive subtypes. Appropriately subtyping depression can lead to identification of subtypes that are more responsive to current pharmacological treatment and aid in separating out depressed patients in which current antidepressants are not particularly effective. Differential co-expression analysis (DCEA) and differential regulation analysis (DRA) were applied to compare the transcriptomic profiles of peripheral blood lymphocytes from patients with two depressive subtypes: major depressive disorder (MDD) and subsyndromal symptomatic depression (SSD).",
+        "Six differentially regulated genes (DRGs) (FOSL1, SRF, JUN, TFAP4, SOX9, and HLF) and 16 transcription factor-to-target differentially co-expressed gene links or pairs (TF2target DCLs) appear to be the key differential factors in MDD; in contrast, one DRG (PATZ1) and eight TF2target DCLs appear to be the key differential factors in SSD. There was no overlap between the MDD target genes and SSD target genes. Venlafaxine (Efexor\u2122, Effexor\u2122) appears to have a significant effect on the gene expression profile of MDD patients but no significant effect on the gene expression profile of SSD patients.",
+        "DCEA and DRA revealed no apparent similarities between the differential regulatory processes underlying MDD and SSD. This bioinformatic analysis may provide novel insights that can support future antidepressant R&D efforts."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Yongchuan Hospital, Chongqing Medical University, Chongqing, China. frank_cqmu@126.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Neuroscience, Chongqing Medical University, and Chongqing Key Laboratory of Neurobiology, Chongqing, China. frank_cqmu@126.com."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Fan",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Biotechnology, East China University of Science and Technology, Shanghai, China. liuk8628@163.com."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Jing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, the First Affiliated Hospital, Chongqing Medical University, No. 1 Youyi Road, Chongqing, 400016, China. 570572292@qq.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Neuroscience, Chongqing Medical University, and Chongqing Key Laboratory of Neurobiology, Chongqing, China. 570572292@qq.com."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Jin",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, the First Affiliated Hospital, Chongqing Medical University, No. 1 Youyi Road, Chongqing, 400016, China. zxn020@163.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Neuroscience, Chongqing Medical University, and Chongqing Key Laboratory of Neurobiology, Chongqing, China. zxn020@163.com."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Qingyuan",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Yongchuan Hospital, Chongqing Medical University, Chongqing, China. czs027@163.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Neuroscience, Chongqing Medical University, and Chongqing Key Laboratory of Neurobiology, Chongqing, China. czs027@163.com."
+          }
+        ],
+        "LastName": "Gong",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Yongchuan Hospital, Chongqing Medical University, Chongqing, China. dyjianguo@163.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Neuroscience, Chongqing Medical University, and Chongqing Key Laboratory of Neurobiology, Chongqing, China. dyjianguo@163.com."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Jianguo",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, the First Affiliated Hospital, Chongqing Medical University, No. 1 Youyi Road, Chongqing, 400016, China. tyl0871@163.com."
+          }
+        ],
+        "LastName": "Shao",
+        "ForeName": "Weihua",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, the First Affiliated Hospital, Chongqing Medical University, No. 1 Youyi Road, Chongqing, 400016, China. ylx8623@163.com."
+          }
+        ],
+        "LastName": "Mu",
+        "ForeName": "Jun",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Yongchuan Hospital, Chongqing Medical University, Chongqing, China. bjj0550@163.com."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Deyu",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Neuroscience, Chongqing Medical University, and Chongqing Key Laboratory of Neurobiology, Chongqing, China. fzx023@163.com."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Yongtao",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Yongchuan Hospital, Chongqing Medical University, Chongqing, China. zhiwei_li023@163.com."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Zhiwei",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, Yongchuan Hospital, Chongqing Medical University, Chongqing, China. xiepeng@cqmu.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurology, the First Affiliated Hospital, Chongqing Medical University, No. 1 Youyi Road, Chongqing, 400016, China. xiepeng@cqmu.edu.cn."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Neuroscience, Chongqing Medical University, and Chongqing Key Laboratory of Neurobiology, Chongqing, China. xiepeng@cqmu.edu.cn."
+          }
+        ],
+        "LastName": "Xie",
+        "ForeName": "Peng",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Bioinformatics",
+    "NlmUniqueID": "100965194",
+    "ISSNLinking": "1471-2105"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antidepressive Agents, Second-Generation"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biomarkers"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cyclohexanols"
+    },
+    {
+      "RegistryNumber": "7D7RX5A8MO",
+      "NameOfSubstance": "Venlafaxine Hydrochloride"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antidepressive Agents, Second-Generation"
+    },
+    {
+      "QualifierName": [
+        "analysis",
+        "metabolism"
+      ],
+      "DescriptorName": "Biomarkers"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Cyclohexanols"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "drug therapy",
+        "genetics"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics"
+      ],
+      "DescriptorName": "Depressive Disorder, Major"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Leukocytes, Mononuclear"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Microarray Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Venlafaxine Hydrochloride"
+    }
+  ]
+}

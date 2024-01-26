@@ -1,0 +1,338 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Google Trends",
+      "asthma",
+      "common cold",
+      "hospitalizations",
+      "mobile phone",
+      "time series analysis"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34255692",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "07",
+        "Day": "06"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e27044",
+      "10.2196/27044"
+    ],
+    "Journal": {
+      "ISSN": "1438-8871",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "7",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "06"
+        }
+      },
+      "Title": "Journal of medical Internet research",
+      "ISOAbbreviation": "J Med Internet Res"
+    },
+    "ArticleTitle": "Prediction of Asthma Hospitalizations for the Common Cold Using Google Trends: Infodemiology Study.",
+    "Pagination": {
+      "StartPage": "e27044",
+      "MedlinePgn": "e27044"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In contrast to air pollution and pollen exposure, data on the occurrence of the common cold are difficult to incorporate in models predicting asthma hospitalizations.",
+        "This study aims to assess whether web-based searches on common cold would correlate with and help to predict asthma hospitalizations.",
+        "We analyzed all hospitalizations with a main diagnosis of asthma occurring in 5 different countries (Portugal, Spain, Finland, Norway, and Brazil) for a period of approximately 5 years (January 1, 2012-December 17, 2016). Data on web-based searches on common cold were retrieved from Google Trends (GT) using the pseudo-influenza syndrome topic and local language search terms for common cold for the same countries and periods. We applied time series analysis methods to estimate the correlation between GT and hospitalization data. In addition, we built autoregressive models to forecast the weekly number of asthma hospitalizations for a period of 1 year (June 2015-June 2016) based on admissions and GT data from the 3 previous years.",
+        "In time series analyses, GT data on common cold displayed strong correlations with asthma hospitalizations occurring in Portugal (correlation coefficients ranging from 0.63 to 0.73), Spain (\u03c1=0.82-0.84), and Brazil (\u03c1=0.77-0.83) and moderate correlations with those occurring in Norway (\u03c1=0.32-0.35) and Finland (\u03c1=0.44-0.47). Similar patterns were observed in the correlation between forecasted and observed asthma hospitalizations from June 2015 to June 2016, with the number of forecasted hospitalizations differing on average between 12% (Spain) and 33% (Norway) from observed hospitalizations.",
+        "Common cold-related web-based searches display moderate-to-strong correlations with asthma hospitalizations and may be useful in forecasting them."
+      ],
+      "CopyrightInformation": "\u00a9Bernardo Sousa-Pinto, Jaana I Halonen, Aram Ant\u00f3, Vesa Jormanainen, Wienczyslawa Czarlewski, Anna Bedbrook, Nikolaos G Papadopoulos, Alberto Freitas, Tari Haahtela, Josep M Ant\u00f3, Jo\u00e3o Almeida Fonseca, Jean Bousquet. Originally published in the Journal of Medical Internet Research (https://www.jmir.org), 06.07.2021."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-1277-3401"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MEDCIDS - Department of Community Medicine, Information and Health Decision Sciences; Faculty of Medicine, University of Porto, Porto, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CINTESIS - Center for Health Technology and Services Research; University of Porto, Porto, Portugal."
+          }
+        ],
+        "LastName": "Sousa-Pinto",
+        "ForeName": "Bernardo",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1142-0388"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Finnish Institute for Health and Welfare (THL), Helsinki, Finland."
+          }
+        ],
+        "LastName": "Halonen",
+        "ForeName": "Jaana I",
+        "Initials": "JI"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8180-5481"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MASK-air, Montpellier, France."
+          }
+        ],
+        "LastName": "Ant\u00f3",
+        "ForeName": "Aram",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1906-8043"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Finnish Institute for Health and Welfare (THL), Helsinki, Finland."
+          }
+        ],
+        "LastName": "Jormanainen",
+        "ForeName": "Vesa",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6180-3232"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MASK-air, Montpellier, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Consulting Czarlewski, Levallois, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MACVIA-France, Montpellier, France."
+          }
+        ],
+        "LastName": "Czarlewski",
+        "ForeName": "Wienczyslawa",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9226-7762"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MASK-air, Montpellier, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "MACVIA-France, Montpellier, France."
+          }
+        ],
+        "LastName": "Bedbrook",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4448-3468"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Allergy Department, 2nd Pediatric Clinic, Athens General Children's Hospital \"P&A Kyriakou\", University of Athens, Athens, Greece."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Infection, Immunity & Respiratory Medicine, Royal Manchester Children's Hospital, University of Manchester, Manchester, United Kingdom."
+          }
+        ],
+        "LastName": "Papadopoulos",
+        "ForeName": "Nikolaos G",
+        "Initials": "NG"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2113-9653"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MEDCIDS - Department of Community Medicine, Information and Health Decision Sciences; Faculty of Medicine, University of Porto, Porto, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CINTESIS - Center for Health Technology and Services Research; University of Porto, Porto, Portugal."
+          }
+        ],
+        "LastName": "Freitas",
+        "ForeName": "Alberto",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0003-4757-2156"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Skin and Allergy Hospital, Helsinki University Hospital, and University of Helsinki, Helsinki, Finland."
+          }
+        ],
+        "LastName": "Haahtela",
+        "ForeName": "Tari",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4736-8529"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "ISGlobal, Barcelona Institute for Global Health, Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Universitat Pompeu Fabra, Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "IMIM - Hospital del Mar Medical Research Institute, Barcelona, Spain."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CIBER Epidemiolog\u00eda y Salud P\u00fablica - CIBERESP, Barcelona, Spain."
+          }
+        ],
+        "LastName": "Ant\u00f3",
+        "ForeName": "Josep M",
+        "Initials": "JM"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0887-8796"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MEDCIDS - Department of Community Medicine, Information and Health Decision Sciences; Faculty of Medicine, University of Porto, Porto, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "CINTESIS - Center for Health Technology and Services Research; University of Porto, Porto, Portugal."
+          }
+        ],
+        "LastName": "Fonseca",
+        "ForeName": "Jo\u00e3o Almeida",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4061-4766"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "MACVIA-France, Montpellier, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Charit\u00e9, Universit\u00e4tsmedizin Berlin, Humboldt-Universit\u00e4t zu Berlin, Berlin, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Comprehensive Allergy Center, Department of Dermatology and Allergy, Berlin Institute of Health, Berlin, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University Hospital, Montpellier, France."
+          }
+        ],
+        "LastName": "Bousquet",
+        "ForeName": "Jean",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Canada",
+    "MedlineTA": "J Med Internet Res",
+    "NlmUniqueID": "100959882",
+    "ISSNLinking": "1438-8871"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "therapy"
+      ],
+      "DescriptorName": "Asthma"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Common Cold"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hospitalization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Influenza, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Search Engine"
+    }
+  ],
+  "CoiStatement": "Conflicts of Interest: None declared."
+}

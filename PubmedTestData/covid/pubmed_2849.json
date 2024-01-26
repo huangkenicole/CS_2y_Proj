@@ -1,0 +1,236 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Belgium",
+      "Bias",
+      "COVID-19",
+      "Causal inference",
+      "SARS-CoV-2 variants",
+      "Surveillance",
+      "Virulence"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36368977",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "11",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "839",
+      "10.1186/s12879-022-07777-6"
+    ],
+    "Journal": {
+      "ISSN": "1471-2334",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov",
+          "Day": "11"
+        }
+      },
+      "Title": "BMC infectious diseases",
+      "ISOAbbreviation": "BMC Infect Dis"
+    },
+    "ArticleTitle": "Evaluating methodological approaches to assess the severity of infection with SARS-CoV-2 variants: scoping review and applications on Belgian COVID-19 data.",
+    "Pagination": {
+      "StartPage": "839",
+      "MedlinePgn": "839"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Differences in the genetic material of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants may result in altered virulence characteristics. Assessing the disease severity caused by newly emerging variants is essential to estimate their impact on public health. However, causally inferring the intrinsic severity of infection with variants using observational data is a challenging process on which guidance is still limited. We describe potential limitations and biases that researchers are confronted with and evaluate different methodological approaches to study the severity of infection with SARS-CoV-2 variants.",
+        "We reviewed the literature to identify limitations and potential biases in methods used to study the severity of infection with a particular variant. The impact of different methodological choices is illustrated by using real-world data of Belgian hospitalized COVID-19 patients.",
+        "We observed different ways of defining coronavirus disease 2019 (COVID-19) disease severity (e.g., admission to the hospital or intensive care unit versus the occurrence of severe complications or death) and exposure to a variant (e.g., linkage of the sequencing or genotyping result with the patient data through a unique identifier versus categorization of patients based on time periods). Different potential selection biases (e.g., overcontrol bias, endogenous selection bias, sample truncation bias) and factors fluctuating over time (e.g., medical expertise and therapeutic strategies, vaccination coverage and natural immunity, pressure on the healthcare system, affected population groups) according to the successive waves of COVID-19, dominated by different variants, were identified. Using data of Belgian hospitalized COVID-19 patients, we were able to document (i) the robustness of the analyses when using different variant exposure ascertainment methods, (ii) indications of the presence of selection bias and (iii) how important confounding variables are fluctuating over time.",
+        "When estimating the unbiased marginal effect of SARS-CoV-2 variants on the severity of infection, different strategies can be used and different assumptions can be made, potentially leading to different conclusions. We propose four best practices to identify and reduce potential bias introduced by the study design, the data analysis approach, and the features of the underlying surveillance strategies and data infrastructure."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium. Marjan.Meurisse@sciensano.be."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "IREC - EPID, Universit\u00e9 Catholique de Louvain, Bruxelles, Belgium. Marjan.Meurisse@sciensano.be."
+          }
+        ],
+        "LastName": "Meurisse",
+        "ForeName": "Marjan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Public Health and Primary Care, Ghent University, Ghent, Belgium."
+          }
+        ],
+        "LastName": "Van Oyen",
+        "ForeName": "Herman",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium."
+          }
+        ],
+        "LastName": "Blot",
+        "ForeName": "Koen",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium."
+          }
+        ],
+        "LastName": "Catteau",
+        "ForeName": "Lucy",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium."
+          }
+        ],
+        "LastName": "Serrien",
+        "ForeName": "Ben",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium."
+          }
+        ],
+        "LastName": "Klamer",
+        "ForeName": "Sofieke",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium."
+          }
+        ],
+        "LastName": "Cau\u00ebt",
+        "ForeName": "Emilie",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "IREC - EPID, Universit\u00e9 Catholique de Louvain, Bruxelles, Belgium."
+          }
+        ],
+        "LastName": "Robert",
+        "ForeName": "Annie",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology and Public Health, Sciensano, Brussels, Belgium."
+          }
+        ],
+        "LastName": "Van Goethem",
+        "ForeName": "Nina",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Review",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Infect Dis",
+    "NlmUniqueID": "100968551",
+    "ISSNLinking": "1471-2334"
+  },
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Belgium"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Intensive Care Units"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

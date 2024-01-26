@@ -1,0 +1,183 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "BYM",
+      "Colorectal cancer",
+      "GWR",
+      "Geographical distribution",
+      "Incidence",
+      "Mortality",
+      "Spatial epidemiology"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31142284",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "11",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "02",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "05",
+        "Day": "29"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "512",
+      "10.1186/s12885-019-5719-9"
+    ],
+    "Journal": {
+      "ISSN": "1471-2407",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "May",
+          "Day": "29"
+        }
+      },
+      "Title": "BMC cancer",
+      "ISOAbbreviation": "BMC Cancer"
+    },
+    "ArticleTitle": "Geographical patterns of the incidence and mortality of colorectal cancer in mainland Portugal municipalities (2007-2011).",
+    "Pagination": {
+      "StartPage": "512",
+      "MedlinePgn": "512"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer is a leading cause of morbidity and mortality in the world. In Portugal, colorectal cancer is one of the most incident cancers; thus, it is crucial to act to fight it. Knowledge of the geographical distribution of the incidence and mortality of colorectal cancer can facilitate the execution of these actions and make them more effective.",
+        "Our paper aims to describe and discuss the geographical patterns of colorectal cancer incidence and mortality in mainland Portugal municipalities (2007-2011). We used the Besag, York and Molli\u00e9 (BYM) model to compute the relative risk (RR) and posterior probability (PP). We performed a cluster analysis with Global Moran's Index and Local Moran's Index (LISA). We ran a geographically weighted regression (GWR) to compare incidence and mortality patterns.",
+        "Incidence and mortality have different distributions of RR values. The interval of RR concerning incidence was higher than the interval of RR concerning mortality. PP values reinforce the finding of higher heterogeneity of the incidence of colorectal cancer. The comparison of the cluster maps for incidence and mortality shows a few municipalities classified with the same cluster type in both maps. Additionally, the GWR results show that the percentage of RR mortality explained by RR incidence differs throughout mainland Portugal. From the comparison of our results with the prevalence of risk factors (at NUTS II level), the need to be aware of smoking habits, alcohol consumption and the unhealthy diet of the Portuguese population stands out.",
+        "There are differences in the geographical distribution of the RR incidence and RR mortality of colorectal cancer in mainland Portugal municipalities. Likewise, it is relevant to highlight the cluster of two municipalities with high RR values concerning colorectal cancer's incidence and mortality. Future research is necessary to explain the geographical differences in the distribution of colorectal cancer in mainland Portugal municipalities. Based on our findings, it may be interesting to examine the influence of smoking, alcohol consumption, diet and screening on colorectal cancer in greater detail. Additionally, it may be relevant to develop an analysis focused on municipalities where the incidence values explain the mortality values poorly (or well)."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2482-8956"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NOVA IMS Information Management School, Universidade Nova de Lisboa, Campus de Campolide, 1099-085, Lisbon, Portugal. rita.roquette@insa.min-saude.pt."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, Instituto Nacional de Sa\u00fade Dr. Ricardo Jorge, Av. Padre Cruz, 1649-016, Lisbon, Portugal. rita.roquette@insa.min-saude.pt."
+          }
+        ],
+        "LastName": "Roquette",
+        "ForeName": "R",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "NOVA IMS Information Management School, Universidade Nova de Lisboa, Campus de Campolide, 1099-085, Lisbon, Portugal."
+          }
+        ],
+        "LastName": "Painho",
+        "ForeName": "M",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Epidemiology, Instituto Nacional de Sa\u00fade Dr. Ricardo Jorge, Av. Padre Cruz, 1649-016, Lisbon, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Centro de Investiga\u00e7\u00e3o em Sa\u00fade P\u00fablica, Escola Nacional de Sa\u00fade P\u00fablica, Universidade NOVA de Lisboa, Av. Padre Cruz, Lisbon, 1600-560, Portugal."
+          }
+        ],
+        "LastName": "Nunes",
+        "ForeName": "B",
+        "Initials": "B"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Cancer",
+    "NlmUniqueID": "100967800",
+    "ISSNLinking": "1471-2407"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Cities"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cluster Analysis"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "mortality"
+      ],
+      "DescriptorName": "Colorectal Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Portugal"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Regression Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

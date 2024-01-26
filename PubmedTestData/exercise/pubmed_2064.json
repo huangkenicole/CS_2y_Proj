@@ -1,0 +1,116 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34891291",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC46164.2021.9629569"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2021",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Assessing Physical Rehabilitation Exercises using Graph Convolutional Network with Self-supervised regularization.",
+    "Pagination": {
+      "StartPage": "281",
+      "EndPage": "285",
+      "MedlinePgn": "281-285"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Computer-vision techniques provide a way to conduct low-cost, portable, and real-time evaluations of exercises performed as a part of physical rehabilitation. Recent data-driven methods have explored using deep learning on 3D body-landmark sequences for automatic assessment of physical rehabilitation exercises. However, existing deep learning methods using convolutional neural networks (CNN) fail to utilize the spatial connection information of the human body, which limits the accuracy of these assessments. To overcome these limitations and provide a more accurate method to assess physical rehabilitation exercises, we propose a deep learning framework using a graph convolutional network (GCN) with self-supervised regularization. The experimental results on an existing benchmark dataset validate that the proposed method achieves state-of-the-art performance with lower error than other CNN methods, and the self-supervised learning improves the prediction accuracy.Clinical relevance-This work established a supervised learning method to automatically assess physical rehabilitation exercises in the home environment using computer vision. This low-cost, portable, and real-time evaluation may provide clinicians with a way to provide feedback to patients about their exercise performance without having to provide in-person supervision."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Du",
+        "ForeName": "Chen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Graham",
+        "ForeName": "Sarah",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Depp",
+        "ForeName": "Colin",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Nguyen",
+        "ForeName": "Truong",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Home Environment"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    }
+  ]
+}

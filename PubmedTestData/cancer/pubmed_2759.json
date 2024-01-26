@@ -1,0 +1,180 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "breast cancer tissue",
+      "deep convolutional neural network",
+      "optical coherence tomography",
+      "transfer learning"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30318761",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "05",
+    "Day": "27"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "07",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "11",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1002/jbio.201800255"
+    ],
+    "Journal": {
+      "ISSN": "1864-0648",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Journal of biophotonics",
+      "ISOAbbreviation": "J Biophotonics"
+    },
+    "ArticleTitle": "Automated assessment of breast cancer margin in optical coherence tomography images via pretrained convolutional neural network.",
+    "Pagination": {
+      "StartPage": "e201800255",
+      "MedlinePgn": "e201800255"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The benchmark method for the evaluation of breast cancers involves microscopic testing of a hematoxylin and eosin (H&E)-stained tissue biopsy. Resurgery is required in 20% to 30% of cases because of incomplete excision of malignant tissues. Therefore, a more accurate method is required to detect the cancer margin to avoid the risk of recurrence. In the recent years, convolutional neural networks (CNNs) has achieved excellent performance in the field of medical images diagnosis. It automatically extracts the features from the images and classifies them. In the proposed study, we apply a pretrained Inception-v3 CNN with reverse active learning for the classification of healthy and malignancy breast tissue using optical coherence tomography (OCT) images. This proposed method attained the sensitivity, specificity and accuracy is 90.2%, 91.7% and 90%, respectively, with testing datasets collected from 48 patients (22 normal fibro-adipose tissue and 26 Invasive ductal carcinomas cancerous tissues). The trained network utilizes for the breast cancer margin assessment to predict the tumor with negative margins. Additionally, the network output is correlated with the corresponding histology image. Our results lay the foundation for the future that the proposed method can be used to perform automatic intraoperative identification of breast cancer margins in real-time and to guide core needle biopsies."
+      ],
+      "CopyrightInformation": "\u00a9 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0001-8710-6278"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Instrumentation Engineering, Thapar Institute of Engineering and Technology, Patiala, Punjab, India."
+          }
+        ],
+        "LastName": "Singla",
+        "ForeName": "Neeru",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Instrumentation Engineering, Thapar Institute of Engineering and Technology, Patiala, Punjab, India."
+          }
+        ],
+        "LastName": "Dubey",
+        "ForeName": "Kavita",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9097-4869"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Instrumentation Engineering, Thapar Institute of Engineering and Technology, Patiala, Punjab, India."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, University of California Los Angeles, Los Angeles, California."
+          }
+        ],
+        "LastName": "Srivastava",
+        "ForeName": "Vishal",
+        "Initials": "V"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "J Biophotonics",
+    "NlmUniqueID": "101318567",
+    "ISSNLinking": "1864-063X"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Automation"
+    },
+    {
+      "QualifierName": [
+        "diagnostic imaging",
+        "pathology",
+        "surgery"
+      ],
+      "DescriptorName": "Breast Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Case-Control Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Image Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Intraoperative Period"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Tomography, Optical Coherence"
+    }
+  ]
+}

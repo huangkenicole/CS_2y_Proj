@@ -1,0 +1,345 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34162869",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "19"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "19"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "3903",
+      "10.1038/s41467-021-24078-9"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "23"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "COVseq is a cost-effective workflow for mass-scale SARS-CoV-2 genomic surveillance.",
+    "Pagination": {
+      "StartPage": "3903",
+      "MedlinePgn": "3903"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "While mass-scale vaccination campaigns are ongoing worldwide, genomic surveillance of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is critical to monitor the emergence and global spread of viral variants of concern (VOC). Here, we present a streamlined workflow-COVseq-which can be used to generate highly multiplexed sequencing libraries compatible with Illumina platforms from hundreds of SARS-CoV-2 samples in parallel, in a rapid and cost-effective manner. We benchmark COVseq against a standard library preparation method (NEBNext) on 29 SARS-CoV-2 positive samples, reaching 95.4% of concordance between single-nucleotide variants detected by both methods. Application of COVseq to 245 additional SARS-CoV-2 positive samples demonstrates the ability of the method to reliably detect emergent VOC as well as its compatibility with downstream phylogenetic analyses. A cost analysis shows that COVseq could be used to sequence thousands of samples at less than 15 USD per sample, including library preparation and sequencing costs. We conclude that COVseq is a versatile and scalable method that is immediately applicable for SARS-CoV-2 genomic surveillance and easily adaptable to other pathogens such as influenza viruses."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-3322-1697"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bienko-Crosetto Lab for Quantitative Genome Biology, Division of Genome Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Science for Life Laboratory, Solna, Sweden."
+          }
+        ],
+        "LastName": "Simonetti",
+        "ForeName": "Michele",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6430-4236"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bienko-Crosetto Lab for Quantitative Genome Biology, Division of Genome Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Science for Life Laboratory, Solna, Sweden."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Breast Surgery, Qilu hospital of Shandong University, Ji'nan, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Ning",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0003-3910-6497"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bienko-Crosetto Lab for Quantitative Genome Biology, Division of Genome Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Science for Life Laboratory, Solna, Sweden."
+          }
+        ],
+        "LastName": "Harbers",
+        "ForeName": "Luuk",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Microbiology and Virology, Ospedale 'Amedeo di Savoia', Turin, Italy."
+          }
+        ],
+        "LastName": "Milia",
+        "ForeName": "Maria Grazia",
+        "Initials": "MG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto di Candiolo FPO-IRCCS, Candiolo, Turin, Italy."
+          }
+        ],
+        "LastName": "Brossa",
+        "ForeName": "Silvia",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0002-9089-7370"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bienko-Crosetto Lab for Quantitative Genome Biology, Division of Genome Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Science for Life Laboratory, Solna, Sweden."
+          }
+        ],
+        "LastName": "Huong Nguyen",
+        "ForeName": "Thi Thu",
+        "Initials": "TT"
+      },
+      {
+        "Identifier": [
+          "0000-0003-0480-8296"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Microbiology and Virology, Ospedale 'Amedeo di Savoia', Turin, Italy."
+          }
+        ],
+        "LastName": "Cerutti",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto di Candiolo FPO-IRCCS, Candiolo, Turin, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Sciences, University of Turin, Turin, Italy."
+          }
+        ],
+        "LastName": "Berrino",
+        "ForeName": "Enrico",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto di Candiolo FPO-IRCCS, Candiolo, Turin, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medical Sciences, University of Turin, Turin, Italy."
+          }
+        ],
+        "LastName": "Sapino",
+        "ForeName": "Anna",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6499-9082"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bienko-Crosetto Lab for Quantitative Genome Biology, Division of Genome Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Science for Life Laboratory, Solna, Sweden."
+          }
+        ],
+        "LastName": "Bienko",
+        "ForeName": "Magda",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Instituto di Candiolo FPO-IRCCS, Candiolo, Turin, Italy."
+          }
+        ],
+        "LastName": "Sottile",
+        "ForeName": "Antonino",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4698-598X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Microbiology and Virology, Ospedale 'Amedeo di Savoia', Turin, Italy. valeria.ghisetti@gmail.com."
+          }
+        ],
+        "LastName": "Ghisetti",
+        "ForeName": "Valeria",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3019-6978"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Bienko-Crosetto Lab for Quantitative Genome Biology, Division of Genome Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden. nicola.crosetto@ki.se."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Science for Life Laboratory, Solna, Sweden. nicola.crosetto@ki.se."
+          }
+        ],
+        "LastName": "Crosetto",
+        "ForeName": "Nicola",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "economics",
+        "genetics",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cells, Cultured"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chlorocebus aethiops"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cost-Benefit Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemiological Monitoring"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "isolation & purification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Workflow"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

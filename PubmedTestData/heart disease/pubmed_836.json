@@ -1,0 +1,107 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "19119653",
+  "DateCompleted": {
+    "Year": "2013",
+    "Month": "01",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2009",
+    "Month": "01",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "chi"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "1671-7104",
+      "JournalIssue": {
+        "Volume": "32",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2008",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation",
+      "ISOAbbreviation": "Zhongguo Yi Liao Qi Xie Za Zhi"
+    },
+    "ArticleTitle": "[Design and implementation of GpsOne remote heart disease first-aid system].",
+    "Pagination": {
+      "StartPage": "341",
+      "EndPage": "351",
+      "MedlinePgn": "341-4, 351"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "This paper introduces how to develop a novel remote heart disease first-aid system with N-tier architecture. The system applies GpsOne communication technology and professional ECG signal collection technology to the embedded SCM. It can provide an accurate location of the patient and his essential ECG details for remote heart disease first-aid."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Computer Science and Technology, Zhe Jiang University, Hangzhou. lh@acestek.com.cn"
+          }
+        ],
+        "LastName": "Lin",
+        "ForeName": "Hua",
+        "Initials": "H"
+      }
+    ],
+    "PublicationTypeList": [
+      "English Abstract",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "China",
+    "MedlineTA": "Zhongguo Yi Liao Qi Xie Za Zhi",
+    "NlmUniqueID": "9426153",
+    "ISSNLinking": "1671-7104"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "First Aid"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "therapy"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software Design"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Telemedicine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "User-Computer Interface"
+    }
+  ]
+}

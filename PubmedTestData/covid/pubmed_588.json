@@ -1,0 +1,203 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "gene expression programming",
+      "heuristic method",
+      "model",
+      "natural compounds",
+      "quantitative structure-activity relationship"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33386649",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1111/cbdd.13822"
+    ],
+    "Journal": {
+      "ISSN": "1747-0285",
+      "JournalIssue": {
+        "Volume": "97",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Apr"
+        }
+      },
+      "Title": "Chemical biology & drug design",
+      "ISOAbbreviation": "Chem Biol Drug Des"
+    },
+    "ArticleTitle": "Novel quantitative structure-activity relationship model to predict activities of natural products against COVID-19.",
+    "Pagination": {
+      "StartPage": "978",
+      "EndPage": "983",
+      "MedlinePgn": "978-983"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Currently, COVID-19 is spreading in a large scale while no efficient vaccine has been produced. A high-effective drug for COVID-19 is very necessary now. We established a satisfied quantitative structure-activity relationship model by gene expression programming to predict the IC50 value of natural compounds. A total of 27 natural products were optimized by heuristic method in CODESSA program to build a liner model. Based on it, only two descriptors were selected and utilized to build a nonlinear model in gene expression programming. The square of correlation coefficient and s2 of heuristic method were 0.80 and 0.10, respectively. In gene expression programming, the square of correlation coefficient and mean square error for training set were 0.91 and 0.04. The square of correlation coefficient and mean square error for test set are 0.86 and 0.1. This nonlinear model has stronger predictive ability to develop the targeted drugs of COVID-19."
+      ],
+      "CopyrightInformation": "\u00a9 2021 John Wiley & Sons A/S."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Life Sciences, Qingdao University, Qingdao, China."
+          }
+        ],
+        "LastName": "Si",
+        "ForeName": "Yaru",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Life Sciences, Qingdao University, Qingdao, China."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Xinyue",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "College of Life Sciences, Qingdao University, Qingdao, China."
+          }
+        ],
+        "LastName": "Hu",
+        "ForeName": "Yingfeng",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "State Key Laboratory of Biopolysaccharide Fiber Forming and Ecological Textile, Qingdao University, Qingdao, China."
+          }
+        ],
+        "LastName": "Si",
+        "ForeName": "Hongzong",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Chemistry, Lanzhou University, Lanzhou, China."
+          }
+        ],
+        "LastName": "Zhai",
+        "ForeName": "Honglin",
+        "Initials": "H"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2011ZX09302-007-05",
+        "Agency": "Chinese National Major Scientific and Technological Special Project for Significant New Drug Development",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Chem Biol Drug Des",
+    "NlmUniqueID": "101262549",
+    "ISSNLinking": "1747-0277"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Biological Products"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "pharmacology",
+        "therapeutic use"
+      ],
+      "DescriptorName": "Biological Products"
+    },
+    {
+      "QualifierName": [
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heuristics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Inhibitory Concentration 50"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quantitative Structure-Activity Relationship"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34017008",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "05",
+    "Day": "31"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "20"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "2993",
+      "10.1038/s41467-021-23276-9"
+    ],
+    "Journal": {
+      "ISSN": "2041-1723",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "May",
+          "Day": "20"
+        }
+      },
+      "Title": "Nature communications",
+      "ISOAbbreviation": "Nat Commun"
+    },
+    "ArticleTitle": "Controlling COVID-19 via test-trace-quarantine.",
+    "Pagination": {
+      "StartPage": "2993",
+      "MedlinePgn": "2993"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Initial COVID-19 containment in the United States focused on limiting mobility, including school and workplace closures. However, these interventions have had enormous societal and economic costs. Here, we demonstrate the feasibility of an alternative control strategy, test-trace-quarantine: routine testing of primarily symptomatic individuals, tracing and testing their known contacts, and placing their contacts in quarantine. We perform this analysis using Covasim, an open-source agent-based model, which has been calibrated to detailed demographic, mobility, and epidemiological data for the Seattle region from January through June 2020. With current levels of mask use and schools remaining closed, we find that high but achievable levels of testing and tracing are sufficient to maintain epidemic control even under a return to full workplace and community mobility and with low vaccine coverage. The easing of mobility restrictions in June 2020 and subsequent scale-up of testing and tracing programs through September provided real-world validation of our predictions. Although we show that test-trace-quarantine can control the epidemic in both theory and practice, its success is contingent on high testing and tracing rates, high quarantine compliance, relatively short testing and tracing delays, and moderate to high mask use. Thus, in order for test-trace-quarantine to control transmission with a return to high mobility, strong performance in all aspects of the program is required."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2517-2354"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA. ckerr@idmod.org."
+          }
+        ],
+        "LastName": "Kerr",
+        "ForeName": "Cliff C",
+        "Initials": "CC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Mistry",
+        "ForeName": "Dina",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5482-9584"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Burnet Institute, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Stuart",
+        "ForeName": "Robyn M",
+        "Initials": "RM"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8902-9990"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Rosenfeld",
+        "ForeName": "Katherine",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Hart",
+        "ForeName": "Gregory R",
+        "Initials": "GR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "N\u00fa\u00f1ez",
+        "ForeName": "Rafael C",
+        "Initials": "RC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Cohen",
+        "ForeName": "Jamie A",
+        "Initials": "JA"
+      },
+      {
+        "Identifier": [
+          "0000-0001-7565-2300"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Selvaraj",
+        "ForeName": "Prashanth",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Burnet Institute, Melbourne, VIC, Australia."
+          }
+        ],
+        "LastName": "Abeysuriya",
+        "ForeName": "Romesh G",
+        "Initials": "RG"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "GitHub, Inc, San Francisco, CA, USA."
+          }
+        ],
+        "LastName": "Jastrz\u0119bski",
+        "ForeName": "Micha\u0142",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8729-9268"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "George",
+        "ForeName": "Lauren",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Hagedorn",
+        "ForeName": "Brittany",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0002-7720-1121"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Health Research, University College London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Wolfson Centre for Mathematical Biology and The Queen's College, Oxford University, Oxford, UK."
+          }
+        ],
+        "LastName": "Panovska-Griffiths",
+        "ForeName": "Jasmina",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health - Seattle & King County, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Fagalde",
+        "ForeName": "Meaghan",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health - Seattle & King County, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Duchin",
+        "ForeName": "Jeffrey",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Famulare",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Disease Modeling, Global Health Division, Bill & Melinda Gates Foundation, Seattle, WA, USA."
+          }
+        ],
+        "LastName": "Klein",
+        "ForeName": "Daniel J",
+        "Initials": "DJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nat Commun",
+    "NlmUniqueID": "101528555",
+    "ISSNLinking": "2041-1723"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Contact Tracing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "United States"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

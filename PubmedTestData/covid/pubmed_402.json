@@ -1,0 +1,205 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "onward transmission",
+      "transmissibility",
+      "vaccine",
+      "variants of concern"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35062017",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab594",
+      "10.1093/bib/bbab594"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Mar",
+          "Day": "10"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "SARS-CoV-2 transmissibility compared between variants of concern and vaccination status.",
+    "Abstract": {
+      "AbstractText": [
+        "Since the start of the SARS-CoV-2 pandemic in late 2019, several variants of concern (VOC) have been reported to have increased transmissibility. In addition, despite the progress of vaccination against SARS-CoV-2 worldwide, all vaccines currently in used are known to protect only partially from infection and onward transmission. We combined phylogenetic analysis with Bayesian inference under an epidemiological model to infer the reproduction number (Rt) and also trace person-to-person transmission. We examined the impact of phylogenetic uncertainty and sampling bias on the estimation. Our result indicated that lineage B had a significantly higher transmissibility than lineage A and contributed to the global pandemic to a large extent. In addition, although the transmissibility of VOCs is higher than other exponentially growing lineages, this difference is not very high. The probability of detecting onward transmission from patients infected with SARS-CoV-2 VOCs who had received at least one dose of vaccine was approximate 1.06% (3/284), which was slightly lower but not statistically significantly different from a probability of 1.21% (10/828) for unvaccinated individuals. In addition to VOCs, exponentially growing lineages in each country should also be account for when tailoring prevention and control strategies. One dose of vaccination could not efficiently prevent the onward transmission of SARS-CoV-2 VOCs. Consequently, nonpharmaceutical interventions (such as wearing masks and social distancing) should still be implemented in each country during the vaccination period."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2022. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-7897-8581"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Microbiology, Chinese Academy of Sciences."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Liang",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Life Sciences and Department of Statistics, University of Warwick."
+          }
+        ],
+        "LastName": "Didelot",
+        "ForeName": "Xavier",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Microbiology, Chinese Academy of Sciences."
+          }
+        ],
+        "LastName": "Bi",
+        "ForeName": "Yuhai",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Microbiology, Chinese Academy of Sciences."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "George F",
+        "Initials": "GF"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "2017122",
+        "Agency": "NIHR",
+        "Country": ""
+      },
+      {
+        "GrantID": "31822055",
+        "Agency": "NSFC",
+        "Country": ""
+      },
+      {
+        "GrantID": "31900155",
+        "Agency": "National Natural Science Foundation of China",
+        "Country": ""
+      },
+      {
+        "GrantID": "XDA19090118",
+        "Agency": "Chinese Academy of Sciences",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Evolution, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Global Health"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Public Health Surveillance"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccination"
+    }
+  ]
+}

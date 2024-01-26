@@ -1,0 +1,161 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35200886",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1364/AO.439458"
+    ],
+    "Journal": {
+      "ISSN": "1539-4522",
+      "JournalIssue": {
+        "Volume": "61",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "10"
+        }
+      },
+      "Title": "Applied optics",
+      "ISOAbbreviation": "Appl Opt"
+    },
+    "ArticleTitle": "Information entropy of quantitative chemometric endogenous fluorescence improves photonic lung cancer diagnosis.",
+    "Pagination": {
+      "StartPage": "478",
+      "EndPage": "484",
+      "MedlinePgn": "478-484"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Quantitative chemometric widefield endogenous fluorescence microscopy (CFM) maps the endogenous absolute chromophore concentration and spatial distribution in cells and tissue sections label-free from fluorescence color images under broadband excitation and detection. By quantifying the endogenous chromophores, including tryptophan, elastin, reduced nicotinamide adenine dinucleotide [NAD(P)H], and flavin adenine dinucleotide (FAD), CFM reveals the biochemical environment and subcellular structure. Here we show that the chromophore information entropy, marking its spatial distribution pattern of quantitative chemometric endogenous fluorescence at the microscopic scale, improves photonic lung cancer diagnosis with independent diagnostic power to the cellular metabolism biomarker. NAD(P)H and FAD's information entropy is found to decrease from normal to perilesional to cancerous tissue, whereas the information entropy for the redox ratios [FAD/tryptophan and FAD/NAD(P)H] is smaller for the normal tissue than both perilesional and cancerous tissue. CFM imaging of the specimen's inherent biochemical and structural properties eliminates the dependence on measurement details and facilitates robust, accurate diagnosis. The synergy of quantifying absolute chromophore concentration and information entropy achieves high accuracies for a three-class classification of lung tissue into normal, perilesional, and cancerous ones and a three-class classification of lung cancers into grade 1, grade 2, and grade 3 using a support vector machine, outperforming the chromophore concentration biomarkers."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Xu",
+        "ForeName": "Zhang",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Xie",
+        "ForeName": "Xin",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Run",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yu",
+        "ForeName": "Kangyuan",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Lish",
+        "ForeName": "Samantha R",
+        "Initials": "SR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Xu",
+        "ForeName": "Min",
+        "Initials": "M"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Appl Opt",
+    "NlmUniqueID": "0247660",
+    "ISSNLinking": "1559-128X"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0U46U6E8UK",
+      "NameOfSubstance": "NAD"
+    },
+    {
+      "RegistryNumber": "146-14-5",
+      "NameOfSubstance": "Flavin-Adenine Dinucleotide"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Chemometrics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Entropy"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Flavin-Adenine Dinucleotide"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Fluorescence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "Lung"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Lung Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "NAD"
+    }
+  ]
+}

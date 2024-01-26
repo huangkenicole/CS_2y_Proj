@@ -1,0 +1,120 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34891604",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "29"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC46164.2021.9629691"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2021",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "An Ensemble Model for Tumor Type Identification and Cancer Origins Classification.",
+    "Pagination": {
+      "StartPage": "1660",
+      "EndPage": "1665",
+      "MedlinePgn": "1660-1665"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Tissue biopsy can be wildly used in cancer diagnosis. However, manually classifying the cancerous status of biopsies and tissue origin of tumors for cancerous ones requires skilled specialists and sophisticated equipment. As a result, a data-based model is urgently needed. In this paper, we propose a data-based ensemble model for tumor type identification and cancer origins classification. Our model is an ensemble model that combines different models based on mRNA groups which serve distinct functions. The experiment on the TCGA dataset exhibits a promising result on both tasks - 98% on tumor type identification and 96.1% on cancer origin classification. We also test our model on external validation datasets, which prove the robustness of our model."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Feng",
+        "ForeName": "Chenzhao",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Xiang",
+        "ForeName": "Tianyu",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yi",
+        "ForeName": "Zixuan",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhao",
+        "ForeName": "Lingzhe",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "He",
+        "ForeName": "Sisi",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tian",
+        "ForeName": "Kunming",
+        "Initials": "K"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ]
+}

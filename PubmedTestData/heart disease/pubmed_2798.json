@@ -1,0 +1,100 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30440962",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "10",
+    "Day": "28"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC.2018.8512761"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2018",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Jul"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Classification of Heart Diseases Based On ECG Signals Using Long Short-Term Memory.",
+    "Pagination": {
+      "StartPage": "2707",
+      "EndPage": "2710",
+      "MedlinePgn": "2707-2710"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Heart disease classification based on electrocardiogram(ECG) signal has become a priority topic in the diagnosis of heart diseases because it can be obtained with a simple diagnostic tool of low cost. Since early detection of heart disease can enable us to ease the treatment as well as save people's lives, accurate detection of heart disease using ECG is very important. In this paper, we propose a classification method of heart diseases based on ECG by adopting a machine learning method, called Long Short-Term Memory (LSTM), which is a state-of-the-art technique analyzing time series sequences in deep learning. As suitable data preprocessing, we also utilize symbolic aggregate approximation (SAX) to improve the accuracy. Our experiment results show that our approach not only achieves significantly better accuracy but also classifies heart diseases correctly in smaller response time than baseline techniques."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Liu",
+        "ForeName": "Ming",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kim",
+        "ForeName": "Younghoon",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electrocardiography"
+    },
+    {
+      "QualifierName": [
+        "classification"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    }
+  ]
+}

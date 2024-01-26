@@ -1,0 +1,130 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34892839",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/EMBC46164.2021.9629773"
+    ],
+    "Journal": {
+      "ISSN": "2694-0604",
+      "JournalIssue": {
+        "Volume": "2021",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Nov"
+        }
+      },
+      "Title": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "ISOAbbreviation": "Annu Int Conf IEEE Eng Med Biol Soc"
+    },
+    "ArticleTitle": "Sensor-Based Evaluation of Physical Therapy Exercises<sup></sup>.",
+    "Pagination": {
+      "StartPage": "7556",
+      "EndPage": "7561",
+      "MedlinePgn": "7556-7561"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Physical therapy is important for the treatment and prevention of musculoskeletal injuries, as well as recovery from surgery. In this paper, we explore techniques for automatically determining whether an exercise was performed correctly or not, based on camera images and wearable sensors. Classifiers were tested on data collected from 30 patients during normally-scheduled physical therapy appointments. We considered two lower limb exercises, and asked how well classifiers could generalize to the assessment of individuals for whom no prior data were available. We found that our classifiers performed well relative to several metrics (mean accuracy: 0.76, specificity: 0.90), but often returned low sensitivity (mean: 0.34). For one of the two exercises considered, these classifiers compared favorably with human performance."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Whitford",
+        "ForeName": "Andrew S",
+        "Initials": "AS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kim",
+        "ForeName": "Emily",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Halilaj",
+        "ForeName": "Eni",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Enseki",
+        "ForeName": "Keelan",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Popchak",
+        "ForeName": "Adam",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Hodgins",
+        "ForeName": "Jessica",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "NlmUniqueID": "101763872",
+    "ISSNLinking": "2375-7477"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Benchmarking"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Therapy Modalities"
+    }
+  ]
+}

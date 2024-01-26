@@ -1,0 +1,182 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Balance training",
+      "Deep learning",
+      "Exergaming",
+      "Ground reaction force",
+      "Long short-term memory networks",
+      "Weight shifting",
+      "XGBoost"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35152877",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "21"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "02",
+        "Day": "13"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "18",
+      "10.1186/s12984-022-00998-5"
+    ],
+    "Journal": {
+      "ISSN": "1743-0003",
+      "JournalIssue": {
+        "Volume": "19",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Feb",
+          "Day": "13"
+        }
+      },
+      "Title": "Journal of neuroengineering and rehabilitation",
+      "ISOAbbreviation": "J Neuroeng Rehabil"
+    },
+    "ArticleTitle": "Performance of machine learning models in estimation of ground reaction forces during balance exergaming.",
+    "Pagination": {
+      "StartPage": "18",
+      "MedlinePgn": "18"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Balance training exercise games (exergames) are a promising tool for reducing fall risk in elderly. Exergames can be used for in-home guided exercise, which greatly increases availability and facilitates independence. Providing biofeedback on weight-shifting during in-home balance exercise improves exercise efficiency, but suitable equipment for measuring weight-shifting is lacking. Exergames often use kinematic data as input for game control. Being able to useg such data to estimate weight-shifting would be a great advantage. Machine learning (ML) models have been shown to perform well in weight-shifting estimation in other settings. Therefore, the aim of this study was to investigate the performance of ML models in estimation of weight-shifting during exergaming using kinematic data.",
+        "Twelve healthy older adults (mean age 72 (\u00b1\u00a04.2), 10 F) played a custom exergame that required repeated weight-shifts. Full-body 3D motion capture (3DMoCap) data and standard 2D digital video (2D-DV) was recorded. Weight shifting was directly measured by 3D ground reaction forces (GRF) from force plates, and estimated using a linear regression model, a long-short term memory (LSTM) model and a decision tree model (XGBoost). Performance was evaluated using coefficient of determination ([Formula: see text]) and root mean square error (RMSE).",
+        "Results from estimation of GRF components using 3DMoCap data show a mean (\u00b1\u00a01SD) RMSE (% total body weight, BW) of the vertical GRF component ([Formula: see text]) of 4.3 (2.5), 11.1 (4.5), and 11.0 (4.7) for LSTM, XGBoost and LinReg, respectively. Using 2D-DV data, LSTM and XGBoost achieve mean RMSE (\u00b1\u00a01SD) in [Formula: see text] estimation of 10.7 (9.0) %BW and 19.8 (6.4) %BW, respectively. [Formula: see text] was [Formula: see text] for the LSTM in the [Formula: see text] component using 3DMoCap data, and [Formula: see text] using 2D-DV data. For XGBoost, [Formula: see text] [Formula: see text] was [Formula: see text] using 3DMoCap data, and [Formula: see text] using 2D-DV data.",
+        "This study demonstrates that an LSTM model can estimate 3-dimensional GRF components using 2D kinematic data extracted from standard 2D digital video cameras. The [Formula: see text] component is estimated more accurately than [Formula: see text] and [Formula: see text] components, especially when using 2D-DV data. Weight-shifting performance during exergaming can thus be extracted using kinematic data only, which can enable effective independent in-home balance exergaming."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-0419-1548"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Norwegian University of Science and Technology, Trondheim, Norway. elise.k.vonstad@ntnu.no."
+          }
+        ],
+        "LastName": "Vonstad",
+        "ForeName": "Elise Kl\u00e6bo",
+        "Initials": "EK"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Norwegian University of Science and Technology, Trondheim, Norway."
+          }
+        ],
+        "LastName": "Bach",
+        "ForeName": "Kerstin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neuromedicine and Movement Science, Norwegian University of Science and Technology, Trondheim, Norway."
+          }
+        ],
+        "LastName": "Vereijken",
+        "ForeName": "Beatrix",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Norwegian University of Science and Technology, Trondheim, Norway."
+          }
+        ],
+        "LastName": "Su",
+        "ForeName": "Xiaomeng",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Norwegian University of Science and Technology, Trondheim, Norway."
+          }
+        ],
+        "LastName": "Nilsen",
+        "ForeName": "Jan Harald",
+        "Initials": "JH"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Neuroeng Rehabil",
+    "NlmUniqueID": "101232233",
+    "ISSNLinking": "1743-0003"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Biomechanical Phenomena"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exergaming"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Machine Learning"
+    }
+  ],
+  "CoiStatement": "The authors declare that they have no competing interests."
+}

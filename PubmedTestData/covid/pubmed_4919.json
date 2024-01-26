@@ -1,0 +1,192 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID",
+      "data",
+      "epidemiology",
+      "global health",
+      "human",
+      "international",
+      "mortality"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [
+    {
+      "AbstractText": [
+        "Countries around the world reported 4.2 million deaths from SARS-CoV-2 (the virus that causes COVID-19) from the beginning of pandemic until the end of July 2021, but the actual number of deaths is likely higher. While some countries may have imperfect systems for counting deaths, others may have intentionally underreported them. To get a better estimate of deaths from an event such as a pandemic, scientists often compare the total number of deaths in a country during the event to the expected number of deaths based on data from previous years. This tells them how many excess deaths occurred during the event. To provide a more accurate count of deaths caused by COVID-19, Karlinsky and Kobak built a database called the World Mortality Dataset. It includes information on deaths from all causes from 103 countries. Karlinsky and Kobak used the database to compare the number of reported COVID-19 deaths reported to the excess deaths from all causes during the pandemic. Some of the hardest hit countries, including Peru, Ecuador, Bolivia, and Mexico, experienced over 50% more deaths than expected during the pandemic. Meanwhile, other countries like Australia and New Zealand, reported fewer deaths than normal. This is likely because social distancing measures reduced deaths from infections like influenza. Many countries reported their COVID-19 deaths accurately, but Karlinsky and Kobak argue that other countries, including Nicaragua, Russia, and Uzbekistan, underreported COVID-19 deaths. Using their database, Karlinsky and Kobak estimate that, in those countries, there have been at least 1.4 times more deaths due to COVID-19 than reported \u2013 adding over 1 million extra deaths in total. But they note that the actual number is likely much higher because data from more than 100 countries were not available to include in the database. The World Mortality Dataset provides a more accurate picture of the number of people who died because of the COVID-19 pandemic, and it is available online and updated daily. The database may help scientists develop better mitigation strategies for this pandemic or future ones."
+      ],
+      "CopyrightInformation": "\u00a9 2021, Karlinsky and Kobak."
+    }
+  ],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34190045",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "08",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "01",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e69336",
+      "10.7554/eLife.69336"
+    ],
+    "Journal": {
+      "ISSN": "2050-084X",
+      "JournalIssue": {
+        "Volume": "10",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "30"
+        }
+      },
+      "Title": "eLife",
+      "ISOAbbreviation": "Elife"
+    },
+    "ArticleTitle": "Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset.",
+    "Abstract": {
+      "AbstractText": [
+        "Comparing the impact of the COVID-19 pandemic between countries or across time is difficult because the reported numbers of cases and deaths can be strongly affected by testing capacity and reporting policy. Excess mortality, defined as the increase in all-cause mortality relative to the expected mortality, is widely considered as a more objective indicator of the COVID-19 death toll. However, there has been no global, frequently updated repository of the all-cause mortality data across countries. To fill this gap, we have collected weekly, monthly, or quarterly all-cause mortality data from 103 countries and territories, openly available as the regularly updated World Mortality Dataset. We used this dataset to compute the excess mortality in each country during the COVID-19 pandemic. We found that in several worst-affected countries (Peru, Ecuador, Bolivia, Mexico) the excess mortality was above 50% of the expected annual mortality (Peru, Ecuador, Bolivia, Mexico) or above 400 excess deaths per 100,000 population (Peru, Bulgaria, North Macedonia, Serbia). At the same time, in several other countries (e.g. Australia and New Zealand) mortality during the pandemic was below the usual level, presumably due to social distancing measures decreasing the non-COVID infectious mortality. Furthermore, we found that while many countries have been reporting the COVID-19 deaths very accurately, some countries have been substantially underreporting their COVID-19 deaths (e.g. Nicaragua, Russia, Uzbekistan), by up to two orders of magnitude (Tajikistan). Our results highlight the importance of open and rapid all-cause mortality reporting for pandemic monitoring."
+      ],
+      "CopyrightInformation": "\u00a9 2021, Karlinsky and Kobak."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-0966-5837"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Hebrew University, Jerusalem, Israel."
+          }
+        ],
+        "LastName": "Karlinsky",
+        "ForeName": "Ariel",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5639-7209"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute for Ophthalmic Research, University of T\u00fcbingen, T\u00fcbingen, Germany."
+          }
+        ],
+        "LastName": "Kobak",
+        "ForeName": "Dmitry",
+        "Initials": "D"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "U19 MH114830",
+        "Acronym": "MH",
+        "Agency": "NIMH NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "FKZ 01GQ1601 and 01IS18039A",
+        "Agency": "Federal Ministry of Education and Research",
+        "Country": ""
+      },
+      {
+        "GrantID": "U19MH114830",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "390727645 and BE5601/4-1",
+        "Agency": "Deutsche Forschungsgemeinschaft",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Dataset",
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Elife",
+    "NlmUniqueID": "101579614",
+    "ISSNLinking": "2050-084X"
+  },
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "medRxiv. 2021 Jan 29;:",
+      "PMID": "33532789"
+    },
+    {
+      "RefSource": "Elife. 2021 Aug 12;10:",
+      "PMID": "34382937"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "mortality",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemiological Monitoring"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Global Health"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Distancing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Public Health"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "AK, DK No competing interests declared"
+}

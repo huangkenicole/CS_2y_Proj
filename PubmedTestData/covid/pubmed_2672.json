@@ -1,0 +1,257 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "data sharing",
+      "mass spectrometry",
+      "open science",
+      "virus-host interactome"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33605735",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "11"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1021/acs.jproteome.0c00929"
+    ],
+    "Journal": {
+      "ISSN": "1535-3907",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Mar",
+          "Day": "05"
+        }
+      },
+      "Title": "Journal of proteome research",
+      "ISOAbbreviation": "J Proteome Res"
+    },
+    "ArticleTitle": "Open Science Resources for the Mass Spectrometry-Based Analysis of SARS-CoV-2.",
+    "Pagination": {
+      "StartPage": "1464",
+      "EndPage": "1475",
+      "MedlinePgn": "1464-1475"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The SARS-CoV-2 virus is the causative agent of the 2020 pandemic leading to the COVID-19 respiratory disease. With many scientific and humanitarian efforts ongoing to develop diagnostic tests, vaccines, and treatments for COVID-19, and to prevent the spread of SARS-CoV-2, mass spectrometry research, including proteomics, is playing a role in determining the biology of this viral infection. Proteomics studies are starting to lead to an understanding of the roles of viral and host proteins during SARS-CoV-2 infection, their protein-protein interactions, and post-translational modifications. This is beginning to provide insights into potential therapeutic targets or diagnostic strategies that can be used to reduce the long-term burden of the pandemic. However, the extraordinary situation caused by the global pandemic is also highlighting the need to improve mass spectrometry data and workflow sharing. We therefore describe freely available data and computational resources that can facilitate and assist the mass spectrometry-based analysis of SARS-CoV-2. We exemplify this by reanalyzing a virus-host interactome data set to detect protein-protein interactions and identify host proteins that could potentially be used as targets for drug repurposing."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-3105-1359"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California San Diego, La Jolla 92093, California, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Antwerp, Antwerp 2020, Belgium."
+          }
+        ],
+        "LastName": "Bittremieux",
+        "ForeName": "Wout",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Antwerp, Antwerp 2020, Belgium."
+          }
+        ],
+        "LastName": "Adams",
+        "ForeName": "Charlotte",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Antwerp, Antwerp 2020, Belgium."
+          }
+        ],
+        "LastName": "Laukens",
+        "ForeName": "Kris",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3003-1030"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California San Diego, La Jolla 92093, California, United States."
+          }
+        ],
+        "LastName": "Dorrestein",
+        "ForeName": "Pieter C",
+        "Initials": "PC"
+      },
+      {
+        "Identifier": [
+          "0000-0001-8385-3655"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California San Diego, La Jolla 92093, California, United States."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, University of California San Diego, La Jolla 92093, California, United States."
+          }
+        ],
+        "LastName": "Bandeira",
+        "ForeName": "Nuno",
+        "Initials": "N"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "J Proteome Res",
+    "NlmUniqueID": "101128775",
+    "ISSNLinking": "1535-3893"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Viral Proteins"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "COVID-19 Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Databases, Protein"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Repositioning"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Host Microbial Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Information Dissemination"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Mass Spectrometry"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Domains and Motifs"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Maps"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Processing, Post-Translational"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Proteomics"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "pathogenicity",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "chemistry",
+        "physiology"
+      ],
+      "DescriptorName": "Viral Proteins"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ]
+}

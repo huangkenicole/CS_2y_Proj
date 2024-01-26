@@ -1,0 +1,126 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33335243",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "12",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "22134",
+      "10.1038/s41598-020-79092-6"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "10",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Dec",
+          "Day": "17"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "COVID-19 cycles and rapidly evaluating lockdown strategies using spectral analysis.",
+    "Pagination": {
+      "StartPage": "22134",
+      "MedlinePgn": "22134"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Spectral analysis characterises oscillatory time series behaviours such as cycles, but accurate estimation requires reasonable numbers of observations. At the time of writing, COVID-19 time series for many countries are short: pre- and post-lockdown series are shorter still. Accurate estimation of potentially interesting cycles seems beyond reach with such short series. We solve the problem of obtaining accurate estimates from short series by using recent Bayesian spectral fusion methods. We show that transformed daily COVID-19 cases for many countries generally contain three cycles operating at wavelengths of around 2.7, 4.1 and 6.7 days (weekly) and that shorter wavelength cycles are suppressed after lockdown. The pre- and post-lockdown differences suggest that the weekly effect is at least partly due to non-epidemic factors. Unconstrained, new cases grow exponentially, but the internal cyclic structure causes periodic declines. This suggests that lockdown success might only be indicated by four or more daily falls. Spectral learning for epidemic time series contributes to the understanding of the epidemic process and can help evaluate interventions. Spectral fusion is a general technique that can fuse spectra recorded at different sampling rates, which can be applied to a wide range of time series from many disciplines."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, Imperial College, Huxley Building, 180 Queen's Gate, London, SW7 2AZ, UK. gnason@imperial.ac.uk."
+          }
+        ],
+        "LastName": "Nason",
+        "ForeName": "Guy P",
+        "Initials": "GP"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bayes Theorem"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "methods",
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Communicable Disease Control"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Social Isolation"
+    }
+  ],
+  "CoiStatement": "The author declares no competing interests."
+}

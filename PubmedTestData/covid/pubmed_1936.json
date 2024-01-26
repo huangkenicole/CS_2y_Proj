@@ -1,0 +1,318 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Children and young people",
+      "Long COVID",
+      "Predictive model",
+      "Public health",
+      "Symptoms"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "36447237",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "03",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "11",
+        "Day": "30"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "465",
+      "10.1186/s12916-022-02664-y"
+    ],
+    "Journal": {
+      "ISSN": "1741-7015",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Nov",
+          "Day": "30"
+        }
+      },
+      "Title": "BMC medicine",
+      "ISOAbbreviation": "BMC Med"
+    },
+    "ArticleTitle": "Predictive model for long COVID in children 3 months after a SARS-CoV-2 PCR test.",
+    "Pagination": {
+      "StartPage": "465",
+      "MedlinePgn": "465"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To update and internally validate a model to predict children and young people (CYP) most likely to experience long COVID (i.e. at least one impairing symptom) 3 months after SARS-CoV-2 PCR testing and to determine whether the impact of predictors differed by SARS-CoV-2 status.",
+        "Data from a nationally matched cohort of SARS-CoV-2 test-positive and test-negative CYP aged 11-17 years was used. The main outcome measure, long COVID, was defined as one or more impairing symptoms 3 months after PCR testing. Potential pre-specified predictors included SARS-CoV-2 status, sex, age, ethnicity, deprivation, quality of life/functioning (five EQ-5D-Y items), physical and mental health and loneliness (prior to testing) and number of symptoms at testing. The model was developed using logistic regression; performance was assessed using calibration and discrimination measures; internal validation was performed via bootstrapping and the final model was adjusted for overfitting.",
+        "A total of 7139 (3246 test-positives, 3893 test-negatives) completing a questionnaire 3 months post-test were included. 25.2% (817/3246) of SARS-CoV-2 PCR-positives and 18.5% (719/3893) of SARS-CoV-2 PCR-negatives had one or more impairing symptoms 3 months post-test. The final model contained SARS-CoV-2 status, number of symptoms at testing, sex, age, ethnicity, physical and mental health, loneliness and four EQ-5D-Y items before testing. Internal validation showed minimal overfitting with excellent calibration and discrimination measures (optimism-adjusted calibration slope: 0.96575; C-statistic: 0.83130).",
+        "We updated a risk prediction equation to identify those most at risk of long COVID 3 months after a SARS-CoV-2 PCR test which could serve as a useful triage and management tool for CYP during the ongoing pandemic. External validation is required before large-scale implementation."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCL Great Ormond Street Institute of Child Health, London, UK."
+          }
+        ],
+        "LastName": "Nugawela",
+        "ForeName": "Manjula D",
+        "Initials": "MD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCL Great Ormond Street Institute of Child Health, London, UK."
+          }
+        ],
+        "LastName": "Stephenson",
+        "ForeName": "Terence",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCL Great Ormond Street Institute of Child Health, London, UK."
+          }
+        ],
+        "LastName": "Shafran",
+        "ForeName": "Roz",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCL Great Ormond Street Institute of Child Health, London, UK."
+          }
+        ],
+        "LastName": "De Stavola",
+        "ForeName": "Bianca L",
+        "Initials": "BL"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paediatric Infectious Diseases Research Group, St. George's University of London, London, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Immunisation Division, UK Health Security Agency, London, UK."
+          }
+        ],
+        "LastName": "Ladhani",
+        "ForeName": "Shamez N",
+        "Initials": "SN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Immunisation Division, UK Health Security Agency, London, UK."
+          }
+        ],
+        "LastName": "Simmons",
+        "ForeName": "Ruth",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Immunisation Division, UK Health Security Agency, London, UK."
+          }
+        ],
+        "LastName": "McOwat",
+        "ForeName": "Kelsey",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCL Great Ormond Street Institute of Child Health, London, UK."
+          }
+        ],
+        "LastName": "Rojas",
+        "ForeName": "Natalia",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCL Great Ormond Street Institute of Child Health, London, UK."
+          }
+        ],
+        "LastName": "Dalrymple",
+        "ForeName": "Emma",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCL Great Ormond Street Institute of Child Health, London, UK."
+          }
+        ],
+        "LastName": "Cheung",
+        "ForeName": "Emily Y",
+        "Initials": "EY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Psychiatry, University of Cambridge, Cambridge, UK."
+          }
+        ],
+        "LastName": "Ford",
+        "ForeName": "Tamsin",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "UCL Great Ormond Street Institute of Child Health, London, UK."
+          }
+        ],
+        "LastName": "Heyman",
+        "ForeName": "Isobel",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Centre for Academic Child Health, Bristol Medical School, University of Bristol, Bristol, UK."
+          }
+        ],
+        "LastName": "Crawley",
+        "ForeName": "Esther",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Division of Surgery & Interventional Science, University College London, London, UK. snehal.pereira@ucl.ac.uk."
+          }
+        ],
+        "LastName": "Pinto Pereira",
+        "ForeName": "Snehal M",
+        "Initials": "SM"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "MR/V027751/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "COVLT0022",
+        "Agency": "UK Research and Innovation",
+        "Country": ""
+      },
+      {
+        "GrantID": "MR/P020372/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med",
+    "NlmUniqueID": "101190723",
+    "ISSNLinking": "1741-7015"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quality of Life"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymerase Chain Reaction"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Post-Acute COVID-19 Syndrome"
+    }
+  ],
+  "CoiStatement": "Sir Professor Stephenson is the Chair of the Health Research Authority and therefore recused himself from the research ethics application. All other authors declare no competing interests."
+}

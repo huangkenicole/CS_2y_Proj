@@ -1,0 +1,341 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35952714",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "09",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "10",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "08",
+        "Day": "11"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41586-022-05189-9"
+    ],
+    "Journal": {
+      "ISSN": "1476-4687",
+      "JournalIssue": {
+        "Volume": "609",
+        "Issue": "7929",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Sep"
+        }
+      },
+      "Title": "Nature",
+      "ISOAbbreviation": "Nature"
+    },
+    "ArticleTitle": "Pandemic-scale phylogenomics reveals the SARS-CoV-2 recombination landscape.",
+    "Pagination": {
+      "StartPage": "994",
+      "EndPage": "997",
+      "MedlinePgn": "994-997"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Accurate and timely detection of recombinant lineages is crucial for interpreting genetic variation, reconstructing epidemic spread, identifying selection and variants of interest, and accurately performing phylogenetic analyses<sup>1-4</sup>. During the SARS-CoV-2 pandemic, genomic data generation has exceeded the capacities of existing analysis platforms, thereby crippling real-time analysis of viral evolution<sup>5</sup>. Here, we use a new phylogenomic method to search a nearly comprehensive SARS-CoV-2 phylogeny for recombinant lineages. In a 1.6 million sample tree from May 2021, we identify 589 recombination events, which indicate that around 2.7% of sequenced SARS-CoV-2 genomes have detectable recombinant ancestry. Recombination breakpoints are inferred to occur disproportionately in the 3' portion of the genome that contains the spike protein. Our results highlight the need for timely analyses of recombination for pinpointing the emergence of recombinant lineages with the potential to increase transmissibility or virulence of the virus. We anticipate that this approach will empower comprehensive real-time tracking of viral recombination during the SARS-CoV-2 pandemic and beyond."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA. yturakhia@ucsd.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA. yturakhia@ucsd.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, University of California, San Diego, San Diego, CA, USA. yturakhia@ucsd.edu."
+          }
+        ],
+        "LastName": "Turakhia",
+        "ForeName": "Yatish",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          }
+        ],
+        "LastName": "Thornlow",
+        "ForeName": "Bryan",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1697-1130"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          }
+        ],
+        "LastName": "Hinrichs",
+        "ForeName": "Angie",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          }
+        ],
+        "LastName": "McBroome",
+        "ForeName": "Jakob",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          }
+        ],
+        "LastName": "Ayala",
+        "ForeName": "Nicolas",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electrical and Computer Engineering, University of California, San Diego, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Ye",
+        "ForeName": "Cheng",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0188-8289"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biological Sciences, University of California, San Diego, San Diego, CA, USA."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Kyle",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Cambridge, UK."
+          }
+        ],
+        "LastName": "De Maio",
+        "ForeName": "Nicola",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1533-4575"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Howard Hughes Medical Institute, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          }
+        ],
+        "LastName": "Haussler",
+        "ForeName": "David",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Ecology and Evolution, Research School of Biology, Australian National University, Canberra, Australian Capital Territory, Australia."
+          }
+        ],
+        "LastName": "Lanfear",
+        "ForeName": "Robert",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6535-2478"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA. rucorbet@ucsc.edu."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA. rucorbet@ucsc.edu."
+          }
+        ],
+        "LastName": "Corbett-Detig",
+        "ForeName": "Russell",
+        "Initials": "R"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R35 GM128932",
+        "Acronym": "GM",
+        "Agency": "NIGMS NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "T32 HG008345",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "F31 HG010584",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Nature",
+    "NlmUniqueID": "0410462",
+    "ISSNLinking": "0028-0836"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "spike protein, SARS-CoV-2"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Recombination, Genetic"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Selection, Genetic"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Spike Glycoprotein, Coronavirus"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Virulence"
+    }
+  ],
+  "CoiStatement": "R.L. works as an advisor to GISAID. The remaining authors declare no competing interests."
+}

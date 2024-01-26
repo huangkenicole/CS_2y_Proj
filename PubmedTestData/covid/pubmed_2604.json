@@ -1,0 +1,302 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34077435",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "02"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0252121",
+      "10.1371/journal.pone.0252121"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Proof of concept for real-time detection of SARS CoV-2 infection with an electronic nose.",
+    "Pagination": {
+      "StartPage": "e0252121",
+      "MedlinePgn": "e0252121"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Rapid diagnosis is key to curtailing the Covid-19 pandemic. One path to such rapid diagnosis may rely on identifying volatile organic compounds (VOCs) emitted by the infected body, or in other words, identifying the smell of the infection. Consistent with this rationale, dogs can use their nose to identify Covid-19 patients. Given the scale of the pandemic, however, animal deployment is a challenging solution. In contrast, electronic noses (eNoses) are machines aimed at mimicking animal olfaction, and these can be deployed at scale. To test the hypothesis that SARS CoV-2 infection is associated with a body-odor detectable by an eNose, we placed a generic eNose in-line at a drive-through testing station. We applied a deep learning classifier to the eNose measurements, and achieved real-time detection of SARS CoV-2 infection at a level significantly better than chance, for both symptomatic and non-symptomatic participants. This proof of concept with a generic eNose implies that an optimized eNose may allow effective real-time diagnosis, which would provide for extensive relief in the Covid-19 pandemic."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Snitz",
+        "ForeName": "Kobi",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Andelman-Gur",
+        "ForeName": "Michal",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Pinchover",
+        "ForeName": "Liron",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Weissgross",
+        "ForeName": "Reut",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Weissbrod",
+        "ForeName": "Aharon",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Mishor",
+        "ForeName": "Eva",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Zoller",
+        "ForeName": "Roni",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Linetsky",
+        "ForeName": "Vera",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Medhanie",
+        "ForeName": "Abebe",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Otolaryngology & Head and Neck Surgery, Edith Wolfson Medical Center, Holon, Israel."
+          }
+        ],
+        "LastName": "Shushan",
+        "ForeName": "Sagit",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Magen David Adom in Israel and Department of Emergency Medicine, Ben-Gurion University of the Negev, Beer Sheva, Israel."
+          }
+        ],
+        "LastName": "Jaffe",
+        "ForeName": "Eli",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3232-9391"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Neurobiology and Azrieli Center for Human Brain Imaging and Research, Weizmann Institute of Science, Rehovot, Israel."
+          }
+        ],
+        "LastName": "Sobel",
+        "ForeName": "Noam",
+        "Initials": "N"
+      }
+    ],
+    "GrantList": [
+      {
+        "Acronym": "ERC_",
+        "Agency": "European Research Council",
+        "Country": "International"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Volatile Organic Compounds"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Deep Learning"
+    },
+    {
+      "QualifierName": [
+        "trends"
+      ],
+      "DescriptorName": "Electronic Nose"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Israel"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Proof of Concept Study"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "analysis"
+      ],
+      "DescriptorName": "Volatile Organic Compounds"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

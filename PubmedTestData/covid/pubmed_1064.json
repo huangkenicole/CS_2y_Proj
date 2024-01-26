@@ -1,0 +1,172 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33667241",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "15"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "05"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0247660",
+      "10.1371/journal.pone.0247660"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "3",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Control strategies for COVID-19 epidemic with vaccination, shield immunity and quarantine: A metric temporal logic approach.",
+    "Pagination": {
+      "StartPage": "e0247660",
+      "MedlinePgn": "e0247660"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Ever since the outbreak of the COVID-19 epidemic, various public health control strategies have been proposed and tested against the coronavirus SARS-CoV-2. We study three specific COVID-19 epidemic control models: the susceptible, exposed, infectious, recovered (SEIR) model with vaccination control; the SEIR model with shield immunity control; and the susceptible, un-quarantined infected, quarantined infected, confirmed infected (SUQC) model with quarantine control. We express the control requirement in metric temporal logic (MTL) formulas (a type of formal specification languages) which can specify the expected control outcomes such as \"the deaths from the infection should never exceed one thousand per day within the next three months\" or \"the population immune from the disease should eventually exceed 200 thousand within the next 100 to 120 days\". We then develop methods for synthesizing control strategies with MTL specifications. To the best of our knowledge, this is the first paper to systematically synthesize control strategies based on the COVID-19 epidemic models with formal specifications. We provide simulation results in three different case studies: vaccination control for the COVID-19 epidemic with model parameters estimated from data in Lombardy, Italy; shield immunity control for the COVID-19 epidemic with model parameters estimated from data in Lombardy, Italy; and quarantine control for the COVID-19 epidemic with model parameters estimated from data in Wuhan, China. The results show that the proposed synthesis approach can generate control inputs such that the time-varying numbers of individuals in each category (e.g., infectious, immune) satisfy the MTL specifications. The results also show that early intervention is essential in mitigating the spread of COVID-19, and more control effort is needed for more stringent MTL specifications. For example, based on the model in Lombardy, Italy, achieving less than 100 deaths per day and 10000 total deaths within 100 days requires 441.7% more vaccination control effort than achieving less than 1000 deaths per day and 50000 total deaths within 100 days."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-0440-0912"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School for Engineering of Matter, Transport and Energy, Arizona State University, Tempe, AZ, United States of America."
+          }
+        ],
+        "LastName": "Xu",
+        "ForeName": "Zhe",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oden Institute for Computational Engineering and Sciences, University of Texas at Austin, Austin, TX, United States of America."
+          }
+        ],
+        "LastName": "Wu",
+        "ForeName": "Bo",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Oden Institute for Computational Engineering and Sciences, University of Texas at Austin, Austin, TX, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Aerospace Engineering and Engineering Mechanics, University of Texas at Austin, Austin, TX, United States of America."
+          }
+        ],
+        "LastName": "Topcu",
+        "ForeName": "Ufuk",
+        "Initials": "U"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "prevention & control"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computer Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunity"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Italy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Vaccination"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

@@ -1,0 +1,297 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Kaplan\u2013Meier curve",
+      "SARS-CoV-2 load",
+      "quantile regression",
+      "regression modeling approach",
+      "upper respiratory tract",
+      "vaccination"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37896765",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "30"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "09",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1988",
+      "10.3390/v15101988"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "15",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Sep",
+          "Day": "23"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "A Flexible Regression Modeling Approach Applied to Observational Laboratory Virological Data Suggests That SARS-CoV-2 Load in Upper Respiratory Tract Samples Changes with COVID-19 Epidemiology.",
+    "Abstract": {
+      "AbstractText": [
+        "(1) Background. Exploring the evolution of SARS-CoV-2 load and clearance from the upper respiratory tract samples is important to improving COVID-19 control. Data were collected retrospectively from a laboratory dataset on SARS-CoV-2 load quantified in leftover nasal pharyngeal swabs (NPSs) collected from symptomatic/asymptomatic individuals who tested positive to SARS-CoV-2 RNA detection in the framework of testing activities for diagnostic/screening purpose during the 2020 and 2021 winter epidemic waves. (2) Methods. A Statistical approach (quantile regression and survival models for interval-censored data), novel for this kind of data, was applied. We included in the analysis SARS-CoV-2-positive adults >18 years old for whom at least two serial NPSs were collected. A total of 262 SARS-CoV-2-positive individuals and 784 NPSs were included: 193 (593 NPSs) during the 2020 winter wave (before COVID-19 vaccine introduction) and 69 (191 NPSs) during the 2021 winter wave (all COVID-19 vaccinated). We estimated the trend of the median value, as well as the 25th and 75th centiles of the viral load, from the index episode (i.e., first SARS-CoV-2-positive test) until the sixth week (2020 wave) and the third week (2021 wave). Interval censoring methods were used to evaluate the time to SARS-CoV-2 clearance (defined as Ct < 35). (3) Results. At the index episode, the median value of viral load in the 2021 winter wave was 6.25 log copies/mL (95% CI: 5.50-6.70), and the median value in the 2020 winter wave was 5.42 log copies/mL (95% CI: 4.95-5.90). In contrast, 14 days after the index episode, the median value of viral load was 3.40 log copies/mL (95% CI: 3.26-3.54) for individuals during the 2020 winter wave and 2.93 Log copies/mL (95% CI: 2.80-3.19) for those of the 2021 winter wave. A significant difference in viral load shapes was observed among age classes (<i>p</i> = 0.0302) and between symptomatic and asymptomatic participants (<i>p</i> = 0.0187) for the first wave only; the median viral load value is higher at the day of episode index for the youngest (18-39 years) as compared to the older (40-64 years and >64 years) individuals. In the 2021 epidemic, the estimated proportion of individuals who can be considered infectious (Ct < 35) was approximately half that of the 2020 wave. (4) Conclusions. In case of the emergence of new SARS-CoV-2 variants, the application of these statistical methods to the analysis of virological laboratory data may provide evidence with which to inform and promptly support public health decision-makers in the modification of COVID-19 control measures."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-2344-6032"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Sciences for Health, University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Pellegrinelli",
+        "ForeName": "Laura",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0001-9912-9370"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical and Clinical Sciences (DIBIC), University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Luconi",
+        "ForeName": "Ester",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0239-7297"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical and Clinical Sciences (DIBIC), University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Marano",
+        "ForeName": "Giuseppe",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0002-0450-4156"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Sciences for Health, University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Galli",
+        "ForeName": "Cristina",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [
+          "0000-0002-3199-9369"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical, Surgical and Dental Sciences, University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Delbue",
+        "ForeName": "Serena",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Sciences for Health, University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Bubba",
+        "ForeName": "Laura",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4495-3183"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Sciences for Health, University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Binda",
+        "ForeName": "Sandro",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1716-6624"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Sciences for Health, University of Milan, 20133 Milan, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, 20122 Milan, Italy."
+          }
+        ],
+        "LastName": "Castaldi",
+        "ForeName": "Silvana",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1202-5873"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical and Clinical Sciences (DIBIC), University of Milan, 20133 Milan, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science and Research Center (DSRC), L. Sacco, \"Luigi Sacco\" University Hospital, University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Biganzoli",
+        "ForeName": "Elia",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5681-3455"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical Sciences for Health, University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Pariani",
+        "ForeName": "Elena",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biomedical and Clinical Sciences (DIBIC), University of Milan, 20133 Milan, Italy."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Data Science and Research Center (DSRC), L. Sacco, \"Luigi Sacco\" University Hospital, University of Milan, 20133 Milan, Italy."
+          }
+        ],
+        "LastName": "Boracchi",
+        "ForeName": "Patrizia",
+        "Initials": "P"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "SupplMeshList": [
+    "SARS-CoV-2 variants"
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adolescent"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pharynx"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

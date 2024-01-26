@@ -1,0 +1,277 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "ABL1",
+      "Functional network analysis",
+      "Hepatocellular carcinoma",
+      "Multi-database mining",
+      "Targeted drugs"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "35834027",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "07",
+    "Day": "18"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2022",
+        "Month": "07",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s12032-022-01730-y"
+    ],
+    "Journal": {
+      "ISSN": "1559-131X",
+      "JournalIssue": {
+        "Volume": "39",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jul",
+          "Day": "14"
+        }
+      },
+      "Title": "Medical oncology (Northwood, London, England)",
+      "ISOAbbreviation": "Med Oncol"
+    },
+    "ArticleTitle": "Comprehensive transcriptomic and co-expression analysis of ABL1 gene and molecularly targeted drugs in hepatocellular carcinoma based on multi-database mining.",
+    "Pagination": {
+      "StartPage": "146",
+      "MedlinePgn": "146"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Hepatocellular carcinoma (HCC) is one of the leading causes of cancer death worldwide. Consequently, it is essential to identify biomarkers for treatment response and the prognosis prediction. We investigated whether ABL1 can function as a biomarker or a drug target for HCC. We assessed the ABL1 expression, genetic alterations and patients' survival from LinkedOmics, GEO, TCGA and Human Protein Atlas. We analyzed PPI, GO and KEGG pathways. GSEA was analyzed for functional comparison. The current drugs targeting ABL1 were statistically analyzed using DRUGSURV and DGIdb database. We found ABL1 is overexpressed in HCC and its higher expression reduces survival probability. Genetic changes of ABL1 are not frequent. We screened out 25 differentially expressed genes correlated with ABL1. The top functions of ABL1 are biological regulation, metabolic process, protein-containing, and protein binding. KEGG pathways showed that ABL1 and correlated with ABL1 significantly genes markedly enriched in the ErbB signaling pathway, and pathways in cancer. We counted the existing drugs targeting ABL1, which indicates that inhibiting ABL1 expression may improve the survival probability of HCC. In conclusion, ABL1 plays a crucial role in the development and progression of this cancerization and is a potential drug target."
+      ],
+      "CopyrightInformation": "\u00a9 2022. The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Medical Genetics Center, Guangdong Women and Children Hospital, Guangzhou, China."
+          }
+        ],
+        "LastName": "Lan",
+        "ForeName": "Feifei",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Xinqia",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China."
+          }
+        ],
+        "LastName": "Xiong",
+        "ForeName": "Zhuolong",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China."
+          }
+        ],
+        "LastName": "Cao",
+        "ForeName": "Zitong",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Liangzong",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China."
+          }
+        ],
+        "LastName": "Zhong",
+        "ForeName": "Yueyuan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China."
+          }
+        ],
+        "LastName": "Zhan",
+        "ForeName": "Xuliang",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China."
+          }
+        ],
+        "LastName": "Yang",
+        "ForeName": "Yue",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China."
+          }
+        ],
+        "LastName": "Shao",
+        "ForeName": "Yingqi",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Minhua",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Pathology, Qingdao Municipal Hospital, Qingdao, China. hanzenglei@126.com."
+          }
+        ],
+        "LastName": "Han",
+        "ForeName": "Zenglei",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [
+          "0000-0002-1737-3386"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Zhu's Team, Guangdong Medical University, Zhanjiang, China. bioxzhu@yahoo.com."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "School of Laboratory Medicine and Biomedical Engineering, Hangzhou Medical College, Hangzhou, China. bioxzhu@yahoo.com."
+          }
+        ],
+        "LastName": "Zhu",
+        "ForeName": "Xiao",
+        "Initials": "X"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Med Oncol",
+    "NlmUniqueID": "9435512",
+    "ISSNLinking": "1357-0560"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Carcinoma, Hepatocellular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Profiling"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Expression Regulation, Neoplastic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gene Regulatory Networks"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Liver Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

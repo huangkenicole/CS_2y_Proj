@@ -1,0 +1,202 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Depression discrimination",
+      "Magnetoencephalography (MEG)",
+      "Multichannel matching pursuit (MMP)"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "24995889",
+  "DateCompleted": {
+    "Year": "2015",
+    "Month": "06",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "06",
+        "Day": "16"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.jad.2014.06.007",
+      "S0165-0327(14)00368-1"
+    ],
+    "Journal": {
+      "ISSN": "1573-2517",
+      "JournalIssue": {
+        "Volume": "167",
+        "PubDate": {
+          "Year": "2014"
+        }
+      },
+      "Title": "Journal of affective disorders",
+      "ISOAbbreviation": "J Affect Disord"
+    },
+    "ArticleTitle": "Discriminative analysis with a limited number of MEG trials in depression.",
+    "Pagination": {
+      "StartPage": "207",
+      "EndPage": "214",
+      "MedlinePgn": "207-14"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In studies when exploring distinct patterns of functional abnormalities inherent in depression, experiments are generally repeated over many trials, and then the data are averaged across those trials in order to improve the signal to noise ratio. Repeated stimuli will lead to unpredictable impairment on signals, due to material familiarity or subjects\u05f3 fatigue. In this consideration, signal processing tools powerful on small numbers of trials are expected to alleviate the work load on subjects, especially for mental disease studies.",
+        "Forty-four subjects, half-depressed patients and half-healthy subjects, were recruited for MEG scanning in response to sad facial stimuli. Multichannel matching pursuit (MMP) was implemented to manage the limited number of trials. The post-MMP MEG signals were utilized to calculate the power topography over the whole brain, as inputs for a Support Vector Machine (SVM) classifier. Standard ICA and conventional ensemble averaging plus Butterworth filtering were employed as well as benchmark studies for performance comparison.",
+        "A limited number of trials were required via MMP to discriminate the depressive. Post-MMP discriminative analysis revealed a deficit theta pattern and an excessive alpha/beta pattern.",
+        "The small sample size may impair the stability of the reported findings. The transient tiny variance of the signal was excluded from exploration.",
+        "The deficit theta pattern together with the excessive alpha/beta pattern in depression may indicate the dysfunction of the limbic-cortical circuit in a 'top-down' process. The post-MMP discrimination helps alleviate the scanning burden, facilitating the possibility for neuroimaging supporting the affective disorder clinical diagnosis."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2014 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre for Learning Science, Key Lab of Child Development and Learning Science, Southeast University, Nanjing 210096, China. Electronic address: luq@seu.edu.cn."
+          }
+        ],
+        "LastName": "Lu",
+        "ForeName": "Qing",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre for Learning Science, Key Lab of Child Development and Learning Science, Southeast University, Nanjing 210096, China."
+          }
+        ],
+        "LastName": "Jiang",
+        "ForeName": "Haiteng",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre for Learning Science, Key Lab of Child Development and Learning Science, Southeast University, Nanjing 210096, China."
+          }
+        ],
+        "LastName": "Bi",
+        "ForeName": "Kun",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research Centre for Learning Science, Key Lab of Child Development and Learning Science, Southeast University, Nanjing 210096, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Chu",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Academic Department of Psychiatry, Nanjing Brain Hospital, Nanjing Medical University, Nanjing 210029, China; Medical college of Nanjing University, 22 Hankou Road, Nanjing 210093, China. Electronic address: zjyao@njmu.edu.cn."
+          }
+        ],
+        "LastName": "Yao",
+        "ForeName": "Zhijian",
+        "Initials": "Z"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "J Affect Disord",
+    "NlmUniqueID": "7906073",
+    "ISSNLinking": "0165-0327"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Brain"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "physiopathology"
+      ],
+      "DescriptorName": "Depression"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Depressive Disorder"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Discriminant Analysis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Emotions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Facial Expression"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Magnetoencephalography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Photic Stimulation"
+    }
+  ]
+}

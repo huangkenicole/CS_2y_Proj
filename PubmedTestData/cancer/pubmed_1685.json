@@ -1,0 +1,178 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "29700472",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "04",
+    "Day": "24"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "09",
+    "Day": "28"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "04",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1038/s41588-018-0106-z"
+    ],
+    "Journal": {
+      "ISSN": "1546-1718",
+      "JournalIssue": {
+        "Volume": "50",
+        "Issue": "5",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "May"
+        }
+      },
+      "Title": "Nature genetics",
+      "ISOAbbreviation": "Nat Genet"
+    },
+    "ArticleTitle": "Inferring parsimonious migration histories for metastatic cancers.",
+    "Pagination": {
+      "StartPage": "718",
+      "EndPage": "726",
+      "MedlinePgn": "718-726"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Metastasis is the migration of cancerous cells from a primary tumor to other anatomical sites. Although metastasis was long thought to result from monoclonal seeding, or single cellular migrations, recent phylogenetic analyses of metastatic cancers have reported complex patterns of cellular migrations between sites, including polyclonal migrations and reseeding. However, accurate determination of migration patterns from somatic mutation data is complicated by intratumor heterogeneity and discordance between clonal lineage and cellular migration. We introduce MACHINA, a multi-objective optimization algorithm that jointly infers clonal lineages and parsimonious migration histories of metastatic cancers from DNA sequencing data. MACHINA analysis of data from multiple cancers shows that migration patterns are often not uniquely determined from sequencing data alone and that complicated migration patterns among primary tumors and metastases may be less prevalent than previously reported. MACHINA's rigorous analysis of migration histories will aid in studies of the drivers of metastasis."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Princeton University, Princeton, NJ, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA."
+          }
+        ],
+        "LastName": "El-Kebir",
+        "ForeName": "Mohammed",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Princeton University, Princeton, NJ, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Brown University, Providence, RI, USA."
+          }
+        ],
+        "LastName": "Satas",
+        "ForeName": "Gryte",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1274-048X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, Princeton University, Princeton, NJ, USA. braphael@princeton.edu."
+          }
+        ],
+        "LastName": "Raphael",
+        "ForeName": "Benjamin J",
+        "Initials": "BJ"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "R01 CA180776",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 HG007069",
+        "Acronym": "HG",
+        "Agency": "NHGRI NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "U24 CA211000",
+        "Acronym": "CA",
+        "Agency": "NCI NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Nat Genet",
+    "NlmUniqueID": "9216904",
+    "ISSNLinking": "1061-4036"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Cell Movement"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Nucleotide Sequencing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neoplasm Metastasis"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    }
+  ],
+  "CoiStatement": "<b>Conflict of Interest.</b> B.J.R. is a cofounder of and consultant to Medley Genomics."
+}

@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34158531",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "22"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "13069",
+      "10.1038/s41598-021-92134-x"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun",
+          "Day": "22"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Mobility-based real-time economic monitoring amid the COVID-19 pandemic.",
+    "Pagination": {
+      "StartPage": "13069",
+      "MedlinePgn": "13069"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Mobility restrictions have been identified as key non-pharmaceutical interventions to limit the spread of the SARS-COV-2 epidemics. However, these interventions present significant drawbacks to the social fabric and negative outcomes for the real economy. In this paper we propose a real-time monitoring framework for tracking the economic consequences of various forms of mobility reductions involving European countries. We adopt a granular representation of mobility patterns during both the first and second waves of SARS-COV-2 in Italy, Germany, France and Spain to provide an analytical characterization of the rate of losses of industrial production by means of a nowcasting methodology. Our approach exploits the information encoded in massive datasets of human mobility provided by Facebook and Google, which are published at higher frequencies than the target economic variables, in order to obtain an early estimate before the official data becomes available. Our results show, in first place, the ability of mobility-related policies to induce a contraction of mobility patterns across jurisdictions. Besides this contraction, we observe a substitution effect which increases mobility within jurisdictions. Secondly, we show how industrial production strictly follows the dynamics of population commuting patterns and of human mobility trends, which thus provide information on the day-by-day variations in countries' economic activities. Our work, besides shedding light on how policy interventions targeted to induce a mobility contraction impact the real economy, constitutes a practical toolbox for helping governments to design appropriate and balanced policy actions aimed at containing the SARS-COV-2 spread, while mitigating the detrimental effect on the economy. Our study reveals how complex mobility patterns can have unequal consequences to economic losses across countries and call for a more tailored implementation of restrictions to balance the containment of contagion with the need to sustain economic activities."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Economics and Management, University of Pavia, 27100, Pavia, Italy. alessandro.spelta@unipv.it."
+          }
+        ],
+        "LastName": "Spelta",
+        "ForeName": "Alessandro",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Economics and Management, University of Pavia, 27100, Pavia, Italy."
+          }
+        ],
+        "LastName": "Pagnottoni",
+        "ForeName": "Paolo",
+        "Initials": "P"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "101016233",
+        "Agency": "Horizon 2020 Framework Programme",
+        "Country": ""
+      },
+      {
+        "GrantID": "101016233",
+        "Agency": "Horizon 2020 Framework Programme",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Economic Status"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Europe"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Quarantine"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Social Media"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Travel"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

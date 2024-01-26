@@ -1,0 +1,152 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37590111",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "08"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "11",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2023.3306041"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "27",
+        "Issue": "11",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Nov"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "Integrating Medical Domain Knowledge for Early Diagnosis of Fever of Unknown Origin: An Interpretable Hierarchical Multimodal Neural Network Approach.",
+    "Pagination": {
+      "StartPage": "5237",
+      "EndPage": "5248",
+      "MedlinePgn": "5237-5248"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Accurate and interpretable differential diagnostic technologies are crucial for supporting clinicians in decision-making and treatment-planning for patients with fever of unknown origin (FUO). Existing solutions commonly address the diagnosis of FUO by transforming it into a multi-classification task. However, after the emergence of COVID-19 pandemic, clinicians have recognized the heightened significance of early diagnosis in patients with FUO, particularly for practical needs such as early triage. This has resulted in increased demands for identifying a wider range of etiologies, shorter observation windows, and better model interpretability. In this article, we propose an interpretable hierarchical multimodal neural network framework (iHMNNF) to facilitate early diagnosis of FUO by incorporating medical domain knowledge and leveraging multimodal clinical data. The iHMNNF comprises a top-down hierarchical reasoning framework (Td-HRF) built on the class hierarchy of FUO etiologies, five local attention-based multimodal neural networks (La-MNNs) trained for each parent node of the class hierarchy, and an interpretable module based on layer-wise relevance propagation (LRP) and attention mechanism. Experimental datasets were collected from electronic health records (EHRs) at a large-scale tertiary grade-A hospital in China, comprising 34,051 hospital admissions of 30,794 FUO patients from January 2011 to October 2020. Our proposed La-MNNs achieved area under the receiver operating characteristic curve (AUROC) values ranging from 0.7809 to 0.9035 across all five decomposed tasks, surpassing competing machine learning (ML) and single-modality deep learning (DL) methods while also providing enhanced interpretability. Furthermore, we explored the feasibility of identifying FUO etiologies using only the first N-hour time series data obtained after admission."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Zhixiao",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Liu",
+        "ForeName": "Jian",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Tian",
+        "ForeName": "Yu",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Zhou",
+        "ForeName": "Tianshu",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Liu",
+        "ForeName": "Qianghua",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Qiu",
+        "ForeName": "Yunqing",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Jingsong",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "epidemiology",
+        "etiology"
+      ],
+      "DescriptorName": "Fever of Unknown Origin"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hospitalization"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Early Diagnosis"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Critical appraisal",
+      "Quality of research",
+      "Systematic review"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33397292",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "25"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "01",
+        "Day": "04"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1",
+      "10.1186/s12874-020-01190-w"
+    ],
+    "Journal": {
+      "ISSN": "1471-2288",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan",
+          "Day": "04"
+        }
+      },
+      "Title": "BMC medical research methodology",
+      "ISOAbbreviation": "BMC Med Res Methodol"
+    },
+    "ArticleTitle": "COVID-19-related medical research: a meta-research and critical appraisal.",
+    "Pagination": {
+      "StartPage": "1",
+      "MedlinePgn": "1"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Since the start of the COVID-19 outbreak, a large number of COVID-19-related papers have been published. However, concerns about the risk of expedited science have been raised. We aimed at reviewing and categorizing COVID-19-related medical research and to critically appraise peer-reviewed original articles.",
+        "The data sources were Pubmed, Cochrane COVID-19 register study, arXiv, medRxiv and bioRxiv, from 01/11/2019 to 01/05/2020. Peer-reviewed and preprints publications related to COVID-19 were included, written in English or Chinese. No limitations were placed on study design. Reviewers screened and categorized studies according to i) publication type, ii) country of publication, and iii) topics covered. Original articles were critically appraised using validated quality assessment tools.",
+        "Among the 11,452 publications identified, 10,516 met the inclusion criteria, among which 7468 (71.0%) were peer-reviewed articles. Among these, 4190 publications (56.1%) did not include any data or analytics (comprising expert opinion pieces). Overall, the most represented topics were infectious disease (n\u00a0=\u20092326, 22.1%), epidemiology (n\u00a0=\u20091802, 17.1%), and global health (n\u00a0=\u20091602, 15.2%). The top five publishing countries were China (25.8%), United States (22.3%), United Kingdom (8.8%), Italy (8.1%) and India (3.4%). The dynamic of publication showed that the exponential growth of COVID-19 peer-reviewed articles was mainly driven by publications without original data (mean 261.5 articles \u00b1 51.1 per week) as compared with original articles (mean of 69.3\u2009\u00b1\u200922.3 articles per week). Original articles including patient data accounted for 713 (9.5%) of peer-reviewed studies. A total of 576 original articles (80.8%) showed intermediate to high risk of bias. Last, except for simulation studies that mainly used large-scale open data, the median number of patients enrolled was of 102 (IQR\u2009=\u200937-337).",
+        "Since the beginning of the COVID-19 pandemic, the majority of research is composed by publications without original data. Peer-reviewed original articles with data showed a high risk of bias and included a limited number of patients. Together, these findings underscore the urgent need to strike a balance between the velocity and quality of research, and to cautiously consider medical information and clinical applicability in a pressing, pandemic context. SYSTEMATIC REVIEW REGISTRATION: https://osf.io/5zjyx/."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          }
+        ],
+        "LastName": "Raynaud",
+        "ForeName": "Marc",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Huanxi",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          }
+        ],
+        "LastName": "Louis",
+        "ForeName": "Kevin",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Montpellier University Hospital, Montpellier, France."
+          }
+        ],
+        "LastName": "Goutaudier",
+        "ForeName": "Valentin",
+        "Initials": "V"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Jiali",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Piti\u00e9-Salp\u00eatri\u00e8re University Hospital, Assistance Publique-H\u00f4pitaux de Paris, Sorbonne University, Paris, France."
+          }
+        ],
+        "LastName": "Dubourg",
+        "ForeName": "Quentin",
+        "Initials": "Q"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Wei",
+        "ForeName": "Yongcheng",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Paediatrics Unit, Necker University Hospital, Paris, France."
+          }
+        ],
+        "LastName": "Demir",
+        "ForeName": "Zeynep",
+        "Initials": "Z"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          }
+        ],
+        "LastName": "Debiais",
+        "ForeName": "Charlotte",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          }
+        ],
+        "LastName": "Aubert",
+        "ForeName": "Olivier",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          }
+        ],
+        "LastName": "Bouatou",
+        "ForeName": "Yassine",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Immunology and Nephrology Department, Saint Louis Hospital, Paris, France."
+          }
+        ],
+        "LastName": "Lefaucheur",
+        "ForeName": "Carmen",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cochrane Pre-hospital and Emergency Care, Necker University Hospital, Paris, France."
+          }
+        ],
+        "LastName": "Jabre",
+        "ForeName": "Patricia",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Liu",
+        "ForeName": "Longshan",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The First Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Changxi",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          }
+        ],
+        "LastName": "Jouven",
+        "ForeName": "Xavier",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "University of Pennsylvania School of Medicine, Philadelphia, PA, USA."
+          }
+        ],
+        "LastName": "Reese",
+        "ForeName": "Peter",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France."
+          }
+        ],
+        "LastName": "Empana",
+        "ForeName": "Jean-Philippe",
+        "Initials": "JP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Paris Translational Research Epidemiology and Biostatistics Department, H\u00f4pital Necker, 149 rue de S\u00e8vres, 75015, Paris, France. alexandre.loupy@inserm.fr."
+          }
+        ],
+        "LastName": "Loupy",
+        "ForeName": "Alexandre",
+        "Initials": "A"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Systematic Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Med Res Methodol",
+    "NlmUniqueID": "100968545",
+    "ISSNLinking": "1471-2288"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "statistics & numerical data"
+      ],
+      "DescriptorName": "Biomedical Research"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "prevention & control",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "China"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "India"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Italy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United Kingdom"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United States"
+    }
+  ],
+  "CoiStatement": "We report no relationships or activities that could appear to have influenced the present work."
+}

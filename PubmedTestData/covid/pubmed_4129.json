@@ -1,0 +1,179 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "disease transmission",
+      "household bubbles",
+      "networks",
+      "percolation theory"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34053262",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "06",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "15"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "05",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "20200284",
+      "10.1098/rstb.2020.0284"
+    ],
+    "Journal": {
+      "ISSN": "1471-2970",
+      "JournalIssue": {
+        "Volume": "376",
+        "Issue": "1829",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jul",
+          "Day": "19"
+        }
+      },
+      "Title": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "ISOAbbreviation": "Philos Trans R Soc Lond B Biol Sci"
+    },
+    "ArticleTitle": "Household bubbles and COVID-19 transmission: insights from percolation theory.",
+    "Pagination": {
+      "StartPage": "20200284",
+      "MedlinePgn": "20200284"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In the era of social distancing to curb the spread of COVID-19, bubbling is the combining of two or more households to create an exclusive larger group. The impact of bubbling on COVID-19 transmission is challenging to quantify because of the complex social structures involved. We developed a network description of households in the UK, using the configuration model to link households. We explored the impact of bubbling scenarios by joining together households of various sizes. For each bubbling scenario, we calculated the percolation threshold, that is, the number of connections per individual required for a giant component to form, numerically and theoretically. We related the percolation threshold to the household reproduction number. We find that bubbling scenarios in which single-person households join with another household have a minimal impact on network connectivity and transmission potential. Ubiquitous scenarios where all households form a bubble are likely to lead to an extensive transmission that is hard to control. The impact of plausible scenarios, with variable uptake and heterogeneous bubble sizes, can be mitigated with reduced numbers of contacts outside the household. Bubbling of households comes at an increased risk of transmission; however, under certain circumstances risks can be modest and could be balanced by other changes in behaviours. This article is part of the theme issue 'Modelling that shaped the early COVID-19 pandemic response in the UK'."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Engineering Mathematics, University of Bristol, University Walk, Bristol BS8 1TW, UK."
+          }
+        ],
+        "LastName": "Danon",
+        "ForeName": "Leon",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Mathematical Sciences, Queen Mary University of London, Mile End Road, London E1 4NS, UK."
+          }
+        ],
+        "LastName": "Lacasa",
+        "ForeName": "Lucas",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University of Bristol School of Veterinary Sciences, Langford BS40 5DU, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "NIHR HPRU in Behaviour Change and Evaluation, Population Health Sciences, Bristol Medical School, University of Bristol, Bristol BS8 2BN, UK."
+          }
+        ],
+        "LastName": "Brooks-Pollock",
+        "ForeName": "Ellen",
+        "Initials": "E"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "MC_PC_19067",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MC_PC_19067/2",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      },
+      {
+        "GrantID": "MR/V038613/1",
+        "Acronym": "MRC_",
+        "Agency": "Medical Research Council",
+        "Country": "United Kingdom"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Philos Trans R Soc Lond B Biol Sci",
+    "NlmUniqueID": "7503623",
+    "ISSNLinking": "0962-8436"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "transmission",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Family Characteristics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Physical Distancing"
+    },
+    {
+      "QualifierName": [
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "United Kingdom"
+    }
+  ]
+}

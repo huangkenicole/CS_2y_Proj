@@ -1,0 +1,195 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "homogenization",
+      "material heterogeneity",
+      "prostate cancer",
+      "quantitative diagnosis",
+      "tissue mechanics",
+      "viscoelasticity"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28753220",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "05",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "09"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "08",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e2917",
+      "10.1002/cnm.2917"
+    ],
+    "Journal": {
+      "ISSN": "2040-7947",
+      "JournalIssue": {
+        "Volume": "34",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Feb"
+        }
+      },
+      "Title": "International journal for numerical methods in biomedical engineering",
+      "ISOAbbreviation": "Int J Numer Method Biomed Eng"
+    },
+    "ArticleTitle": "A novel method for rapid and quantitative mechanical assessment of soft tissue for diagnostic purposes: A computational study.",
+    "Abstract": {
+      "AbstractText": [
+        "Biological tissues often experience drastic changes in their microstructure due to their pathophysiological conditions. Such microstructural changes could result in variations in mechanical properties, which can be used in diagnosing or monitoring a wide range of diseases, most notably cancer. This paves the avenue for non-invasive diagnosis by instrumented palpation although challenges remain in quantitatively assessing the amount of diseased tissue by means of mechanical characterization. This paper presents a framework for tissue diagnosis using a quantitative and efficient estimation of the fractions of cancerous and non-cancerous tissue without a priori knowledge of tissue microstructure. First, the sample is tested in a creep or stress relaxation experiment, and the behavior is characterized using a single term Prony series. A rule of mixtures, which relates tumor fraction to the apparent mechanical properties, is then obtained by minimizing the difference between strain energy of a heterogeneous system and an equivalent homogeneous one. Finally, the percentage of each tissue constituent is predicted by comparing the observed relaxation time with that calculated from the rule of mixtures. The proposed methodology is assessed using models reconstructed from histological samples and magnetic resonance imaging of prostate. Results show that estimation of cancerous tissue fraction can be obtained with a maximum error of 12% when samples of different sizes, geometries, and tumor fractions are presented. The proposed framework has the potential to be applied to a wide range of diseases such as rectal polyps, cirrhosis, or breast and prostate cancer whose current primary diagnosis remains qualitative."
+      ],
+      "CopyrightInformation": "\u00a9 2017 The Authors. International Journal for Numerical Methods in Biomedical Engineering published by John Wiley & Sons Ltd."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Mechanical, Process, and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK."
+          }
+        ],
+        "LastName": "Palacio-Torralba",
+        "ForeName": "Javier",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Edinburgh Urological Cancer Group, Division of Pathology Laboratories, Institute of Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK."
+          }
+        ],
+        "LastName": "Good",
+        "ForeName": "Daniel W",
+        "Initials": "DW"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Edinburgh Urological Cancer Group, Division of Pathology Laboratories, Institute of Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Urology, NHS Lothian, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK."
+          }
+        ],
+        "LastName": "Stewart",
+        "ForeName": "Grant D",
+        "Initials": "GD"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Edinburgh Urological Cancer Group, Division of Pathology Laboratories, Institute of Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Urology, NHS Lothian, Western General Hospital, Crewe Road South, Edinburgh, EH4 2XU, UK."
+          }
+        ],
+        "LastName": "McNeill",
+        "ForeName": "S Alan",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Mechanical, Process, and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK."
+          }
+        ],
+        "LastName": "Reuben",
+        "ForeName": "Robert L",
+        "Initials": "RL"
+      },
+      {
+        "Identifier": [
+          "0000-0003-2681-0362"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Mechanical, Process, and Energy Engineering, School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, UK."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Yuhang",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Int J Numer Method Biomed Eng",
+    "NlmUniqueID": "101530293",
+    "ISSNLinking": "2040-7939"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Elasticity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Magnetic Resonance Imaging"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Prostatic Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "diagnosis"
+      ],
+      "DescriptorName": "Soft Tissue Neoplasms"
+    }
+  ]
+}

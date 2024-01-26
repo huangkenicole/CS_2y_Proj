@@ -1,0 +1,146 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31536541",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "03",
+    "Day": "06"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "09",
+        "Day": "19"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0222508",
+      "10.1371/journal.pone.0222508"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2019"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Wikipedia network analysis of cancer interactions and world influence.",
+    "Pagination": {
+      "StartPage": "e0222508",
+      "MedlinePgn": "e0222508"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "We apply the Google matrix algorithms for analysis of interactions and influence of 37 cancer types, 203 cancer drugs and 195 world countries using the network of 5 416 537 English Wikipedia articles with all their directed hyperlinks. The PageRank algorithm provides a ranking of cancers which has 60% and 70% overlaps with the top 10 deadliest cancers extracted from World Health Organization GLOBOCAN 2018 and Global Burden of Diseases Study 2017, respectively. The recently developed reduced Google matrix algorithm gives networks of interactions between cancers, drugs and countries taking into account all direct and indirect links between these selected 435 entities. These reduced networks allow to obtain sensitivity of countries to specific cancers and drugs. The strongest links between cancers and drugs are in good agreement with the approved medical prescriptions of specific drugs to specific cancers. We argue that this analysis of knowledge accumulated in Wikipedia provides useful complementary global information about interdependencies between cancers, drugs and world countries."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institut UTINAM, CNRS, UMR 6213, OSU THETA, Universit\u00e9 de Bourgogne Franche-Comt\u00e9, Besan\u00e7on, France."
+          }
+        ],
+        "LastName": "Rollin",
+        "ForeName": "Guillaume",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5965-8876"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institut UTINAM, CNRS, UMR 6213, OSU THETA, Universit\u00e9 de Bourgogne Franche-Comt\u00e9, Besan\u00e7on, France."
+          }
+        ],
+        "LastName": "Lages",
+        "ForeName": "Jos\u00e9",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2752-0765"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratoire de Physique Th\u00e9orique, IRSAMC, Universit\u00e9 de Toulouse, CNRS, UPS, Toulouse, France."
+          }
+        ],
+        "LastName": "Shepelyansky",
+        "ForeName": "Dima L",
+        "Initials": "DL"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antineoplastic Agents"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antineoplastic Agents"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "pathology"
+      ],
+      "DescriptorName": "Neoplasms"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

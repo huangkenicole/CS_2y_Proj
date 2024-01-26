@@ -1,0 +1,291 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34106964",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "07",
+    "Day": "08"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "06",
+        "Day": "09"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0252388",
+      "10.1371/journal.pone.0252388"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "6",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Lack of efficacy of hydroxychloroquine and azithromycin in patients hospitalized for COVID-19 pneumonia: A retrospective study.",
+    "Pagination": {
+      "StartPage": "e0252388",
+      "MedlinePgn": "e0252388"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Hydroxychloroquine combined with azithromycin (HCQ/AZI) has initially been used against coronavirus disease-2019 (COVID-19). In this retrospective study, we assessed the clinical effects of HCQ/AZI, with a 28-days follow-up.",
+        "In a registry-study which included patients hospitalized for COVID-19 between March 15 and April 2, 2020, we compared patients who received HCQ/AZI to those who did not, regarding a composite outcome of mortality and mechanical ventilation with a 28-days follow-up. QT was monitored for patients treated with HCQ/AZI. Were excluded patients in intensive care units, palliative care and ventilated within 24 hours of admission. Three analyses were performed to adjust for selection bias: propensity score matching, multivariable survival, and inverse probability score weighting (IPSW) analyses.",
+        "Overall, 203 patients were included: 60 patients treated by HCQ/AZI and 143 control patients. During the 28-days follow-up, 32 (16.3%) patients presented the primary outcome and 23 (12.3%) patients died. Propensity-score matching identified 52 unique pairs of patients with similar characteristics. In the matched cohort (n = 104), HCQ/AZI was not associated with the primary composite outcome (log-rank p-value = 0.16). In the overall cohort (n = 203), survival and IPSW analyses also found no benefit from HCQ/AZI. In the HCQ/AZI group, 11 (18.3%) patients prolonged QT interval duration, requiring treatment cessation.",
+        "HCQ/AZI combination therapy was not associated with lower in-hospital mortality and mechanical ventilation rate, with a 28-days follow-up. In the HCQ/AZI group, 18.3% of patients presented a prolonged QT interval requiring treatment cessation, however, control group was not monitored for this adverse event, making comparison impossible."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology Department, Groupe Hospitalier Intercommunal Le Raincy-Montfermeil, Montfermeil, France."
+          }
+        ],
+        "LastName": "Saib",
+        "ForeName": "Anis",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology Department, Groupe Hospitalier Intercommunal Le Raincy-Montfermeil, Montfermeil, France."
+          }
+        ],
+        "LastName": "Amara",
+        "ForeName": "Walid",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [
+          "0000-0002-4057-3765"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Pneumology Department, Groupe Hospitalier Intercommunal Le Raincy-Montfermeil, Montfermeil, France."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Pascal",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology Department, Groupe Hospitalier Intercommunal Le Raincy-Montfermeil, Montfermeil, France."
+          }
+        ],
+        "LastName": "Cattan",
+        "ForeName": "Simon",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Rheumatology Department, Groupe Hospitalier Intercommunal Le Raincy-Montfermeil, Montfermeil, France."
+          }
+        ],
+        "LastName": "Dellal",
+        "ForeName": "Azeddine",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Intensive Care Medicine Department, Groupe Hospitalier Intercommunal Le Raincy-Montfermeil, Montfermeil, France."
+          }
+        ],
+        "LastName": "Regaieg",
+        "ForeName": "Kais",
+        "Initials": "K"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Gastroenterology Department, Groupe Hospitalier Intercommunal Le Raincy-Montfermeil, Montfermeil, France."
+          }
+        ],
+        "LastName": "Nahon",
+        "ForeName": "Stephane",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Cardiology Department, Groupe Hospitalier Intercommunal Le Raincy-Montfermeil, Montfermeil, France."
+          }
+        ],
+        "LastName": "Nallet",
+        "ForeName": "Olivier",
+        "Initials": "O"
+      },
+      {
+        "Identifier": [
+          "0000-0002-6014-6269"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Research & Innovation Department (RICAP), CMC Ambroise Par\u00e9, Neuilly-sur-Seine, France."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Lee S",
+        "Initials": "LS"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Anti-Bacterial Agents"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antimalarials"
+    },
+    {
+      "RegistryNumber": "4QWG6N8QKH",
+      "NameOfSubstance": "Hydroxychloroquine"
+    },
+    {
+      "RegistryNumber": "83905-01-5",
+      "NameOfSubstance": "Azithromycin"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Anti-Bacterial Agents"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Antimalarials"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Azithromycin"
+    },
+    {
+      "QualifierName": [
+        "mortality",
+        "pathology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Follow-Up Studies"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "therapeutic use"
+      ],
+      "DescriptorName": "Hydroxychloroquine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Intensive Care Units"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Respiration, Artificial"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Retrospective Studies"
+    },
+    {
+      "QualifierName": [
+        "drug effects",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Survival Rate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Treatment Outcome"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "COVID-19 Drug Treatment"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

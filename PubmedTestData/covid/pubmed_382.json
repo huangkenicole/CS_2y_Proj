@@ -1,0 +1,402 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "SARS-CoV-2",
+      "mathematical modeling",
+      "vaccines",
+      "viral dynamics"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34696352",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "12",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "07"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "24"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "1921",
+      "10.3390/v13101921"
+    ],
+    "Journal": {
+      "ISSN": "1999-4915",
+      "JournalIssue": {
+        "Volume": "13",
+        "Issue": "10",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep",
+          "Day": "24"
+        }
+      },
+      "Title": "Viruses",
+      "ISOAbbreviation": "Viruses"
+    },
+    "ArticleTitle": "Mathematical Modeling of Vaccines That Prevent SARS-CoV-2 Transmission.",
+    "Abstract": {
+      "AbstractText": [
+        "SARS-CoV-2 vaccine clinical trials assess efficacy against disease (VE<sub>DIS</sub>), the ability to block symptomatic COVID-19. They only partially discriminate whether VE<sub>DIS</sub> is mediated by preventing infection completely, which is defined as detection of virus in the airways (VE<sub>SUSC</sub>), or by preventing symptoms despite infection (VE<sub>SYMP</sub>). Vaccine efficacy against transmissibility given infection (VE<sub>INF</sub>), the decrease in secondary transmissions from infected vaccine recipients, is also not measured. Using mathematical modeling of data from King County Washington, we demonstrate that if the Moderna (mRNA-1273QS) and Pfizer-BioNTech (BNT162b2) vaccines, which demonstrated VE<sub>DIS</sub> > 90% in clinical trials, mediate VE<sub>DIS</sub> by VE<sub>SUSC</sub>, then a limited fourth epidemic wave of infections with the highly infectious B.1.1.7 variant would have been predicted in spring 2021 assuming rapid vaccine roll out. If high VE<sub>DIS</sub> is explained by VE<sub>SYMP</sub>, then high VE<sub>INF</sub> would have also been necessary to limit the extent of this fourth wave. Vaccines which completely protect against infection or secondary transmission also substantially lower the number of people who must be vaccinated before the herd immunity threshold is reached. The limited extent of the fourth wave suggests that the vaccines have either high VE<sub>SUSC</sub> or both high VE<sub>SYMP</sub> and high VE<sub>INF</sub> against B.1.1.7. Finally, using a separate intra-host mathematical model of viral kinetics, we demonstrate that a 0.6 log vaccine-mediated reduction in average peak viral load might be sufficient to achieve 50% VE<sub>INF,</sub> which suggests that human challenge studies with a relatively low number of infected participants could be employed to estimate all three vaccine efficacy metrics."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Swan",
+        "ForeName": "David A",
+        "Initials": "DA"
+      },
+      {
+        "Identifier": [
+          "0000-0003-1582-3379"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Goyal",
+        "ForeName": "Ashish",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "TIMC-IMAG/BCM, Universit\u00e9 Grenoble Alpes, 38000 Grenoble, France."
+          }
+        ],
+        "LastName": "Bracis",
+        "ForeName": "Chloe",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Moore",
+        "ForeName": "Mia",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Krantz",
+        "ForeName": "Elizabeth",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, University of Washington, Seattle, WA 98195, USA."
+          }
+        ],
+        "LastName": "Brown",
+        "ForeName": "Elizabeth",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Cardozo-Ojeda",
+        "ForeName": "Fabian",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [
+          "0000-0001-5684-9538"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Reeves",
+        "ForeName": "Daniel B",
+        "Initials": "DB"
+      },
+      {
+        "Identifier": [
+          "0000-0001-6797-5468"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Gao",
+        "ForeName": "Fei",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, University of Washington, Seattle, WA 98195, USA."
+          }
+        ],
+        "LastName": "Gilbert",
+        "ForeName": "Peter B",
+        "Initials": "PB"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Washington, Seattle, WA 98195, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Laboratory Medicine, University of Washington, Seattle, WA 98195, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Corey",
+        "ForeName": "Lawrence",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Global Health and Infectious Diseases, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          }
+        ],
+        "LastName": "Cohen",
+        "ForeName": "Myron S",
+        "Initials": "MS"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Biostatistics, University of Washington, Seattle, WA 98195, USA."
+          }
+        ],
+        "LastName": "Janes",
+        "ForeName": "Holly",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Applied Mathematics, University of Washington, Seattle, WA 98195, USA."
+          }
+        ],
+        "LastName": "Dimitrov",
+        "ForeName": "Dobromir",
+        "Initials": "D"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Medicine, University of Washington, Seattle, WA 98195, USA."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA."
+          }
+        ],
+        "LastName": "Schiffer",
+        "ForeName": "Joshua T",
+        "Initials": "JT"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "Inform Public Health Decision Making Funding Opportunity",
+        "Agency": "Council of State and Territorial Epidemiologists",
+        "Country": ""
+      },
+      {
+        "GrantID": "UM1 AI068635",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "R01 AI121129-05S1",
+        "Agency": "National Institute of Allergy and Infectious Diseases",
+        "Country": ""
+      },
+      {
+        "GrantID": "R01 AI121129-05S1",
+        "Acronym": "NH",
+        "Agency": "NIH HHS",
+        "Country": "United States"
+      },
+      {
+        "GrantID": "UM1 AI068617",
+        "Acronym": "AI",
+        "Agency": "NIAID NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Switzerland",
+    "MedlineTA": "Viruses",
+    "NlmUniqueID": "101509722",
+    "ISSNLinking": "1999-4915"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "COVID-19 Vaccines"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "immunology",
+        "prevention & control",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "COVID-19 Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Theoretical"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Washington"
+    }
+  ],
+  "CoiStatement": "The authors declare no conflict of interest."
+}

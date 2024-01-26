@@ -1,0 +1,174 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Bibliometrics",
+      "COVID-19",
+      "Omics sciences",
+      "SARS-CoV-2",
+      "VOSviewer"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33310371",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "01",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2020",
+        "Month": "12",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.compbiomed.2020.104162",
+      "S0010-4825(20)30493-5"
+    ],
+    "Journal": {
+      "ISSN": "1879-0534",
+      "JournalIssue": {
+        "Volume": "128",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jan"
+        }
+      },
+      "Title": "Computers in biology and medicine",
+      "ISOAbbreviation": "Comput Biol Med"
+    },
+    "ArticleTitle": "Recent trends on omics and bioinformatics approaches to study SARS-CoV-2: A bibliometric analysis and mini-review.",
+    "Pagination": {
+      "StartPage": "104162",
+      "MedlinePgn": "104162"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The successful sequencing of SARS-CoV-2 cleared the way for the use of omics technologies and integrative biology research for combating the COVID-19 pandemic. Currently, many research groups have slowed down their respective projects to concentrate efforts in the study of the biology of SARS-CoV-2. In this bibliometric analysis and mini-review, we aimed to describe how computational methods or omics approaches were used during the first months of the COVID-19 pandemic.",
+        "We analyzed bibliometric data from Scopus, BioRxiv, and MedRxiv (dated June 19th, 2020) using quantitative and knowledge mapping approaches. We complemented our analysis with a manual process of carefully reading the selected articles to identify either the omics or bioinformatic tools used and their purpose.",
+        "From a total of 184 articles, we found that metagenomics and transcriptomics were the main sources of data to perform phylogenetic analysis aimed at corroborating zoonotic transmission, identifying the animal origin and taxonomic allocation of SARS-CoV-2. Protein sequence analysis, immunoinformatics and molecular docking were used to give insights about SARS-CoV-2 targets for drug and vaccine development. Most of the publications were from China and USA. However, China, Italy and India covered the top 10 most cited papers on this topic.",
+        "We found an abundance of publications using omics and bioinformatics approaches to establish the taxonomy and animal origin of SARS-CoV-2. We encourage the growing community of researchers to explore other lesser-known aspects of COVID-19 such as virus-host interactions and host response."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2020 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Engineering, Pontificia Universidad Javeriana-Cali, Cali, Colombia. Electronic address: juliethmurillo@javerianacali.edu.co."
+          }
+        ],
+        "LastName": "Murillo",
+        "ForeName": "Julieth",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Health, Universidad Del Valle, Cali, Colombia. Electronic address: lina.villegas@correounivalle.edu.co."
+          }
+        ],
+        "LastName": "Villegas",
+        "ForeName": "Lina Mar\u00eda",
+        "Initials": "LM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Agrobiology, Food and Natural Resources, Czech University of Life Sciences Prague, Czech Republic. Electronic address: ulloa_murillo@af.czu.cz."
+          }
+        ],
+        "LastName": "Ulloa-Murillo",
+        "ForeName": "Leidy Marcela",
+        "Initials": "LM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Faculty of Health, Universidad Del Valle, Cali, Colombia. Electronic address: alejandra.rodriguez@correounivalle.edu.co."
+          }
+        ],
+        "LastName": "Rodr\u00edguez",
+        "ForeName": "Alejandra Roc\u00edo",
+        "Initials": "AR"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Comput Biol Med",
+    "NlmUniqueID": "1250250",
+    "ISSNLinking": "0010-4825"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Bibliometrics"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Molecular Docking Simulation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phylogeny"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    }
+  ],
+  "CoiStatement": "None declared."
+}

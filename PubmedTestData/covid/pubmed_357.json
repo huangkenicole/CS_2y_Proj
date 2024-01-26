@@ -1,0 +1,249 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33596214",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "03",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "11",
+    "Day": "11"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "17"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e0246167",
+      "10.1371/journal.pone.0246167"
+    ],
+    "Journal": {
+      "ISSN": "1932-6203",
+      "JournalIssue": {
+        "Volume": "16",
+        "Issue": "2",
+        "PubDate": {
+          "Year": "2021"
+        }
+      },
+      "Title": "PloS one",
+      "ISOAbbreviation": "PLoS One"
+    },
+    "ArticleTitle": "Evidence and magnitude of the effects of meteorological changes on SARS-CoV-2 transmission.",
+    "Pagination": {
+      "StartPage": "e0246167",
+      "MedlinePgn": "e0246167"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Intensity and duration of the COVID-19 pandemic, and planning required to balance concerns of saving lives and avoiding economic collapse, could depend significantly on whether SARS-CoV-2 transmission is sensitive to seasonal changes.",
+        "Hypothesis is that increasing temperature results in reduced SARS CoV-2 transmission and may help slow the increase of cases over time.",
+        "Fifty representative Northern Hemisphere countries meeting specific criteria had sufficient COVID-19 case and meteorological data for analysis.",
+        "Regression was used to find the relationship between the log of number of COVID-19 cases and temperature over time in 50 representative countries. To summarize the day-day variability, and reduce dimensionality, we selected a robust measure, Coefficient of Time (CT), for each location. The resulting regression coefficients were then used in a multivariable regression against meteorological, country-level and demographic covariates.",
+        "Median minimum daily temperature showed the strongest correlation with the reciprocal of CT (which can be considered as a rate associated with doubling time) for confirmed cases (adjusted R2 = 0.610, p = 1.45E-06). A similar correlation was found using median daily dewpoint, which was highly colinear with temperature, and therefore was not used in the analysis. The correlation between minimum median temperature and the rate of increase of the log of confirmed cases was 47% and 45% greater than for cases of death and recovered cases of COVID-19, respectively. This suggests the primary influence of temperature is on SARS-CoV-2 transmission more than COVID-19 morbidity. Based on the correlation between temperature and the rate of increase in COVID-19, it can be estimated that, between the range of 30 to 100 degrees Fahrenheit, a one degree increase is associated with a 1% decrease-and a one degree decrease could be associated with a 3.7% increase-in the rate of increase of the log of daily confirmed cases. This model of the effect of decreasing temperatures can only be verified over time as the pandemic proceeds through colder months.",
+        "The results suggest that boreal summer months are associated with slower rates of COVID-19 transmission, consistent with the behavior of a seasonal respiratory virus. Knowledge of COVID-19 seasonality could prove useful in local planning for phased reductions social interventions and help to prepare for the timing of possible pandemic resurgence during cooler months."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-5196-7647"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departments of Psychiatry & Neurology, Johns Hopkins University SOM, Baltimore, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Kaplin",
+        "ForeName": "Adam",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [
+          "0000-0002-5037-9026"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Joint Artificial Intelligence Center, Pentagon, Washington, DC, United States of America."
+          }
+        ],
+        "LastName": "Junker",
+        "ForeName": "Caesar",
+        "Initials": "C"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departments of Psychiatry & Neurology, Johns Hopkins University SOM, Baltimore, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Kumar",
+        "ForeName": "Anupama",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "PUPA, Sao Paulo, Brazil."
+          }
+        ],
+        "LastName": "Ribeiro",
+        "ForeName": "Mary Anne",
+        "Initials": "MA"
+      },
+      {
+        "Identifier": [
+          "0000-0002-2567-5042"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departments of Psychiatry & Neurology, Johns Hopkins University SOM, Baltimore, Maryland, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Case Western Reserve University School of Medicine, Cleveland, Ohio, United States of America."
+          }
+        ],
+        "LastName": "Yu",
+        "ForeName": "Eileen",
+        "Initials": "E"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Departments of Psychiatry & Neurology, Johns Hopkins University SOM, Baltimore, Maryland, United States of America."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Michael",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Christina Lee Brown Envirome Institute, University of Louisville School of Medicine, Louisville, Kentucky, United States of America."
+          }
+        ],
+        "LastName": "Smith",
+        "ForeName": "Ted",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [
+          "0000-0002-8377-353X"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Christina Lee Brown Envirome Institute, University of Louisville School of Medicine, Louisville, Kentucky, United States of America."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Bioinformatics and Biostatistics, University of Louisville, Kentucky, United States of America."
+          }
+        ],
+        "LastName": "Rai",
+        "ForeName": "Shesh N",
+        "Initials": "SN"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Christina Lee Brown Envirome Institute, University of Louisville School of Medicine, Louisville, Kentucky, United States of America."
+          }
+        ],
+        "LastName": "Bhatnagar",
+        "ForeName": "Aruni",
+        "Initials": "A"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "P30 ES030283",
+        "Acronym": "ES",
+        "Agency": "NIEHS NIH HHS",
+        "Country": "United States"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS One",
+    "NlmUniqueID": "101285081",
+    "ISSNLinking": "1932-6203"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "metabolism",
+        "transmission"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Hot Temperature"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Meteorological Concepts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification",
+        "physiology"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Seasons"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Weather"
+    }
+  ],
+  "CoiStatement": "The authors of the study have read the journal\u2019s policy, and have the following competing interests to declare: MAAR is an employee of Pupa but contributed to this work independently of this affiliation. AK is currently employed by MyMD Pharmaceuticals; however, this affiliation was not held at the time this study was conducted. This does not alter our adherence to PLOS ONE policies on sharing data and materials. There are no patents, products in development or marketed products associated with this research to declare. The authors have declared that no other competing interests exist."
+}

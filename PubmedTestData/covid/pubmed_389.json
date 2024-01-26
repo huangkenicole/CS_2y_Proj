@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "bioinformatics",
+      "cloud computing",
+      "container-as-a-service",
+      "function-as-a-service",
+      "omics data integration",
+      "omics data processing",
+      "serverless computing"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34505137",
+  "DateCompleted": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "02",
+    "Day": "01"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "bbab349",
+      "10.1093/bib/bbab349"
+    ],
+    "Journal": {
+      "ISSN": "1477-4054",
+      "JournalIssue": {
+        "Volume": "23",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2022",
+          "Month": "Jan",
+          "Day": "17"
+        }
+      },
+      "Title": "Briefings in bioinformatics",
+      "ISOAbbreviation": "Brief Bioinform"
+    },
+    "ArticleTitle": "Serverless computing in omics data analysis and integration.",
+    "Abstract": {
+      "AbstractText": [
+        "A comprehensive analysis of omics data can require vast computational resources and access to varied data sources that must be integrated into complex, multi-step analysis pipelines. Execution of many such analyses can be accelerated by applying the cloud computing paradigm, which provides scalable resources for storing data of different types and parallelizing data analysis computations. Moreover, these resources can be reused for different multi-omics analysis scenarios. Traditionally, developers are required to manage a cloud platform's underlying infrastructure, configuration, maintenance and capacity planning. The serverless computing paradigm simplifies these operations by automatically allocating and maintaining both servers and virtual machines, as required for analysis tasks. This paradigm offers highly parallel execution and high scalability without manual management of the underlying infrastructure, freeing developers to focus on operational logic. This paper reviews serverless solutions in bioinformatics and evaluates their usage in omics data analysis and integration. We start by reviewing the application of the cloud computing model to a multi-omics data analysis and exposing some shortcomings of the early approaches. We then introduce the serverless computing paradigm and show its applicability for performing an integrative analysis of multiple omics data sources in the context of the COVID-19 pandemic."
+      ],
+      "CopyrightInformation": "\u00a9 The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Silesian University of Technology, Department of Applied Informatics, Gliwice 44-100, Poland."
+          }
+        ],
+        "LastName": "Grzesik",
+        "ForeName": "Piotr",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Silesian University of Technology, Department of Applied Informatics, Gliwice 44-100, Poland."
+          }
+        ],
+        "LastName": "Augustyn",
+        "ForeName": "Dariusz R",
+        "Initials": "DR"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Silesian University of Technology, Department of Applied Informatics, Gliwice 44-100, Poland."
+          }
+        ],
+        "LastName": "Wyci\u015blik",
+        "ForeName": "\u0141ukasz",
+        "Initials": "\u0141"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Silesian University of Technology, Department of Applied Informatics, Gliwice 44-100, Poland."
+          }
+        ],
+        "LastName": "Mrozek",
+        "ForeName": "Dariusz",
+        "Initials": "D"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "02/100/RGJ21/0009",
+        "Agency": "Silesian University of Technology",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Brief Bioinform",
+    "NlmUniqueID": "100912837",
+    "ISSNLinking": "1467-5463"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cloud Computing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Computational Biology"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Software"
+    }
+  ]
+}

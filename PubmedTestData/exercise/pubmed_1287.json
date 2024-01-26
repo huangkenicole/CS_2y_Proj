@@ -1,0 +1,125 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31374674",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "01",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "01",
+    "Day": "16"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/ICORR.2019.8779503"
+    ],
+    "Journal": {
+      "ISSN": "1945-7901",
+      "JournalIssue": {
+        "Volume": "2019",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Jun"
+        }
+      },
+      "Title": "IEEE ... International Conference on Rehabilitation Robotics : [proceedings]",
+      "ISOAbbreviation": "IEEE Int Conf Rehabil Robot"
+    },
+    "ArticleTitle": "Characterizing Intent Changes in Exoskeleton-Assisted Walking Through Onboard Sensors.",
+    "Pagination": {
+      "StartPage": "471",
+      "EndPage": "476",
+      "MedlinePgn": "471-476"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Robotic exoskeletons are a promising technology for rehabilitation and locomotion following musculoskeletal injury, but their adoption outside the physical therapy clinic has been limited by relatively primitive methods for identifying and incorporating the user's gait intentions. Various intent detection approaches have been demonstrated using electromyography and electroencephalography signals. These technologies sense the human directly but introduce complications for donning/doffing the device and in measurement consistency. By contrast, sensors onboard the exoskeleton avoid these complications but sense the human indirectly via the human-robot interface. This pilot study examines if onboard sensors alone may enable identification of user intent. Joint positions and commanded motor currents are compared prior to and after changes in the user's intended gait speed. Preliminary experimental results confirm that these measures are significantly different following intent changes for both able-bodied and non-able-bodied users. The findings suggest that intent detection is possible with onboard sensors alone, but the intent signals depend on exoskeleton control settings, user ability, and temporal considerations."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gambon",
+        "ForeName": "Taylor M",
+        "Initials": "TM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Schmiedeler",
+        "ForeName": "James P",
+        "Initials": "JP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wensing",
+        "ForeName": "Patrick M",
+        "Initials": "PM"
+      }
+    ],
+    "PublicationTypeList": [
+      "Clinical Trial",
+      "Journal Article",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Int Conf Rehabil Robot",
+    "NlmUniqueID": "101260913",
+    "ISSNLinking": "1945-7898"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electromyography"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Exercise Therapy"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Exoskeleton Device"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pilot Projects"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Walking"
+    }
+  ]
+}

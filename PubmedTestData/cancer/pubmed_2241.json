@@ -1,0 +1,200 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Cancer",
+      "Immune system",
+      "Immunotherapy",
+      "Mathematical model",
+      "Optimization",
+      "Tumor"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "28713023",
+  "DateCompleted": {
+    "Year": "2018",
+    "Month": "03",
+    "Day": "12"
+  },
+  "DateRevised": {
+    "Year": "2018",
+    "Month": "12",
+    "Day": "02"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2017",
+        "Month": "07",
+        "Day": "14"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.mbs.2017.07.006",
+      "S0025-5564(16)30271-1"
+    ],
+    "Journal": {
+      "ISSN": "1879-3134",
+      "JournalIssue": {
+        "Volume": "292",
+        "PubDate": {
+          "Year": "2017",
+          "Month": "Oct"
+        }
+      },
+      "Title": "Mathematical biosciences",
+      "ISOAbbreviation": "Math Biosci"
+    },
+    "ArticleTitle": "An extended mathematical model of tumor growth and its interaction with the immune system, to be used for developing an optimized immunotherapy treatment protocol.",
+    "Pagination": {
+      "StartPage": "1",
+      "EndPage": "9",
+      "MedlinePgn": "1-9"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Chemotherapy is usually known as the main modality for cancer treatment. Nevertheless, most of chronic cancers could not be treated with chemotherapy alone. Immunotherapy is a new modality for cancer treatment that is effective for early stages of cancer and it has fewer side effects compared to chemotherapy, specifically for those types of cancer that are resistant to it.",
+        "This work presents an extended mathematical model to depict interactions between cancerous and adaptive immune system in mouse. We called the model an extended model, because we embedded all those compartments that have important roles in response to tumor in one model. The model includes tumor cells, natural killers, na\u00efve and mature cytotoxic T cells, na\u00efve and mature helper T cells, regulatory T cells, dendritic cells and interleukin 2 cytokine. Whole cycle of cell division program of immune cells is also considered in the model. We also optimized protocol of immunotherapy with DC vaccine based on the proposed mathematical model.",
+        "Simulation results of the proposed model are in conformity with the experimental data recorded from mouse in immunology department of Tehran University of Medical Science as well as what has been explained in the literature. Our results explain dynamics of the immune cells from the first day of cancer growth and progression. Simulation result shows that reducing intervals between immunotherapy injections, efficacy of the treatment will be increased because CD8+ cells are boosted more rapidly. Optimized protocol for immunotherapy suggests that if the effect of DC vaccines on increasing number of anti-tumor immune cells be just before the maximum number of CD8+ cells, the effect of treatment will be maximized."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2017 Elsevier Inc. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CIPCE, Human Motor Control and Computational Neuroscience Lab, School of Electrical and Computer Engineering, College of Engineering, University of Tehran, Tehran, Iran. Electronic address: Milad.qomlaqi@ut.ac.ir."
+          }
+        ],
+        "LastName": "Qomlaqi",
+        "ForeName": "Milad",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "CIPCE, Human Motor Control and Computational Neuroscience Lab, School of Electrical and Computer Engineering, College of Engineering, University of Tehran, Tehran, Iran. Electronic address: fbahrami@ut.ac.ir."
+          }
+        ],
+        "LastName": "Bahrami",
+        "ForeName": "Fariba",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of immunology, Faculty of Medical Sciences, Tarbiat Modares University, Tehran, Iran. Electronic address: Ajami.Maryam@gmail.com."
+          }
+        ],
+        "LastName": "Ajami",
+        "ForeName": "Maryam",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Immunology, School of Medicine, Tehran University of Medical Science, Tehran, Iran. Electronic address: hajatij@tums.ac.ir."
+          }
+        ],
+        "LastName": "Hajati",
+        "ForeName": "Jamshid",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "Math Biosci",
+    "NlmUniqueID": "0103146",
+    "ISSNLinking": "0025-5564"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Cancer Vaccines"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Cancer Vaccines"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Clinical Protocols"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Dendritic Cells"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Immunotherapy"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Killer Cells, Natural"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mice"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "pathology",
+        "therapy"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "T-Lymphocytes"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "T-Lymphocytes, Cytotoxic"
+    }
+  ]
+}

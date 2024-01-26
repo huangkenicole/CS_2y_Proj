@@ -1,0 +1,171 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Copy number alteration",
+      "Genomics",
+      "Integrated analysis",
+      "Kidney cancer",
+      "mRNA",
+      "miRNA"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "31392539",
+  "DateCompleted": {
+    "Year": "2020",
+    "Month": "10",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2020",
+    "Month": "10",
+    "Day": "05"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2019",
+        "Month": "08",
+        "Day": "08"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1007/s12539-019-00345-8"
+    ],
+    "Journal": {
+      "ISSN": "1867-1462",
+      "JournalIssue": {
+        "Volume": "12",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2020",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Interdisciplinary sciences, computational life sciences",
+      "ISOAbbreviation": "Interdiscip Sci"
+    },
+    "ArticleTitle": "Integrative Analysis of Multi-Genomic Data for Kidney Renal Cell Carcinoma.",
+    "Pagination": {
+      "StartPage": "12",
+      "EndPage": "23",
+      "MedlinePgn": "12-23"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Accounting for nine out of ten kidney cancers, kidney renal cell carcinoma (KIRC) is by far the most common type of kidney cancer. In view of limited and ineffective available therapies, understanding the genetic basis of disease becomes important for better diagnosis and treatment. The present studies are based on a single type of\u00a0genomic data. These studies do not consider interactions between genomic data types and their underlying biological relationships in the disease. However,\u00a0the current availability of multiple genomic data and\u00a0the possibility of combining\u00a0it have facilitated a better understanding of the cancer's characterization. But high dimensionality and\u00a0the existence of complex interactions (within and between genomic data types) are the two main challenges of integrative methods to analyze cancer effectively. In this paper, we propose a method to build an integrative model based on Bayesian model averaging procedure for improved prediction of clinical outcome in cancer survival. The proposed method initially\u00a0uses dimensionality reduction techniques to generate low-dimensional latent features for the predictive models and then incorporates interactions between them. It defines the latent features using principal components and their sparse version. It compares the predictive performance of models based on these two latent features on real data.\u00a0These models also validate several ccRCC-specific cancer biomarkers previously reported in the literature. Applied on kidney renal cell carcinoma (KIRC) dataset of The Cancer Genome Atlas (TCGA), the method achieves better prediction with sparse principal components model by including latent feature interactions as compared to without including them."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University Institute of Engineering and Technology, Panjab University, Chandigarh, 160014, India."
+          }
+        ],
+        "LastName": "Singh",
+        "ForeName": "Ashwinder",
+        "Initials": "A"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "University Institute of Engineering and Technology, Panjab University, Chandigarh, 160014, India. erneelam@pu.ac.in."
+          }
+        ],
+        "LastName": "Goel",
+        "ForeName": "Neelam",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science, National Institute of Technology, Meghalaya, 793003, India."
+          }
+        ],
+        "LastName": "Yogita"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Germany",
+    "MedlineTA": "Interdiscip Sci",
+    "NlmUniqueID": "101515919",
+    "ISSNLinking": "1867-1462"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "MicroRNAs"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Messenger"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Carcinoma, Renal Cell"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "DNA Copy Number Variations"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Kidney Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "MicroRNAs"
+    },
+    {
+      "QualifierName": [
+        "metabolism"
+      ],
+      "DescriptorName": "RNA, Messenger"
+    }
+  ]
+}

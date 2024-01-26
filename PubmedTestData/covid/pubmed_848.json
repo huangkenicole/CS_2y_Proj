@@ -1,0 +1,189 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "COVID-19",
+      "Clustering",
+      "Multiple sequence alignment",
+      "Non-synonymous SNP",
+      "SARS-CoV-2"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33781798",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "04",
+    "Day": "29"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "12",
+    "Day": "17"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "03",
+        "Day": "26"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.virusres.2021.198401",
+      "S0168-1702(21)00108-8"
+    ],
+    "Journal": {
+      "ISSN": "1872-7492",
+      "JournalIssue": {
+        "Volume": "298",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Jun"
+        }
+      },
+      "Title": "Virus research",
+      "ISOAbbreviation": "Virus Res"
+    },
+    "ArticleTitle": "Genome-wide analysis of 10664 SARS-CoV-2 genomes to identify virus strains in 73 countries based on single nucleotide polymorphism.",
+    "Pagination": {
+      "StartPage": "198401",
+      "MedlinePgn": "198401"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Since the onslaught of SARS-CoV-2, the research community has been searching for a vaccine to fight against this virus. However, during this period, the virus has mutated to adapt to the different environmental conditions in the world and made the task of vaccine design more challenging. In this situation, the identification of virus strains is very much timely and important task. We have performed genome-wide analysis of 10664 SARS-CoV-2 genomes of 73 countries to identify and prepare a Single Nucleotide Polymorphism (SNP) dataset of SARS-CoV-2. Thereafter, with the use of this SNP data, the advantage of hierarchical clustering is taken care of in such a way so that Average Linkage and Complete Linkage with Jaccard and Hamming distance functions are applied separately in order to identify the virus strains as clusters present in the SNP data. In this regard, the consensus of both the clustering results are also considered while Silhouette index is used as a cluster validity index to measure the goodness of the clusters as well to determine the number of clusters or virus strains. As a result, we have identified five major clusters or virus strains present worldwide. Apart from quantitative measures, these clusters are also visualized using Visual Assessment of Tendency (VAT) plot. The evolution of these clusters are also shown. Furthermore, top 10 signature SNPs are identified in each cluster and the non-synonymous signature SNPs are visualised in the respective protein structures. Also, the sequence and structural homology-based prediction along with the protein structural stability of these non-synonymous signature SNPs are reported in order to judge the characteristics of the identified clusters. As a consequence, T85I, Q57H and R203M in NSP2, ORF3a and Nucleocapsid respectively are found to be responsible for Cluster 1 as they are damaging and unstable non-synonymous signature SNPs. Similarly, F506L and S507C in Exon are responsible for both Clusters 3 and 4 while Clusters 2 and 5 do not exhibit such behaviour due to the absence of any non-synonymous signature SNPs. In addition to all these, the code, SNP dataset, 10664 labelled SARS-CoV-2 strains and additional results as supplementary are provided through our website for further use."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2021 Elsevier B.V. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Information Technology, Institute of Technical Education and Research, Siksha 'O' Anusandhan (Deemed to be University), Bhubaneswar, Odisha, India."
+          }
+        ],
+        "LastName": "Ghosh",
+        "ForeName": "Nimisha",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, National Institute of Technical Teachers' Training and Research, Kolkata, West Bengal, India. Electronic address: indrajit@nitttrkol.ac.in."
+          }
+        ],
+        "LastName": "Saha",
+        "ForeName": "Indrajit",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Electronics and Communication Engineering, Jaypee Institute of Information Technology, Noida, Uttar Pradesh, India."
+          }
+        ],
+        "LastName": "Sharma",
+        "ForeName": "Nikhil",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Computer Science and Engineering, National Institute of Technical Teachers' Training and Research, Kolkata, West Bengal, India."
+          }
+        ],
+        "LastName": "Nandi",
+        "ForeName": "Suman",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Laboratory of Bioinformatics and Computational Genomics, Faculty of Mathematics and Information Science, Warsaw University of Technology, Warsaw, Poland; Laboratory of Functional and Structural Genomics, Centre of New Technologies, University of Warsaw, Warsaw, Poland."
+          }
+        ],
+        "LastName": "Plewczynski",
+        "ForeName": "Dariusz",
+        "Initials": "D"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Virus Res",
+    "NlmUniqueID": "8410979",
+    "ISSNLinking": "0168-1702"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "epidemiology",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Nucleic Acid"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Evolution, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Pandemics"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Polymorphism, Single Nucleotide"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "genetics"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sequence Alignment"
+    }
+  ]
+}

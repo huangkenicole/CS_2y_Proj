@@ -1,0 +1,233 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30208108",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "01",
+    "Day": "22"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "01",
+    "Day": "22"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "09",
+        "Day": "12"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "e1007291",
+      "10.1371/journal.ppat.1007291"
+    ],
+    "Journal": {
+      "ISSN": "1553-7374",
+      "JournalIssue": {
+        "Volume": "14",
+        "Issue": "9",
+        "PubDate": {
+          "Year": "2018",
+          "Month": "Sep"
+        }
+      },
+      "Title": "PLoS pathogens",
+      "ISOAbbreviation": "PLoS Pathog"
+    },
+    "ArticleTitle": "Antigenic evolution of viruses in host populations.",
+    "Pagination": {
+      "StartPage": "e1007291",
+      "MedlinePgn": "e1007291"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "To escape immune recognition in previously infected hosts, viruses evolve genetically in immunologically important regions. The host's immune system responds by generating new memory cells recognizing the mutated viral strains. Despite recent advances in data collection and analysis, it remains conceptually unclear how epidemiology, immune response, and evolutionary factors interact to produce the observed speed of evolution and the incidence of infection. Here we establish a general and simple relationship between long-term cross-immunity, genetic diversity, speed of evolution, and incidence. We develop an analytic method fusing the standard epidemiological susceptible-infected-recovered approach and the modern virus evolution theory. The model includes the factors of strain selection due to immune memory cells, random genetic drift, and clonal interference effects. We predict that the distribution of recovered individuals in memory serotypes creates a moving fitness landscape for the circulating strains which drives antigenic escape. The fitness slope (effective selection coefficient) is proportional to the reproductive number in the absence of immunity R0 and inversely proportional to the cross-immunity distance a, defined as the genetic distance of a virus strain from a previously infecting strain conferring 50% decrease in infection probability. Analysis predicts that the evolution rate increases linearly with the fitness slope and logarithmically with the genomic mutation rate and the host population size. Fitting our analytic model to data obtained for influenza A H3N2 and H1N1, we predict the annual infection incidence within a previously estimated range, (4-7)%, and the antigenic mutation rate of Ub = (5 - 8) \u22c5 10(-4) per transmission event per genome. Our prediction of the cross-immunity distance of a = (14 - 15) aminoacid substitutions agrees with independent data for equine influenza."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0002-0744-6705"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Sorbonne Universit\u00e9, Institute de Biologie Paris-Seine, Laboratoire de Biologie Computationelle et Quantitative, LCQB, F-75004 Paris, France."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Theoretical Physics, University of Cologne, Germany."
+          }
+        ],
+        "LastName": "Rouzine",
+        "ForeName": "Igor M",
+        "Initials": "IM"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Institute of Theoretical Physics, University of Cologne, Germany."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "BioISI - Biosystems and Integrative Sciences Institute, Faculdade de Ci\u00eancias, Universidade de Lisboa, Lisboa, Portugal."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Utrecht, The Netherlands."
+          }
+        ],
+        "LastName": "Rozhnova",
+        "ForeName": "Ganna",
+        "Initials": "G"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "PLoS Pathog",
+    "NlmUniqueID": "101238921",
+    "ISSNLinking": "1553-7366"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antigens, Viral"
+    }
+  ],
+  "CommentsCorrectionsList": [
+    {
+      "RefSource": "PLoS Pathog. 2020 Aug 12;16(8):e1008830",
+      "PMID": "32785264"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Amino Acid Substitution"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Animals"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Antigens, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Evolution, Molecular"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Drift"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genome, Viral"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "Horse Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Horses"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Immunologic Memory"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Influenza A Virus, H1N1 Subtype"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Influenza A Virus, H3N2 Subtype"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "pathogenicity"
+      ],
+      "DescriptorName": "Influenza A virus"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "Influenza, Human"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Genetic"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Immunological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mutation"
+    },
+    {
+      "QualifierName": [
+        "immunology",
+        "veterinary",
+        "virology"
+      ],
+      "DescriptorName": "Orthomyxoviridae Infections"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Stochastic Processes"
+    }
+  ],
+  "CoiStatement": "The authors have declared that no competing interests exist."
+}

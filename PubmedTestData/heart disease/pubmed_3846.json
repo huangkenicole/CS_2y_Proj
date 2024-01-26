@@ -1,0 +1,205 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Gene expression profile",
+      "Gene set enrichment analysis",
+      "Heart disease",
+      "Herbal ingredient",
+      "Immune system"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "30579974",
+  "DateCompleted": {
+    "Year": "2019",
+    "Month": "09",
+    "Day": "03"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "09",
+    "Day": "03"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2018",
+        "Month": "12",
+        "Day": "21"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1016/j.phrs.2018.12.016",
+      "S1043-6618(18)31607-4"
+    ],
+    "Journal": {
+      "ISSN": "1096-1186",
+      "JournalIssue": {
+        "Volume": "141",
+        "PubDate": {
+          "Year": "2019",
+          "Month": "Mar"
+        }
+      },
+      "Title": "Pharmacological research",
+      "ISOAbbreviation": "Pharmacol Res"
+    },
+    "ArticleTitle": "Network pharmacology based investigation of the effects of herbal ingredients on the immune dysfunction in heart disease.",
+    "Pagination": {
+      "StartPage": "104",
+      "EndPage": "113",
+      "MedlinePgn": "104-113"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Dysregulated immune system has been implicated in the pathogenesis of various cardiovascular diseases. Therefore, development of pharmacological interventions targeting the immune system is promising. However, therapy with most common anti-inflammatory and immunomodulatory agents has proved challenging in the clinical translation. It has been proved that many herbal ingredients display definite therapeutic effects on preventing excessive inflammatory and immune responses. Here, we aim to systemically explore the immunomodulatory ability of herbal ingredients on the human heart tissue-specific immune dysfunction through a network pharmacology based approach. The approach matches gene expression data between herbal ingredients and human heart phenotype based on their immunological similarities. Firstly, 608 immunological signatures were produced from 304 transcriptional profiles of immunological cell state changes. Then, the immunological features of 28 human heart phenotypes and 102 herbal ingredients were constructed by calculating the enrichments of each immune signature in the transcriptional profiles of heart phenotypes and herbal ingredients, respectively. Finally, the likelihood that an herbal drug affects the immune system in a heart phenotype was qualified by calculating the immunological similarity between the herbal drug and the heart phenotype. This strategy integrating different types of OMICs data is expected to help create new opportunities for development of drugs targeting the immune dysfunction in heart disease."
+      ],
+      "CopyrightInformation": "Copyright \u00a9 2018 Elsevier Ltd. All rights reserved."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing University of Chinese Medicine, Chao Yang District, Beijing, 100029, PR China; Shanxi Agricultural University, Taigu, Shanxi Province, 030801, PR China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Peng",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing University of Chinese Medicine, Chao Yang District, Beijing, 100029, PR China."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Jing",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Shanxi Agricultural University, Taigu, Shanxi Province, 030801, PR China."
+          }
+        ],
+        "LastName": "Zhang",
+        "ForeName": "Wuxia",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing University of Chinese Medicine, Chao Yang District, Beijing, 100029, PR China."
+          }
+        ],
+        "LastName": "Li",
+        "ForeName": "Hongmei",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing University of Chinese Medicine, Chao Yang District, Beijing, 100029, PR China."
+          }
+        ],
+        "LastName": "Wang",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Beijing University of Chinese Medicine, Chao Yang District, Beijing, 100029, PR China. Electronic address: Cjx@bucm.edu.cn."
+          }
+        ],
+        "LastName": "Chen",
+        "ForeName": "Jianxin",
+        "Initials": "J"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "Netherlands",
+    "MedlineTA": "Pharmacol Res",
+    "NlmUniqueID": "8907422",
+    "ISSNLinking": "1043-6618"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Immunologic Factors"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Plant Preparations"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Immunologic Factors"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Myocardium"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Phenotype"
+    },
+    {
+      "QualifierName": [
+        "pharmacology"
+      ],
+      "DescriptorName": "Plant Preparations"
+    },
+    {
+      "QualifierName": [
+        "drug effects"
+      ],
+      "DescriptorName": "Transcriptome"
+    }
+  ]
+}

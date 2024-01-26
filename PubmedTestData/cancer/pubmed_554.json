@@ -1,0 +1,142 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "37195839",
+  "DateCompleted": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2023",
+    "Month": "10",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2023",
+        "Month": "10",
+        "Day": "03"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/TNB.2023.3277316"
+    ],
+    "Journal": {
+      "ISSN": "1558-2639",
+      "JournalIssue": {
+        "Volume": "22",
+        "Issue": "4",
+        "PubDate": {
+          "Year": "2023",
+          "Month": "Oct"
+        }
+      },
+      "Title": "IEEE transactions on nanobioscience",
+      "ISOAbbreviation": "IEEE Trans Nanobioscience"
+    },
+    "ArticleTitle": "A Graph Convolution Network-Based Model for Prioritizing Personalized Cancer Driver Genes of Individual Patients.",
+    "Pagination": {
+      "StartPage": "744",
+      "EndPage": "754",
+      "MedlinePgn": "744-754"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Cancer driver genes are mutated genes that play a key role in the growth of cancer cells. Accurately identifying the cancer driver genes helps us understand cancer's pathogenesis and develop effective treatment strategies. However, cancers are highly heterogeneous diseases; patients with the same cancer type may have different genomic characteristics and clinical symptoms. Hence, it is urgent to devise effective methods to identify personalized cancer driver genes of individual patients to help determine whether a patient can be treated with a certain targeted drug. This work presents a method for predicting personalized cancer Driver genes of individual patients based on Graph Convolution Networks and Neighbor Interactions called NIGCNDriver. NIGCNDriver first constructs a gene-sample association matrix using the associations between a sample and its known driver genes. Then, it employs graph convolution models on the gene-sample network to aggregate neighbor node features, and themself features, and then combines with the element-wise level interactions between neighbors to learn new feature representations for the samples and gene nodes. Finally, a linear correlation coefficient decoder is used to reconstruct the association between the sample and the mutant gene, enabling the prediction of a personalized driver gene for the individual sample. We applied the NIGCNDriver method to predict cancer driver genes for individual samples in the TCGA and cancer cell line datasets. The results show that our method outperforms the baseline methods in cancer driver gene prediction for individual samples."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Peng",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Yu",
+        "ForeName": "Piaofang",
+        "Initials": "P"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dai",
+        "ForeName": "Wei",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Fu",
+        "ForeName": "Xiaodong",
+        "Initials": "X"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Liu",
+        "ForeName": "Li",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pan",
+        "ForeName": "Yi",
+        "Initials": "Y"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE Trans Nanobioscience",
+    "NlmUniqueID": "101152869",
+    "ISSNLinking": "1536-1241"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Oncogenes"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Genomics"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Neoplasms"
+    },
+    {
+      "QualifierName": [
+        "genetics"
+      ],
+      "DescriptorName": "Gene Regulatory Networks"
+    }
+  ]
+}

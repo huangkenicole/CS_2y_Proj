@@ -1,0 +1,149 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "23895263",
+  "DateCompleted": {
+    "Year": "2013",
+    "Month": "12",
+    "Day": "10"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "21"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1080/17513758.2013.820358"
+    ],
+    "Journal": {
+      "ISSN": "1751-3766",
+      "JournalIssue": {
+        "Volume": "7",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2013"
+        }
+      },
+      "Title": "Journal of biological dynamics",
+      "ISOAbbreviation": "J Biol Dyn"
+    },
+    "ArticleTitle": "Linking immunological and epidemiological dynamics of HIV: the case of super-infection.",
+    "Pagination": {
+      "StartPage": "161",
+      "EndPage": "182",
+      "MedlinePgn": "161-82"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "In this paper, a two-strain model that links immunological and epidemiological dynamics across scales is formulated. On the within-host scale, the two strains eliminate each other with the strain with the larger immunological reproduction persisting. However, on the population scale superinfection is possible, with the strain with larger immunological reproduction number super-infecting the strain with the smaller immunological reproduction number. The two models are linked through the age-since-infection structure of the epidemiological variables. In addition, the between-host transmission and the disease-induced death rate depend on the within-host viral load. The immunological reproduction numbers, the epidemiological reproduction numbers and invasion reproduction numbers are computed. Besides the disease-free equilibrium, there are two population-level strain one and strain two isolated equilibria, as well as a population-level coexistence equilibrium when both invasion reproduction numbers are greater than one. The single-strain population-level equilibria are locally asymptotically stable suggesting that in the absence of superinfection oscillations do not occur, a result contrasting previous studies of HIV age-since-infection structured models. Simulations suggest that the epidemiological reproduction number and HIV population prevalence are monotone functions of the within-host parameters with reciprocal trends. In particular, HIV medications that decrease within-host viral load also increase overall population prevalence. The effect of the immunological parameters on the population reproduction number and prevalence is more pronounced when the initial viral load is lower."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Mathematics, University of Florida, 358 Little Hall, PO Box 118105, Gainesville, FL 32611-8105, USA. maia@math.ufl.edu"
+          }
+        ],
+        "LastName": "Martcheva",
+        "ForeName": "Maia",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Li",
+        "ForeName": "Xue-Zhi",
+        "Initials": "XZ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "J Biol Dyn",
+    "NlmUniqueID": "101299725",
+    "ISSNLinking": "1751-3758"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Age Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Epidemiologic Factors"
+    },
+    {
+      "QualifierName": [
+        "classification",
+        "pathogenicity"
+      ],
+      "DescriptorName": "HIV"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "HIV Infections"
+    },
+    {
+      "QualifierName": [
+        "immunology"
+      ],
+      "DescriptorName": "Host-Pathogen Interactions"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Mathematical Concepts"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Models, Biological"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prevalence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Species Specificity"
+    },
+    {
+      "QualifierName": [
+        "epidemiology",
+        "immunology",
+        "virology"
+      ],
+      "DescriptorName": "Superinfection"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Viral Load"
+    }
+  ]
+}

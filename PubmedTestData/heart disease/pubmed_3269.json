@@ -1,0 +1,128 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "22034985",
+  "DateCompleted": {
+    "Year": "2012",
+    "Month": "05",
+    "Day": "18"
+  },
+  "DateRevised": {
+    "Year": "2022",
+    "Month": "03",
+    "Day": "30"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2011",
+        "Month": "10",
+        "Day": "31"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1186/1752-0509-5-179"
+    ],
+    "Journal": {
+      "ISSN": "1752-0509",
+      "JournalIssue": {
+        "Volume": "5",
+        "PubDate": {
+          "Year": "2011",
+          "Month": "Oct",
+          "Day": "31"
+        }
+      },
+      "Title": "BMC systems biology",
+      "ISOAbbreviation": "BMC Syst Biol"
+    },
+    "ArticleTitle": "Inferring pleiotropy by network analysis: linked diseases in the human PPI network.",
+    "Pagination": {
+      "StartPage": "179",
+      "MedlinePgn": "179"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Earlier, we identified proteins connecting different disease proteins in the human protein-protein interaction network and quantified their mediator role. An analysis of the networks of these mediators shows that proteins connecting heart disease and diabetes largely overlap with the ones connecting heart disease and obesity.",
+        "We quantified their overlap, and based on the identified topological patterns, we inferred the structural disease-relatedness of several proteins. Literature data provide a functional look of them, well supporting our findings. For example, the inferred structurally important role of the PDZ domain-containing protein GIPC1 in diabetes is supported despite the lack of this information in the Online Mendelian Inheritance in Man database. Several key mediator proteins identified here clearly has pleiotropic effects, supported by ample evidence for their general but always of only secondary importance.",
+        "We suggest that studying central nodes in mediator networks may contribute to better understanding and quantifying pleiotropy. Network analysis provides potentially useful tools here, as well as helps in improving databases."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "The Microsoft Research-University of Trento, Centre for Computational and Systems Biology, Povo/Trento, Italy."
+          }
+        ],
+        "LastName": "Nguyen",
+        "ForeName": "Thanh-Phuong",
+        "Initials": "TP"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Liu",
+        "ForeName": "Wei-chung",
+        "Initials": "WC"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Jord\u00e1n",
+        "ForeName": "Ferenc",
+        "Initials": "F"
+      }
+    ],
+    "PublicationTypeList": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Syst Biol",
+    "NlmUniqueID": "101301827",
+    "ISSNLinking": "1752-0509"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Diabetes Mellitus"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Genetic Pleiotropy"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "metabolism"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Protein Interaction Maps"
+    }
+  ]
+}

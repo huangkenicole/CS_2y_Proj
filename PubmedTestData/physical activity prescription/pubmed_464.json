@@ -1,0 +1,167 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "8871895",
+  "DateCompleted": {
+    "Year": "1997",
+    "Month": "01",
+    "Day": "16"
+  },
+  "DateRevised": {
+    "Year": "2019",
+    "Month": "12",
+    "Day": "10"
+  },
+  "Article": {
+    "ArticleDate": [],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [],
+    "Journal": {
+      "ISSN": "0307-7640",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "1996",
+          "Season": "Jan-Mar"
+        }
+      },
+      "Title": "Medical informatics = Medecine et informatique",
+      "ISOAbbreviation": "Med Inform (Lond)"
+    },
+    "ArticleTitle": "Decision support for insulin regime prescription based on a neural-network approach.",
+    "Pagination": {
+      "StartPage": "23",
+      "EndPage": "34",
+      "MedlinePgn": "23-34"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Insulin regime prescription is performed by medical personnel based on a number of patient related factors such as age, activity, type of current medication, desirable control, whether the patient belongs to a special category, for example whether he has fever or has undergone surgery, etc. No general rules apply so that each expert adopts his/her own rules for insulin regime specification based on his/her experience, intuition and expertise. This is why there is very little in medical literature concerning this issue. This paper describes a system supporting the decision making of medical personnel with respect to the specification of insulin regimes, based on a neural network methodology. In particular, an adaptive version of the backpropagation algorithm is used for the system training. This algorithm dramatically reduces training time and guarantees the monotonically decreasing nature of the error function. The training set consisted of one hundred and eight training vectors. The system offers support with respect to diabetes management by insulin regime prescription. The choice of the factors participating in the decision making of the system described in this paper, is based on an extensive interviewing of a number of diabetologists in leading diabetological centres in Greece."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Lab. of Medical Informatics, Aristotelian University of Thessaloniki, Macedonia, Greece."
+          }
+        ],
+        "LastName": "Ambrosiadou",
+        "ForeName": "B V",
+        "Initials": "BV"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Gogou",
+        "ForeName": "G",
+        "Initials": "G"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Maglaveras",
+        "ForeName": "N",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pappas",
+        "ForeName": "C",
+        "Initials": "C"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Med Inform (Lond)",
+    "NlmUniqueID": "7612096",
+    "ISSNLinking": "0307-7640"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Insulin"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Algorithms"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Child"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "physiopathology"
+      ],
+      "DescriptorName": "Diabetes Mellitus, Type 1"
+    },
+    {
+      "QualifierName": [
+        "drug therapy",
+        "physiopathology"
+      ],
+      "DescriptorName": "Diabetes Mellitus, Type 2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Administration Schedule"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Drug Prescriptions"
+    },
+    {
+      "QualifierName": [
+        "physiology"
+      ],
+      "DescriptorName": "Exercise"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "administration & dosage"
+      ],
+      "DescriptorName": "Insulin"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Neural Networks, Computer"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "User-Computer Interface"
+    }
+  ]
+}

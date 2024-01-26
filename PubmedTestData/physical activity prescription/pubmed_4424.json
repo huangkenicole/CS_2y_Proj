@@ -1,0 +1,157 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "25546868",
+  "DateCompleted": {
+    "Year": "2016",
+    "Month": "09",
+    "Day": "05"
+  },
+  "DateRevised": {
+    "Year": "2016",
+    "Month": "01",
+    "Day": "06"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2014",
+        "Month": "12",
+        "Day": "23"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "10.1109/JBHI.2014.2385694"
+    ],
+    "Journal": {
+      "ISSN": "2168-2208",
+      "JournalIssue": {
+        "Volume": "20",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2016",
+          "Month": "Jan"
+        }
+      },
+      "Title": "IEEE journal of biomedical and health informatics",
+      "ISOAbbreviation": "IEEE J Biomed Health Inform"
+    },
+    "ArticleTitle": "Personalized Multilayer Daily Life Profiling Through Context Enabled Activity Classification and Motion Reconstruction: An Integrated System Approach.",
+    "Pagination": {
+      "StartPage": "177",
+      "EndPage": "188",
+      "MedlinePgn": "177-88"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Profiling the daily activity of a physically disabled person in the community would enable healthcare professionals to monitor the type, quantity, and quality of their patients' compliance with recommendations for exercise, fitness, and practice of skilled movements, as well as enable feedback about performance in real-world situations. Based on our early research in in-community activity profiling, we present in this paper an end-to-end system capable of reporting a patient's daily activity at multiple levels of granularity: 1) at the highest level, information on the location categories a patient is able to visit; 2) within each location category, information on the activities a patient is able to perform; and 3) at the lowest level, motion trajectory, visualization, and metrics computation of each activity. Our methodology is built upon a physical activity prescription model coupled with MEMS inertial sensors and mobile device kits that can be sent to a patient at home. A novel context-guided activity-monitoring concept with categorical location context is used to achieve enhanced classification accuracy and throughput. The methodology is then seamlessly integrated with motion reconstruction and metrics computation to provide comprehensive layered reporting of a patient's daily life. We also present an implementation of the methodology featuring a novel location context detection algorithm using WiFi augmented GPS and overlays, with motion reconstruction and visualization algorithms for practical in-community deployment. Finally, we use a series of experimental field evaluations to confirm the accuracy of the system."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Xu",
+        "ForeName": "James Y",
+        "Initials": "JY"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Wang",
+        "ForeName": "Yan",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Barrett",
+        "ForeName": "Mick",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Dobkin",
+        "ForeName": "Bruce",
+        "Initials": "B"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Pottie",
+        "ForeName": "Greg J",
+        "Initials": "GJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [],
+        "LastName": "Kaiser",
+        "ForeName": "William J",
+        "Initials": "WJ"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "United States",
+    "MedlineTA": "IEEE J Biomed Health Inform",
+    "NlmUniqueID": "101604520",
+    "ISSNLinking": "2168-2194"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "classification"
+      ],
+      "DescriptorName": "Activities of Daily Living"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Gait"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Geographic Information Systems"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [
+        "instrumentation",
+        "methods"
+      ],
+      "DescriptorName": "Monitoring, Ambulatory"
+    },
+    {
+      "QualifierName": [
+        "methods"
+      ],
+      "DescriptorName": "Telemedicine"
+    }
+  ]
+}

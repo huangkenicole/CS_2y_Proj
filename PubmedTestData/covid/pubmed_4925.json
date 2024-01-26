@@ -1,0 +1,347 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "34493744",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "14"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "09",
+    "Day": "14"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "09",
+        "Day": "07"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "17793",
+      "10.1038/s41598-021-96934-z"
+    ],
+    "Journal": {
+      "ISSN": "2045-2322",
+      "JournalIssue": {
+        "Volume": "11",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Sep",
+          "Day": "07"
+        }
+      },
+      "Title": "Scientific reports",
+      "ISOAbbreviation": "Sci Rep"
+    },
+    "ArticleTitle": "Implementation of an efficient SARS-CoV-2 specimen pooling strategy for high throughput diagnostic testing.",
+    "Pagination": {
+      "StartPage": "17793",
+      "MedlinePgn": "17793"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "The rapid identification and isolation of infected individuals remains a key strategy for controlling the spread of SARS-CoV-2. Frequent testing of populations to detect infection early in asymptomatic or presymptomatic individuals can be a powerful tool for intercepting transmission, especially when the viral prevalence is low. However, RT-PCR testing-the gold standard of SARS-CoV-2 diagnosis-is expensive, making regular testing of every individual unfeasible. Sample pooling is one approach to lowering costs. By combining samples and testing them in groups the number of tests required is reduced, substantially lowering costs. Here we report on the implementation of pooling strategies using 3-d and 4-d hypercubes to test a professional sports team in South Africa. We have shown that infected samples can be reliably detected in groups of 27 and 81, with minimal loss of assay sensitivity for samples with individual Ct values of up to 32. We report on the automation of sample pooling, using a liquid-handling robot and an automated web interface to identify positive samples. We conclude that hypercube pooling allows for the reliable RT-PCR detection of SARS-CoV-2 infection, at significantly lower costs than lateral flow antigen (LFA) tests."
+      ],
+      "CopyrightInformation": "\u00a9 2021. The Author(s)."
+    },
+    "AuthorList": [
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of Laboratory Medicine & Medical Sciences, University of KwaZulu-Natal, Durban, South Africa. singhl@ukzn.ac.za."
+          }
+        ],
+        "LastName": "Singh",
+        "ForeName": "Lavanya",
+        "Initials": "L"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of Laboratory Medicine & Medical Sciences, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Anyaneji",
+        "ForeName": "Ugochukwu J",
+        "Initials": "UJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "African Institute for Mathematical Sciences, The Next Einstein Initiative, Kigali, Rwanda. wndifon@nexteinstein.org."
+          }
+        ],
+        "LastName": "Ndifon",
+        "ForeName": "Wilfred",
+        "Initials": "W"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Higgs Centre for Theoretical Physics, School of Physics and Astronomy, University of Edinburgh, Edinburgh, UK."
+          }
+        ],
+        "LastName": "Turok",
+        "ForeName": "Neil",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of Laboratory Medicine & Medical Sciences, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Mattison",
+        "ForeName": "Stacey A",
+        "Initials": "SA"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of Laboratory Medicine & Medical Sciences, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Lessells",
+        "ForeName": "Richard",
+        "Initials": "R"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Chemistry and Physics, University of Kwa-Zulu Natal, Westville, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute for Theoretical and Computational Sciences (NITheCS), KwaZulu-Natal, South Africa."
+          }
+        ],
+        "LastName": "Sinayskiy",
+        "ForeName": "Ilya",
+        "Initials": "I"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of Laboratory Medicine & Medical Sciences, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "San",
+        "ForeName": "Emmanuel J",
+        "Initials": "EJ"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of Laboratory Medicine & Medical Sciences, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Tegally",
+        "ForeName": "Houriiyah",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Discipline of Electrical, Electronic and Computer Engineering, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Barnett",
+        "ForeName": "Shaun",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Discipline of Electrical, Electronic and Computer Engineering, University of KwaZulu-Natal, Durban, South Africa."
+          }
+        ],
+        "LastName": "Lorimer",
+        "ForeName": "Trevor",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "School of Chemistry and Physics, University of Kwa-Zulu Natal, Westville, South Africa."
+          },
+          {
+            "Identifier": [],
+            "Affiliation": "National Institute for Theoretical and Computational Sciences (NITheCS), KwaZulu-Natal, South Africa."
+          }
+        ],
+        "LastName": "Petruccione",
+        "ForeName": "Francesco",
+        "Initials": "F"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of Laboratory Medicine & Medical Sciences, University of KwaZulu-Natal, Durban, South Africa. tuliodna@gmail.com."
+          }
+        ],
+        "LastName": "de Oliveira",
+        "ForeName": "Tulio",
+        "Initials": "T"
+      }
+    ],
+    "GrantList": [
+      {
+        "GrantID": "DSI/CON 0000/2020",
+        "Agency": "Department of Science and Innovation, South Africa",
+        "Country": ""
+      },
+      {
+        "GrantID": "DSI/CON 0000/2020",
+        "Agency": "Department of Science and Innovation, South Africa",
+        "Country": ""
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "Sci Rep",
+    "NlmUniqueID": "101563288",
+    "ISSNLinking": "2045-2322"
+  },
+  "ChemicalList": [
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "Antigens, Viral"
+    },
+    {
+      "RegistryNumber": "0",
+      "NameOfSubstance": "RNA, Viral"
+    }
+  ],
+  "MeshHeadingList": [
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "Antigens, Viral"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Athletes"
+    },
+    {
+      "QualifierName": [
+        "blood",
+        "diagnosis",
+        "virology"
+      ],
+      "DescriptorName": "COVID-19"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Nucleic Acid Testing"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "methods"
+      ],
+      "DescriptorName": "COVID-19 Serological Testing"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Cost Savings"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "methods"
+      ],
+      "DescriptorName": "High-Throughput Screening Assays"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [
+        "isolation & purification"
+      ],
+      "DescriptorName": "RNA, Viral"
+    },
+    {
+      "QualifierName": [
+        "genetics",
+        "immunology",
+        "isolation & purification"
+      ],
+      "DescriptorName": "SARS-CoV-2"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Sensitivity and Specificity"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "South Africa"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "methods"
+      ],
+      "DescriptorName": "Specimen Handling"
+    },
+    {
+      "QualifierName": [
+        "economics",
+        "methods"
+      ],
+      "DescriptorName": "Sports Medicine"
+    }
+  ],
+  "CoiStatement": "The authors declare no competing interests."
+}

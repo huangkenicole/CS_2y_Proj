@@ -1,0 +1,388 @@
+{
+  "CitationSubset": [
+    "IM"
+  ],
+  "KeywordList": [
+    [
+      "Death",
+      "Electrocardiogram",
+      "Mortality",
+      "Prediction"
+    ]
+  ],
+  "GeneralNote": [],
+  "OtherAbstract": [],
+  "SpaceFlightMission": [],
+  "OtherID": [],
+  "InvestigatorList": [],
+  "PMID": "33568066",
+  "DateCompleted": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "04"
+  },
+  "DateRevised": {
+    "Year": "2021",
+    "Month": "10",
+    "Day": "04"
+  },
+  "Article": {
+    "ArticleDate": [
+      {
+        "Year": "2021",
+        "Month": "02",
+        "Day": "10"
+      }
+    ],
+    "Language": [
+      "eng"
+    ],
+    "ELocationID": [
+      "83",
+      "10.1186/s12872-021-01864-3"
+    ],
+    "Journal": {
+      "ISSN": "1471-2261",
+      "JournalIssue": {
+        "Volume": "21",
+        "Issue": "1",
+        "PubDate": {
+          "Year": "2021",
+          "Month": "Feb",
+          "Day": "10"
+        }
+      },
+      "Title": "BMC cardiovascular disorders",
+      "ISOAbbreviation": "BMC Cardiovasc Disord"
+    },
+    "ArticleTitle": "Relationship between resting 12-lead electrocardiogram and all-cause death in patients without structural heart disease: Shinken Database analysis.",
+    "Pagination": {
+      "StartPage": "83",
+      "MedlinePgn": "83"
+    },
+    "Abstract": {
+      "AbstractText": [
+        "Resting 12-lead electrocardiography is widely used for the detection of cardiac diseases. Electrocardiogram readings have been reported to be affected by aging and, therefore, can predict patient mortality.",
+        "A total of 12,837 patients without structural heart disease who underwent electrocardiography at baseline were identified in the Shinken Database among those registered between 2010 and 2017 (n\u2009=\u200919,170). Using 438 electrocardiography parameters, predictive models for all-cause death and cardiovascular (CV) death were developed by a support vector machine (SVM) algorithm.",
+        "During the observation period of 320.4\u00a0days, 55 all-cause deaths and 23 CV deaths were observed. In the SVM prediction model, the mean c-statistics of 10 cross-validation models with training and testing datasets were 0.881\u2009\u00b1\u20090.027 and 0.927\u2009\u00b1\u20090.101, respectively, for all-cause death and 0.862\u2009\u00b1\u20090.029 and 0.897\u2009\u00b1\u20090.069, respectively for CV death. For both all-cause and CV death, high values of permutation importance in the ECG parameters were concentrated in the QRS complex and ST-T segment.",
+        "Parameters acquired from 12-lead resting electrocardiography could be applied to predict the all-cause and CV deaths of patients without structural heart disease. The ECG parameters that greatly contributed to the prediction were concentrated in the QRS complex and ST-T segment."
+      ]
+    },
+    "AuthorList": [
+      {
+        "Identifier": [
+          "0000-0003-1184-4228"
+        ],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan. n-hirota@cvi.or.jp."
+          }
+        ],
+        "LastName": "Hirota",
+        "ForeName": "Naomi",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Suzuki",
+        "ForeName": "Shinya",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Arita",
+        "ForeName": "Takuto",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Yagi",
+        "ForeName": "Naoharu",
+        "Initials": "N"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Otsuka",
+        "ForeName": "Takayuki",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Kishi",
+        "ForeName": "Mikio",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Semba",
+        "ForeName": "Hiroaki",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Kano",
+        "ForeName": "Hiroto",
+        "Initials": "H"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Matsuno",
+        "ForeName": "Shunsuke",
+        "Initials": "S"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Kato",
+        "ForeName": "Yuko",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Uejima",
+        "ForeName": "Tokuhisa",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Oikawa",
+        "ForeName": "Yuji",
+        "Initials": "Y"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Surgery, The Cardiovascular Institute, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Matsuhama",
+        "ForeName": "Minoru",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Surgery, The Cardiovascular Institute, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Iida",
+        "ForeName": "Mitsuru",
+        "Initials": "M"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Surgery, The Cardiovascular Institute, Tokyo, Japan."
+          }
+        ],
+        "LastName": "Inoue",
+        "ForeName": "Tatsuya",
+        "Initials": "T"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Yajima",
+        "ForeName": "Junji",
+        "Initials": "J"
+      },
+      {
+        "Identifier": [],
+        "AffiliationInfo": [
+          {
+            "Identifier": [],
+            "Affiliation": "Department of Cardiovascular Medicine, The Cardiovascular Institute, 3-2-19 Nishiazabu, Minato-Ku, Tokyo, 106-0031, Japan."
+          }
+        ],
+        "LastName": "Yamashita",
+        "ForeName": "Takeshi",
+        "Initials": "T"
+      }
+    ],
+    "PublicationTypeList": [
+      "Journal Article"
+    ]
+  },
+  "MedlineJournalInfo": {
+    "Country": "England",
+    "MedlineTA": "BMC Cardiovasc Disord",
+    "NlmUniqueID": "100968539",
+    "ISSNLinking": "1471-2261"
+  },
+  "MeshHeadingList": [
+    {
+      "QualifierName": [],
+      "DescriptorName": "Action Potentials"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Adult"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Aged, 80 and over"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Databases, Factual"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Electrocardiography"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Female"
+    },
+    {
+      "QualifierName": [
+        "physiopathology"
+      ],
+      "DescriptorName": "Heart Conduction System"
+    },
+    {
+      "QualifierName": [
+        "diagnosis",
+        "mortality",
+        "physiopathology"
+      ],
+      "DescriptorName": "Heart Diseases"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Heart Rate"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Humans"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Incidence"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Male"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Middle Aged"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Predictive Value of Tests"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Prognosis"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Assessment"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Risk Factors"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Signal Processing, Computer-Assisted"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Support Vector Machine"
+    },
+    {
+      "QualifierName": [],
+      "DescriptorName": "Time Factors"
+    },
+    {
+      "QualifierName": [
+        "epidemiology"
+      ],
+      "DescriptorName": "Tokyo"
+    }
+  ],
+  "CoiStatement": "Dr. Suzuki received research funding from Mitsubishi Tanabe Pharm, and Daiichi Sankyo. Dr. Yamashita has received research funds and/or lecture fees from Daiichi Sankyo, Bayer Yakuhin, Bristol-Myers Squibb, Pfizer, Nippon Boehringer Ingelheim, Eisai, Mitsubishi Tanabe Pharm, Ono Pharmaceutical, and Toa Eiyo."
+}
